@@ -3,108 +3,107 @@
     "tipo": "overview",
     "escopo": "federal/camara",
     "periodo": {
-      "tipo": "mandato",
-      "inicioAno": 2023,
-      "fimAno": 2026,
-      "totalMesesIncluidos": 25
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1
     },
-    "geradoEm": "2026-03-01T09:08:50.066806Z",
+    "geradoEm": "2026-03-01T09:08:49.935214Z",
     "versaoSchema": "1.0.0",
     "versaoCategoryMap": "1.0.0"
   },
   "kpis": {
-    "totalGasto": 453701679.49,
+    "totalGasto": 14332079.15,
     "top1Gasto": {
-      "id": 73486,
-      "nome": "Pompeo de Mattos",
-      "uf": "RS",
-      "partido": "PDT",
-      "valor": 1348699.99
+      "id": 220693,
+      "nome": "Roberta Roma",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 76041.17
     },
     "topCategorias": [
       {
         "categoriaQC": "DIVULGACAO",
-        "valor": 177484193.08
-      },
-      {
-        "categoriaQC": "PASSAGENS",
-        "valor": 82992866.56
+        "valor": 6968994.3
       },
       {
         "categoriaQC": "OUTROS",
-        "valor": 79786842.21
+        "valor": 3166158.98
       },
       {
         "categoriaQC": "ESCRITORIO",
-        "valor": 63070487.98
+        "valor": 2523618.32
       },
       {
         "categoriaQC": "COMBUSTIVEL",
-        "valor": 38432266.75
+        "valor": 1238226.57
       },
       {
         "categoriaQC": "HOSPEDAGEM",
-        "valor": 5892498.46
+        "valor": 170779.25
       },
       {
         "categoriaQC": "CORREIOS_TELEFONIA",
-        "valor": 4668022.45
+        "valor": 131696.53
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 102447.23
       },
       {
         "categoriaQC": "ALIMENTACAO",
-        "valor": 1277302.0
+        "valor": 23157.97
       }
     ],
     "topUFs": [
       {
         "uf": "SP",
-        "valor": 55455024.11
+        "valor": 1829018.8
       },
       {
         "uf": "MG",
-        "valor": 47677428.3
+        "valor": 1478329.39
       },
       {
         "uf": "BA",
-        "valor": 37741496.41
+        "valor": 1171196.79
       },
       {
         "uf": "RJ",
-        "valor": 36633157.27
+        "valor": 1094371.65
       },
       {
         "uf": "RS",
-        "valor": 28995040.38
+        "valor": 876566.04
       },
       {
         "uf": "PR",
-        "valor": 27336636.3
+        "valor": 837589.23
       },
       {
         "uf": "PE",
-        "valor": 25401000.52
+        "valor": 715908.9
       },
       {
         "uf": "CE",
-        "valor": 17641990.74
-      },
-      {
-        "uf": "PA",
-        "valor": 15614625.33
+        "valor": 638967.69
       },
       {
         "uf": "GO",
-        "valor": 14578316.23
+        "valor": 459170.83
       },
       {
-        "uf": "MA",
-        "valor": 13058536.02
+        "uf": "PB",
+        "valor": 438346.93
       },
       {
         "uf": "SC",
-        "valor": 13032250.47
+        "valor": 420196.19
+      },
+      {
+        "uf": "AC",
+        "valor": 352384.93
       }
     ],
-    "agentesConsiderados": 509
+    "agentesConsiderados": 490
   }
 }
