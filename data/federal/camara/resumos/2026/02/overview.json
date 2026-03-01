@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2
+    },
+    "geradoEm": "2026-03-01T10:25:32.000008Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 3425563.35,
+    "top1Gasto": {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 41080.02
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 1472051.73
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 810404.54
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 552469.3
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 415758.51
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 106150.86
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 27065.85
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 26583.73
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 15078.83
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 428517.8
+      },
+      {
+        "uf": "MG",
+        "valor": 312443.79
+      },
+      {
+        "uf": "BA",
+        "valor": 292987.83
+      },
+      {
+        "uf": "PR",
+        "valor": 283060.0
+      },
+      {
+        "uf": "RS",
+        "valor": 249002.83
+      },
+      {
+        "uf": "RJ",
+        "valor": 222505.78
+      },
+      {
+        "uf": "CE",
+        "valor": 186511.95
+      },
+      {
+        "uf": "PE",
+        "valor": 169608.96
+      },
+      {
+        "uf": "PB",
+        "valor": 141988.23
+      },
+      {
+        "uf": "SC",
+        "valor": 121062.87
+      },
+      {
+        "uf": "AC",
+        "valor": 101221.04
+      },
+      {
+        "uf": "MS",
+        "valor": 100473.69
+      }
+    ],
+    "agentesConsiderados": 432
+  }
+}

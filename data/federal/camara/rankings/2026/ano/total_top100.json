@@ -6,10 +6,21 @@
       "tipo": "ano",
       "ano": 2026,
       "mesesIncluidos": [
-        1
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
       ]
     },
-    "geradoEm": "2026-03-01T09:08:49.942451Z",
+    "geradoEm": "2026-03-01T11:13:37.595876Z",
     "versaoSchema": "1.0.0",
     "versaoCategoryMap": "1.0.0",
     "criterio": {
@@ -18,12 +29,76 @@
   },
   "itens": [
     {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 83830.02,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 230768,
+      "nome": "Zé Adriano",
+      "uf": "AC",
+      "partido": "PP",
+      "valor": 83804.04,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 209189,
+      "nome": "Joseildo Ramos",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 80930.92,
+      "qtdLancamentos": 40
+    },
+    {
+      "id": 74454,
+      "nome": "Eunício Oliveira",
+      "uf": "CE",
+      "partido": "MDB",
+      "valor": 80500.0,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 74090,
+      "nome": "Átila Lins",
+      "uf": "AM",
+      "partido": "PSD",
+      "valor": 78541.76,
+      "qtdLancamentos": 9
+    },
+    {
       "id": 220693,
       "nome": "Roberta Roma",
       "uf": "BA",
       "partido": "PL",
-      "valor": 76041.17,
-      "qtdLancamentos": 32
+      "valor": 77941.88,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 204512,
+      "nome": "Delegado Marcelo Freitas",
+      "uf": "MG",
+      "partido": "UNIÃO",
+      "valor": 77874.73,
+      "qtdLancamentos": 47
+    },
+    {
+      "id": 220665,
+      "nome": "Clarissa Tércio",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 77460.35,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 205865,
+      "nome": "Reinhold Stephanes",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 76570.49,
+      "qtdLancamentos": 34
     },
     {
       "id": 74356,
@@ -34,20 +109,68 @@
       "qtdLancamentos": 3
     },
     {
-      "id": 230768,
-      "nome": "Zé Adriano",
-      "uf": "AC",
-      "partido": "PP",
-      "valor": 72502.61,
-      "qtdLancamentos": 14
+      "id": 220599,
+      "nome": "Marcelo Crivella",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 75136.06,
+      "qtdLancamentos": 44
     },
     {
-      "id": 74090,
-      "nome": "Átila Lins",
-      "uf": "AM",
+      "id": 220592,
+      "nome": "Zezinho Barbary",
+      "uf": "AC",
+      "partido": "PP",
+      "valor": 74718.87,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 220624,
+      "nome": "Robinson Faria",
+      "uf": "RN",
+      "partido": "PP",
+      "valor": 74304.16,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 143632,
+      "nome": "Domingos Neto",
+      "uf": "CE",
       "partido": "PSD",
-      "valor": 72341.76,
+      "valor": 74224.04,
       "qtdLancamentos": 7
+    },
+    {
+      "id": 233594,
+      "nome": "Rafael Fera",
+      "uf": "RO",
+      "partido": "PODE",
+      "valor": 73936.02,
+      "qtdLancamentos": 64
+    },
+    {
+      "id": 220585,
+      "nome": "Mersinho Lucena",
+      "uf": "PB",
+      "partido": "PP",
+      "valor": 73863.99,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 71761.27,
+      "qtdLancamentos": 47
+    },
+    {
+      "id": 220573,
+      "nome": "Dorinaldo Malafaia",
+      "uf": "AP",
+      "partido": "PDT",
+      "valor": 70479.26,
+      "qtdLancamentos": 8
     },
     {
       "id": 220590,
@@ -58,19 +181,35 @@
       "qtdLancamentos": 9
     },
     {
-      "id": 220551,
-      "nome": "Franciane Bayer",
-      "uf": "RS",
-      "partido": "REPUBLICANOS",
-      "valor": 68111.65,
-      "qtdLancamentos": 30
+      "id": 178866,
+      "nome": "Luizianne Lins",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 69207.24,
+      "qtdLancamentos": 21
     },
     {
-      "id": 220624,
-      "nome": "Robinson Faria",
-      "uf": "RN",
+      "id": 141411,
+      "nome": "Dagoberto Nogueira",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 68668.11,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 138286,
+      "nome": "Luciano Alves",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 68399.31,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 220642,
+      "nome": "Delegado Bruno Lima",
+      "uf": "SP",
       "partido": "PP",
-      "valor": 67746.59,
+      "valor": 68249.45,
       "qtdLancamentos": 16
     },
     {
@@ -78,120 +217,480 @@
       "nome": "Saulo Pedroso",
       "uf": "SP",
       "partido": "PSD",
-      "valor": 66968.88,
-      "qtdLancamentos": 22
-    },
-    {
-      "id": 204410,
-      "nome": "Luisa Canziani",
-      "uf": "PR",
-      "partido": "PSD",
-      "valor": 66732.74,
-      "qtdLancamentos": 14
-    },
-    {
-      "id": 209189,
-      "nome": "Joseildo Ramos",
-      "uf": "BA",
-      "partido": "PT",
-      "valor": 63314.07,
-      "qtdLancamentos": 28
-    },
-    {
-      "id": 204512,
-      "nome": "Delegado Marcelo Freitas",
-      "uf": "MG",
-      "partido": "UNIÃO",
-      "valor": 61933.53,
-      "qtdLancamentos": 30
-    },
-    {
-      "id": 220609,
-      "nome": "Maurício Carvalho",
-      "uf": "RO",
-      "partido": "UNIÃO",
-      "valor": 60233.41,
-      "qtdLancamentos": 20
-    },
-    {
-      "id": 81055,
-      "nome": "Márcio Jerry",
-      "uf": "MA",
-      "partido": "PCdoB",
-      "valor": 59287.19,
-      "qtdLancamentos": 24
+      "valor": 68219.75,
+      "qtdLancamentos": 29
     },
     {
       "id": 178871,
       "nome": "Evair Vieira de Melo",
       "uf": "ES",
       "partido": "PP",
-      "valor": 56227.88,
-      "qtdLancamentos": 22
+      "valor": 67012.98,
+      "qtdLancamentos": 42
     },
     {
-      "id": 160610,
-      "nome": "Valmir Assunção",
-      "uf": "BA",
-      "partido": "PT",
-      "valor": 54893.07,
-      "qtdLancamentos": 13
+      "id": 204410,
+      "nome": "Luisa Canziani",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 67003.99,
+      "qtdLancamentos": 15
     },
     {
-      "id": 178866,
-      "nome": "Luizianne Lins",
+      "id": 220658,
+      "nome": "Luiz Gastão",
       "uf": "CE",
-      "partido": "PT",
-      "valor": 54573.24,
-      "qtdLancamentos": 19
+      "partido": "PSD",
+      "valor": 66119.06,
+      "qtdLancamentos": 15
     },
     {
-      "id": 178989,
-      "nome": "Renata Abreu",
+      "id": 160632,
+      "nome": "Zé Silva",
+      "uf": "MG",
+      "partido": "SOLIDARIEDADE",
+      "valor": 66086.31,
+      "qtdLancamentos": 76
+    },
+    {
+      "id": 66828,
+      "nome": "Fausto Pinato",
       "uf": "SP",
-      "partido": "PODE",
-      "valor": 54031.42,
-      "qtdLancamentos": 10
+      "partido": "PP",
+      "valor": 65776.82,
+      "qtdLancamentos": 36
     },
     {
-      "id": 74044,
-      "nome": "Wilson Santiago",
-      "uf": "PB",
-      "partido": "REPUBLICANOS",
-      "valor": 53891.12,
-      "qtdLancamentos": 21
+      "id": 81055,
+      "nome": "Márcio Jerry",
+      "uf": "MA",
+      "partido": "PCdoB",
+      "valor": 65604.4,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 191923,
+      "nome": "Flávio Nogueira",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 65577.83,
+      "qtdLancamentos": 16
     },
     {
       "id": 204426,
       "nome": "Carlos Veras",
       "uf": "PE",
       "partido": "PT",
-      "valor": 53783.65,
-      "qtdLancamentos": 70
+      "valor": 64643.22,
+      "qtdLancamentos": 111
     },
     {
-      "id": 204526,
-      "nome": "Luiz Philippe de Orleans e Bragança",
-      "uf": "SP",
-      "partido": "PL",
-      "valor": 53397.6,
-      "qtdLancamentos": 22
+      "id": 220699,
+      "nome": "Castro Neto",
+      "uf": "PI",
+      "partido": "PSD",
+      "valor": 63948.09,
+      "qtdLancamentos": 29
     },
     {
-      "id": 220642,
-      "nome": "Delegado Bruno Lima",
-      "uf": "SP",
+      "id": 92102,
+      "nome": "Leur Lomanto Júnior",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 63909.32,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 220669,
+      "nome": "Lula da Fonte",
+      "uf": "PE",
       "partido": "PP",
-      "valor": 53343.21,
-      "qtdLancamentos": 8
+      "valor": 63706.34,
+      "qtdLancamentos": 59
+    },
+    {
+      "id": 220609,
+      "nome": "Maurício Carvalho",
+      "uf": "RO",
+      "partido": "UNIÃO",
+      "valor": 63598.55,
+      "qtdLancamentos": 32
+    },
+    {
+      "id": 141408,
+      "nome": "Cleber Verde",
+      "uf": "MA",
+      "partido": "MDB",
+      "valor": 62471.2,
+      "qtdLancamentos": 10
     },
     {
       "id": 220676,
       "nome": "Andreia Siqueira",
       "uf": "PA",
       "partido": "MDB",
-      "valor": 53000.35,
-      "qtdLancamentos": 3
+      "valor": 61750.1,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 178966,
+      "nome": "Geovania de Sá",
+      "uf": "SC",
+      "partido": "PSDB",
+      "valor": 61576.92,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 220544,
+      "nome": "Antonio Andrade",
+      "uf": "TO",
+      "partido": "REPUBLICANOS",
+      "valor": 61480.56,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 74171,
+      "nome": "Chico Alencar",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 61397.24,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 160674,
+      "nome": "Hugo Motta",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 60633.0,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 60179.5,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 188097,
+      "nome": "Merlong Solano",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 59669.47,
+      "qtdLancamentos": 61
+    },
+    {
+      "id": 204486,
+      "nome": "Mauro Benevides Filho",
+      "uf": "CE",
+      "partido": "PDT",
+      "valor": 59457.95,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 74044,
+      "nome": "Wilson Santiago",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 59455.16,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 59406.43,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 69871,
+      "nome": "Bacelar",
+      "uf": "BA",
+      "partido": "PV",
+      "valor": 59231.64,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 59103.95,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 220533,
+      "nome": "Prof. Reginaldo Veras",
+      "uf": "DF",
+      "partido": "PV",
+      "valor": 58612.65,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 204534,
+      "nome": "Tabata Amaral",
+      "uf": "SP",
+      "partido": "PSB",
+      "valor": 58084.71,
+      "qtdLancamentos": 37
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 57948.2,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 204388,
+      "nome": "Bibo Nunes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 57756.76,
+      "qtdLancamentos": 79
+    },
+    {
+      "id": 231911,
+      "nome": "Lenir de Assis",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 57442.81,
+      "qtdLancamentos": 70
+    },
+    {
+      "id": 73768,
+      "nome": "Dilceu Sperafico",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 57353.26,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 220584,
+      "nome": "Murilo Galdino",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 57051.32,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 204557,
+      "nome": "Sidney Leite",
+      "uf": "AM",
+      "partido": "PSD",
+      "valor": 57000.0,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 178989,
+      "nome": "Renata Abreu",
+      "uf": "SP",
+      "partido": "PODE",
+      "valor": 56948.83,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 160556,
+      "nome": "Padre João",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 56843.5,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 220708,
+      "nome": "Gabriel Nunes",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 56771.3,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 204526,
+      "nome": "Luiz Philippe de Orleans e Bragança",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 56704.85,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 204488,
+      "nome": "Célio Studart",
+      "uf": "CE",
+      "partido": "PSD",
+      "valor": 56290.9,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 80815,
+      "nome": "Leo Prates",
+      "uf": "BA",
+      "partido": "PDT",
+      "valor": 56136.12,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 74376,
+      "nome": "Vander Loubet",
+      "uf": "MS",
+      "partido": "PT",
+      "valor": 55847.9,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 204406,
+      "nome": "Pedro Westphalen",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 55765.85,
+      "qtdLancamentos": 93
+    },
+    {
+      "id": 160610,
+      "nome": "Valmir Assunção",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 55738.99,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 204356,
+      "nome": "Amaro Neto",
+      "uf": "ES",
+      "partido": "REPUBLICANOS",
+      "valor": 55510.89,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 220576,
+      "nome": "Alfredo Gaspar",
+      "uf": "AL",
+      "partido": "UNIÃO",
+      "valor": 55482.14,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 121948,
+      "nome": "Adriano do Baldy",
+      "uf": "GO",
+      "partido": "PP",
+      "valor": 54772.0,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 160635,
+      "nome": "Ruy Carneiro",
+      "uf": "PB",
+      "partido": "PODE",
+      "valor": 53846.07,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 204494,
+      "nome": "Fred Costa",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 53827.34,
+      "qtdLancamentos": 61
+    },
+    {
+      "id": 220557,
+      "nome": "Daniela Reinehr",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 53484.41,
+      "qtdLancamentos": 57
+    },
+    {
+      "id": 178831,
+      "nome": "André Abdon",
+      "uf": "AP",
+      "partido": "PP",
+      "valor": 53218.03,
+      "qtdLancamentos": 40
+    },
+    {
+      "id": 220704,
+      "nome": "Carol Dartora",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 53097.97,
+      "qtdLancamentos": 51
+    },
+    {
+      "id": 74856,
+      "nome": "Laura Carneiro",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 53017.32,
+      "qtdLancamentos": 55
+    },
+    {
+      "id": 220620,
+      "nome": "Rosângela Reis",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 53014.84,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 220578,
+      "nome": "Josenildo",
+      "uf": "AP",
+      "partido": "PDT",
+      "valor": 52939.9,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 141459,
+      "nome": "João Maia",
+      "uf": "RN",
+      "partido": "PP",
+      "valor": 52693.15,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 74784,
+      "nome": "Luiza Erundina",
+      "uf": "SP",
+      "partido": "PSOL",
+      "valor": 52149.43,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 220558,
+      "nome": "Zé Trovão",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 52079.79,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 220701,
+      "nome": "Delegado Matheus Laiola",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 51643.38,
+      "qtdLancamentos": 32
+    },
+    {
+      "id": 221328,
+      "nome": "Adilson Barroso",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 51625.83,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 74159,
+      "nome": "Odair Cunha",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 51553.73,
+      "qtdLancamentos": 101
     },
     {
       "id": 224117,
@@ -202,12 +701,36 @@
       "qtdLancamentos": 3
     },
     {
-      "id": 160556,
-      "nome": "Padre João",
-      "uf": "MG",
-      "partido": "PT",
-      "valor": 51322.71,
-      "qtdLancamentos": 19
+      "id": 178963,
+      "nome": "Covatti Filho",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 51358.04,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 98148,
+      "nome": "Cobalchini",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 50805.27,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 74374,
+      "nome": "Geraldo Resende",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 50772.8,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 220603,
+      "nome": "Dani Cunha",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 50745.24,
+      "qtdLancamentos": 90
     },
     {
       "id": 178895,
@@ -218,20 +741,20 @@
       "qtdLancamentos": 8
     },
     {
-      "id": 143632,
-      "nome": "Domingos Neto",
-      "uf": "CE",
+      "id": 220570,
+      "nome": "Dr. Ismael Alexandrino",
+      "uf": "GO",
       "partido": "PSD",
-      "valor": 50224.04,
-      "qtdLancamentos": 5
+      "valor": 50271.01,
+      "qtdLancamentos": 12
     },
     {
-      "id": 69871,
-      "nome": "Bacelar",
+      "id": 160600,
+      "nome": "Arthur Oliveira Maia",
       "uf": "BA",
-      "partido": "PV",
-      "valor": 50139.61,
-      "qtdLancamentos": 14
+      "partido": "UNIÃO",
+      "valor": 50029.38,
+      "qtdLancamentos": 40
     },
     {
       "id": 204498,
@@ -242,580 +765,68 @@
       "qtdLancamentos": 2
     },
     {
-      "id": 204557,
-      "nome": "Sidney Leite",
-      "uf": "AM",
-      "partido": "PSD",
-      "valor": 50000.0,
-      "qtdLancamentos": 3
-    },
-    {
-      "id": 231911,
-      "nome": "Lenir de Assis",
-      "uf": "PR",
-      "partido": "PT",
-      "valor": 49657.2,
-      "qtdLancamentos": 33
-    },
-    {
-      "id": 220578,
-      "nome": "Josenildo",
-      "uf": "AP",
-      "partido": "PDT",
-      "valor": 49597.37,
-      "qtdLancamentos": 17
-    },
-    {
-      "id": 220585,
-      "nome": "Mersinho Lucena",
-      "uf": "PB",
-      "partido": "PP",
-      "valor": 48863.99,
-      "qtdLancamentos": 15
-    },
-    {
-      "id": 220570,
-      "nome": "Dr. Ismael Alexandrino",
-      "uf": "GO",
-      "partido": "PSD",
-      "valor": 48831.01,
-      "qtdLancamentos": 11
-    },
-    {
-      "id": 74158,
-      "nome": "Mário Heringer",
-      "uf": "MG",
-      "partido": "PDT",
-      "valor": 48654.46,
-      "qtdLancamentos": 5
-    },
-    {
-      "id": 220662,
-      "nome": "Lucas Ramos",
-      "uf": "PE",
-      "partido": "PSB",
-      "valor": 48394.9,
-      "qtdLancamentos": 8
-    },
-    {
-      "id": 233594,
-      "nome": "Rafael Fera",
-      "uf": "RO",
-      "partido": "PODE",
-      "valor": 48287.39,
-      "qtdLancamentos": 36
-    },
-    {
-      "id": 178831,
-      "nome": "André Abdon",
-      "uf": "AP",
-      "partido": "PP",
-      "valor": 48153.87,
-      "qtdLancamentos": 23
-    },
-    {
-      "id": 220708,
-      "nome": "Gabriel Nunes",
-      "uf": "BA",
-      "partido": "PSD",
-      "valor": 46342.27,
-      "qtdLancamentos": 27
-    },
-    {
-      "id": 204570,
-      "nome": "Pastor Gil",
-      "uf": "MA",
+      "id": 204362,
+      "nome": "Ricardo Guidi",
+      "uf": "SC",
       "partido": "PL",
-      "valor": 46245.56,
-      "qtdLancamentos": 21
+      "valor": 49914.81,
+      "qtdLancamentos": 64
     },
     {
-      "id": 74856,
-      "nome": "Laura Carneiro",
-      "uf": "RJ",
-      "partido": "PSD",
-      "valor": 45908.68,
-      "qtdLancamentos": 26
-    },
-    {
-      "id": 191923,
-      "nome": "Flávio Nogueira",
-      "uf": "PI",
-      "partido": "PT",
-      "valor": 45660.72,
-      "qtdLancamentos": 7
+      "id": 139285,
+      "nome": "Lídice da Mata",
+      "uf": "BA",
+      "partido": "PSB",
+      "valor": 49911.44,
+      "qtdLancamentos": 104
     },
     {
       "id": 220538,
       "nome": "Albuquerque",
       "uf": "RR",
       "partido": "REPUBLICANOS",
-      "valor": 45500.0,
-      "qtdLancamentos": 4
+      "valor": 49895.23,
+      "qtdLancamentos": 14
     },
     {
-      "id": 220592,
-      "nome": "Zezinho Barbary",
-      "uf": "AC",
-      "partido": "PP",
-      "valor": 45467.43,
-      "qtdLancamentos": 12
-    },
-    {
-      "id": 204488,
-      "nome": "Célio Studart",
-      "uf": "CE",
-      "partido": "PSD",
-      "valor": 45270.0,
+      "id": 220703,
+      "nome": "Neto Carletto",
+      "uf": "BA",
+      "partido": "AVANTE",
+      "valor": 49245.25,
       "qtdLancamentos": 8
     },
     {
-      "id": 188097,
-      "nome": "Merlong Solano",
-      "uf": "PI",
-      "partido": "PT",
-      "valor": 45262.54,
-      "qtdLancamentos": 34
-    },
-    {
-      "id": 220599,
-      "nome": "Marcelo Crivella",
-      "uf": "RJ",
-      "partido": "REPUBLICANOS",
-      "valor": 45209.51,
-      "qtdLancamentos": 37
-    },
-    {
-      "id": 204362,
-      "nome": "Ricardo Guidi",
-      "uf": "SC",
-      "partido": "PL",
-      "valor": 45205.0,
-      "qtdLancamentos": 44
-    },
-    {
-      "id": 220699,
-      "nome": "Castro Neto",
-      "uf": "PI",
-      "partido": "PSD",
-      "valor": 44725.0,
-      "qtdLancamentos": 16
-    },
-    {
-      "id": 178985,
-      "nome": "Miguel Lombardi",
-      "uf": "SP",
-      "partido": "PL",
-      "valor": 44540.77,
-      "qtdLancamentos": 35
-    },
-    {
-      "id": 204486,
-      "nome": "Mauro Benevides Filho",
-      "uf": "CE",
-      "partido": "PDT",
-      "valor": 44526.09,
-      "qtdLancamentos": 12
-    },
-    {
-      "id": 74374,
-      "nome": "Geraldo Resende",
-      "uf": "MS",
-      "partido": "PSDB",
-      "valor": 44328.72,
-      "qtdLancamentos": 11
-    },
-    {
-      "id": 204431,
-      "nome": "Marcos Aurélio Sampaio",
-      "uf": "PI",
-      "partido": "PSD",
-      "valor": 44200.0,
-      "qtdLancamentos": 4
-    },
-    {
-      "id": 220665,
-      "nome": "Clarissa Tércio",
-      "uf": "PE",
-      "partido": "PP",
-      "valor": 44131.95,
-      "qtdLancamentos": 19
-    },
-    {
-      "id": 220542,
-      "nome": "Alexandre Guimarães",
-      "uf": "TO",
-      "partido": "MDB",
-      "valor": 44125.98,
-      "qtdLancamentos": 42
-    },
-    {
-      "id": 160629,
-      "nome": "Romero Rodrigues",
+      "id": 74041,
+      "nome": "Luiz Couto",
       "uf": "PB",
-      "partido": "PODE",
-      "valor": 44061.67,
-      "qtdLancamentos": 9
-    },
-    {
-      "id": 220654,
-      "nome": "Delegado Paulo Bilynskyj",
-      "uf": "SP",
-      "partido": "PL",
-      "valor": 43983.45,
-      "qtdLancamentos": 23
-    },
-    {
-      "id": 220584,
-      "nome": "Murilo Galdino",
-      "uf": "PB",
-      "partido": "REPUBLICANOS",
-      "valor": 43944.74,
-      "qtdLancamentos": 14
-    },
-    {
-      "id": 205865,
-      "nome": "Reinhold Stephanes",
-      "uf": "PR",
-      "partido": "PSD",
-      "valor": 43797.27,
-      "qtdLancamentos": 14
-    },
-    {
-      "id": 141411,
-      "nome": "Dagoberto Nogueira",
-      "uf": "MS",
-      "partido": "PSDB",
-      "valor": 43559.34,
-      "qtdLancamentos": 11
-    },
-    {
-      "id": 92699,
-      "nome": "Fernando Monteiro",
-      "uf": "PE",
-      "partido": "PSD",
-      "valor": 43197.71,
-      "qtdLancamentos": 14
-    },
-    {
-      "id": 204356,
-      "nome": "Amaro Neto",
-      "uf": "ES",
-      "partido": "REPUBLICANOS",
-      "valor": 43158.64,
-      "qtdLancamentos": 16
-    },
-    {
-      "id": 210989,
-      "nome": "Bruno Farias",
-      "uf": "MG",
-      "partido": "AVANTE",
-      "valor": 42958.89,
-      "qtdLancamentos": 30
-    },
-    {
-      "id": 141464,
-      "nome": "José Airton Félix Cirilo",
-      "uf": "CE",
       "partido": "PT",
-      "valor": 42892.0,
-      "qtdLancamentos": 6
-    },
-    {
-      "id": 178963,
-      "nome": "Covatti Filho",
-      "uf": "RS",
-      "partido": "PP",
-      "valor": 42890.99,
-      "qtdLancamentos": 13
-    },
-    {
-      "id": 123756,
-      "nome": "Antônia Lúcia",
-      "uf": "AC",
-      "partido": "REPUBLICANOS",
-      "valor": 42750.0,
-      "qtdLancamentos": 5
-    },
-    {
-      "id": 220612,
-      "nome": "Bebeto",
-      "uf": "RJ",
-      "partido": "PP",
-      "valor": 42641.12,
-      "qtdLancamentos": 20
-    },
-    {
-      "id": 226179,
-      "nome": "Gisela Simona",
-      "uf": "MT",
-      "partido": "UNIÃO",
-      "valor": 42384.47,
-      "qtdLancamentos": 50
-    },
-    {
-      "id": 221328,
-      "nome": "Adilson Barroso",
-      "uf": "SP",
-      "partido": "PL",
-      "valor": 42284.95,
-      "qtdLancamentos": 12
-    },
-    {
-      "id": 160641,
-      "nome": "Professora Marcivania",
-      "uf": "AP",
-      "partido": "PCdoB",
-      "valor": 42254.99,
-      "qtdLancamentos": 3
-    },
-    {
-      "id": 220588,
-      "nome": "Roberto Duarte",
-      "uf": "AC",
-      "partido": "REPUBLICANOS",
-      "valor": 42094.11,
-      "qtdLancamentos": 34
-    },
-    {
-      "id": 220669,
-      "nome": "Lula da Fonte",
-      "uf": "PE",
-      "partido": "PP",
-      "valor": 41984.04,
-      "qtdLancamentos": 45
-    },
-    {
-      "id": 122158,
-      "nome": "Pedro Paulo",
-      "uf": "RJ",
-      "partido": "PSD",
-      "valor": 41668.8,
-      "qtdLancamentos": 3
-    },
-    {
-      "id": 220557,
-      "nome": "Daniela Reinehr",
-      "uf": "SC",
-      "partido": "PL",
-      "valor": 41487.17,
-      "qtdLancamentos": 30
-    },
-    {
-      "id": 220621,
-      "nome": "Sargento Gonçalves",
-      "uf": "RN",
-      "partido": "PL",
-      "valor": 41441.47,
-      "qtdLancamentos": 16
-    },
-    {
-      "id": 204559,
-      "nome": "Zé Neto",
-      "uf": "BA",
-      "partido": "PT",
-      "valor": 41277.42,
-      "qtdLancamentos": 16
-    },
-    {
-      "id": 178954,
-      "nome": "Lucio Mosquini",
-      "uf": "RO",
-      "partido": "MDB",
-      "valor": 41272.52,
-      "qtdLancamentos": 18
-    },
-    {
-      "id": 220610,
-      "nome": "Dr. Fernando Máximo",
-      "uf": "RO",
-      "partido": "UNIÃO",
-      "valor": 41226.09,
-      "qtdLancamentos": 12
-    },
-    {
-      "id": 160600,
-      "nome": "Arthur Oliveira Maia",
-      "uf": "BA",
-      "partido": "UNIÃO",
-      "valor": 41188.42,
-      "qtdLancamentos": 27
-    },
-    {
-      "id": 74159,
-      "nome": "Odair Cunha",
-      "uf": "MG",
-      "partido": "PT",
-      "valor": 40898.5,
-      "qtdLancamentos": 57
-    },
-    {
-      "id": 220567,
-      "nome": "Jeferson Rodrigues",
-      "uf": "GO",
-      "partido": "REPUBLICANOS",
-      "valor": 40879.81,
-      "qtdLancamentos": 6
-    },
-    {
-      "id": 73692,
-      "nome": "Osmar Terra",
-      "uf": "RS",
-      "partido": "PL",
-      "valor": 40848.0,
+      "valor": 49177.29,
       "qtdLancamentos": 41
     },
     {
-      "id": 160517,
-      "nome": "Paulo Folletto",
-      "uf": "ES",
-      "partido": "PSB",
-      "valor": 40796.47,
-      "qtdLancamentos": 13
-    },
-    {
-      "id": 220536,
-      "nome": "Zé Haroldo Cathedral",
-      "uf": "RR",
-      "partido": "PSD",
-      "valor": 40504.62,
-      "qtdLancamentos": 11
-    },
-    {
-      "id": 74454,
-      "nome": "Eunício Oliveira",
-      "uf": "CE",
-      "partido": "MDB",
-      "valor": 40500.0,
-      "qtdLancamentos": 2
-    },
-    {
-      "id": 220564,
-      "nome": "Yandra Moura",
-      "uf": "SE",
-      "partido": "UNIÃO",
-      "valor": 40300.0,
-      "qtdLancamentos": 4
-    },
-    {
-      "id": 66828,
-      "nome": "Fausto Pinato",
-      "uf": "SP",
-      "partido": "PP",
-      "valor": 40081.24,
-      "qtdLancamentos": 21
-    },
-    {
-      "id": 160635,
-      "nome": "Ruy Carneiro",
-      "uf": "PB",
-      "partido": "PODE",
-      "valor": 40063.13,
-      "qtdLancamentos": 17
-    },
-    {
-      "id": 220556,
-      "nome": "Ana Paula Lima",
-      "uf": "SC",
-      "partido": "PT",
-      "valor": 40042.09,
-      "qtdLancamentos": 33
-    },
-    {
-      "id": 204567,
-      "nome": "Raimundo Costa",
-      "uf": "BA",
-      "partido": "PODE",
-      "valor": 39910.46,
-      "qtdLancamentos": 32
-    },
-    {
-      "id": 204409,
-      "nome": "Daniel Trzeciak",
-      "uf": "RS",
-      "partido": "PSDB",
-      "valor": 39899.37,
-      "qtdLancamentos": 55
-    },
-    {
-      "id": 226708,
-      "nome": "Allan Garcês",
-      "uf": "MA",
-      "partido": "PP",
-      "valor": 39844.21,
-      "qtdLancamentos": 26
-    },
-    {
-      "id": 73778,
-      "nome": "Luiz Carlos Hauly",
-      "uf": "PR",
-      "partido": "PODE",
-      "valor": 39790.34,
-      "qtdLancamentos": 18
-    },
-    {
-      "id": 178970,
-      "nome": "João Daniel",
-      "uf": "SE",
-      "partido": "PT",
-      "valor": 39745.48,
-      "qtdLancamentos": 26
-    },
-    {
-      "id": 204406,
-      "nome": "Pedro Westphalen",
-      "uf": "RS",
-      "partido": "PP",
-      "valor": 39599.13,
-      "qtdLancamentos": 59
-    },
-    {
-      "id": 204423,
-      "nome": "André Ferreira",
-      "uf": "PE",
+      "id": 204364,
+      "nome": "Eli Borges",
+      "uf": "TO",
       "partido": "PL",
-      "valor": 39529.8,
-      "qtdLancamentos": 31
+      "valor": 49051.64,
+      "qtdLancamentos": 71
     },
     {
-      "id": 220658,
-      "nome": "Luiz Gastão",
-      "uf": "CE",
-      "partido": "PSD",
-      "valor": 39497.26,
-      "qtdLancamentos": 12
-    },
-    {
-      "id": 162067,
-      "nome": "Kiko Celeguim",
-      "uf": "SP",
-      "partido": "PT",
-      "valor": 39210.15,
-      "qtdLancamentos": 12
-    },
-    {
-      "id": 204396,
-      "nome": "Vermelho",
-      "uf": "PR",
-      "partido": "PP",
-      "valor": 38846.26,
-      "qtdLancamentos": 9
-    },
-    {
-      "id": 92776,
-      "nome": "Stefano Aguiar",
-      "uf": "MG",
-      "partido": "PSD",
-      "valor": 38714.24,
-      "qtdLancamentos": 19
-    },
-    {
-      "id": 74065,
-      "nome": "Fatima Pelaes",
+      "id": 160591,
+      "nome": "Vinicius Gurgel",
       "uf": "AP",
-      "partido": "REPUBLICANOS",
-      "valor": 38700.0,
-      "qtdLancamentos": 2
+      "partido": "PL",
+      "valor": 48890.0,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 160527,
+      "nome": "Aguinaldo Ribeiro",
+      "uf": "PB",
+      "partido": "PP",
+      "valor": 48853.48,
+      "qtdLancamentos": 17
     }
   ]
 }
