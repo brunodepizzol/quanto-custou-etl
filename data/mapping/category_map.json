@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "rules": [
+    {
+      "match": "PASSAGEM|A[EÉ]RE|TRANSPORTE",
+      "category": "PASSAGENS"
+    },
+    {
+      "match": "COMBUST|POSTO|LUBRIFIC",
+      "category": "COMBUSTIVEL"
+    },
+    {
+      "match": "DIVULG|PUBLIC|PROPAG|MARKETING",
+      "category": "DIVULGACAO"
+    },
+    {
+      "match": "ESCRIT|ALUGUEL|MANUTEN|SERVI[CÇ]O|ENERGIA|AGUA|CONDOM",
+      "category": "ESCRITORIO"
+    },
+    {
+      "match": "HOSPED|HOTEL",
+      "category": "HOSPEDAGEM"
+    },
+    {
+      "match": "ALIMENT|REFEI",
+      "category": "ALIMENTACAO"
+    },
+    {
+      "match": "CORREIOS|TELEFON|INTERNET",
+      "category": "CORREIOS_TELEFONIA"
+    },
+    {
+      "match": "CONSULT|ASSESS|SERVI[CÇ]OS",
+      "category": "CONSULTORIA_SERVICOS"
+    }
+  ],
+  "default": "OUTROS"
+}
