@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 3
+    },
+    "geradoEm": "2026-03-01T02:49:16.661619Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 19128096.56,
+    "top1Gasto": {
+      "id": 74090,
+      "nome": "Átila Lins",
+      "uf": "AM",
+      "partido": "PSD",
+      "valor": 106942.06
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 6750424.51
+      },
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 4961951.07
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 2935009.01
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2387057.72
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1587008.28
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 215177.83
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 210101.01
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 81367.13
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2355744.45
+      },
+      {
+        "uf": "MG",
+        "valor": 1992076.46
+      },
+      {
+        "uf": "BA",
+        "valor": 1813406.44
+      },
+      {
+        "uf": "RJ",
+        "valor": 1629560.76
+      },
+      {
+        "uf": "RS",
+        "valor": 1292181.23
+      },
+      {
+        "uf": "PR",
+        "valor": 1027923.4
+      },
+      {
+        "uf": "PE",
+        "valor": 990562.22
+      },
+      {
+        "uf": "CE",
+        "valor": 753344.4
+      },
+      {
+        "uf": "SC",
+        "valor": 600394.92
+      },
+      {
+        "uf": "PA",
+        "valor": 597835.64
+      },
+      {
+        "uf": "PB",
+        "valor": 596686.25
+      },
+      {
+        "uf": "PI",
+        "valor": 526547.28
+      }
+    ],
+    "agentesConsiderados": 462
+  }
+}

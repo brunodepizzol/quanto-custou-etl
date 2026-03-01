@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 5
+    },
+    "geradoEm": "2026-03-01T02:59:04.750395Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 18777294.9,
+    "top1Gasto": {
+      "id": 220700,
+      "nome": "Florentino Neto",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 116087.39
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 6592058.72
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 4146208.24
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3337154.26
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2539127.78
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1632147.19
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 228925.45
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 220798.41
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 80874.85
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2241081.6
+      },
+      {
+        "uf": "MG",
+        "valor": 1880806.76
+      },
+      {
+        "uf": "BA",
+        "valor": 1584843.24
+      },
+      {
+        "uf": "RJ",
+        "valor": 1504924.26
+      },
+      {
+        "uf": "RS",
+        "valor": 1196516.21
+      },
+      {
+        "uf": "PR",
+        "valor": 1079468.75
+      },
+      {
+        "uf": "PE",
+        "valor": 973664.35
+      },
+      {
+        "uf": "PA",
+        "valor": 817141.57
+      },
+      {
+        "uf": "CE",
+        "valor": 727938.65
+      },
+      {
+        "uf": "PI",
+        "valor": 597455.36
+      },
+      {
+        "uf": "GO",
+        "valor": 566201.03
+      },
+      {
+        "uf": "SC",
+        "valor": 552674.34
+      }
+    ],
+    "agentesConsiderados": 463
+  }
+}
