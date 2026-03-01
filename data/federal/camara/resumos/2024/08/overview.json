@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 8
+    },
+    "geradoEm": "2026-03-01T02:09:45.879371Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 16796557.57,
+    "top1Gasto": {
+      "id": 141458,
+      "nome": "João Carlos Bacelar",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 119925.84
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 5849293.17
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3516919.26
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2625273.0
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 2485970.38
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1829228.68
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 297327.11
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 147420.06
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 45125.91
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2109107.84
+      },
+      {
+        "uf": "MG",
+        "valor": 1825741.81
+      },
+      {
+        "uf": "BA",
+        "valor": 1454894.85
+      },
+      {
+        "uf": "RJ",
+        "valor": 1327956.07
+      },
+      {
+        "uf": "RS",
+        "valor": 1148612.87
+      },
+      {
+        "uf": "PE",
+        "valor": 998872.34
+      },
+      {
+        "uf": "PR",
+        "valor": 983325.57
+      },
+      {
+        "uf": "CE",
+        "valor": 736437.83
+      },
+      {
+        "uf": "GO",
+        "valor": 599689.81
+      },
+      {
+        "uf": "PA",
+        "valor": 592616.97
+      },
+      {
+        "uf": "PI",
+        "valor": 453795.64
+      },
+      {
+        "uf": "RR",
+        "valor": 420330.27
+      }
+    ],
+    "agentesConsiderados": 461
+  }
+}

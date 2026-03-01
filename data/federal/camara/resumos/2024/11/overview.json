@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 11
+    },
+    "geradoEm": "2026-03-01T02:26:59.619879Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 21464522.52,
+    "top1Gasto": {
+      "id": 220584,
+      "nome": "Murilo Galdino",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 223130.69
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 8602805.95
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 4827350.1
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3309372.74
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2735826.28
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1526180.87
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 259730.63
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 155513.43
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 47742.52
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2785131.75
+      },
+      {
+        "uf": "MG",
+        "valor": 2301832.44
+      },
+      {
+        "uf": "RJ",
+        "valor": 1910586.74
+      },
+      {
+        "uf": "BA",
+        "valor": 1802177.64
+      },
+      {
+        "uf": "RS",
+        "valor": 1172352.27
+      },
+      {
+        "uf": "PE",
+        "valor": 1165088.25
+      },
+      {
+        "uf": "PR",
+        "valor": 1137913.3
+      },
+      {
+        "uf": "PA",
+        "valor": 936548.86
+      },
+      {
+        "uf": "PB",
+        "valor": 820719.7
+      },
+      {
+        "uf": "CE",
+        "valor": 714534.48
+      },
+      {
+        "uf": "MA",
+        "valor": 653209.13
+      },
+      {
+        "uf": "SC",
+        "valor": 584860.86
+      }
+    ],
+    "agentesConsiderados": 466
+  }
+}

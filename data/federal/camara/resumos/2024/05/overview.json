@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 5
+    },
+    "geradoEm": "2026-03-01T01:52:13.079144Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 19398089.59,
+    "top1Gasto": {
+      "id": 160666,
+      "nome": "Félix Mendonça Júnior",
+      "uf": "BA",
+      "partido": "PDT",
+      "valor": 112922.43
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7540278.25
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3495725.87
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 3285250.05
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2748637.07
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1799673.61
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 295964.55
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 172166.71
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 60393.48
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2273936.99
+      },
+      {
+        "uf": "MG",
+        "valor": 2063981.95
+      },
+      {
+        "uf": "RJ",
+        "valor": 1608781.18
+      },
+      {
+        "uf": "BA",
+        "valor": 1552053.62
+      },
+      {
+        "uf": "PR",
+        "valor": 1381412.12
+      },
+      {
+        "uf": "RS",
+        "valor": 1138930.29
+      },
+      {
+        "uf": "PE",
+        "valor": 1090670.06
+      },
+      {
+        "uf": "CE",
+        "valor": 798267.27
+      },
+      {
+        "uf": "GO",
+        "valor": 715735.4
+      },
+      {
+        "uf": "SC",
+        "valor": 619145.66
+      },
+      {
+        "uf": "PA",
+        "valor": 582374.19
+      },
+      {
+        "uf": "PB",
+        "valor": 570343.69
+      }
+    ],
+    "agentesConsiderados": 465
+  }
+}
