@@ -1,0 +1,84 @@
+name: Build QuantoCustou - Camara Rankings
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "Ano para gerar"
+        required: true
+        default: "2026"
+      months:
+        description: "Meses (ex: 1-12 ou 1,2,3 ou 2)"
+        required: true
+        default: "1"
+      mandate_start_year:
+        description: "Ano inicial do mandato (ex: 2023)"
+        required: true
+        default: "2023"
+
+  schedule:
+    # Dia 1 de cada mês, 03:30 UTC
+    - cron: "30 3 1 * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Compute target year/month (scheduled)
+        if: github.event_name == 'schedule'
+        run: |
+          python - << 'PY'
+          from datetime import datetime, timezone
+          now = datetime.now(timezone.utc)
+          # mês anterior
+          y = now.year
+          m = now.month - 1
+          if m == 0:
+            m = 12
+            y -= 1
+          print(f"YEAR={y}")
+          print(f"MONTHS={m}")
+          with open("env.txt","w",encoding="utf-8") as f:
+            f.write(f"YEAR={y}\nMONTHS={m}\n")
+          PY
+
+      - name: Generate data (manual)
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          MODE: "single"
+          YEAR: ${{ github.event.inputs.year }}
+          MONTHS: ${{ github.event.inputs.months }}
+          MANDATE_START_YEAR: ${{ github.event.inputs.mandate_start_year }}
+          OUT_DIR: data
+          CATEGORY_MAP: mapping/category_map.json
+        run: python scripts/generate_camara_rankings.py
+
+      - name: Generate data (scheduled)
+        if: github.event_name == 'schedule'
+        env:
+          MODE: "single"
+          OUT_DIR: data
+          CATEGORY_MAP: mapping/category_map.json
+          MANDATE_START_YEAR: "2023"
+        run: |
+          cat env.txt >> $GITHUB_ENV
+          python scripts/generate_camara_rankings.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "quantocustou-bot"
+          git config user.email "quantocustou-bot@users.noreply.github.com"
+          git add data
+          git commit -m "Atualiza rankings Camara" || echo "Nada para commitar"
+          git push
