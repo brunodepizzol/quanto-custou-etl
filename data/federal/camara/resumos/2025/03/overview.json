@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 3
+    },
+    "geradoEm": "2026-03-01T09:27:20.890102Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 20108409.48,
+    "top1Gasto": {
+      "id": 74356,
+      "nome": "Silas Câmara",
+      "uf": "AM",
+      "partido": "REPUBLICANOS",
+      "valor": 146193.64
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7368556.59
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 3844445.6
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3606044.12
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2927025.77
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1810633.84
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 325743.42
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 166280.42
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 59679.72
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2549404.77
+      },
+      {
+        "uf": "MG",
+        "valor": 1990240.27
+      },
+      {
+        "uf": "RJ",
+        "valor": 1575504.27
+      },
+      {
+        "uf": "BA",
+        "valor": 1534093.03
+      },
+      {
+        "uf": "RS",
+        "valor": 1321689.25
+      },
+      {
+        "uf": "PR",
+        "valor": 1210572.4
+      },
+      {
+        "uf": "PE",
+        "valor": 1046917.37
+      },
+      {
+        "uf": "CE",
+        "valor": 838829.9
+      },
+      {
+        "uf": "SC",
+        "valor": 673492.38
+      },
+      {
+        "uf": "GO",
+        "valor": 664395.59
+      },
+      {
+        "uf": "PB",
+        "valor": 599511.39
+      },
+      {
+        "uf": "PA",
+        "valor": 575543.84
+      }
+    ],
+    "agentesConsiderados": 485
+  }
+}

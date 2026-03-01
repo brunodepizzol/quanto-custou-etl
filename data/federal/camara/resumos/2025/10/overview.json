@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 10
+    },
+    "geradoEm": "2026-03-01T10:00:10.125682Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 22980521.04,
+    "top1Gasto": {
+      "id": 220621,
+      "nome": "Sargento Gonçalves",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 157232.06
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 8626980.97
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 5191100.45
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3616733.93
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2990588.17
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1958743.49
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 368354.5
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 162798.69
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 65220.84
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2831148.83
+      },
+      {
+        "uf": "MG",
+        "valor": 2255436.67
+      },
+      {
+        "uf": "RJ",
+        "valor": 1911560.32
+      },
+      {
+        "uf": "BA",
+        "valor": 1781318.86
+      },
+      {
+        "uf": "PR",
+        "valor": 1449126.6
+      },
+      {
+        "uf": "PE",
+        "valor": 1377297.96
+      },
+      {
+        "uf": "RS",
+        "valor": 1357697.62
+      },
+      {
+        "uf": "CE",
+        "valor": 996891.86
+      },
+      {
+        "uf": "PA",
+        "valor": 759238.49
+      },
+      {
+        "uf": "MA",
+        "valor": 745231.38
+      },
+      {
+        "uf": "SC",
+        "valor": 681342.6
+      },
+      {
+        "uf": "PB",
+        "valor": 649739.2
+      }
+    ],
+    "agentesConsiderados": 494
+  }
+}
