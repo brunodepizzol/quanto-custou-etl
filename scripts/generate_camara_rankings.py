@@ -314,11 +314,16 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
         }
 
     # ordenar top categorias e UFs
-    top_cats = sorted(
-        [{"categoriaQC": c, "valor": round(v, 2)} for c, v in soma_cat.items()],
+    top_cats_raw = sorted(
+        [{"categoriaQC": c, "valor": float(v)} for c, v in soma_cat.items()],
         key=lambda x: x["valor"],
         reverse=True
-    )[:8]
+    )
+    top_n = 4
+    top_n_list = [{"categoriaQC": x["categoriaQC"], "valor": round(x["valor"], 2)} for x in top_cats_raw[:top_n]]
+    soma_top_n = sum(float(x["valor"]) for x in top_cats_raw[:top_n])
+    resto = max(0.0, float(total_geral) - float(soma_top_n))
+    top_cats = top_n_list + [{"categoriaQC": "DEMAIS CATEGORIAS", "valor": round(resto, 2)}]
 
     top_ufs = sorted(
         [{"uf": uf, "valor": round(v, 2)} for uf, v in soma_uf.items()],
