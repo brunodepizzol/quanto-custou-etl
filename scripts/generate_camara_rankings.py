@@ -94,20 +94,36 @@ def write_resumos_index(out_dir: Path, escopo: str = "federal/camara") -> None:
     write_json(out_dir / "federal/camara/resumos/_index.json", obj_out)
 
 
-def http_get_json(url: str, params: dict = None, retries: int = 3) -> dict:
+def http_get_json(url: str, params: dict = None, retries: int = 8, timeout_s: int = 120) -> dict:
+    """GET JSON with retry/backoff for transient HTTP failures (429/5xx)."""
     headers = {"Accept": "application/json"}
-    last_err = None
+    last_err: Exception | None = None
     for attempt in range(1, retries + 1):
         try:
-            r = requests.get(url, params=params, headers=headers, timeout=60)
+            r = requests.get(url, params=params, headers=headers, timeout=timeout_s)
+            # handle transient codes with retry
+            if r.status_code in (429, 500, 502, 503, 504):
+                # respect Retry-After if present (seconds)
+                ra = r.headers.get("Retry-After")
+                if ra and ra.isdigit():
+                    time.sleep(min(int(ra), 30))
+                else:
+                    time.sleep(min(2 ** attempt, 30))
+                last_err = requests.exceptions.HTTPError(f"{r.status_code} for {r.url}")
+                continue
             r.raise_for_status()
             return r.json()
+        except requests.exceptions.RequestException as e:
+            last_err = e
+            # exponential backoff with cap
+            time.sleep(min(2 ** attempt, 30))
         except Exception as e:
             last_err = e
-            time.sleep(1.5 * attempt)
+            time.sleep(min(2 ** attempt, 30))
     raise last_err  # type: ignore
 
 def paginate(endpoint: str, params: dict) -> List[dict]:
+    """Paginate Câmara API. If timeouts happen, auto-reduce page size."""
     itens = int(params.get("itens", 100))
     pagina = 1
     out: List[dict] = []
@@ -115,7 +131,16 @@ def paginate(endpoint: str, params: dict) -> List[dict]:
         p = dict(params)
         p["itens"] = itens
         p["pagina"] = pagina
-        data = http_get_json(endpoint, params=p)
+        try:
+            data = http_get_json(endpoint, params=p)
+        except Exception as e:
+            # if it was a gateway timeout, try reducing page size
+            msg = str(e)
+            if ("504" in msg or "Gateway Timeout" in msg) and itens > 25:
+                itens = 50 if itens > 50 else 25
+                print(f"AVISO: 504 no endpoint, reduzindo page-size para {itens} e repetindo (pagina={pagina}).")
+                continue
+            raise
         dados = data.get("dados", [])
         out.extend(dados)
         links = data.get("links", [])
@@ -124,7 +149,6 @@ def paginate(endpoint: str, params: dict) -> List[dict]:
             break
         pagina += 1
     return out
-
 # ----------------------------
 # Category mapping
 # ----------------------------
