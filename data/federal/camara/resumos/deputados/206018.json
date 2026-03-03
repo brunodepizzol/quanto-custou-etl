@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 206018,
-    "geradoEm": "2026-03-03T15:34:13.101914Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.971475Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 206018,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 99096.53,
         "OUTROS": 335117.56,
         "PASSAGENS": 385464.87
-      }
+      },
+      "qtdSemDocumentoPdf": 432,
+      "valorSemDocumentoPdf": 410790.06,
+      "qtdRecibosOutros": 1346,
+      "valorRecibosOutros": 370196.52
     },
     "totaisAno": {
       "2023": 484307.07,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.298638,
-      "picoMes": "2024-04",
-      "picoValor": 67197.12,
-      "fornecedorTop1Pct": 0.007939,
-      "fornecedorTop3Pct": 0.016172,
-      "fornecedorHHI": 0.000113,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.274568,
-      "semDocumentoPct": 0.278401,
-      "recibosOutrosPct": 0.25089
-    },
-    "topFornecedores": [
-      {
-        "nome": "DIONISIO FERREIRA DO VALE NETO",
-        "valor": 11714.5
-      },
-      {
-        "nome": "LOCADORA DE VEICULOS FLORESTA LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
-        "valor": 2147.11
-      },
-      {
-        "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
-        "valor": 1757.61
-      },
-      {
-        "nome": "ICH ADMINISTRACAO DE HOTEIS S.A.",
-        "valor": 724.5
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 405133.55,
+      "pct": 27.46
+    }
   }
 }

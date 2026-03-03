@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220549,
-    "geradoEm": "2026-03-03T15:34:13.086506Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.962685Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220549,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 11040.19,
         "OUTROS": 289879.27,
         "PASSAGENS": 306347.14
-      }
+      },
+      "qtdSemDocumentoPdf": 791,
+      "valorSemDocumentoPdf": 387310.42,
+      "qtdRecibosOutros": 362,
+      "valorRecibosOutros": 492454.05
     },
     "totaisAno": {
       "2023": 284030.32,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.306475,
-      "picoMes": "2025-07",
-      "picoValor": 40221.51,
-      "fornecedorTop1Pct": 0.01234,
-      "fornecedorTop3Pct": 0.024754,
-      "fornecedorHHI": 0.000289,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.327611,
-      "semDocumentoPct": 0.414194,
-      "recibosOutrosPct": 0.526636
-    },
-    "topFornecedores": [
-      {
-        "nome": "LOCADORA DE VEÍCULOS SANTA CRUZ LTDA",
-        "valor": 11539.34
-      },
-      {
-        "nome": "N P IMOVEIS LTDA",
-        "valor": 10832.52
-      },
-      {
-        "nome": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
-        "valor": 775.84
-      },
-      {
-        "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
-        "valor": 627.2
-      },
-      {
-        "nome": "ABAST DE COMB BELA VISTA LTDA",
-        "valor": 450.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 306347.14,
+      "pct": 32.76
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74161,
-    "geradoEm": "2026-03-03T15:34:13.238555Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.046229Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74161,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 9156.59,
         "OUTROS": 41837.28,
         "PASSAGENS": 906032.29
-      }
+      },
+      "qtdSemDocumentoPdf": 1097,
+      "valorSemDocumentoPdf": 947862.06,
+      "qtdRecibosOutros": 79,
+      "valorRecibosOutros": 351980.11
     },
     "totaisAno": {
       "2023": 435072.24,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.383267,
-      "picoMes": "2023-03",
-      "picoValor": 61856.02,
-      "fornecedorTop1Pct": 0.005859,
-      "fornecedorTop3Pct": 0.010215,
-      "fornecedorHHI": 4.9e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.655344,
-      "semDocumentoPct": 0.6856,
-      "recibosOutrosPct": 0.254592
-    },
-    "topFornecedores": [
-      {
-        "nome": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
-        "valor": 8100.0
-      },
-      {
-        "nome": "RB IMOVEIS LTDA",
-        "valor": 5119.66
-      },
-      {
-        "nome": "ALFA HOTEL VICOSA LTDA - EPP",
-        "valor": 903.0
-      },
-      {
-        "nome": "CEMIG DISTRIBUIÇÃO S.A.",
-        "valor": 530.66
-      },
-      {
-        "nome": "Eco Empreendimentos Comerciais LTDA",
-        "valor": 246.33
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 906032.29,
+      "pct": 65.53
+    }
   }
 }

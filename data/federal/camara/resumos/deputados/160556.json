@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160556,
-    "geradoEm": "2026-03-03T15:34:13.222073Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.037417Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160556,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 60371.92,
         "OUTROS": 411675.64,
         "PASSAGENS": 134377.23
-      }
+      },
+      "qtdSemDocumentoPdf": 349,
+      "valorSemDocumentoPdf": 158829.8,
+      "qtdRecibosOutros": 628,
+      "valorRecibosOutros": 678559.39
     },
     "totaisAno": {
       "2023": 453628.65,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.505666,
-      "picoMes": "2023-12",
-      "picoValor": 109224.13,
-      "fornecedorTop1Pct": 0.017199,
-      "fornecedorTop3Pct": 0.030374,
-      "fornecedorHHI": 0.000389,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.277837,
-      "semDocumentoPct": 0.107193,
-      "recibosOutrosPct": 0.457955
-    },
-    "topFornecedores": [
-      {
-        "nome": "EGL - EDITORES GRAFICOS LTDA",
-        "valor": 25484.0
-      },
-      {
-        "nome": "Pontual Loc Car ltda",
-        "valor": 10500.0
-      },
-      {
-        "nome": "FGX NEGOC IOS IMOBILIARIOS LTDA",
-        "valor": 9022.07
-      },
-      {
-        "nome": "MALDONADO E LUCCHESI LTDA",
-        "valor": 2273.0
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 1587.77
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 411675.64,
+      "pct": 27.78
+    }
   }
 }

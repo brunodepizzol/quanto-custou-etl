@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 66385,
-    "geradoEm": "2026-03-03T15:34:13.178643Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.013561Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 66385,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 403013.0,
         "PASSAGENS": 309386.55
-      }
+      },
+      "qtdSemDocumentoPdf": 791,
+      "valorSemDocumentoPdf": 425148.44,
+      "qtdRecibosOutros": 39,
+      "valorRecibosOutros": 279800.0
     },
     "totaisAno": {
       "2023": 553746.57,
@@ -86,24 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.247469,
-      "picoMes": "2023-08",
-      "picoValor": 64410.05,
-      "fornecedorTop1Pct": 0.000182,
-      "fornecedorTop3Pct": 0.000182,
-      "fornecedorHHI": 0.0,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.311746,
-      "semDocumentoPct": 0.272232,
-      "recibosOutrosPct": 0.179162
-    },
-    "topFornecedores": [
-      {
-        "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
-        "valor": 283.69
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 486856.73,
+      "pct": 31.17
+    }
   }
 }

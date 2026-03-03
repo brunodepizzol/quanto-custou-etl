@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178871,
-    "geradoEm": "2026-03-03T15:34:13.140265Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.992784Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178871,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 21135.6,
         "OUTROS": 330607.7,
         "PASSAGENS": 197073.42
-      }
+      },
+      "qtdSemDocumentoPdf": 742,
+      "valorSemDocumentoPdf": 452022.14,
+      "qtdRecibosOutros": 279,
+      "valorRecibosOutros": 357316.99
     },
     "totaisAno": {
       "2023": 506291.97,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.351507,
-      "picoMes": "2023-12",
-      "picoValor": 73687.26,
-      "fornecedorTop1Pct": 0.007575,
-      "fornecedorTop3Pct": 0.020199,
-      "fornecedorHHI": 0.000202,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.461539,
-      "semDocumentoPct": 0.285327,
-      "recibosOutrosPct": 0.225547
-    },
-    "topFornecedores": [
-      {
-        "nome": "CANDELA ESTRATEGIA E COMUNICAÇÃO LTDA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "JOSE GRIGORIO DE OLIVEIRA JUNIOR INTERNET E SERVIÇO",
-        "valor": 11000.0
-      },
-      {
-        "nome": "RICARDO DE OLIVEIRA GAROZZI",
-        "valor": 9000.0
-      },
-      {
-        "nome": "AUTO POSTO ESMIG LTDA",
-        "valor": 7561.69
-      },
-      {
-        "nome": "AQUI CENTRO AUTOMOTIVO LTDA EPP4347",
-        "valor": 6200.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 731181.73,
+      "pct": 46.15
+    }
   }
 }

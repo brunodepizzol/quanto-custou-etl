@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204396,
-    "geradoEm": "2026-03-03T15:34:13.267741Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.062434Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204396,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 16029.46,
         "OUTROS": 1827.22,
         "PASSAGENS": 225937.85
-      }
+      },
+      "qtdSemDocumentoPdf": 892,
+      "valorSemDocumentoPdf": 379527.77,
+      "qtdRecibosOutros": 65,
+      "valorRecibosOutros": 118549.51
     },
     "totaisAno": {
       "2023": 533638.38,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.275162,
-      "picoMes": "2023-12",
-      "picoValor": 75313.36,
-      "fornecedorTop1Pct": 0.013725,
-      "fornecedorTop3Pct": 0.019693,
-      "fornecedorHHI": 0.000213,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.666073,
-      "semDocumentoPct": 0.226486,
-      "recibosOutrosPct": 0.070745
-    },
-    "topFornecedores": [
-      {
-        "nome": "3FRONT COMUNICACAO LTDA",
-        "valor": 23000.0
-      },
-      {
-        "nome": "IMOBILIÁRIA APLICAR LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "55.715.006 JOAO ADELINO DE SOUZA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "32.094.326 ROBERTO PEIXOTO DE ARAUJO",
-        "valor": 4000.0
-      },
-      {
-        "nome": "SANDER PRODUÇÕES LTDA",
-        "valor": 1500.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1116152.97,
+      "pct": 66.61
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178835,
-    "geradoEm": "2026-03-03T15:34:13.072241Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.954487Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178835,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 26626.63,
         "OUTROS": 348501.06,
         "PASSAGENS": 351426.08
-      }
+      },
+      "qtdSemDocumentoPdf": 1826,
+      "valorSemDocumentoPdf": 656168.4,
+      "qtdRecibosOutros": 311,
+      "valorRecibosOutros": 524373.99
     },
     "totaisAno": {
       "2023": 534493.21,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.271659,
-      "picoMes": "2023-12",
-      "picoValor": 81957.03,
-      "fornecedorTop1Pct": 0.009903,
-      "fornecedorTop3Pct": 0.017889,
-      "fornecedorHHI": 0.000138,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.291228,
-      "semDocumentoPct": 0.382233,
-      "recibosOutrosPct": 0.30546
-    },
-    "topFornecedores": [
-      {
-        "nome": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
-        "valor": 17000.0
-      },
-      {
-        "nome": "ELF Locadora de Veículos Ltda",
-        "valor": 8900.0
-      },
-      {
-        "nome": "MARCIO LOMANDO BILHAR DA SILVA",
-        "valor": 4809.05
-      },
-      {
-        "nome": "POSTO BURMANN",
-        "valor": 2739.42
-      },
-      {
-        "nome": "COML. BUFFON COMB. E TRANSP. LTDA. - POSTO 99",
-        "valor": 1425.1
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 499942.0,
+      "pct": 29.12
+    }
   }
 }

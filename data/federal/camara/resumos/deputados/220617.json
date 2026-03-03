@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220617,
-    "geradoEm": "2026-03-03T15:34:13.215481Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.033789Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220617,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 54016.27,
         "OUTROS": 312687.07,
         "PASSAGENS": 326740.96
-      }
+      },
+      "qtdSemDocumentoPdf": 1188,
+      "valorSemDocumentoPdf": 454985.64,
+      "qtdRecibosOutros": 34,
+      "valorRecibosOutros": 318687.07
     },
     "totaisAno": {
       "2023": 496589.69,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.271106,
-      "picoMes": "2025-03",
-      "picoValor": 66403.4,
-      "fornecedorTop1Pct": 0.013226,
-      "fornecedorTop3Pct": 0.023069,
-      "fornecedorHHI": 0.000242,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.414535,
-      "semDocumentoPct": 0.300879,
-      "recibosOutrosPct": 0.210746
-    },
-    "topFornecedores": [
-      {
-        "nome": "ALPHA MARKETING E PESQUISA LTDA",
-        "valor": 20000.0
-      },
-      {
-        "nome": "ITA POSTO DE GASOLINA LTDA.",
-        "valor": 8884.63
-      },
-      {
-        "nome": "102  FM",
-        "valor": 6000.0
-      },
-      {
-        "nome": "103 FM",
-        "valor": 6000.0
-      },
-      {
-        "nome": "E. M . ALMEIDA COSTA POUSADA ME",
-        "valor": 1000.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 626855.0,
+      "pct": 41.45
+    }
   }
 }

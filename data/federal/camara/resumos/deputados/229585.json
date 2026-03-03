@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 229585,
-    "geradoEm": "2026-03-03T15:34:13.134919Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.989924Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 229585,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 22000.0,
         "PASSAGENS": 45870.27
-      }
+      },
+      "qtdSemDocumentoPdf": 194,
+      "valorSemDocumentoPdf": 90711.61,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 0.0,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.550164,
-      "picoMes": "2024-10",
-      "picoValor": 66512.03,
-      "fornecedorTop1Pct": 0.123137,
-      "fornecedorTop3Pct": 0.198833,
-      "fornecedorHHI": 0.020243,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.484631,
-      "semDocumentoPct": 0.398926,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "THAIS NUNES BARBOSA TOSTA",
-        "valor": 28000.0
-      },
-      {
-        "nome": "FR AGENCIA DE TURISMO E LOCACAO DE CARROS LTDA",
-        "valor": 16000.0
-      },
-      {
-        "nome": "IDAILDO DERIVADOS DE PETROLEO LTDA",
-        "valor": 1212.57
-      },
-      {
-        "nome": "AUTO POSTO SANTO ANTONIO LTDA",
-        "valor": 1185.56
-      },
-      {
-        "nome": "PNH COMERCIO DE COMBUSTIVEIS LTDA",
-        "valor": 915.02
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 110200.0,
+      "pct": 48.46
+    }
   }
 }

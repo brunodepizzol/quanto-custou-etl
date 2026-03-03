@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74060,
-    "geradoEm": "2026-03-03T15:34:13.113746Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.978267Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74060,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 192209.0,
         "PASSAGENS": 189702.37
-      }
+      },
+      "qtdSemDocumentoPdf": 492,
+      "valorSemDocumentoPdf": 350167.38,
+      "qtdRecibosOutros": 118,
+      "valorRecibosOutros": 222260.1
     },
     "totaisAno": {
       "2023": 544523.07,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.345471,
-      "picoMes": "2023-03",
-      "picoValor": 65624.81,
-      "fornecedorTop1Pct": 0.011685,
-      "fornecedorTop3Pct": 0.02337,
-      "fornecedorHHI": 0.00021,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.5522,
-      "semDocumentoPct": 0.204583,
-      "recibosOutrosPct": 0.129854
-    },
-    "topFornecedores": [
-      {
-        "nome": "64.204.904 STEPHANY GABRIELLE OLIVEIRA SANTOS",
-        "valor": 20000.0
-      },
-      {
-        "nome": "Crusi Comunicação LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "Rafael Lucas Costa Lima Oliveira",
-        "valor": 10000.0
-      },
-      {
-        "nome": "PIATA - PATRIMONIAL LTDA",
-        "valor": 2983.89
-      },
-      {
-        "nome": "CONDOMINIO EDIFICIO EMPRESARIAL ITAIGARA",
-        "valor": 1848.7
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 945151.41,
+      "pct": 55.22
+    }
   }
 }

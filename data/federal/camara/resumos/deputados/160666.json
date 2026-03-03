@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160666,
-    "geradoEm": "2026-03-03T15:34:13.144987Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.995475Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160666,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 16551.56,
         "OUTROS": 385771.87,
         "PASSAGENS": 137530.71
-      }
+      },
+      "qtdSemDocumentoPdf": 804,
+      "valorSemDocumentoPdf": 263278.17,
+      "qtdRecibosOutros": 115,
+      "valorRecibosOutros": 465703.87
     },
     "totaisAno": {
       "2023": 471490.7,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.631449,
-      "picoMes": "2023-11",
-      "picoValor": 126428.39,
-      "fornecedorTop1Pct": 0.015195,
-      "fornecedorTop3Pct": 0.029933,
-      "fornecedorHHI": 0.000372,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.440265,
-      "semDocumentoPct": 0.179639,
-      "recibosOutrosPct": 0.317758
-    },
-    "topFornecedores": [
-      {
-        "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
-        "valor": 22270.0
-      },
-      {
-        "nome": "C&C Comunicação Ltda",
-        "valor": 14000.0
-      },
-      {
-        "nome": "EMMMMANUEL VARGAS LEAL FILHO",
-        "valor": 7600.0
-      },
-      {
-        "nome": "Dilton Roberto Lopes dos Santos Junior",
-        "valor": 5000.0
-      },
-      {
-        "nome": "TIAGO CARDOSO MACHADO",
-        "valor": 4430.8
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 645250.0,
+      "pct": 44.03
+    }
   }
 }

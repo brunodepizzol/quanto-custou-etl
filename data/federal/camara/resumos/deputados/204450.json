@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204450,
-    "geradoEm": "2026-03-03T15:34:13.127502Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.985829Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204450,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 183560.0,
         "PASSAGENS": 311916.45
-      }
+      },
+      "qtdSemDocumentoPdf": 630,
+      "valorSemDocumentoPdf": 427710.94,
+      "qtdRecibosOutros": 23,
+      "valorRecibosOutros": 182700.0
     },
     "totaisAno": {
       "2023": 53109.84,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.53412,
-      "picoMes": "2024-11",
-      "picoValor": 62903.98,
-      "fornecedorTop1Pct": 0.008895,
-      "fornecedorTop3Pct": 0.015011,
-      "fornecedorHHI": 0.000111,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.346828,
-      "semDocumentoPct": 0.475583,
-      "recibosOutrosPct": 0.203149
-    },
-    "topFornecedores": [
-      {
-        "nome": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
-        "valor": 8000.0
-      },
-      {
-        "nome": "FLEX MARKETING DIRETO LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "POSTO DE ABASTECIMENTO GALLENA LAGOA LTDA",
-        "valor": 500.0
-      },
-      {
-        "nome": "AUTO SERVICO ROCAR RIO LTDA",
-        "valor": 466.77
-      },
-      {
-        "nome": "POSTO DE GAS CANARIO LTDA",
-        "valor": 442.29
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 311916.45,
+      "pct": 34.68
+    }
   }
 }

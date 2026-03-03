@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160673,
-    "geradoEm": "2026-03-03T15:34:13.156568Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.001574Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160673,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 38087.62,
         "OUTROS": 347174.45,
         "PASSAGENS": 82748.65
-      }
+      },
+      "qtdSemDocumentoPdf": 1336,
+      "valorSemDocumentoPdf": 338677.49,
+      "qtdRecibosOutros": 417,
+      "valorRecibosOutros": 716247.7
     },
     "totaisAno": {
       "2023": 559566.79,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.361739,
-      "picoMes": "2023-03",
-      "picoValor": 84814.67,
-      "fornecedorTop1Pct": 0.013405,
-      "fornecedorTop3Pct": 0.020699,
-      "fornecedorHHI": 0.000213,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.298841,
-      "semDocumentoPct": 0.201777,
-      "recibosOutrosPct": 0.426725
-    },
-    "topFornecedores": [
-      {
-        "nome": "AGENCIA VIRALIS MARKETING DIGITAL LTDA",
-        "valor": 22500.0
-      },
-      {
-        "nome": "GUARIDA SERVIÇOS",
-        "valor": 7501.43
-      },
-      {
-        "nome": "ELF Locadora de Veículos Ltda",
-        "valor": 4742.04
-      },
-      {
-        "nome": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
-        "valor": 2997.88
-      },
-      {
-        "nome": "VIVO TELEFONICA BRASILIA",
-        "valor": 1243.56
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 501598.54,
+      "pct": 29.88
+    }
   }
 }

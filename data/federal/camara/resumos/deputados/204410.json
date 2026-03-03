@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204410,
-    "geradoEm": "2026-03-03T15:34:13.192297Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.021163Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204410,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 17661.84,
         "OUTROS": 139211.49,
         "PASSAGENS": 298333.1
-      }
+      },
+      "qtdSemDocumentoPdf": 618,
+      "valorSemDocumentoPdf": 500594.76,
+      "qtdRecibosOutros": 73,
+      "valorRecibosOutros": 327634.81
     },
     "totaisAno": {
       "2023": 523317.3,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.440075,
-      "picoMes": "2023-11",
-      "picoValor": 102017.44,
-      "fornecedorTop1Pct": 0.018373,
-      "fornecedorTop3Pct": 0.027442,
-      "fornecedorHHI": 0.00042,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.330832,
-      "semDocumentoPct": 0.324288,
-      "recibosOutrosPct": 0.212244
-    },
-    "topFornecedores": [
-      {
-        "nome": "ALCANCE MIDIA PROGRAMATICA LTDA",
-        "valor": 28362.0
-      },
-      {
-        "nome": "J.B. RODRIGUES JUNIOR CIA LTDA",
-        "valor": 8000.12
-      },
-      {
-        "nome": "45.017.015DANIELRAMALHOMALUCELLI",
-        "valor": 6000.0
-      },
-      {
-        "nome": "IMOBILIÁRIA MÔNACO PALHANO",
-        "valor": 5501.74
-      },
-      {
-        "nome": "VALCIR MACHADO DA SILVEIRA PINTO - ME",
-        "valor": 4500.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 510696.64,
+      "pct": 33.08
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 162332,
-    "geradoEm": "2026-03-03T15:34:13.195895Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.023174Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 162332,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 4709.1,
         "OUTROS": 176400.0,
         "PASSAGENS": 257387.03
-      }
+      },
+      "qtdSemDocumentoPdf": 391,
+      "valorSemDocumentoPdf": 261560.38,
+      "qtdRecibosOutros": 73,
+      "valorRecibosOutros": 328841.52
     },
     "totaisAno": {
       "2023": 499572.56,
@@ -86,32 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.458972,
-      "picoMes": "2025-10",
-      "picoValor": 72963.97,
-      "fornecedorTop1Pct": 0.003159,
-      "fornecedorTop3Pct": 0.006576,
-      "fornecedorHHI": 1.7e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.532651,
-      "semDocumentoPct": 0.168622,
-      "recibosOutrosPct": 0.211997
-    },
-    "topFornecedores": [
-      {
-        "nome": "PANTANAL VEÍCULOS LTDA",
-        "valor": 4900.0
-      },
-      {
-        "nome": "ANDREONI CAMARGO MARKETING POLITICO LTDA",
-        "valor": 4000.0
-      },
-      {
-        "nome": "Azul Linhas Aéreas",
-        "valor": 1300.37
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 826227.0,
+      "pct": 53.27
+    }
   }
 }

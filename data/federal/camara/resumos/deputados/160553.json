@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160553,
-    "geradoEm": "2026-03-03T15:34:13.085359Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.961935Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160553,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 918.0,
         "OUTROS": 384000.0,
         "PASSAGENS": 535180.48
-      }
+      },
+      "qtdSemDocumentoPdf": 1619,
+      "valorSemDocumentoPdf": 773135.75,
+      "qtdRecibosOutros": 314,
+      "valorRecibosOutros": 776000.71
     },
     "totaisAno": {
       "2023": 525044.42,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.333495,
-      "picoMes": "2025-03",
-      "picoValor": 62435.65,
-      "fornecedorTop1Pct": 0.007332,
-      "fornecedorTop3Pct": 0.013791,
-      "fornecedorHHI": 7.8e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.327011,
-      "semDocumentoPct": 0.472408,
-      "recibosOutrosPct": 0.474159
-    },
-    "topFornecedores": [
-      {
-        "nome": "QUALITYLOC AUTOMÓVEIS LTDA.",
-        "valor": 12000.0
-      },
-      {
-        "nome": "'MICRO & SOFT INFORMATICA LTDA",
-        "valor": 6500.0
-      },
-      {
-        "nome": "CONDOMÍNIO EMPRESARIAL THOMÉ DE SOUZA",
-        "valor": 4070.57
-      },
-      {
-        "nome": "VIVO TELEFONICA BRASIL S.A.",
-        "valor": 1680.9
-      },
-      {
-        "nome": "SECRETARIA MUNICIPAL DA FAZENDA SALVADOR",
-        "valor": 1237.11
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 535180.48,
+      "pct": 32.7
+    }
   }
 }

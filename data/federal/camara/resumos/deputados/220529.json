@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220529,
-    "geradoEm": "2026-03-03T15:34:13.155371Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.000964Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220529,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 16299.73,
         "OUTROS": 332788.5,
         "PASSAGENS": 185375.5
-      }
+      },
+      "qtdSemDocumentoPdf": 741,
+      "valorSemDocumentoPdf": 281525.15,
+      "qtdRecibosOutros": 142,
+      "valorRecibosOutros": 468539.87
     },
     "totaisAno": {
       "2023": 484442.31,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.308634,
-      "picoMes": "2024-04",
-      "picoValor": 70445.72,
-      "fornecedorTop1Pct": 0.015341,
-      "fornecedorTop3Pct": 0.02968,
-      "fornecedorHHI": 0.000395,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.487464,
-      "semDocumentoPct": 0.176282,
-      "recibosOutrosPct": 0.293384
-    },
-    "topFornecedores": [
-      {
-        "nome": "ELIAS SOARES DA SILVA",
-        "valor": 24500.0
-      },
-      {
-        "nome": "CT LOCACOES SOLUCOES E SERVICOS LTDA",
-        "valor": 16900.0
-      },
-      {
-        "nome": "11.650.083 EVANDRO DOMINGOS",
-        "valor": 6000.0
-      },
-      {
-        "nome": "60.249.066 CLAUDIA VALESKA PEREIRA DOS SANTOS",
-        "valor": 6000.0
-      },
-      {
-        "nome": "Emmanuel Roberto Vieira de Moraes",
-        "valor": 5300.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 778490.0,
+      "pct": 48.75
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 226837,
-    "geradoEm": "2026-03-03T15:34:13.256128Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.055885Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 226837,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 15787.78,
         "OUTROS": 127404.3,
         "PASSAGENS": 215832.34
-      }
+      },
+      "qtdSemDocumentoPdf": 512,
+      "valorSemDocumentoPdf": 251162.43,
+      "qtdRecibosOutros": 84,
+      "valorRecibosOutros": 272281.73
     },
     "totaisAno": {
       "2023": 97639.54,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.542777,
-      "picoMes": "2024-12",
-      "picoValor": 100365.8,
-      "fornecedorTop1Pct": 0.025714,
-      "fornecedorTop3Pct": 0.042642,
-      "fornecedorHHI": 0.000871,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.415833,
-      "semDocumentoPct": 0.21528,
-      "recibosOutrosPct": 0.233382
-    },
-    "topFornecedores": [
-      {
-        "nome": "N N Y MARKETING DIRETO E SOLUÇÕES INTELIGENTES LTDA",
-        "valor": 30000.0
-      },
-      {
-        "nome": "OMEGA CONNECT PRODUÇÕES E SERVIÇOS INTEGRADOS LTDA",
-        "valor": 13750.0
-      },
-      {
-        "nome": "GUSTAVO MANOEL DOMINGOS",
-        "valor": 6000.0
-      },
-      {
-        "nome": "AVANÇO INCORPORAÇÃO E ADMINISTRAÇÃO DE BENS PRÓPRIOS",
-        "valor": 5000.0
-      },
-      {
-        "nome": "LUCIANA APARECIDA TOMAZ DA SILVA",
-        "valor": 4000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 485143.06,
+      "pct": 41.58
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220684,
-    "geradoEm": "2026-03-03T15:34:13.264987Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.060858Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220684,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 13957.44,
         "OUTROS": 147712.66,
         "PASSAGENS": 265997.92
-      }
+      },
+      "qtdSemDocumentoPdf": 671,
+      "valorSemDocumentoPdf": 347197.11,
+      "qtdRecibosOutros": 138,
+      "valorRecibosOutros": 351628.95
     },
     "totaisAno": {
       "2023": 510223.07,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.282806,
-      "picoMes": "2025-12",
-      "picoValor": 65915.0,
-      "fornecedorTop1Pct": 0.010608,
-      "fornecedorTop3Pct": 0.015786,
-      "fornecedorHHI": 0.000136,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.412159,
-      "semDocumentoPct": 0.216647,
-      "recibosOutrosPct": 0.219413
-    },
-    "topFornecedores": [
-      {
-        "nome": "A P DE CASTRO",
-        "valor": 17000.0
-      },
-      {
-        "nome": "CONDOMINIO EDIFICIO COMERCIAL CENTRO CIVICO",
-        "valor": 4297.78
-      },
-      {
-        "nome": "Khalil Soumaille Neto",
-        "valor": 4000.0
-      },
-      {
-        "nome": "PAULO ALBERTO KRONEIS",
-        "valor": 3800.0
-      },
-      {
-        "nome": "AUTO POSTO VERDE COM DE COMBUSTIVEIS E LUBRIF LTDA",
-        "valor": 1931.16
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 660522.28,
+      "pct": 41.22
+    }
   }
 }

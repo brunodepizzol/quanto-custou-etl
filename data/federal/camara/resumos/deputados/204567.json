@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204567,
-    "geradoEm": "2026-03-03T15:34:13.237741Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.045774Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204567,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 25170.33,
         "OUTROS": 519356.44,
         "PASSAGENS": 137425.99
-      }
+      },
+      "qtdSemDocumentoPdf": 1310,
+      "valorSemDocumentoPdf": 358754.0,
+      "qtdRecibosOutros": 371,
+      "valorRecibosOutros": 106790.18
     },
     "totaisAno": {
       "2023": 499877.18,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.305299,
-      "picoMes": "2025-11",
-      "picoValor": 62411.18,
-      "fornecedorTop1Pct": 0.007588,
-      "fornecedorTop3Pct": 0.017755,
-      "fornecedorHHI": 0.00012,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.378578,
-      "semDocumentoPct": 0.226842,
-      "recibosOutrosPct": 0.067524
-    },
-    "topFornecedores": [
-      {
-        "nome": "LOCADORAS DE VEICULOS VEREDA LTDA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "LUANA  P DE QUEIROZ FIGUEIREDO",
-        "valor": 9580.0
-      },
-      {
-        "nome": "FLAVIA SOUZA DE MELO & CIA LTDA",
-        "valor": 6500.0
-      },
-      {
-        "nome": "AMALIA ELOY RIBEIRO NETA - MEI",
-        "valor": 3500.0
-      },
-      {
-        "nome": "Cheng Yu Tseng",
-        "valor": 2575.83
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 598726.9,
+      "pct": 37.86
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204374,
-    "geradoEm": "2026-03-03T15:34:13.093177Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.966460Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204374,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 172810.0,
         "PASSAGENS": 35908.13
-      }
+      },
+      "qtdSemDocumentoPdf": 533,
+      "valorSemDocumentoPdf": 130551.35,
+      "qtdRecibosOutros": 174,
+      "valorRecibosOutros": 481419.37
     },
     "totaisAno": {
       "2023": 355112.03,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.196817,
-      "picoMes": "2025-03",
-      "picoValor": 39528.19,
-      "fornecedorTop1Pct": 0.011055,
-      "fornecedorTop3Pct": 0.020097,
-      "fornecedorHHI": 0.000198,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.438554,
-      "semDocumentoPct": 0.107317,
-      "recibosOutrosPct": 0.395742
-    },
-    "topFornecedores": [
-      {
-        "nome": "PLANALTO CENTRAL IMOVEIS LTDA",
-        "valor": 13448.0
-      },
-      {
-        "nome": "ANDRE ORRU CESAR DE AZEVEDO",
-        "valor": 6000.0
-      },
-      {
-        "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "BITTAR EDITORA PLANEJAMENTO ESTRATEGICO LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "NATHALIA PALANCA AGUIAR",
-        "valor": 3500.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 533500.0,
+      "pct": 43.86
+    }
   }
 }

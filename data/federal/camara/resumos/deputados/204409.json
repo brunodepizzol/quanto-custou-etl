@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204409,
-    "geradoEm": "2026-03-03T15:34:13.114941Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.979022Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204409,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 80371.71,
         "OUTROS": 404186.43,
         "PASSAGENS": 210701.87
-      }
+      },
+      "qtdSemDocumentoPdf": 1032,
+      "valorSemDocumentoPdf": 507374.31,
+      "qtdRecibosOutros": 320,
+      "valorRecibosOutros": 771996.46
     },
     "totaisAno": {
       "2023": 477780.19,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.267156,
-      "picoMes": "2024-12",
-      "picoValor": 76642.11,
-      "fornecedorTop1Pct": 0.013991,
-      "fornecedorTop3Pct": 0.020634,
-      "fornecedorHHI": 0.000236,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.30877,
-      "semDocumentoPct": 0.315502,
-      "recibosOutrosPct": 0.480053
-    },
-    "topFornecedores": [
-      {
-        "nome": "SOM NA KAIXA COMÉRCIO DE ALARMES E SOM LTDA",
-        "valor": 22500.0
-      },
-      {
-        "nome": "ED CHAFFE CORRETAGEM DE IMÓVEIS EIRELI",
-        "valor": 5682.0
-      },
-      {
-        "nome": "JOAO PAULO NUNES BORGES",
-        "valor": 5000.0
-      },
-      {
-        "nome": "VIGHOR EMPREENDIMENTOS LTDA",
-        "valor": 3827.53
-      },
-      {
-        "nome": "CAPAO DA CANOA MAR HOTEL LTDA",
-        "valor": 3128.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 496548.02,
+      "pct": 30.88
+    }
   }
 }

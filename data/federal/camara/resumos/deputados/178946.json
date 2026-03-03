@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178946,
-    "geradoEm": "2026-03-03T15:34:13.260870Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.058566Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178946,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 5314.59,
         "OUTROS": 0.0,
         "PASSAGENS": 496172.17
-      }
+      },
+      "qtdSemDocumentoPdf": 766,
+      "valorSemDocumentoPdf": 549412.76,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 313173.06,
@@ -86,27 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 1.006536,
-      "picoMes": "2023-12",
-      "picoValor": 135993.22,
-      "fornecedorTop1Pct": 0.00121,
-      "fornecedorTop3Pct": 0.00121,
-      "fornecedorHHI": 1e-06,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.500437,
-      "semDocumentoPct": 0.554135,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "TELEFÔNICA BRASIL S.A - VIVO",
-        "valor": 1200.0
-      }
-    ],
-    "flags": [
-      "spiky_spend",
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 496172.17,
+      "pct": 50.04
+    }
   }
 }

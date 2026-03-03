@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204356,
-    "geradoEm": "2026-03-03T15:34:13.080098Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.959067Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204356,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 284866.0,
         "PASSAGENS": 150904.67
-      }
+      },
+      "qtdSemDocumentoPdf": 496,
+      "valorSemDocumentoPdf": 206903.87,
+      "qtdRecibosOutros": 147,
+      "valorRecibosOutros": 350780.97
     },
     "totaisAno": {
       "2023": 475652.06,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.427783,
-      "picoMes": "2025-01",
-      "picoValor": 79566.82,
-      "fornecedorTop1Pct": 0.012839,
-      "fornecedorTop3Pct": 0.030492,
-      "fornecedorHHI": 0.00038,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.610801,
-      "semDocumentoPct": 0.132819,
-      "recibosOutrosPct": 0.225179
-    },
-    "topFornecedores": [
-      {
-        "nome": "AGENCIA LAB. PRODUÇÕES LTFA",
-        "valor": 20000.0
-      },
-      {
-        "nome": "KRTV COMUNICACOES",
-        "valor": 20000.0
-      },
-      {
-        "nome": "PONTA LOCAÇÃO DE VEÍCULOS LTDA",
-        "valor": 7500.0
-      },
-      {
-        "nome": "AQUI CENTRO AUTOMOTIVO LTDA EPP4347",
-        "valor": 5740.0
-      },
-      {
-        "nome": "Apê Vila Velha Imobiliária e Construções",
-        "valor": 5240.78
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 951497.03,
+      "pct": 61.08
+    }
   }
 }

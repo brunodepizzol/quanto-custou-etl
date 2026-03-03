@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 69871,
-    "geradoEm": "2026-03-03T15:34:13.090078Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.964664Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 69871,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 503813.0,
         "PASSAGENS": 136784.27
-      }
+      },
+      "qtdSemDocumentoPdf": 538,
+      "valorSemDocumentoPdf": 241592.49,
+      "qtdRecibosOutros": 24,
+      "valorRecibosOutros": 236130.0
     },
     "totaisAno": {
       "2023": 529747.13,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.347575,
-      "picoMes": "2024-11",
-      "picoValor": 77978.78,
-      "fornecedorTop1Pct": 0.022716,
-      "fornecedorTop3Pct": 0.040538,
-      "fornecedorHHI": 0.000736,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.358423,
-      "semDocumentoPct": 0.147526,
-      "recibosOutrosPct": 0.14419
-    },
-    "topFornecedores": [
-      {
-        "nome": "MULTIPLICAR E SERVIÇOS LTDA EPP",
-        "valor": 37200.0
-      },
-      {
-        "nome": "EMIC DE SOUZA REIS",
-        "valor": 18000.0
-      },
-      {
-        "nome": "AFRANIO CEZAR OLIVA DE MATTOS FILHO",
-        "valor": 11186.8
-      },
-      {
-        "nome": "RADIO BRISA MAR FM LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "PUCO PRODUÇÃO E EVENTOS LTDA",
-        "valor": 6000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 586963.09,
+      "pct": 35.84
+    }
   }
 }

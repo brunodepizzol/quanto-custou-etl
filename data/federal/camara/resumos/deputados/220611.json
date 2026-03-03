@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220611,
-    "geradoEm": "2026-03-03T15:34:13.152092Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.999192Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220611,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 18549.24,
         "OUTROS": 40042.82,
         "PASSAGENS": 348277.91
-      }
+      },
+      "qtdSemDocumentoPdf": 1238,
+      "valorSemDocumentoPdf": 526034.43,
+      "qtdRecibosOutros": 49,
+      "valorRecibosOutros": 307208.33
     },
     "totaisAno": {
       "2023": 464045.9,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.26538,
-      "picoMes": "2023-05",
-      "picoValor": 63667.75,
-      "fornecedorTop1Pct": 0.010363,
-      "fornecedorTop3Pct": 0.022359,
-      "fornecedorHHI": 0.000218,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.374204,
-      "semDocumentoPct": 0.363422,
-      "recibosOutrosPct": 0.212242
-    },
-    "topFornecedores": [
-      {
-        "nome": "RANKING COMUNICAÇÃO E MIDIA LTDA",
-        "valor": 15000.0
-      },
-      {
-        "nome": "CAG CRUZ LTDA",
-        "valor": 9240.0
-      },
-      {
-        "nome": "Lokar Assessoria de Bens Imóveis Eireli",
-        "valor": 8123.21
-      },
-      {
-        "nome": "BRUNA ABRANTES COSTA",
-        "valor": 8000.0
-      },
-      {
-        "nome": "BR Soluções Técnicas e Administrativas Ltda",
-        "valor": 3500.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 541640.0,
+      "pct": 37.42
+    }
   }
 }

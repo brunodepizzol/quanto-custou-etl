@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220554,
-    "geradoEm": "2026-03-03T15:34:13.076661Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.956986Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220554,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 43537.76,
         "OUTROS": 312367.37,
         "PASSAGENS": 399586.0
-      }
+      },
+      "qtdSemDocumentoPdf": 2088,
+      "valorSemDocumentoPdf": 727225.04,
+      "qtdRecibosOutros": 2798,
+      "valorRecibosOutros": 421492.61
     },
     "totaisAno": {
       "2023": 521917.27,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.352801,
-      "picoMes": "2023-08",
-      "picoValor": 69107.93,
-      "fornecedorTop1Pct": 0.006591,
-      "fornecedorTop3Pct": 0.014631,
-      "fornecedorHHI": 0.000101,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.263357,
-      "semDocumentoPct": 0.479296,
-      "recibosOutrosPct": 0.277795
-    },
-    "topFornecedores": [
-      {
-        "nome": "Jazzy Consultoria em Comunicacao LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "Aikin Imoveis",
-        "valor": 7000.0
-      },
-      {
-        "nome": "DALETH VEICULOS LTDA EPP",
-        "valor": 5200.0
-      },
-      {
-        "nome": "Bytec Soluçoes em TI LTDA",
-        "valor": 5040.0
-      },
-      {
-        "nome": "CORAGEM FILMES EIRELI",
-        "valor": 3900.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 399586.0,
+      "pct": 26.34
+    }
   }
 }

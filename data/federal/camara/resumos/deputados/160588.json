@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160588,
-    "geradoEm": "2026-03-03T15:34:13.123054Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.983370Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160588,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 5787.71,
         "OUTROS": 332383.41,
         "PASSAGENS": 416285.21
-      }
+      },
+      "qtdSemDocumentoPdf": 614,
+      "valorSemDocumentoPdf": 461091.76,
+      "qtdRecibosOutros": 155,
+      "valorRecibosOutros": 494220.34
     },
     "totaisAno": {
       "2023": 471247.78,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.43414,
-      "picoMes": "2023-12",
-      "picoValor": 117613.04,
-      "fornecedorTop1Pct": 0.013191,
-      "fornecedorTop3Pct": 0.027268,
-      "fornecedorHHI": 0.000284,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.280166,
-      "semDocumentoPct": 0.310322,
-      "recibosOutrosPct": 0.332618
-    },
-    "topFornecedores": [
-      {
-        "nome": "E B BATISTA",
-        "valor": 19600.0
-      },
-      {
-        "nome": "AKKA RENT A CAR LTDA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "AMARIL FRANKLIN ADMINISTRACAO IMOBILIARIA LTDA",
-        "valor": 8915.81
-      },
-      {
-        "nome": "Azul Linhas Aéreas",
-        "valor": 4037.16
-      },
-      {
-        "nome": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
-        "valor": 1483.04
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 416285.21,
+      "pct": 28.02
+    }
   }
 }

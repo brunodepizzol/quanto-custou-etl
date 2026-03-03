@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220542,
-    "geradoEm": "2026-03-03T15:34:13.076169Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.956753Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220542,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 30722.09,
         "OUTROS": 199299.98,
         "PASSAGENS": 75104.99
-      }
+      },
+      "qtdSemDocumentoPdf": 535,
+      "valorSemDocumentoPdf": 232023.76,
+      "qtdRecibosOutros": 63,
+      "valorRecibosOutros": 232526.27
     },
     "totaisAno": {
       "2023": 515326.64,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.548023,
-      "picoMes": "2023-12",
-      "picoValor": 167213.15,
-      "fornecedorTop1Pct": 0.004891,
-      "fornecedorTop3Pct": 0.011872,
-      "fornecedorHHI": 6.2e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.665556,
-      "semDocumentoPct": 0.141845,
-      "recibosOutrosPct": 0.142152
-    },
-    "topFornecedores": [
-      {
-        "nome": "WAYS FILMS E MARKETING",
-        "valor": 8000.0
-      },
-      {
-        "nome": "CONECTADOS COMUNICAÇÃO LTDA",
-        "valor": 6000.0
-      },
-      {
-        "nome": "VIA LOCADORA DE AUTOMOVEIS LTDA",
-        "valor": 5420.0
-      },
-      {
-        "nome": "PLAYPRINT OUTDOOR",
-        "valor": 3000.0
-      },
-      {
-        "nome": "JIREH EMPREENDIMENTOS PROPAGANDAS LTDA",
-        "valor": 2700.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1088689.33,
+      "pct": 66.56
+    }
   }
 }

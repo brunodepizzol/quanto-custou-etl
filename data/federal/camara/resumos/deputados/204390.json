@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204390,
-    "geradoEm": "2026-03-03T15:34:13.234933Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.044255Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204390,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 167860.0,
         "PASSAGENS": 0.0
-      }
+      },
+      "qtdSemDocumentoPdf": 67,
+      "valorSemDocumentoPdf": 331818.71,
+      "qtdRecibosOutros": 26,
+      "valorRecibosOutros": 539013.6
     },
     "totaisAno": {
       "2023": 473183.55,
@@ -86,34 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.555819,
-      "picoMes": "2024-12",
-      "picoValor": 156960.13,
-      "fornecedorTop1Pct": 0.014366,
-      "fornecedorTop3Pct": 0.025147,
-      "fornecedorHHI": 0.00032,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.362314,
-      "semDocumentoPct": 0.222974,
-      "recibosOutrosPct": 0.362204
-    },
-    "topFornecedores": [
-      {
-        "nome": "MBI Baiocchi Imoveis Condominios",
-        "valor": 21378.9
-      },
-      {
-        "nome": "JUSTINIANO & JUSTINIANO LTDA",
-        "valor": 15879.51
-      },
-      {
-        "nome": "Kalunga SA",
-        "valor": 164.5
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 539178.1,
+      "pct": 36.23
+    }
   }
 }

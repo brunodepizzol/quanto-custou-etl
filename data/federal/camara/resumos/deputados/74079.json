@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74079,
-    "geradoEm": "2026-03-03T15:34:13.175430Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.011810Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74079,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 567.0,
         "OUTROS": 387920.0,
         "PASSAGENS": 599626.44
-      }
+      },
+      "qtdSemDocumentoPdf": 507,
+      "valorSemDocumentoPdf": 614917.0,
+      "qtdRecibosOutros": 40,
+      "valorRecibosOutros": 27980.77
     },
     "totaisAno": {
       "2023": 401887.39,
@@ -86,26 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.439837,
-      "picoMes": "2023-08",
-      "picoValor": 61866.38,
-      "fornecedorTop1Pct": 0.010163,
-      "fornecedorTop3Pct": 0.010163,
-      "fornecedorHHI": 0.000103,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.55398,
-      "semDocumentoPct": 0.568106,
-      "recibosOutrosPct": 0.025851
-    },
-    "topFornecedores": [
-      {
-        "nome": "Mundial Serviços de Locação de Automóveis EIRELI",
-        "valor": 11000.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 599626.44,
+      "pct": 55.4
+    }
   }
 }

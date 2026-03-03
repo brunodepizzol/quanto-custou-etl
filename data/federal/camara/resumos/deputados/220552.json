@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220552,
-    "geradoEm": "2026-03-03T15:34:13.276289Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.067207Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220552,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 7646.96,
         "OUTROS": 109268.75,
         "PASSAGENS": 452272.86
-      }
+      },
+      "qtdSemDocumentoPdf": 1049,
+      "valorSemDocumentoPdf": 592526.04,
+      "qtdRecibosOutros": 211,
+      "valorRecibosOutros": 299919.96
     },
     "totaisAno": {
       "2023": 281038.93,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.378472,
-      "picoMes": "2025-04",
-      "picoValor": 53836.52,
-      "fornecedorTop1Pct": 0.008866,
-      "fornecedorTop3Pct": 0.017255,
-      "fornecedorHHI": 0.000125,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.383239,
-      "semDocumentoPct": 0.502085,
-      "recibosOutrosPct": 0.254141
-    },
-    "topFornecedores": [
-      {
-        "nome": "N P IMOVEIS LTDA",
-        "valor": 10463.61
-      },
-      {
-        "nome": "AUTO LOCADORA LINCK E MELLO LTDA",
-        "valor": 5400.0
-      },
-      {
-        "nome": "LA DE OLIVEIRA MACHADO",
-        "valor": 4500.0
-      },
-      {
-        "nome": "A Mil Internet",
-        "valor": 2189.36
-      },
-      {
-        "nome": "BROAD BRASIL LTDA",
-        "valor": 2100.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 452272.86,
+      "pct": 38.32
+    }
   }
 }

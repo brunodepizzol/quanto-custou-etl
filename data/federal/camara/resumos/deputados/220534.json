@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220534,
-    "geradoEm": "2026-03-03T15:34:13.150453Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.998332Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220534,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 119400.0,
         "PASSAGENS": 0.0
-      }
+      },
+      "qtdSemDocumentoPdf": 770,
+      "valorSemDocumentoPdf": 236538.42,
+      "qtdRecibosOutros": 11,
+      "valorRecibosOutros": 24200.0
     },
     "totaisAno": {
       "2023": 402542.64,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.228566,
-      "picoMes": "2023-11",
-      "picoValor": 57761.33,
-      "fornecedorTop1Pct": 0.018102,
-      "fornecedorTop3Pct": 0.022866,
-      "fornecedorHHI": 0.000347,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.691848,
-      "semDocumentoPct": 0.178408,
-      "recibosOutrosPct": 0.018253
-    },
-    "topFornecedores": [
-      {
-        "nome": "AGUAS CLARAS MIDIA COMUNICACAO E EVENTOS LTDA - ME",
-        "valor": 24000.0
-      },
-      {
-        "nome": "ELDOURADO FROTAS LTDA",
-        "valor": 5800.0
-      },
-      {
-        "nome": "071 - LAGO NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-        "valor": 516.62
-      },
-      {
-        "nome": "062 - GUARA 2 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-        "valor": 280.0
-      },
-      {
-        "nome": "Posto de Combustiveis Garantia Ltda",
-        "valor": 280.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 917271.48,
+      "pct": 69.18
+    }
   }
 }

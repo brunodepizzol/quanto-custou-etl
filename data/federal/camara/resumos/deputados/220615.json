@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220615,
-    "geradoEm": "2026-03-03T15:34:13.223740Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.038330Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220615,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 9622.19,
         "OUTROS": 304460.37,
         "PASSAGENS": 397217.87
-      }
+      },
+      "qtdSemDocumentoPdf": 795,
+      "valorSemDocumentoPdf": 480947.2,
+      "qtdRecibosOutros": 309,
+      "valorRecibosOutros": 438011.97
     },
     "totaisAno": {
       "2023": 473201.94,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.305255,
-      "picoMes": "2024-12",
-      "picoValor": 58993.4,
-      "fornecedorTop1Pct": 0.009656,
-      "fornecedorTop3Pct": 0.019068,
-      "fornecedorHHI": 0.000155,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.388758,
-      "semDocumentoPct": 0.320294,
-      "recibosOutrosPct": 0.291701
-    },
-    "topFornecedores": [
-      {
-        "nome": "SERVCAR SOLUÇÕES AUTOMOTIVAS LTDA ME",
-        "valor": 14500.0
-      },
-      {
-        "nome": "FLEX MARKETING DIRETO LTDA",
-        "valor": 11000.0
-      },
-      {
-        "nome": "Empresa de Assessoria a Condominios e Imoveis LTDA",
-        "valor": 3131.41
-      },
-      {
-        "nome": "BROAD BRASIL LTDA",
-        "valor": 2100.0
-      },
-      {
-        "nome": "COLUNA IMOBILIARIA LTDA",
-        "valor": 1516.28
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 583751.71,
+      "pct": 38.88
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204517,
-    "geradoEm": "2026-03-03T15:34:13.275094Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.066507Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204517,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 4319.71,
         "OUTROS": 2011.66,
         "PASSAGENS": 121862.46
-      }
+      },
+      "qtdSemDocumentoPdf": 332,
+      "valorSemDocumentoPdf": 158638.13,
+      "qtdRecibosOutros": 62,
+      "valorRecibosOutros": 6834.0
     },
     "totaisAno": {
       "2023": 466452.93,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.247357,
-      "picoMes": "2023-08",
-      "picoValor": 63756.12,
-      "fornecedorTop1Pct": 0.015083,
-      "fornecedorTop3Pct": 0.018093,
-      "fornecedorHHI": 0.000233,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.789539,
-      "semDocumentoPct": 0.106143,
-      "recibosOutrosPct": 0.004573
-    },
-    "topFornecedores": [
-      {
-        "nome": "Cidade Positiva Assessoria Publicitaria LTDA",
-        "valor": 22542.0
-      },
-      {
-        "nome": "EDITORA & ARTES GRÁFICAS LTDA",
-        "valor": 2500.0
-      },
-      {
-        "nome": "DIGITAL COMUNICAÇÃO S.A",
-        "valor": 2000.0
-      },
-      {
-        "nome": "REGIONALZÃO NOTICIAS, CONSULTORIAS E PESQUISA LTDA",
-        "valor": 1000.0
-      },
-      {
-        "nome": "DIONE MARQUES ARRUDA",
-        "valor": 700.0
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1180022.7,
+      "pct": 78.95
+    }
   }
 }

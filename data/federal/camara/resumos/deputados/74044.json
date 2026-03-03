@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74044,
-    "geradoEm": "2026-03-03T15:34:13.272331Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.064869Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74044,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 58287.99,
         "OUTROS": 177824.74,
         "PASSAGENS": 90289.19
-      }
+      },
+      "qtdSemDocumentoPdf": 677,
+      "valorSemDocumentoPdf": 177556.14,
+      "qtdRecibosOutros": 41,
+      "valorRecibosOutros": 108117.49
     },
     "totaisAno": {
       "2023": 594309.25,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.358284,
-      "picoMes": "2023-10",
-      "picoValor": 87572.69,
-      "fornecedorTop1Pct": 0.021907,
-      "fornecedorTop3Pct": 0.0443,
-      "fornecedorHHI": 0.000772,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.669641,
-      "semDocumentoPct": 0.108047,
-      "recibosOutrosPct": 0.065792
-    },
-    "topFornecedores": [
-      {
-        "nome": "AGENCIAR - AGENCIA DE PUBLICAÇÃO E CAPACITAÇÃO",
-        "valor": 36000.0
-      },
-      {
-        "nome": "PROARTE COMUNICAÇÃO LTDA",
-        "valor": 24800.0
-      },
-      {
-        "nome": "construtora e locadora jmx me",
-        "valor": 12000.0
-      },
-      {
-        "nome": "AY SERVIÇO DE AGENCIAMENTO E PORTAL DE NOTICIAS LTDA",
-        "valor": 2200.0
-      },
-      {
-        "nome": "AGENCIA ENFOQUE PORTAL E SERVIÇOS DE COMUNICAÇÃO",
-        "valor": 2000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1100440.0,
+      "pct": 66.96
+    }
   }
 }

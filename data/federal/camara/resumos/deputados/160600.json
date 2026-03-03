@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160600,
-    "geradoEm": "2026-03-03T15:34:13.088101Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.963564Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160600,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 137835.94,
         "OUTROS": 348180.64,
         "PASSAGENS": 315153.82
-      }
+      },
+      "qtdSemDocumentoPdf": 849,
+      "valorSemDocumentoPdf": 527916.27,
+      "qtdRecibosOutros": 121,
+      "valorRecibosOutros": 248603.45
     },
     "totaisAno": {
       "2023": 524503.64,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.347353,
-      "picoMes": "2024-08",
-      "picoValor": 96190.78,
-      "fornecedorTop1Pct": 0.009058,
-      "fornecedorTop3Pct": 0.01867,
-      "fornecedorHHI": 0.00017,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.215474,
-      "semDocumentoPct": 0.318797,
-      "recibosOutrosPct": 0.150126
-    },
-    "topFornecedores": [
-      {
-        "nome": "Easy Way Tecnologia e Desenvolvimento de Software LTDA",
-        "valor": 15000.0
-      },
-      {
-        "nome": "J. CERQUEIRA E COMPANHIA",
-        "valor": 11467.44
-      },
-      {
-        "nome": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA",
-        "valor": 4450.0
-      },
-      {
-        "nome": "Gol Linhas Aereas S.A.",
-        "valor": 3634.98
-      },
-      {
-        "nome": "CARLOS EDUARDO CASAGRANDE",
-        "valor": 3545.31
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 356817.62,
+      "pct": 21.55
+    }
   }
 }

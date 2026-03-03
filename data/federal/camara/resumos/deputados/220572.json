@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220572,
-    "geradoEm": "2026-03-03T15:34:13.207577Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.029464Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220572,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 10436.36,
         "OUTROS": 121190.82,
         "PASSAGENS": 29605.64
-      }
+      },
+      "qtdSemDocumentoPdf": 653,
+      "valorSemDocumentoPdf": 179708.2,
+      "qtdRecibosOutros": 151,
+      "valorRecibosOutros": 109056.77
     },
     "totaisAno": {
       "2023": 393711.38,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.440125,
-      "picoMes": "2025-10",
-      "picoValor": 75327.66,
-      "fornecedorTop1Pct": 0.010361,
-      "fornecedorTop3Pct": 0.022104,
-      "fornecedorHHI": 0.000204,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.687456,
-      "semDocumentoPct": 0.124133,
-      "recibosOutrosPct": 0.075331
-    },
-    "topFornecedores": [
-      {
-        "nome": "MX LOAD LTDA ME",
-        "valor": 15000.0
-      },
-      {
-        "nome": "AUTORIO LOCADORA DE VEICULOS LTDA",
-        "valor": 12500.0
-      },
-      {
-        "nome": "RS PRODUTOS E SERVICOS EIRELI",
-        "valor": 4500.0
-      },
-      {
-        "nome": "VERONICA OLIVEIRA SILVA",
-        "valor": 3952.9
-      },
-      {
-        "nome": "SECRETARIA MUNICIPAL DA FAZENDA",
-        "valor": 2382.94
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 995232.4,
+      "pct": 68.75
+    }
   }
 }

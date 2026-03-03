@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204506,
-    "geradoEm": "2026-03-03T15:34:13.203384Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.027257Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204506,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 10863.59,
         "OUTROS": 0.0,
         "PASSAGENS": 115009.6
-      }
+      },
+      "qtdSemDocumentoPdf": 276,
+      "valorSemDocumentoPdf": 123325.17,
+      "qtdRecibosOutros": 1,
+      "valorRecibosOutros": 56.4
     },
     "totaisAno": {
       "2023": 463417.64,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.470186,
-      "picoMes": "2023-12",
-      "picoValor": 100846.29,
-      "fornecedorTop1Pct": 0.026607,
-      "fornecedorTop3Pct": 0.02806,
-      "fornecedorHHI": 0.000709,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.877364,
-      "semDocumentoPct": 0.082033,
-      "recibosOutrosPct": 3.8e-05
-    },
-    "topFornecedores": [
-      {
-        "nome": "MIND COMUNICACAO LTDA",
-        "valor": 40000.0
-      },
-      {
-        "nome": "ATLANTICA HOTELS INTERNATIONAL BRASIL LTDA",
-        "valor": 1534.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 650.0
-      },
-      {
-        "nome": "NOHOTEL AMERICANA LTDA",
-        "valor": 477.92
-      },
-      {
-        "nome": "FABIO ANTONIO TREVISI",
-        "valor": 450.0
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1319000.0,
+      "pct": 87.74
+    }
   }
 }

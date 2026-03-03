@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160538,
-    "geradoEm": "2026-03-03T15:34:13.094073Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.966907Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160538,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 74288.49,
         "OUTROS": 232735.43,
         "PASSAGENS": 190801.22
-      }
+      },
+      "qtdSemDocumentoPdf": 1251,
+      "valorSemDocumentoPdf": 380321.97,
+      "qtdRecibosOutros": 1175,
+      "valorRecibosOutros": 439313.14
     },
     "totaisAno": {
       "2023": 520519.11,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.241651,
-      "picoMes": "2025-02",
-      "picoValor": 60651.9,
-      "fornecedorTop1Pct": 0.007991,
-      "fornecedorTop3Pct": 0.016011,
-      "fornecedorHHI": 0.000108,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.357908,
-      "semDocumentoPct": 0.22679,
-      "recibosOutrosPct": 0.261967
-    },
-    "topFornecedores": [
-      {
-        "nome": "Kruel & Jurach Ltda - ME",
-        "valor": 13400.0
-      },
-      {
-        "nome": "VERDEPERTO EDITORA LTDA",
-        "valor": 7500.0
-      },
-      {
-        "nome": "LUCIO UBERDAN FERNANDES DE MACEDO - EIRELI",
-        "valor": 5950.0
-      },
-      {
-        "nome": "CREDITO REAL, IMO. E CONDOMÍNIOS SA",
-        "valor": 5154.34
-      },
-      {
-        "nome": "SEISELLES DISTRIBUIÇÃO E LOGÍSTICA LTDA",
-        "valor": 1624.5
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 600204.62,
+      "pct": 35.79
+    }
   }
 }

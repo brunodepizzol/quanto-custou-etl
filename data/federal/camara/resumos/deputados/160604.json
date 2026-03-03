@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160604,
-    "geradoEm": "2026-03-03T15:34:13.232084Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.042767Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160604,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 123813.15,
         "OUTROS": 203009.93,
         "PASSAGENS": 417793.83
-      }
+      },
+      "qtdSemDocumentoPdf": 1898,
+      "valorSemDocumentoPdf": 697865.95,
+      "qtdRecibosOutros": 489,
+      "valorRecibosOutros": 382737.6
     },
     "totaisAno": {
       "2023": 532391.42,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.405866,
-      "picoMes": "2024-05",
-      "picoValor": 77558.99,
-      "fornecedorTop1Pct": 0.004958,
-      "fornecedorTop3Pct": 0.011133,
-      "fornecedorHHI": 6e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.284464,
-      "semDocumentoPct": 0.475157,
-      "recibosOutrosPct": 0.260595
-    },
-    "topFornecedores": [
-      {
-        "nome": "LOCALIZA RENT A CAR SA",
-        "valor": 7281.79
-      },
-      {
-        "nome": "HOTEL GOOD STAY LTDA",
-        "valor": 5069.0
-      },
-      {
-        "nome": "DFMKT comunicacao e tecnologia LTDA",
-        "valor": 4000.0
-      },
-      {
-        "nome": "CBM LOCAÇÕES LTDA",
-        "valor": 3542.51
-      },
-      {
-        "nome": "POSTO MILAO LTDA",
-        "valor": 2953.47
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 417793.83,
+      "pct": 28.45
+    }
   }
 }

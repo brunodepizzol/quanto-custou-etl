@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220550,
-    "geradoEm": "2026-03-03T15:34:13.209680Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.030606Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220550,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 3488.55,
         "OUTROS": 267403.97,
         "PASSAGENS": 411480.87
-      }
+      },
+      "qtdSemDocumentoPdf": 834,
+      "valorSemDocumentoPdf": 477101.64,
+      "qtdRecibosOutros": 179,
+      "valorRecibosOutros": 295271.86
     },
     "totaisAno": {
       "2023": 502217.7,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.256725,
-      "picoMes": "2023-05",
-      "picoValor": 57760.19,
-      "fornecedorTop1Pct": 0.01331,
-      "fornecedorTop3Pct": 0.031578,
-      "fornecedorHHI": 0.000352,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.44204,
-      "semDocumentoPct": 0.311283,
-      "recibosOutrosPct": 0.192649
-    },
-    "topFornecedores": [
-      {
-        "nome": "MULTIFRAME PRODUCOES LTDA",
-        "valor": 20400.0
-      },
-      {
-        "nome": "Nacional Rent a Car Locação de Veiculos LTDA",
-        "valor": 16000.0
-      },
-      {
-        "nome": "XPLAY TV STREAMING FEIRAS EVENTOS LTDA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "ARA FILMES LTDA",
-        "valor": 2390.0
-      },
-      {
-        "nome": "BROAD BRASIL LTDA",
-        "valor": 2100.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 677511.62,
+      "pct": 44.2
+    }
   }
 }

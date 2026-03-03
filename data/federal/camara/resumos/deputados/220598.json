@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220598,
-    "geradoEm": "2026-03-03T15:34:13.263406Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.060012Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220598,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 54040.18,
         "OUTROS": 262834.43,
         "PASSAGENS": 449851.15
-      }
+      },
+      "qtdSemDocumentoPdf": 885,
+      "valorSemDocumentoPdf": 511688.76,
+      "qtdRecibosOutros": 880,
+      "valorRecibosOutros": 543557.09
     },
     "totaisAno": {
       "2023": 382559.41,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.44863,
-      "picoMes": "2023-11",
-      "picoValor": 80276.76,
-      "fornecedorTop1Pct": 0.005823,
-      "fornecedorTop3Pct": 0.012163,
-      "fornecedorHHI": 6.7e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.327462,
-      "semDocumentoPct": 0.372476,
-      "recibosOutrosPct": 0.395674
-    },
-    "topFornecedores": [
-      {
-        "nome": "STUDIO CACTUS CC ARTES GRAFICAS LTDA",
-        "valor": 8000.0
-      },
-      {
-        "nome": "RENHA IMÓVEIS E ADMINISTRAÇÃO",
-        "valor": 7859.53
-      },
-      {
-        "nome": "BROAD BRASIL LTDA",
-        "valor": 850.0
-      },
-      {
-        "nome": "AUTO POSTO MAQUINE LTDA",
-        "valor": 514.94
-      },
-      {
-        "nome": "LIGHT SERVICOS DE ELETRICIDADE S A",
-        "valor": 393.04
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 449851.15,
+      "pct": 32.75
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 73531,
-    "geradoEm": "2026-03-03T15:34:13.166026Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.006806Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 73531,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 16085.29,
         "OUTROS": 137917.76,
         "PASSAGENS": 227121.87
-      }
+      },
+      "qtdSemDocumentoPdf": 367,
+      "valorSemDocumentoPdf": 248543.0,
+      "qtdRecibosOutros": 469,
+      "valorRecibosOutros": 324925.12
     },
     "totaisAno": {
       "2023": 280844.2,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.430975,
-      "picoMes": "2025-03",
-      "picoValor": 67462.92,
-      "fornecedorTop1Pct": 0.004672,
-      "fornecedorTop3Pct": 0.013124,
-      "fornecedorHHI": 8.3e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.468896,
-      "semDocumentoPct": 0.193536,
-      "recibosOutrosPct": 0.253013
-    },
-    "topFornecedores": [
-      {
-        "nome": "FLEX MARKETING DIRETO LTDA",
-        "valor": 6000.0
-      },
-      {
-        "nome": "ROBOTTON GESTÃO DE PATRIMÔNIOS LTDA",
-        "valor": 5854.37
-      },
-      {
-        "nome": "LUCCA CIPOLLA CARDOSO",
-        "valor": 5000.0
-      },
-      {
-        "nome": "UNINOTE SERVIÇOS GRÁFICOS",
-        "valor": 5000.0
-      },
-      {
-        "nome": "SUZI MARIANE CAVALARI",
-        "valor": 3500.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 602166.3,
+      "pct": 46.89
+    }
   }
 }

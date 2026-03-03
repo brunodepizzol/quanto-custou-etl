@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204557,
-    "geradoEm": "2026-03-03T15:34:13.257669Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.056760Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204557,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 3342.25,
         "OUTROS": 875773.37,
         "PASSAGENS": 310358.81
-      }
+      },
+      "qtdSemDocumentoPdf": 877,
+      "valorSemDocumentoPdf": 360688.32,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 558375.83,
@@ -86,32 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.779918,
-      "picoMes": "2023-06",
-      "picoValor": 160112.78,
-      "fornecedorTop1Pct": 0.023149,
-      "fornecedorTop3Pct": 0.032987,
-      "fornecedorHHI": 0.000605,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.506826,
-      "semDocumentoPct": 0.208737,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "TAXI AEREO VALE DO MADEIRA",
-        "valor": 40000.0
-      },
-      {
-        "nome": "JOEL LINHARES DE OLIVEIRA 41754069134",
-        "valor": 14000.0
-      },
-      {
-        "nome": "GOMO COMUNICAÇÂO LTDA",
-        "valor": 3000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 875773.37,
+      "pct": 50.68
+    }
   }
 }

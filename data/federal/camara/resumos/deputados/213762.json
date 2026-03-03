@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 213762,
-    "geradoEm": "2026-03-03T15:34:13.097592Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.969018Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 213762,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1954.0,
         "OUTROS": 161700.0,
         "PASSAGENS": 53545.11
-      }
+      },
+      "qtdSemDocumentoPdf": 259,
+      "valorSemDocumentoPdf": 89991.87,
+      "qtdRecibosOutros": 50,
+      "valorRecibosOutros": 235460.5
     },
     "totaisAno": {
       "2023": 0.0,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.257926,
-      "picoMes": "2025-12",
-      "picoValor": 64786.75,
-      "fornecedorTop1Pct": 0.059079,
-      "fornecedorTop3Pct": 0.071748,
-      "fornecedorHHI": 0.003601,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.466514,
-      "semDocumentoPct": 0.146174,
-      "recibosOutrosPct": 0.382458
-    },
-    "topFornecedores": [
-      {
-        "nome": "GEORGE MATHEUS DA SILVA PERES",
-        "valor": 36372.0
-      },
-      {
-        "nome": "Iza Carla Silva Santa Brigida - ME",
-        "valor": 4800.0
-      },
-      {
-        "nome": "FUNDAÇÃO EURICO BERGSTEN",
-        "valor": 3000.0
-      },
-      {
-        "nome": "ROBSON ARAUJO PIRES",
-        "valor": 2000.0
-      },
-      {
-        "nome": "FLOR COMERCIO DE COMBUSTIVEIS LTDA",
-        "valor": 1393.8
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 287209.7,
+      "pct": 46.65
+    }
   }
 }

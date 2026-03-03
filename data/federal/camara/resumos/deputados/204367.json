@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204367,
-    "geradoEm": "2026-03-03T15:34:13.114545Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.978777Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204367,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 120207.99,
         "OUTROS": 279049.84,
         "PASSAGENS": 477608.39
-      }
+      },
+      "qtdSemDocumentoPdf": 1185,
+      "valorSemDocumentoPdf": 623543.97,
+      "qtdRecibosOutros": 284,
+      "valorRecibosOutros": 704396.77
     },
     "totaisAno": {
       "2023": 515852.64,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.345191,
-      "picoMes": "2023-08",
-      "picoValor": 76501.68,
-      "fornecedorTop1Pct": 0.005359,
-      "fornecedorTop3Pct": 0.012335,
-      "fornecedorHHI": 6.3e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.294475,
-      "semDocumentoPct": 0.384453,
-      "recibosOutrosPct": 0.434304
-    },
-    "topFornecedores": [
-      {
-        "nome": "ILHAMAR EMP. IMOBILIÁRIOS LTDA",
-        "valor": 8692.3
-      },
-      {
-        "nome": "mav - veículos e serviços ltda",
-        "valor": 8634.0
-      },
-      {
-        "nome": "LOCATIVA  EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
-        "valor": 2680.06
-      },
-      {
-        "nome": "Infoprint Informática",
-        "valor": 2000.0
-      },
-      {
-        "nome": "FLN LOCAÇÃO E COMERCIALIZAÇÃO DE MÁQUINAS E CAFÉ",
-        "valor": 1160.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 477608.39,
+      "pct": 29.45
+    }
   }
 }

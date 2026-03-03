@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220527,
-    "geradoEm": "2026-03-03T15:34:13.167225Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.007433Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220527,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 33227.73,
         "OUTROS": 256113.0,
         "PASSAGENS": 308903.28
-      }
+      },
+      "qtdSemDocumentoPdf": 866,
+      "valorSemDocumentoPdf": 425261.7,
+      "qtdRecibosOutros": 158,
+      "valorRecibosOutros": 203806.64
     },
     "totaisAno": {
       "2023": 490132.24,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.697253,
-      "picoMes": "2023-10",
-      "picoValor": 130027.45,
-      "fornecedorTop1Pct": 0.002721,
-      "fornecedorTop3Pct": 0.005577,
-      "fornecedorHHI": 1.2e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.421666,
-      "semDocumentoPct": 0.289248,
-      "recibosOutrosPct": 0.138622
-    },
-    "topFornecedores": [
-      {
-        "nome": "EVO COMERCIO DE VEICULOS LTDA",
-        "valor": 4000.0
-      },
-      {
-        "nome": "Liberty Cartuchos LTDA",
-        "valor": 2100.0
-      },
-      {
-        "nome": "PRIVILEGE ADMINISTRAÇÃO E NEGÓCIOS IMOBILIÁRIOS LTDA",
-        "valor": 2100.0
-      },
-      {
-        "nome": "AUTO POSTO PRESIDENTE LTDA",
-        "valor": 542.93
-      },
-      {
-        "nome": "AUTO POSTO PORTO LTDA",
-        "valor": 315.2
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 619947.65,
+      "pct": 42.17
+    }
   }
 }

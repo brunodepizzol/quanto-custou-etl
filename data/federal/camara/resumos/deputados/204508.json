@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204508,
-    "geradoEm": "2026-03-03T15:34:13.164813Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.006196Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204508,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 46365.93,
         "OUTROS": 6209.29,
         "PASSAGENS": 188226.55
-      }
+      },
+      "qtdSemDocumentoPdf": 454,
+      "valorSemDocumentoPdf": 230812.9,
+      "qtdRecibosOutros": 156,
+      "valorRecibosOutros": 528309.64
     },
     "totaisAno": {
       "2023": 479521.31,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.519685,
-      "picoMes": "2024-10",
-      "picoValor": 98718.11,
-      "fornecedorTop1Pct": 0.010277,
-      "fornecedorTop3Pct": 0.013669,
-      "fornecedorHHI": 0.000116,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.475815,
-      "semDocumentoPct": 0.158139,
-      "recibosOutrosPct": 0.361966
-    },
-    "topFornecedores": [
-      {
-        "nome": "VALÉRIA LUIZA DOS SANTOS",
-        "valor": 15000.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 3700.0
-      },
-      {
-        "nome": "EMPREENDIMENTOS HOTELEIRO TRES GS LTDA",
-        "valor": 1250.0
-      },
-      {
-        "nome": "VALLEY HILLS HOTEL",
-        "valor": 1197.0
-      },
-      {
-        "nome": "CEMIG DISTRIBUIÇÃO S.A.",
-        "valor": 1037.4
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 694478.63,
+      "pct": 47.58
+    }
   }
 }

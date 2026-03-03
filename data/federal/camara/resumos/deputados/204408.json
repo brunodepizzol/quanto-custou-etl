@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204408,
-    "geradoEm": "2026-03-03T15:34:13.159293Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.003308Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204408,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 286800.0,
         "PASSAGENS": 366289.12
-      }
+      },
+      "qtdSemDocumentoPdf": 315,
+      "valorSemDocumentoPdf": 380525.46,
+      "qtdRecibosOutros": 20,
+      "valorRecibosOutros": 286800.0
     },
     "totaisAno": {
       "2023": 491111.71,
@@ -86,30 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.859104,
-      "picoMes": "2023-12",
-      "picoValor": 189988.23,
-      "fornecedorTop1Pct": 0.011795,
-      "fornecedorTop3Pct": 0.021155,
-      "fornecedorHHI": 0.000227,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.57931,
-      "semDocumentoPct": 0.237468,
-      "recibosOutrosPct": 0.178978
-    },
-    "topFornecedores": [
-      {
-        "nome": "TOTAL FACILITES - SE LOCAÇÕES E SERVIÇOS LTDA",
-        "valor": 18900.0
-      },
-      {
-        "nome": "DB SOLUÇOES EM MARKETING LTDA",
-        "valor": 15000.0
-      }
-    ],
-    "flags": [
-      "spiky_spend"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 928302.0,
+      "pct": 57.93
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220631,
-    "geradoEm": "2026-03-03T15:34:13.254098Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.054755Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220631,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 50611.26,
         "OUTROS": 435983.0,
         "PASSAGENS": 299171.7
-      }
+      },
+      "qtdSemDocumentoPdf": 863,
+      "valorSemDocumentoPdf": 350693.37,
+      "qtdRecibosOutros": 523,
+      "valorRecibosOutros": 880696.35
     },
     "totaisAno": {
       "2023": 487297.51,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.241949,
-      "picoMes": "2025-10",
-      "picoValor": 55794.18,
-      "fornecedorTop1Pct": 0.008251,
-      "fornecedorTop3Pct": 0.017795,
-      "fornecedorHHI": 0.00012,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.333701,
-      "semDocumentoPct": 0.227607,
-      "recibosOutrosPct": 0.57159
-    },
-    "topFornecedores": [
-      {
-        "nome": "Pontual Loc Car ltda",
-        "valor": 12713.0
-      },
-      {
-        "nome": "Territorio Empreendimentos Imobiliarios",
-        "valor": 9221.61
-      },
-      {
-        "nome": "LOCALL PRINT LOCACOES,CONSULTORIAS E SERVIÇOS LTDA",
-        "valor": 5482.88
-      },
-      {
-        "nome": "COM. DE MOVEIS C. MASCARENHAS LTDA",
-        "valor": 2000.0
-      },
-      {
-        "nome": "POSTO DUAS PATRIAS LTDA",
-        "valor": 1417.43
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 514161.95,
+      "pct": 33.37
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160561,
-    "geradoEm": "2026-03-03T15:34:13.214651Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.033362Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160561,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 67866.63,
         "PASSAGENS": 6575.91
-      }
+      },
+      "qtdSemDocumentoPdf": 50,
+      "valorSemDocumentoPdf": 12382.62,
+      "qtdRecibosOutros": 17,
+      "valorRecibosOutros": 67883.13
     },
     "totaisAno": {
       "2023": 0.0,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 1.273916,
-      "picoMes": "2025-09",
-      "picoValor": 116739.63,
-      "fornecedorTop1Pct": 0.050432,
-      "fornecedorTop3Pct": 0.122477,
-      "fornecedorHHI": 0.005194,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.626432,
-      "semDocumentoPct": 0.044605,
-      "recibosOutrosPct": 0.244532
-    },
-    "topFornecedores": [
-      {
-        "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
-        "valor": 14000.0
-      },
-      {
-        "nome": "JH FILMES E MIDIA DIGITAL LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "NOVA MAR COMPANHIA DE EDUCAÇÃO, COMUNICAÇÃO E MARKETING LTDA.",
-        "valor": 10000.0
-      },
-      {
-        "nome": "AUTO POSTO CLASSE A DE ITU LTDA",
-        "valor": 1451.21
-      },
-      {
-        "nome": "AUTO POSTO MUFFATO LTDA.",
-        "valor": 761.41
-      }
-    ],
-    "flags": [
-      "spiky_spend"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 173900.0,
+      "pct": 62.64
+    }
   }
 }

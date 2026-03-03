@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74356,
-    "geradoEm": "2026-03-03T15:34:13.258081Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.057000Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74356,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 578200.0,
         "PASSAGENS": 364429.5
-      }
+      },
+      "qtdSemDocumentoPdf": 394,
+      "valorSemDocumentoPdf": 447237.7,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 494104.94,
@@ -86,36 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.840894,
-      "picoMes": "2025-03",
-      "picoValor": 146193.64,
-      "fornecedorTop1Pct": 0.027756,
-      "fornecedorTop3Pct": 0.049026,
-      "fornecedorHHI": 0.001102,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.412685,
-      "semDocumentoPct": 0.275854,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "VG APOIO ADMINISTRATIVO LTDA",
-        "valor": 45000.0
-      },
-      {
-        "nome": "AMAZONAVES TAXI AEREO LTDA",
-        "valor": 29000.0
-      },
-      {
-        "nome": "L M Empresa de Turismo Ltda",
-        "valor": 5485.89
-      },
-      {
-        "nome": "Telefônica Brasil S.A. VIVO",
-        "valor": 1275.66
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 669080.0,
+      "pct": 41.27
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160527,
-    "geradoEm": "2026-03-03T15:34:13.072649Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.954722Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160527,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 382499.99,
         "PASSAGENS": 424476.13
-      }
+      },
+      "qtdSemDocumentoPdf": 1472,
+      "valorSemDocumentoPdf": 582906.49,
+      "qtdRecibosOutros": 65,
+      "valorRecibosOutros": 372299.99
     },
     "totaisAno": {
       "2023": 501497.65,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.340986,
-      "picoMes": "2025-06",
-      "picoValor": 69593.78,
-      "fornecedorTop1Pct": 0.021767,
-      "fornecedorTop3Pct": 0.030013,
-      "fornecedorHHI": 0.000529,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.347434,
-      "semDocumentoPct": 0.373174,
-      "recibosOutrosPct": 0.238345
-    },
-    "topFornecedores": [
-      {
-        "nome": "STRATEGIA COMUNICACAO SERVICOS DE CONSULTORIA",
-        "valor": 34000.0
-      },
-      {
-        "nome": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
-        "valor": 11500.0
-      },
-      {
-        "nome": "POSTO ITAMARATY LTDA",
-        "valor": 1380.96
-      },
-      {
-        "nome": "Claro S/A",
-        "valor": 945.57
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 750.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 542700.0,
+      "pct": 34.74
+    }
   }
 }

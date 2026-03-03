@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 205476,
-    "geradoEm": "2026-03-03T15:34:13.104333Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.972844Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 205476,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 16282.98,
         "OUTROS": 47435.5,
         "PASSAGENS": 110702.43
-      }
+      },
+      "qtdSemDocumentoPdf": 767,
+      "valorSemDocumentoPdf": 370199.46,
+      "qtdRecibosOutros": 56,
+      "valorRecibosOutros": 202985.47
     },
     "totaisAno": {
       "2023": 482932.19,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.435058,
-      "picoMes": "2023-03",
-      "picoValor": 62819.8,
-      "fornecedorTop1Pct": 0.012922,
-      "fornecedorTop3Pct": 0.022594,
-      "fornecedorHHI": 0.00023,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.57041,
-      "semDocumentoPct": 0.246592,
-      "recibosOutrosPct": 0.13521
-    },
-    "topFornecedores": [
-      {
-        "nome": "IGUANAMBI PRODUÇÕES LTDA ME",
-        "valor": 19400.0
-      },
-      {
-        "nome": "WL COMUNICACAO E CONSULTORIA",
-        "valor": 9500.0
-      },
-      {
-        "nome": "POSTO GUARUJA LTDA",
-        "valor": 5020.0
-      },
-      {
-        "nome": "AGAPE EMPREENDIMENTOS HOTELEIRO E TURISTICO EIRELI",
-        "valor": 3378.0
-      },
-      {
-        "nome": "Azul Linhas Aéreas",
-        "valor": 2291.17
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 856335.0,
+      "pct": 57.04
+    }
   }
 }

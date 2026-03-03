@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220545,
-    "geradoEm": "2026-03-03T15:34:13.147993Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.997036Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220545,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 19791.21,
         "OUTROS": 318694.4,
         "PASSAGENS": 85889.97
-      }
+      },
+      "qtdSemDocumentoPdf": 619,
+      "valorSemDocumentoPdf": 238656.0,
+      "qtdRecibosOutros": 38,
+      "valorRecibosOutros": 241345.85
     },
     "totaisAno": {
       "2023": 514672.64,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.395846,
-      "picoMes": "2024-12",
-      "picoValor": 89487.04,
-      "fornecedorTop1Pct": 0.00741,
-      "fornecedorTop3Pct": 0.01394,
-      "fornecedorHHI": 8.6e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.45342,
-      "semDocumentoPct": 0.149859,
-      "recibosOutrosPct": 0.151548
-    },
-    "topFornecedores": [
-      {
-        "nome": "ELITE EMPREENDIMENTO COMERCIAL LTDA",
-        "valor": 11800.0
-      },
-      {
-        "nome": "GIZELSON MONTEIRO DE MOURA",
-        "valor": 6000.0
-      },
-      {
-        "nome": "PETRO PETROLEO 75 COMERCIO DE COMBUSTIVEIS LTDA",
-        "valor": 4400.16
-      },
-      {
-        "nome": "MAWAI MIDIA E PRODUÇÕES LTDA",
-        "valor": 3000.0
-      },
-      {
-        "nome": "VITAL E VITAL LTDA",
-        "valor": 2235.28
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 722089.17,
+      "pct": 45.34
+    }
   }
 }

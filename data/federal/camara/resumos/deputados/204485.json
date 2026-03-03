@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204485,
-    "geradoEm": "2026-03-03T15:34:13.193857Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.022035Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204485,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 497.2,
         "OUTROS": 350055.86,
         "PASSAGENS": 123392.79
-      }
+      },
+      "qtdSemDocumentoPdf": 320,
+      "valorSemDocumentoPdf": 129754.24,
+      "qtdRecibosOutros": 92,
+      "valorRecibosOutros": 441896.4
     },
     "totaisAno": {
       "2023": 345517.54,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.344054,
-      "picoMes": "2024-12",
-      "picoValor": 77476.6,
-      "fornecedorTop1Pct": 0.018314,
-      "fornecedorTop3Pct": 0.048313,
-      "fornecedorHHI": 0.000786,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.39147,
-      "semDocumentoPct": 0.116579,
-      "recibosOutrosPct": 0.397027
-    },
-    "topFornecedores": [
-      {
-        "nome": "É RIO PRETO COMUNICAÇÃO E MARKETING DIGITAL EIRELE",
-        "valor": 20383.22
-      },
-      {
-        "nome": "DANIELA DA SILVA GRAFICA - ME",
-        "valor": 16890.0
-      },
-      {
-        "nome": "ZANCA TRANSPORTES LTDA",
-        "valor": 16500.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 780.0
-      },
-      {
-        "nome": "AUTO POSTO CONCORDE LTDA",
-        "valor": 259.46
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 435711.46,
+      "pct": 39.15
+    }
   }
 }

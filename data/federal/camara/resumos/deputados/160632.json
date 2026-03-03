@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160632,
-    "geradoEm": "2026-03-03T15:34:13.274297Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.066052Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160632,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 32907.73,
         "OUTROS": 117120.0,
         "PASSAGENS": 212585.73
-      }
+      },
+      "qtdSemDocumentoPdf": 492,
+      "valorSemDocumentoPdf": 267123.86,
+      "qtdRecibosOutros": 112,
+      "valorRecibosOutros": 164497.43
     },
     "totaisAno": {
       "2023": 473809.42,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.440773,
-      "picoMes": "2023-12",
-      "picoValor": 114806.83,
-      "fornecedorTop1Pct": 0.019777,
-      "fornecedorTop3Pct": 0.026431,
-      "fornecedorHHI": 0.000432,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.51237,
-      "semDocumentoPct": 0.176098,
-      "recibosOutrosPct": 0.108443
-    },
-    "topFornecedores": [
-      {
-        "nome": "BENDITA AGENCIA DE MARKENTING DIGITAL E EVENTOS LTDA",
-        "valor": 30000.0
-      },
-      {
-        "nome": "MZ4 SERVIÇOS DIGITAIS LTDA",
-        "valor": 6000.0
-      },
-      {
-        "nome": "SIGMA SISTEMAS DE INFORMATICA LTDA -MEs",
-        "valor": 4093.62
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 2765.23
-      },
-      {
-        "nome": "LAR IMOVEIS LTDA",
-        "valor": 2353.57
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 777214.72,
+      "pct": 51.24
+    }
   }
 }

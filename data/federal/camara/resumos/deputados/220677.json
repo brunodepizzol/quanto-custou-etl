@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220677,
-    "geradoEm": "2026-03-03T15:34:13.182611Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.015782Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220677,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 25508.1,
         "OUTROS": 309700.0,
         "PASSAGENS": 397164.74
-      }
+      },
+      "qtdSemDocumentoPdf": 538,
+      "valorSemDocumentoPdf": 457503.05,
+      "qtdRecibosOutros": 41,
+      "valorRecibosOutros": 291811.77
     },
     "totaisAno": {
       "2023": 537352.42,
@@ -86,32 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.32312,
-      "picoMes": "2023-09",
-      "picoValor": 83520.96,
-      "fornecedorTop1Pct": 0.005982,
-      "fornecedorTop3Pct": 0.008842,
-      "fornecedorHHI": 4e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.475805,
-      "semDocumentoPct": 0.273686,
-      "recibosOutrosPct": 0.174567
-    },
-    "topFornecedores": [
-      {
-        "nome": "Rota Locação de Veículos Eirele",
-        "valor": 10000.0
-      },
-      {
-        "nome": "PARLANET WEB E TECNOLOGIA EIRELI",
-        "valor": 3000.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 1780.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 795371.26,
+      "pct": 47.58
+    }
   }
 }

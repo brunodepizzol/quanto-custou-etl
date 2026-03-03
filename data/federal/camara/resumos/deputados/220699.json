@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220699,
-    "geradoEm": "2026-03-03T15:34:13.101526Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.971244Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220699,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 46618.83,
         "OUTROS": 503108.8,
         "PASSAGENS": 288109.83
-      }
+      },
+      "qtdSemDocumentoPdf": 1003,
+      "valorSemDocumentoPdf": 495728.91,
+      "qtdRecibosOutros": 93,
+      "valorRecibosOutros": 428175.81
     },
     "totaisAno": {
       "2023": 461690.79,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.336198,
-      "picoMes": "2023-05",
-      "picoValor": 79876.86,
-      "fornecedorTop1Pct": 0.018947,
-      "fornecedorTop3Pct": 0.035009,
-      "fornecedorHHI": 0.000497,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.308085,
-      "semDocumentoPct": 0.303566,
-      "recibosOutrosPct": 0.262199
-    },
-    "topFornecedores": [
-      {
-        "nome": "WELSON VEICULOS LTDA",
-        "valor": 30940.0
-      },
-      {
-        "nome": "THIAGO BASTOS MACHADO SERVICOS DE ASSESSORIA EM COMUNICACAO",
-        "valor": 13230.0
-      },
-      {
-        "nome": "MARCA COMUNICACAO LTDA",
-        "valor": 13000.0
-      },
-      {
-        "nome": "KEYLANE RIOS SPODE",
-        "valor": 2796.0
-      },
-      {
-        "nome": "EDVALDO GOMES BARBOSA-ME",
-        "valor": 2494.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 503108.8,
+      "pct": 30.81
+    }
   }
 }

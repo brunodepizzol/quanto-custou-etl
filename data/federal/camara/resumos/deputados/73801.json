@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 73801,
-    "geradoEm": "2026-03-03T15:34:13.240542Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.047355Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 73801,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 13628.15,
         "OUTROS": 411441.0,
         "PASSAGENS": 143519.5
-      }
+      },
+      "qtdSemDocumentoPdf": 840,
+      "valorSemDocumentoPdf": 310660.51,
+      "qtdRecibosOutros": 95,
+      "valorRecibosOutros": 717397.74
     },
     "totaisAno": {
       "2023": 393980.18,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.194796,
-      "picoMes": "2023-09",
-      "picoValor": 44989.22,
-      "fornecedorTop1Pct": 0.01357,
-      "fornecedorTop3Pct": 0.027449,
-      "fornecedorHHI": 0.000294,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.317234,
-      "semDocumentoPct": 0.239529,
-      "recibosOutrosPct": 0.553137
-    },
-    "topFornecedores": [
-      {
-        "nome": "NUNES E REGO BARROS ADVOGADOS ASSOCIADOS",
-        "valor": 17600.0
-      },
-      {
-        "nome": "MATURI PROMO LTDA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "LLAE LOCAÇÕES LTDA",
-        "valor": 6000.0
-      },
-      {
-        "nome": "P.G - COMERCIO DE COMBUSTIVEIS LTDA",
-        "valor": 1038.83
-      },
-      {
-        "nome": "AYRON CARVALHO DE ARAUJO JUNIOR - ME",
-        "valor": 920.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 411441.0,
+      "pct": 31.72
+    }
   }
 }

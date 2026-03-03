@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178989,
-    "geradoEm": "2026-03-03T15:34:13.239723Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.046923Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178989,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
         "PASSAGENS": 288100.01
-      }
+      },
+      "qtdSemDocumentoPdf": 476,
+      "valorSemDocumentoPdf": 314697.05,
+      "qtdRecibosOutros": 5,
+      "valorRecibosOutros": 5754.88
     },
     "totaisAno": {
       "2023": 504783.88,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.47262,
-      "picoMes": "2025-05",
-      "picoValor": 87865.74,
-      "fornecedorTop1Pct": 0.020883,
-      "fornecedorTop3Pct": 0.031502,
-      "fornecedorHHI": 0.000519,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.594759,
-      "semDocumentoPct": 0.219061,
-      "recibosOutrosPct": 0.004006
-    },
-    "topFornecedores": [
-      {
-        "nome": "RG MARKETING E PRODUTORA LTDA",
-        "valor": 30000.0
-      },
-      {
-        "nome": "ENGAGE CRM - CONSULTORIA E SISTEMAS DA INFORMACAO LTDA.",
-        "valor": 9900.0
-      },
-      {
-        "nome": "MINUSSI FILMES PRESTACOES DE SERVICOS PRODUCOES CINEMATOGRAF",
-        "valor": 5354.32
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 4999.98
-      },
-      {
-        "nome": "JET 7 POSTOS E SERVIÇOS LTDA",
-        "valor": 4225.13
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 854416.78,
+      "pct": 59.48
+    }
   }
 }

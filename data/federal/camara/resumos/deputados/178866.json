@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178866,
-    "geradoEm": "2026-03-03T15:34:13.197138Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.023833Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178866,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 16440.58,
         "OUTROS": 317783.21,
         "PASSAGENS": 351916.42
-      }
+      },
+      "qtdSemDocumentoPdf": 868,
+      "valorSemDocumentoPdf": 469836.05,
+      "qtdRecibosOutros": 67,
+      "valorRecibosOutros": 270702.34
     },
     "totaisAno": {
       "2023": 552295.8,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.45544,
-      "picoMes": "2025-07",
-      "picoValor": 103209.91,
-      "fornecedorTop1Pct": 0.028439,
-      "fornecedorTop3Pct": 0.037272,
-      "fornecedorHHI": 0.000853,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.413397,
-      "semDocumentoPct": 0.274853,
-      "recibosOutrosPct": 0.15836
-    },
-    "topFornecedores": [
-      {
-        "nome": "A DE LIMA CARDOSO",
-        "valor": 48613.8
-      },
-      {
-        "nome": "LOCARFLEX LOCAÇÕES DE VEÍCULOS EIRELI ME",
-        "valor": 9100.0
-      },
-      {
-        "nome": "Diego Ladim Borges",
-        "valor": 6000.0
-      },
-      {
-        "nome": "51.144.922 DIEGO LANDIM BORGES",
-        "valor": 3000.0
-      },
-      {
-        "nome": "DRA4 DERIVADOS DE PETROLEO LTDA",
-        "valor": 683.04
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 706664.39,
+      "pct": 41.34
+    }
   }
 }

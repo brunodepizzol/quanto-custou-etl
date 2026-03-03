@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204539,
-    "geradoEm": "2026-03-03T15:34:13.162441Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.005056Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204539,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 30941.89,
         "OUTROS": 79759.52,
         "PASSAGENS": 20230.06
-      }
+      },
+      "qtdSemDocumentoPdf": 15,
+      "valorSemDocumentoPdf": 18123.38,
+      "qtdRecibosOutros": 137,
+      "valorRecibosOutros": 52323.79
     },
     "totaisAno": {
       "2023": 312746.47,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.77997,
-      "picoMes": "2024-07",
-      "picoValor": 115299.4,
-      "fornecedorTop1Pct": 0.002901,
-      "fornecedorTop3Pct": 0.005656,
-      "fornecedorHHI": 1.3e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.792169,
-      "semDocumentoPct": 0.015022,
-      "recibosOutrosPct": 0.043371
-    },
-    "topFornecedores": [
-      {
-        "nome": "Bruno Argolo Rodrigues Silva",
-        "valor": 3500.0
-      },
-      {
-        "nome": "HARLEY FABIANY JUNQUEIRA COBRA",
-        "valor": 1840.0
-      },
-      {
-        "nome": "CONDOMÍNIO ED PRINCIPE CHARLES",
-        "valor": 1483.04
-      },
-      {
-        "nome": "AUTO POSTO BELO VALE LTDA",
-        "valor": 1033.93
-      },
-      {
-        "nome": "POSTO PARAGOMINAS LTDA",
-        "valor": 452.61
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 955690.0,
+      "pct": 79.22
+    }
   }
 }

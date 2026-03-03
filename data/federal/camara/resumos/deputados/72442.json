@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 72442,
-    "geradoEm": "2026-03-03T15:34:13.144164Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.995027Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 72442,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 66883.81,
         "OUTROS": 248950.13,
         "PASSAGENS": 646617.6
-      }
+      },
+      "qtdSemDocumentoPdf": 1345,
+      "valorSemDocumentoPdf": 778155.69,
+      "qtdRecibosOutros": 61,
+      "valorRecibosOutros": 249170.98
     },
     "totaisAno": {
       "2023": 306633.28,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.374649,
-      "picoMes": "2024-12",
-      "picoValor": 79926.55,
-      "fornecedorTop1Pct": 0.007154,
-      "fornecedorTop3Pct": 0.017973,
-      "fornecedorHHI": 0.000157,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.467295,
-      "semDocumentoPct": 0.562355,
-      "recibosOutrosPct": 0.18007
-    },
-    "topFornecedores": [
-      {
-        "nome": "Carlos Eduardo de Gois Paiva Lubrificação",
-        "valor": 9900.0
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 9570.53
-      },
-      {
-        "nome": "VIA LOCADORA DE AUTOMOVEIS LTDA",
-        "valor": 5400.0
-      },
-      {
-        "nome": "EMISSORA DE RADIO POLO LTDA - ME",
-        "valor": 4800.0
-      },
-      {
-        "nome": "KLEBER MORAES MENA",
-        "valor": 4000.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 646617.6,
+      "pct": 46.73
+    }
   }
 }

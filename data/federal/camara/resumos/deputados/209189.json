@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 209189,
-    "geradoEm": "2026-03-03T15:34:13.176205Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.012272Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 209189,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 19769.78,
         "OUTROS": 429132.89,
         "PASSAGENS": 166278.49
-      }
+      },
+      "qtdSemDocumentoPdf": 1174,
+      "valorSemDocumentoPdf": 370054.6,
+      "qtdRecibosOutros": 96,
+      "valorRecibosOutros": 301645.96
     },
     "totaisAno": {
       "2023": 498964.89,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.274934,
-      "picoMes": "2024-10",
-      "picoValor": 63501.38,
-      "fornecedorTop1Pct": 0.014256,
-      "fornecedorTop3Pct": 0.027324,
-      "fornecedorHHI": 0.000362,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.303446,
-      "semDocumentoPct": 0.219811,
-      "recibosOutrosPct": 0.179177
-    },
-    "topFornecedores": [
-      {
-        "nome": "NATIVA SERVICOS EIRELI - ME",
-        "valor": 24000.0
-      },
-      {
-        "nome": "ANDRE LUIZ MACHADO DOS SANTOS",
-        "valor": 14000.0
-      },
-      {
-        "nome": "RADIO REGIONAL DE ALAGOINHAS",
-        "valor": 8000.0
-      },
-      {
-        "nome": "SILVA OUTIDOR PUBLICIDADE LTDA",
-        "valor": 6900.0
-      },
-      {
-        "nome": "PEGA COMERCIO E SERVIÇOS DE PUBLICIDADE LTDA",
-        "valor": 6500.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 510853.66,
+      "pct": 30.34
+    }
   }
 }

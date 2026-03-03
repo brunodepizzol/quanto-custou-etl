@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 205865,
-    "geradoEm": "2026-03-03T15:34:13.239305Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.046675Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 205865,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 4822.0,
         "OUTROS": 198844.06,
         "PASSAGENS": 88780.27
-      }
+      },
+      "qtdSemDocumentoPdf": 376,
+      "valorSemDocumentoPdf": 161894.59,
+      "qtdRecibosOutros": 491,
+      "valorRecibosOutros": 291148.16
     },
     "totaisAno": {
       "2023": 371005.82,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.219443,
-      "picoMes": "2023-12",
-      "picoValor": 75980.59,
-      "fornecedorTop1Pct": 0.033726,
-      "fornecedorTop3Pct": 0.045935,
-      "fornecedorHHI": 0.001216,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.670232,
-      "semDocumentoPct": 0.109202,
-      "recibosOutrosPct": 0.196387
-    },
-    "topFornecedores": [
-      {
-        "nome": "CENTRAL PARANAENSE DE COMUNICAÇÃO LTDA-ME",
-        "valor": 50000.0
-      },
-      {
-        "nome": "OVERCOME PUBLICIDADE E MARKETING LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "BARIGUI LOCADORA DE VEÍCULOS LTDA",
-        "valor": 8100.0
-      },
-      {
-        "nome": "FAG ADMINISTRAÇÃO E PARTICIPAÇÕES LTDA",
-        "valor": 2011.97
-      },
-      {
-        "nome": "COND EDIF WORLD BUSINESS",
-        "valor": 1036.22
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 993632.13,
+      "pct": 67.02
+    }
   }
 }

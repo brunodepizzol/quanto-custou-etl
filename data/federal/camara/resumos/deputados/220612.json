@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220612,
-    "geradoEm": "2026-03-03T15:34:13.091248Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.965369Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220612,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 4753.9,
         "OUTROS": 423600.0,
         "PASSAGENS": 158193.02
-      }
+      },
+      "qtdSemDocumentoPdf": 768,
+      "valorSemDocumentoPdf": 350890.87,
+      "qtdRecibosOutros": 39,
+      "valorRecibosOutros": 384738.8
     },
     "totaisAno": {
       "2023": 476599.31,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.548503,
-      "picoMes": "2024-12",
-      "picoValor": 134785.53,
-      "fornecedorTop1Pct": 0.013931,
-      "fornecedorTop3Pct": 0.029918,
-      "fornecedorHHI": 0.000329,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.303093,
-      "semDocumentoPct": 0.222606,
-      "recibosOutrosPct": 0.244079
-    },
-    "topFornecedores": [
-      {
-        "nome": "DAIRE PARTICIPAÇÕES LTDA",
-        "valor": 21959.6
-      },
-      {
-        "nome": "FCT MULTISERV COMERCIO E SERVIÇOS LTDA",
-        "valor": 12700.0
-      },
-      {
-        "nome": "FUTURO MARKETING DIGITAL LTDA",
-        "valor": 12500.0
-      },
-      {
-        "nome": "Wellington Farias Liniere Fonseca",
-        "valor": 3000.0
-      },
-      {
-        "nome": "POSTO NOVA GUAPI LTDA",
-        "valor": 2013.16
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 477762.65,
+      "pct": 30.31
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204460,
-    "geradoEm": "2026-03-03T15:34:13.099119Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.969889Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204460,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 480.0,
         "OUTROS": 336400.0,
         "PASSAGENS": 249895.59
-      }
+      },
+      "qtdSemDocumentoPdf": 988,
+      "valorSemDocumentoPdf": 392264.14,
+      "qtdRecibosOutros": 110,
+      "valorRecibosOutros": 438807.21
     },
     "totaisAno": {
       "2023": 475307.83,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.464896,
-      "picoMes": "2023-12",
-      "picoValor": 83964.93,
-      "fornecedorTop1Pct": 0.011274,
-      "fornecedorTop3Pct": 0.020819,
-      "fornecedorHHI": 0.000192,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.278385,
-      "semDocumentoPct": 0.294818,
-      "recibosOutrosPct": 0.329799
-    },
-    "topFornecedores": [
-      {
-        "nome": "AB COMUNICAÇÃO DIGITAL LTDA",
-        "valor": 15000.0
-      },
-      {
-        "nome": "GTHUR Logistica LTDA",
-        "valor": 6700.0
-      },
-      {
-        "nome": "LUIS FELIPE PEREIRA BARBOSA",
-        "valor": 6000.0
-      },
-      {
-        "nome": "PANTANAL VEÍCULOS LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "POSTO GROTAO LTDA",
-        "valor": 1348.05
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 370400.0,
+      "pct": 27.84
+    }
   }
 }

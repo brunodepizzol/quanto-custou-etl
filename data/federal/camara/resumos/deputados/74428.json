@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74428,
-    "geradoEm": "2026-03-03T15:34:13.211695Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.031729Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74428,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 28728.97,
         "OUTROS": 298826.43,
         "PASSAGENS": 341808.51
-      }
+      },
+      "qtdSemDocumentoPdf": 773,
+      "valorSemDocumentoPdf": 419764.11,
+      "qtdRecibosOutros": 96,
+      "valorRecibosOutros": 612788.61
     },
     "totaisAno": {
       "2023": 513641.71,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.364987,
-      "picoMes": "2023-11",
-      "picoValor": 89123.4,
-      "fornecedorTop1Pct": 0.006094,
-      "fornecedorTop3Pct": 0.015725,
-      "fornecedorHHI": 9.3e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.287236,
-      "semDocumentoPct": 0.26103,
-      "recibosOutrosPct": 0.381062
-    },
-    "topFornecedores": [
-      {
-        "nome": "PUBLI ASSESSORIA LTDA",
-        "valor": 9800.0
-      },
-      {
-        "nome": "ROBERT GRAN NEGOCIOS IMOBILIAR",
-        "valor": 9588.0
-      },
-      {
-        "nome": "AUTO VIAÇÃO GLOBO LTDA",
-        "valor": 5900.0
-      },
-      {
-        "nome": "GABRIEL BRAGA SOARES - LITTLE BOX MEDIA",
-        "valor": 3000.0
-      },
-      {
-        "nome": "BROAD BRASIL LTDA",
-        "valor": 2100.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 461906.58,
+      "pct": 28.72
+    }
   }
 }

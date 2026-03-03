@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 141555,
-    "geradoEm": "2026-03-03T15:34:13.268953Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.063082Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 141555,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 42972.91,
         "OUTROS": 147648.8,
         "PASSAGENS": 380761.5
-      }
+      },
+      "qtdSemDocumentoPdf": 468,
+      "valorSemDocumentoPdf": 391419.11,
+      "qtdRecibosOutros": 188,
+      "valorRecibosOutros": 552887.58
     },
     "totaisAno": {
       "2023": 487120.94,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.412764,
-      "picoMes": "2025-10",
-      "picoValor": 75579.05,
-      "fornecedorTop1Pct": 0.002242,
-      "fornecedorTop3Pct": 0.003882,
-      "fornecedorHHI": 7e-06,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.350395,
-      "semDocumentoPct": 0.278587,
-      "recibosOutrosPct": 0.39351
-    },
-    "topFornecedores": [
-      {
-        "nome": "REIS JR EMPREENDIMENTOS IMOBILIARIOS LTDA",
-        "valor": 3150.0
-      },
-      {
-        "nome": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
-        "valor": 1599.83
-      },
-      {
-        "nome": "EDITORA E JORNAL FOLHA POPULAR LTDA ME",
-        "valor": 705.0
-      },
-      {
-        "nome": "BROAD BRASIL LTDA",
-        "valor": 650.0
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 565.83
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 492310.02,
+      "pct": 35.04
+    }
   }
 }

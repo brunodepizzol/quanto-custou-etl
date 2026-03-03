@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220546,
-    "geradoEm": "2026-03-03T15:34:13.246628Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.050705Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220546,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 8608.18,
         "OUTROS": 420000.0,
         "PASSAGENS": 77727.56
-      }
+      },
+      "qtdSemDocumentoPdf": 834,
+      "valorSemDocumentoPdf": 305349.89,
+      "qtdRecibosOutros": 90,
+      "valorRecibosOutros": 467014.08
     },
     "totaisAno": {
       "2023": 520642.09,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.428988,
-      "picoMes": "2024-12",
-      "picoValor": 118301.34,
-      "fornecedorTop1Pct": 0.008893,
-      "fornecedorTop3Pct": 0.018859,
-      "fornecedorHHI": 0.000145,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.494771,
-      "semDocumentoPct": 0.181028,
-      "recibosOutrosPct": 0.276871
-    },
-    "topFornecedores": [
-      {
-        "nome": "Cocriar Negocios Digitais",
-        "valor": 15000.0
-      },
-      {
-        "nome": "S M SBARDELOTTO",
-        "valor": 12000.0
-      },
-      {
-        "nome": "POSTO PATRICIA - EIRELI",
-        "valor": 4810.24
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 3755.03
-      },
-      {
-        "nome": "BROAD BRASIL LTDA",
-        "valor": 1700.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 834557.89,
+      "pct": 49.48
+    }
   }
 }

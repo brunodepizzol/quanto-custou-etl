@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 226708,
-    "geradoEm": "2026-03-03T15:34:13.078573Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.958200Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 226708,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 33831.33,
         "OUTROS": 140617.58,
         "PASSAGENS": 209746.17
-      }
+      },
+      "qtdSemDocumentoPdf": 630,
+      "valorSemDocumentoPdf": 283498.47,
+      "qtdRecibosOutros": 33,
+      "valorRecibosOutros": 171520.58
     },
     "totaisAno": {
       "2023": 170192.68,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.328875,
-      "picoMes": "2024-01",
-      "picoValor": 71326.74,
-      "fornecedorTop1Pct": 0.012014,
-      "fornecedorTop3Pct": 0.028032,
-      "fornecedorHHI": 0.000298,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.594236,
-      "semDocumentoPct": 0.227058,
-      "recibosOutrosPct": 0.137374
-    },
-    "topFornecedores": [
-      {
-        "nome": "60.551.898 TECIO VINICIUS CALDAS FRANCA",
-        "valor": 15000.0
-      },
-      {
-        "nome": "LocaSempre Rent a Car",
-        "valor": 10000.0
-      },
-      {
-        "nome": "GISELE APARECIDA DE ARAUJO METER LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 3853.83
-      },
-      {
-        "nome": "Carvalho Neto Imóveis Ltda",
-        "valor": 3000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 741945.71,
+      "pct": 59.42
+    }
   }
 }

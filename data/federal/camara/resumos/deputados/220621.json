@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220621,
-    "geradoEm": "2026-03-03T15:34:13.255329Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.055441Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220621,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 144000.0,
         "PASSAGENS": 347174.98
-      }
+      },
+      "qtdSemDocumentoPdf": 533,
+      "valorSemDocumentoPdf": 856601.74,
+      "qtdRecibosOutros": 25,
+      "valorRecibosOutros": 194399.98
     },
     "totaisAno": {
       "2023": 369643.57,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.993852,
-      "picoMes": "2024-12",
-      "picoValor": 158859.55,
-      "fornecedorTop1Pct": 0.019086,
-      "fornecedorTop3Pct": 0.026206,
-      "fornecedorHHI": 0.000394,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.529081,
-      "semDocumentoPct": 0.628805,
-      "recibosOutrosPct": 0.142703
-    },
-    "topFornecedores": [
-      {
-        "nome": "BANDEIRANTES PROPAGANDA POTIGUAR LTDA",
-        "valor": 26000.0
-      },
-      {
-        "nome": "CENTRAL DE MIDIA E MARKETING LTDA",
-        "valor": 6000.0
-      },
-      {
-        "nome": "FUNDAÇÃO EURICO BERGSTEN",
-        "valor": 3700.0
-      },
-      {
-        "nome": "RÁDIO LIBERTADORA MOSSOROENSE LTDA.",
-        "valor": 2000.0
-      },
-      {
-        "nome": "AUTO POSTO SAO TOME LTDA IV",
-        "valor": 440.78
-      }
-    ],
-    "flags": [
-      "spiky_spend",
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 720750.0,
+      "pct": 52.91
+    }
   }
 }

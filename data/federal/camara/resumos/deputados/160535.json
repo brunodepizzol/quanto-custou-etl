@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160535,
-    "geradoEm": "2026-03-03T15:34:13.202599Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.026781Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160535,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 93179.67,
         "OUTROS": 141559.52,
         "PASSAGENS": 205144.14
-      }
+      },
+      "qtdSemDocumentoPdf": 2077,
+      "valorSemDocumentoPdf": 736141.24,
+      "qtdRecibosOutros": 286,
+      "valorRecibosOutros": 287642.08
     },
     "totaisAno": {
       "2023": 412340.99,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.400932,
-      "picoMes": "2025-05",
-      "picoValor": 75618.48,
-      "fornecedorTop1Pct": 0.002826,
-      "fornecedorTop3Pct": 0.006216,
-      "fornecedorHHI": 2.2e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.273283,
-      "semDocumentoPct": 0.522691,
-      "recibosOutrosPct": 0.204238
-    },
-    "topFornecedores": [
-      {
-        "nome": "SPERINDE GESTÃO IMOBILIÁRIA LTDA",
-        "valor": 3980.67
-      },
-      {
-        "nome": "CITYCAR ALUGUEL DE VEÍCULOS S.A.",
-        "valor": 3037.44
-      },
-      {
-        "nome": "Estafacil Estacionamentos Eireli - ME",
-        "valor": 1737.0
-      },
-      {
-        "nome": "VIVO TELEFONICA BRASILIA",
-        "valor": 1258.22
-      },
-      {
-        "nome": "COML BUFFON COMB E TRANSP LTDA - POSTO 10",
-        "valor": 1244.02
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 384883.26,
+      "pct": 27.33
+    }
   }
 }

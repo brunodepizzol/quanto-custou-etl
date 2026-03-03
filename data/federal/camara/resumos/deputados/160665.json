@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160665,
-    "geradoEm": "2026-03-03T15:34:13.089261Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.964258Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160665,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 25919.62,
         "OUTROS": 421654.0,
         "PASSAGENS": 249139.34
-      }
+      },
+      "qtdSemDocumentoPdf": 855,
+      "valorSemDocumentoPdf": 373223.67,
+      "qtdRecibosOutros": 368,
+      "valorRecibosOutros": 931178.75
     },
     "totaisAno": {
       "2023": 548916.2,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.288072,
-      "picoMes": "2023-12",
-      "picoValor": 85152.61,
-      "fornecedorTop1Pct": 0.007531,
-      "fornecedorTop3Pct": 0.014599,
-      "fornecedorHHI": 9.3e-05,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.411083,
-      "semDocumentoPct": 0.222724,
-      "recibosOutrosPct": 0.555688
-    },
-    "topFornecedores": [
-      {
-        "nome": "BCC LOCAÇÕES DE VEÍCULOS LTDA",
-        "valor": 12620.0
-      },
-      {
-        "nome": "DEIVY JAROSLAVSKY RUSHANSKY",
-        "valor": 7480.06
-      },
-      {
-        "nome": "RUPLAST INDUSTRIA E COMERCIO LTDA",
-        "valor": 4364.41
-      },
-      {
-        "nome": "27.628.583 DIOGO FERNANDES BEZERRA",
-        "valor": 3000.0
-      },
-      {
-        "nome": "SUBCONDOMÍNIO DO COMPLEXO EMP. RM TRADE CENTER - AV. REPÚBLICA DO LÍBANO 251 - PINA - RECIFE/PE",
-        "valor": 2690.68
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 688860.4,
+      "pct": 41.11
+    }
   }
 }

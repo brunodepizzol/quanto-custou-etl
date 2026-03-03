@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178910,
-    "geradoEm": "2026-03-03T15:34:13.171697Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.009758Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178910,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 41286.94,
         "OUTROS": 233070.94,
         "PASSAGENS": 435686.77
-      }
+      },
+      "qtdSemDocumentoPdf": 911,
+      "valorSemDocumentoPdf": 503884.45,
+      "qtdRecibosOutros": 121,
+      "valorRecibosOutros": 378910.25
     },
     "totaisAno": {
       "2023": 487484.9,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.590115,
-      "picoMes": "2023-12",
-      "picoValor": 111780.38,
-      "fornecedorTop1Pct": 0.006103,
-      "fornecedorTop3Pct": 0.010973,
-      "fornecedorHHI": 5.2e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.313717,
-      "semDocumentoPct": 0.341714,
-      "recibosOutrosPct": 0.256962
-    },
-    "topFornecedores": [
-      {
-        "nome": "MERCURIO COMUNICAÇÃO LTDA",
-        "valor": 9000.0
-      },
-      {
-        "nome": "Azul Linhas Aéreas",
-        "valor": 3613.68
-      },
-      {
-        "nome": "LOCALIZA RENT CAR S/A",
-        "valor": 3566.64
-      },
-      {
-        "nome": "TECNEWS CORPORATION COMÉRCIO E SERVIÇO LTDA",
-        "valor": 1800.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 830.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 462600.0,
+      "pct": 31.37
+    }
   }
 }

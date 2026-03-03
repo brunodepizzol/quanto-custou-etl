@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74478,
-    "geradoEm": "2026-03-03T15:34:13.189792Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.019795Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74478,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 3146.68,
         "OUTROS": 266929.09,
         "PASSAGENS": 325316.3
-      }
+      },
+      "qtdSemDocumentoPdf": 489,
+      "valorSemDocumentoPdf": 361825.81,
+      "qtdRecibosOutros": 119,
+      "valorRecibosOutros": 316476.19
     },
     "totaisAno": {
       "2023": 278819.2,
@@ -86,34 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.532347,
-      "picoMes": "2025-10",
-      "picoValor": 87334.88,
-      "fornecedorTop1Pct": 0.001176,
-      "fornecedorTop3Pct": 0.001418,
-      "fornecedorHHI": 1e-06,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.413667,
-      "semDocumentoPct": 0.310616,
-      "recibosOutrosPct": 0.271685
-    },
-    "topFornecedores": [
-      {
-        "nome": "WELLINGTON DA SILVA AZEVEDO",
-        "valor": 1370.0
-      },
-      {
-        "nome": "BARRA TAXI",
-        "valor": 150.0
-      },
-      {
-        "nome": "GM RESTAURANTE LTDA",
-        "valor": 131.79
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 481866.0,
+      "pct": 41.37
+    }
   }
 }

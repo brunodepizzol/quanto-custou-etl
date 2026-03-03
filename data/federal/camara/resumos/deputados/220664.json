@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220664,
-    "geradoEm": "2026-03-03T15:34:13.158497Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.002853Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220664,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 12872.1,
         "OUTROS": 336316.75,
         "PASSAGENS": 270289.94
-      }
+      },
+      "qtdSemDocumentoPdf": 857,
+      "valorSemDocumentoPdf": 390026.22,
+      "qtdRecibosOutros": 35,
+      "valorRecibosOutros": 342316.75
     },
     "totaisAno": {
       "2023": 510281.47,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.885169,
-      "picoMes": "2024-12",
-      "picoValor": 245807.96,
-      "fornecedorTop1Pct": 0.008501,
-      "fornecedorTop3Pct": 0.01767,
-      "fornecedorHHI": 0.000135,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.549865,
-      "semDocumentoPct": 0.236835,
-      "recibosOutrosPct": 0.207864
-    },
-    "topFornecedores": [
-      {
-        "nome": "PEDRO HENRIQUE MENEZES BEZERRA - PMZ CREATIVE STUDIO DE MARKETING LTDA",
-        "valor": 14000.0
-      },
-      {
-        "nome": "CONTRANS TRANSPORTES E LOCACOES LTDA",
-        "valor": 12600.0
-      },
-      {
-        "nome": "SOLU ASSESSORIA EM MARKETING LTDA -- AGÊNCIA DE PUBLICIDADE",
-        "valor": 2500.0
-      },
-      {
-        "nome": "247 COMERCIO LTDA",
-        "valor": 1909.48
-      },
-      {
-        "nome": "PETROCAL PETROLEO CAVALCANTI LTDA",
-        "valor": 760.42
-      }
-    ],
-    "flags": [
-      "spiky_spend"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 905533.45,
+      "pct": 54.99
+    }
   }
 }

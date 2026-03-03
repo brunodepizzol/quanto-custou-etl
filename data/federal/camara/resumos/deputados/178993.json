@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178993,
-    "geradoEm": "2026-03-03T15:34:13.098716Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.969661Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178993,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 444000.0,
         "PASSAGENS": 110720.12
-      }
+      },
+      "qtdSemDocumentoPdf": 1117,
+      "valorSemDocumentoPdf": 460231.51,
+      "qtdRecibosOutros": 108,
+      "valorRecibosOutros": 794206.69
     },
     "totaisAno": {
       "2023": 500745.01,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.258138,
-      "picoMes": "2024-12",
-      "picoValor": 66362.19,
-      "fornecedorTop1Pct": 0.015126,
-      "fornecedorTop3Pct": 0.028359,
-      "fornecedorHHI": 0.000373,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.279836,
-      "semDocumentoPct": 0.290067,
-      "recibosOutrosPct": 0.500559
-    },
-    "topFornecedores": [
-      {
-        "nome": "LS PRODUTOS E SERVIÇOS LTDA - ME",
-        "valor": 24000.0
-      },
-      {
-        "nome": "FERNANDO GUIMARAES MENDES",
-        "valor": 18000.0
-      },
-      {
-        "nome": "COMERCIAL DE COMBUSTIVEIS CASA TUA LTDA",
-        "valor": 2994.93
-      },
-      {
-        "nome": "PETRO - POSTOS DE ABASTECIMENTO LTDA",
-        "valor": 2849.54
-      },
-      {
-        "nome": "Condomínio do Edifício JK Business Center",
-        "valor": 2779.85
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 444000.0,
+      "pct": 27.98
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220537,
-    "geradoEm": "2026-03-03T15:34:13.160918Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.004198Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220537,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 8322.16,
         "OUTROS": 112099.05,
         "PASSAGENS": 247453.29
-      }
+      },
+      "qtdSemDocumentoPdf": 887,
+      "valorSemDocumentoPdf": 464136.06,
+      "qtdRecibosOutros": 75,
+      "valorRecibosOutros": 20901.67
     },
     "totaisAno": {
       "2023": 594566.58,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.268593,
-      "picoMes": "2023-10",
-      "picoValor": 78403.73,
-      "fornecedorTop1Pct": 0.005816,
-      "fornecedorTop3Pct": 0.014957,
-      "fornecedorHHI": 0.000105,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.54452,
-      "semDocumentoPct": 0.251489,
-      "recibosOutrosPct": 0.011325
-    },
-    "topFornecedores": [
-      {
-        "nome": "RR COMERCIO DE COMBUSTIVEIS LTDA  92",
-        "valor": 10733.38
-      },
-      {
-        "nome": "PARIMA RENT A CAR",
-        "valor": 8870.95
-      },
-      {
-        "nome": "49.575.321 DEBORA FERNANDA FARIAS LACERDA",
-        "valor": 8000.0
-      },
-      {
-        "nome": "ESPEDIDO ARAUJO PERONICO",
-        "valor": 7000.0
-      },
-      {
-        "nome": "YES LOCACAO DE IMOVEIS LTDA",
-        "valor": 6275.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1004941.67,
+      "pct": 54.45
+    }
   }
 }

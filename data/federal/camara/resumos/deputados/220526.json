@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220526,
-    "geradoEm": "2026-03-03T15:34:13.156152Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.001373Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220526,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 95041.01,
         "OUTROS": 298325.9,
         "PASSAGENS": 229637.48
-      }
+      },
+      "qtdSemDocumentoPdf": 1039,
+      "valorSemDocumentoPdf": 347649.18,
+      "qtdRecibosOutros": 132,
+      "valorRecibosOutros": 348412.77
     },
     "totaisAno": {
       "2023": 405463.01,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.407237,
-      "picoMes": "2023-09",
-      "picoValor": 83917.62,
-      "fornecedorTop1Pct": 0.017573,
-      "fornecedorTop3Pct": 0.037634,
-      "fornecedorHHI": 0.000521,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.332457,
-      "semDocumentoPct": 0.275627,
-      "recibosOutrosPct": 0.276232
-    },
-    "topFornecedores": [
-      {
-        "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
-        "valor": 22165.0
-      },
-      {
-        "nome": "A ZNET CONSULTORIA",
-        "valor": 15000.0
-      },
-      {
-        "nome": "Guerrero imóveis",
-        "valor": 10302.96
-      },
-      {
-        "nome": "FOUR TOWERS HOTELS LTDA",
-        "valor": 1891.05
-      },
-      {
-        "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
-        "valor": 998.8
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 419328.7,
+      "pct": 33.25
+    }
   }
 }

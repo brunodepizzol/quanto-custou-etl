@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220588,
-    "geradoEm": "2026-03-03T15:34:13.245366Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.050053Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220588,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 49306.99,
         "OUTROS": 396423.4,
         "PASSAGENS": 185649.94
-      }
+      },
+      "qtdSemDocumentoPdf": 957,
+      "valorSemDocumentoPdf": 397434.66,
+      "qtdRecibosOutros": 108,
+      "valorRecibosOutros": 568569.69
     },
     "totaisAno": {
       "2023": 419649.43,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.247305,
-      "picoMes": "2025-10",
-      "picoValor": 63457.12,
-      "fornecedorTop1Pct": 0.018226,
-      "fornecedorTop3Pct": 0.026366,
-      "fornecedorHHI": 0.000384,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.372024,
-      "semDocumentoPct": 0.24145,
-      "recibosOutrosPct": 0.345417
-    },
-    "topFornecedores": [
-      {
-        "nome": "R.S.FERREIRA RIBEIRO - ME",
-        "valor": 30000.0
-      },
-      {
-        "nome": "JOYCIA K C C LIMA EIRELI",
-        "valor": 9600.0
-      },
-      {
-        "nome": "CONTAMANA PUBLICIDADE LTDA",
-        "valor": 3800.0
-      },
-      {
-        "nome": "Cipriani Importacao e Exportacao Ltda",
-        "valor": 3020.0
-      },
-      {
-        "nome": "AUTO POSTO CIDADE",
-        "valor": 2845.96
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 612365.1,
+      "pct": 37.2
+    }
   }
 }

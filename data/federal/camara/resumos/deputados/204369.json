@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204369,
-    "geradoEm": "2026-03-03T15:34:13.101118Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.971016Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204369,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 39133.0,
         "OUTROS": 190500.0,
         "PASSAGENS": 283632.12
-      }
+      },
+      "qtdSemDocumentoPdf": 733,
+      "valorSemDocumentoPdf": 362290.72,
+      "qtdRecibosOutros": 42,
+      "valorRecibosOutros": 190500.0
     },
     "totaisAno": {
       "2023": 134216.78,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.692744,
-      "picoMes": "2025-06",
-      "picoValor": 56127.73,
-      "fornecedorTop1Pct": 0.00409,
-      "fornecedorTop3Pct": 0.006889,
-      "fornecedorHHI": 2.3e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.43054,
-      "semDocumentoPct": 0.54994,
-      "recibosOutrosPct": 0.28917
-    },
-    "topFornecedores": [
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 2694.37
-      },
-      {
-        "nome": "PARLANET WEB E TECNOLOGIA EIRELI",
-        "valor": 1200.0
-      },
-      {
-        "nome": "AUTO POSTO VO CLOVIS LTDA",
-        "valor": 643.94
-      },
-      {
-        "nome": "ABASTECEDORA AE",
-        "valor": 617.11
-      },
-      {
-        "nome": "GM GEMELLI COMBUSTIVEIS E CONVENIENCIA LTDA",
-        "valor": 421.37
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 283632.12,
+      "pct": 43.05
+    }
   }
 }

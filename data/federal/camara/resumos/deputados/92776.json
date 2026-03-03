@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 92776,
-    "geradoEm": "2026-03-03T15:34:13.261664Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.059107Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 92776,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 42045.8,
         "OUTROS": 346361.34,
         "PASSAGENS": 208454.21
-      }
+      },
+      "qtdSemDocumentoPdf": 361,
+      "valorSemDocumentoPdf": 255557.8,
+      "qtdRecibosOutros": 256,
+      "valorRecibosOutros": 341791.03
     },
     "totaisAno": {
       "2023": 508448.61,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.311242,
-      "picoMes": "2024-07",
-      "picoValor": 73499.77,
-      "fornecedorTop1Pct": 0.008986,
-      "fornecedorTop3Pct": 0.020421,
-      "fornecedorHHI": 0.00016,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.366891,
-      "semDocumentoPct": 0.164635,
-      "recibosOutrosPct": 0.220189
-    },
-    "topFornecedores": [
-      {
-        "nome": "TELEMAXIMO SISTEMAS CONSULTORIA E SERVIÇOS LTDA - ME",
-        "valor": 13948.9
-      },
-      {
-        "nome": "PONTO FORTE LOCADORA DE VEICULOS LTDA",
-        "valor": 11250.0
-      },
-      {
-        "nome": "THIAGO FONSECA COSTA",
-        "valor": 6500.0
-      },
-      {
-        "nome": "FERMED - IMPORTAÇÃO COMERCIO E MANUTENÇÃO DE EQUIP",
-        "valor": 3670.0
-      },
-      {
-        "nome": "Telefônica Brasil S.A. VIVO",
-        "valor": 2400.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 569511.41,
+      "pct": 36.69
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204472,
-    "geradoEm": "2026-03-03T15:34:13.174616Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.011391Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204472,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 153930.09,
         "OUTROS": 234020.16,
         "PASSAGENS": 383889.39
-      }
+      },
+      "qtdSemDocumentoPdf": 1201,
+      "valorSemDocumentoPdf": 510408.37,
+      "qtdRecibosOutros": 1184,
+      "valorRecibosOutros": 490530.77
     },
     "totaisAno": {
       "2023": 546212.67,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.2833,
-      "picoMes": "2024-03",
-      "picoValor": 63048.9,
-      "fornecedorTop1Pct": 0.016407,
-      "fornecedorTop3Pct": 0.025528,
-      "fornecedorHHI": 0.00032,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.23751,
-      "semDocumentoPct": 0.310153,
-      "recibosOutrosPct": 0.298074
-    },
-    "topFornecedores": [
-      {
-        "nome": "MTPRESS COMUNICAÇÃO E PUBLICIDADE LTD MTPRESS",
-        "valor": 27000.0
-      },
-      {
-        "nome": "3T HOLDING DE PARTICIPAÇÕES LTDA-EPP",
-        "valor": 8149.06
-      },
-      {
-        "nome": "PAIAGUAS HOTEIS LTDA",
-        "valor": 6861.21
-      },
-      {
-        "nome": "VELZ RENT A CAR",
-        "valor": 4600.0
-      },
-      {
-        "nome": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA",
-        "valor": 749.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 390863.27,
+      "pct": 23.75
+    }
   }
 }

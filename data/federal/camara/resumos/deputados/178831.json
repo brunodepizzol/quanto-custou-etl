@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178831,
-    "geradoEm": "2026-03-03T15:34:13.082012Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.960177Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178831,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1228.0,
         "OUTROS": 63450.0,
         "PASSAGENS": 25964.78
-      }
+      },
+      "qtdSemDocumentoPdf": 143,
+      "valorSemDocumentoPdf": 64262.82,
+      "qtdRecibosOutros": 42,
+      "valorRecibosOutros": 65174.57
     },
     "totaisAno": {
       "2023": 44.09,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.655927,
-      "picoMes": "2025-10",
-      "picoValor": 68301.19,
-      "fornecedorTop1Pct": 0.070555,
-      "fornecedorTop3Pct": 0.1506,
-      "fornecedorHHI": 0.008462,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.543982,
-      "semDocumentoPct": 0.226704,
-      "recibosOutrosPct": 0.229921
-    },
-    "topFornecedores": [
-      {
-        "nome": "K.D DA SILVA GOES",
-        "valor": 20000.0
-      },
-      {
-        "nome": "A & A AGRA LTDA",
-        "valor": 12690.0
-      },
-      {
-        "nome": "K.T.M. DE SOUZA LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "REAL PETROLEO LTDA",
-        "valor": 2805.66
-      },
-      {
-        "nome": "AUTOMOTO - AUTOMOVEIS DO AMAPA LTDA",
-        "valor": 2000.59
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 154200.0,
+      "pct": 54.4
+    }
   }
 }

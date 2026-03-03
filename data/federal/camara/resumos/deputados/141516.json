@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 141516,
-    "geradoEm": "2026-03-03T15:34:13.226219Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.039631Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 141516,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 35684.29,
         "OUTROS": 306793.46,
         "PASSAGENS": 385610.8
-      }
+      },
+      "qtdSemDocumentoPdf": 1112,
+      "valorSemDocumentoPdf": 473724.37,
+      "qtdRecibosOutros": 91,
+      "valorRecibosOutros": 67561.73
     },
     "totaisAno": {
       "2023": 343264.22,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.418586,
-      "picoMes": "2024-07",
-      "picoValor": 79986.11,
-      "fornecedorTop1Pct": 0.006464,
-      "fornecedorTop3Pct": 0.009192,
-      "fornecedorHHI": 4.8e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.289846,
-      "semDocumentoPct": 0.356077,
-      "recibosOutrosPct": 0.050783
-    },
-    "topFornecedores": [
-      {
-        "nome": "QUASAR LOCADORA DE VEICULOS EIRELI",
-        "valor": 8600.0
-      },
-      {
-        "nome": "FAS DESENVOLVIMENTO DE SOFTWARE E CNSULTORIA LTDA",
-        "valor": 2000.0
-      },
-      {
-        "nome": "CATALÃO COMERCIAL LTDA",
-        "valor": 1628.59
-      },
-      {
-        "nome": "CEMIG DISTRIBUIÇÃO S.A.",
-        "valor": 856.49
-      },
-      {
-        "nome": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-        "valor": 829.26
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 385610.8,
+      "pct": 28.98
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204459,
-    "geradoEm": "2026-03-03T15:34:13.115326Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.979245Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204459,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1724.0,
         "OUTROS": 169749.9,
         "PASSAGENS": 271391.45
-      }
+      },
+      "qtdSemDocumentoPdf": 342,
+      "valorSemDocumentoPdf": 298801.81,
+      "qtdRecibosOutros": 18,
+      "valorRecibosOutros": 66992.59
     },
     "totaisAno": {
       "2023": 119250.73,
@@ -86,26 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.436813,
-      "picoMes": "2024-10",
-      "picoValor": 47934.16,
-      "fornecedorTop1Pct": 0.000299,
-      "fornecedorTop3Pct": 0.000299,
-      "fornecedorHHI": 0.0,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.35637,
-      "semDocumentoPct": 0.357329,
-      "recibosOutrosPct": 0.080115
-    },
-    "topFornecedores": [
-      {
-        "nome": "AUTO POSTO DE COMBUSTIVEL FLAMINGO LTDA",
-        "valor": 250.13
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 298000.0,
+      "pct": 35.64
+    }
   }
 }

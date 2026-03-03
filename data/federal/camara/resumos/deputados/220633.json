@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220633,
-    "geradoEm": "2026-03-03T15:34:13.244149Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.049346Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220633,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 24056.86,
         "OUTROS": 383647.22,
         "PASSAGENS": 235225.93
-      }
+      },
+      "qtdSemDocumentoPdf": 476,
+      "valorSemDocumentoPdf": 238537.29,
+      "qtdRecibosOutros": 126,
+      "valorRecibosOutros": 463046.28
     },
     "totaisAno": {
       "2023": 503928.69,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.300085,
-      "picoMes": "2024-04",
-      "picoValor": 78662.96,
-      "fornecedorTop1Pct": 0.007531,
-      "fornecedorTop3Pct": 0.017808,
-      "fornecedorHHI": 0.000136,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.436668,
-      "semDocumentoPct": 0.14971,
-      "recibosOutrosPct": 0.290616
-    },
-    "topFornecedores": [
-      {
-        "nome": "CONNECTVIEW LTDA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "QUADRA BRASIL SERVIÇOS EM COMUNICAÇÃO LTDA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "AUTO POSTO AGUIA DO IBIRAPUERA LTDA",
-        "valor": 4373.43
-      },
-      {
-        "nome": "ROUXINOL ADMINISTRAÇÃO PATRIMONIAL LTDA",
-        "valor": 4000.0
-      },
-      {
-        "nome": "RAONI KIRSCHNER SAVA",
-        "valor": 4000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 695755.99,
+      "pct": 43.67
+    }
   }
 }

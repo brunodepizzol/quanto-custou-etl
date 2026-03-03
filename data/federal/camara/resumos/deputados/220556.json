@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220556,
-    "geradoEm": "2026-03-03T15:34:13.081240Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.959715Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220556,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 60274.77,
         "OUTROS": 75821.58,
         "PASSAGENS": 247490.29
-      }
+      },
+      "qtdSemDocumentoPdf": 789,
+      "valorSemDocumentoPdf": 390508.53,
+      "qtdRecibosOutros": 312,
+      "valorRecibosOutros": 148241.18
     },
     "totaisAno": {
       "2023": 518554.89,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.74498,
-      "picoMes": "2023-12",
-      "picoValor": 186535.34,
-      "fornecedorTop1Pct": 0.012344,
-      "fornecedorTop3Pct": 0.01878,
-      "fornecedorHHI": 0.000177,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.610281,
-      "semDocumentoPct": 0.243448,
-      "recibosOutrosPct": 0.092415
-    },
-    "topFornecedores": [
-      {
-        "nome": "Criação Propaganda e Publicidade LTDA",
-        "valor": 19800.0
-      },
-      {
-        "nome": "INTELBOX TECNOLOGIA LTDA",
-        "valor": 5500.0
-      },
-      {
-        "nome": "Localiza Rent a Car S.A",
-        "valor": 4824.85
-      },
-      {
-        "nome": "ADEMAR KLEMZ",
-        "valor": 1754.6
-      },
-      {
-        "nome": "EMPRESA BRASILEIRA DE CORREIOS E TELÉGRAFOS",
-        "valor": 1235.0
-      }
-    ],
-    "flags": [
-      "spiky_spend"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 978936.1,
+      "pct": 61.03
+    }
   }
 }

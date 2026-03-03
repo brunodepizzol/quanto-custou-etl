@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178843,
-    "geradoEm": "2026-03-03T15:34:13.207972Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.029667Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178843,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
         "PASSAGENS": 232242.5
-      }
+      },
+      "qtdSemDocumentoPdf": 774,
+      "valorSemDocumentoPdf": 326590.43,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 523824.96,
@@ -86,34 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.266887,
-      "picoMes": "2024-12",
-      "picoValor": 64352.67,
-      "fornecedorTop1Pct": 0.011496,
-      "fornecedorTop3Pct": 0.026417,
-      "fornecedorHHI": 0.000256,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.798142,
-      "semDocumentoPct": 0.201858,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "FRAME COMUNICACAO DIGITAL LTDA",
-        "valor": 18600.0
-      },
-      {
-        "nome": "C A M DE FREITAS PRODUCOES",
-        "valor": 16100.0
-      },
-      {
-        "nome": "Cia Aérea - TAM",
-        "valor": 8040.88
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1291330.0,
+      "pct": 79.81
+    }
   }
 }

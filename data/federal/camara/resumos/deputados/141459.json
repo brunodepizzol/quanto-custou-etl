@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 141459,
-    "geradoEm": "2026-03-03T15:34:13.171268Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.009552Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 141459,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 440066.67,
         "PASSAGENS": 167264.86
-      }
+      },
+      "qtdSemDocumentoPdf": 596,
+      "valorSemDocumentoPdf": 303064.42,
+      "qtdRecibosOutros": 74,
+      "valorRecibosOutros": 527766.67
     },
     "totaisAno": {
       "2023": 571858.18,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.383868,
-      "picoMes": "2023-02",
-      "picoValor": 80481.49,
-      "fornecedorTop1Pct": 0.01379,
-      "fornecedorTop3Pct": 0.024648,
-      "fornecedorHHI": 0.000274,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.532648,
-      "semDocumentoPct": 0.164536,
-      "recibosOutrosPct": 0.286529
-    },
-    "topFornecedores": [
-      {
-        "nome": "SANTOS & FERNANDES LTDA",
-        "valor": 25400.0
-      },
-      {
-        "nome": "DIGITAL COMUNICAÇÃO S.A",
-        "valor": 10000.0
-      },
-      {
-        "nome": "CARLOS G CARVALHO N E NUNES TURISMO",
-        "valor": 10000.0
-      },
-      {
-        "nome": "FR4 CONSTRUÇÕES E LOCAÇÃO DE MÃO DE OBRA LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "A V de Melo Junior - Diário do Brasil Notícias",
-        "valor": 5000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 981100.0,
+      "pct": 53.26
+    }
   }
 }

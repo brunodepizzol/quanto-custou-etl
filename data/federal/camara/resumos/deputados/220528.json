@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220528,
-    "geradoEm": "2026-03-03T15:34:13.130808Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.987620Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220528,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 5024.81,
         "OUTROS": 324105.71,
         "PASSAGENS": 162635.22
-      }
+      },
+      "qtdSemDocumentoPdf": 577,
+      "valorSemDocumentoPdf": 253235.26,
+      "qtdRecibosOutros": 110,
+      "valorRecibosOutros": 574159.57
     },
     "totaisAno": {
       "2023": 453617.95,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.68601,
-      "picoMes": "2023-12",
-      "picoValor": 172066.24,
-      "fornecedorTop1Pct": 0.007716,
-      "fornecedorTop3Pct": 0.01805,
-      "fornecedorHHI": 0.000132,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.395964,
-      "semDocumentoPct": 0.175048,
-      "recibosOutrosPct": 0.396885
-    },
-    "topFornecedores": [
-      {
-        "nome": "GALWAN CONSTRUTORA INCORPORADORA LTDA",
-        "valor": 11162.23
-      },
-      {
-        "nome": "O ANJO PUBLICIDADE LTDA",
-        "valor": 8500.0
-      },
-      {
-        "nome": "SUPREMA MOBILIDADE LTDA",
-        "valor": 6450.0
-      },
-      {
-        "nome": "ATOS COMUNICAÇÃO LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "NEURALIS AGENCIA DE PUBLICIDADE LTDA",
-        "valor": 3500.0
-      }
-    ],
-    "flags": [
-      "spiky_spend",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 572827.35,
+      "pct": 39.6
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204531,
-    "geradoEm": "2026-03-03T15:34:13.158092Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.002625Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204531,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
         "PASSAGENS": 6933.24
-      }
+      },
+      "qtdSemDocumentoPdf": 10,
+      "valorSemDocumentoPdf": 10506.87,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 1638.0,
@@ -86,28 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.82557,
-      "picoMes": "2025-12",
-      "picoValor": 6349.76,
-      "fornecedorTop1Pct": 0.047352,
-      "fornecedorTop3Pct": 0.068022,
-      "fornecedorHHI": 0.002669,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.573237,
-      "semDocumentoPct": 0.868703,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "AUTO POSTO CINCO ESTRELAS LTDA",
-        "valor": 572.72
-      },
-      {
-        "nome": "POSTO Z + Z 314 SUL LTDA",
-        "valor": 250.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 6933.24,
+      "pct": 57.32
+    }
   }
 }

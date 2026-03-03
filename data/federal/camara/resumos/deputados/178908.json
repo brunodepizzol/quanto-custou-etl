@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178908,
-    "geradoEm": "2026-03-03T15:34:13.120244Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.981823Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178908,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 875527.22,
         "PASSAGENS": 192689.28
-      }
+      },
+      "qtdSemDocumentoPdf": 193,
+      "valorSemDocumentoPdf": 192689.28,
+      "qtdRecibosOutros": 123,
+      "valorRecibosOutros": 875527.22
     },
     "totaisAno": {
       "2023": 553272.19,
@@ -86,26 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.491287,
-      "picoMes": "2024-12",
-      "picoValor": 135376.72,
-      "fornecedorTop1Pct": 0.005855,
-      "fornecedorTop3Pct": 0.005855,
-      "fornecedorHHI": 3.4e-05,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.512625,
-      "semDocumentoPct": 0.112821,
-      "recibosOutrosPct": 0.512625
-    },
-    "topFornecedores": [
-      {
-        "nome": "TRANSBELCAR TRANSPORTE DE VEICULOS EIRELI",
-        "valor": 10000.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 875527.22,
+      "pct": 51.26
+    }
   }
 }

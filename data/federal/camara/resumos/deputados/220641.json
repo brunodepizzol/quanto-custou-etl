@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220641,
-    "geradoEm": "2026-03-03T15:34:13.248234Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.051582Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220641,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1461.2,
         "OUTROS": 423928.4,
         "PASSAGENS": 169427.92
-      }
+      },
+      "qtdSemDocumentoPdf": 460,
+      "valorSemDocumentoPdf": 218048.15,
+      "qtdRecibosOutros": 161,
+      "valorRecibosOutros": 693030.12
     },
     "totaisAno": {
       "2023": 442273.98,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.302,
-      "picoMes": "2025-05",
-      "picoValor": 59810.39,
-      "fornecedorTop1Pct": 0.008481,
-      "fornecedorTop3Pct": 0.022657,
-      "fornecedorHHI": 0.000175,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.43501,
-      "semDocumentoPct": 0.152841,
-      "recibosOutrosPct": 0.485778
-    },
-    "topFornecedores": [
-      {
-        "nome": "NOVA OPCAO LOCADORA DE VEICULOS LTDA",
-        "valor": 12100.0
-      },
-      {
-        "nome": "SILVANA VALIERIS BUENO DE ALMEIDA",
-        "valor": 10653.62
-      },
-      {
-        "nome": "SB SERVIÇOS EM TECNOLOGIA LTDA",
-        "valor": 9570.0
-      },
-      {
-        "nome": "GOMO COMUNICAÇÂO LTDA",
-        "valor": 2000.0
-      },
-      {
-        "nome": "POSTO DE SERVICOS TIGRE DO VALE LTDA",
-        "valor": 522.67
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 620602.4,
+      "pct": 43.5
+    }
   }
 }

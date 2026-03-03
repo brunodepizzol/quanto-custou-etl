@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220544,
-    "geradoEm": "2026-03-03T15:34:13.084953Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.961722Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220544,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 4898.54,
         "OUTROS": 265097.5,
         "PASSAGENS": 36848.49
-      }
+      },
+      "qtdSemDocumentoPdf": 474,
+      "valorSemDocumentoPdf": 266279.4,
+      "qtdRecibosOutros": 37,
+      "valorRecibosOutros": 306874.43
     },
     "totaisAno": {
       "2023": 513484.82,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.485488,
-      "picoMes": "2024-10",
-      "picoValor": 148853.29,
-      "fornecedorTop1Pct": 0.010193,
-      "fornecedorTop3Pct": 0.023385,
-      "fornecedorHHI": 0.000239,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.476795,
-      "semDocumentoPct": 0.159663,
-      "recibosOutrosPct": 0.184004
-    },
-    "topFornecedores": [
-      {
-        "nome": "ALFREDO TAVARES DE AGUIAR",
-        "valor": 17000.0
-      },
-      {
-        "nome": "TOCANTINS CENTRAL COMUNICACOES LTDA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "EL SHADDAI PUBLICIDADE LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "MARIA DE FATIMA GOMES DE SOUSA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "M COELHO PINTO LTDA",
-        "valor": 2659.62
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 795180.0,
+      "pct": 47.68
+    }
   }
 }

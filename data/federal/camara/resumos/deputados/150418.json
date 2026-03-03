@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 150418,
-    "geradoEm": "2026-03-03T15:34:13.202158Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.026561Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 150418,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 14595.26,
         "OUTROS": 267793.0,
         "PASSAGENS": 285144.22
-      }
+      },
+      "qtdSemDocumentoPdf": 682,
+      "valorSemDocumentoPdf": 398820.26,
+      "qtdRecibosOutros": 92,
+      "valorRecibosOutros": 478278.8
     },
     "totaisAno": {
       "2023": 491985.67,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.820773,
-      "picoMes": "2024-09",
-      "picoValor": 183795.38,
-      "fornecedorTop1Pct": 0.011446,
-      "fornecedorTop3Pct": 0.01248,
-      "fornecedorHHI": 0.000132,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.275774,
-      "semDocumentoPct": 0.26334,
-      "recibosOutrosPct": 0.315807
-    },
-    "topFornecedores": [
-      {
-        "nome": "MVT PATRIMONIAL LTDA",
-        "valor": 17335.31
-      },
-      {
-        "nome": "COSTA PASSOS DERIVADOS DE PETROLEO LTDA",
-        "valor": 907.12
-      },
-      {
-        "nome": "AUTO POSTO FERNANDES & FARIAS LTDA",
-        "valor": 657.88
-      },
-      {
-        "nome": "ITABERABA COMERCIO DE COMBUSTIVEIS LTDA",
-        "valor": 496.89
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEIS LTDA",
-        "valor": 459.16
-      }
-    ],
-    "flags": [
-      "spiky_spend",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 417650.0,
+      "pct": 27.58
+    }
   }
 }

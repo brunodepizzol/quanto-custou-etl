@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 139285,
-    "geradoEm": "2026-03-03T15:34:13.186983Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.018197Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 139285,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 8501.83,
         "OUTROS": 291112.9,
         "PASSAGENS": 290243.79
-      }
+      },
+      "qtdSemDocumentoPdf": 1360,
+      "valorSemDocumentoPdf": 522935.28,
+      "qtdRecibosOutros": 1051,
+      "valorRecibosOutros": 415278.6
     },
     "totaisAno": {
       "2023": 461429.87,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.275407,
-      "picoMes": "2024-11",
-      "picoValor": 76822.27,
-      "fornecedorTop1Pct": 0.014398,
-      "fornecedorTop3Pct": 0.021034,
-      "fornecedorHHI": 0.000242,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.336909,
-      "semDocumentoPct": 0.327365,
-      "recibosOutrosPct": 0.25997
-    },
-    "topFornecedores": [
-      {
-        "nome": "RADIOLA COMUNICAÇÃO E ASSESSORIA",
-        "valor": 23000.0
-      },
-      {
-        "nome": "SECT TRANSPORTES LTDA",
-        "valor": 6500.0
-      },
-      {
-        "nome": "SUPREMA MOBILIDADE LTDA",
-        "valor": 4100.0
-      },
-      {
-        "nome": "APSA - ADMINISTRACAO PREDIAL E NEGOCIOS IMOBILIARIOS S/A",
-        "valor": 2637.08
-      },
-      {
-        "nome": "TORRES COMERCIO E DERIVADOS DE PETROLEO LTDA",
-        "valor": 2174.13
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 538180.0,
+      "pct": 33.69
+    }
   }
 }

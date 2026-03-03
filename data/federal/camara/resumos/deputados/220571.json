@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220571,
-    "geradoEm": "2026-03-03T15:34:13.113331Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.978065Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220571,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
         "PASSAGENS": 0.0
-      }
+      },
+      "qtdSemDocumentoPdf": 392,
+      "valorSemDocumentoPdf": 110154.16,
+      "qtdRecibosOutros": 36,
+      "valorRecibosOutros": 220933.63
     },
     "totaisAno": {
       "2023": 110982.79,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.30613,
-      "picoMes": "2024-09",
-      "picoValor": 22848.37,
-      "fornecedorTop1Pct": 0.01222,
-      "fornecedorTop3Pct": 0.01571,
-      "fornecedorHHI": 0.000159,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.545971,
-      "semDocumentoPct": 0.210996,
-      "recibosOutrosPct": 0.42319
-    },
-    "topFornecedores": [
-      {
-        "nome": "Andrade Canguçu- Negócios Imobiliários ltda",
-        "valor": 6379.51
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 950.0
-      },
-      {
-        "nome": "EQUATORIAL GOIáS DISTRIBUIDORA DE ENERGIA S.A",
-        "valor": 871.93
-      },
-      {
-        "nome": "IRMAOS ALCANTARA & CIA LTDA",
-        "valor": 638.87
-      },
-      {
-        "nome": "AUTO POSTO RIBEIRO LTDA",
-        "valor": 550.78
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 285033.46,
+      "pct": 54.6
+    }
   }
 }

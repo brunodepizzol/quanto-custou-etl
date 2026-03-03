@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 121948,
-    "geradoEm": "2026-03-03T15:34:13.071025Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.953786Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 121948,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 27338.9,
         "OUTROS": 443458.36,
         "PASSAGENS": 0.0
-      }
+      },
+      "qtdSemDocumentoPdf": 662,
+      "valorSemDocumentoPdf": 351078.51,
+      "qtdRecibosOutros": 299,
+      "valorRecibosOutros": 219336.26
     },
     "totaisAno": {
       "2023": 404621.75,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.327181,
-      "picoMes": "2024-11",
-      "picoValor": 73944.44,
-      "fornecedorTop1Pct": 0.009529,
-      "fornecedorTop3Pct": 0.022296,
-      "fornecedorHHI": 0.000193,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.31285,
-      "semDocumentoPct": 0.224094,
-      "recibosOutrosPct": 0.140003
-    },
-    "topFornecedores": [
-      {
-        "nome": "AUTO POSTO ASTRO DA MUTIRAO LTDA",
-        "valor": 14929.44
-      },
-      {
-        "nome": "LEONEL LOBO FAVORETTO",
-        "valor": 10000.0
-      },
-      {
-        "nome": "JAYME E JAYME DE CASTRO PREST DE SERV LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "NETSUM ESTRATEGIAS E MARKETING DIGITAL LTDA",
-        "valor": 3800.0
-      },
-      {
-        "nome": "EVIDENCEMARKETING E CONSULTORIA LTDA",
-        "valor": 3000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 490129.13,
+      "pct": 31.29
+    }
   }
 }

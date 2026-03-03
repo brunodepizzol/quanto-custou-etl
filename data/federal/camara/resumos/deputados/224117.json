@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 224117,
-    "geradoEm": "2026-03-03T15:34:13.150902Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.998535Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 224117,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 170000.0,
         "PASSAGENS": 61546.44
-      }
+      },
+      "qtdSemDocumentoPdf": 101,
+      "valorSemDocumentoPdf": 67516.95,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 516019.27,
@@ -86,28 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.103107,
-      "picoMes": "2025-10",
-      "picoValor": 60951.42,
-      "fornecedorTop1Pct": 0.040172,
-      "fornecedorTop3Pct": 0.047671,
-      "fornecedorHHI": 0.00167,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.451161,
-      "semDocumentoPct": 0.036164,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "CK INFO DESIGN E MIDIA SOCIAIS",
-        "valor": 75000.0
-      },
-      {
-        "nome": "JESSYANE MATOS DE FREITAS",
-        "valor": 14000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 842302.17,
+      "pct": 45.12
+    }
   }
 }

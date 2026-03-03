@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204360,
-    "geradoEm": "2026-03-03T15:34:13.258603Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.057228Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204360,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 24449.76,
         "OUTROS": 8283.6,
         "PASSAGENS": 192830.89
-      }
+      },
+      "qtdSemDocumentoPdf": 719,
+      "valorSemDocumentoPdf": 254701.61,
+      "qtdRecibosOutros": 19,
+      "valorRecibosOutros": 82500.0
     },
     "totaisAno": {
       "2023": 593465.51,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.329167,
-      "picoMes": "2023-03",
-      "picoValor": 90882.85,
-      "fornecedorTop1Pct": 0.006761,
-      "fornecedorTop3Pct": 0.012258,
-      "fornecedorHHI": 6.8e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.709227,
-      "semDocumentoPct": 0.140008,
-      "recibosOutrosPct": 0.04535
-    },
-    "topFornecedores": [
-      {
-        "nome": "AGENCIA PREMIUM SERVIÇOS DIGITAL LTDA",
-        "valor": 12300.0
-      },
-      {
-        "nome": "JACIMAR SERVIÇOS DE COMUNICAÇOES LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "PORTAL DE NOTICIAS COMUNICAÇÃO E PUBLICIDADE LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "DESTAK VIAGENS E TURISMO LTDA",
-        "valor": 2994.83
-      },
-      {
-        "nome": "CMP COMUNICACAO E ASSESSORIA LTDA-ME",
-        "valor": 2000.0
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1290216.72,
+      "pct": 70.92
+    }
   }
 }

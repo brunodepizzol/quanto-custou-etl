@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178858,
-    "geradoEm": "2026-03-03T15:34:13.207130Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.029229Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178858,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 397610.68,
         "PASSAGENS": 175265.29
-      }
+      },
+      "qtdSemDocumentoPdf": 701,
+      "valorSemDocumentoPdf": 308506.37,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 489182.02,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.685364,
-      "picoMes": "2024-12",
-      "picoValor": 135445.78,
-      "fornecedorTop1Pct": 0.007939,
-      "fornecedorTop3Pct": 0.009077,
-      "fornecedorHHI": 6.5e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.52969,
-      "semDocumentoPct": 0.204097,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "FE CONSULTORIA GESTAO E MARKETING",
-        "valor": 12000.0
-      },
-      {
-        "nome": "POSTO NATUBA QUATRO LTDA",
-        "valor": 880.0
-      },
-      {
-        "nome": "VIVO TELEFONICA BRASILIA",
-        "valor": 840.45
-      },
-      {
-        "nome": "Telefônica Brasil S.A. VIVO",
-        "valor": 840.45
-      },
-      {
-        "nome": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
-        "valor": 471.5
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 800660.5,
+      "pct": 52.97
+    }
   }
 }

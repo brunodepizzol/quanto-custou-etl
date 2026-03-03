@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204526,
-    "geradoEm": "2026-03-03T15:34:13.196288Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.023398Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204526,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 6976.4,
         "OUTROS": 220425.69,
         "PASSAGENS": 202274.56
-      }
+      },
+      "qtdSemDocumentoPdf": 415,
+      "valorSemDocumentoPdf": 211591.92,
+      "qtdRecibosOutros": 1370,
+      "valorRecibosOutros": 331955.79
     },
     "totaisAno": {
       "2023": 230698.43,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.408959,
-      "picoMes": "2026-01",
-      "picoValor": 53397.6,
-      "fornecedorTop1Pct": 0.010042,
-      "fornecedorTop3Pct": 0.024331,
-      "fornecedorHHI": 0.000287,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.570629,
-      "semDocumentoPct": 0.163439,
-      "recibosOutrosPct": 0.256411
-    },
-    "topFornecedores": [
-      {
-        "nome": "BOM SENSO MIDIA DIGITAL LTDA",
-        "valor": 13000.0
-      },
-      {
-        "nome": "LDS TRANSPORTES E SERVIÇOS LTDA",
-        "valor": 11000.0
-      },
-      {
-        "nome": "LEME ENETEPRISE ANCHOR BRASIL",
-        "valor": 7500.0
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 6829.82
-      },
-      {
-        "nome": "Navona Comunicação e Marketing LTDA",
-        "valor": 6000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 738750.33,
+      "pct": 57.06
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74317,
-    "geradoEm": "2026-03-03T15:34:13.179006Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.013787Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74317,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 2223.9,
         "OUTROS": 473012.0,
         "PASSAGENS": 255075.68
-      }
+      },
+      "qtdSemDocumentoPdf": 359,
+      "valorSemDocumentoPdf": 563322.3,
+      "qtdRecibosOutros": 69,
+      "valorRecibosOutros": 446112.0
     },
     "totaisAno": {
       "2023": 526486.48,
@@ -86,34 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.251763,
-      "picoMes": "2024-08",
-      "picoValor": 68292.95,
-      "fornecedorTop1Pct": 0.008035,
-      "fornecedorTop3Pct": 0.015392,
-      "fornecedorHHI": 9.2e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.368821,
-      "semDocumentoPct": 0.348176,
-      "recibosOutrosPct": 0.275731
-    },
-    "topFornecedores": [
-      {
-        "nome": "AUTO LESTE LTDA",
-        "valor": 13000.0
-      },
-      {
-        "nome": "URBANISMO SERVIÇOS E EVENTOS LTDA",
-        "valor": 6000.0
-      },
-      {
-        "nome": "CARVALHO & CARVALHO POSTO DE GASOLINA LTDA",
-        "valor": 5903.58
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 596724.45,
+      "pct": 36.88
+    }
   }
 }

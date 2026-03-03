@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220605,
-    "geradoEm": "2026-03-03T15:34:13.090864Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.965136Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220605,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 137959.9,
         "OUTROS": 1533.63,
         "PASSAGENS": 374252.37
-      }
+      },
+      "qtdSemDocumentoPdf": 970,
+      "valorSemDocumentoPdf": 484633.86,
+      "qtdRecibosOutros": 645,
+      "valorRecibosOutros": 239953.17
     },
     "totaisAno": {
       "2023": 397490.21,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.262982,
-      "picoMes": "2023-08",
-      "picoValor": 64299.04,
-      "fornecedorTop1Pct": 0.011989,
-      "fornecedorTop3Pct": 0.019912,
-      "fornecedorHHI": 0.000185,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.280434,
-      "semDocumentoPct": 0.363144,
-      "recibosOutrosPct": 0.179801
-    },
-    "topFornecedores": [
-      {
-        "nome": "INCOMUM ASSESSORIA DE COMUNICAÇÃO LTDA",
-        "valor": 16000.0
-      },
-      {
-        "nome": "JM ADMINISTRAÇÃO LTDA ME",
-        "valor": 6664.19
-      },
-      {
-        "nome": "HYPERCOMPUTER COMÉRCIO E SERV. DE INFORMÁTICA LTDA",
-        "valor": 3910.0
-      },
-      {
-        "nome": "ELIANE RODRIGUES DO NASCIMENTO",
-        "valor": 1600.0
-      },
-      {
-        "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
-        "valor": 1341.19
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 374252.37,
+      "pct": 28.04
+    }
   }
 }

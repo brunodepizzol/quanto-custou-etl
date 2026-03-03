@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 143632,
-    "geradoEm": "2026-03-03T15:34:13.125851Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.984932Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 143632,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 419277.5,
         "PASSAGENS": 353021.66
-      }
+      },
+      "qtdSemDocumentoPdf": 293,
+      "valorSemDocumentoPdf": 345905.25,
+      "qtdRecibosOutros": 66,
+      "valorRecibosOutros": 429145.44
     },
     "totaisAno": {
       "2023": 525542.78,
@@ -86,36 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.294974,
-      "picoMes": "2024-01",
-      "picoValor": 83408.23,
-      "fornecedorTop1Pct": 0.034325,
-      "fornecedorTop3Pct": 0.042018,
-      "fornecedorHHI": 0.001218,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.485576,
-      "semDocumentoPct": 0.201238,
-      "recibosOutrosPct": 0.249665
-    },
-    "topFornecedores": [
-      {
-        "nome": "FRAME COMUNICACAO DIGITAL LTDA",
-        "valor": 59000.0
-      },
-      {
-        "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
-        "valor": 10145.0
-      },
-      {
-        "nome": "Latam Linhas Aéreas S.A",
-        "valor": 3079.04
-      },
-      {
-        "nome": "LIMA E SILVA AGENCIA DE NOTICIAS",
-        "valor": 2000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 834650.0,
+      "pct": 48.56
+    }
   }
 }

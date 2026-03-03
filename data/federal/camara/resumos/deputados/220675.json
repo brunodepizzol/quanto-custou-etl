@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220675,
-    "geradoEm": "2026-03-03T15:34:13.086124Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.962391Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220675,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 521476.0,
         "PASSAGENS": 282709.01
-      }
+      },
+      "qtdSemDocumentoPdf": 756,
+      "valorSemDocumentoPdf": 427178.05,
+      "qtdRecibosOutros": 32,
+      "valorRecibosOutros": 160746.0
     },
     "totaisAno": {
       "2023": 538093.59,
@@ -86,19 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.785463,
-      "picoMes": "2023-11",
-      "picoValor": 111253.6,
-      "fornecedorTop1Pct": 0.0,
-      "fornecedorTop3Pct": 0.0,
-      "fornecedorHHI": 0.0,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.360231,
-      "semDocumentoPct": 0.295091,
-      "recibosOutrosPct": 0.111042
-    },
-    "topFornecedores": [],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 521476.0,
+      "pct": 36.02
+    }
   }
 }

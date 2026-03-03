@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 62881,
-    "geradoEm": "2026-03-03T15:34:13.116150Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.979693Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 62881,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 67276.52,
         "OUTROS": 77721.04,
         "PASSAGENS": 242673.68
-      }
+      },
+      "qtdSemDocumentoPdf": 667,
+      "valorSemDocumentoPdf": 311987.97,
+      "qtdRecibosOutros": 85,
+      "valorRecibosOutros": 302156.62
     },
     "totaisAno": {
       "2023": 536564.48,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.433456,
-      "picoMes": "2023-12",
-      "picoValor": 118002.09,
-      "fornecedorTop1Pct": 0.003941,
-      "fornecedorTop3Pct": 0.008403,
-      "fornecedorHHI": 2.8e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.41455,
-      "semDocumentoPct": 0.189142,
-      "recibosOutrosPct": 0.183181
-    },
-    "topFornecedores": [
-      {
-        "nome": "DOMINGOS SÁVIO ARAÚJO CARVALHO",
-        "valor": 6500.0
-      },
-      {
-        "nome": "KANTOBYTE SOLUÇÕES E TECNOLOGIA",
-        "valor": 3808.12
-      },
-      {
-        "nome": "COMPANHIA ENERGÉTICA DO CEARÁ",
-        "valor": 3551.93
-      },
-      {
-        "nome": "CENTRO DIOCESANO DE PASTORAL - DIOCESANO HOTEL",
-        "valor": 1395.0
-      },
-      {
-        "nome": "J.V. SILVA MATOS",
-        "valor": 1000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 683797.98,
+      "pct": 41.46
+    }
   }
 }

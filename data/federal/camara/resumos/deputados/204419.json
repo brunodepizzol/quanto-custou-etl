@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204419,
-    "geradoEm": "2026-03-03T15:34:13.157360Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.001991Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204419,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 160953.0,
         "PASSAGENS": 0.0
-      }
+      },
+      "qtdSemDocumentoPdf": 13,
+      "valorSemDocumentoPdf": 19036.33,
+      "qtdRecibosOutros": 1,
+      "valorRecibosOutros": 3802.94
     },
     "totaisAno": {
       "2023": 457776.77,
@@ -86,34 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.524712,
-      "picoMes": "2024-12",
-      "picoValor": 99044.0,
-      "fornecedorTop1Pct": 0.043158,
-      "fornecedorTop3Pct": 0.052845,
-      "fornecedorHHI": 0.001953,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.868401,
-      "semDocumentoPct": 0.014671,
-      "recibosOutrosPct": 0.002931
-    },
-    "topFornecedores": [
-      {
-        "nome": "COMUNIK COMUNICAÇÃO E SERVIÇOS",
-        "valor": 56000.0
-      },
-      {
-        "nome": "A EMBAIXADORA COMERCIAL E SERVIÇOS LTDA.",
-        "valor": 12327.0
-      },
-      {
-        "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
-        "valor": 242.3
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1126799.8,
+      "pct": 86.84
+    }
   }
 }

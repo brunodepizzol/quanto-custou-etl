@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220668,
-    "geradoEm": "2026-03-03T15:34:13.205043Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.028117Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220668,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 29693.01,
         "OUTROS": 344838.0,
         "PASSAGENS": 88883.06
-      }
+      },
+      "qtdSemDocumentoPdf": 1140,
+      "valorSemDocumentoPdf": 323147.04,
+      "qtdRecibosOutros": 159,
+      "valorRecibosOutros": 456719.36
     },
     "totaisAno": {
       "2023": 508273.44,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.387446,
-      "picoMes": "2023-10",
-      "picoValor": 84464.79,
-      "fornecedorTop1Pct": 0.00773,
-      "fornecedorTop3Pct": 0.016305,
-      "fornecedorHHI": 0.000102,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.477784,
-      "semDocumentoPct": 0.203095,
-      "recibosOutrosPct": 0.287044
-    },
-    "topFornecedores": [
-      {
-        "nome": "FERGOM COMUNICAÇÃO CRIATIVA LTDA",
-        "valor": 12300.0
-      },
-      {
-        "nome": "PRALOC LOCAÇÃO DE VEICULOS LTDA",
-        "valor": 9000.0
-      },
-      {
-        "nome": "PETROCAL PETROLEO CAVALCANTI LTDA",
-        "valor": 4643.12
-      },
-      {
-        "nome": "AUTO POSTO CARRETEIRO LTDA",
-        "valor": 1300.08
-      },
-      {
-        "nome": "COND. ED. INABI CENTER",
-        "valor": 886.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 760209.12,
+      "pct": 47.78
+    }
   }
 }

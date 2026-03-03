@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204491,
-    "geradoEm": "2026-03-03T15:34:13.154485Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.000547Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204491,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1648.6,
         "OUTROS": 203019.04,
         "PASSAGENS": 142358.39
-      }
+      },
+      "qtdSemDocumentoPdf": 382,
+      "valorSemDocumentoPdf": 181747.27,
+      "qtdRecibosOutros": 27,
+      "valorRecibosOutros": 12258.04
     },
     "totaisAno": {
       "2023": 465616.17,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.698263,
-      "picoMes": "2024-10",
-      "picoValor": 129977.09,
-      "fornecedorTop1Pct": 0.006809,
-      "fornecedorTop3Pct": 0.008507,
-      "fornecedorHHI": 4.8e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.688295,
-      "semDocumentoPct": 0.123757,
-      "recibosOutrosPct": 0.008347
-    },
-    "topFornecedores": [
-      {
-        "nome": "CV CONSULTORIA E GESTAO",
-        "valor": 10000.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 1488.0
-      },
-      {
-        "nome": "Eco Empreendimentos Comerciais LTDA",
-        "valor": 1004.83
-      },
-      {
-        "nome": "POSTO SANTA MARIA",
-        "valor": 795.47
-      },
-      {
-        "nome": "Kalunga SA",
-        "valor": 520.1
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1010814.27,
+      "pct": 68.83
+    }
   }
 }

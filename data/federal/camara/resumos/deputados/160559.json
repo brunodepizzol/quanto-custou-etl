@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160559,
-    "geradoEm": "2026-03-03T15:34:13.074604Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.955795Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160559,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 65926.7,
         "OUTROS": 187016.92,
         "PASSAGENS": 280542.21
-      }
+      },
+      "qtdSemDocumentoPdf": 2167,
+      "valorSemDocumentoPdf": 735491.04,
+      "qtdRecibosOutros": 261,
+      "valorRecibosOutros": 519131.61
     },
     "totaisAno": {
       "2023": 526602.77,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.266627,
-      "picoMes": "2023-08",
-      "picoValor": 65321.52,
-      "fornecedorTop1Pct": 0.009936,
-      "fornecedorTop3Pct": 0.020258,
-      "fornecedorHHI": 0.000183,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.264234,
-      "semDocumentoPct": 0.435631,
-      "recibosOutrosPct": 0.307481
-    },
-    "topFornecedores": [
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 16775.9
-      },
-      {
-        "nome": "JOÃO JOELSON LIPERT DA SILVA",
-        "valor": 11427.0
-      },
-      {
-        "nome": "TRAJANO IMÓVEIS",
-        "valor": 6000.0
-      },
-      {
-        "nome": "localiza - dc aluguel de veiculos ltda",
-        "valor": 5200.0
-      },
-      {
-        "nome": "AUTO POSTO DE COMBUSTIVEIS RENASCENCA LTDA",
-        "valor": 3709.86
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 446115.16,
+      "pct": 26.42
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 214694,
-    "geradoEm": "2026-03-03T15:34:13.172976Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.010500Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 214694,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 25223.43,
         "OUTROS": 158115.0,
         "PASSAGENS": 334667.42
-      }
+      },
+      "qtdSemDocumentoPdf": 911,
+      "valorSemDocumentoPdf": 538783.03,
+      "qtdRecibosOutros": 90,
+      "valorRecibosOutros": 379507.24
     },
     "totaisAno": {
       "2023": 464944.61,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.346785,
-      "picoMes": "2024-02",
-      "picoValor": 70832.14,
-      "fornecedorTop1Pct": 0.009843,
-      "fornecedorTop3Pct": 0.021048,
-      "fornecedorHHI": 0.000187,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.263464,
-      "semDocumentoPct": 0.407922,
-      "recibosOutrosPct": 0.287331
-    },
-    "topFornecedores": [
-      {
-        "nome": "ICPE CONSULTORIA CONSULTORIA E ASSESSORIA LTDA",
-        "valor": 13000.0
-      },
-      {
-        "nome": "EDMUNDO ACCÁCIO MOREIRA NETO",
-        "valor": 8500.0
-      },
-      {
-        "nome": "PANTANAL VEÍCULOS LTDA",
-        "valor": 6300.0
-      },
-      {
-        "nome": "B MENA BARRETTO IDEIAS PESQUISAS",
-        "valor": 6000.0
-      },
-      {
-        "nome": "Elegis Gestão Estratégica, Consultoria e Tecn...",
-        "valor": 2198.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 347983.66,
+      "pct": 26.35
+    }
   }
 }

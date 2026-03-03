@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178970,
-    "geradoEm": "2026-03-03T15:34:13.170458Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.009105Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178970,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1296.0,
         "OUTROS": 427800.0,
         "PASSAGENS": 176967.84
-      }
+      },
+      "qtdSemDocumentoPdf": 397,
+      "valorSemDocumentoPdf": 216943.59,
+      "qtdRecibosOutros": 41,
+      "valorRecibosOutros": 140202.15
     },
     "totaisAno": {
       "2023": 501356.92,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.320751,
-      "picoMes": "2024-03",
-      "picoValor": 58595.41,
-      "fornecedorTop1Pct": 0.008448,
-      "fornecedorTop3Pct": 0.021911,
-      "fornecedorHHI": 0.000186,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.289132,
-      "semDocumentoPct": 0.146623,
-      "recibosOutrosPct": 0.094757
-    },
-    "topFornecedores": [
-      {
-        "nome": "TEIXEIRA GUINDASTES II LTDA",
-        "valor": 12500.0
-      },
-      {
-        "nome": "VIP.COM INFORMATICA E SERVIÇOS",
-        "valor": 10920.0
-      },
-      {
-        "nome": "P&M PUBLICIDADE E MARKETING LTDA",
-        "valor": 9000.0
-      },
-      {
-        "nome": "REDE RIO FM 102 LTDA.",
-        "valor": 5000.0
-      },
-      {
-        "nome": "SECRETARIA DA FAZENDA DE ACARAJU/ SE",
-        "valor": 3416.15
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 427800.0,
+      "pct": 28.91
+    }
   }
 }

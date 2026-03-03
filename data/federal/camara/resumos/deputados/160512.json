@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160512,
-    "geradoEm": "2026-03-03T15:34:13.089678Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.964462Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160512,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
         "PASSAGENS": 667775.12
-      }
+      },
+      "qtdSemDocumentoPdf": 662,
+      "valorSemDocumentoPdf": 986372.57,
+      "qtdRecibosOutros": 40,
+      "valorRecibosOutros": 66799.16
     },
     "totaisAno": {
       "2023": 467838.69,
@@ -86,38 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.711157,
-      "picoMes": "2023-12",
-      "picoValor": 106270.01,
-      "fornecedorTop1Pct": 0.003596,
-      "fornecedorTop3Pct": 0.004424,
-      "fornecedorHHI": 1.3e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.480324,
-      "semDocumentoPct": 0.709487,
-      "recibosOutrosPct": 0.048048
-    },
-    "topFornecedores": [
-      {
-        "nome": "av comunicação Multimidia LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "BROAD BRASIL LTDA",
-        "valor": 850.0
-      },
-      {
-        "nome": "Conde & Dell Aringa - Des de Softwares",
-        "valor": 300.0
-      },
-      {
-        "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
-        "valor": 274.5
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 667775.12,
+      "pct": 48.03
+    }
   }
 }

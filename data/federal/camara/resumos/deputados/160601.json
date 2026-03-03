@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160601,
-    "geradoEm": "2026-03-03T15:34:13.234137Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.043831Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160601,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 358710.0,
         "PASSAGENS": 322224.17
-      }
+      },
+      "qtdSemDocumentoPdf": 371,
+      "valorSemDocumentoPdf": 327408.1,
+      "qtdRecibosOutros": 35,
+      "valorRecibosOutros": 348825.8
     },
     "totaisAno": {
       "2023": 489698.42,
@@ -86,38 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.849468,
-      "picoMes": "2023-08",
-      "picoValor": 164053.53,
-      "fornecedorTop1Pct": 0.008495,
-      "fornecedorTop3Pct": 0.022374,
-      "fornecedorHHI": 0.000173,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.485947,
-      "semDocumentoPct": 0.218993,
-      "recibosOutrosPct": 0.233319
-    },
-    "topFornecedores": [
-      {
-        "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
-        "valor": 12700.0
-      },
-      {
-        "nome": "ROBERTO FIGUEIRA MARINHO-ME",
-        "valor": 12500.0
-      },
-      {
-        "nome": "JOÃO VITOR OLIVEIRA CUNHA DA SILVA LTDA",
-        "valor": 8250.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 1405.7
-      }
-    ],
-    "flags": [
-      "spiky_spend"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 726520.0,
+      "pct": 48.59
+    }
   }
 }

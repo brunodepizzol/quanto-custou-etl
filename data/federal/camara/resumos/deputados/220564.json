@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220564,
-    "geradoEm": "2026-03-03T15:34:13.272749Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.065106Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220564,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 445.09,
         "OUTROS": 262412.6,
         "PASSAGENS": 337525.59
-      }
+      },
+      "qtdSemDocumentoPdf": 457,
+      "valorSemDocumentoPdf": 447662.19,
+      "qtdRecibosOutros": 1,
+      "valorRecibosOutros": 12000.0
     },
     "totaisAno": {
       "2023": 492020.35,
@@ -86,38 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.421497,
-      "picoMes": "2023-06",
-      "picoValor": 75048.1,
-      "fornecedorTop1Pct": 0.019635,
-      "fornecedorTop3Pct": 0.029962,
-      "fornecedorHHI": 0.000464,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.475856,
-      "semDocumentoPct": 0.325554,
-      "recibosOutrosPct": 0.008727
-    },
-    "topFornecedores": [
-      {
-        "nome": "TRIPE COMUNICAÇÃO E SERVIÇOS DE CONSULTORIA EM PUBLICIDADE LTDA",
-        "valor": 27000.0
-      },
-      {
-        "nome": "LL Locadora de Veículos Ltda",
-        "valor": 12000.0
-      },
-      {
-        "nome": "MARIA CLARA SANTOS MENEZES GOMES 07533483570",
-        "valor": 2200.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 400.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 654338.26,
+      "pct": 47.59
+    }
   }
 }

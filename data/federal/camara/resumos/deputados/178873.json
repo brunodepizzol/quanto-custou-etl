@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178873,
-    "geradoEm": "2026-03-03T15:34:13.160521Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.003981Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178873,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 34457.36,
         "OUTROS": 198852.0,
         "PASSAGENS": 97647.38
-      }
+      },
+      "qtdSemDocumentoPdf": 774,
+      "valorSemDocumentoPdf": 230336.06,
+      "qtdRecibosOutros": 600,
+      "valorRecibosOutros": 145504.57
     },
     "totaisAno": {
       "2023": 297749.59,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.33193,
-      "picoMes": "2025-12",
-      "picoValor": 51345.87,
-      "fornecedorTop1Pct": 0.016008,
-      "fornecedorTop3Pct": 0.023968,
-      "fornecedorHHI": 0.000303,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.332153,
-      "semDocumentoPct": 0.204851,
-      "recibosOutrosPct": 0.129406
-    },
-    "topFornecedores": [
-      {
-        "nome": "BETA MARKETING INTELIGENTE  LTDA",
-        "valor": 18000.0
-      },
-      {
-        "nome": "DELTA AUTOMOTORES LTDA - ME",
-        "valor": 5830.0
-      },
-      {
-        "nome": "MD Soluções Imoliliárias",
-        "valor": 3120.0
-      },
-      {
-        "nome": "GABRIELA GONCALVES REZENDE BERNARDO",
-        "valor": 2000.0
-      },
-      {
-        "nome": "VIX VITORIA INFORMATICA LTDA",
-        "valor": 1790.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 373475.32,
+      "pct": 33.22
+    }
   }
 }
