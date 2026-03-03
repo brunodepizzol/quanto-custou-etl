@@ -2,8 +2,6 @@ import os
 import json
 import re
 import time
-import hashlib
-import statistics
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from pathlib import Path
@@ -31,64 +29,70 @@ def read_json(path: Path) -> Optional[dict]:
         return None
     return json.loads(path.read_text(encoding="utf-8"))
 
+def write_resumos_index(out_dir: Path, escopo: str = "federal/camara") -> None:
+    deps_dir = out_dir / "federal/camara/resumos/deputados"
+    if not deps_dir.exists():
+        print("WARN: resumos/deputados não existe; pulando _index.json")
+        return
 
-def sha256_bytes(b: bytes) -> str:
-    h = hashlib.sha256()
-    h.update(b)
-    return h.hexdigest()
+    itens = []
+    ufs = set()
+    partidos = set()
 
-def sha256_file(path: Path) -> str:
-    h = hashlib.sha256()
-    with path.open("rb") as f:
-        for chunk in iter(lambda: f.read(1024 * 1024), b""):
-            h.update(chunk)
-    return h.hexdigest()
+    for fp in sorted(deps_dir.glob("*.json")):
+        obj = read_json(fp)
+        if not obj:
+            continue
+        d = obj.get("data") or {}
+        dep_id = d.get("id") if d.get("id") is not None else (obj.get("meta") or {}).get("id")
+        nome = d.get("nome")
+        uf = d.get("uf")
+        partido = d.get("partido")
+        url_foto = d.get("urlFoto")
+        totais = d.get("totaisMandato") or {}
+        total = totais.get("total")
+        qtd = totais.get("qtdLancamentos")
+        if dep_id is None or not nome:
+            continue
 
-def safe_slug(s: str) -> str:
-    s = (s or "").strip()
-    s = re.sub(r"\s+", "_", s)
-    s = re.sub(r"[^A-Za-z0-9_\-]", "_", s)
-    s = re.sub(r"_+", "_", s).strip("_")
-    return s or "_"
+        if uf:
+            ufs.add(str(uf))
+        if partido:
+            partidos.add(str(partido))
 
-def pct(num: float, den: float) -> float:
-    if den <= 0:
-        return 0.0
-    return float(num) / float(den)
+        try:
+            dep_id_out = int(dep_id)
+        except Exception:
+            dep_id_out = dep_id
 
-def compute_concentration_from_map(m: Dict[str, float], total: float) -> dict:
-    if total <= 0 or not m:
-        return {"top1Pct": 0.0, "top3Pct": 0.0, "hhi": 0.0, "topFornecedores": []}
-    items = sorted(((k, float(v)) for k, v in m.items() if float(v) > 0), key=lambda x: x[1], reverse=True)
-    top = items[:5]
-    shares = [v / total for _, v in items]
-    hhi = sum(s * s for s in shares)
-    top1 = (items[0][1] / total) if items else 0.0
-    top3 = (sum(v for _, v in items[:3]) / total) if items else 0.0
-    return {
-        "top1Pct": round(top1, 6),
-        "top3Pct": round(top3, 6),
-        "hhi": round(hhi, 6),
-        "topFornecedores": [{"nome": k, "valor": round(v, 2)} for k, v in top]
+        itens.append({
+            "id": dep_id_out,
+            "nome": nome,
+            "uf": uf,
+            "partido": partido,
+            "urlFoto": url_foto,
+            "totalMandato": total,
+            "qtdLancamentosMandato": qtd
+        })
+
+    itens.sort(key=lambda x: safe_slug((x.get("nome") or "").lower()))
+
+    obj_out = {
+        "meta": {
+            "escopo": escopo,
+            "tipo": "resumos_index",
+            "geradoEm": now_iso(),
+            "versaoSchema": "1.1.0",
+            "itens": len(itens)
+        },
+        "data": {
+            "deputados": itens,
+            "ufs": sorted(ufs),
+            "partidos": sorted(partidos)
+        }
     }
+    write_json(out_dir / "federal/camara/resumos/_index.json", obj_out)
 
-def compute_month_stats(series: Dict[str, float]) -> dict:
-    vals = [float(v) for v in series.values() if float(v) > 0]
-    if len(vals) == 0:
-        return {"media": 0.0, "cv": 0.0, "picoMes": None, "picoValor": 0.0}
-    media = sum(vals) / len(vals)
-    desvio = 0.0
-    if len(vals) >= 2 and media > 0:
-        desvio = statistics.pstdev(vals)
-    cv = (desvio / media) if media > 0 else 0.0
-    pico_mes = max(series.items(), key=lambda kv: float(kv[1]))[0]
-    pico_val = float(series[pico_mes])
-    return {
-        "media": round(media, 2),
-        "cv": round(cv, 6),
-        "picoMes": pico_mes,
-        "picoValor": round(pico_val, 2)
-    }
 
 def http_get_json(url: str, params: dict = None, retries: int = 3) -> dict:
     headers = {"Accept": "application/json"}
@@ -198,7 +202,6 @@ def build_month_aggregates(
 
         total = 0.0
         por_cat = {c: 0.0 for c in cats}
-        por_forn: Dict[str, float] = {}
         qtd = 0
         qtd_sem_documento = 0
         valor_sem_documento = 0.0
@@ -214,9 +217,6 @@ def build_month_aggregates(
             cat = categorize(tipo, cmap)
             por_cat.setdefault(cat, 0.0)
             por_cat[cat] += v
-
-            fornecedor = (x.get("nomeFornecedor") or x.get("fornecedor") or "").strip() or "(Sem fornecedor)"
-            por_forn[fornecedor] = float(por_forn.get(fornecedor, 0.0)) + v
 
             # doc indicators (objetivo, sem acusação)
             url = (x.get("urlDocumento") or "").strip()
@@ -250,9 +250,7 @@ def build_month_aggregates(
                 "qtdSemDocumentoPdf": qtd_sem_documento,
                 "valorSemDocumentoPdf": round(valor_sem_documento, 2),
                 "qtdRecibosOutros": qtd_recibos_outros,
-                "valorRecibosOutros": round(valor_recibos_outros, 2),
-                "fornecedoresUnicos": int(len(por_forn)),
-                "porFornecedor": {k: round(v, 2) for k, v in por_forn.items()}
+                "valorRecibosOutros": round(valor_recibos_outros, 2)
             }
         })
 
@@ -273,7 +271,7 @@ def build_month_aggregates(
             "escopo": "federal/camara",
             "periodo": {"ano": ano, "mes": mes},
             "geradoEm": now_iso(),
-            "versaoSchema": "1.1.0",
+            "versaoSchema": "1.0.0",
             "versaoCategoryMap": cmap.version
         },
         "data": rows
@@ -306,7 +304,7 @@ def build_rankings_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
         "escopo": "federal/camara",
         "periodo": periodo_meta,
         "geradoEm": now_iso(),
-        "versaoSchema": "1.1.0",
+        "versaoSchema": "1.0.0",
         "versaoCategoryMap": cmap.version,
         "criterio": {"consideraAtivosNoPeriodo": True}
     }
@@ -318,16 +316,16 @@ def build_rankings_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
     top_total = [{
         "id": r["id"], "nome": r["nome"], "uf": r["uf"], "partido": r["partido"],
         "valor": r["totais"]["total"], "qtdLancamentos": r["totais"]["qtdLancamentos"]
-    } for r in total_sorted[:10]]
+    } for r in total_sorted[:100]]
 
     bottom_total = [{
         "id": r["id"], "nome": r["nome"], "uf": r["uf"], "partido": r["partido"],
         "valor": r["totais"]["total"], "qtdLancamentos": r["totais"]["qtdLancamentos"]
-    } for r in sorted(ativos, key=lambda r: r["totais"]["total"])[:10]]
+    } for r in sorted(ativos, key=lambda r: r["totais"]["total"])[:100]]
 
     out: Dict[str, dict] = {}
-    out["total_top10.json"] = mk_ranking(base_meta_total, top_total)
-    out["total_bottom10.json"] = mk_ranking(base_meta_total, bottom_total)
+    out["total_top100.json"] = mk_ranking(base_meta_total, top_total)
+    out["total_bottom100.json"] = mk_ranking(base_meta_total, bottom_total)
 
     # por categoria (top100)
     for cat in cats:
@@ -337,7 +335,7 @@ def build_rankings_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
             "categoriaQC": cat,
             "periodo": periodo_meta,
             "geradoEm": now_iso(),
-            "versaoSchema": "1.1.0",
+            "versaoSchema": "1.0.0",
             "versaoCategoryMap": cmap.version,
             "criterio": {"consideraAtivosNoPeriodo": True}
         }
@@ -349,8 +347,8 @@ def build_rankings_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
                 "valor": round(v, 2),
                 "qtdLancamentos": r["totais"]["qtdLancamentos"]
             })
-        arr_sorted = sorted(arr, key=lambda x: x["valor"], reverse=True)[:10]
-        out[f"categoria_{cat}_top10.json"] = mk_ranking(meta_cat, arr_sorted)
+        arr_sorted = sorted(arr, key=lambda x: x["valor"], reverse=True)[:100]
+        out[f"categoria_{cat}_top100.json"] = mk_ranking(meta_cat, arr_sorted)
 
     return out
 
@@ -404,7 +402,7 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
             "escopo": "federal/camara",
             "periodo": periodo_meta,
             "geradoEm": now_iso(),
-            "versaoSchema": "1.1.0",
+            "versaoSchema": "1.0.0",
             "versaoCategoryMap": cmap.version
         },
         "kpis": {
@@ -415,147 +413,6 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
             "agentesConsiderados": len(ativos)
         }
     }
-
-# ----------------------------
-# Rankings by UF + checksums + manifest/methodology
-# ----------------------------
-def period_path(periodo: dict) -> str:
-    t = periodo.get("tipo")
-    if t == "mes":
-        return f"{int(periodo['ano']):04d}/{int(periodo['mes']):02d}"
-    if t == "ano":
-        return f"{int(periodo['ano']):04d}/ano"
-    if t == "mandato":
-        return "mandato"
-    return safe_slug(str(t or "periodo"))
-
-def write_checksums(out_dir: Path, escopo: str, periodo: dict, included_files: List[Path], rows: List[dict]) -> None:
-    total = round(sum(float(r['totais']['total']) for r in rows if (r['totais']['qtdLancamentos']>0 or r['totais']['total']>0)), 2)
-    agentes = len([r for r in rows if (r['totais']['qtdLancamentos']>0 or r['totais']['total']>0)])
-    file_hashes = []
-    for f in included_files:
-        if f.exists():
-            file_hashes.append({"path": str(f).replace(str(out_dir), "").lstrip("/"), "sha256": sha256_file(f)})
-    combined = sha256_bytes(json.dumps(file_hashes, ensure_ascii=False, sort_keys=True).encode("utf-8"))
-    obj = {
-        "meta": {
-            "escopo": escopo,
-            "tipo": "checksums",
-            "periodo": periodo,
-            "geradoEm": now_iso(),
-            "versaoSchema": "1.1.0"
-        },
-        "data": {
-            "totalGasto": total,
-            "agentesConsiderados": agentes,
-            "files": file_hashes,
-            "combinedSha256": combined
-        }
-    }
-    key = period_path(periodo).replace("/", "_")
-    write_json(out_dir / f"{escopo}/checksums/{key}.json", obj)
-
-def write_methodology(out_dir: Path, cmap: CategoryMap) -> None:
-    obj = {
-        "meta": {
-            "escopo": "federal/camara",
-            "tipo": "methodology",
-            "versao": "v1",
-            "geradoEm": now_iso(),
-            "versaoSchema": "1.1.0",
-            "versaoCategoryMap": cmap.version
-        },
-        "metricas": {
-            "total": "Soma do valorLiquido/valorDocumento no período.",
-            "variacaoMensalCV": "Coeficiente de variação (desvio padrão populacional / média) dos totais mensais (>0).",
-            "picoMensal": "Maior total mensal do período (mês e valor).",
-            "fornecedorTop1Pct": "Participação do fornecedor #1 no total do período.",
-            "fornecedorTop3Pct": "Participação acumulada dos 3 maiores fornecedores.",
-            "fornecedorHHI": "Índice HHI baseado nas participações de fornecedores (0..1).",
-            "categoriaDominantePct": "Maior categoriaQC / total do período.",
-            "semDocumentoPct": "valorSemDocumentoPdf / total (indicador neutro de documentação pública em PDF).",
-            "recibosOutrosPct": "valorRecibosOutros / total (indicador neutro)."
-        },
-        "flags": {
-            "high_supplier_concentration": {"regra": "fornecedorTop1Pct >= 0.60"},
-            "spiky_spend": {"regra": "picoValor >= 4x média mensal e >=3 meses com gasto"},
-            "category_dominant": {"regra": "categoriaDominantePct >= 0.70"},
-            "high_without_pdf": {"regra": "semDocumentoPct >= 0.30 e total >= 20000"},
-            "high_receipts_other": {"regra": "recibosOutrosPct >= 0.30 e total >= 20000"}
-        },
-        "observacoes": [
-            "Flags não indicam irregularidade; apenas padrões para investigação.",
-            "Alguns períodos podem ser parciais (ano em andamento). Ver manifest.json."
-        ]
-    }
-    write_json(out_dir / "federal/camara/methodology/v1.json", obj)
-
-def write_manifest(out_dir: Path, mandate_start_year: int, year: int, mandate_files: List[Path], cmap: CategoryMap) -> None:
-    # range
-    min_ym = None
-    max_ym = None
-    for f in mandate_files:
-        try:
-            y = int(f.parent.parent.name)
-            m = int(f.parent.name)
-            ym = f"{y:04d}-{m:02d}"
-            if min_ym is None or ym < min_ym:
-                min_ym = ym
-            if max_ym is None or ym > max_ym:
-                max_ym = ym
-        except Exception:
-            pass
-    sha = os.environ.get("GITHUB_SHA") or ""
-    obj = {
-        "meta": {
-            "escopo": "federal/camara",
-            "tipo": "manifest",
-            "geradoEm": now_iso(),
-            "versaoSchema": "1.1.0",
-            "versaoCategoryMap": cmap.version,
-            "methodologyVersion": "v1",
-            "source": {"githubSha": sha}
-        },
-        "dataRange": {
-            "mandatoInicioAno": mandate_start_year,
-            "mandatoFimAno": year,
-            "minYearMonth": min_ym,
-            "maxYearMonth": max_ym,
-            "totalMesesIncluidos": len(mandate_files)
-        },
-        "support": {
-            "rankings": ["total_top10", "total_bottom10", "categoria_*_top10", "uf/*"],
-            "resumos": ["overview", "deputados/{id}", "index shards by_uf/by_letter"],
-            "metrics": [
-                "total",
-                "variacaoMensalCV",
-                "picoMensal",
-                "fornecedorTop1Pct",
-                "fornecedorTop3Pct",
-                "fornecedorHHI",
-                "categoriaDominantePct",
-                "semDocumentoPct",
-                "recibosOutrosPct"
-            ],
-            "flags": ["high_supplier_concentration", "spiky_spend", "category_dominant", "high_without_pdf", "high_receipts_other"]
-        }
-    }
-    write_json(out_dir / "federal/camara/manifest.json", obj)
-
-def write_rankings_by_uf(out_dir: Path, rows: List[dict], periodo_meta: dict, cmap: CategoryMap) -> None:
-    # agrupar ativos por UF e gerar os mesmos rankings (top10/bottom10/categorias)
-    ativos = [r for r in rows if (r["totais"]["qtdLancamentos"] > 0 or r["totais"]["total"] > 0)]
-    groups: Dict[str, List[dict]] = {}
-    for r in ativos:
-        uf = (r.get("uf") or "?").strip() or "?"
-        groups.setdefault(uf, []).append(r)
-
-    base = out_dir / "federal/camara/rankings" / period_path(periodo_meta) / "uf"
-    for uf, g in groups.items():
-        rankings = build_rankings_from_rows(g, {**periodo_meta, "recorte": {"tipo": "uf", "valor": uf}}, cmap)
-        for fname, obj in rankings.items():
-            write_json(base / safe_slug(uf) / fname, obj)
-
 
 # ----------------------------
 # Summation helpers (year / mandate) using stored aggregates
@@ -587,8 +444,7 @@ def sum_aggregate_files(aggregate_files: List[Path]) -> List[dict]:
                         "qtdSemDocumentoPdf": 0,
                         "valorSemDocumentoPdf": 0.0,
                         "qtdRecibosOutros": 0,
-                        "valorRecibosOutros": 0.0,
-                        "porFornecedor": {}
+                        "valorRecibosOutros": 0.0
                     }
                 }
                 # zerar porCategoria (mantendo keys)
@@ -603,9 +459,6 @@ def sum_aggregate_files(aggregate_files: List[Path]) -> List[dict]:
             s["qtdRecibosOutros"] += int(r["totais"].get("qtdRecibosOutros", 0))
             s["valorRecibosOutros"] += float(r["totais"].get("valorRecibosOutros", 0.0))
 
-            for k, v in (r["totais"].get("porFornecedor") or {}).items():
-                s["porFornecedor"][k] = float(s["porFornecedor"].get(k, 0.0)) + float(v)
-
             for k, v in r["totais"]["porCategoria"].items():
                 s["porCategoria"][k] = float(s["porCategoria"].get(k, 0.0)) + float(v)
 
@@ -616,198 +469,8 @@ def sum_aggregate_files(aggregate_files: List[Path]) -> List[dict]:
         r["totais"]["valorSemDocumentoPdf"] = round(r["totais"]["valorSemDocumentoPdf"], 2)
         r["totais"]["valorRecibosOutros"] = round(r["totais"]["valorRecibosOutros"], 2)
         r["totais"]["porCategoria"] = {k: round(float(v), 2) for k, v in r["totais"]["porCategoria"].items()}
-        if "porFornecedor" in r["totais"] and isinstance(r["totais"]["porFornecedor"], dict):
-            r["totais"]["porFornecedor"] = {k: round(float(v), 2) for k, v in r["totais"]["porFornecedor"].items()}
         out.append(r)
     return out
-
-
-
-def build_resumos_deputados(out_dir: Path, mandate_start_year: int, year: int, rows_mandato: List[dict], cmap: CategoryMap) -> None:
-    """
-    Gera:
-      - federal/camara/resumos/_index.json (compat)
-      - federal/camara/resumos/index/by_uf/{UF}.json
-      - federal/camara/resumos/index/by_letter/{a..z,#}.json
-      - federal/camara/resumos/deputados/{id}.json (compacto, com métricas e flags)
-    """
-    # Totais por ano e por mês (para CV/picos)
-    totals_ano: Dict[int, Dict[str, float]] = {}
-    totals_mes: Dict[int, Dict[str, float]] = {}
-
-    mandate_files: List[Path] = []
-    for y in range(mandate_start_year, year + 1):
-        year_dir = out_dir / f"federal/camara/aggregates/{y:04d}"
-        month_files = sorted(year_dir.glob("*/totais_deputados.json"))
-        if not month_files:
-            continue
-        mandate_files.extend(month_files)
-
-        rows_y = sum_aggregate_files(month_files)
-        for r in rows_y:
-            dep_id = int(r["id"])
-            totals_ano.setdefault(dep_id, {})[str(y)] = float(r["totais"]["total"])
-
-        # por mês
-        for mf in month_files:
-            mm = int(mf.parent.name)
-            ym_key = f"{y:04d}-{mm:02d}"
-            obj = read_json(mf) or {}
-            for r in obj.get("data", []):
-                dep_id = int(r["id"])
-                totals_mes.setdefault(dep_id, {})[ym_key] = float(r["totais"]["total"])
-
-    cats = all_categories(cmap)
-
-    # ativos no mandato
-    ativos = [r for r in rows_mandato if (r["totais"]["qtdLancamentos"] > 0 or r["totais"]["total"] > 0)]
-
-    # montar index + arquivos por deputado
-    index_data = []
-    base_dir = out_dir / "federal/camara/resumos/deputados"
-    ensure_dir(base_dir)
-
-    for r in ativos:
-        dep_id = int(r["id"])
-        total = float(r["totais"]["total"])
-        por_cat = r["totais"].get("porCategoria", {}) or {}
-        # dominante por categoria
-        dom_cat = None
-        dom_val = 0.0
-        for c in cats:
-            v = float(por_cat.get(c, 0.0) or 0.0)
-            if v > dom_val:
-                dom_val = v
-                dom_cat = c
-        dom_pct = pct(dom_val, total)
-
-        # indicadores de documento
-        valor_sem_doc = float(r["totais"].get("valorSemDocumentoPdf", 0.0) or 0.0)
-        valor_recibos = float(r["totais"].get("valorRecibosOutros", 0.0) or 0.0)
-        sem_doc_pct = pct(valor_sem_doc, total)
-        recibos_pct = pct(valor_recibos, total)
-
-        # stats por mês
-        series = totals_mes.get(dep_id, {})
-        stats_mes = compute_month_stats(series)
-
-        # concentração por fornecedor (mandato) - calculada a partir do agregado (porFornecedor)
-        conc = compute_concentration_from_map(r["totais"].get("porFornecedor", {}) or {}, total)
-
-        # flags (neutras; sem acusação)
-        flags = []
-        if conc["top1Pct"] >= 0.60 and total > 0:
-            flags.append("high_supplier_concentration")
-        if stats_mes["media"] > 0 and stats_mes["picoValor"] >= 4.0 * stats_mes["media"] and len([v for v in series.values() if float(v) > 0]) >= 3:
-            flags.append("spiky_spend")
-        if dom_pct >= 0.70 and total > 0:
-            flags.append("category_dominant")
-        if sem_doc_pct >= 0.30 and total >= 20000:
-            flags.append("high_without_pdf")
-        if recibos_pct >= 0.30 and total >= 20000:
-            flags.append("high_receipts_other")
-
-        # registro no index (leve)
-        idx_item = {
-            "id": dep_id,
-            "nome": r.get("nome"),
-            "uf": r.get("uf"),
-            "partido": r.get("partido"),
-            "urlFoto": r.get("urlFoto"),
-            "totalMandato": round(total, 2),
-            "totaisAno": totals_ano.get(dep_id, {}),
-            "metricas": {
-                "variacaoMensalCV": stats_mes["cv"],
-                "picoMes": stats_mes["picoMes"],
-                "picoValor": stats_mes["picoValor"],
-                "fornecedorTop1Pct": conc["top1Pct"],
-                "fornecedorTop3Pct": conc["top3Pct"],
-                "fornecedorHHI": conc["hhi"],
-                "categoriaDominante": dom_cat,
-                "categoriaDominantePct": round(dom_pct, 6),
-                "semDocumentoPct": round(sem_doc_pct, 6),
-                "recibosOutrosPct": round(recibos_pct, 6)
-            },
-            "flags": flags
-        }
-        index_data.append(idx_item)
-
-        # arquivo completo por deputado (ainda compacto)
-        dep_obj = {
-            "meta": {
-                "escopo": "federal/camara",
-                "tipo": "resumo_deputado",
-                "id": dep_id,
-                "geradoEm": now_iso(),
-                "versaoSchema": "1.1.0",
-                "mandatoInicioAno": mandate_start_year,
-                "mandatoFimAno": year,
-                "versaoCategoryMap": cmap.version
-            },
-            "data": {
-                "id": dep_id,
-                "nome": r.get("nome"),
-                "uf": r.get("uf"),
-                "partido": r.get("partido"),
-                "urlFoto": r.get("urlFoto"),
-                "totaisMandato": {
-                    "total": round(total, 2),
-                    "qtdLancamentos": int(r["totais"]["qtdLancamentos"]),
-                    "porCategoria": {k: round(float(v), 2) for k, v in por_cat.items()}
-                },
-                "totaisAno": totals_ano.get(dep_id, {}),
-                "porMes": {k: round(float(v), 2) for k, v in sorted(series.items())},
-                "metricas": idx_item["metricas"],
-                "topFornecedores": conc["topFornecedores"],
-                "flags": flags
-            }
-        }
-        write_json(base_dir / f"{dep_id}.json", dep_obj)
-
-    index_obj = {
-        "meta": {
-            "escopo": "federal/camara",
-            "tipo": "resumo_index_deputados",
-            "geradoEm": now_iso(),
-            "versaoSchema": "1.1.0",
-            "mandatoInicioAno": mandate_start_year,
-            "mandatoFimAno": year
-        },
-        "data": sorted(index_data, key=lambda x: (str(x.get("nome") or "").lower(), x["id"]))
-    }
-
-    # compat
-    write_json(out_dir / "federal/camara/resumos/_index.json", index_obj)
-
-    # shards por UF
-    by_uf_dir = out_dir / "federal/camara/resumos/index/by_uf"
-    ensure_dir(by_uf_dir)
-    ufs: Dict[str, List[dict]] = {}
-    for it in index_obj["data"]:
-        uf = (it.get("uf") or "?").strip() or "?"
-        ufs.setdefault(uf, []).append(it)
-    for uf, arr in ufs.items():
-        write_json(by_uf_dir / f"{safe_slug(uf)}.json", {
-            "meta": {**index_obj["meta"], "shard": {"tipo": "uf", "valor": uf}},
-            "data": arr
-        })
-
-    # shards por letra
-    by_letter_dir = out_dir / "federal/camara/resumos/index/by_letter"
-    ensure_dir(by_letter_dir)
-    buckets: Dict[str, List[dict]] = {chr(c): [] for c in range(ord("a"), ord("z") + 1)}
-    buckets["#"] = []
-    for it in index_obj["data"]:
-        nm = (it.get("nome") or "").strip().lower()
-        first = nm[:1] if nm else "#"
-        key = first if first.isalpha() else "#"
-        buckets.setdefault(key, []).append(it)
-    for k, arr in buckets.items():
-        write_json(by_letter_dir / f"{k}.json", {
-            "meta": {**index_obj["meta"], "shard": {"tipo": "letra", "valor": k}},
-            "data": arr
-        })
-
 
 # ----------------------------
 # Main
@@ -869,11 +532,6 @@ def main():
         overview = build_overview_from_rows(rows, periodo_mes, cmap)
         write_json(out_dir / f"federal/camara/resumos/{year:04d}/{m:02d}/overview.json", overview)
 
-        # rankings por UF (mes)
-        write_rankings_by_uf(out_dir, rows, periodo_mes, cmap)
-        # checksums (mes)
-        write_checksums(out_dir, "federal/camara", periodo_mes, [agg_path], rows)
-
     # rebuild YEAR (ano fechado ou acumulado) e MANDATO usando aggregates armazenados
     # Ano: soma todos os meses que existem em aggregates/{year}/
     year_agg_dir = out_dir / f"federal/camara/aggregates/{year:04d}"
@@ -886,9 +544,6 @@ def main():
             write_json(out_dir / f"federal/camara/rankings/{year:04d}/ano/{fname}", obj)
         overview_year = build_overview_from_rows(rows_year, periodo_ano, cmap)
         write_json(out_dir / f"federal/camara/resumos/{year:04d}/ano/overview.json", overview_year)
-
-        write_rankings_by_uf(out_dir, rows_year, periodo_ano, cmap)
-        write_checksums(out_dir, "federal/camara", periodo_ano, month_files, rows_year)
 
     # Mandato: soma todos os aggregates de mandate_start_year..(year) existentes
     mandate_files = []
@@ -907,16 +562,12 @@ def main():
             write_json(out_dir / "federal/camara/rankings/mandato" / fname, obj)
         overview_mandato = build_overview_from_rows(rows_mandato, periodo_mandato, cmap)
         write_json(out_dir / "federal/camara/resumos/mandato/overview.json", overview_mandato)
-        build_resumos_deputados(out_dir, mandate_start_year, year, rows_mandato, cmap)
 
-        write_rankings_by_uf(out_dir, rows_mandato, periodo_mandato, cmap)
-        write_checksums(out_dir, "federal/camara", periodo_mandato, mandate_files, rows_mandato)
-        write_methodology(out_dir, cmap)
-        write_manifest(out_dir, mandate_start_year, year, mandate_files, cmap)
+    write_resumos_index(out_dir)
 
     # catalog
     catalog = read_json(out_dir / "catalog.json") or {"meta": {}, "datasets": []}
-    catalog["meta"] = {"geradoEm": now_iso(), "versaoSchema": "1.1.0"}
+    catalog["meta"] = {"geradoEm": now_iso(), "versaoSchema": "1.0.0"}
     # registra o que existe hoje para a Câmara
     catalog["datasets"] = [
         {
