@@ -350,18 +350,18 @@ def build_rankings_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
     top_total = [{
         "id": r["id"], "nome": r["nome"], "uf": r["uf"], "partido": r["partido"],
         "valor": r["totais"]["total"], "qtdLancamentos": r["totais"]["qtdLancamentos"]
-    } for r in total_sorted[:100]]
+    } for r in total_sorted[:10]]
 
     bottom_total = [{
         "id": r["id"], "nome": r["nome"], "uf": r["uf"], "partido": r["partido"],
         "valor": r["totais"]["total"], "qtdLancamentos": r["totais"]["qtdLancamentos"]
-    } for r in sorted(ativos, key=lambda r: r["totais"]["total"])[:100]]
+    } for r in sorted(ativos, key=lambda r: r["totais"]["total"])[:10]]
 
     out: Dict[str, dict] = {}
-    out["total_top100.json"] = mk_ranking(base_meta_total, top_total)
-    out["total_bottom100.json"] = mk_ranking(base_meta_total, bottom_total)
+    out["total_top10.json"] = mk_ranking(base_meta_total, top_total)
+    out["total_bottom10.json"] = mk_ranking(base_meta_total, bottom_total)
 
-    # por categoria (top100)
+    # por categoria (top10)
     for cat in cats:
         meta_cat = {
             "tipo": "ranking_categoria",
@@ -381,8 +381,8 @@ def build_rankings_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
                 "valor": round(v, 2),
                 "qtdLancamentos": r["totais"]["qtdLancamentos"]
             })
-        arr_sorted = sorted(arr, key=lambda x: x["valor"], reverse=True)[:100]
-        out[f"categoria_{cat}_top100.json"] = mk_ranking(meta_cat, arr_sorted)
+        arr_sorted = sorted(arr, key=lambda x: x["valor"], reverse=True)[:10]
+        out[f"categoria_{cat}_top10.json"] = mk_ranking(meta_cat, arr_sorted)
 
     return out
 
