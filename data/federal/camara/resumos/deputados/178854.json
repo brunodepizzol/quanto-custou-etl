@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178854,
-    "geradoEm": "2026-03-03T15:34:13.135326Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.990141Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178854,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 390076.57,
         "PASSAGENS": 331531.75
-      }
+      },
+      "qtdSemDocumentoPdf": 481,
+      "valorSemDocumentoPdf": 428536.11,
+      "qtdRecibosOutros": 37,
+      "valorRecibosOutros": 186380.35
     },
     "totaisAno": {
       "2023": 469162.26,
@@ -86,36 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.416674,
-      "picoMes": "2023-11",
-      "picoValor": 63960.17,
-      "fornecedorTop1Pct": 0.013071,
-      "fornecedorTop3Pct": 0.017839,
-      "fornecedorHHI": 0.00019,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.272659,
-      "semDocumentoPct": 0.299542,
-      "recibosOutrosPct": 0.130278
-    },
-    "topFornecedores": [
-      {
-        "nome": "ATLÂNTICO TRANSPORTES LTDA.",
-        "valor": 18700.0
-      },
-      {
-        "nome": "ISABELLA CEOLIN DADALTO SOUTO",
-        "valor": 6306.0
-      },
-      {
-        "nome": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
-        "valor": 515.11
-      },
-      {
-        "nome": "Claro NXT Telecomunicações S.A",
-        "valor": 340.12
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 390076.57,
+      "pct": 27.27
+    }
   }
 }

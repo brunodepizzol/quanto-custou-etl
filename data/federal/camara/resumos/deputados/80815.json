@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 80815,
-    "geradoEm": "2026-03-03T15:34:13.185367Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.017315Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 80815,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 279.49,
         "OUTROS": 388100.0,
         "PASSAGENS": 206118.79
-      }
+      },
+      "qtdSemDocumentoPdf": 683,
+      "valorSemDocumentoPdf": 333778.85,
+      "qtdRecibosOutros": 167,
+      "valorRecibosOutros": 283196.23
     },
     "totaisAno": {
       "2023": 498592.69,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.149304,
-      "picoMes": "2025-04",
-      "picoValor": 54226.29,
-      "fornecedorTop1Pct": 0.013672,
-      "fornecedorTop3Pct": 0.026332,
-      "fornecedorHHI": 0.000297,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.359106,
-      "semDocumentoPct": 0.211277,
-      "recibosOutrosPct": 0.179259
-    },
-    "topFornecedores": [
-      {
-        "nome": "JD2 SERVIÇOS E LOCAÇÕES EIRELI",
-        "valor": 21600.0
-      },
-      {
-        "nome": "236LUAN JOAQUIM DE JESUS SANTOS",
-        "valor": 12000.0
-      },
-      {
-        "nome": "LIBRE COMUNICAÇÃO E MARKETING EIRELI",
-        "valor": 8000.0
-      },
-      {
-        "nome": "B&M PATRIMONIAL LTDA",
-        "valor": 7000.0
-      },
-      {
-        "nome": "RAHI MOITINHO DOURADO DE OLIVEIRA",
-        "valor": 4000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 567322.0,
+      "pct": 35.91
+    }
   }
 }

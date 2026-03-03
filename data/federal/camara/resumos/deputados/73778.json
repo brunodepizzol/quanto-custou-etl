@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 73778,
-    "geradoEm": "2026-03-03T15:34:13.193481Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.021797Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 73778,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 15171.92,
         "OUTROS": 133072.01,
         "PASSAGENS": 203831.92
-      }
+      },
+      "qtdSemDocumentoPdf": 714,
+      "valorSemDocumentoPdf": 259370.46,
+      "qtdRecibosOutros": 94,
+      "valorRecibosOutros": 179237.26
     },
     "totaisAno": {
       "2023": 196901.49,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.370087,
-      "picoMes": "2025-06",
-      "picoValor": 68325.76,
-      "fornecedorTop1Pct": 0.023522,
-      "fornecedorTop3Pct": 0.026944,
-      "fornecedorHHI": 0.000565,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.58118,
-      "semDocumentoPct": 0.221862,
-      "recibosOutrosPct": 0.153317
-    },
-    "topFornecedores": [
-      {
-        "nome": "SVS COMUNICAÇÃO E MAARKETING DIGITAL LTDA",
-        "valor": 27499.0
-      },
-      {
-        "nome": "G. ALVES DE OLIVEIRA E CIA LTDA",
-        "valor": 2000.0
-      },
-      {
-        "nome": "SECLA-PUBLICIDADE E PROMOÇÕES S/C LTDA.",
-        "valor": 2000.0
-      },
-      {
-        "nome": "EDICAL EDITORA CAMARGO LTDA",
-        "valor": 1700.0
-      },
-      {
-        "nome": "CEZAR RENATO ZORZAM",
-        "valor": 1400.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 679434.0,
+      "pct": 58.12
+    }
   }
 }

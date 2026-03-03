@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 141470,
-    "geradoEm": "2026-03-03T15:34:13.174196Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.011157Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 141470,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 50766.7,
         "OUTROS": 91100.0,
         "PASSAGENS": 452913.02
-      }
+      },
+      "qtdSemDocumentoPdf": 650,
+      "valorSemDocumentoPdf": 467214.31,
+      "qtdRecibosOutros": 125,
+      "valorRecibosOutros": 409104.42
     },
     "totaisAno": {
       "2023": 545548.19,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.319731,
-      "picoMes": "2023-12",
-      "picoValor": 87040.03,
-      "fornecedorTop1Pct": 0.010051,
-      "fornecedorTop3Pct": 0.014531,
-      "fornecedorHHI": 0.000123,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.307631,
-      "semDocumentoPct": 0.275413,
-      "recibosOutrosPct": 0.241158
-    },
-    "topFornecedores": [
-      {
-        "nome": "CESAR REGO IMOVEIS LTDA",
-        "valor": 17050.73
-      },
-      {
-        "nome": "MEGA ADMINISTRACAO E VENDA DE IMOVEIS CARIRI LTDA",
-        "valor": 4600.0
-      },
-      {
-        "nome": "CPM SOLUÇÕES EM MIDIA S/S LTDA - ME",
-        "valor": 3000.0
-      },
-      {
-        "nome": "COMPANHIA ENERGÉTICA DO CEARÁ",
-        "valor": 2927.9
-      },
-      {
-        "nome": "CORPVS SEGURANÇA ELETRÔNICA LTDA",
-        "valor": 2333.5
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 521869.83,
+      "pct": 30.76
+    }
   }
 }

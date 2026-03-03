@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220570,
-    "geradoEm": "2026-03-03T15:34:13.129582Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.986927Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220570,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 852.6,
         "OUTROS": 378836.99,
         "PASSAGENS": 45555.23
-      }
+      },
+      "qtdSemDocumentoPdf": 414,
+      "valorSemDocumentoPdf": 163450.55,
+      "qtdRecibosOutros": 58,
+      "valorRecibosOutros": 387054.42
     },
     "totaisAno": {
       "2023": 436760.81,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.319813,
-      "picoMes": "2024-11",
-      "picoValor": 66304.28,
-      "fornecedorTop1Pct": 0.021532,
-      "fornecedorTop3Pct": 0.052408,
-      "fornecedorHHI": 0.000975,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.579934,
-      "semDocumentoPct": 0.112802,
-      "recibosOutrosPct": 0.267118
-    },
-    "topFornecedores": [
-      {
-        "nome": "Frederico Jose Barbosa de Jesus",
-        "valor": 31200.0
-      },
-      {
-        "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
-        "valor": 28240.0
-      },
-      {
-        "nome": "Danilo Batista Dias",
-        "valor": 16500.0
-      },
-      {
-        "nome": "MAMMUT COMBUSTIVEIS LTDA",
-        "valor": 1208.59
-      },
-      {
-        "nome": "POSTO ALDEIA LTDA",
-        "valor": 788.19
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 840325.87,
+      "pct": 57.99
+    }
   }
 }

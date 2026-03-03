@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 73808,
-    "geradoEm": "2026-03-03T15:34:13.256521Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.056119Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 73808,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 3380.46,
         "OUTROS": 420.0,
         "PASSAGENS": 27750.24
-      }
+      },
+      "qtdSemDocumentoPdf": 73,
+      "valorSemDocumentoPdf": 36999.98,
+      "qtdRecibosOutros": 6,
+      "valorRecibosOutros": 21367.38
     },
     "totaisAno": {
       "2023": 30070.05,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.665742,
-      "picoMes": "2025-12",
-      "picoValor": 25242.88,
-      "fornecedorTop1Pct": 0.167395,
-      "fornecedorTop3Pct": 0.291391,
-      "fornecedorHHI": 0.037693,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.477385,
-      "semDocumentoPct": 0.286741,
-      "recibosOutrosPct": 0.165592
-    },
-    "topFornecedores": [
-      {
-        "nome": "WL COMUNICACAO E CONSULTORIA",
-        "valor": 21600.0
-      },
-      {
-        "nome": "PATRIMONIAL SCG LTDA",
-        "valor": 11000.0
-      },
-      {
-        "nome": "RODRIGO PATARO CHAGAS DE OLIVEIRA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "EDVALDO FRANCISCO DE OLIVEIRA 49191160120",
-        "valor": 3479.7
-      },
-      {
-        "nome": "POSTO GRUTA DA LAPA LTDA",
-        "valor": 1243.99
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 61600.0,
+      "pct": 47.74
+    }
   }
 }

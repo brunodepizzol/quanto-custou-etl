@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 141518,
-    "geradoEm": "2026-03-03T15:34:13.225808Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.039409Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 141518,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 130690.0,
         "PASSAGENS": 223001.25
-      }
+      },
+      "qtdSemDocumentoPdf": 451,
+      "valorSemDocumentoPdf": 237423.3,
+      "qtdRecibosOutros": 17,
+      "valorRecibosOutros": 91690.0
     },
     "totaisAno": {
       "2023": 13015.85,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.424382,
-      "picoMes": "2025-09",
-      "picoValor": 52636.43,
-      "fornecedorTop1Pct": 0.027195,
-      "fornecedorTop3Pct": 0.048002,
-      "fornecedorHHI": 0.001062,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.463017,
-      "semDocumentoPct": 0.322834,
-      "recibosOutrosPct": 0.124675
-    },
-    "topFornecedores": [
-      {
-        "nome": "2HC CRIATIVIDADE E PRODUÇÕES LTDA",
-        "valor": 20000.0
-      },
-      {
-        "nome": "Vinicius Gabriel Dutra LTDA",
-        "valor": 13000.0
-      },
-      {
-        "nome": "AUTO POSTO LAVAPES LTDA.",
-        "valor": 2302.28
-      },
-      {
-        "nome": "Telefônica Brasil S.A. VIVO",
-        "valor": 330.0
-      },
-      {
-        "nome": "TELEFÔNICA BRASIL S.A - VIVO",
-        "valor": 330.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 340519.0,
+      "pct": 46.3
+    }
   }
 }

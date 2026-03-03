@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 209787,
-    "geradoEm": "2026-03-03T15:34:13.218456Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.035438Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 209787,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 2137.15,
         "OUTROS": 366844.49,
         "PASSAGENS": 237011.3
-      }
+      },
+      "qtdSemDocumentoPdf": 382,
+      "valorSemDocumentoPdf": 246545.55,
+      "qtdRecibosOutros": 206,
+      "valorRecibosOutros": 639595.45
     },
     "totaisAno": {
       "2023": 240219.79,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.342839,
-      "picoMes": "2025-07",
-      "picoValor": 51626.1,
-      "fornecedorTop1Pct": 0.012175,
-      "fornecedorTop3Pct": 0.022186,
-      "fornecedorHHI": 0.000209,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.330845,
-      "semDocumentoPct": 0.222352,
-      "recibosOutrosPct": 0.576831
-    },
-    "topFornecedores": [
-      {
-        "nome": "Nacional Rent a Car Locação de Veiculos LTDA",
-        "valor": 13500.0
-      },
-      {
-        "nome": "MONAGHAN EMPREENDIMENTOS IMOBILIARIOS",
-        "valor": 6300.0
-      },
-      {
-        "nome": "FAS DESENVOLVIMENTO DE SOFTWARE E CNSULTORIA LTDA",
-        "valor": 4800.0
-      },
-      {
-        "nome": "PACTO ADMINISTRADORA & CORRETORA DE SEGUROS LTDA",
-        "valor": 2526.27
-      },
-      {
-        "nome": "FILIPE AMORIM SANTOS SOUSA",
-        "valor": 2000.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 366844.49,
+      "pct": 33.08
+    }
   }
 }

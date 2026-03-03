@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 109429,
-    "geradoEm": "2026-03-03T15:34:13.092029Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.965812Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 109429,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1532.0,
         "OUTROS": 452196.33,
         "PASSAGENS": 166958.52
-      }
+      },
+      "qtdSemDocumentoPdf": 1119,
+      "valorSemDocumentoPdf": 371935.83,
+      "qtdRecibosOutros": 137,
+      "valorRecibosOutros": 747282.54
     },
     "totaisAno": {
       "2023": 444629.78,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.222275,
-      "picoMes": "2024-08",
-      "picoValor": 60890.75,
-      "fornecedorTop1Pct": 0.010872,
-      "fornecedorTop3Pct": 0.023256,
-      "fornecedorHHI": 0.000217,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.276192,
-      "semDocumentoPct": 0.227171,
-      "recibosOutrosPct": 0.456425
-    },
-    "topFornecedores": [
-      {
-        "nome": "ATUAL ATACADISTA E DISTRIBUIDORA LTDA",
-        "valor": 17800.0
-      },
-      {
-        "nome": "2HC CRIATIVIDADE E PRODUÇÕES LTDA",
-        "valor": 11000.0
-      },
-      {
-        "nome": "Claudio Manoel de Amorim Santos",
-        "valor": 9276.0
-      },
-      {
-        "nome": "R & E LOCADORA LTDA ME",
-        "valor": 7000.0
-      },
-      {
-        "nome": "TRANSPORTES E COMERCIO NOVO HORIZONTE LTDA",
-        "valor": 1601.94
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 452196.33,
+      "pct": 27.62
+    }
   }
 }

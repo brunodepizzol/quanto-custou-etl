@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 66828,
-    "geradoEm": "2026-03-03T15:34:13.143326Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.994492Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 66828,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 3724.76,
         "OUTROS": 439600.0,
         "PASSAGENS": 182385.55
-      }
+      },
+      "qtdSemDocumentoPdf": 297,
+      "valorSemDocumentoPdf": 229525.74,
+      "qtdRecibosOutros": 128,
+      "valorRecibosOutros": 534699.66
     },
     "totaisAno": {
       "2023": 432816.45,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.262295,
-      "picoMes": "2025-07",
-      "picoValor": 56636.57,
-      "fornecedorTop1Pct": 0.027667,
-      "fornecedorTop3Pct": 0.037416,
-      "fornecedorHHI": 0.000825,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.289579,
-      "semDocumentoPct": 0.151196,
-      "recibosOutrosPct": 0.352225
-    },
-    "topFornecedores": [
-      {
-        "nome": "GUSTAVO GOMES DE SOUSA DIAS",
-        "valor": 42000.0
-      },
-      {
-        "nome": "AUTO POSTO BRASIL DE FERNANDOPOLIS LTDA",
-        "valor": 7599.22
-      },
-      {
-        "nome": "DIDATA INFORMÁTICA",
-        "valor": 7200.0
-      },
-      {
-        "nome": "RAMON AGUILERA PARTICIPAÇÕES E EMPREENDIMENTOS LTDA",
-        "valor": 4360.74
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 1921.15
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 439600.0,
+      "pct": 28.96
+    }
   }
 }

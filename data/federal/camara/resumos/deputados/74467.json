@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74467,
-    "geradoEm": "2026-03-03T15:34:13.112150Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.977397Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74467,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 5800.3,
         "OUTROS": 187549.99,
         "PASSAGENS": 393099.29
-      }
+      },
+      "qtdSemDocumentoPdf": 479,
+      "valorSemDocumentoPdf": 568862.17,
+      "qtdRecibosOutros": 27,
+      "valorRecibosOutros": 144489.99
     },
     "totaisAno": {
       "2023": 562727.99,
@@ -86,34 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.437817,
-      "picoMes": "2023-10",
-      "picoValor": 112019.52,
-      "fornecedorTop1Pct": 0.01157,
-      "fornecedorTop3Pct": 0.017228,
-      "fornecedorHHI": 0.000154,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.522512,
-      "semDocumentoPct": 0.346404,
-      "recibosOutrosPct": 0.087986
-    },
-    "topFornecedores": [
-      {
-        "nome": "CENTRAL PUBLICIDADE Ltda",
-        "valor": 19000.0
-      },
-      {
-        "nome": "SHEKINAH LOCACAO DE VEICULOS EIRELI",
-        "valor": 7000.0
-      },
-      {
-        "nome": "Azul Linhas Aéreas",
-        "valor": 2291.57
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 858065.6,
+      "pct": 52.25
+    }
   }
 }

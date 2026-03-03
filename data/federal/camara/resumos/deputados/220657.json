@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220657,
-    "geradoEm": "2026-03-03T15:34:13.082413Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.960395Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220657,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 194906.0,
         "PASSAGENS": 275673.05
-      }
+      },
+      "qtdSemDocumentoPdf": 451,
+      "valorSemDocumentoPdf": 299428.47,
+      "qtdRecibosOutros": 16,
+      "valorRecibosOutros": 109060.71
     },
     "totaisAno": {
       "2023": 309814.89,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.527482,
-      "picoMes": "2025-10",
-      "picoValor": 56806.73,
-      "fornecedorTop1Pct": 0.009563,
-      "fornecedorTop3Pct": 0.015471,
-      "fornecedorHHI": 0.000111,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.303003,
-      "semDocumentoPct": 0.329114,
-      "recibosOutrosPct": 0.119873
-    },
-    "topFornecedores": [
-      {
-        "nome": "ATENTE SEGURANÇA LTDA",
-        "valor": 8700.0
-      },
-      {
-        "nome": "Latam Linhas Aéreas S.A",
-        "valor": 3275.86
-      },
-      {
-        "nome": "BROAD BRASIL LTDA",
-        "valor": 2100.0
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEIS 310 SUL LTDA",
-        "valor": 450.0
-      },
-      {
-        "nome": "R &amp; LEAL COMBUSTIVEIS LTDA",
-        "valor": 370.01
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 275673.05,
+      "pct": 30.3
+    }
   }
 }

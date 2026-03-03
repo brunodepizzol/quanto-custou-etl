@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 171617,
-    "geradoEm": "2026-03-03T15:34:13.225412Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.039205Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 171617,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 4342.2,
         "OUTROS": 385126.0,
         "PASSAGENS": 281109.99
-      }
+      },
+      "qtdSemDocumentoPdf": 746,
+      "valorSemDocumentoPdf": 365948.58,
+      "qtdRecibosOutros": 75,
+      "valorRecibosOutros": 240651.34
     },
     "totaisAno": {
       "2023": 367932.05,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.419525,
-      "picoMes": "2024-12",
-      "picoValor": 99456.49,
-      "fornecedorTop1Pct": 0.002832,
-      "fornecedorTop3Pct": 0.006568,
-      "fornecedorHHI": 2.2e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.342274,
-      "semDocumentoPct": 0.273462,
-      "recibosOutrosPct": 0.179831
-    },
-    "topFornecedores": [
-      {
-        "nome": "Silvia Regina Rodrigues Campos",
-        "valor": 3790.0
-      },
-      {
-        "nome": "BARROS MELO COMUNICACAO LTDA",
-        "valor": 2500.0
-      },
-      {
-        "nome": "LARISSA DANIELA RODRIGUES DOS SANTOS 12434225489",
-        "valor": 2500.0
-      },
-      {
-        "nome": "ASSOCIAÇÃO COMUNITÁRIA DE DIFUSÃO DE COMERCIO FM",
-        "valor": 2000.0
-      },
-      {
-        "nome": "POLITICA ALAGOANA LTDA",
-        "valor": 2000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 458033.52,
+      "pct": 34.23
+    }
   }
 }

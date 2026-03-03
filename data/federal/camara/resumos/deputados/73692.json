@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 73692,
-    "geradoEm": "2026-03-03T15:34:13.220502Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.036480Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 73692,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 139429.39,
         "OUTROS": 329867.9,
         "PASSAGENS": 349981.94
-      }
+      },
+      "qtdSemDocumentoPdf": 1435,
+      "valorSemDocumentoPdf": 543724.49,
+      "qtdRecibosOutros": 171,
+      "valorRecibosOutros": 456637.57
     },
     "totaisAno": {
       "2023": 524723.61,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.411996,
-      "picoMes": "2023-12",
-      "picoValor": 88355.07,
-      "fornecedorTop1Pct": 0.008034,
-      "fornecedorTop3Pct": 0.014486,
-      "fornecedorHHI": 9.7e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.286602,
-      "semDocumentoPct": 0.325976,
-      "recibosOutrosPct": 0.273765
-    },
-    "topFornecedores": [
-      {
-        "nome": "PAULO BURD",
-        "valor": 13400.0
-      },
-      {
-        "nome": "LOCALIZA RENT A CAR S/A",
-        "valor": 5879.56
-      },
-      {
-        "nome": "LOCALIZA RENT A CAR SA",
-        "valor": 4883.42
-      },
-      {
-        "nome": "Luagge Imoveis",
-        "valor": 3701.15
-      },
-      {
-        "nome": "ATLANTICA HOTELS INTERNACIONAL BRASIL LTDA",
-        "valor": 2622.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 478049.4,
+      "pct": 28.66
+    }
   }
 }

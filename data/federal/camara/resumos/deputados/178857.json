@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178857,
-    "geradoEm": "2026-03-03T15:34:13.173395Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.010725Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178857,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 20766.98,
         "OUTROS": 416543.51,
         "PASSAGENS": 374727.64
-      }
+      },
+      "qtdSemDocumentoPdf": 2126,
+      "valorSemDocumentoPdf": 673353.96,
+      "qtdRecibosOutros": 1621,
+      "valorRecibosOutros": 348449.83
     },
     "totaisAno": {
       "2023": 523375.48,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.307305,
-      "picoMes": "2025-07",
-      "picoValor": 63572.22,
-      "fornecedorTop1Pct": 0.008697,
-      "fornecedorTop3Pct": 0.014691,
-      "fornecedorHHI": 0.000104,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.263987,
-      "semDocumentoPct": 0.426742,
-      "recibosOutrosPct": 0.220832
-    },
-    "topFornecedores": [
-      {
-        "nome": "INFORMATICA EMPREENDIMENTOS IMOBILIARIOS LTDA",
-        "valor": 13722.28
-      },
-      {
-        "nome": "M. VIANA CONSTRUÇÕES EIRELI",
-        "valor": 8000.0
-      },
-      {
-        "nome": "COMPANHIA DE ELETRICIDADE DO ESTADO DA BAHIA",
-        "valor": 1459.14
-      },
-      {
-        "nome": "SRB REVENDEDORA DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
-        "valor": 863.52
-      },
-      {
-        "nome": "GERVASIO LIMA DA SILVA",
-        "valor": 700.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 416543.51,
+      "pct": 26.4
+    }
   }
 }

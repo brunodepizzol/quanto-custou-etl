@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204572,
-    "geradoEm": "2026-03-03T15:34:13.096426Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.968330Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204572,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 7387.84,
         "OUTROS": 324375.0,
         "PASSAGENS": 513166.56
-      }
+      },
+      "qtdSemDocumentoPdf": 643,
+      "valorSemDocumentoPdf": 600328.29,
+      "qtdRecibosOutros": 55,
+      "valorRecibosOutros": 438575.0
     },
     "totaisAno": {
       "2023": 414997.71,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.412159,
-      "picoMes": "2025-10",
-      "picoValor": 74340.23,
-      "fornecedorTop1Pct": 0.011445,
-      "fornecedorTop3Pct": 0.020887,
-      "fornecedorHHI": 0.000188,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.367081,
-      "semDocumentoPct": 0.42943,
-      "recibosOutrosPct": 0.313724
-    },
-    "topFornecedores": [
-      {
-        "nome": "DIALOG CONSULTORIA ESTRATEGICA LTDA",
-        "valor": 16000.0
-      },
-      {
-        "nome": "CARAVELAS CONSULTORIA E COMUNICACAO LTDA - EPP",
-        "valor": 10000.0
-      },
-      {
-        "nome": "SPRIME SERVIÇOS ADMINISTRATIVOS LTDA",
-        "valor": 3200.0
-      },
-      {
-        "nome": "TELEFÔNICA BRASIL S/A - VIVO",
-        "valor": 1299.99
-      },
-      {
-        "nome": "076 - MELHOR 10 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-        "valor": 400.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 513166.56,
+      "pct": 36.71
+    }
   }
 }

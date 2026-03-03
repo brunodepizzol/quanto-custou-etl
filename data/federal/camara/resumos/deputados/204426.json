@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204426,
-    "geradoEm": "2026-03-03T15:34:13.099937Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.970337Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204426,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 71225.52,
         "OUTROS": 310903.87,
         "PASSAGENS": 224979.83
-      }
+      },
+      "qtdSemDocumentoPdf": 1548,
+      "valorSemDocumentoPdf": 581434.51,
+      "qtdRecibosOutros": 553,
+      "valorRecibosOutros": 534979.51
     },
     "totaisAno": {
       "2023": 559315.61,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.541963,
-      "picoMes": "2023-12",
-      "picoValor": 180067.82,
-      "fornecedorTop1Pct": 0.008481,
-      "fornecedorTop3Pct": 0.018692,
-      "fornecedorHHI": 0.000154,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.261051,
-      "semDocumentoPct": 0.328758,
-      "recibosOutrosPct": 0.302491
-    },
-    "topFornecedores": [
-      {
-        "nome": "AMB CONSTRUÇÕES E SERVIÇOS LTDA",
-        "valor": 15000.0
-      },
-      {
-        "nome": "MOSER CONSULTORIA E TREINAMENTOS LTDA",
-        "valor": 14000.0
-      },
-      {
-        "nome": "IMOBILIÁRIA PROLAR LTDA",
-        "valor": 4057.9
-      },
-      {
-        "nome": "POUSADA BEZERRA",
-        "valor": 3791.7
-      },
-      {
-        "nome": "P. BEZERRA PALMEIRA LTDA",
-        "valor": 2301.53
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 461689.5,
+      "pct": 26.11
+    }
   }
 }

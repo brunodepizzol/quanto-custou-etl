@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220635,
-    "geradoEm": "2026-03-03T15:34:13.094862Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.967372Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220635,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 19691.21,
         "PASSAGENS": 288283.49
-      }
+      },
+      "qtdSemDocumentoPdf": 323,
+      "valorSemDocumentoPdf": 287215.93,
+      "qtdRecibosOutros": 126,
+      "valorRecibosOutros": 187033.12
     },
     "totaisAno": {
       "2023": 499756.03,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.348203,
-      "picoMes": "2023-03",
-      "picoValor": 56829.23,
-      "fornecedorTop1Pct": 0.02197,
-      "fornecedorTop3Pct": 0.028469,
-      "fornecedorHHI": 0.000519,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.617259,
-      "semDocumentoPct": 0.203413,
-      "recibosOutrosPct": 0.132461
-    },
-    "topFornecedores": [
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 31021.2
-      },
-      {
-        "nome": "FINANZA CONSULTORIA IMOBILIARIA LTDA",
-        "valor": 8426.32
-      },
-      {
-        "nome": "KERAXWEB SERVIÇOS DE INTERLIGAÇÃO E INTERNET LTDA",
-        "valor": 750.0
-      },
-      {
-        "nome": "Adobe Systems Software",
-        "valor": 640.0
-      },
-      {
-        "nome": "COMPANHIA PIRATININGA DE FORCA E LUZ",
-        "valor": 606.13
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 871561.9,
+      "pct": 61.73
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220557,
-    "geradoEm": "2026-03-03T15:34:13.115754Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.979473Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220557,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 64789.44,
         "OUTROS": 339384.88,
         "PASSAGENS": 463300.86
-      }
+      },
+      "qtdSemDocumentoPdf": 1356,
+      "valorSemDocumentoPdf": 575024.88,
+      "qtdRecibosOutros": 153,
+      "valorRecibosOutros": 421617.91
     },
     "totaisAno": {
       "2023": 489286.54,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.441807,
-      "picoMes": "2023-12",
-      "picoValor": 103157.85,
-      "fornecedorTop1Pct": 0.008633,
-      "fornecedorTop3Pct": 0.021582,
-      "fornecedorHHI": 0.000175,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.291941,
-      "semDocumentoPct": 0.362342,
-      "recibosOutrosPct": 0.265675
-    },
-    "topFornecedores": [
-      {
-        "nome": "PONTA LOCAÇÃO DE VEÍCULOS LTDA",
-        "valor": 13700.0
-      },
-      {
-        "nome": "VIRTUAL COMPANY - SOLUCOES EM TECNOLOGIA LTDA",
-        "valor": 12750.0
-      },
-      {
-        "nome": "LA VIA COMUNICACAO LTDA",
-        "valor": 7800.0
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 3652.49
-      },
-      {
-        "nome": "Brognoli Imóveis + Crédito Real Imóveis e Condomínios S.A",
-        "valor": 3301.84
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 463300.86,
+      "pct": 29.19
+    }
   }
 }

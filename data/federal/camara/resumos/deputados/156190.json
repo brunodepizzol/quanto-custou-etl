@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 156190,
-    "geradoEm": "2026-03-03T15:34:13.198740Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.024735Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 156190,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 14791.87,
         "OUTROS": 61237.48,
         "PASSAGENS": 303008.02
-      }
+      },
+      "qtdSemDocumentoPdf": 1035,
+      "valorSemDocumentoPdf": 364534.09,
+      "qtdRecibosOutros": 395,
+      "valorRecibosOutros": 261801.57
     },
     "totaisAno": {
       "2023": 252554.23,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.343966,
-      "picoMes": "2023-05",
-      "picoValor": 45358.83,
-      "fornecedorTop1Pct": 0.006009,
-      "fornecedorTop3Pct": 0.015086,
-      "fornecedorHHI": 8.7e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.374098,
-      "semDocumentoPct": 0.450059,
-      "recibosOutrosPct": 0.323224
-    },
-    "topFornecedores": [
-      {
-        "nome": "N P IMOVEIS LTDA",
-        "valor": 4867.02
-      },
-      {
-        "nome": "LOCALIZA RENT A CAR SA",
-        "valor": 3859.63
-      },
-      {
-        "nome": "Nullius In Verba - LTDA",
-        "valor": 3492.72
-      },
-      {
-        "nome": "Hostinger International Ltd.",
-        "valor": 1559.88
-      },
-      {
-        "nome": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
-        "valor": 1383.08
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 303008.02,
+      "pct": 37.41
+    }
   }
 }

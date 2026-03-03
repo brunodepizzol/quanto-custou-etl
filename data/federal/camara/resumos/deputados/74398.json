@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74398,
-    "geradoEm": "2026-03-03T15:34:13.205486Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.028346Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74398,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 16594.08,
         "OUTROS": 277885.84,
         "PASSAGENS": 162558.44
-      }
+      },
+      "qtdSemDocumentoPdf": 1464,
+      "valorSemDocumentoPdf": 533181.36,
+      "qtdRecibosOutros": 1948,
+      "valorRecibosOutros": 476416.2
     },
     "totaisAno": {
       "2023": 565400.3,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.350134,
-      "picoMes": "2023-03",
-      "picoValor": 75765.93,
-      "fornecedorTop1Pct": 0.006518,
-      "fornecedorTop3Pct": 0.014974,
-      "fornecedorHHI": 8.9e-05,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.390737,
-      "semDocumentoPct": 0.315938,
-      "recibosOutrosPct": 0.282301
-    },
-    "topFornecedores": [
-      {
-        "nome": "JULIO CESAR SANT ANA MATTOS -",
-        "valor": 11000.0
-      },
-      {
-        "nome": "Vjsa ADM. DE CONDOMINIOS LTDA",
-        "valor": 8061.03
-      },
-      {
-        "nome": "Flexgraff Ind. e Com. de Materiais Gráficos Eirelle",
-        "valor": 6210.0
-      },
-      {
-        "nome": "LUCIO UBERDAN FERNANDES DE MACEDO - EIRELI",
-        "valor": 3570.0
-      },
-      {
-        "nome": "MASTER INTERMEDIAÇÕES IMOBILIÁRIAS LTD2011",
-        "valor": 2842.21
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 659413.63,
+      "pct": 39.07
+    }
   }
 }

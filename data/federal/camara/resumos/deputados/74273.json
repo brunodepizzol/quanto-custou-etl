@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74273,
-    "geradoEm": "2026-03-03T15:34:13.168820Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.008277Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74273,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 9572.21,
         "OUTROS": 387152.89,
         "PASSAGENS": 275685.45
-      }
+      },
+      "qtdSemDocumentoPdf": 856,
+      "valorSemDocumentoPdf": 291814.88,
+      "qtdRecibosOutros": 194,
+      "valorRecibosOutros": 821544.64
     },
     "totaisAno": {
       "2023": 411624.51,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.242513,
-      "picoMes": "2025-04",
-      "picoValor": 56631.47,
-      "fornecedorTop1Pct": 0.008337,
-      "fornecedorTop3Pct": 0.022243,
-      "fornecedorHHI": 0.0002,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.42351,
-      "semDocumentoPct": 0.195562,
-      "recibosOutrosPct": 0.550564
-    },
-    "topFornecedores": [
-      {
-        "nome": "AE PATRIMÔNIO CONSULTORES IMOBILIÁRIOS LTDA",
-        "valor": 12440.68
-      },
-      {
-        "nome": "Cloud Protection Security",
-        "valor": 11050.0
-      },
-      {
-        "nome": "VIA LOCADORA DE AUTOMOVEIS LTDA",
-        "valor": 9700.0
-      },
-      {
-        "nome": "AUTO POSTO FERNANDO STECCA LTDA",
-        "valor": 6059.2
-      },
-      {
-        "nome": "Movida participações",
-        "valor": 5527.86
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 631955.52,
+      "pct": 42.35
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220599,
-    "geradoEm": "2026-03-03T15:34:13.199645Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.025183Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220599,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 4070.73,
         "OUTROS": 137844.47,
         "PASSAGENS": 72745.87
-      }
+      },
+      "qtdSemDocumentoPdf": 1098,
+      "valorSemDocumentoPdf": 200825.01,
+      "qtdRecibosOutros": 42,
+      "valorRecibosOutros": 136953.41
     },
     "totaisAno": {
       "2023": 467161.88,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.284341,
-      "picoMes": "2023-05",
-      "picoValor": 69799.42,
-      "fornecedorTop1Pct": 0.038958,
-      "fornecedorTop3Pct": 0.043785,
-      "fornecedorHHI": 0.001535,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.767804,
-      "semDocumentoPct": 0.132606,
-      "recibosOutrosPct": 0.090431
-    },
-    "topFornecedores": [
-      {
-        "nome": "S7 Ltda",
-        "valor": 59000.0
-      },
-      {
-        "nome": "LOCALIZA RENT A CAR SA",
-        "valor": 3943.55
-      },
-      {
-        "nome": "LOCALIZA",
-        "valor": 3367.17
-      },
-      {
-        "nome": "A2 COMUNICA AGENCIA DE PUBLICAIDADE LTDA",
-        "valor": 3000.0
-      },
-      {
-        "nome": "TIM S.A",
-        "valor": 811.56
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1162800.0,
+      "pct": 76.78
+    }
   }
 }

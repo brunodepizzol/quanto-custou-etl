@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220649,
-    "geradoEm": "2026-03-03T15:34:13.119856Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.981604Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220649,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 9557.13,
         "OUTROS": 163566.25,
         "PASSAGENS": 253712.88
-      }
+      },
+      "qtdSemDocumentoPdf": 482,
+      "valorSemDocumentoPdf": 311507.95,
+      "qtdRecibosOutros": 67,
+      "valorRecibosOutros": 276592.32
     },
     "totaisAno": {
       "2023": 491262.17,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.290183,
-      "picoMes": "2024-12",
-      "picoValor": 77085.32,
-      "fornecedorTop1Pct": 0.007246,
-      "fornecedorTop3Pct": 0.019122,
-      "fornecedorHHI": 0.00016,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.595962,
-      "semDocumentoPct": 0.206693,
-      "recibosOutrosPct": 0.183525
-    },
-    "topFornecedores": [
-      {
-        "nome": "51.645.827 VICTOR HUGO CABRERA RIVERO",
-        "valor": 10920.0
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 9899.3
-      },
-      {
-        "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
-        "valor": 8000.0
-      },
-      {
-        "nome": "Nokkel Administração de Imóveis",
-        "valor": 6868.1
-      },
-      {
-        "nome": "LDS LOCADORA DE VEÍCULOS LTDA",
-        "valor": 5000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 898177.99,
+      "pct": 59.6
+    }
   }
 }

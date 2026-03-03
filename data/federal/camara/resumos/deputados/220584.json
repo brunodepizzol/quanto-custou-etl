@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220584,
-    "geradoEm": "2026-03-03T15:34:13.215903Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.034052Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220584,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1052.0,
         "OUTROS": 444000.0,
         "PASSAGENS": 167927.55
-      }
+      },
+      "qtdSemDocumentoPdf": 763,
+      "valorSemDocumentoPdf": 338044.02,
+      "qtdRecibosOutros": 12,
+      "valorRecibosOutros": 78000.0
     },
     "totaisAno": {
       "2023": 527567.19,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.719047,
-      "picoMes": "2024-11",
-      "picoValor": 223130.69,
-      "fornecedorTop1Pct": 0.015883,
-      "fornecedorTop3Pct": 0.038825,
-      "fornecedorHHI": 0.000609,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.51796,
-      "semDocumentoPct": 0.198857,
-      "recibosOutrosPct": 0.045884
-    },
-    "topFornecedores": [
-      {
-        "nome": "LDA SILVA AMARO ME",
-        "valor": 27000.0
-      },
-      {
-        "nome": "LOCADORA DE VEI STA T EIRELI",
-        "valor": 24000.0
-      },
-      {
-        "nome": "VITRINE MULTISERVIÇOS - LUCENA E PEREIRA LTDA",
-        "valor": 15000.0
-      },
-      {
-        "nome": "INOVA MARKETING DIGITAL LTDA",
-        "valor": 15000.0
-      },
-      {
-        "nome": "ELDORADO COMUNICACAO E JORNALISMO LTDA",
-        "valor": 2000.0
-      }
-    ],
-    "flags": [
-      "spiky_spend"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 880500.0,
+      "pct": 51.8
+    }
   }
 }

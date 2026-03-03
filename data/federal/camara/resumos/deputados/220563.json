@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220563,
-    "geradoEm": "2026-03-03T15:34:13.164390Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.005987Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220563,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 278276.4,
         "PASSAGENS": 318767.51
-      }
+      },
+      "qtdSemDocumentoPdf": 809,
+      "valorSemDocumentoPdf": 425446.76,
+      "qtdRecibosOutros": 18,
+      "valorRecibosOutros": 93000.0
     },
     "totaisAno": {
       "2023": 508800.72,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.386501,
-      "picoMes": "2023-08",
-      "picoValor": 68573.29,
-      "fornecedorTop1Pct": 0.009921,
-      "fornecedorTop3Pct": 0.019023,
-      "fornecedorHHI": 0.000159,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.460552,
-      "semDocumentoPct": 0.309787,
-      "recibosOutrosPct": 0.067718
-    },
-    "topFornecedores": [
-      {
-        "nome": "DMR LOCAÇÕES LTDA.",
-        "valor": 13625.64
-      },
-      {
-        "nome": "PANTANAL VEÍCULOS LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "GUILHERME DOS SANTOS ARAGÃO",
-        "valor": 2500.0
-      },
-      {
-        "nome": "AUTO POSTO NASCIMENTO LTDA",
-        "valor": 2285.26
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA.",
-        "valor": 820.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 632500.0,
+      "pct": 46.06
+    }
   }
 }

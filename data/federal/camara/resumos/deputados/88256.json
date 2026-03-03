@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 88256,
-    "geradoEm": "2026-03-03T15:34:13.106717Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.974230Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 88256,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 7000.0,
         "OUTROS": 446275.52,
         "PASSAGENS": 205145.86
-      }
+      },
+      "qtdSemDocumentoPdf": 776,
+      "valorSemDocumentoPdf": 348457.77,
+      "qtdRecibosOutros": 86,
+      "valorRecibosOutros": 446275.52
     },
     "totaisAno": {
       "2023": 479945.08,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.369964,
-      "picoMes": "2023-03",
-      "picoValor": 64774.48,
-      "fornecedorTop1Pct": 0.011881,
-      "fornecedorTop3Pct": 0.01376,
-      "fornecedorHHI": 0.000145,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.476075,
-      "semDocumentoPct": 0.218241,
-      "recibosOutrosPct": 0.279504
-    },
-    "topFornecedores": [
-      {
-        "nome": "VIA LOCADORA DE AUTOMOVEIS LTDA",
-        "valor": 18970.42
-      },
-      {
-        "nome": "Blog do Elielson",
-        "valor": 1500.0
-      },
-      {
-        "nome": "EDMAR LYRA CAVALCANTI JUNIOR ME",
-        "valor": 1500.0
-      },
-      {
-        "nome": "PENTAGAS LTDA",
-        "valor": 1473.18
-      },
-      {
-        "nome": "ALBERES XAVIER DE ASSUNÇÃO 04450911423",
-        "valor": 1000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 760134.05,
+      "pct": 47.61
+    }
   }
 }

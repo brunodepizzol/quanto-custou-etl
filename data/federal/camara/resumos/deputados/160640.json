@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160640,
-    "geradoEm": "2026-03-03T15:34:13.139038Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.992142Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160640,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 105535.4,
         "OUTROS": 228614.94,
         "PASSAGENS": 459120.06
-      }
+      },
+      "qtdSemDocumentoPdf": 740,
+      "valorSemDocumentoPdf": 494733.67,
+      "qtdRecibosOutros": 168,
+      "valorRecibosOutros": 483817.63
     },
     "totaisAno": {
       "2023": 351424.82,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.358771,
-      "picoMes": "2025-06",
-      "picoValor": 72642.24,
-      "fornecedorTop1Pct": 0.005747,
-      "fornecedorTop3Pct": 0.013556,
-      "fornecedorHHI": 8.6e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.34959,
-      "semDocumentoPct": 0.376707,
-      "recibosOutrosPct": 0.368395
-    },
-    "topFornecedores": [
-      {
-        "nome": "Condomínio Edifício Lagoa Trade Center",
-        "valor": 7547.0
-      },
-      {
-        "nome": "ESTRELA LOGISTICA LTDA",
-        "valor": 5890.0
-      },
-      {
-        "nome": "JR COMERCIO E PRESTACAO DE SERVICOS LTDA",
-        "valor": 4365.98
-      },
-      {
-        "nome": "DANIELA DE CARVALHO VAZ JACOB-ME HOTEL AGUA VIVA",
-        "valor": 3432.3
-      },
-      {
-        "nome": "Azul Linhas Aéreas",
-        "valor": 3029.74
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 459120.06,
+      "pct": 34.96
+    }
   }
 }

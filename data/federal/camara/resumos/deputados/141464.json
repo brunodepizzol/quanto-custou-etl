@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 141464,
-    "geradoEm": "2026-03-03T15:34:13.173792Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.010931Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 141464,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 17098.0,
         "OUTROS": 329850.6,
         "PASSAGENS": 338197.63
-      }
+      },
+      "qtdSemDocumentoPdf": 348,
+      "valorSemDocumentoPdf": 614867.59,
+      "qtdRecibosOutros": 22,
+      "valorRecibosOutros": 113503.76
     },
     "totaisAno": {
       "2023": 503405.43,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.402428,
-      "picoMes": "2025-02",
-      "picoValor": 91299.05,
-      "fornecedorTop1Pct": 0.015488,
-      "fornecedorTop3Pct": 0.023808,
-      "fornecedorHHI": 0.000289,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.272901,
-      "semDocumentoPct": 0.396804,
-      "recibosOutrosPct": 0.07325
-    },
-    "topFornecedores": [
-      {
-        "nome": "GENTE DE AÇÃO PRODUÇÃO CULTURAL E ARTÍSTICA LTDA",
-        "valor": 24000.0
-      },
-      {
-        "nome": "DAMPETRO COMERCIO DE DERIVADOS DE PETROLEO LTDA",
-        "valor": 9392.0
-      },
-      {
-        "nome": "ANCAP COMUNICAÇÃO E ASSESSORIA DE IMPRENSA",
-        "valor": 3500.0
-      },
-      {
-        "nome": "GOMO COMUNICAÇÂO LTDA",
-        "valor": 2500.0
-      },
-      {
-        "nome": "JOSE L DO NASCIMENTO - ME",
-        "valor": 2500.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 422873.58,
+      "pct": 27.29
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 73441,
-    "geradoEm": "2026-03-03T15:34:13.103169Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.972169Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 73441,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 11495.27,
         "OUTROS": 1136.35,
         "PASSAGENS": 402895.08
-      }
+      },
+      "qtdSemDocumentoPdf": 939,
+      "valorSemDocumentoPdf": 505333.72,
+      "qtdRecibosOutros": 3,
+      "valorRecibosOutros": 880.54
     },
     "totaisAno": {
       "2023": 240389.28,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.506273,
-      "picoMes": "2025-02",
-      "picoValor": 56673.94,
-      "fornecedorTop1Pct": 0.004486,
-      "fornecedorTop3Pct": 0.00843,
-      "fornecedorHHI": 3.4e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.516347,
-      "semDocumentoPct": 0.647632,
-      "recibosOutrosPct": 0.001128
-    },
-    "topFornecedores": [
-      {
-        "nome": "LIKE LINE MARKETING DIGITAL LTDA",
-        "valor": 3500.0
-      },
-      {
-        "nome": "AUTO POSTO BUG LT",
-        "valor": 2778.02
-      },
-      {
-        "nome": "AUTO POSTO GOLDEN GAS 202 LTDA",
-        "valor": 300.0
-      },
-      {
-        "nome": "SPACE SETE COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
-        "valor": 294.0
-      },
-      {
-        "nome": "ORGANIZACAO COMERCIAL LAGO AZUL LTDA",
-        "valor": 277.77
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 402895.08,
+      "pct": 51.63
+    }
   }
 }

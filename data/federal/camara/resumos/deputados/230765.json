@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 230765,
-    "geradoEm": "2026-03-03T15:34:13.137428Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.991241Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 230765,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 423.33,
         "OUTROS": 82500.0,
         "PASSAGENS": 44539.83
-      }
+      },
+      "qtdSemDocumentoPdf": 157,
+      "valorSemDocumentoPdf": 92934.34,
+      "qtdRecibosOutros": 19,
+      "valorRecibosOutros": 122629.02
     },
     "totaisAno": {
       "2023": 0.0,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.799902,
-      "picoMes": "2025-11",
-      "picoValor": 77695.78,
-      "fornecedorTop1Pct": 0.033062,
-      "fornecedorTop3Pct": 0.071065,
-      "fornecedorHHI": 0.001862,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.405868,
-      "semDocumentoPct": 0.256052,
-      "recibosOutrosPct": 0.337867
-    },
-    "topFornecedores": [
-      {
-        "nome": "ZELLAR GESTÃO DE SERVIÇOS LTDA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "49.797.782 CARLOS HENRIQUE DE MELO PEREIRA",
-        "valor": 8500.0
-      },
-      {
-        "nome": "Sonia Regina Alves Ferreira",
-        "valor": 5293.16
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
-        "valor": 988.97
-      },
-      {
-        "nome": "SERVICO NACIONAL DE APREND. COMERCIAL",
-        "valor": 136.73
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 147310.01,
+      "pct": 40.59
+    }
   }
 }

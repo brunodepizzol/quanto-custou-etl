@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 175765,
-    "geradoEm": "2026-03-03T15:34:13.240920Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.047557Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 175765,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 3384.03,
         "OUTROS": 0.0,
         "PASSAGENS": 91920.6
-      }
+      },
+      "qtdSemDocumentoPdf": 234,
+      "valorSemDocumentoPdf": 117121.97,
+      "qtdRecibosOutros": 31,
+      "valorRecibosOutros": 102221.95
     },
     "totaisAno": {
       "2023": 0.0,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.420873,
-      "picoMes": "2025-10",
-      "picoValor": 54186.77,
-      "fornecedorTop1Pct": 0.019139,
-      "fornecedorTop3Pct": 0.040263,
-      "fornecedorHHI": 0.000647,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.478385,
-      "semDocumentoPct": 0.224162,
-      "recibosOutrosPct": 0.195645
-    },
-    "topFornecedores": [
-      {
-        "nome": "DELUNA COMUNICAÇÃO LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "PETRA IMOVEIS SC LTDA",
-        "valor": 7611.3
-      },
-      {
-        "nome": "Azul Linhas Aéreas",
-        "valor": 3425.38
-      },
-      {
-        "nome": "ALTERNATIVA AUTO POSTO LTDA",
-        "valor": 2243.74
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 700.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 249950.0,
+      "pct": 47.84
+    }
   }
 }

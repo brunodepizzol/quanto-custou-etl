@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 222429,
-    "geradoEm": "2026-03-03T15:34:13.191494Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.020625Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 222429,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 11751.56,
         "OUTROS": 411521.42,
         "PASSAGENS": 164175.74
-      }
+      },
+      "qtdSemDocumentoPdf": 580,
+      "valorSemDocumentoPdf": 224309.4,
+      "qtdRecibosOutros": 38,
+      "valorRecibosOutros": 317171.42
     },
     "totaisAno": {
       "2023": 450840.17,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.218661,
-      "picoMes": "2023-09",
-      "picoValor": 62413.52,
-      "fornecedorTop1Pct": 0.008891,
-      "fornecedorTop3Pct": 0.02086,
-      "fornecedorHHI": 0.000156,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.53245,
-      "semDocumentoPct": 0.153413,
-      "recibosOutrosPct": 0.216925
-    },
-    "topFornecedores": [
-      {
-        "nome": "BROOKLYN AGENCIA DE PUBLICIDADE LTDA",
-        "valor": 13000.0
-      },
-      {
-        "nome": "HORIZONTE 16 LOCADORA DE VEÍCULOS LTDA",
-        "valor": 9000.0
-      },
-      {
-        "nome": "MP7 ENTRETENIMENTO E REALIZAÇÃO DE EVENTOS CULTURAIS E DESPORTIVOS LTDA ME",
-        "valor": 8500.0
-      },
-      {
-        "nome": "ELDOURADO FROTAS LTDA",
-        "valor": 3000.0
-      },
-      {
-        "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
-        "valor": 1407.7
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 778509.31,
+      "pct": 53.25
+    }
   }
 }

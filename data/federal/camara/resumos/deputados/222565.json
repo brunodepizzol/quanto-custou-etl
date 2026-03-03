@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 222565,
-    "geradoEm": "2026-03-03T15:34:13.260495Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.058353Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 222565,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
         "PASSAGENS": 0.0
-      }
+      },
+      "qtdSemDocumentoPdf": 8,
+      "valorSemDocumentoPdf": 1345.2,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 0.0,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.0,
-      "picoMes": "2026-02",
-      "picoValor": 1345.2,
-      "fornecedorTop1Pct": 0.439206,
-      "fornecedorTop3Pct": 0.734248,
-      "fornecedorHHI": 0.260775,
-      "categoriaDominante": "COMBUSTIVEL",
-      "categoriaDominantePct": 1.0,
-      "semDocumentoPct": 1.0,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "034 - LC ALAMEDA - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-        "valor": 590.82
-      },
-      {
-        "nome": "AUTO SHOPPING DERIVADOS DE PETROLEO LTDA",
-        "valor": 200.0
-      },
-      {
-        "nome": "BELIZE COMPANY AUTO POSTO LTDA",
-        "valor": 196.89
-      },
-      {
-        "nome": "AUTO POSTO AEROPORTO LTDA",
-        "valor": 150.0
-      },
-      {
-        "nome": "AUTO POSTO EPTG COMERCIAL DE COMBUSTIVEIS LTDA",
-        "valor": 107.49
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "COMBUSTIVEL",
+      "valor": 1345.2,
+      "pct": 100.0
+    }
   }
 }

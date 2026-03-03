@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 223128,
-    "geradoEm": "2026-03-03T15:34:13.247842Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.051382Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 223128,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 39391.54,
         "OUTROS": 280954.67,
         "PASSAGENS": 277541.12
-      }
+      },
+      "qtdSemDocumentoPdf": 1861,
+      "valorSemDocumentoPdf": 547063.88,
+      "qtdRecibosOutros": 325,
+      "valorRecibosOutros": 570790.71
     },
     "totaisAno": {
       "2023": 382057.14,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.229015,
-      "picoMes": "2024-02",
-      "picoValor": 56258.17,
-      "fornecedorTop1Pct": 0.009618,
-      "fornecedorTop3Pct": 0.021302,
-      "fornecedorHHI": 0.000185,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.222273,
-      "semDocumentoPct": 0.393397,
-      "recibosOutrosPct": 0.410459
-    },
-    "topFornecedores": [
-      {
-        "nome": "CARRO RESERVA PREVICAR LTDA",
-        "valor": 13375.0
-      },
-      {
-        "nome": "VINICIUS BULIGON",
-        "valor": 10800.0
-      },
-      {
-        "nome": "IMPERIUM EMPREENDIMENTOS IMOBILIARIOS LTDA",
-        "valor": 5448.28
-      },
-      {
-        "nome": "HELENA DOS SANTOS DE ANDRADE",
-        "valor": 3900.0
-      },
-      {
-        "nome": "TOPA CAR MULTIMARCAS LTDA",
-        "valor": 2299.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 309096.29,
+      "pct": 22.23
+    }
   }
 }

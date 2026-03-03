@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220655,
-    "geradoEm": "2026-03-03T15:34:13.206293Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.028782Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220655,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 27686.21,
         "OUTROS": 207806.75,
         "PASSAGENS": 178718.68
-      }
+      },
+      "qtdSemDocumentoPdf": 632,
+      "valorSemDocumentoPdf": 254403.98,
+      "qtdRecibosOutros": 72,
+      "valorRecibosOutros": 332970.18
     },
     "totaisAno": {
       "2023": 449805.49,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.272312,
-      "picoMes": "2025-05",
-      "picoValor": 55593.47,
-      "fornecedorTop1Pct": 0.007148,
-      "fornecedorTop3Pct": 0.016803,
-      "fornecedorHHI": 0.0001,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.307953,
-      "semDocumentoPct": 0.181838,
-      "recibosOutrosPct": 0.237994
-    },
-    "topFornecedores": [
-      {
-        "nome": "Estratégia Comunicação Ltda.",
-        "valor": 10000.0
-      },
-      {
-        "nome": "COMPLEXSYS APOIO ADMINISTRATIVO LTDA",
-        "valor": 7700.0
-      },
-      {
-        "nome": "LM Transp. Inst. S. Com. (Fleetzil incorporada)",
-        "valor": 5809.0
-      },
-      {
-        "nome": "AUTO POSTO PETER PAN 01 LTDA",
-        "valor": 1588.58
-      },
-      {
-        "nome": "MAXIMA ADMINISTRAÇÃO DE HOTÉIS LTDA",
-        "valor": 637.55
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 430847.85,
+      "pct": 30.8
+    }
   }
 }

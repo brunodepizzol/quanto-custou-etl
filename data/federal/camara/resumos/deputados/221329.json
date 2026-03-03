@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 221329,
-    "geradoEm": "2026-03-03T15:34:13.241665Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.048054Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 221329,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 115533.35,
         "PASSAGENS": 77215.13
-      }
+      },
+      "qtdSemDocumentoPdf": 180,
+      "valorSemDocumentoPdf": 95670.14,
+      "qtdRecibosOutros": 25,
+      "valorRecibosOutros": 139933.35
     },
     "totaisAno": {
       "2023": 216884.39,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.566307,
-      "picoMes": "2025-12",
-      "picoValor": 79949.43,
-      "fornecedorTop1Pct": 0.023232,
-      "fornecedorTop3Pct": 0.04101,
-      "fornecedorHHI": 0.000741,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.52954,
-      "semDocumentoPct": 0.157492,
-      "recibosOutrosPct": 0.230357
-    },
-    "topFornecedores": [
-      {
-        "nome": "LMS DESIGN - LUIS MARQUES SANTOS",
-        "valor": 14112.3
-      },
-      {
-        "nome": "MARIA ALDA PEREIRA LOPES",
-        "valor": 6500.0
-      },
-      {
-        "nome": "SERV RIO TERCEIRIZAÇÃO E SERVIÇOS",
-        "valor": 4300.0
-      },
-      {
-        "nome": "BRUNO JULIO DA SILVEIRA GOMES CONSULTORIA EM MARKETING LTDA ONPIXEL MARKETING",
-        "valor": 3000.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 1850.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 321675.09,
+      "pct": 52.95
+    }
   }
 }

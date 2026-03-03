@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 221328,
-    "geradoEm": "2026-03-03T15:34:13.069803Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.953100Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 221328,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 21526.92,
         "OUTROS": 451562.34,
         "PASSAGENS": 220030.33
-      }
+      },
+      "qtdSemDocumentoPdf": 420,
+      "valorSemDocumentoPdf": 280101.39,
+      "qtdRecibosOutros": 268,
+      "valorRecibosOutros": 584648.32
     },
     "totaisAno": {
       "2023": 464051.63,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.329881,
-      "picoMes": "2023-12",
-      "picoValor": 105089.25,
-      "fornecedorTop1Pct": 0.016827,
-      "fornecedorTop3Pct": 0.040563,
-      "fornecedorHHI": 0.00062,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.313648,
-      "semDocumentoPct": 0.179207,
-      "recibosOutrosPct": 0.374054
-    },
-    "topFornecedores": [
-      {
-        "nome": "HANBELLSEG SERVIÇOS E LOCAÇOES LTDA",
-        "valor": 26300.0
-      },
-      {
-        "nome": "RSE - RICO SOLUCOES ESTRATEGICAS LTDA",
-        "valor": 25500.0
-      },
-      {
-        "nome": "Eficar - Centro Automotivo LTDA",
-        "valor": 11600.0
-      },
-      {
-        "nome": "AGROLANA AGRONEGÓCIOS",
-        "valor": 5500.0
-      },
-      {
-        "nome": "auto posto bombonato ltda",
-        "valor": 2453.48
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 490233.34,
+      "pct": 31.36
+    }
   }
 }

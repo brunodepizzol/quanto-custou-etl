@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220712,
-    "geradoEm": "2026-03-03T15:34:13.142917Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.994265Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220712,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 240786.1,
         "PASSAGENS": 383242.9
-      }
+      },
+      "qtdSemDocumentoPdf": 658,
+      "valorSemDocumentoPdf": 470154.35,
+      "qtdRecibosOutros": 15,
+      "valorRecibosOutros": 33936.1
     },
     "totaisAno": {
       "2023": 550104.44,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.365971,
-      "picoMes": "2024-12",
-      "picoValor": 77970.54,
-      "fornecedorTop1Pct": 0.019966,
-      "fornecedorTop3Pct": 0.046321,
-      "fornecedorHHI": 0.000775,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.306071,
-      "semDocumentoPct": 0.375482,
-      "recibosOutrosPct": 0.027103
-    },
-    "topFornecedores": [
-      {
-        "nome": "RICO TAXI AEREO LTDA",
-        "valor": 25000.0
-      },
-      {
-        "nome": "TAXI AEREO VALE DO MADEIRA",
-        "valor": 20000.0
-      },
-      {
-        "nome": "NEXOGEST SERVIÇOS DE PUBLICIDADE E COMUNICAÇÃO LTDA",
-        "valor": 13000.0
-      },
-      {
-        "nome": "N.C. DE SOUZA LTDA",
-        "valor": 4500.0
-      },
-      {
-        "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-        "valor": 937.04
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 383242.9,
+      "pct": 30.61
+    }
   }
 }

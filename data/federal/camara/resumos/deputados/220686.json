@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220686,
-    "geradoEm": "2026-03-03T15:34:13.132003Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.988289Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220686,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 6283.69,
         "OUTROS": 408000.0,
         "PASSAGENS": 269388.77
-      }
+      },
+      "qtdSemDocumentoPdf": 395,
+      "valorSemDocumentoPdf": 329211.86,
+      "qtdRecibosOutros": 469,
+      "valorRecibosOutros": 568458.64
     },
     "totaisAno": {
       "2023": 397838.51,
@@ -86,30 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.4281,
-      "picoMes": "2024-11",
-      "picoValor": 69522.81,
-      "fornecedorTop1Pct": 0.004583,
-      "fornecedorTop3Pct": 0.004913,
-      "fornecedorHHI": 2.1e-05,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.311666,
-      "semDocumentoPct": 0.25148,
-      "recibosOutrosPct": 0.434238
-    },
-    "topFornecedores": [
-      {
-        "nome": "WORKING ASSOCIAÇÃO DE INTEGRAÇÃO PROFISSIONAL",
-        "valor": 6000.0
-      },
-      {
-        "nome": "CLARO S.A.",
-        "valor": 432.01
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 408000.0,
+      "pct": 31.17
+    }
   }
 }

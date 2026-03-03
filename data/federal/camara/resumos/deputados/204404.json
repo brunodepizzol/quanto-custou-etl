@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204404,
-    "geradoEm": "2026-03-03T15:34:13.188584Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.019120Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204404,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 42702.82,
         "OUTROS": 230101.33,
         "PASSAGENS": 411452.99
-      }
+      },
+      "qtdSemDocumentoPdf": 1516,
+      "valorSemDocumentoPdf": 652951.96,
+      "qtdRecibosOutros": 449,
+      "valorRecibosOutros": 579246.41
     },
     "totaisAno": {
       "2023": 428682.03,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.341426,
-      "picoMes": "2025-04",
-      "picoValor": 58356.63,
-      "fornecedorTop1Pct": 0.01019,
-      "fornecedorTop3Pct": 0.024289,
-      "fornecedorHHI": 0.000213,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.30854,
-      "semDocumentoPct": 0.482636,
-      "recibosOutrosPct": 0.428156
-    },
-    "topFornecedores": [
-      {
-        "nome": "UNIDAS LOCADORA S.A",
-        "valor": 13785.64
-      },
-      {
-        "nome": "JMP ADMINSTRAÇÃO E PARTICIPAÇÕES LTDA.",
-        "valor": 11675.26
-      },
-      {
-        "nome": "BIRO DE INFORMATICA NACIONAL EIRELI - EPP",
-        "valor": 7400.0
-      },
-      {
-        "nome": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
-        "valor": 1604.95
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEIS PRIMAVERA LTDA NOVO HAMBURGO F1",
-        "valor": 899.91
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 417420.06,
+      "pct": 30.85
+    }
   }
 }

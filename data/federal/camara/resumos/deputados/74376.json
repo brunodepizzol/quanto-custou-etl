@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74376,
-    "geradoEm": "2026-03-03T15:34:13.267002Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.061981Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74376,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 67460.54,
         "OUTROS": 314500.0,
         "PASSAGENS": 264026.1
-      }
+      },
+      "qtdSemDocumentoPdf": 893,
+      "valorSemDocumentoPdf": 386445.03,
+      "qtdRecibosOutros": 185,
+      "valorRecibosOutros": 415274.85
     },
     "totaisAno": {
       "2023": 542666.51,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.277638,
-      "picoMes": "2024-03",
-      "picoValor": 65752.73,
-      "fornecedorTop1Pct": 0.012252,
-      "fornecedorTop3Pct": 0.033853,
-      "fornecedorHHI": 0.000391,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.433905,
-      "semDocumentoPct": 0.23735,
-      "recibosOutrosPct": 0.255057
-    },
-    "topFornecedores": [
-      {
-        "nome": "eder florencio yanaguita",
-        "valor": 19949.0
-      },
-      {
-        "nome": "milas comunicações LTDA",
-        "valor": 19170.0
-      },
-      {
-        "nome": "TROCAUTO VEICULOS",
-        "valor": 16000.0
-      },
-      {
-        "nome": "ronaldo guedine ribeiro",
-        "valor": 3350.0
-      },
-      {
-        "nome": "HOTEL TAYAMA LTDA",
-        "valor": 1170.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 706470.0,
+      "pct": 43.39
+    }
   }
 }

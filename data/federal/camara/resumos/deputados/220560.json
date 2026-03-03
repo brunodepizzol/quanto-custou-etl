@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220560,
-    "geradoEm": "2026-03-03T15:34:13.263817Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.060232Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220560,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 3648.6,
         "OUTROS": 377377.37,
         "PASSAGENS": 139765.52
-      }
+      },
+      "qtdSemDocumentoPdf": 698,
+      "valorSemDocumentoPdf": 330962.12,
+      "qtdRecibosOutros": 50,
+      "valorRecibosOutros": 415540.68
     },
     "totaisAno": {
       "2023": 520300.73,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.413929,
-      "picoMes": "2023-12",
-      "picoValor": 110159.66,
-      "fornecedorTop1Pct": 0.01147,
-      "fornecedorTop3Pct": 0.022773,
-      "fornecedorHHI": 0.000219,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.510827,
-      "semDocumentoPct": 0.223295,
-      "recibosOutrosPct": 0.280359
-    },
-    "topFornecedores": [
-      {
-        "nome": "AGENCIA LIBERTY LTDA",
-        "valor": 17000.0
-      },
-      {
-        "nome": "YMPACTUS LOCAÇÕES DE VEÍCULOS LTDA-ME",
-        "valor": 12250.0
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEL V E R LTDA",
-        "valor": 4503.7
-      },
-      {
-        "nome": "KAROLAYNE DE OLIVEIRA NASCIMENTO",
-        "valor": 4500.0
-      },
-      {
-        "nome": "PRIME OFFICE ARACAJU",
-        "valor": 992.1
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 757135.0,
+      "pct": 51.08
+    }
   }
 }

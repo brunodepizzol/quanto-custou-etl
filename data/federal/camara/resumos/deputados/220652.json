@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220652,
-    "geradoEm": "2026-03-03T15:34:13.121843Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.982685Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220652,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 2452.9,
         "OUTROS": 196635.01,
         "PASSAGENS": 157515.21
-      }
+      },
+      "qtdSemDocumentoPdf": 625,
+      "valorSemDocumentoPdf": 189527.18,
+      "qtdRecibosOutros": 454,
+      "valorRecibosOutros": 544783.47
     },
     "totaisAno": {
       "2023": 481263.6,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.193249,
-      "picoMes": "2023-08",
-      "picoValor": 53136.19,
-      "fornecedorTop1Pct": 0.008062,
-      "fornecedorTop3Pct": 0.018152,
-      "fornecedorHHI": 0.00014,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.344112,
-      "semDocumentoPct": 0.127324,
-      "recibosOutrosPct": 0.365985
-    },
-    "topFornecedores": [
-      {
-        "nome": "SLAPP COMUNICAÇÃO EIRELI ME",
-        "valor": 12000.0
-      },
-      {
-        "nome": "ANDREA WAGNER BALLARIN",
-        "valor": 7750.0
-      },
-      {
-        "nome": "PAULA WAGNER BALLARIN FRATECHI",
-        "valor": 7270.0
-      },
-      {
-        "nome": "PANTANAL VEÍCULOS LTDA",
-        "valor": 5900.0
-      },
-      {
-        "nome": "Buzzmonitor Tecnologia LTDA",
-        "valor": 3000.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 512225.01,
+      "pct": 34.41
+    }
   }
 }

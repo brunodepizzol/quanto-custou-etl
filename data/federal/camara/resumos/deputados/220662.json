@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220662,
-    "geradoEm": "2026-03-03T15:34:13.188161Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.018869Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220662,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 21701.72,
         "OUTROS": 250733.93,
         "PASSAGENS": 442432.49
-      }
+      },
+      "qtdSemDocumentoPdf": 503,
+      "valorSemDocumentoPdf": 445955.1,
+      "qtdRecibosOutros": 83,
+      "valorRecibosOutros": 491233.93
     },
     "totaisAno": {
       "2023": 561812.5,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.353127,
-      "picoMes": "2024-06",
-      "picoValor": 100752.02,
-      "fornecedorTop1Pct": 0.011161,
-      "fornecedorTop3Pct": 0.025781,
-      "fornecedorHHI": 0.000275,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.46006,
-      "semDocumentoPct": 0.248857,
-      "recibosOutrosPct": 0.274124
-    },
-    "topFornecedores": [
-      {
-        "nome": "JC DE BRITO ASSESSORIA E COMINICA;'AO ME",
-        "valor": 20000.0
-      },
-      {
-        "nome": "Mova Filmes LTDA",
-        "valor": 14000.0
-      },
-      {
-        "nome": "reaultur",
-        "valor": 12200.0
-      },
-      {
-        "nome": "MOVA FILMES LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "Azul Linhas Aéreas",
-        "valor": 6194.9
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 824434.4,
+      "pct": 46.01
+    }
   }
 }

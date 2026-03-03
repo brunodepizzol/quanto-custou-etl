@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220653,
-    "geradoEm": "2026-03-03T15:34:13.142182Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.993823Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220653,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1580.12,
         "OUTROS": 309995.0,
         "PASSAGENS": 298868.67
-      }
+      },
+      "qtdSemDocumentoPdf": 1106,
+      "valorSemDocumentoPdf": 350850.35,
+      "qtdRecibosOutros": 177,
+      "valorRecibosOutros": 284912.7
     },
     "totaisAno": {
       "2023": 335394.81,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.318352,
-      "picoMes": "2024-12",
-      "picoValor": 44159.01,
-      "fornecedorTop1Pct": 0.021112,
-      "fornecedorTop3Pct": 0.03087,
-      "fornecedorHHI": 0.000504,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.327236,
-      "semDocumentoPct": 0.370364,
-      "recibosOutrosPct": 0.300759
-    },
-    "topFornecedores": [
-      {
-        "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
-        "valor": 20000.0
-      },
-      {
-        "nome": "AUTO SERVIÇOS GRAND-PRIX LT",
-        "valor": 6583.33
-      },
-      {
-        "nome": "PR NEWSWIRE LTDA",
-        "valor": 2660.0
-      },
-      {
-        "nome": "AUTO POSTO 302 SUL LTDA",
-        "valor": 995.82
-      },
-      {
-        "nome": "SEM PARAR INSTITUIÇÃO DE PAGAMENTO LTDA.",
-        "valor": 772.89
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 309995.0,
+      "pct": 32.72
+    }
   }
 }

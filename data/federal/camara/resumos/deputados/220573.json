@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220573,
-    "geradoEm": "2026-03-03T15:34:13.126666Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.985400Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220573,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 8248.11,
         "OUTROS": 64000.0,
         "PASSAGENS": 334765.74
-      }
+      },
+      "qtdSemDocumentoPdf": 676,
+      "valorSemDocumentoPdf": 378517.48,
+      "qtdRecibosOutros": 15,
+      "valorRecibosOutros": 64000.0
     },
     "totaisAno": {
       "2023": 538537.39,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.393696,
-      "picoMes": "2023-12",
-      "picoValor": 98618.38,
-      "fornecedorTop1Pct": 0.037935,
-      "fornecedorTop3Pct": 0.04077,
-      "fornecedorHHI": 0.001445,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.721733,
-      "semDocumentoPct": 0.220908,
-      "recibosOutrosPct": 0.037351
-    },
-    "topFornecedores": [
-      {
-        "nome": "ORBE PRODUTORA & SERVIÇOS LTDA",
-        "valor": 65000.0
-      },
-      {
-        "nome": "PMA Serviços LTDA-EPP",
-        "valor": 4000.0
-      },
-      {
-        "nome": "TECNEGOCIOS SOLUÇÕES EM INFORMÁTICA LTDA",
-        "valor": 857.39
-      },
-      {
-        "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-        "valor": 514.38
-      },
-      {
-        "nome": "SERVICO NACIONAL DE APREND. COMERCIAL",
-        "valor": 107.49
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1236659.31,
+      "pct": 72.17
+    }
   }
 }

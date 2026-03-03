@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204494,
-    "geradoEm": "2026-03-03T15:34:13.150033Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.998125Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204494,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 8687.26,
         "OUTROS": 304053.96,
         "PASSAGENS": 299626.07
-      }
+      },
+      "qtdSemDocumentoPdf": 596,
+      "valorSemDocumentoPdf": 362638.28,
+      "qtdRecibosOutros": 242,
+      "valorRecibosOutros": 557927.64
     },
     "totaisAno": {
       "2023": 416833.58,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.328506,
-      "picoMes": "2024-10",
-      "picoValor": 56521.97,
-      "fornecedorTop1Pct": 0.010053,
-      "fornecedorTop3Pct": 0.024097,
-      "fornecedorHHI": 0.00023,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.231575,
-      "semDocumentoPct": 0.276194,
-      "recibosOutrosPct": 0.424932
-    },
-    "topFornecedores": [
-      {
-        "nome": "TARGET RENT A CAR LTDA",
-        "valor": 13200.0
-      },
-      {
-        "nome": "ERA EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
-        "valor": 12438.3
-      },
-      {
-        "nome": "CAPACITAR BR CAPACITAÇÃO E TREINAMENTO EIRELI",
-        "valor": 6000.0
-      },
-      {
-        "nome": "GLM - GRÁFICA E COPIADORA SCALLA LTDA",
-        "valor": 2820.0
-      },
-      {
-        "nome": "PACTO ADMINISTRADORA & CONDOMÍNIO ED CEZANNE",
-        "valor": 2220.44
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 304053.96,
+      "pct": 23.16
+    }
   }
 }

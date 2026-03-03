@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 221338,
-    "geradoEm": "2026-03-03T15:34:13.235318Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.044454Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 221338,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 18344.3,
         "OUTROS": 34178.48,
         "PASSAGENS": 431695.9
-      }
+      },
+      "qtdSemDocumentoPdf": 328,
+      "valorSemDocumentoPdf": 435290.52,
+      "qtdRecibosOutros": 706,
+      "valorRecibosOutros": 198617.36
     },
     "totaisAno": {
       "2023": 278880.45,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.447487,
-      "picoMes": "2024-12",
-      "picoValor": 77334.14,
-      "fornecedorTop1Pct": 0.005909,
-      "fornecedorTop3Pct": 0.012647,
-      "fornecedorHHI": 6.9e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.452482,
-      "semDocumentoPct": 0.362143,
-      "recibosOutrosPct": 0.165241
-    },
-    "topFornecedores": [
-      {
-        "nome": "VICTOR SAVAS JACQUES CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
-        "valor": 7101.99
-      },
-      {
-        "nome": "LOCALIZA RENT A CAR SA",
-        "valor": 6859.8
-      },
-      {
-        "nome": "PLANET GRAPHICS MOEMA LTDA",
-        "valor": 1240.25
-      },
-      {
-        "nome": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-        "valor": 291.56
-      },
-      {
-        "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
-        "valor": 118.26
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 543876.84,
+      "pct": 45.25
+    }
   }
 }

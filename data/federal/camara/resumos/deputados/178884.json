@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178884,
-    "geradoEm": "2026-03-03T15:34:13.162831Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.005362Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178884,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 59315.39,
         "OUTROS": 110800.0,
         "PASSAGENS": 101781.48
-      }
+      },
+      "qtdSemDocumentoPdf": 302,
+      "valorSemDocumentoPdf": 150109.52,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 376.45,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.433016,
-      "picoMes": "2025-10",
-      "picoValor": 48794.32,
-      "fornecedorTop1Pct": 0.011673,
-      "fornecedorTop3Pct": 0.026925,
-      "fornecedorHHI": 0.000331,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.501615,
-      "semDocumentoPct": 0.233624,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "DALETH VEICULOS LTDA EPP",
-        "valor": 7500.0
-      },
-      {
-        "nome": "ZONA CINCO FOTOGRAFIAS EIRELI",
-        "valor": 6000.0
-      },
-      {
-        "nome": "BSL COMUNICAÇÃO MARKETING E EVENTOS EIRELI",
-        "valor": 3800.0
-      },
-      {
-        "nome": "GILDASIO B DOS SANTOS",
-        "valor": 3000.0
-      },
-      {
-        "nome": "HOTEL POSEIDON",
-        "valor": 2540.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 322300.0,
+      "pct": 50.16
+    }
   }
 }

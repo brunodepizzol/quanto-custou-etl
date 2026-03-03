@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204518,
-    "geradoEm": "2026-03-03T15:34:13.129161Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.986704Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204518,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 12759.44,
         "OUTROS": 404552.67,
         "PASSAGENS": 110355.79
-      }
+      },
+      "qtdSemDocumentoPdf": 249,
+      "valorSemDocumentoPdf": 153713.05,
+      "qtdRecibosOutros": 156,
+      "valorRecibosOutros": 490471.25
     },
     "totaisAno": {
       "2023": 484281.83,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.223523,
-      "picoMes": "2023-10",
-      "picoValor": 53599.22,
-      "fornecedorTop1Pct": 0.012786,
-      "fornecedorTop3Pct": 0.02276,
-      "fornecedorHHI": 0.000249,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.466143,
-      "semDocumentoPct": 0.098272,
-      "recibosOutrosPct": 0.313569
-    },
-    "topFornecedores": [
-      {
-        "nome": "A.M.Silva Comunicação",
-        "valor": 20000.0
-      },
-      {
-        "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
-        "valor": 12400.0
-      },
-      {
-        "nome": "TARGET RENT A CAR LTDA",
-        "valor": 3200.0
-      },
-      {
-        "nome": "Antônio Elber de Carvalho Silva -ME",
-        "valor": 3000.0
-      },
-      {
-        "nome": "Maria Clara Silva Ribeiro",
-        "valor": 3000.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 729120.0,
+      "pct": 46.61
+    }
   }
 }

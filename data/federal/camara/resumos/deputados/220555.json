@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220555,
-    "geradoEm": "2026-03-03T15:34:13.111386Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.976934Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220555,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 56708.21,
         "OUTROS": 206377.52,
         "PASSAGENS": 215178.25
-      }
+      },
+      "qtdSemDocumentoPdf": 540,
+      "valorSemDocumentoPdf": 280165.11,
+      "qtdRecibosOutros": 337,
+      "valorRecibosOutros": 704466.8
     },
     "totaisAno": {
       "2023": 524437.27,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.321311,
-      "picoMes": "2023-11",
-      "picoValor": 80121.7,
-      "fornecedorTop1Pct": 0.005206,
-      "fornecedorTop3Pct": 0.010988,
-      "fornecedorHHI": 4.6e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.366388,
-      "semDocumentoPct": 0.166578,
-      "recibosOutrosPct": 0.418856
-    },
-    "topFornecedores": [
-      {
-        "nome": "BENTUX TECNOLOGIA LTDA",
-        "valor": 8756.0
-      },
-      {
-        "nome": "SPERINDE GESTÃO IMOBILIÁRIA LTDA",
-        "valor": 5723.74
-      },
-      {
-        "nome": "G. PEREIRA DOS REIS",
-        "valor": 4000.0
-      },
-      {
-        "nome": "EKO RESIDENCE",
-        "valor": 1509.0
-      },
-      {
-        "nome": "Telefônica Brasil S.A. VIVO",
-        "valor": 1048.72
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 616221.46,
+      "pct": 36.64
+    }
   }
 }

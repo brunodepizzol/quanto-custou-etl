@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204486,
-    "geradoEm": "2026-03-03T15:34:13.210491Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.031061Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204486,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 4358.75,
         "OUTROS": 410250.0,
         "PASSAGENS": 327825.66
-      }
+      },
+      "qtdSemDocumentoPdf": 361,
+      "valorSemDocumentoPdf": 337317.2,
+      "qtdRecibosOutros": 105,
+      "valorRecibosOutros": 168926.89
     },
     "totaisAno": {
       "2023": 513889.66,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.339254,
-      "picoMes": "2023-12",
-      "picoValor": 86801.03,
-      "fornecedorTop1Pct": 0.015168,
-      "fornecedorTop3Pct": 0.02642,
-      "fornecedorHHI": 0.000327,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.438881,
-      "semDocumentoPct": 0.206835,
-      "recibosOutrosPct": 0.103582
-    },
-    "topFornecedores": [
-      {
-        "nome": "DELPHOS SERVICOS DE MARKETING E COMUNICACAO LTDA",
-        "valor": 24737.0
-      },
-      {
-        "nome": "ECLIPSE SERVICOS & LOCACOES EIRELI - ME",
-        "valor": 12750.0
-      },
-      {
-        "nome": "triunfo service ltda",
-        "valor": 5600.0
-      },
-      {
-        "nome": "RADIO FM CAXITORE LTDA",
-        "valor": 4000.0
-      },
-      {
-        "nome": "viewclinic ltda",
-        "valor": 3700.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 715749.49,
+      "pct": 43.89
+    }
   }
 }

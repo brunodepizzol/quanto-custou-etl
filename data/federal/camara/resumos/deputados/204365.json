@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204365,
-    "geradoEm": "2026-03-03T15:34:13.155761Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.001171Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204365,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 24774.42,
         "OUTROS": 2800.24,
         "PASSAGENS": 156841.77
-      }
+      },
+      "qtdSemDocumentoPdf": 374,
+      "valorSemDocumentoPdf": 195679.98,
+      "qtdRecibosOutros": 146,
+      "valorRecibosOutros": 6262.24
     },
     "totaisAno": {
       "2023": 117227.87,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.490925,
-      "picoMes": "2024-11",
-      "picoValor": 32227.7,
-      "fornecedorTop1Pct": 0.01646,
-      "fornecedorTop3Pct": 0.019696,
-      "fornecedorHHI": 0.000279,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.472193,
-      "semDocumentoPct": 0.402609,
-      "recibosOutrosPct": 0.012884
-    },
-    "topFornecedores": [
-      {
-        "nome": "DOMP",
-        "valor": 8000.0
-      },
-      {
-        "nome": "BROAD BRASIL LTDA",
-        "valor": 997.0
-      },
-      {
-        "nome": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA",
-        "valor": 576.0
-      },
-      {
-        "nome": "POSTO AGRICOPEL MATRIZ LTDA",
-        "valor": 372.35
-      },
-      {
-        "nome": "AUTO POSTO TIO NICO II LTDA",
-        "valor": 318.57
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 229500.0,
+      "pct": 47.22
+    }
   }
 }

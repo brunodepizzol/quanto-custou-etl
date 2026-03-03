@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74043,
-    "geradoEm": "2026-03-03T15:34:13.271532Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.064423Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74043,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 6891.16,
         "OUTROS": 253200.0,
         "PASSAGENS": 247159.57
-      }
+      },
+      "qtdSemDocumentoPdf": 641,
+      "valorSemDocumentoPdf": 321960.23,
+      "qtdRecibosOutros": 50,
+      "valorRecibosOutros": 202372.25
     },
     "totaisAno": {
       "2023": 540194.08,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.436359,
-      "picoMes": "2024-12",
-      "picoValor": 118728.46,
-      "fornecedorTop1Pct": 0.023525,
-      "fornecedorTop3Pct": 0.026201,
-      "fornecedorHHI": 0.000559,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.604583,
-      "semDocumentoPct": 0.18935,
-      "recibosOutrosPct": 0.119018
-    },
-    "topFornecedores": [
-      {
-        "nome": "ELDORADO COMUNICACAO E JORNALISMO LTDA",
-        "valor": 40000.0
-      },
-      {
-        "nome": "PANTANAL VEÍCULOS LTDA",
-        "valor": 3900.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 650.0
-      },
-      {
-        "nome": "POSTO MONUMENTO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
-        "valor": 342.16
-      },
-      {
-        "nome": "COMERCIAL DE COMBUSTIVEIS EXPRESSO LTDA",
-        "valor": 333.01
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1028000.0,
+      "pct": 60.46
+    }
   }
 }

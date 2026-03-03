@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 218086,
-    "geradoEm": "2026-03-03T15:34:13.135729Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.990347Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 218086,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 7264.64,
         "OUTROS": 319600.0,
         "PASSAGENS": 194210.06
-      }
+      },
+      "qtdSemDocumentoPdf": 533,
+      "valorSemDocumentoPdf": 216598.72,
+      "qtdRecibosOutros": 60,
+      "valorRecibosOutros": 319600.0
     },
     "totaisAno": {
       "2023": 244828.6,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.572004,
-      "picoMes": "2024-12",
-      "picoValor": 143207.9,
-      "fornecedorTop1Pct": 0.024338,
-      "fornecedorTop3Pct": 0.037523,
-      "fornecedorHHI": 0.000754,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.517555,
-      "semDocumentoPct": 0.166823,
-      "recibosOutrosPct": 0.246154
-    },
-    "topFornecedores": [
-      {
-        "nome": "GWDIAS AGENCIA DE MARKETING DIGITAL LTDA",
-        "valor": 31600.0
-      },
-      {
-        "nome": "NSF TRANSPORTES ME LTDA.",
-        "valor": 16500.0
-      },
-      {
-        "nome": "AUTO POSTO SOLUCAO LTDA",
-        "valor": 619.51
-      },
-      {
-        "nome": "AUTO POSTO CANCUN LTDA.",
-        "valor": 499.2
-      },
-      {
-        "nome": "AUTO POSTO AEROPORTO LTDA",
-        "valor": 400.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 671980.0,
+      "pct": 51.76
+    }
   }
 }

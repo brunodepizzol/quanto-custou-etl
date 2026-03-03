@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 98615,
-    "geradoEm": "2026-03-03T15:34:13.165211Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.006400Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 98615,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 57896.72,
         "OUTROS": 322785.0,
         "PASSAGENS": 327020.47
-      }
+      },
+      "qtdSemDocumentoPdf": 1137,
+      "valorSemDocumentoPdf": 509037.69,
+      "qtdRecibosOutros": 105,
+      "valorRecibosOutros": 410369.12
     },
     "totaisAno": {
       "2023": 349801.52,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.326396,
-      "picoMes": "2025-02",
-      "picoValor": 59810.15,
-      "fornecedorTop1Pct": 0.009211,
-      "fornecedorTop3Pct": 0.017841,
-      "fornecedorHHI": 0.000134,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.267675,
-      "semDocumentoPct": 0.366106,
-      "recibosOutrosPct": 0.295142
-    },
-    "topFornecedores": [
-      {
-        "nome": "ALINE DA SILVA FARIA",
-        "valor": 12807.01
-      },
-      {
-        "nome": "LOCAR MAIS LTDA",
-        "valor": 8999.0
-      },
-      {
-        "nome": "R A NASCIMENTO CONSULTORIA POLITICA",
-        "valor": 3000.0
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEIS 214 SUL LTDA",
-        "valor": 1186.3
-      },
-      {
-        "nome": "AUTO POSTO BALEIA FRANCA LTDA",
-        "valor": 984.51
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 372178.47,
+      "pct": 26.77
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220690,
-    "geradoEm": "2026-03-03T15:34:13.096800Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.968555Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220690,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 880.0,
         "OUTROS": 154870.0,
         "PASSAGENS": 269265.86
-      }
+      },
+      "qtdSemDocumentoPdf": 627,
+      "valorSemDocumentoPdf": 337458.42,
+      "qtdRecibosOutros": 68,
+      "valorRecibosOutros": 447643.0
     },
     "totaisAno": {
       "2023": 515664.23,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.246963,
-      "picoMes": "2024-12",
-      "picoValor": 74168.72,
-      "fornecedorTop1Pct": 0.037044,
-      "fornecedorTop3Pct": 0.043989,
-      "fornecedorHHI": 0.001418,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.496432,
-      "semDocumentoPct": 0.208349,
-      "recibosOutrosPct": 0.276378
-    },
-    "topFornecedores": [
-      {
-        "nome": "Bipe Publicidade LTDA",
-        "valor": 60000.0
-      },
-      {
-        "nome": "LINA CAROLINA DOS SANTOS MACHADO",
-        "valor": 11000.0
-      },
-      {
-        "nome": "AUTO POSTO AEROPORTO LTDA",
-        "valor": 248.76
-      },
-      {
-        "nome": "BELIZE COMPANY AUTO POSTO LTDA",
-        "valor": 227.94
-      },
-      {
-        "nome": "AUTO POSTO CONCORDE LTDA",
-        "valor": 203.81
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 804059.1,
+      "pct": 49.64
+    }
   }
 }

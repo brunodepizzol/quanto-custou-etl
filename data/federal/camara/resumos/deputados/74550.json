@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74550,
-    "geradoEm": "2026-03-03T15:34:13.170861Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.009314Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74550,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 41271.73,
         "OUTROS": 405425.77,
         "PASSAGENS": 172114.37
-      }
+      },
+      "qtdSemDocumentoPdf": 953,
+      "valorSemDocumentoPdf": 321795.8,
+      "qtdRecibosOutros": 159,
+      "valorRecibosOutros": 649855.93
     },
     "totaisAno": {
       "2023": 507351.35,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.266154,
-      "picoMes": "2023-12",
-      "picoValor": 70896.12,
-      "fornecedorTop1Pct": 0.00922,
-      "fornecedorTop3Pct": 0.018758,
-      "fornecedorHHI": 0.000155,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.29833,
-      "semDocumentoPct": 0.204619,
-      "recibosOutrosPct": 0.413222
-    },
-    "topFornecedores": [
-      {
-        "nome": "MIRO PSAROS COMUNICAÇÃO DIGITAL LTDA",
-        "valor": 14500.0
-      },
-      {
-        "nome": "VIA LOCADORA DE AUTOMOVEIS LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "ELDA ELBACHÁ PEREIRA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "SECRETARIA DE ESTADO DE FAZENDA DA BAHIA",
-        "valor": 4052.94
-      },
-      {
-        "nome": "AUTO POSTO GAROUPA LTDA",
-        "valor": 3503.12
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 469170.0,
+      "pct": 29.83
+    }
   }
 }

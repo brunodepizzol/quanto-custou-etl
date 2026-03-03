@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 171786,
-    "geradoEm": "2026-03-03T15:34:13.213366Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.032719Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 171786,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 23636.5,
         "OUTROS": 356291.08,
         "PASSAGENS": 161110.86
-      }
+      },
+      "qtdSemDocumentoPdf": 268,
+      "valorSemDocumentoPdf": 188047.59,
+      "qtdRecibosOutros": 411,
+      "valorRecibosOutros": 606127.58
     },
     "totaisAno": {
       "2023": 451825.3,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.291303,
-      "picoMes": "2023-05",
-      "picoValor": 54398.57,
-      "fornecedorTop1Pct": 0.007207,
-      "fornecedorTop3Pct": 0.015708,
-      "fornecedorHHI": 0.000116,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.278347,
-      "semDocumentoPct": 0.135522,
-      "recibosOutrosPct": 0.436825
-    },
-    "topFornecedores": [
-      {
-        "nome": "CM COMUNICAÇÃO E MARKETING LTDA - CM COMUNICAÇÃO",
-        "valor": 10000.0
-      },
-      {
-        "nome": "ESTRELA LOGISTICA LTDA",
-        "valor": 6796.0
-      },
-      {
-        "nome": "Neli Maria Carvalho Guimarães",
-        "valor": 5000.0
-      },
-      {
-        "nome": "VALOR LOCAÇÕES EIRELI - ME",
-        "valor": 4990.0
-      },
-      {
-        "nome": "VITTORIA CANGUCU PEREIRA",
-        "valor": 4000.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 386227.75,
+      "pct": 27.83
+    }
   }
 }

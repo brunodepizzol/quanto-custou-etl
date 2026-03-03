@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 81055,
-    "geradoEm": "2026-03-03T15:34:13.201749Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.026258Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 81055,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 13692.78,
         "OUTROS": 116922.15,
         "PASSAGENS": 358635.56
-      }
+      },
+      "qtdSemDocumentoPdf": 819,
+      "valorSemDocumentoPdf": 479334.73,
+      "qtdRecibosOutros": 526,
+      "valorRecibosOutros": 324934.69
     },
     "totaisAno": {
       "2023": 501870.66,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.320763,
-      "picoMes": "2024-12",
-      "picoValor": 93956.38,
-      "fornecedorTop1Pct": 0.007073,
-      "fornecedorTop3Pct": 0.017352,
-      "fornecedorHHI": 0.000184,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.368848,
-      "semDocumentoPct": 0.282528,
-      "recibosOutrosPct": 0.191522
-    },
-    "topFornecedores": [
-      {
-        "nome": "C I PRODUCOES LTDA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "JJ DO CARMO PRODUÇÕES E EVENTOS LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "AMRB- ADEMAR MARIANO RONIERD BARROS CONSULTORIA IMOBILIÁRIA",
-        "valor": 7440.0
-      },
-      {
-        "nome": "Soneto  Serviços de Edição e Comunicação Ltda",
-        "valor": 7300.0
-      },
-      {
-        "nome": "IVO GIORDANO PORTELA CORREIA",
-        "valor": 6600.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 625784.0,
+      "pct": 36.88
+    }
   }
 }

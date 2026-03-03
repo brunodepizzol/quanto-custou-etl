@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204362,
-    "geradoEm": "2026-03-03T15:34:13.243250Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.048921Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204362,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 51826.54,
         "OUTROS": 177078.77,
         "PASSAGENS": 155496.52
-      }
+      },
+      "qtdSemDocumentoPdf": 815,
+      "valorSemDocumentoPdf": 274862.88,
+      "qtdRecibosOutros": 190,
+      "valorRecibosOutros": 243619.84
     },
     "totaisAno": {
       "2023": 193758.05,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.570986,
-      "picoMes": "2025-10",
-      "picoValor": 66713.79,
-      "fornecedorTop1Pct": 0.011605,
-      "fornecedorTop3Pct": 0.029013,
-      "fornecedorHHI": 0.000395,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.272034,
-      "semDocumentoPct": 0.318983,
-      "recibosOutrosPct": 0.282725
-    },
-    "topFornecedores": [
-      {
-        "nome": "BERIMBAU PRODUÇÕES",
-        "valor": 10000.0
-      },
-      {
-        "nome": "VAM Veiculos e Serviços Ltda",
-        "valor": 9500.0
-      },
-      {
-        "nome": "LETSROCKET COMUNICAÇÃO DIGITAL LTDA",
-        "valor": 5500.0
-      },
-      {
-        "nome": "Ponto 48 Ltda",
-        "valor": 5000.0
-      },
-      {
-        "nome": "PREFEITURA MUNICIPAL DE CRICIÚMA",
-        "valor": 4718.61
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 234407.0,
+      "pct": 27.2
+    }
   }
 }

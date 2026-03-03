@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220697,
-    "geradoEm": "2026-03-03T15:34:13.167660Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.007641Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220697,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 12090.73,
         "OUTROS": 228000.0,
         "PASSAGENS": 228529.87
-      }
+      },
+      "qtdSemDocumentoPdf": 474,
+      "valorSemDocumentoPdf": 284943.63,
+      "qtdRecibosOutros": 75,
+      "valorRecibosOutros": 328717.36
     },
     "totaisAno": {
       "2023": 566827.72,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.49365,
-      "picoMes": "2025-10",
-      "picoValor": 101387.71,
-      "fornecedorTop1Pct": 0.009533,
-      "fornecedorTop3Pct": 0.015491,
-      "fornecedorHHI": 0.000113,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.620883,
-      "semDocumentoPct": 0.169776,
-      "recibosOutrosPct": 0.195857
-    },
-    "topFornecedores": [
-      {
-        "nome": "VÉRTICE COMUNICAÇÃO E JORNALISMO LTDA EPP",
-        "valor": 16000.0
-      },
-      {
-        "nome": "Thiago Francisco Moreira Branco LTDA",
-        "valor": 6000.0
-      },
-      {
-        "nome": "ALFA COMUNICAÇÃO E MARKETING DIGITAL LTDA",
-        "valor": 4000.0
-      },
-      {
-        "nome": "ELDORADO COMUNICACAO E JORNALISMO LTDA",
-        "valor": 2000.0
-      },
-      {
-        "nome": "ROCHA FILHO",
-        "valor": 1545.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1042059.4,
+      "pct": 62.09
+    }
   }
 }

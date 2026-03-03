@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220707,
-    "geradoEm": "2026-03-03T15:34:13.079707Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.958834Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220707,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 158578.0,
         "PASSAGENS": 144239.27
-      }
+      },
+      "qtdSemDocumentoPdf": 316,
+      "valorSemDocumentoPdf": 443582.5,
+      "qtdRecibosOutros": 55,
+      "valorRecibosOutros": 351078.0
     },
     "totaisAno": {
       "2023": 532273.12,
@@ -86,31 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 1.079012,
-      "picoMes": "2023-12",
-      "picoValor": 256958.64,
-      "fornecedorTop1Pct": 0.020367,
-      "fornecedorTop3Pct": 0.029871,
-      "fornecedorHHI": 0.000505,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.61171,
-      "semDocumentoPct": 0.301142,
-      "recibosOutrosPct": 0.238342
-    },
-    "topFornecedores": [
-      {
-        "nome": "DISCOVER SERVICOS LTDA",
-        "valor": 30000.0
-      },
-      {
-        "nome": "FERNANDO JOSÉ OLIVEIRA DUAILIBE MENDONÇA",
-        "valor": 14000.0
-      }
-    ],
-    "flags": [
-      "spiky_spend",
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 901049.8,
+      "pct": 61.17
+    }
   }
 }

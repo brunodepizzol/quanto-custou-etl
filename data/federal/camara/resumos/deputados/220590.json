@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220590,
-    "geradoEm": "2026-03-03T15:34:13.109039Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.975590Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220590,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 59788.73,
         "OUTROS": 103915.0,
         "PASSAGENS": 335172.58
-      }
+      },
+      "qtdSemDocumentoPdf": 413,
+      "valorSemDocumentoPdf": 381176.8,
+      "qtdRecibosOutros": 18,
+      "valorRecibosOutros": 78477.58
     },
     "totaisAno": {
       "2023": 632214.27,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.399129,
-      "picoMes": "2023-11",
-      "picoValor": 123908.88,
-      "fornecedorTop1Pct": 0.023477,
-      "fornecedorTop3Pct": 0.032401,
-      "fornecedorHHI": 0.0006,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.557488,
-      "semDocumentoPct": 0.200088,
-      "recibosOutrosPct": 0.041195
-    },
-    "topFornecedores": [
-      {
-        "nome": "B.C.SOUZA ALMEIDA LTDA",
-        "valor": 44725.0
-      },
-      {
-        "nome": "AJS DERIVADOS DE PETROLEO - EIRELI",
-        "valor": 9000.0
-      },
-      {
-        "nome": "Silvania Maria Pedroza Vasconcelos",
-        "valor": 8000.0
-      },
-      {
-        "nome": "EVELIN DE SA FREITAS",
-        "valor": 5000.0
-      },
-      {
-        "nome": "YURUA SERVIÇOS",
-        "valor": 2000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1062042.07,
+      "pct": 55.75
+    }
   }
 }

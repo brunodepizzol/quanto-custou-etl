@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 141485,
-    "geradoEm": "2026-03-03T15:34:13.193062Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.021594Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 141485,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 62342.73,
         "OUTROS": 76359.46,
         "PASSAGENS": 209727.34
-      }
+      },
+      "qtdSemDocumentoPdf": 1741,
+      "valorSemDocumentoPdf": 912106.72,
+      "qtdRecibosOutros": 42,
+      "valorRecibosOutros": 3297.59
     },
     "totaisAno": {
       "2023": 484997.94,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.766443,
-      "picoMes": "2024-04",
-      "picoValor": 154159.81,
-      "fornecedorTop1Pct": 0.007232,
-      "fornecedorTop3Pct": 0.019339,
-      "fornecedorHHI": 0.000133,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.635629,
-      "semDocumentoPct": 0.552133,
-      "recibosOutrosPct": 0.001996
-    },
-    "topFornecedores": [
-      {
-        "nome": "JK FLY VIAGENS E SERVICOS A EMPRESAS LTDA",
-        "valor": 11946.8
-      },
-      {
-        "nome": "GESTÃO CONECTADA TREINAMENTO E CONSULTORIA LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "OOXZ MARKETING LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "60.108.508 BRUNA LINCK DA SILVA",
-        "valor": 2000.0
-      },
-      {
-        "nome": "DSX MARKETING DIGITAL LTDA",
-        "valor": 2000.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1050039.71,
+      "pct": 63.56
+    }
   }
 }

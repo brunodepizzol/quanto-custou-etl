@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178943,
-    "geradoEm": "2026-03-03T15:34:13.204202Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.027666Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178943,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 38788.46,
         "OUTROS": 390753.56,
         "PASSAGENS": 463347.48
-      }
+      },
+      "qtdSemDocumentoPdf": 1305,
+      "valorSemDocumentoPdf": 785543.54,
+      "qtdRecibosOutros": 117,
+      "valorRecibosOutros": 391101.02
     },
     "totaisAno": {
       "2023": 442091.61,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.717796,
-      "picoMes": "2025-12",
-      "picoValor": 141190.89,
-      "fornecedorTop1Pct": 0.006539,
-      "fornecedorTop3Pct": 0.009577,
-      "fornecedorHHI": 4.8e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.336654,
-      "semDocumentoPct": 0.570752,
-      "recibosOutrosPct": 0.284162
-    },
-    "topFornecedores": [
-      {
-        "nome": "AA ASSESORIA E LOCAÇÃO LTDA",
-        "valor": 9000.0
-      },
-      {
-        "nome": "AUTO POSTO VALDEVEZ LTDA",
-        "valor": 2683.82
-      },
-      {
-        "nome": "RECANTO CATARATAS HOTEL E CONVENTION LTDA",
-        "valor": 1496.88
-      },
-      {
-        "nome": "MOVIDA LOCACAO DE VEICULOS S.A.",
-        "valor": 441.35
-      },
-      {
-        "nome": "DEVILLE HOTEIS E TURISMO LTDA",
-        "valor": 393.8
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 463347.48,
+      "pct": 33.67
+    }
   }
 }

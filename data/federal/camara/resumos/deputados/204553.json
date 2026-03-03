@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204553,
-    "geradoEm": "2026-03-03T15:34:13.224173Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.038552Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204553,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 291760.0,
         "PASSAGENS": 113419.49
-      }
+      },
+      "qtdSemDocumentoPdf": 259,
+      "valorSemDocumentoPdf": 180570.48,
+      "qtdRecibosOutros": 2,
+      "valorRecibosOutros": 2914.0
     },
     "totaisAno": {
       "2023": 278188.8,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.590923,
-      "picoMes": "2025-02",
-      "picoValor": 36813.57,
-      "fornecedorTop1Pct": 0.000687,
-      "fornecedorTop3Pct": 0.001902,
-      "fornecedorHHI": 2e-06,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.472891,
-      "semDocumentoPct": 0.292673,
-      "recibosOutrosPct": 0.004723
-    },
-    "topFornecedores": [
-      {
-        "nome": "POSTO DE COMBUSTIVEIS E LUBRIFICANTES CORREIA",
-        "valor": 423.68
-      },
-      {
-        "nome": "DRA4 DERIVADOS DE PETROLEO LTDA",
-        "valor": 400.0
-      },
-      {
-        "nome": "COMERCIO DE COMBUSTIVEIS PARADA DO ENGENHO LTDA",
-        "valor": 350.0
-      },
-      {
-        "nome": "MAD COMERCIO E SERVICOS LTDA",
-        "valor": 270.0
-      },
-      {
-        "nome": "FABIANA ANDREIA CHIAPARINI & CIA LTDA",
-        "valor": 230.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 291760.0,
+      "pct": 47.29
+    }
   }
 }

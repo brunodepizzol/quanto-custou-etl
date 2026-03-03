@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220583,
-    "geradoEm": "2026-03-03T15:34:13.120637Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.982052Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220583,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 6915.61,
         "OUTROS": 364739.99,
         "PASSAGENS": 134379.23
-      }
+      },
+      "qtdSemDocumentoPdf": 425,
+      "valorSemDocumentoPdf": 186234.23,
+      "qtdRecibosOutros": 115,
+      "valorRecibosOutros": 533161.55
     },
     "totaisAno": {
       "2023": 524380.08,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.236345,
-      "picoMes": "2023-08",
-      "picoValor": 59959.07,
-      "fornecedorTop1Pct": 0.016539,
-      "fornecedorTop3Pct": 0.0327,
-      "fornecedorHHI": 0.000428,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.5454,
-      "semDocumentoPct": 0.114875,
-      "recibosOutrosPct": 0.328871
-    },
-    "topFornecedores": [
-      {
-        "nome": "RBF CONSULTORIA EM COMUNICACAO LTDA",
-        "valor": 26812.6
-      },
-      {
-        "nome": "THAIS MALTA BULHOES CAMPELLO",
-        "valor": 13200.0
-      },
-      {
-        "nome": "OK LOCADORA DE VEÍCULOS LTDA - EPP",
-        "valor": 13000.0
-      },
-      {
-        "nome": "C5 SERVIÇOS DE COMUNICAÇÃO LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "JA COMUNICAÇÃO LTDA ME",
-        "valor": 4000.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 884194.09,
+      "pct": 54.54
+    }
   }
 }

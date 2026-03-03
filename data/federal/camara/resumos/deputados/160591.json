@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160591,
-    "geradoEm": "2026-03-03T15:34:13.269363Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.063282Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160591,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 366400.0,
         "PASSAGENS": 299430.9
-      }
+      },
+      "qtdSemDocumentoPdf": 297,
+      "valorSemDocumentoPdf": 300712.53,
+      "qtdRecibosOutros": 88,
+      "valorRecibosOutros": 472351.24
     },
     "totaisAno": {
       "2023": 600943.49,
@@ -86,32 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.405272,
-      "picoMes": "2023-07",
-      "picoValor": 92630.14,
-      "fornecedorTop1Pct": 0.021281,
-      "fornecedorTop3Pct": 0.026678,
-      "fornecedorHHI": 0.000477,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.565046,
-      "semDocumentoPct": 0.164091,
-      "recibosOutrosPct": 0.25775
-    },
-    "topFornecedores": [
-      {
-        "nome": "G DOS S PESSOA",
-        "valor": 39000.0
-      },
-      {
-        "nome": "EDENILTON LIMA PEREIRA",
-        "valor": 8900.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 990.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1035500.0,
+      "pct": 56.5
+    }
   }
 }

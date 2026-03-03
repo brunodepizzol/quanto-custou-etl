@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220624,
-    "geradoEm": "2026-03-03T15:34:13.246180Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.050476Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220624,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 4286.83,
         "OUTROS": 305226.0,
         "PASSAGENS": 268937.21
-      }
+      },
+      "qtdSemDocumentoPdf": 538,
+      "valorSemDocumentoPdf": 447364.0,
+      "qtdRecibosOutros": 114,
+      "valorRecibosOutros": 444410.12
     },
     "totaisAno": {
       "2023": 421425.32,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.350098,
-      "picoMes": "2025-11",
-      "picoValor": 68716.04,
-      "fornecedorTop1Pct": 0.017147,
-      "fornecedorTop3Pct": 0.033635,
-      "fornecedorHHI": 0.000486,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.378778,
-      "semDocumentoPct": 0.29504,
-      "recibosOutrosPct": 0.293092
-    },
-    "topFornecedores": [
-      {
-        "nome": "SEJA FA LTDA",
-        "valor": 26000.0
-      },
-      {
-        "nome": "RR COMUNICAÇAO E MARKETING LTDA",
-        "valor": 15000.0
-      },
-      {
-        "nome": "MARIANA CRISTINA ALMEIDA VIEIRA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
-        "valor": 8500.0
-      },
-      {
-        "nome": "PARELHAS GAS LTDA",
-        "valor": 4711.13
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 574335.0,
+      "pct": 37.88
+    }
   }
 }

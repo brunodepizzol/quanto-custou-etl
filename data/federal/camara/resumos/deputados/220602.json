@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220602,
-    "geradoEm": "2026-03-03T15:34:13.125449Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.984705Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220602,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 89421.02,
         "PASSAGENS": 249708.64
-      }
+      },
+      "qtdSemDocumentoPdf": 386,
+      "valorSemDocumentoPdf": 272186.74,
+      "qtdRecibosOutros": 51,
+      "valorRecibosOutros": 177874.03
     },
     "totaisAno": {
       "2023": 445259.96,
@@ -86,36 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.560195,
-      "picoMes": "2023-12",
-      "picoValor": 95765.07,
-      "fornecedorTop1Pct": 0.007243,
-      "fornecedorTop3Pct": 0.011129,
-      "fornecedorHHI": 6e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.586024,
-      "semDocumentoPct": 0.197153,
-      "recibosOutrosPct": 0.128839
-    },
-    "topFornecedores": [
-      {
-        "nome": "CLC GOMES AGENCIA DE MARKETING POLITICO LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "PASSELI-PREDIAL E ADMINISTRADORA SÃO SEBASTIÃO LTDA",
-        "valor": 2864.99
-      },
-      {
-        "nome": "ROBERTO CÁSSIO FARIAS DA SILVA",
-        "valor": 2500.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 900.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 809057.52,
+      "pct": 58.6
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204364,
-    "geradoEm": "2026-03-03T15:34:13.134461Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.989700Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204364,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 6195.0,
         "OUTROS": 240426.69,
         "PASSAGENS": 4731.6
-      }
+      },
+      "qtdSemDocumentoPdf": 1101,
+      "valorSemDocumentoPdf": 283280.14,
+      "qtdRecibosOutros": 60,
+      "valorRecibosOutros": 215742.78
     },
     "totaisAno": {
       "2023": 469126.86,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.35773,
-      "picoMes": "2024-04",
-      "picoValor": 75049.28,
-      "fornecedorTop1Pct": 0.027219,
-      "fornecedorTop3Pct": 0.03512,
-      "fornecedorHHI": 0.000794,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.499223,
-      "semDocumentoPct": 0.208391,
-      "recibosOutrosPct": 0.158708
-    },
-    "topFornecedores": [
-      {
-        "nome": "Meta Comunicação e Marketing Ltda",
-        "valor": 37000.0
-      },
-      {
-        "nome": "RIBEIRO COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA",
-        "valor": 7591.26
-      },
-      {
-        "nome": "VALE IMÓVEIS - Sala 07",
-        "valor": 3150.0
-      },
-      {
-        "nome": "GIOVANNA PEREIRA DO AMARAL 05432719193",
-        "valor": 3000.0
-      },
-      {
-        "nome": "PORTAL DO AMARAL COMUNICAÇÕES LTDA",
-        "valor": 3000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 678627.72,
+      "pct": 49.92
+    }
   }
 }

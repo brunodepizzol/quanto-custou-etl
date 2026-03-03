@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 123086,
-    "geradoEm": "2026-03-03T15:34:13.088887Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.964037Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 123086,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1970.2,
         "OUTROS": 400400.0,
         "PASSAGENS": 309976.71
-      }
+      },
+      "qtdSemDocumentoPdf": 539,
+      "valorSemDocumentoPdf": 582966.7,
+      "qtdRecibosOutros": 100,
+      "valorRecibosOutros": 155370.98
     },
     "totaisAno": {
       "2023": 513428.59,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.265201,
-      "picoMes": "2024-05",
-      "picoValor": 58524.14,
-      "fornecedorTop1Pct": 0.004205,
-      "fornecedorTop3Pct": 0.008902,
-      "fornecedorHHI": 3.3e-05,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.244257,
-      "semDocumentoPct": 0.355629,
-      "recibosOutrosPct": 0.094781
-    },
-    "topFornecedores": [
-      {
-        "nome": "POSTO HOMERO CASTELO BRANCO LTDA",
-        "valor": 6892.32
-      },
-      {
-        "nome": "AVANCEE DIGITAL LTDA",
-        "valor": 4500.0
-      },
-      {
-        "nome": "VERBO COMUNICAÇÃO",
-        "valor": 3200.0
-      },
-      {
-        "nome": "ELDORADO COMUNICACAO E JORNALISMO LTDA",
-        "valor": 3000.0
-      },
-      {
-        "nome": "PARLANET WEB E TECNOLOGIA EIRELI",
-        "valor": 1200.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 400400.0,
+      "pct": 24.43
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204436,
-    "geradoEm": "2026-03-03T15:34:13.165618Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.006603Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204436,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 10414.1,
         "OUTROS": 360692.0,
         "PASSAGENS": 614644.6
-      }
+      },
+      "qtdSemDocumentoPdf": 1086,
+      "valorSemDocumentoPdf": 721269.79,
+      "qtdRecibosOutros": 50,
+      "valorRecibosOutros": 310455.72
     },
     "totaisAno": {
       "2023": 342906.14,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.355386,
-      "picoMes": "2024-08",
-      "picoValor": 54761.78,
-      "fornecedorTop1Pct": 0.004173,
-      "fornecedorTop3Pct": 0.005725,
-      "fornecedorHHI": 1.9e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.554358,
-      "semDocumentoPct": 0.650525,
-      "recibosOutrosPct": 0.280005
-    },
-    "topFornecedores": [
-      {
-        "nome": "POSOTIVO VIAGENS E TURISMO",
-        "valor": 4626.87
-      },
-      {
-        "nome": "HOTEL CANGAÇO EMPREENDIMENTOS TURISTICOS LTDA - EPP",
-        "valor": 1172.72
-      },
-      {
-        "nome": "ALMEIDA E BARROS COMERCIO LTDA",
-        "valor": 548.3
-      },
-      {
-        "nome": "CDG COMBUSTIVEIS LTDA",
-        "valor": 424.95
-      },
-      {
-        "nome": "POSTO ALINE LTDA EPP",
-        "valor": 346.34
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 614644.6,
+      "pct": 55.44
+    }
   }
 }

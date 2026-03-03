@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 141408,
-    "geradoEm": "2026-03-03T15:34:13.106305Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.973996Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 141408,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 174849.6,
         "PASSAGENS": 168739.78
-      }
+      },
+      "qtdSemDocumentoPdf": 204,
+      "valorSemDocumentoPdf": 281297.28,
+      "qtdRecibosOutros": 65,
+      "valorRecibosOutros": 348449.6
     },
     "totaisAno": {
       "2023": 590041.37,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.718083,
-      "picoMes": "2024-12",
-      "picoValor": 145668.02,
-      "fornecedorTop1Pct": 0.016387,
-      "fornecedorTop3Pct": 0.027312,
-      "fornecedorHHI": 0.000341,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.695366,
-      "semDocumentoPct": 0.153656,
-      "recibosOutrosPct": 0.190338
-    },
-    "topFornecedores": [
-      {
-        "nome": "ELDORADO COMUNICACAO E JORNALISMO LTDA",
-        "valor": 30000.0
-      },
-      {
-        "nome": "MARIA RAQUEL DA SILVA BORGMANN",
-        "valor": 10000.0
-      },
-      {
-        "nome": "Sistema Inga de Comunicão Ltda",
-        "valor": 10000.0
-      },
-      {
-        "nome": "ALYSSON  PENHA SILVA",
-        "valor": 4000.0
-      },
-      {
-        "nome": "RAYDON DE SOUZA BRITO",
-        "valor": 4000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1273000.0,
+      "pct": 69.54
+    }
   }
 }

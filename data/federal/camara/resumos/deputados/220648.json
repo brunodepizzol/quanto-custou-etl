@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220648,
-    "geradoEm": "2026-03-03T15:34:13.198328Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.024503Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220648,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 4975.54,
         "OUTROS": 176860.11,
         "PASSAGENS": 198048.42
-      }
+      },
+      "qtdSemDocumentoPdf": 813,
+      "valorSemDocumentoPdf": 264935.71,
+      "qtdRecibosOutros": 57,
+      "valorRecibosOutros": 249057.28
     },
     "totaisAno": {
       "2023": 507314.71,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.299734,
-      "picoMes": "2023-10",
-      "picoValor": 68734.76,
-      "fornecedorTop1Pct": 0.00888,
-      "fornecedorTop3Pct": 0.017379,
-      "fornecedorHHI": 0.000139,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.484069,
-      "semDocumentoPct": 0.168043,
-      "recibosOutrosPct": 0.157971
-    },
-    "topFornecedores": [
-      {
-        "nome": "HANBELLSEG SERVIÇOS E LOCAÇOES LTDA",
-        "valor": 14000.0
-      },
-      {
-        "nome": "AUTO POSTO DON PEPE",
-        "valor": 8000.0
-      },
-      {
-        "nome": "IVANILDO VIEIRA GALVÃO",
-        "valor": 5400.5
-      },
-      {
-        "nome": "Adaberto Silva Santos",
-        "valor": 5000.0
-      },
-      {
-        "nome": "ADALBERTO SILVA SANTOS 37196235991",
-        "valor": 5000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 763182.26,
+      "pct": 48.41
+    }
   }
 }

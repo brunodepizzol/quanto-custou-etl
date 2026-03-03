@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220595,
-    "geradoEm": "2026-03-03T15:34:13.108259Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.975143Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220595,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 43464.38,
         "OUTROS": 222135.82,
         "PASSAGENS": 396538.21
-      }
+      },
+      "qtdSemDocumentoPdf": 644,
+      "valorSemDocumentoPdf": 530866.7,
+      "qtdRecibosOutros": 92,
+      "valorRecibosOutros": 355783.7
     },
     "totaisAno": {
       "2023": 514489.8,
@@ -86,21 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.403381,
-      "picoMes": "2023-04",
-      "picoValor": 93869.96,
-      "fornecedorTop1Pct": 0.0,
-      "fornecedorTop3Pct": 0.0,
-      "fornecedorHHI": 0.0,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.262112,
-      "semDocumentoPct": 0.344931,
-      "recibosOutrosPct": 0.231171
-    },
-    "topFornecedores": [],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 403402.9,
+      "pct": 26.21
+    }
   }
 }

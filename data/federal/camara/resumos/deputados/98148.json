@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 98148,
-    "geradoEm": "2026-03-03T15:34:13.107101Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.974455Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 98148,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 29073.25,
         "OUTROS": 123891.64,
         "PASSAGENS": 351129.76
-      }
+      },
+      "qtdSemDocumentoPdf": 1554,
+      "valorSemDocumentoPdf": 518699.98,
+      "qtdRecibosOutros": 182,
+      "valorRecibosOutros": 223878.63
     },
     "totaisAno": {
       "2023": 406939.79,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.673929,
-      "picoMes": "2024-12",
-      "picoValor": 135987.04,
-      "fornecedorTop1Pct": 0.014023,
-      "fornecedorTop3Pct": 0.028396,
-      "fornecedorHHI": 0.000315,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.415819,
-      "semDocumentoPct": 0.363678,
-      "recibosOutrosPct": 0.156969
-    },
-    "topFornecedores": [
-      {
-        "nome": "RUMO PESQUISA E MARKETING LTDA",
-        "valor": 20000.0
-      },
-      {
-        "nome": "RADIO CAÇADOR FM",
-        "valor": 10500.0
-      },
-      {
-        "nome": "VALDECIR SCHMEIER",
-        "valor": 10000.0
-      },
-      {
-        "nome": "ADRIANO MEIRELES RIBEIRO - ME",
-        "valor": 3000.0
-      },
-      {
-        "nome": "PATRICIA BEAL DE CORDOVA CRUZ",
-        "valor": 2570.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 593066.45,
+      "pct": 41.58
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220638,
-    "geradoEm": "2026-03-03T15:34:13.085740Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.962178Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220638,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 10068.63,
         "OUTROS": 204680.0,
         "PASSAGENS": 196289.19
-      }
+      },
+      "qtdSemDocumentoPdf": 554,
+      "valorSemDocumentoPdf": 264439.39,
+      "qtdRecibosOutros": 27,
+      "valorRecibosOutros": 51035.76
     },
     "totaisAno": {
       "2023": 419190.8,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.534747,
-      "picoMes": "2024-11",
-      "picoValor": 84031.51,
-      "fornecedorTop1Pct": 0.009316,
-      "fornecedorTop3Pct": 0.015823,
-      "fornecedorHHI": 0.000113,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.490823,
-      "semDocumentoPct": 0.214219,
-      "recibosOutrosPct": 0.041343
-    },
-    "topFornecedores": [
-      {
-        "nome": "AZE3 COMUNICAÇÃO LTDA",
-        "valor": 11500.0
-      },
-      {
-        "nome": "QUASAR LOCADORA DE VEICULOS EIRELI",
-        "valor": 4800.0
-      },
-      {
-        "nome": "PANAMBY 10 POSTO DE SERVICOS E CONVENIENCIA EIRELI",
-        "valor": 3232.74
-      },
-      {
-        "nome": "JIOUJI YANAGUISAWA",
-        "valor": 2000.0
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEIS 206 LTDA",
-        "valor": 1418.16
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 605888.1,
+      "pct": 49.08
+    }
   }
 }

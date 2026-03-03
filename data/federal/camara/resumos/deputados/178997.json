@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178997,
-    "geradoEm": "2026-03-03T15:34:13.215061Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.033584Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178997,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 4952.39,
         "OUTROS": 10323.34,
         "PASSAGENS": 249149.19
-      }
+      },
+      "qtdSemDocumentoPdf": 472,
+      "valorSemDocumentoPdf": 275413.6,
+      "qtdRecibosOutros": 3,
+      "valorRecibosOutros": 10323.34
     },
     "totaisAno": {
       "2023": 572098.94,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.343346,
-      "picoMes": "2023-08",
-      "picoValor": 76105.15,
-      "fornecedorTop1Pct": 0.021887,
-      "fornecedorTop3Pct": 0.039742,
-      "fornecedorHHI": 0.00067,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.83257,
-      "semDocumentoPct": 0.158631,
-      "recibosOutrosPct": 0.005946
-    },
-    "topFornecedores": [
-      {
-        "nome": "Francisco C. T. Araújo - ME",
-        "valor": 38000.0
-      },
-      {
-        "nome": "JOÃO PEDRO AGUIAR DIOGENES",
-        "valor": 21000.0
-      },
-      {
-        "nome": "NF COMUNICAÇÃO DIGITAL LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "AURELIO MAGALHAES PONTE",
-        "valor": 6000.0
-      },
-      {
-        "nome": "031 - 302 NORTE - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-        "valor": 290.04
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1445500.0,
+      "pct": 83.26
+    }
   }
 }

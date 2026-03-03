@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178983,
-    "geradoEm": "2026-03-03T15:34:13.200501Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.025588Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178983,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
         "PASSAGENS": 104051.78
-      }
+      },
+      "qtdSemDocumentoPdf": 501,
+      "valorSemDocumentoPdf": 131425.35,
+      "qtdRecibosOutros": 75,
+      "valorRecibosOutros": 56768.15
     },
     "totaisAno": {
       "2023": 47288.33,
@@ -86,44 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 1.621088,
-      "picoMes": "2025-09",
-      "picoValor": 47161.05,
-      "fornecedorTop1Pct": 0.011752,
-      "fornecedorTop3Pct": 0.016392,
-      "fornecedorHHI": 0.000153,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.604302,
-      "semDocumentoPct": 0.76328,
-      "recibosOutrosPct": 0.329693
-    },
-    "topFornecedores": [
-      {
-        "nome": "Priscila Jesus de Oliveira",
-        "valor": 2023.5
-      },
-      {
-        "nome": "CONDOMINIO EMPRESARIAL PREMIUM OFFICE TOWER",
-        "valor": 621.9
-      },
-      {
-        "nome": "VIVO TELEFONICA BRASILIA",
-        "valor": 177.0
-      },
-      {
-        "nome": "EDP São Paulo Distribuição de Energia S.A",
-        "valor": 113.87
-      },
-      {
-        "nome": "Telefônica Brasil S.A. VIVO",
-        "valor": 69.12
-      }
-    ],
-    "flags": [
-      "spiky_spend",
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 104051.78,
+      "pct": 60.43
+    }
   }
 }

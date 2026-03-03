@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220581,
-    "geradoEm": "2026-03-03T15:34:13.189382Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.019572Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220581,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1367.32,
         "OUTROS": 466100.0,
         "PASSAGENS": 137473.49
-      }
+      },
+      "qtdSemDocumentoPdf": 887,
+      "valorSemDocumentoPdf": 345925.86,
+      "qtdRecibosOutros": 111,
+      "valorRecibosOutros": 680299.99
     },
     "totaisAno": {
       "2023": 585021.39,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.364852,
-      "picoMes": "2025-12",
-      "picoValor": 116888.69,
-      "fornecedorTop1Pct": 0.018073,
-      "fornecedorTop3Pct": 0.03897,
-      "fornecedorHHI": 0.000573,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.405022,
-      "semDocumentoPct": 0.195373,
-      "recibosOutrosPct": 0.384221
-    },
-    "topFornecedores": [
-      {
-        "nome": "ARAÚJO & ARAÚJO EDITORA LTDA",
-        "valor": 32000.0
-      },
-      {
-        "nome": "SÃO SEBASTIÃO LOCAÇÃO DE VEÍCULOS E TURISMO LTDA",
-        "valor": 25000.0
-      },
-      {
-        "nome": "Três Marias Agropecuária e Eventos Eireli-EPP",
-        "valor": 12000.0
-      },
-      {
-        "nome": "COMERCIAL DE COMBUSTIVEIS E LUBRIFICANTES VITAL LT",
-        "valor": 1067.89
-      },
-      {
-        "nome": "AUTO POSTO MANGABEIRAS LTDA",
-        "valor": 806.61
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 717130.0,
+      "pct": 40.5
+    }
   }
 }

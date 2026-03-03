@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160575,
-    "geradoEm": "2026-03-03T15:34:13.138639Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.991895Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160575,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
         "PASSAGENS": 0.0
-      }
+      },
+      "qtdSemDocumentoPdf": 362,
+      "valorSemDocumentoPdf": 148871.3,
+      "qtdRecibosOutros": 1104,
+      "valorRecibosOutros": 24881.27
     },
     "totaisAno": {
       "2023": 389967.48,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.388087,
-      "picoMes": "2023-05",
-      "picoValor": 61591.53,
-      "fornecedorTop1Pct": 0.022744,
-      "fornecedorTop3Pct": 0.024232,
-      "fornecedorHHI": 0.000519,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.892155,
-      "semDocumentoPct": 0.115167,
-      "recibosOutrosPct": 0.019248
-    },
-    "topFornecedores": [
-      {
-        "nome": "ATLANTICA ESTRATÉGIA E COMUNICAÇÃO LTDA",
-        "valor": 29400.0
-      },
-      {
-        "nome": "UBER DO BRASIL TECNOLOGIA LTDA.",
-        "valor": 1129.16
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEIS 306 SUL LTDA",
-        "valor": 794.88
-      },
-      {
-        "nome": "WMS COMERCIO DE ARTIGOS DE PAPELARIA LTDA",
-        "valor": 788.8
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEL PETROMAXX 307 LTDA",
-        "valor": 570.39
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1153249.67,
+      "pct": 89.22
+    }
   }
 }

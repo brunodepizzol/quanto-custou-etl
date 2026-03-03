@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 230768,
-    "geradoEm": "2026-03-03T15:34:13.273116Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.065343Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 230768,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 6642.21,
         "OUTROS": 113000.0,
         "PASSAGENS": 42023.01
-      }
+      },
+      "qtdSemDocumentoPdf": 132,
+      "valorSemDocumentoPdf": 162720.95,
+      "qtdRecibosOutros": 37,
+      "valorRecibosOutros": 167431.59
     },
     "totaisAno": {
       "2023": 0.0,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.572368,
-      "picoMes": "2025-11",
-      "picoValor": 113184.65,
-      "fornecedorTop1Pct": 0.042463,
-      "fornecedorTop3Pct": 0.074484,
-      "fornecedorHHI": 0.003296,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.527123,
-      "semDocumentoPct": 0.226543,
-      "recibosOutrosPct": 0.233101
-    },
-    "topFornecedores": [
-      {
-        "nome": "H. INDÚSTRIA LTDA",
-        "valor": 30500.0
-      },
-      {
-        "nome": "FABER NOBRE VEIGA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "FARHAT & FARHAT LTDA",
-        "valor": 11000.0
-      },
-      {
-        "nome": "AC 24 HORAS LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "SERGIO AUGUSTO VALE DA CUNHA",
-        "valor": 10000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 378621.0,
+      "pct": 52.71
+    }
   }
 }

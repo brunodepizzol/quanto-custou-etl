@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204416,
-    "geradoEm": "2026-03-03T15:34:13.254526Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.054995Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204416,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 128630.46,
         "OUTROS": 285259.34,
         "PASSAGENS": 395283.57
-      }
+      },
+      "qtdSemDocumentoPdf": 1336,
+      "valorSemDocumentoPdf": 650439.98,
+      "qtdRecibosOutros": 143,
+      "valorRecibosOutros": 335091.51
     },
     "totaisAno": {
       "2023": 547854.7,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.319743,
-      "picoMes": "2023-07",
-      "picoValor": 65637.77,
-      "fornecedorTop1Pct": 0.002874,
-      "fornecedorTop3Pct": 0.005,
-      "fornecedorHHI": 1.3e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.327841,
-      "semDocumentoPct": 0.389517,
-      "recibosOutrosPct": 0.20067
-    },
-    "topFornecedores": [
-      {
-        "nome": "Nacional Rent a Car Locação de Veiculos LTDA",
-        "valor": 4800.0
-      },
-      {
-        "nome": "RADIO SEPE TIARAJU LTDA",
-        "valor": 1800.0
-      },
-      {
-        "nome": "RÁDIO CERES LTDA",
-        "valor": 1750.0
-      },
-      {
-        "nome": "LOCALIZA RENT A CAR S.A",
-        "valor": 1101.47
-      },
-      {
-        "nome": "096 - MANGUEIRAL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-        "valor": 1095.05
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 547450.06,
+      "pct": 32.78
+    }
   }
 }

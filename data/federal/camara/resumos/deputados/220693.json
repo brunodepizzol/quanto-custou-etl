@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220693,
-    "geradoEm": "2026-03-03T15:34:13.244977Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.049806Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220693,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 425000.0,
         "PASSAGENS": 81594.82
-      }
+      },
+      "qtdSemDocumentoPdf": 1034,
+      "valorSemDocumentoPdf": 316337.3,
+      "qtdRecibosOutros": 47,
+      "valorRecibosOutros": 102506.3
     },
     "totaisAno": {
       "2023": 462315.08,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.313851,
-      "picoMes": "2026-01",
-      "picoValor": 76041.17,
-      "fornecedorTop1Pct": 0.011635,
-      "fornecedorTop3Pct": 0.026243,
-      "fornecedorHHI": 0.000339,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.432621,
-      "semDocumentoPct": 0.204476,
-      "recibosOutrosPct": 0.066259
-    },
-    "topFornecedores": [
-      {
-        "nome": "Estratégia Comunicação Ltda.",
-        "valor": 18000.0
-      },
-      {
-        "nome": "AL SOM, FESTA E EVENTOS LTDA",
-        "valor": 12500.0
-      },
-      {
-        "nome": "TERABYTE COMERCIO E SERVIÇOS DE INFORMATICA LTDA",
-        "valor": 10100.0
-      },
-      {
-        "nome": "YAN SOARES DA SILVA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "JOSE VINICUS VIEIRA LIMA RAMOS MELO",
-        "valor": 9000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 669292.47,
+      "pct": 43.26
+    }
   }
 }

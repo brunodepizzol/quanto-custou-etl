@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 107970,
-    "geradoEm": "2026-03-03T15:34:13.080842Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.959491Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 107970,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 51466.53,
         "OUTROS": 67205.79,
         "PASSAGENS": 95047.59
-      }
+      },
+      "qtdSemDocumentoPdf": 652,
+      "valorSemDocumentoPdf": 206083.79,
+      "qtdRecibosOutros": 149,
+      "valorRecibosOutros": 496752.79
     },
     "totaisAno": {
       "2023": 454980.6,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.36971,
-      "picoMes": "2024-12",
-      "picoValor": 100586.52,
-      "fornecedorTop1Pct": 0.011884,
-      "fornecedorTop3Pct": 0.017334,
-      "fornecedorHHI": 0.00017,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.388994,
-      "semDocumentoPct": 0.139947,
-      "recibosOutrosPct": 0.337335
-    },
-    "topFornecedores": [
-      {
-        "nome": "CIF - Companhia de Integração Florestal LTDA EPP",
-        "valor": 17500.0
-      },
-      {
-        "nome": "DOMINIUM INFORMÁTICA LTDA",
-        "valor": 4025.0
-      },
-      {
-        "nome": "Marlucio Ferreira dos Santos",
-        "valor": 4000.0
-      },
-      {
-        "nome": "TALTO",
-        "valor": 2600.0
-      },
-      {
-        "nome": "LUCIANO PIRES DE LIMA",
-        "valor": 2500.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 572826.21,
+      "pct": 38.9
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 233594,
-    "geradoEm": "2026-03-03T15:34:13.236558Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.045123Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 233594,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 3977.25,
         "OUTROS": 87880.4,
         "PASSAGENS": 0.0
-      }
+      },
+      "qtdSemDocumentoPdf": 182,
+      "valorSemDocumentoPdf": 40945.14,
+      "qtdRecibosOutros": 75,
+      "valorRecibosOutros": 111436.53
     },
     "totaisAno": {
       "2023": 0.0,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.476348,
-      "picoMes": "2025-12",
-      "picoValor": 60789.43,
-      "fornecedorTop1Pct": 0.084974,
-      "fornecedorTop3Pct": 0.169594,
-      "fornecedorHHI": 0.012521,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.447252,
-      "semDocumentoPct": 0.141998,
-      "recibosOutrosPct": 0.386463
-    },
-    "topFornecedores": [
-      {
-        "nome": "NORTE SOLUÇÕES E LOCAÇÕES LTDA",
-        "valor": 24502.3
-      },
-      {
-        "nome": "GA IMPRESSÕES E PUBLICIDADE LTDA",
-        "valor": 14400.0
-      },
-      {
-        "nome": "AR ALERTA RONDONIA LTDA - ME",
-        "valor": 10000.0
-      },
-      {
-        "nome": "MARCIO MARTINS DOS REIS",
-        "valor": 8000.0
-      },
-      {
-        "nome": "IMOBILIARIA CASA NOSSA",
-        "valor": 6500.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 128965.0,
+      "pct": 44.73
+    }
   }
 }

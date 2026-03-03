@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160976,
-    "geradoEm": "2026-03-03T15:34:13.265399Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.061103Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160976,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 5182.39,
         "OUTROS": 210490.0,
         "PASSAGENS": 539855.06
-      }
+      },
+      "qtdSemDocumentoPdf": 537,
+      "valorSemDocumentoPdf": 586000.76,
+      "qtdRecibosOutros": 35,
+      "valorRecibosOutros": 204068.0
     },
     "totaisAno": {
       "2023": 467394.81,
@@ -86,38 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.365269,
-      "picoMes": "2023-03",
-      "picoValor": 71591.58,
-      "fornecedorTop1Pct": 0.014303,
-      "fornecedorTop3Pct": 0.015173,
-      "fornecedorHHI": 0.000205,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.406387,
-      "semDocumentoPct": 0.441124,
-      "recibosOutrosPct": 0.153616
-    },
-    "topFornecedores": [
-      {
-        "nome": "Strike Media",
-        "valor": 19000.0
-      },
-      {
-        "nome": "AUTO POSTO JORUHI LTDA",
-        "valor": 733.31
-      },
-      {
-        "nome": "Claro NXT Telecomunicações S.A",
-        "valor": 422.23
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEL QI 09 LAGO SUL LTDA",
-        "valor": 234.33
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 539855.06,
+      "pct": 40.64
+    }
   }
 }

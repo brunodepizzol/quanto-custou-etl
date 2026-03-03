@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204355,
-    "geradoEm": "2026-03-03T15:34:13.110502Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.976487Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204355,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 3922.8,
         "OUTROS": 145480.0,
         "PASSAGENS": 347872.03
-      }
+      },
+      "qtdSemDocumentoPdf": 733,
+      "valorSemDocumentoPdf": 539702.44,
+      "qtdRecibosOutros": 298,
+      "valorRecibosOutros": 756829.14
     },
     "totaisAno": {
       "2023": 453342.26,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.307197,
-      "picoMes": "2025-06",
-      "picoValor": 64960.41,
-      "fornecedorTop1Pct": 0.006664,
-      "fornecedorTop3Pct": 0.012486,
-      "fornecedorHHI": 7e-05,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.432901,
-      "semDocumentoPct": 0.359649,
-      "recibosOutrosPct": 0.504338
-    },
-    "topFornecedores": [
-      {
-        "nome": "ATIVE ENGENHARIA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "POSTO IATE LTDA",
-        "valor": 4737.43
-      },
-      {
-        "nome": "SWARM TECNOLOGIA LTDA",
-        "valor": 4000.0
-      },
-      {
-        "nome": "Suplymax Suprimentos de Informática LTDA",
-        "valor": 3355.0
-      },
-      {
-        "nome": "Blum Design",
-        "valor": 2000.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 649627.46,
+      "pct": 43.29
+    }
   }
 }

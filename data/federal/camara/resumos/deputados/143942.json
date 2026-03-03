@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 143942,
-    "geradoEm": "2026-03-03T15:34:13.095631Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.967873Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 143942,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 15797.24,
         "OUTROS": 131100.0,
         "PASSAGENS": 194191.9
-      }
+      },
+      "qtdSemDocumentoPdf": 478,
+      "valorSemDocumentoPdf": 216224.22,
+      "qtdRecibosOutros": 63,
+      "valorRecibosOutros": 133055.75
     },
     "totaisAno": {
       "2023": 237859.79,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.645714,
-      "picoMes": "2025-10",
-      "picoValor": 49357.93,
-      "fornecedorTop1Pct": 0.019564,
-      "fornecedorTop3Pct": 0.020784,
-      "fornecedorHHI": 0.000384,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.361819,
-      "semDocumentoPct": 0.40287,
-      "recibosOutrosPct": 0.24791
-    },
-    "topFornecedores": [
-      {
-        "nome": "LOCADORA QUALITY SHIELD CARS LTDA",
-        "valor": 10500.0
-      },
-      {
-        "nome": "POSTO DE GASOLINA AMIGAO ITABORAI LTDA",
-        "valor": 412.41
-      },
-      {
-        "nome": "DO SUL RESTAURANTE LTDA",
-        "valor": 242.47
-      },
-      {
-        "nome": "GS NOGUEIRA COMBUSTIVEIS LTDA",
-        "valor": 200.0
-      },
-      {
-        "nome": "POSTO TIMBOZAO DE CAMPOS LTDA",
-        "valor": 100.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 194191.9,
+      "pct": 36.18
+    }
   }
 }

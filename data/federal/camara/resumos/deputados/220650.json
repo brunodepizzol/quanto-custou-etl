@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220650,
-    "geradoEm": "2026-03-03T15:34:13.226731Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.039865Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220650,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
         "PASSAGENS": 330734.58
-      }
+      },
+      "qtdSemDocumentoPdf": 441,
+      "valorSemDocumentoPdf": 441792.12,
+      "qtdRecibosOutros": 87,
+      "valorRecibosOutros": 86915.97
     },
     "totaisAno": {
       "2023": 438089.65,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.625225,
-      "picoMes": "2023-08",
-      "picoValor": 65170.98,
-      "fornecedorTop1Pct": 0.015318,
-      "fornecedorTop3Pct": 0.018533,
-      "fornecedorHHI": 0.000241,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.363539,
-      "semDocumentoPct": 0.484899,
-      "recibosOutrosPct": 0.095397
-    },
-    "topFornecedores": [
-      {
-        "nome": "SAMBA PUBLICIDADE LTDA",
-        "valor": 13956.0
-      },
-      {
-        "nome": "VIVO TELEFONICA BRASILIA",
-        "valor": 2129.7
-      },
-      {
-        "nome": "COMPANHIA PIRATININGA DE FORCA E LUZ",
-        "valor": 800.16
-      },
-      {
-        "nome": "SOLARYS SOLUCOES DIGITAIS LTDA",
-        "valor": 605.0
-      },
-      {
-        "nome": "Telefônica Brasil S.A. VIVO",
-        "valor": 300.7
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 331221.32,
+      "pct": 36.35
+    }
   }
 }

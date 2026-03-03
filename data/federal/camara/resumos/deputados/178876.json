@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178876,
-    "geradoEm": "2026-03-03T15:34:13.102383Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.971713Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178876,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 5308.63,
         "OUTROS": 31740.0,
         "PASSAGENS": 0.0
-      }
+      },
+      "qtdSemDocumentoPdf": 673,
+      "valorSemDocumentoPdf": 358685.87,
+      "qtdRecibosOutros": 6,
+      "valorRecibosOutros": 31740.0
     },
     "totaisAno": {
       "2023": 312902.11,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.574794,
-      "picoMes": "2025-07",
-      "picoValor": 102624.45,
-      "fornecedorTop1Pct": 0.018778,
-      "fornecedorTop3Pct": 0.02015,
-      "fornecedorHHI": 0.000355,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.833156,
-      "semDocumentoPct": 0.269421,
-      "recibosOutrosPct": 0.023841
-    },
-    "topFornecedores": [
-      {
-        "nome": "JD COMUNICACAO, MARKETING E MIDIA LTDA 2000004245",
-        "valor": 25000.0
-      },
-      {
-        "nome": "MATTOS GUIMARAES E CIA LTDA",
-        "valor": 960.74
-      },
-      {
-        "nome": "MM CORUMBA COMBUSTIVEIS LTDA",
-        "valor": 865.07
-      },
-      {
-        "nome": "POSTO INDEPENDENCIA LTDA",
-        "valor": 598.73
-      },
-      {
-        "nome": "AUTO POSTO LUZIANIA LTDA ME",
-        "valor": 515.75
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1109200.0,
+      "pct": 83.32
+    }
   }
 }

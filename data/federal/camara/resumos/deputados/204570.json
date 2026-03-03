@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204570,
-    "geradoEm": "2026-03-03T15:34:13.223324Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.038109Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204570,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 24152.99,
         "PASSAGENS": 156568.7
-      }
+      },
+      "qtdSemDocumentoPdf": 668,
+      "valorSemDocumentoPdf": 242275.01,
+      "qtdRecibosOutros": 3,
+      "valorRecibosOutros": 10952.99
     },
     "totaisAno": {
       "2023": 523154.53,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.769272,
-      "picoMes": "2024-12",
-      "picoValor": 131772.79,
-      "fornecedorTop1Pct": 0.019617,
-      "fornecedorTop3Pct": 0.02996,
-      "fornecedorHHI": 0.00044,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.8063,
-      "semDocumentoPct": 0.172822,
-      "recibosOutrosPct": 0.007813
-    },
-    "topFornecedores": [
-      {
-        "nome": "NUI COMUNICAÇÃO E MARKETING LTDA",
-        "valor": 27500.0
-      },
-      {
-        "nome": "REPRESENTATIVA TREINAMENTO E CONSULTORIA",
-        "valor": 8000.0
-      },
-      {
-        "nome": "PANTANAL VEÍCULOS LTDA",
-        "valor": 6500.0
-      },
-      {
-        "nome": "POSTO AMERICANO LTDA",
-        "valor": 1039.97
-      },
-      {
-        "nome": "POSTO BRASIL 1",
-        "valor": 639.07
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1130330.0,
+      "pct": 80.63
+    }
   }
 }

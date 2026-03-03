@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204388,
-    "geradoEm": "2026-03-03T15:34:13.093670Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.966683Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204388,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 25718.57,
         "OUTROS": 420662.33,
         "PASSAGENS": 176384.79
-      }
+      },
+      "qtdSemDocumentoPdf": 1990,
+      "valorSemDocumentoPdf": 519919.23,
+      "qtdRecibosOutros": 266,
+      "valorRecibosOutros": 700984.99
     },
     "totaisAno": {
       "2023": 564358.03,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.440938,
-      "picoMes": "2024-12",
-      "picoValor": 138687.59,
-      "fornecedorTop1Pct": 0.005969,
-      "fornecedorTop3Pct": 0.014369,
-      "fornecedorHHI": 0.000106,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.298144,
-      "semDocumentoPct": 0.297701,
-      "recibosOutrosPct": 0.401377
-    },
-    "topFornecedores": [
-      {
-        "nome": "AUTO LOCADORA LINCK E MELLO LTDA",
-        "valor": 10425.0
-      },
-      {
-        "nome": "WORKING ASSOCIAÇÃO DE INTEGRAÇÃO PROFISSIONAL",
-        "valor": 8000.0
-      },
-      {
-        "nome": "libertas imobiliária",
-        "valor": 6669.17
-      },
-      {
-        "nome": "TOP MIDIA LOCACOES DE FRONT LIGHT LTDA",
-        "valor": 6000.0
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 4662.61
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 520693.9,
+      "pct": 29.81
+    }
   }
 }

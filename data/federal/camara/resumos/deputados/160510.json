@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 160510,
-    "geradoEm": "2026-03-03T15:34:13.191898Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.020859Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 160510,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 430.0,
         "OUTROS": 176432.66,
         "PASSAGENS": 410064.19
-      }
+      },
+      "qtdSemDocumentoPdf": 730,
+      "valorSemDocumentoPdf": 471957.12,
+      "qtdRecibosOutros": 182,
+      "valorRecibosOutros": 430766.33
     },
     "totaisAno": {
       "2023": 283602.55,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.41948,
-      "picoMes": "2025-04",
-      "picoValor": 61094.53,
-      "fornecedorTop1Pct": 0.005048,
-      "fornecedorTop3Pct": 0.013619,
-      "fornecedorHHI": 6.5e-05,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.351446,
-      "semDocumentoPct": 0.404491,
-      "recibosOutrosPct": 0.369188
-    },
-    "topFornecedores": [
-      {
-        "nome": "ESTRELA LOCAÇÕES LTDA",
-        "valor": 5890.0
-      },
-      {
-        "nome": "4804JMT CONSTRUÇÕES E EMPREENDIMENTOS LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "B1 PRODUCOES LTDA",
-        "valor": 5000.0
-      },
-      {
-        "nome": "VIVO TELEFONICA BRASILIA",
-        "valor": 1872.7
-      },
-      {
-        "nome": "POSTO DANUBIO LTDA",
-        "valor": 150.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 410064.19,
+      "pct": 35.14
+    }
   }
 }

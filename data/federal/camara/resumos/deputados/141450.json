@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 141450,
-    "geradoEm": "2026-03-03T15:34:13.163226Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.005563Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 141450,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 26776.22,
         "OUTROS": 384.28,
         "PASSAGENS": 364529.67
-      }
+      },
+      "qtdSemDocumentoPdf": 916,
+      "valorSemDocumentoPdf": 486585.08,
+      "qtdRecibosOutros": 188,
+      "valorRecibosOutros": 86057.88
     },
     "totaisAno": {
       "2023": 127405.12,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.548127,
-      "picoMes": "2024-11",
-      "picoValor": 54768.91,
-      "fornecedorTop1Pct": 0.017278,
-      "fornecedorTop3Pct": 0.028658,
-      "fornecedorHHI": 0.000413,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.393647,
-      "semDocumentoPct": 0.525451,
-      "recibosOutrosPct": 0.092932
-    },
-    "topFornecedores": [
-      {
-        "nome": "AN Social - Agência Digital LTDA",
-        "valor": 16000.0
-      },
-      {
-        "nome": "Atlântida Administradora de Imóveis",
-        "valor": 5657.97
-      },
-      {
-        "nome": "Decolar Grafica LTDA",
-        "valor": 4880.0
-      },
-      {
-        "nome": "MAINTENANCE COMERCIO E MANUTENCAO EM INFORMATICA LTDA",
-        "valor": 3950.0
-      },
-      {
-        "nome": "TERMINAL GARAGEM MENEZES CORTES S.A.",
-        "valor": 2600.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 364529.67,
+      "pct": 39.36
+    }
   }
 }

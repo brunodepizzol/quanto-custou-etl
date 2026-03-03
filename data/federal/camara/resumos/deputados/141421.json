@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 141421,
-    "geradoEm": "2026-03-03T15:34:13.133198Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.988966Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 141421,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 467530.0,
         "PASSAGENS": 244844.96
-      }
+      },
+      "qtdSemDocumentoPdf": 1374,
+      "valorSemDocumentoPdf": 391100.18,
+      "qtdRecibosOutros": 71,
+      "valorRecibosOutros": 467530.0
     },
     "totaisAno": {
       "2023": 513101.96,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.221708,
-      "picoMes": "2024-02",
-      "picoValor": 61289.64,
-      "fornecedorTop1Pct": 0.009117,
-      "fornecedorTop3Pct": 0.012091,
-      "fornecedorHHI": 0.000102,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.484751,
-      "semDocumentoPct": 0.232664,
-      "recibosOutrosPct": 0.278132
-    },
-    "topFornecedores": [
-      {
-        "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
-        "valor": 15325.0
-      },
-      {
-        "nome": "ON OFF Marketing",
-        "valor": 2500.0
-      },
-      {
-        "nome": "ON OFF MARKETING",
-        "valor": 2500.0
-      },
-      {
-        "nome": "Azul Linhas Aéreas",
-        "valor": 2193.57
-      },
-      {
-        "nome": "ALBERES XAVIER DE ASSUNÇÃO 04450911423",
-        "valor": 2000.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 814850.5,
+      "pct": 48.48
+    }
   }
 }

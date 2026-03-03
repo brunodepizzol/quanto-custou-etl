@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220708,
-    "geradoEm": "2026-03-03T15:34:13.151295Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.998733Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220708,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 22969.18,
         "OUTROS": 296531.98,
         "PASSAGENS": 98942.61
-      }
+      },
+      "qtdSemDocumentoPdf": 1483,
+      "valorSemDocumentoPdf": 353671.04,
+      "qtdRecibosOutros": 79,
+      "valorRecibosOutros": 517405.1
     },
     "totaisAno": {
       "2023": 511776.81,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.248521,
-      "picoMes": "2024-03",
-      "picoValor": 62641.36,
-      "fornecedorTop1Pct": 0.007441,
-      "fornecedorTop3Pct": 0.019958,
-      "fornecedorHHI": 0.00017,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.423506,
-      "semDocumentoPct": 0.210797,
-      "recibosOutrosPct": 0.308387
-    },
-    "topFornecedores": [
-      {
-        "nome": "HPE AUTOMOTORES DO BRASIL LTDA",
-        "valor": 12485.0
-      },
-      {
-        "nome": "SOUL AGENCIA DIGITAL LTDA",
-        "valor": 11000.0
-      },
-      {
-        "nome": "AS COMUNICAÇÃO LTDA",
-        "valor": 10000.0
-      },
-      {
-        "nome": "WILKER CAMPOS CHAGAS",
-        "valor": 6811.86
-      },
-      {
-        "nome": "MF COMUNICAÇÃO E IMPRESSÃO LTDA",
-        "valor": 6000.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 710550.0,
+      "pct": 42.35
+    }
   }
 }

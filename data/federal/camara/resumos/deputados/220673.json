@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220673,
-    "geradoEm": "2026-03-03T15:34:13.119448Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.981390Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220673,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 45054.09,
         "OUTROS": 8368.0,
         "PASSAGENS": 78519.05
-      }
+      },
+      "qtdSemDocumentoPdf": 366,
+      "valorSemDocumentoPdf": 177966.7,
+      "qtdRecibosOutros": 2,
+      "valorRecibosOutros": 6900.0
     },
     "totaisAno": {
       "2023": 184868.97,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.82564,
-      "picoMes": "2025-12",
-      "picoValor": 67344.59,
-      "fornecedorTop1Pct": 0.026386,
-      "fornecedorTop3Pct": 0.0352,
-      "fornecedorHHI": 0.000754,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.661338,
-      "semDocumentoPct": 0.249779,
-      "recibosOutrosPct": 0.009684
-    },
-    "topFornecedores": [
-      {
-        "nome": "Instituto Mais Cidades Assessoria e Consultoria ltda",
-        "valor": 18800.0
-      },
-      {
-        "nome": "MARIA DE FATIMA SOUZA DE QUEIROZ",
-        "valor": 5000.0
-      },
-      {
-        "nome": "BARRUDADA PALACE HOTEL LTDA",
-        "valor": 1280.0
-      },
-      {
-        "nome": "AUTO POSTO MIGUEL CANTO LTDA",
-        "valor": 543.06
-      },
-      {
-        "nome": "OURILANDIA COMERCIO DE COMBUSTIVEL LTDA",
-        "valor": 496.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 471200.0,
+      "pct": 66.13
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74171,
-    "geradoEm": "2026-03-03T15:34:13.104750Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.973070Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74171,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 28727.31,
         "OUTROS": 22409.49,
         "PASSAGENS": 211987.16
-      }
+      },
+      "qtdSemDocumentoPdf": 1015,
+      "valorSemDocumentoPdf": 271492.65,
+      "qtdRecibosOutros": 348,
+      "valorRecibosOutros": 236429.45
     },
     "totaisAno": {
       "2023": 448423.76,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.342306,
-      "picoMes": "2024-11",
-      "picoValor": 73041.37,
-      "fornecedorTop1Pct": 0.013248,
-      "fornecedorTop3Pct": 0.027269,
-      "fornecedorHHI": 0.000339,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.607283,
-      "semDocumentoPct": 0.179563,
-      "recibosOutrosPct": 0.156372
-    },
-    "topFornecedores": [
-      {
-        "nome": "BRUNO LINS AVILA FERREIRA",
-        "valor": 20030.0
-      },
-      {
-        "nome": "55.865.408 ELISON DE SOUSA AGUIAR",
-        "valor": 12000.0
-      },
-      {
-        "nome": "FLEX MARKETING DIRETO LTDA",
-        "valor": 9200.0
-      },
-      {
-        "nome": "NANDO MOTTA ARTES LTDA",
-        "valor": 8000.0
-      },
-      {
-        "nome": "YAGO LUIZ CARVALHO DE FREITAS 15459915708",
-        "valor": 7430.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 918191.62,
+      "pct": 60.73
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204524,
-    "geradoEm": "2026-03-03T15:34:13.233311Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.043429Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204524,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 12314.24,
         "OUTROS": 431348.0,
         "PASSAGENS": 178325.13
-      }
+      },
+      "qtdSemDocumentoPdf": 437,
+      "valorSemDocumentoPdf": 205465.13,
+      "qtdRecibosOutros": 438,
+      "valorRecibosOutros": 451223.93
     },
     "totaisAno": {
       "2023": 452004.75,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.250326,
-      "picoMes": "2023-12",
-      "picoValor": 66390.55,
-      "fornecedorTop1Pct": 0.019325,
-      "fornecedorTop3Pct": 0.03272,
-      "fornecedorHHI": 0.000476,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.373108,
-      "semDocumentoPct": 0.152893,
-      "recibosOutrosPct": 0.33577
-    },
-    "topFornecedores": [
-      {
-        "nome": "ESTRELA LOGISTICA LTDA",
-        "valor": 25970.0
-      },
-      {
-        "nome": "ANA JULIA GOMES DA SILVA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "JVG COMUNICACAO LTDA",
-        "valor": 6000.0
-      },
-      {
-        "nome": "STARLINK BRAZIL SERVICOS DE INTERNET LTDA",
-        "valor": 1152.0
-      },
-      {
-        "nome": "POSTO TRIANGULO IBIRITE",
-        "valor": 1091.03
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 501399.4,
+      "pct": 37.31
+    }
   }
 }

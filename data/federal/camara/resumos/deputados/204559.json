@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204559,
-    "geradoEm": "2026-03-03T15:34:13.273899Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.065791Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204559,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1339.96,
         "OUTROS": 1098.06,
         "PASSAGENS": 319578.09
-      }
+      },
+      "qtdSemDocumentoPdf": 697,
+      "valorSemDocumentoPdf": 585904.97,
+      "qtdRecibosOutros": 50,
+      "valorRecibosOutros": 157301.87
     },
     "totaisAno": {
       "2023": 535766.88,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.375887,
-      "picoMes": "2024-02",
-      "picoValor": 64653.9,
-      "fornecedorTop1Pct": 0.011695,
-      "fornecedorTop3Pct": 0.025078,
-      "fornecedorHHI": 0.000244,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.378125,
-      "semDocumentoPct": 0.417017,
-      "recibosOutrosPct": 0.111959
-    },
-    "topFornecedores": [
-      {
-        "nome": "CANAL 1 AUDIOVISUAL LTDA ME",
-        "valor": 16432.0
-      },
-      {
-        "nome": "JACIARA DE OLIVEIRA RIOS",
-        "valor": 9802.16
-      },
-      {
-        "nome": "MARIA E JOAO COMUNICAÇÃO E ASSESSORIA EIRELI",
-        "valor": 9000.0
-      },
-      {
-        "nome": "J M C DERIVADOS DE PETROLEO LTDA EPP",
-        "valor": 5209.99
-      },
-      {
-        "nome": "FEIRACÓPIAS SERVIÇOS REPROGRÁFICOS LTDA",
-        "valor": 1689.5
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 531261.43,
+      "pct": 37.81
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204391,
-    "geradoEm": "2026-03-03T15:34:13.175019Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.011604Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204391,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 26993.61,
         "OUTROS": 0.0,
         "PASSAGENS": 28857.33
-      }
+      },
+      "qtdSemDocumentoPdf": 429,
+      "valorSemDocumentoPdf": 225914.86,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 464091.7,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.452453,
-      "picoMes": "2025-12",
-      "picoValor": 91469.07,
-      "fornecedorTop1Pct": 0.001372,
-      "fornecedorTop3Pct": 0.00215,
-      "fornecedorHHI": 2e-06,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.821792,
-      "semDocumentoPct": 0.154926,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "TVC BRASIL DE NOTICIAS LTDA",
-        "valor": 2000.0
-      },
-      {
-        "nome": "POSTO PRATAO JARAGUA LTDA",
-        "valor": 680.01
-      },
-      {
-        "nome": "AUTO POSTO GT LTDA",
-        "valor": 455.0
-      },
-      {
-        "nome": "MALUMAR COMBUSTIVEIS E PECAS LTDA",
-        "valor": 410.97
-      },
-      {
-        "nome": "Auto Posto Comercial Gitirana Ltda",
-        "valor": 397.65
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1198350.0,
+      "pct": 82.18
+    }
   }
 }

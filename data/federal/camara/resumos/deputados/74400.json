@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 74400,
-    "geradoEm": "2026-03-03T15:34:13.230025Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.041590Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 74400,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 2556.0,
         "OUTROS": 16813.2,
         "PASSAGENS": 27870.05
-      }
+      },
+      "qtdSemDocumentoPdf": 87,
+      "valorSemDocumentoPdf": 70492.83,
+      "qtdRecibosOutros": 15,
+      "valorRecibosOutros": 52507.98
     },
     "totaisAno": {
       "2023": 0.0,
@@ -86,38 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.499302,
-      "picoMes": "2025-06",
-      "picoValor": 74262.59,
-      "fornecedorTop1Pct": 0.049047,
-      "fornecedorTop3Pct": 0.087584,
-      "fornecedorHHI": 0.003654,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.759531,
-      "semDocumentoPct": 0.123481,
-      "recibosOutrosPct": 0.091978
-    },
-    "topFornecedores": [
-      {
-        "nome": "LUCAS MACHADO COMUNICAÇÃO",
-        "valor": 28000.0
-      },
-      {
-        "nome": "Ferrer Estratégia e Planejamento em Comunicação Ltda",
-        "valor": 20000.0
-      },
-      {
-        "nome": "Gilmar Tadeu Bolzan",
-        "valor": 2000.0
-      },
-      {
-        "nome": "COMERCIO DE COMBUSTIVEIS PADOIN LTDA",
-        "valor": 1649.99
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 433600.0,
+      "pct": 75.95
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204379,
-    "geradoEm": "2026-03-03T15:34:13.068909Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.952515Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204379,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 248440.0,
         "PASSAGENS": 415755.18
-      }
+      },
+      "qtdSemDocumentoPdf": 835,
+      "valorSemDocumentoPdf": 548388.89,
+      "qtdRecibosOutros": 2,
+      "valorRecibosOutros": 4640.0
     },
     "totaisAno": {
       "2023": 591112.85,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.498308,
-      "picoMes": "2024-12",
-      "picoValor": 129819.71,
-      "fornecedorTop1Pct": 0.003647,
-      "fornecedorTop3Pct": 0.00806,
-      "fornecedorHHI": 2.9e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.512912,
-      "semDocumentoPct": 0.322613,
-      "recibosOutrosPct": 0.00273
-    },
-    "topFornecedores": [
-      {
-        "nome": "QUINTELA & SA SERVIÇOS LTDA",
-        "valor": 6200.0
-      },
-      {
-        "nome": "VN & FW LTDA-M",
-        "valor": 5000.0
-      },
-      {
-        "nome": "E C MENEZES",
-        "valor": 2500.0
-      },
-      {
-        "nome": "M SILVA CHAGAS",
-        "valor": 2500.0
-      },
-      {
-        "nome": "LUCIANO BRUNO DE SOUZA GOES",
-        "valor": 2000.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 871864.5,
+      "pct": 51.29
+    }
   }
 }

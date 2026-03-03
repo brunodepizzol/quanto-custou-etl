@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220551,
-    "geradoEm": "2026-03-03T15:34:13.149620Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.997874Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220551,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 56239.78,
         "OUTROS": 292136.71,
         "PASSAGENS": 156938.28
-      }
+      },
+      "qtdSemDocumentoPdf": 1481,
+      "valorSemDocumentoPdf": 446509.25,
+      "qtdRecibosOutros": 458,
+      "valorRecibosOutros": 627220.78
     },
     "totaisAno": {
       "2023": 528379.57,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.342339,
-      "picoMes": "2025-07",
-      "picoValor": 72724.34,
-      "fornecedorTop1Pct": 0.017306,
-      "fornecedorTop3Pct": 0.02818,
-      "fornecedorHHI": 0.000422,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.311523,
-      "semDocumentoPct": 0.257577,
-      "recibosOutrosPct": 0.361824
-    },
-    "topFornecedores": [
-      {
-        "nome": "PEDRO PAULO CAMPOS",
-        "valor": 30000.0
-      },
-      {
-        "nome": "FERNANDO DA SILVA CALVETE",
-        "valor": 10850.3
-      },
-      {
-        "nome": "DANER TRINDADE DA COSTA",
-        "valor": 8000.0
-      },
-      {
-        "nome": "ISIS R. DE V. MARTINS",
-        "valor": 7000.0
-      },
-      {
-        "nome": "ALBERTO RIBEIRO BENITES 40637883187",
-        "valor": 7000.0
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 540024.02,
+      "pct": 31.15
+    }
   }
 }

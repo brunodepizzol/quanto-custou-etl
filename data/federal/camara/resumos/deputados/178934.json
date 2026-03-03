@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178934,
-    "geradoEm": "2026-03-03T15:34:13.265784Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.061309Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178934,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 13139.63,
         "OUTROS": 409673.96,
         "PASSAGENS": 176025.71
-      }
+      },
+      "qtdSemDocumentoPdf": 557,
+      "valorSemDocumentoPdf": 224259.32,
+      "qtdRecibosOutros": 174,
+      "valorRecibosOutros": 320820.94
     },
     "totaisAno": {
       "2023": 486535.74,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.245466,
-      "picoMes": "2024-09",
-      "picoValor": 67724.16,
-      "fornecedorTop1Pct": 0.031084,
-      "fornecedorTop3Pct": 0.046299,
-      "fornecedorHHI": 0.001189,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.471734,
-      "semDocumentoPct": 0.139419,
-      "recibosOutrosPct": 0.19945
-    },
-    "topFornecedores": [
-      {
-        "nome": "Mateus da Silva Lima",
-        "valor": 50000.0
-      },
-      {
-        "nome": "LIBERO LOCADORA DE AUTOMOVEIS LTDA",
-        "valor": 24000.0
-      },
-      {
-        "nome": "POSTO SANTO EXPEDITO LTDA",
-        "valor": 473.05
-      },
-      {
-        "nome": "BRASAL COMBUSTIVEIS LTDA",
-        "valor": 468.45
-      },
-      {
-        "nome": "AUTO POSTO GOLDEN GAS 202 LTDA",
-        "valor": 417.78
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 758800.0,
+      "pct": 47.17
+    }
   }
 }

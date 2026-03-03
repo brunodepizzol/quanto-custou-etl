@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178992,
-    "geradoEm": "2026-03-03T15:34:13.269758Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.063480Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178992,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 36375.92,
         "OUTROS": 0.0,
         "PASSAGENS": 146040.25
-      }
+      },
+      "qtdSemDocumentoPdf": 487,
+      "valorSemDocumentoPdf": 168533.32,
+      "qtdRecibosOutros": 954,
+      "valorRecibosOutros": 582622.97
     },
     "totaisAno": {
       "2023": 469044.02,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.272726,
-      "picoMes": "2024-08",
-      "picoValor": 62753.57,
-      "fornecedorTop1Pct": 0.012342,
-      "fornecedorTop3Pct": 0.024373,
-      "fornecedorHHI": 0.000235,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.452323,
-      "semDocumentoPct": 0.108957,
-      "recibosOutrosPct": 0.376667
-    },
-    "topFornecedores": [
-      {
-        "nome": "Bruna Daipré Targa Fernandes",
-        "valor": 19090.44
-      },
-      {
-        "nome": "GRP TECHLAN COMÉRCIO E SERVIÇO EM INSTALAÇÕES DE TECNOLOGIA LTDA",
-        "valor": 9610.0
-      },
-      {
-        "nome": "BASE LAB CONSULTORIA POLÍTICA LTDA",
-        "valor": 9000.0
-      },
-      {
-        "nome": "MIGUEL TORRES DOS SANTOS",
-        "valor": 3000.0
-      },
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 2370.45
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 699646.05,
+      "pct": 45.23
+    }
   }
 }

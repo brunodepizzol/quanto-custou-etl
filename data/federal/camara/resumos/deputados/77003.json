@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 77003,
-    "geradoEm": "2026-03-03T15:34:13.256860Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.056320Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 77003,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 671.22,
         "OUTROS": 0.0,
         "PASSAGENS": 0.0
-      }
+      },
+      "qtdSemDocumentoPdf": 9,
+      "valorSemDocumentoPdf": 1534.6,
+      "qtdRecibosOutros": 17,
+      "valorRecibosOutros": 2236.0
     },
     "totaisAno": {
       "2023": 0.0,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.614532,
-      "picoMes": "2026-01",
-      "picoValor": 34379.91,
-      "fornecedorTop1Pct": 0.395538,
-      "fornecedorTop3Pct": 0.650066,
-      "fornecedorHHI": 0.197039,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.874204,
-      "semDocumentoPct": 0.020233,
-      "recibosOutrosPct": 0.029481
-    },
-    "topFornecedores": [
-      {
-        "nome": "FOX DIGITAL MARKETING LTDA",
-        "valor": 30000.0
-      },
-      {
-        "nome": "ART5 CONSULTORIA EM COMUNICAÇÃO LTDA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "JL8 ARTES GRAFICAS LTDA",
-        "valor": 7305.0
-      },
-      {
-        "nome": "DEJA CRIATIVIDADE E NEGOCIOS",
-        "valor": 5500.0
-      },
-      {
-        "nome": "POSTO URBANO FERRAZ LTDA",
-        "valor": 1893.81
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 66305.0,
+      "pct": 87.42
+    }
   }
 }

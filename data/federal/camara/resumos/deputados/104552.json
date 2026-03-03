@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 104552,
-    "geradoEm": "2026-03-03T15:34:13.260182Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.058128Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 104552,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 933.92,
         "OUTROS": 288000.0,
         "PASSAGENS": 212009.5
-      }
+      },
+      "qtdSemDocumentoPdf": 462,
+      "valorSemDocumentoPdf": 340685.73,
+      "qtdRecibosOutros": 9,
+      "valorRecibosOutros": 11610.0
     },
     "totaisAno": {
       "2023": 522393.41,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.291205,
-      "picoMes": "2023-11",
-      "picoValor": 71840.04,
-      "fornecedorTop1Pct": 0.015243,
-      "fornecedorTop3Pct": 0.02134,
-      "fornecedorHHI": 0.000259,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.608629,
-      "semDocumentoPct": 0.207721,
-      "recibosOutrosPct": 0.007079
-    },
-    "topFornecedores": [
-      {
-        "nome": "CLAUDIO GOMES DA SILVA ME",
-        "valor": 25000.0
-      },
-      {
-        "nome": "DIEGO DE M C ALVES COMERCIO DE VEICULOS NOVOS E US",
-        "valor": 6000.0
-      },
-      {
-        "nome": "O SERINGUAL COMUNICAÇÃO LTDA",
-        "valor": 4000.0
-      },
-      {
-        "nome": "PORTAL ACRE LTDA",
-        "valor": 3500.0
-      },
-      {
-        "nome": "AUTO POSTO AMAPA LTDA",
-        "valor": 2542.63
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 998220.65,
+      "pct": 60.86
+    }
   }
 }

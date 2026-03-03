@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204368,
-    "geradoEm": "2026-03-03T15:34:13.141790Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.993590Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204368,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 148973.29,
         "OUTROS": 477278.0,
         "PASSAGENS": 372074.91
-      }
+      },
+      "qtdSemDocumentoPdf": 1450,
+      "valorSemDocumentoPdf": 766994.56,
+      "qtdRecibosOutros": 78,
+      "valorRecibosOutros": 476956.0
     },
     "totaisAno": {
       "2023": 440706.01,
@@ -86,43 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.533941,
-      "picoMes": "2023-10",
-      "picoValor": 113699.37,
-      "fornecedorTop1Pct": 0.008549,
-      "fornecedorTop3Pct": 0.010343,
-      "fornecedorHHI": 7.7e-05,
-      "categoriaDominante": "OUTROS",
-      "categoriaDominantePct": 0.313852,
-      "semDocumentoPct": 0.504366,
-      "recibosOutrosPct": 0.31364
-    },
-    "topFornecedores": [
-      {
-        "nome": "PONTA LOCAÇÃO DE VEÍCULOS LTDA",
-        "valor": 13000.0
-      },
-      {
-        "nome": "MCK EMPREENDIMENTOS TURÍSTICOS E HOTELEIROS LTDA",
-        "valor": 1506.6
-      },
-      {
-        "nome": "POSTO SALSEIROS LTDA",
-        "valor": 1222.43
-      },
-      {
-        "nome": "POSTO DA COLINA LTDA",
-        "valor": 1141.26
-      },
-      {
-        "nome": "POSTO SANGALLI LTDA",
-        "valor": 689.5
-      }
-    ],
-    "flags": [
-      "high_without_pdf",
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "OUTROS",
+      "valor": 477278.0,
+      "pct": 31.39
+    }
   }
 }

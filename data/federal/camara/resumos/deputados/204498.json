@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204498,
-    "geradoEm": "2026-03-03T15:34:13.219666Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.036076Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204498,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
         "PASSAGENS": 495344.42
-      }
+      },
+      "qtdSemDocumentoPdf": 599,
+      "valorSemDocumentoPdf": 497880.84,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 562782.47,
@@ -86,26 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.33372,
-      "picoMes": "2025-04",
-      "picoValor": 89643.89,
-      "fornecedorTop1Pct": 0.02895,
-      "fornecedorTop3Pct": 0.02895,
-      "fornecedorHHI": 0.000838,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.71173,
-      "semDocumentoPct": 0.28827,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "AMAZON STUDIO E PRODUÇOES LTDA",
-        "valor": 50000.0
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 1229250.0,
+      "pct": 71.17
+    }
   }
 }

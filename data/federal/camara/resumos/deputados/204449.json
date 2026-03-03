@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204449,
-    "geradoEm": "2026-03-03T15:34:13.216720Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.034525Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204449,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 1438.0,
         "OUTROS": 245871.0,
         "PASSAGENS": 100367.87
-      }
+      },
+      "qtdSemDocumentoPdf": 226,
+      "valorSemDocumentoPdf": 121721.14,
+      "qtdRecibosOutros": 27,
+      "valorRecibosOutros": 245991.92
     },
     "totaisAno": {
       "2023": 23500.0,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.335679,
-      "picoMes": "2024-11",
-      "picoValor": 79117.42,
-      "fornecedorTop1Pct": 0.027448,
-      "fornecedorTop3Pct": 0.040503,
-      "fornecedorHHI": 0.000847,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.541204,
-      "semDocumentoPct": 0.131327,
-      "recibosOutrosPct": 0.265405
-    },
-    "topFornecedores": [
-      {
-        "nome": "Doannytur Agência de Viagens",
-        "valor": 25440.0
-      },
-      {
-        "nome": "Instituto Brasileiro de Assessoria Institucional - IBRASSI",
-        "valor": 7600.0
-      },
-      {
-        "nome": "WORKING ASSOCIAÇÃO DE INTEGRAÇÃO PROFISSIONAL",
-        "valor": 4500.0
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEIS OCIDENTAL LTDA",
-        "valor": 635.44
-      },
-      {
-        "nome": "COMBUSTIVEIS E LUBRIFICANTES BUSSOLARO LTDA",
-        "valor": 585.13
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 501617.39,
+      "pct": 54.12
+    }
   }
 }

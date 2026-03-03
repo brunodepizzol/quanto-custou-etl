@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220569,
-    "geradoEm": "2026-03-03T15:34:13.259368Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.057667Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220569,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 4907.0,
         "OUTROS": 372986.63,
         "PASSAGENS": 28956.16
-      }
+      },
+      "qtdSemDocumentoPdf": 559,
+      "valorSemDocumentoPdf": 153263.05,
+      "qtdRecibosOutros": 104,
+      "valorRecibosOutros": 595791.56
     },
     "totaisAno": {
       "2023": 250396.29,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.511151,
-      "picoMes": "2025-12",
-      "picoValor": 92295.51,
-      "fornecedorTop1Pct": 0.021335,
-      "fornecedorTop3Pct": 0.025782,
-      "fornecedorHHI": 0.000469,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.32977,
-      "semDocumentoPct": 0.128732,
-      "recibosOutrosPct": 0.500431
-    },
-    "topFornecedores": [
-      {
-        "nome": "PANTANAL VEÍCULOS LTDA",
-        "valor": 25400.0
-      },
-      {
-        "nome": "HOME GYN IMOVEIS LTDA",
-        "valor": 3960.62
-      },
-      {
-        "nome": "POSTO CAPIM DOURADO LTDA",
-        "valor": 1334.68
-      },
-      {
-        "nome": "CONDOMINIO WALK BUENO BUSINESS E LIFESTYLE",
-        "valor": 1124.22
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEIS SAO RAFAEL LTDA",
-        "valor": 335.71
-      }
-    ],
-    "flags": [
-      "high_receipts_other"
-    ]
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 392609.61,
+      "pct": 32.98
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 141533,
-    "geradoEm": "2026-03-03T15:34:13.248621Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.051788Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 141533,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
         "PASSAGENS": 0.0
-      }
+      },
+      "qtdSemDocumentoPdf": 123,
+      "valorSemDocumentoPdf": 27440.91,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 0.0,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.432396,
-      "picoMes": "2025-10",
-      "picoValor": 58835.16,
-      "fornecedorTop1Pct": 0.112007,
-      "fornecedorTop3Pct": 0.131895,
-      "fornecedorHHI": 0.012828,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.871934,
-      "semDocumentoPct": 0.128066,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "VICTOR GABRIEL RODRIGUES DE CARVALHO",
-        "valor": 24000.0
-      },
-      {
-        "nome": "GUSTAVO GOMES DE SOUSA DIAS",
-        "valor": 3000.0
-      },
-      {
-        "nome": "Posto de Combustiveis Garantia Ltda",
-        "valor": 1261.43
-      },
-      {
-        "nome": "POSTO SANTO EXPEDITO LTDA",
-        "valor": 928.18
-      },
-      {
-        "nome": "R13 TAGUATINGA COMERCIO LTDA",
-        "valor": 633.53
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 186831.43,
+      "pct": 87.19
+    }
   }
 }

@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 141458,
-    "geradoEm": "2026-03-03T15:34:13.169659Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.008680Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 141458,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 13434.11,
         "OUTROS": 111605.0,
         "PASSAGENS": 428690.88
-      }
+      },
+      "qtdSemDocumentoPdf": 1076,
+      "valorSemDocumentoPdf": 670102.52,
+      "qtdRecibosOutros": 13,
+      "valorRecibosOutros": 11360.47
     },
     "totaisAno": {
       "2023": 404468.24,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.743455,
-      "picoMes": "2024-08",
-      "picoValor": 119925.84,
-      "fornecedorTop1Pct": 0.00768,
-      "fornecedorTop3Pct": 0.010041,
-      "fornecedorHHI": 6.3e-05,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.330747,
-      "semDocumentoPct": 0.493859,
-      "recibosOutrosPct": 0.008373
-    },
-    "topFornecedores": [
-      {
-        "nome": "MACTRA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
-        "valor": 10420.5
-      },
-      {
-        "nome": "AS MARKETING E PUBLICIDADE LTDA",
-        "valor": 2500.0
-      },
-      {
-        "nome": "PACIFICO COMERCIO E SERVICOS DE COMBUSTIVEIS LTDA",
-        "valor": 703.42
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 630.0
-      },
-      {
-        "nome": "SOHO ALIMENTACAO E BEBIDAS LTDA",
-        "valor": 598.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 448781.0,
+      "pct": 33.07
+    }
   }
 }

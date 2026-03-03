@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204535,
-    "geradoEm": "2026-03-03T15:34:13.253694Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.054531Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204535,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
         "PASSAGENS": 476788.62
-      }
+      },
+      "qtdSemDocumentoPdf": 463,
+      "valorSemDocumentoPdf": 495545.0,
+      "qtdRecibosOutros": 34,
+      "valorRecibosOutros": 94556.28
     },
     "totaisAno": {
       "2023": 385495.71,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.259398,
-      "picoMes": "2025-04",
-      "picoValor": 65973.13,
-      "fornecedorTop1Pct": 0.015851,
-      "fornecedorTop3Pct": 0.030262,
-      "fornecedorHHI": 0.00041,
-      "categoriaDominante": "PASSAGENS",
-      "categoriaDominantePct": 0.343533,
-      "semDocumentoPct": 0.357047,
-      "recibosOutrosPct": 0.068129
-    },
-    "topFornecedores": [
-      {
-        "nome": "EVAG COMUNICAÇÃO E TECNOLOGIA LTDA",
-        "valor": 22000.0
-      },
-      {
-        "nome": "GGS SERVIÇOS SOCIEDADE UNIPESSOAL LTDA",
-        "valor": 17000.0
-      },
-      {
-        "nome": "Embalagem Certa Ltda",
-        "valor": 3000.0
-      },
-      {
-        "nome": "ATTBRASIL TECNOLOGIA LOCAÇÃO E SOLUÇÕES EM INFORMÁTICA LTDA-EPP",
-        "valor": 2300.0
-      },
-      {
-        "nome": "BROAD BRASIL LTDA",
-        "valor": 1700.0
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "PASSAGENS",
+      "valor": 476788.62,
+      "pct": 34.35
+    }
   }
 }

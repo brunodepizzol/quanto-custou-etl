@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 178972,
-    "geradoEm": "2026-03-03T15:34:13.075402Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.956277Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 178972,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 29832.44,
         "PASSAGENS": 186582.76
-      }
+      },
+      "qtdSemDocumentoPdf": 433,
+      "valorSemDocumentoPdf": 245468.23,
+      "qtdRecibosOutros": 180,
+      "valorRecibosOutros": 138527.03
     },
     "totaisAno": {
       "2023": 390456.67,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 1.472236,
-      "picoMes": "2023-12",
-      "picoValor": 233051.67,
-      "fornecedorTop1Pct": 0.010406,
-      "fornecedorTop3Pct": 0.0174,
-      "fornecedorHHI": 0.000136,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.65258,
-      "semDocumentoPct": 0.223587,
-      "recibosOutrosPct": 0.126179
-    },
-    "topFornecedores": [
-      {
-        "nome": "Facebook Serviços Online do Brasil Ltda.",
-        "valor": 11424.1
-      },
-      {
-        "nome": "NOVA CONTEUDO AGENCIA DE COMUNICAÇÃO LTDA",
-        "valor": 4000.0
-      },
-      {
-        "nome": "CENTRO EMPRESARIAL MEDITERRANEO",
-        "valor": 3679.15
-      },
-      {
-        "nome": "Gol Linhas Aereas S.A.",
-        "valor": 1866.28
-      },
-      {
-        "nome": "ENEL - Eletropaulo Metropolitana Eletricidade de São Paulo S. A.",
-        "valor": 320.34
-      }
-    ],
-    "flags": [
-      "spiky_spend"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 716442.38,
+      "pct": 65.26
+    }
   }
 }

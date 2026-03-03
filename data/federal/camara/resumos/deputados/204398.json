@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204398,
-    "geradoEm": "2026-03-03T15:34:13.144584Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.995254Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204398,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 36182.9,
         "OUTROS": 22825.05,
         "PASSAGENS": 162833.21
-      }
+      },
+      "qtdSemDocumentoPdf": 970,
+      "valorSemDocumentoPdf": 612660.02,
+      "qtdRecibosOutros": 51,
+      "valorRecibosOutros": 226378.11
     },
     "totaisAno": {
       "2023": 514749.22,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.531131,
-      "picoMes": "2023-12",
-      "picoValor": 82346.01,
-      "fornecedorTop1Pct": 0.023506,
-      "fornecedorTop3Pct": 0.025753,
-      "fornecedorHHI": 0.000557,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.620288,
-      "semDocumentoPct": 0.41147,
-      "recibosOutrosPct": 0.152038
-    },
-    "topFornecedores": [
-      {
-        "nome": "RAPHAEL AUGUSTUS MACHADO REZENDE SOUSA",
-        "valor": 35000.0
-      },
-      {
-        "nome": "Soczek Corretagem De Imoveis Ltda",
-        "valor": 2631.1
-      },
-      {
-        "nome": "AUTO POSTO ORTONA LTDA",
-        "valor": 713.33
-      },
-      {
-        "nome": "AUTO POSTO VERDE COM DE COMBUSTIVEIS E LUBRIF LTDA",
-        "valor": 682.62
-      },
-      {
-        "nome": "AUTO POSTO COSTA BRAVA",
-        "valor": 635.81
-      }
-    ],
-    "flags": [
-      "high_without_pdf"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 923580.0,
+      "pct": 62.03
+    }
   }
 }

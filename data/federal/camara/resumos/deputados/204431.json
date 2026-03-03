@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 204431,
-    "geradoEm": "2026-03-03T15:34:13.202988Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.027019Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 204431,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 0.0,
         "OUTROS": 432000.0,
         "PASSAGENS": 158975.08
-      }
+      },
+      "qtdSemDocumentoPdf": 221,
+      "valorSemDocumentoPdf": 426287.99,
+      "qtdRecibosOutros": 37,
+      "valorRecibosOutros": 433275.0
     },
     "totaisAno": {
       "2023": 552802.19,
@@ -86,36 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.207857,
-      "picoMes": "2023-06",
-      "picoValor": 62422.49,
-      "fornecedorTop1Pct": 0.008173,
-      "fornecedorTop3Pct": 0.021601,
-      "fornecedorHHI": 0.000175,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.468222,
-      "semDocumentoPct": 0.248874,
-      "recibosOutrosPct": 0.252954
-    },
-    "topFornecedores": [
-      {
-        "nome": "ANDRE LUIZ SANTOS MAGALHAES",
-        "valor": 14000.0
-      },
-      {
-        "nome": "AUTO LESTE LTDA",
-        "valor": 12000.0
-      },
-      {
-        "nome": "SS COMUNICACAO LTDA",
-        "valor": 11000.0
-      },
-      {
-        "nome": "PARENTE & ARAUJO COMBUSTIVEL LTDA EPP",
-        "valor": 7200.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 802000.0,
+      "pct": 46.82
+    }
   }
 }

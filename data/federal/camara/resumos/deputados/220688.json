@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220688,
-    "geradoEm": "2026-03-03T15:34:13.128765Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.986473Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220688,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 6301.0,
         "OUTROS": 344179.85,
         "PASSAGENS": 95876.56
-      }
+      },
+      "qtdSemDocumentoPdf": 774,
+      "valorSemDocumentoPdf": 404804.05,
+      "qtdRecibosOutros": 153,
+      "valorRecibosOutros": 482223.71
     },
     "totaisAno": {
       "2023": 535333.87,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.172122,
-      "picoMes": "2023-03",
-      "picoValor": 60493.06,
-      "fornecedorTop1Pct": 0.006188,
-      "fornecedorTop3Pct": 0.016031,
-      "fornecedorHHI": 0.000107,
-      "categoriaDominante": "ESCRITORIO",
-      "categoriaDominantePct": 0.303863,
-      "semDocumentoPct": 0.238577,
-      "recibosOutrosPct": 0.284205
-    },
-    "topFornecedores": [
-      {
-        "nome": "MY CAR LOCAÇÃO DE VEICULOS LTDA",
-        "valor": 10500.0
-      },
-      {
-        "nome": "SERVFAZ SERVIÇOS DE SEGURANÇA LTDA",
-        "valor": 8700.0
-      },
-      {
-        "nome": "J & M EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
-        "valor": 8000.0
-      },
-      {
-        "nome": "RAFAEL DA SILVA OLIVEIRA",
-        "valor": 6000.0
-      },
-      {
-        "nome": "ANA PATRICIA DE SOUSA RODRIGUES",
-        "valor": 2240.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "ESCRITORIO",
+      "valor": 515578.77,
+      "pct": 30.39
+    }
   }
 }

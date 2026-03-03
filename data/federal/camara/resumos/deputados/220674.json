@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 220674,
-    "geradoEm": "2026-03-03T15:34:13.131623Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:03.988075Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 220674,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 7148.65,
         "OUTROS": 221000.0,
         "PASSAGENS": 428695.94
-      }
+      },
+      "qtdSemDocumentoPdf": 411,
+      "valorSemDocumentoPdf": 446762.31,
+      "qtdRecibosOutros": 3,
+      "valorRecibosOutros": 14637.77
     },
     "totaisAno": {
       "2023": 535970.19,
@@ -86,40 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.605273,
-      "picoMes": "2025-02",
-      "picoValor": 92534.42,
-      "fornecedorTop1Pct": 0.015322,
-      "fornecedorTop3Pct": 0.019499,
-      "fornecedorHHI": 0.000248,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.538686,
-      "semDocumentoPct": 0.297615,
-      "recibosOutrosPct": 0.009751
-    },
-    "topFornecedores": [
-      {
-        "nome": "A.R.T TAXI AEREO",
-        "valor": 23000.0
-      },
-      {
-        "nome": "MARAJO LOCAÇÃO E SERVIÇOS LTDA",
-        "valor": 5500.0
-      },
-      {
-        "nome": "AMORETTO CAFES EXPRESSO LTDA",
-        "valor": 770.0
-      },
-      {
-        "nome": "076 - MELHOR 10 - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-        "valor": 300.0
-      },
-      {
-        "nome": "POSTO DE COMBUSTIVEIS 306 SUL LTDA",
-        "valor": 200.0
-      }
-    ],
-    "flags": []
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 808643.64,
+      "pct": 53.87
+    }
   }
 }

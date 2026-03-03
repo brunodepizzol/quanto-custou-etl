@@ -1,13 +1,10 @@
 {
   "meta": {
     "escopo": "federal/camara",
-    "tipo": "resumo_deputado",
+    "tipo": "resumo_deputado_mandato",
     "id": 143084,
-    "geradoEm": "2026-03-03T15:34:13.264595Z",
-    "versaoSchema": "1.1.0",
-    "mandatoInicioAno": 2023,
-    "mandatoFimAno": 2026,
-    "versaoCategoryMap": "1.0.0"
+    "geradoEm": "2026-03-03T22:09:04.060663Z",
+    "versaoSchema": "1.1.0"
   },
   "data": {
     "id": 143084,
@@ -28,7 +25,11 @@
         "HOSPEDAGEM": 21213.84,
         "OUTROS": 1000.0,
         "PASSAGENS": -10057.65
-      }
+      },
+      "qtdSemDocumentoPdf": 196,
+      "valorSemDocumentoPdf": 46291.72,
+      "qtdRecibosOutros": 0,
+      "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 0.0,
@@ -86,42 +87,10 @@
       "2026-11": 0.0,
       "2026-12": 0.0
     },
-    "metricas": {
-      "variacaoMensalCV": 0.64448,
-      "picoMes": "2025-10",
-      "picoValor": 54322.27,
-      "fornecedorTop1Pct": 0.01937,
-      "fornecedorTop3Pct": 0.042397,
-      "fornecedorHHI": 0.001037,
-      "categoriaDominante": "DIVULGACAO",
-      "categoriaDominantePct": 0.704823,
-      "semDocumentoPct": 0.224167,
-      "recibosOutrosPct": 0.0
-    },
-    "topFornecedores": [
-      {
-        "nome": "NOALY CARDOSO DUARTE",
-        "valor": 4000.0
-      },
-      {
-        "nome": "Portal CT Comunicação Eireli - ME",
-        "valor": 2500.0
-      },
-      {
-        "nome": "PREMIUM COM. DE DERIVADOS DE PETROLEO LTDA",
-        "valor": 2255.13
-      },
-      {
-        "nome": "AR3 PRODUÇÕES E EVENTOS LTDA",
-        "valor": 2000.0
-      },
-      {
-        "nome": "H PLUS ADMINISTRAÇÃO E HOTELARIA LTDA",
-        "valor": 1968.0
-      }
-    ],
-    "flags": [
-      "category_dominant"
-    ]
+    "maiorCategoria": {
+      "categoria": "DIVULGACAO",
+      "valor": 145549.92,
+      "pct": 70.48
+    }
   }
 }
