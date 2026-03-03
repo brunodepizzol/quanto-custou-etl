@@ -39,7 +39,7 @@ def safe_slug(text):
 def write_resumos_index(out_dir: Path, escopo: str = "federal/camara") -> None:
     deps_dir = out_dir / "federal/camara/resumos/deputados"
     if not deps_dir.exists():
-        print("WARN: resumos/deputados não existe; pulando _index.json")
+        print("WARN: resumos/deputados não existe; pulando index.json")
         return
 
     itens = []
@@ -101,7 +101,7 @@ def write_resumos_index(out_dir: Path, escopo: str = "federal/camara") -> None:
             "partidos": sorted(partidos)
         }
     }
-    write_json(out_dir / "federal/camara/resumos/_index.json", obj_out)
+    write_json(out_dir / "federal/camara/resumos/index.json", obj_out)
 
 
 def http_get_json(url: str, params: dict = None, retries: int = 8, timeout_s: int = 120) -> dict:
