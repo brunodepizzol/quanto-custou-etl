@@ -72,6 +72,8 @@ def write_resumos_index(out_dir: Path, escopo: str = "federal/camara") -> None:
         except Exception:
             dep_id_out = dep_id
 
+        totais_ano = d.get("totaisAno") or {}
+
         itens.append({
             "id": dep_id_out,
             "nome": nome,
@@ -79,7 +81,8 @@ def write_resumos_index(out_dir: Path, escopo: str = "federal/camara") -> None:
             "partido": partido,
             "urlFoto": url_foto,
             "totalMandato": total,
-            "qtdLancamentosMandato": qtd
+            "qtdLancamentosMandato": qtd,
+            "totaisAno": totais_ano
         })
 
     itens.sort(key=lambda x: safe_slug((x.get("nome") or "").lower()))
@@ -503,6 +506,173 @@ def sum_aggregate_files(aggregate_files: List[Path]) -> List[dict]:
         out.append(r)
     return out
 
+
+
+# ----------------------------
+# Build per-deputy resumos (mandato) from stored monthly aggregates
+# ----------------------------
+def build_resumos_deputados_from_monthlies(
+    deputados: List[dict],
+    aggregate_files: List[Path],
+    mandate_start_year: int
+) -> Dict[int, dict]:
+    """
+    Reads monthly totals_deputados.json files and builds a per-deputy summary:
+      - totaisMandato (total, qtdLancamentos, porCategoria + doc stats)
+      - totaisAno (year -> total)
+      - porMes (YYYY-MM -> total)
+    Returns dict keyed by deputy id.
+    """
+    dep_map: Dict[int, dict] = {}
+    for d in deputados:
+        try:
+            dep_id = int(d.get("id"))
+        except Exception:
+            continue
+        dep_map[dep_id] = {
+            "id": dep_id,
+            "nome": d.get("nome") or d.get("nomeCivil") or d.get("nomeParlamentar"),
+            "uf": d.get("siglaUf") or d.get("uf"),
+            "partido": d.get("siglaPartido") or d.get("partido"),
+            "urlFoto": d.get("urlFoto")
+        }
+
+    acc: Dict[int, dict] = {}
+
+    def ensure(dep_id: int) -> dict:
+        if dep_id not in acc:
+            base = dep_map.get(dep_id, {"id": dep_id})
+            acc[dep_id] = {
+                "id": dep_id,
+                "nome": base.get("nome"),
+                "uf": base.get("uf"),
+                "partido": base.get("partido"),
+                "urlFoto": base.get("urlFoto"),
+                "totaisMandato": {
+                    "total": 0.0,
+                    "qtdLancamentos": 0,
+                    "porCategoria": {},
+                    "qtdSemDocumentoPdf": 0,
+                    "valorSemDocumentoPdf": 0.0,
+                    "qtdRecibosOutros": 0,
+                    "valorRecibosOutros": 0.0
+                },
+                "totaisAno": {},
+                "porMes": {}
+            }
+        return acc[dep_id]
+
+    for fp in aggregate_files:
+        # infer year/month from path: .../aggregates/YYYY/MM/totais_deputados.json
+        try:
+            parts = fp.parts
+            i = parts.index("aggregates")
+            year = int(parts[i+1])
+            month = int(parts[i+2])
+        except Exception:
+            year = None
+            month = None
+
+        obj = read_json(fp)
+        if not obj:
+            continue
+        rows = obj.get("data") or []
+        ym_key = None
+        if year and month:
+            ym_key = f"{year:04d}-{month:02d}"
+
+        for row in rows:
+            dep_id = row.get("id")
+            if dep_id is None:
+                continue
+            try:
+                dep_id = int(dep_id)
+            except Exception:
+                continue
+
+            a = ensure(dep_id)
+
+            # refresh identity fields if missing
+            a["nome"] = a.get("nome") or row.get("nome")
+            a["uf"] = a.get("uf") or row.get("uf")
+            a["partido"] = a.get("partido") or row.get("partido")
+            a["urlFoto"] = a.get("urlFoto") or row.get("urlFoto")
+
+            t = row.get("totais") or {}
+            total = float(t.get("total") or 0.0)
+            qtd = int(t.get("qtdLancamentos") or 0)
+
+            a["totaisMandato"]["total"] += total
+            a["totaisMandato"]["qtdLancamentos"] += qtd
+
+            # per-category sums
+            pc = t.get("porCategoria") or {}
+            dst_pc = a["totaisMandato"]["porCategoria"]
+            for k, v in pc.items():
+                dst_pc[k] = float(dst_pc.get(k) or 0.0) + float(v or 0.0)
+
+            # doc stats
+            a["totaisMandato"]["qtdSemDocumentoPdf"] += int(t.get("qtdSemDocumentoPdf") or 0)
+            a["totaisMandato"]["valorSemDocumentoPdf"] += float(t.get("valorSemDocumentoPdf") or 0.0)
+            a["totaisMandato"]["qtdRecibosOutros"] += int(t.get("qtdRecibosOutros") or 0)
+            a["totaisMandato"]["valorRecibosOutros"] += float(t.get("valorRecibosOutros") or 0.0)
+
+            if year is not None:
+                if year >= mandate_start_year:
+                    a["totaisAno"][str(year)] = float(a["totaisAno"].get(str(year)) or 0.0) + total
+
+            if ym_key:
+                a["porMes"][ym_key] = float(a["porMes"].get(ym_key) or 0.0) + total
+
+    # finalize rounding and compute derived fields
+    for dep_id, a in acc.items():
+        tm = a["totaisMandato"]
+        tm["total"] = round(tm["total"], 2)
+        tm["valorSemDocumentoPdf"] = round(tm["valorSemDocumentoPdf"], 2)
+        tm["valorRecibosOutros"] = round(tm["valorRecibosOutros"], 2)
+        tm["porCategoria"] = {k: round(float(v), 2) for k, v in (tm.get("porCategoria") or {}).items()}
+
+        a["totaisAno"] = {k: round(float(v), 2) for k, v in (a.get("totaisAno") or {}).items()}
+        a["porMes"] = {k: round(float(v), 2) for k, v in (a.get("porMes") or {}).items()}
+
+        # maiorCategoria
+        pc = tm.get("porCategoria") or {}
+        if pc:
+            cat, val = max(pc.items(), key=lambda kv: kv[1])
+            total = tm.get("total") or 0.0
+            pct = (float(val) / float(total) * 100.0) if total else 0.0
+            a["maiorCategoria"] = {"categoria": cat, "valor": round(float(val), 2), "pct": round(pct, 2)}
+        else:
+            a["maiorCategoria"] = None
+
+    return acc
+
+
+def write_resumos_deputados_mandato(
+    out_dir: Path,
+    deputados: List[dict],
+    aggregate_files: List[Path],
+    mandate_start_year: int
+) -> None:
+    deps_dir = out_dir / "federal/camara/resumos/deputados"
+    deps_dir.mkdir(parents=True, exist_ok=True)
+
+    resumos = build_resumos_deputados_from_monthlies(deputados, aggregate_files, mandate_start_year)
+
+    for dep_id, a in resumos.items():
+        obj = {
+            "meta": {
+                "escopo": "federal/camara",
+                "tipo": "resumo_deputado_mandato",
+                "id": dep_id,
+                "geradoEm": now_iso(),
+                "versaoSchema": "1.1.0"
+            },
+            "data": a
+        }
+        write_json(deps_dir / f"{dep_id}.json", obj)
+
+
 # ----------------------------
 # Main
 # ----------------------------
@@ -593,6 +763,10 @@ def main():
             write_json(out_dir / "federal/camara/rankings/mandato" / fname, obj)
         overview_mandato = build_overview_from_rows(rows_mandato, periodo_mandato, cmap)
         write_json(out_dir / "federal/camara/resumos/mandato/overview.json", overview_mandato)
+
+    # Resumos individuais (mandato) + índice universal
+    if mandate_files:
+        write_resumos_deputados_mandato(out_dir, deputados, mandate_files, mandate_start_year)
 
     write_resumos_index(out_dir)
 
