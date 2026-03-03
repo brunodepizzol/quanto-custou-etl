@@ -412,7 +412,10 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
             "top1Gasto": top1,
             "topCategorias": top_cats,
             "topUFs": top_ufs,
-            "agentesCo
+            "agentesConsiderados": len(ativos)
+        }
+    }
+
 # ----------------------------
 # Rankings by UF + checksums + manifest/methodology
 # ----------------------------
@@ -553,10 +556,6 @@ def write_rankings_by_uf(out_dir: Path, rows: List[dict], periodo_meta: dict, cm
         for fname, obj in rankings.items():
             write_json(base / safe_slug(uf) / fname, obj)
 
-
-nsiderados": len(ativos)
-        }
-    }
 
 # ----------------------------
 # Summation helpers (year / mandate) using stored aggregates
