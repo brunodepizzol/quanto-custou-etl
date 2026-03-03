@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ALIMENTACAO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.046062Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220613,
+      "nome": "Roberto Monteiro Pai",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 1389.44,
+      "qtdLancamentos": 44
+    },
+    {
+      "id": 220599,
+      "nome": "Marcelo Crivella",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 1193.97,
+      "qtdLancamentos": 37
+    },
+    {
+      "id": 74856,
+      "nome": "Laura Carneiro",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 245.0,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 178943,
+      "nome": "Marcos Soares",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 218.09,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 220605,
+      "nome": "Bandeira de Mello",
+      "uf": "RJ",
+      "partido": "PSB",
+      "valor": 180.05,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 220604,
+      "nome": "Marcos Tavares",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 111.0,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 74171,
+      "nome": "Chico Alencar",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 74.0,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 178937,
+      "nome": "Altineu Côrtes",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 160512,
+      "nome": "Aureo Ribeiro",
+      "uf": "RJ",
+      "partido": "SOLIDARIEDADE",
+      "valor": 0.0,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 220612,
+      "nome": "Bebeto",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 0.0,
+      "qtdLancamentos": 21
+    }
+  ]
+}

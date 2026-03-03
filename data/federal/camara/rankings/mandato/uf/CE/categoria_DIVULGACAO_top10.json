@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "CE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.349064Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178997,
+      "nome": "Moses Rodrigues",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "valor": 1445500.0,
+      "qtdLancamentos": 627
+    },
+    {
+      "id": 74454,
+      "nome": "Eunício Oliveira",
+      "uf": "CE",
+      "partido": "MDB",
+      "valor": 1372173.49,
+      "qtdLancamentos": 197
+    },
+    {
+      "id": 220658,
+      "nome": "Luiz Gastão",
+      "uf": "CE",
+      "partido": "PSD",
+      "valor": 1060414.46,
+      "qtdLancamentos": 704
+    },
+    {
+      "id": 204488,
+      "nome": "Célio Studart",
+      "uf": "CE",
+      "partido": "PSD",
+      "valor": 988852.21,
+      "qtdLancamentos": 642
+    },
+    {
+      "id": 204481,
+      "nome": "Dr. Jaziel",
+      "uf": "CE",
+      "partido": "PL",
+      "valor": 879777.16,
+      "qtdLancamentos": 696
+    },
+    {
+      "id": 143632,
+      "nome": "Domingos Neto",
+      "uf": "CE",
+      "partido": "PSD",
+      "valor": 834650.0,
+      "qtdLancamentos": 449
+    },
+    {
+      "id": 204550,
+      "nome": "Júnior Mano",
+      "uf": "CE",
+      "partido": "PSB",
+      "valor": 765814.29,
+      "qtdLancamentos": 615
+    },
+    {
+      "id": 204486,
+      "nome": "Mauro Benevides Filho",
+      "uf": "CE",
+      "partido": "PDT",
+      "valor": 715749.49,
+      "qtdLancamentos": 634
+    },
+    {
+      "id": 178866,
+      "nome": "Luizianne Lins",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 706664.39,
+      "qtdLancamentos": 1238
+    },
+    {
+      "id": 62881,
+      "nome": "Danilo Forte",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "valor": 683797.98,
+      "qtdLancamentos": 1555
+    }
+  ]
+}

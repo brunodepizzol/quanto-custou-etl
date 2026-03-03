@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.016369Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74273,
+      "nome": "Jefferson Campos",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 18823.64,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 178975,
+      "nome": "Baleia Rossi",
+      "uf": "SP",
+      "partido": "MDB",
+      "valor": 18777.8,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 178992,
+      "nome": "Vitor Lippi",
+      "uf": "SP",
+      "partido": "PSDB",
+      "valor": 18163.86,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 17567.5,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 220641,
+      "nome": "Rodrigo Gambale",
+      "uf": "SP",
+      "partido": "PODE",
+      "valor": 15356.37,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 141391,
+      "nome": "Arnaldo Jardim",
+      "uf": "SP",
+      "partido": "CIDADANIA",
+      "valor": 15000.0,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 204525,
+      "nome": "Rosana Valle",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 14872.42,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 220652,
+      "nome": "Delegado Palumbo",
+      "uf": "SP",
+      "partido": "MDB",
+      "valor": 14101.52,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 204534,
+      "nome": "Tabata Amaral",
+      "uf": "SP",
+      "partido": "PSB",
+      "valor": 11695.98,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 204535,
+      "nome": "Sâmia Bomfim",
+      "uf": "SP",
+      "partido": "PSOL",
+      "valor": 11650.0,
+      "qtdLancamentos": 7
+    }
+  ]
+}

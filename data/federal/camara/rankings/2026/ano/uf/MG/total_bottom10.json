@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.454574Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204520,
+      "nome": "Junio Amaral",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 1428.03,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 204515,
+      "nome": "André Janones",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 7805.96,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 204539,
+      "nome": "Hercílio Coelho Diniz",
+      "uf": "MG",
+      "partido": "MDB",
+      "valor": 8804.71,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 220629,
+      "nome": "Dandara",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 11560.7,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 204491,
+      "nome": "Gilberto Abramo",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 15393.17,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 74161,
+      "nome": "Reginaldo Lopes",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 17085.03,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 160510,
+      "nome": "Luis Tibé",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 18348.23,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 141516,
+      "nome": "Paulo Abi-Ackel",
+      "uf": "MG",
+      "partido": "PSDB",
+      "valor": 19940.26,
+      "qtdLancamentos": 39
+    },
+    {
+      "id": 74646,
+      "nome": "Aécio Neves",
+      "uf": "MG",
+      "partido": "PSDB",
+      "valor": 19972.01,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 204482,
+      "nome": "Euclydes Pettersen",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 22392.0,
+      "qtdLancamentos": 7
+    }
+  ]
+}

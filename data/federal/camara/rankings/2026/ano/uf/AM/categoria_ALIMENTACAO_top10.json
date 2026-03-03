@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ALIMENTACAO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "AM"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.445591Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220714,
+      "nome": "Adail Filho",
+      "uf": "AM",
+      "partido": "REPUBLICANOS",
+      "valor": 0.0,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 74090,
+      "nome": "Átila Lins",
+      "uf": "AM",
+      "partido": "PSD",
+      "valor": 0.0,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 204572,
+      "nome": "Capitão Alberto Neto",
+      "uf": "AM",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 220712,
+      "nome": "Fausto Jr.",
+      "uf": "AM",
+      "partido": "UNIÃO",
+      "valor": 0.0,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 74095,
+      "nome": "Pauderney Avelino",
+      "uf": "AM",
+      "partido": "UNIÃO",
+      "valor": 0.0,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 204557,
+      "nome": "Sidney Leite",
+      "uf": "AM",
+      "partido": "PSD",
+      "valor": 0.0,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 74356,
+      "nome": "Silas Câmara",
+      "uf": "AM",
+      "partido": "REPUBLICANOS",
+      "valor": 0.0,
+      "qtdLancamentos": 4
+    }
+  ]
+}

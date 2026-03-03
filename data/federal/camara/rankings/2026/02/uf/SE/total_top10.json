@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.813057Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220561,
+      "nome": "Delegada Katarina",
+      "uf": "SE",
+      "partido": "PSD",
+      "valor": 22520.0,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 178970,
+      "nome": "João Daniel",
+      "uf": "SE",
+      "partido": "PT",
+      "valor": 13600.97,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 220563,
+      "nome": "Icaro de Valmir",
+      "uf": "SE",
+      "partido": "PL",
+      "valor": 10838.21,
+      "qtdLancamentos": 14
+    },
+    {
+      "id": 171623,
+      "nome": "Fabio Reis",
+      "uf": "SE",
+      "partido": "PSD",
+      "valor": 10028.47,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 220560,
+      "nome": "Thiago de Joaldo",
+      "uf": "SE",
+      "partido": "PP",
+      "valor": 2305.57,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 220564,
+      "nome": "Yandra Moura",
+      "uf": "SE",
+      "partido": "UNIÃO",
+      "valor": 1300.0,
+      "qtdLancamentos": 2
+    }
+  ]
+}

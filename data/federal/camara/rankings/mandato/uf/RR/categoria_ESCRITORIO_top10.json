@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.353180Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 224117,
+      "nome": "Gabriel Mota",
+      "uf": "RR",
+      "partido": "REPUBLICANOS",
+      "valor": 842302.17,
+      "qtdLancamentos": 222
+    },
+    {
+      "id": 220536,
+      "nome": "Zé Haroldo Cathedral",
+      "uf": "RR",
+      "partido": "PSD",
+      "valor": 294615.9,
+      "qtdLancamentos": 722
+    },
+    {
+      "id": 220539,
+      "nome": "Defensor Stélio Dener",
+      "uf": "RR",
+      "partido": "REPUBLICANOS",
+      "valor": 277129.57,
+      "qtdLancamentos": 608
+    },
+    {
+      "id": 204479,
+      "nome": "Nicoletti",
+      "uf": "RR",
+      "partido": "UNIÃO",
+      "valor": 264815.65,
+      "qtdLancamentos": 1549
+    },
+    {
+      "id": 220537,
+      "nome": "Helena Lima",
+      "uf": "RR",
+      "partido": "MDB",
+      "valor": 263540.99,
+      "qtdLancamentos": 1310
+    },
+    {
+      "id": 180214,
+      "nome": "Pastor Diniz",
+      "uf": "RR",
+      "partido": "UNIÃO",
+      "valor": 201120.74,
+      "qtdLancamentos": 669
+    },
+    {
+      "id": 220540,
+      "nome": "Duda Ramos",
+      "uf": "RR",
+      "partido": "MDB",
+      "valor": 104937.57,
+      "qtdLancamentos": 692
+    },
+    {
+      "id": 220538,
+      "nome": "Albuquerque",
+      "uf": "RR",
+      "partido": "REPUBLICANOS",
+      "valor": 43766.8,
+      "qtdLancamentos": 655
+    }
+  ]
+}

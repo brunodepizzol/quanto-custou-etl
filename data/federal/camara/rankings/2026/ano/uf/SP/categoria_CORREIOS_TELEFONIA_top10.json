@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.447653Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 73433,
+      "nome": "Arlindo Chinaglia",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 3240.78,
+      "qtdLancamentos": 50
+    },
+    {
+      "id": 74784,
+      "nome": "Luiza Erundina",
+      "uf": "SP",
+      "partido": "PSOL",
+      "valor": 2572.4,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 178829,
+      "nome": "Capitão Augusto",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 2400.0,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 74262,
+      "nome": "Carlos Sampaio",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 2369.18,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 220650,
+      "nome": "Paulo Alexandre Barbosa",
+      "uf": "SP",
+      "partido": "PSDB",
+      "valor": 2129.7,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 204525,
+      "nome": "Rosana Valle",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 1581.5,
+      "qtdLancamentos": 55
+    },
+    {
+      "id": 204504,
+      "nome": "Cezinha de Madureira",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 1296.8,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 204528,
+      "nome": "Adriana Ventura",
+      "uf": "SP",
+      "partido": "NOVO",
+      "valor": 1075.98,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 178986,
+      "nome": "Nilto Tatto",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 1048.64,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 204511,
+      "nome": "David Soares",
+      "uf": "SP",
+      "partido": "UNIÃO",
+      "valor": 1042.36,
+      "qtdLancamentos": 46
+    }
+  ]
+}

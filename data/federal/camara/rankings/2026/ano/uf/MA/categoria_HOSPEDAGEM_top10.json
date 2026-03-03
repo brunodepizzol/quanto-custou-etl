@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.480681Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178884,
+      "nome": "Hildo Rocha",
+      "uf": "MA",
+      "partido": "MDB",
+      "valor": 4725.4,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 178881,
+      "nome": "Aluisio Mendes",
+      "uf": "MA",
+      "partido": "REPUBLICANOS",
+      "valor": 2505.0,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 226708,
+      "nome": "Allan Garcês",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 2384.11,
+      "qtdLancamentos": 37
+    },
+    {
+      "id": 122974,
+      "nome": "Pedro Lucas Fernandes",
+      "uf": "MA",
+      "partido": "UNIÃO",
+      "valor": 995.0,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 220707,
+      "nome": "Amanda Gentil",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 0.0,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 141408,
+      "nome": "Cleber Verde",
+      "uf": "MA",
+      "partido": "MDB",
+      "valor": 0.0,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 220686,
+      "nome": "Duarte Jr.",
+      "uf": "MA",
+      "partido": "PSB",
+      "valor": 0.0,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 215043,
+      "nome": "Josivaldo JP",
+      "uf": "MA",
+      "partido": "PSD",
+      "valor": 0.0,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 220687,
+      "nome": "Márcio Honaiser",
+      "uf": "MA",
+      "partido": "PDT",
+      "valor": 0.0,
+      "qtdLancamentos": 25
+    },
+    {
+      "id": 81055,
+      "nome": "Márcio Jerry",
+      "uf": "MA",
+      "partido": "PCdoB",
+      "valor": 0.0,
+      "qtdLancamentos": 33
+    }
+  ]
+}

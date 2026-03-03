@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "TO"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.355052Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178993,
+      "nome": "Carlos Henrique Gaguim",
+      "uf": "TO",
+      "partido": "UNIÃO",
+      "valor": 292084.43,
+      "qtdLancamentos": 1439
+    },
+    {
+      "id": 204364,
+      "nome": "Eli Borges",
+      "uf": "TO",
+      "partido": "PL",
+      "valor": 263846.7,
+      "qtdLancamentos": 1400
+    },
+    {
+      "id": 220544,
+      "nome": "Antonio Andrade",
+      "uf": "TO",
+      "partido": "REPUBLICANOS",
+      "valor": 254135.93,
+      "qtdLancamentos": 800
+    },
+    {
+      "id": 220542,
+      "nome": "Alexandre Guimarães",
+      "uf": "TO",
+      "partido": "MDB",
+      "valor": 168341.42,
+      "qtdLancamentos": 1079
+    },
+    {
+      "id": 220545,
+      "nome": "Filipe Martins",
+      "uf": "TO",
+      "partido": "PL",
+      "valor": 152444.7,
+      "qtdLancamentos": 966
+    },
+    {
+      "id": 220543,
+      "nome": "Ricardo Ayres",
+      "uf": "TO",
+      "partido": "REPUBLICANOS",
+      "valor": 120682.77,
+      "qtdLancamentos": 1618
+    },
+    {
+      "id": 143084,
+      "nome": "Tiago Dimas",
+      "uf": "TO",
+      "partido": "PODE",
+      "valor": 41625.85,
+      "qtdLancamentos": 263
+    },
+    {
+      "id": 137070,
+      "nome": "Vicentinho Júnior",
+      "uf": "TO",
+      "partido": "PP",
+      "valor": 5712.27,
+      "qtdLancamentos": 413
+    }
+  ]
+}

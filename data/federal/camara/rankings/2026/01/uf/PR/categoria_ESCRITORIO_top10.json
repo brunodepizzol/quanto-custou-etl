@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.041994Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220701,
+      "nome": "Delegado Matheus Laiola",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 15130.02,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 220684,
+      "nome": "Tião Medeiros",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 13759.73,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 220704,
+      "nome": "Carol Dartora",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 13552.85,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 231911,
+      "nome": "Lenir de Assis",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 13188.28,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 204411,
+      "nome": "Filipe Barros",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 13105.72,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 204410,
+      "nome": "Luisa Canziani",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 12366.24,
+      "qtdLancamentos": 14
+    },
+    {
+      "id": 223128,
+      "nome": "Rodrigo Estacho",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 9156.56,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 178933,
+      "nome": "Sergio Souza",
+      "uf": "PR",
+      "partido": "MDB",
+      "valor": 8141.45,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 178929,
+      "nome": "Diego Garcia",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 7636.59,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 220702,
+      "nome": "Geraldo Mendes",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 7600.0,
+      "qtdLancamentos": 12
+    }
+  ]
+}

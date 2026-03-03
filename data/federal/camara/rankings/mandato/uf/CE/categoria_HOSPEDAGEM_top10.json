@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "CE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.349103Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 62881,
+      "nome": "Danilo Forte",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "valor": 67276.52,
+      "qtdLancamentos": 1555
+    },
+    {
+      "id": 141470,
+      "nome": "José Guimarães",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 50766.7,
+      "qtdLancamentos": 1972
+    },
+    {
+      "id": 204549,
+      "nome": "AJ Albuquerque",
+      "uf": "CE",
+      "partido": "PP",
+      "valor": 40046.0,
+      "qtdLancamentos": 738
+    },
+    {
+      "id": 220661,
+      "nome": "Matheus Noronha",
+      "uf": "CE",
+      "partido": "PL",
+      "valor": 19632.47,
+      "qtdLancamentos": 735
+    },
+    {
+      "id": 141464,
+      "nome": "José Airton Félix Cirilo",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 17098.0,
+      "qtdLancamentos": 539
+    },
+    {
+      "id": 178866,
+      "nome": "Luizianne Lins",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 16440.58,
+      "qtdLancamentos": 1238
+    },
+    {
+      "id": 133439,
+      "nome": "André Figueiredo",
+      "uf": "CE",
+      "partido": "PDT",
+      "valor": 13970.68,
+      "qtdLancamentos": 1091
+    },
+    {
+      "id": 178997,
+      "nome": "Moses Rodrigues",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "valor": 4952.39,
+      "qtdLancamentos": 627
+    },
+    {
+      "id": 225730,
+      "nome": "Enfermeira Ana Paula",
+      "uf": "CE",
+      "partido": "PODE",
+      "valor": 4394.44,
+      "qtdLancamentos": 466
+    },
+    {
+      "id": 204486,
+      "nome": "Mauro Benevides Filho",
+      "uf": "CE",
+      "partido": "PDT",
+      "valor": 4358.75,
+      "qtdLancamentos": 634
+    }
+  ]
+}

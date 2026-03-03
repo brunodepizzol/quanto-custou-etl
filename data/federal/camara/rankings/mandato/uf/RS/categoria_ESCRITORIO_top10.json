@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.342618Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74398,
+      "nome": "Maria do Rosário",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 659413.63,
+      "qtdLancamentos": 3794
+    },
+    {
+      "id": 220555,
+      "nome": "Daiana Santos",
+      "uf": "RS",
+      "partido": "PCdoB",
+      "valor": 518073.34,
+      "qtdLancamentos": 1130
+    },
+    {
+      "id": 204409,
+      "nome": "Daniel Trzeciak",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 496548.02,
+      "qtdLancamentos": 1990
+    },
+    {
+      "id": 160673,
+      "nome": "Giovani Cherini",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 478641.3,
+      "qtdLancamentos": 2224
+    },
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 462620.94,
+      "qtdLancamentos": 2470
+    },
+    {
+      "id": 220553,
+      "nome": "Denise Pessôa",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 417744.62,
+      "qtdLancamentos": 5170
+    },
+    {
+      "id": 204404,
+      "nome": "Lucas Redecker",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 417420.06,
+      "qtdLancamentos": 2423
+    },
+    {
+      "id": 160538,
+      "nome": "Bohn Gass",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 391156.99,
+      "qtdLancamentos": 3184
+    },
+    {
+      "id": 204388,
+      "nome": "Bibo Nunes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 382748.41,
+      "qtdLancamentos": 2821
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 369914.5,
+      "qtdLancamentos": 3076
+    }
+  ]
+}

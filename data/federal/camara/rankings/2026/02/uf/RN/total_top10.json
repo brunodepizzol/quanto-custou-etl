@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RN"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.803656Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 141459,
+      "nome": "João Maia",
+      "uf": "RN",
+      "partido": "PP",
+      "valor": 57616.68,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 213762,
+      "nome": "Carla Dickson",
+      "uf": "RN",
+      "partido": "UNIÃO",
+      "valor": 20878.19,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 17184.21,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 109429,
+      "nome": "Benes Leocádio",
+      "uf": "RN",
+      "partido": "UNIÃO",
+      "valor": 16552.61,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 204445,
+      "nome": "Fernando Mineiro",
+      "uf": "RN",
+      "partido": "PT",
+      "valor": 11266.84,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 220624,
+      "nome": "Robinson Faria",
+      "uf": "RN",
+      "partido": "PP",
+      "valor": 8987.78,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 204453,
+      "nome": "Natália Bonavides",
+      "uf": "RN",
+      "partido": "PT",
+      "valor": 1178.12,
+      "qtdLancamentos": 1
+    }
+  ]
+}

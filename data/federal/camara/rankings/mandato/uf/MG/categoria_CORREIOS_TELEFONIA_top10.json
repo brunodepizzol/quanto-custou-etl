@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.340100Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 160758,
+      "nome": "Domingos Sávio",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 66845.18,
+      "qtdLancamentos": 1850
+    },
+    {
+      "id": 74159,
+      "nome": "Odair Cunha",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 62416.28,
+      "qtdLancamentos": 2519
+    },
+    {
+      "id": 160510,
+      "nome": "Luis Tibé",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 61391.8,
+      "qtdLancamentos": 1321
+    },
+    {
+      "id": 107970,
+      "nome": "Ana Paula Leão",
+      "uf": "MG",
+      "partido": "PP",
+      "valor": 54468.41,
+      "qtdLancamentos": 1858
+    },
+    {
+      "id": 92776,
+      "nome": "Stefano Aguiar",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 46529.17,
+      "qtdLancamentos": 1246
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 39671.58,
+      "qtdLancamentos": 1358
+    },
+    {
+      "id": 204480,
+      "nome": "Rogério Correia",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 35016.26,
+      "qtdLancamentos": 2497
+    },
+    {
+      "id": 141516,
+      "nome": "Paulo Abi-Ackel",
+      "uf": "MG",
+      "partido": "PSDB",
+      "valor": 33796.68,
+      "qtdLancamentos": 2096
+    },
+    {
+      "id": 198197,
+      "nome": "Greyce Elias",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 30654.35,
+      "qtdLancamentos": 2557
+    },
+    {
+      "id": 179000,
+      "nome": "Marcelo Álvaro Antônio",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 29352.25,
+      "qtdLancamentos": 1713
+    }
+  ]
+}

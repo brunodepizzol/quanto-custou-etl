@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.023282Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 92776,
+      "nome": "Stefano Aguiar",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 19267.46,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 204508,
+      "nome": "Igor Timo",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 18501.32,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 107970,
+      "nome": "Ana Paula Leão",
+      "uf": "MG",
+      "partido": "PP",
+      "valor": 16056.35,
+      "qtdLancamentos": 32
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 15972.93,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 14584.2,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 178895,
+      "nome": "Misael Varella",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 14043.4,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 141487,
+      "nome": "Luiz Fernando Faria",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 13489.2,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 74646,
+      "nome": "Aécio Neves",
+      "uf": "MG",
+      "partido": "PSDB",
+      "valor": 13264.42,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 220632,
+      "nome": "Ana Pimentel",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 11998.91,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 160556,
+      "nome": "Padre João",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 10732.12,
+      "qtdLancamentos": 19
+    }
+  ]
+}

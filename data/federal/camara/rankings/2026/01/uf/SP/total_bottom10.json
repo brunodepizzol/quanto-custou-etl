@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.016038Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178983,
+      "nome": "Marcio Alvino",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 1993.64,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 204528,
+      "nome": "Adriana Ventura",
+      "uf": "SP",
+      "partido": "NOVO",
+      "valor": 4052.65,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 234310,
+      "nome": "Ricardo Galvão",
+      "uf": "SP",
+      "partido": "REDE",
+      "valor": 5026.88,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 73441,
+      "nome": "Celso Russomanno",
+      "uf": "SP",
+      "partido": "REPUBLICANOS",
+      "valor": 5653.6,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 141555,
+      "nome": "Vinicius Carvalho",
+      "uf": "SP",
+      "partido": "REPUBLICANOS",
+      "valor": 7310.66,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 73433,
+      "nome": "Arlindo Chinaglia",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 10747.26,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 221338,
+      "nome": "Professora Luciene Cavalcante",
+      "uf": "SP",
+      "partido": "PSOL",
+      "valor": 12808.22,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 73604,
+      "nome": "Rui Falcão",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 14573.13,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 74283,
+      "nome": "Vicentinho",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 16406.39,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 220653,
+      "nome": "Fábio Teruel",
+      "uf": "SP",
+      "partido": "MDB",
+      "valor": 16441.52,
+      "qtdLancamentos": 23
+    }
+  ]
+}

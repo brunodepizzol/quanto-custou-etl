@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SC"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.487296Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220558,
+      "nome": "Zé Trovão",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 30648.52,
+      "qtdLancamentos": 46
+    },
+    {
+      "id": 204367,
+      "nome": "Daniel Freitas",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 16150.41,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 214694,
+      "nome": "Jorge Goetten",
+      "uf": "SC",
+      "partido": "REPUBLICANOS",
+      "valor": 10698.0,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 204362,
+      "nome": "Ricardo Guidi",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 10295.65,
+      "qtdLancamentos": 69
+    },
+    {
+      "id": 161440,
+      "nome": "Pezenti",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 9658.71,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 160604,
+      "nome": "Pedro Uczai",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 8587.0,
+      "qtdLancamentos": 103
+    },
+    {
+      "id": 178966,
+      "nome": "Geovania de Sá",
+      "uf": "SC",
+      "partido": "PSDB",
+      "valor": 8159.75,
+      "qtdLancamentos": 55
+    },
+    {
+      "id": 98148,
+      "nome": "Cobalchini",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 6329.54,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 220557,
+      "nome": "Daniela Reinehr",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 5378.81,
+      "qtdLancamentos": 60
+    },
+    {
+      "id": 220556,
+      "nome": "Ana Paula Lima",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 4737.38,
+      "qtdLancamentos": 45
+    }
+  ]
+}

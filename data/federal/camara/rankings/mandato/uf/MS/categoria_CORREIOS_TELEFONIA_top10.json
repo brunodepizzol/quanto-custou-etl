@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.378770Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 141411,
+      "nome": "Dagoberto Nogueira",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 63386.02,
+      "qtdLancamentos": 872
+    },
+    {
+      "id": 204358,
+      "nome": "Beto Pereira",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 30402.39,
+      "qtdLancamentos": 788
+    },
+    {
+      "id": 220546,
+      "nome": "Rodolfo Nogueira",
+      "uf": "MS",
+      "partido": "PL",
+      "valor": 29497.0,
+      "qtdLancamentos": 1174
+    },
+    {
+      "id": 220548,
+      "nome": "Camila Jara",
+      "uf": "MS",
+      "partido": "PT",
+      "valor": 15317.37,
+      "qtdLancamentos": 1615
+    },
+    {
+      "id": 74376,
+      "nome": "Vander Loubet",
+      "uf": "MS",
+      "partido": "PT",
+      "valor": 9495.23,
+      "qtdLancamentos": 1467
+    },
+    {
+      "id": 204351,
+      "nome": "Dr. Luiz Ovando",
+      "uf": "MS",
+      "partido": "PP",
+      "valor": 6533.05,
+      "qtdLancamentos": 1963
+    },
+    {
+      "id": 220547,
+      "nome": "Marcos Pollon",
+      "uf": "MS",
+      "partido": "PL",
+      "valor": 4578.59,
+      "qtdLancamentos": 893
+    },
+    {
+      "id": 74374,
+      "nome": "Geraldo Resende",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 1488.08,
+      "qtdLancamentos": 565
+    }
+  ]
+}

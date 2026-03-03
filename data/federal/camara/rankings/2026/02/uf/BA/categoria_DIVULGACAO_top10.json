@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "BA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.765758Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 32004.5,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 220690,
+      "nome": "Capitão Alden",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 30000.0,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 205476,
+      "nome": "Charles Fernandes",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 28900.0,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 69871,
+      "nome": "Bacelar",
+      "uf": "BA",
+      "partido": "PV",
+      "valor": 17000.0,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 229585,
+      "nome": "Elisangela Araujo",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 14000.0,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 220703,
+      "nome": "Neto Carletto",
+      "uf": "BA",
+      "partido": "AVANTE",
+      "valor": 13000.0,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 92102,
+      "nome": "Leur Lomanto Júnior",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 12300.0,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 74550,
+      "nome": "João Leão",
+      "uf": "BA",
+      "partido": "PP",
+      "valor": 12000.0,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 139285,
+      "nome": "Lídice da Mata",
+      "uf": "BA",
+      "partido": "PSB",
+      "valor": 11500.0,
+      "qtdLancamentos": 49
+    },
+    {
+      "id": 209189,
+      "nome": "Joseildo Ramos",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 10800.0,
+      "qtdLancamentos": 17
+    }
+  ]
+}

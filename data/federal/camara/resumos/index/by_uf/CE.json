@@ -1,0 +1,605 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "resumo_index_deputados",
+    "geradoEm": "2026-03-03T15:34:13.276573Z",
+    "versaoSchema": "1.1.0",
+    "mandatoInicioAno": 2023,
+    "mandatoFimAno": 2026,
+    "shard": {
+      "tipo": "uf",
+      "valor": "CE"
+    }
+  },
+  "data": [
+    {
+      "id": 204549,
+      "nome": "AJ Albuquerque",
+      "uf": "CE",
+      "partido": "PP",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
+      "totalMandato": 1034196.95,
+      "totaisAno": {
+        "2023": 267980.4,
+        "2024": 417461.62,
+        "2025": 332190.92,
+        "2026": 16564.01
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.533615,
+        "picoMes": "2024-03",
+        "picoValor": 78029.3,
+        "fornecedorTop1Pct": 0.011603,
+        "fornecedorTop3Pct": 0.01342,
+        "fornecedorHHI": 0.000137,
+        "categoriaDominante": "OUTROS",
+        "categoriaDominantePct": 0.337182,
+        "semDocumentoPct": 0.188046,
+        "recibosOutrosPct": 0.308609
+      },
+      "flags": [
+        "high_receipts_other"
+      ]
+    },
+    {
+      "id": 220657,
+      "nome": "André Fernandes",
+      "uf": "CE",
+      "partido": "PL",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220657.jpg",
+      "totalMandato": 909801.56,
+      "totaisAno": {
+        "2023": 309814.89,
+        "2024": 206494.53,
+        "2025": 377287.42,
+        "2026": 16204.72
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.527482,
+        "picoMes": "2025-10",
+        "picoValor": 56806.73,
+        "fornecedorTop1Pct": 0.009563,
+        "fornecedorTop3Pct": 0.015471,
+        "fornecedorHHI": 0.000111,
+        "categoriaDominante": "PASSAGENS",
+        "categoriaDominantePct": 0.303003,
+        "semDocumentoPct": 0.329114,
+        "recibosOutrosPct": 0.119873
+      },
+      "flags": [
+        "high_without_pdf"
+      ]
+    },
+    {
+      "id": 133439,
+      "nome": "André Figueiredo",
+      "uf": "CE",
+      "partido": "PDT",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/133439.jpg",
+      "totalMandato": 1606743.64,
+      "totaisAno": {
+        "2023": 501519.85,
+        "2024": 516378.76,
+        "2025": 551504.16,
+        "2026": 37340.87
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.288539,
+        "picoMes": "2023-08",
+        "picoValor": 59751.25,
+        "fornecedorTop1Pct": 0.00965,
+        "fornecedorTop3Pct": 0.019039,
+        "fornecedorHHI": 0.000146,
+        "categoriaDominante": "OUTROS",
+        "categoriaDominantePct": 0.24898,
+        "semDocumentoPct": 0.317737,
+        "recibosOutrosPct": 0.176881
+      },
+      "flags": [
+        "high_without_pdf"
+      ]
+    },
+    {
+      "id": 204488,
+      "nome": "Célio Studart",
+      "uf": "CE",
+      "partido": "PSD",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204488.jpg",
+      "totalMandato": 1617975.31,
+      "totaisAno": {
+        "2023": 436685.22,
+        "2024": 540527.13,
+        "2025": 567972.06,
+        "2026": 72790.9
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.236644,
+        "picoMes": "2023-05",
+        "picoValor": 59266.56,
+        "fornecedorTop1Pct": 0.012361,
+        "fornecedorTop3Pct": 0.028654,
+        "fornecedorHHI": 0.000356,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.611166,
+        "semDocumentoPct": 0.267855,
+        "recibosOutrosPct": 0.097348
+      },
+      "flags": []
+    },
+    {
+      "id": 62881,
+      "nome": "Danilo Forte",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/62881.jpg",
+      "totalMandato": 1649493.91,
+      "totaisAno": {
+        "2023": 536564.48,
+        "2024": 573261.5,
+        "2025": 517388.35,
+        "2026": 22279.58
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.433456,
+        "picoMes": "2023-12",
+        "picoValor": 118002.09,
+        "fornecedorTop1Pct": 0.003941,
+        "fornecedorTop3Pct": 0.008403,
+        "fornecedorHHI": 2.8e-05,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.41455,
+        "semDocumentoPct": 0.189142,
+        "recibosOutrosPct": 0.183181
+      },
+      "flags": []
+    },
+    {
+      "id": 143632,
+      "nome": "Domingos Neto",
+      "uf": "CE",
+      "partido": "PSD",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
+      "totalMandato": 1718884.74,
+      "totaisAno": {
+        "2023": 525542.78,
+        "2024": 576319.79,
+        "2025": 542798.13,
+        "2026": 74224.04
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.294974,
+        "picoMes": "2024-01",
+        "picoValor": 83408.23,
+        "fornecedorTop1Pct": 0.034325,
+        "fornecedorTop3Pct": 0.042018,
+        "fornecedorHHI": 0.001218,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.485576,
+        "semDocumentoPct": 0.201238,
+        "recibosOutrosPct": 0.249665
+      },
+      "flags": []
+    },
+    {
+      "id": 204481,
+      "nome": "Dr. Jaziel",
+      "uf": "CE",
+      "partido": "PL",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204481.jpg",
+      "totalMandato": 1684234.39,
+      "totaisAno": {
+        "2023": 498673.31,
+        "2024": 577801.71,
+        "2025": 565688.37,
+        "2026": 42071.0
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.262226,
+        "picoMes": "2023-12",
+        "picoValor": 74354.4,
+        "fornecedorTop1Pct": 0.003562,
+        "fornecedorTop3Pct": 0.009552,
+        "fornecedorHHI": 5.6e-05,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.52236,
+        "semDocumentoPct": 0.259753,
+        "recibosOutrosPct": 0.217887
+      },
+      "flags": []
+    },
+    {
+      "id": 225730,
+      "nome": "Enfermeira Ana Paula",
+      "uf": "CE",
+      "partido": "PODE",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/225730.jpg",
+      "totalMandato": 716107.61,
+      "totaisAno": {
+        "2023": 192780.18,
+        "2024": 0.0,
+        "2025": 499809.07,
+        "2026": 23518.36
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.344915,
+        "picoMes": "2023-06",
+        "picoValor": 60534.68,
+        "fornecedorTop1Pct": 0.027929,
+        "fornecedorTop3Pct": 0.029731,
+        "fornecedorHHI": 0.000783,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.432983,
+        "semDocumentoPct": 0.137389,
+        "recibosOutrosPct": 0.32935
+      },
+      "flags": [
+        "high_receipts_other"
+      ]
+    },
+    {
+      "id": 74454,
+      "nome": "Eunício Oliveira",
+      "uf": "CE",
+      "partido": "MDB",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74454.jpg",
+      "totalMandato": 1600896.97,
+      "totaisAno": {
+        "2023": 530004.02,
+        "2024": 590671.05,
+        "2025": 387008.9,
+        "2026": 93213.0
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.371817,
+        "picoMes": "2023-12",
+        "picoValor": 126683.25,
+        "fornecedorTop1Pct": 0.046849,
+        "fornecedorTop3Pct": 0.058225,
+        "fornecedorHHI": 0.002324,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.857128,
+        "semDocumentoPct": 0.026635,
+        "recibosOutrosPct": 0.00045
+      },
+      "flags": [
+        "category_dominant"
+      ]
+    },
+    {
+      "id": 141464,
+      "nome": "José Airton Félix Cirilo",
+      "uf": "CE",
+      "partido": "PT",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141464.jpg",
+      "totalMandato": 1549548.69,
+      "totaisAno": {
+        "2023": 503405.43,
+        "2024": 516916.54,
+        "2025": 485334.72,
+        "2026": 43892.0
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.402428,
+        "picoMes": "2025-02",
+        "picoValor": 91299.05,
+        "fornecedorTop1Pct": 0.015488,
+        "fornecedorTop3Pct": 0.023808,
+        "fornecedorHHI": 0.000289,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.272901,
+        "semDocumentoPct": 0.396804,
+        "recibosOutrosPct": 0.07325
+      },
+      "flags": [
+        "high_without_pdf"
+      ]
+    },
+    {
+      "id": 141470,
+      "nome": "José Guimarães",
+      "uf": "CE",
+      "partido": "PT",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141470.jpg",
+      "totalMandato": 1696413.46,
+      "totaisAno": {
+        "2023": 545548.19,
+        "2024": 562964.94,
+        "2025": 543932.9,
+        "2026": 43967.43
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.319731,
+        "picoMes": "2023-12",
+        "picoValor": 87040.03,
+        "fornecedorTop1Pct": 0.010051,
+        "fornecedorTop3Pct": 0.014531,
+        "fornecedorHHI": 0.000123,
+        "categoriaDominante": "ESCRITORIO",
+        "categoriaDominantePct": 0.307631,
+        "semDocumentoPct": 0.275413,
+        "recibosOutrosPct": 0.241158
+      },
+      "flags": []
+    },
+    {
+      "id": 204550,
+      "nome": "Júnior Mano",
+      "uf": "CE",
+      "partido": "PSB",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204550.jpg",
+      "totalMandato": 1491223.3,
+      "totaisAno": {
+        "2023": 574869.78,
+        "2024": 409662.61,
+        "2025": 490635.98,
+        "2026": 16054.93
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.559978,
+        "picoMes": "2023-12",
+        "picoValor": 88025.71,
+        "fornecedorTop1Pct": 0.005267,
+        "fornecedorTop3Pct": 0.009425,
+        "fornecedorHHI": 3.8e-05,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.513548,
+        "semDocumentoPct": 0.226675,
+        "recibosOutrosPct": 0.098409
+      },
+      "flags": []
+    },
+    {
+      "id": 74299,
+      "nome": "Leônidas Cristino",
+      "uf": "CE",
+      "partido": "PDT",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74299.jpg",
+      "totalMandato": 1054747.13,
+      "totaisAno": {
+        "2023": 311165.22,
+        "2024": 202537.83,
+        "2025": 478053.35,
+        "2026": 62990.73
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.420764,
+        "picoMes": "2025-10",
+        "picoValor": 52034.4,
+        "fornecedorTop1Pct": 0.01991,
+        "fornecedorTop3Pct": 0.035079,
+        "fornecedorHHI": 0.000572,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.387319,
+        "semDocumentoPct": 0.169986,
+        "recibosOutrosPct": 0.341236
+      },
+      "flags": [
+        "high_receipts_other"
+      ]
+    },
+    {
+      "id": 220658,
+      "nome": "Luiz Gastão",
+      "uf": "CE",
+      "partido": "PSD",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220658.jpg",
+      "totalMandato": 1748018.26,
+      "totaisAno": {
+        "2023": 546074.56,
+        "2024": 583575.43,
+        "2025": 545209.21,
+        "2026": 73159.06
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.409523,
+        "picoMes": "2023-11",
+        "picoValor": 109076.26,
+        "fornecedorTop1Pct": 0.021614,
+        "fornecedorTop3Pct": 0.037348,
+        "fornecedorHHI": 0.000678,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.606638,
+        "semDocumentoPct": 0.181137,
+        "recibosOutrosPct": 0.063888
+      },
+      "flags": []
+    },
+    {
+      "id": 178866,
+      "nome": "Luizianne Lins",
+      "uf": "CE",
+      "partido": "PT",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178866.jpg",
+      "totalMandato": 1709407.01,
+      "totaisAno": {
+        "2023": 552295.8,
+        "2024": 570401.85,
+        "2025": 517502.12,
+        "2026": 69207.24
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.45544,
+        "picoMes": "2025-07",
+        "picoValor": 103209.91,
+        "fornecedorTop1Pct": 0.028439,
+        "fornecedorTop3Pct": 0.037272,
+        "fornecedorHHI": 0.000853,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.413397,
+        "semDocumentoPct": 0.274853,
+        "recibosOutrosPct": 0.15836
+      },
+      "flags": []
+    },
+    {
+      "id": 220661,
+      "nome": "Matheus Noronha",
+      "uf": "CE",
+      "partido": "PL",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220661.jpg",
+      "totalMandato": 1398922.75,
+      "totaisAno": {
+        "2023": 299121.74,
+        "2024": 571773.19,
+        "2025": 504677.82,
+        "2026": 23350.0
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.386618,
+        "picoMes": "2025-02",
+        "picoValor": 75207.07,
+        "fornecedorTop1Pct": 0.005719,
+        "fornecedorTop3Pct": 0.012867,
+        "fornecedorHHI": 7.2e-05,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.42965,
+        "semDocumentoPct": 0.489055,
+        "recibosOutrosPct": 0.046178
+      },
+      "flags": [
+        "high_without_pdf"
+      ]
+    },
+    {
+      "id": 204486,
+      "nome": "Mauro Benevides Filho",
+      "uf": "CE",
+      "partido": "PDT",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204486.jpg",
+      "totalMandato": 1630850.04,
+      "totaisAno": {
+        "2023": 513889.66,
+        "2024": 525754.62,
+        "2025": 527747.81,
+        "2026": 63457.95
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.339254,
+        "picoMes": "2023-12",
+        "picoValor": 86801.03,
+        "fornecedorTop1Pct": 0.015168,
+        "fornecedorTop3Pct": 0.02642,
+        "fornecedorHHI": 0.000327,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.438881,
+        "semDocumentoPct": 0.206835,
+        "recibosOutrosPct": 0.103582
+      },
+      "flags": []
+    },
+    {
+      "id": 178997,
+      "nome": "Moses Rodrigues",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178997.jpg",
+      "totalMandato": 1736189.33,
+      "totaisAno": {
+        "2023": 572098.94,
+        "2024": 516345.75,
+        "2025": 572454.6,
+        "2026": 75290.04
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.343346,
+        "picoMes": "2023-08",
+        "picoValor": 76105.15,
+        "fornecedorTop1Pct": 0.021887,
+        "fornecedorTop3Pct": 0.039742,
+        "fornecedorHHI": 0.00067,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.83257,
+        "semDocumentoPct": 0.158631,
+        "recibosOutrosPct": 0.005946
+      },
+      "flags": [
+        "category_dominant"
+      ]
+    },
+    {
+      "id": 204489,
+      "nome": "Robério Monteiro",
+      "uf": "CE",
+      "partido": "PDT",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204489.jpg",
+      "totalMandato": 852568.87,
+      "totaisAno": {
+        "2023": 78259.91,
+        "2024": 247879.84,
+        "2025": 495781.89,
+        "2026": 30647.23
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.560281,
+        "picoMes": "2025-10",
+        "picoValor": 66034.56,
+        "fornecedorTop1Pct": 0.035188,
+        "fornecedorTop3Pct": 0.035651,
+        "fornecedorHHI": 0.001238,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.609921,
+        "semDocumentoPct": 0.16992,
+        "recibosOutrosPct": 0.0
+      },
+      "flags": []
+    },
+    {
+      "id": 222565,
+      "nome": "Soldado Noelio",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/222565.jpg",
+      "totalMandato": 1345.2,
+      "totaisAno": {
+        "2023": 0.0,
+        "2024": 0.0,
+        "2025": 0.0,
+        "2026": 1345.2
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.0,
+        "picoMes": "2026-02",
+        "picoValor": 1345.2,
+        "fornecedorTop1Pct": 0.439206,
+        "fornecedorTop3Pct": 0.734248,
+        "fornecedorHHI": 0.260775,
+        "categoriaDominante": "COMBUSTIVEL",
+        "categoriaDominantePct": 1.0,
+        "semDocumentoPct": 1.0,
+        "recibosOutrosPct": 0.0
+      },
+      "flags": [
+        "category_dominant"
+      ]
+    },
+    {
+      "id": 234673,
+      "nome": "Vanderlan Alves",
+      "uf": "CE",
+      "partido": "REPUBLICANOS",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
+      "totalMandato": 89989.91,
+      "totaisAno": {
+        "2023": 0.0,
+        "2024": 0.0,
+        "2025": 39005.2,
+        "2026": 50984.71
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.297093,
+        "picoMes": "2025-12",
+        "picoValor": 39005.2,
+        "fornecedorTop1Pct": 0.231137,
+        "fornecedorTop3Pct": 0.366229,
+        "fornecedorHHI": 0.069549,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.512465,
+        "semDocumentoPct": 0.375307,
+        "recibosOutrosPct": 0.0
+      },
+      "flags": [
+        "high_without_pdf"
+      ]
+    }
+  ]
+}

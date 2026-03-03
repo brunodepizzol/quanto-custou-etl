@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.340193Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204508,
+      "nome": "Igor Timo",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 694478.63,
+      "qtdLancamentos": 1588
+    },
+    {
+      "id": 107970,
+      "nome": "Ana Paula Leão",
+      "uf": "MG",
+      "partido": "PP",
+      "valor": 572826.21,
+      "qtdLancamentos": 1858
+    },
+    {
+      "id": 92776,
+      "nome": "Stefano Aguiar",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 569511.41,
+      "qtdLancamentos": 1246
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 564420.27,
+      "qtdLancamentos": 1358
+    },
+    {
+      "id": 220632,
+      "nome": "Ana Pimentel",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 522020.16,
+      "qtdLancamentos": 2163
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 514161.95,
+      "qtdLancamentos": 2805
+    },
+    {
+      "id": 178895,
+      "nome": "Misael Varella",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 509919.22,
+      "qtdLancamentos": 554
+    },
+    {
+      "id": 74646,
+      "nome": "Aécio Neves",
+      "uf": "MG",
+      "partido": "PSDB",
+      "valor": 509242.86,
+      "qtdLancamentos": 1154
+    },
+    {
+      "id": 74160,
+      "nome": "Patrus Ananias",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 491433.53,
+      "qtdLancamentos": 3764
+    },
+    {
+      "id": 141487,
+      "nome": "Luiz Fernando Faria",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 432633.25,
+      "qtdLancamentos": 1120
+    }
+  ]
+}

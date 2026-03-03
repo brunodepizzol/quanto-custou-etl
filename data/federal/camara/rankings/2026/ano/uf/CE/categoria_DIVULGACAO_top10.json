@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "CE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.468058Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74454,
+      "nome": "Eunício Oliveira",
+      "uf": "CE",
+      "partido": "MDB",
+      "valor": 75000.0,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 178997,
+      "nome": "Moses Rodrigues",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "valor": 75000.0,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 220658,
+      "nome": "Luiz Gastão",
+      "uf": "CE",
+      "partido": "PSD",
+      "valor": 65280.25,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 143632,
+      "nome": "Domingos Neto",
+      "uf": "CE",
+      "partido": "PSD",
+      "valor": 61000.0,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 178866,
+      "nome": "Luizianne Lins",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 57613.8,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 204488,
+      "nome": "Célio Studart",
+      "uf": "CE",
+      "partido": "PSD",
+      "valor": 51360.8,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 204481,
+      "nome": "Dr. Jaziel",
+      "uf": "CE",
+      "partido": "PL",
+      "valor": 42071.0,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 204486,
+      "nome": "Mauro Benevides Filho",
+      "uf": "CE",
+      "partido": "PDT",
+      "valor": 38737.0,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 141464,
+      "nome": "José Airton Félix Cirilo",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 34500.0,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 74299,
+      "nome": "Leônidas Cristino",
+      "uf": "CE",
+      "partido": "PDT",
+      "valor": 34200.0,
+      "qtdLancamentos": 55
+    }
+  ]
+}

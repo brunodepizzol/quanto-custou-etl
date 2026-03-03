@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.363602Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220612,
+      "nome": "Bebeto",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 1576289.93,
+      "qtdLancamentos": 901
+    },
+    {
+      "id": 220603,
+      "nome": "Dani Cunha",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 1567952.67,
+      "qtdLancamentos": 2382
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 1545144.19,
+      "qtdLancamentos": 782
+    },
+    {
+      "id": 220606,
+      "nome": "Reimont",
+      "uf": "RJ",
+      "partido": "PT",
+      "valor": 1532371.66,
+      "qtdLancamentos": 1775
+    },
+    {
+      "id": 204457,
+      "nome": "Juninho do Pneu",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 1516962.89,
+      "qtdLancamentos": 1159
+    },
+    {
+      "id": 204455,
+      "nome": "Luiz Lima",
+      "uf": "RJ",
+      "partido": "NOVO",
+      "valor": 1516238.9,
+      "qtdLancamentos": 1285
+    },
+    {
+      "id": 220599,
+      "nome": "Marcelo Crivella",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 1514448.25,
+      "qtdLancamentos": 1247
+    },
+    {
+      "id": 220617,
+      "nome": "Murillo Gouvea",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 1512187.04,
+      "qtdLancamentos": 1375
+    },
+    {
+      "id": 74171,
+      "nome": "Chico Alencar",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 1511967.21,
+      "qtdLancamentos": 1634
+    },
+    {
+      "id": 220615,
+      "nome": "Pastor Henrique Vieira",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 1501580.06,
+      "qtdLancamentos": 1265
+    }
+  ]
+}

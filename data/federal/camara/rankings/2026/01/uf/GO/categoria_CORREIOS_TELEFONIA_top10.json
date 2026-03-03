@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "GO"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.020918Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 121948,
+      "nome": "Adriano do Baldy",
+      "uf": "GO",
+      "partido": "PP",
+      "valor": 1620.3,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 166402,
+      "nome": "Magda Mofatto",
+      "uf": "GO",
+      "partido": "PRD",
+      "valor": 1556.11,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 74371,
+      "nome": "Rubens Otoni",
+      "uf": "GO",
+      "partido": "PT",
+      "valor": 1488.97,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 160598,
+      "nome": "Flávia Morais",
+      "uf": "GO",
+      "partido": "PDT",
+      "valor": 1200.0,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 178876,
+      "nome": "Célio Silveira",
+      "uf": "GO",
+      "partido": "MDB",
+      "valor": 427.2,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 204412,
+      "nome": "Dr. Zacharias Calil",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 294.43,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 220572,
+      "nome": "Marussa Boldrin",
+      "uf": "GO",
+      "partido": "MDB",
+      "valor": 170.24,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 220571,
+      "nome": "Daniel Agrobom",
+      "uf": "GO",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 220565,
+      "nome": "Delegada Adriana Accorsi",
+      "uf": "GO",
+      "partido": "PT",
+      "valor": 0.0,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 220570,
+      "nome": "Dr. Ismael Alexandrino",
+      "uf": "GO",
+      "partido": "PSD",
+      "valor": 0.0,
+      "qtdLancamentos": 11
+    }
+  ]
+}

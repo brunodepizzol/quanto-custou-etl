@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.447459Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204531,
+      "nome": "Guilherme Derrite",
+      "uf": "SP",
+      "partido": "PP",
+      "valor": 822.72,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 178983,
+      "nome": "Marcio Alvino",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 3005.39,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 204528,
+      "nome": "Adriana Ventura",
+      "uf": "SP",
+      "partido": "NOVO",
+      "valor": 4590.64,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 73441,
+      "nome": "Celso Russomanno",
+      "uf": "SP",
+      "partido": "REPUBLICANOS",
+      "valor": 8683.29,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 141555,
+      "nome": "Vinicius Carvalho",
+      "uf": "SP",
+      "partido": "REPUBLICANOS",
+      "valor": 9264.37,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 234310,
+      "nome": "Ricardo Galvão",
+      "uf": "SP",
+      "partido": "REDE",
+      "valor": 12685.02,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 73433,
+      "nome": "Arlindo Chinaglia",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 13971.06,
+      "qtdLancamentos": 50
+    },
+    {
+      "id": 221338,
+      "nome": "Professora Luciene Cavalcante",
+      "uf": "SP",
+      "partido": "PSOL",
+      "valor": 15654.9,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 73604,
+      "nome": "Rui Falcão",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 17293.52,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 220650,
+      "nome": "Paulo Alexandre Barbosa",
+      "uf": "SP",
+      "partido": "PSDB",
+      "valor": 17791.56,
+      "qtdLancamentos": 5
+    }
+  ]
+}

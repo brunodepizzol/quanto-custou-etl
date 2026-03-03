@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "AL"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.039875Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220582,
+      "nome": "Daniel Barbosa",
+      "uf": "AL",
+      "partido": "PP",
+      "valor": 2972.57,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 220581,
+      "nome": "Luciano Amaral",
+      "uf": "AL",
+      "partido": "PSD",
+      "valor": 2123.9,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 160541,
+      "nome": "Arthur Lira",
+      "uf": "AL",
+      "partido": "PP",
+      "valor": 2035.09,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 171617,
+      "nome": "Paulão",
+      "uf": "AL",
+      "partido": "PT",
+      "valor": 1480.77,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 220586,
+      "nome": "Rafael Brito",
+      "uf": "AL",
+      "partido": "MDB",
+      "valor": 764.6,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 204436,
+      "nome": "Isnaldo Bulhões Jr.",
+      "uf": "AL",
+      "partido": "MDB",
+      "valor": 648.3,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 220583,
+      "nome": "Delegado Fabio Costa",
+      "uf": "AL",
+      "partido": "PP",
+      "valor": 246.96,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 220576,
+      "nome": "Alfredo Gaspar",
+      "uf": "AL",
+      "partido": "UNIÃO",
+      "valor": 0.0,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 178843,
+      "nome": "Marx Beltrão",
+      "uf": "AL",
+      "partido": "PP",
+      "valor": 0.0,
+      "qtdLancamentos": 3
+    }
+  ]
+}

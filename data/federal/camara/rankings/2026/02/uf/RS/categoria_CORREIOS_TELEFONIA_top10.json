@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.772641Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178963,
+      "nome": "Covatti Filho",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 1480.0,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 220553,
+      "nome": "Denise Pessôa",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 763.0,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 220555,
+      "nome": "Daiana Santos",
+      "uf": "RS",
+      "partido": "PCdoB",
+      "valor": 622.72,
+      "qtdLancamentos": 14
+    },
+    {
+      "id": 133810,
+      "nome": "Marcelo Moraes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 590.0,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 204406,
+      "nome": "Pedro Westphalen",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 576.0,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 560.93,
+      "qtdLancamentos": 47
+    },
+    {
+      "id": 178962,
+      "nome": "Carlos Gomes",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 270.0,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 178964,
+      "nome": "Heitor Schuch",
+      "uf": "RS",
+      "partido": "PSB",
+      "valor": 240.01,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 204409,
+      "nome": "Daniel Trzeciak",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 218.99,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 204407,
+      "nome": "Fernanda Melchionna",
+      "uf": "RS",
+      "partido": "PSOL",
+      "valor": 174.0,
+      "qtdLancamentos": 26
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ALIMENTACAO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SC"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.791186Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220557,
+      "nome": "Daniela Reinehr",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 487.07,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 204362,
+      "nome": "Ricardo Guidi",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 462.67,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 98148,
+      "nome": "Cobalchini",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 441.07,
+      "qtdLancamentos": 39
+    },
+    {
+      "id": 160604,
+      "nome": "Pedro Uczai",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 333.58,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 178966,
+      "nome": "Geovania de Sá",
+      "uf": "SC",
+      "partido": "PSDB",
+      "valor": 259.77,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 161440,
+      "nome": "Pezenti",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 102.02,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 220559,
+      "nome": "Julia Zanatta",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 84.54,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 220556,
+      "nome": "Ana Paula Lima",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 0.0,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 204361,
+      "nome": "Carlos Chiodini",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 0.0,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 204369,
+      "nome": "Caroline de Toni",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 6
+    }
+  ]
+}

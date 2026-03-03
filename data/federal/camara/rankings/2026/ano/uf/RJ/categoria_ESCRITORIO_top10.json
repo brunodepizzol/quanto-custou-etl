@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.482971Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220604,
+      "nome": "Marcos Tavares",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 32457.83,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 220612,
+      "nome": "Bebeto",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 24959.6,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 204457,
+      "nome": "Juninho do Pneu",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 20444.65,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 141450,
+      "nome": "Hugo Leal",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 20284.23,
+      "qtdLancamentos": 55
+    },
+    {
+      "id": 74848,
+      "nome": "Jandira Feghali",
+      "uf": "RJ",
+      "partido": "PCdoB",
+      "valor": 20233.26,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 20165.8,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 230765,
+      "nome": "Enfermeira Rejane",
+      "uf": "RJ",
+      "partido": "PCdoB",
+      "valor": 17293.16,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 74253,
+      "nome": "Julio Lopes",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 16701.9,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 220603,
+      "nome": "Dani Cunha",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 15637.89,
+      "qtdLancamentos": 92
+    },
+    {
+      "id": 220605,
+      "nome": "Bandeira de Mello",
+      "uf": "RJ",
+      "partido": "PSB",
+      "valor": 13723.08,
+      "qtdLancamentos": 87
+    }
+  ]
+}

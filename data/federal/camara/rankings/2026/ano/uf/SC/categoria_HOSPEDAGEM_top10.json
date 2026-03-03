@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SC"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.487310Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 160604,
+      "nome": "Pedro Uczai",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 11207.36,
+      "qtdLancamentos": 103
+    },
+    {
+      "id": 161440,
+      "nome": "Pezenti",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 4247.76,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 220559,
+      "nome": "Julia Zanatta",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 3447.0,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 204368,
+      "nome": "Fabio Schiochet",
+      "uf": "SC",
+      "partido": "UNIÃO",
+      "valor": 2863.1,
+      "qtdLancamentos": 48
+    },
+    {
+      "id": 204362,
+      "nome": "Ricardo Guidi",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 2691.34,
+      "qtdLancamentos": 69
+    },
+    {
+      "id": 220557,
+      "nome": "Daniela Reinehr",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 2615.52,
+      "qtdLancamentos": 60
+    },
+    {
+      "id": 178966,
+      "nome": "Geovania de Sá",
+      "uf": "SC",
+      "partido": "PSDB",
+      "valor": 1868.83,
+      "qtdLancamentos": 55
+    },
+    {
+      "id": 220556,
+      "nome": "Ana Paula Lima",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 1376.22,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 98615,
+      "nome": "Ismael",
+      "uf": "SC",
+      "partido": "PSD",
+      "valor": 1308.0,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 214694,
+      "nome": "Jorge Goetten",
+      "uf": "SC",
+      "partido": "REPUBLICANOS",
+      "valor": 190.0,
+      "qtdLancamentos": 35
+    }
+  ]
+}

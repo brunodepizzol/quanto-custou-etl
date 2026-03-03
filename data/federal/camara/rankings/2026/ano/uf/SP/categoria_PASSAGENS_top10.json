@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "PASSAGENS",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.447973Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220654,
+      "nome": "Delegado Paulo Bilynskyj",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 13121.7,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 234310,
+      "nome": "Ricardo Galvão",
+      "uf": "SP",
+      "partido": "REDE",
+      "valor": 6558.14,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 226837,
+      "nome": "Saulo Pedroso",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 3724.62,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 175765,
+      "nome": "Ribamar Silva",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 3425.38,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 74273,
+      "nome": "Jefferson Campos",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 2280.85,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 204504,
+      "nome": "Cezinha de Madureira",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 2250.77,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 74262,
+      "nome": "Carlos Sampaio",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 1871.83,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 178972,
+      "nome": "Alex Manente",
+      "uf": "SP",
+      "partido": "CIDADANIA",
+      "valor": 1866.28,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 74283,
+      "nome": "Vicentinho",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 1798.77,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 221328,
+      "nome": "Adilson Barroso",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 33
+    }
+  ]
+}

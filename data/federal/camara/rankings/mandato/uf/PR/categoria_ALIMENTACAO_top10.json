@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ALIMENTACAO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.359128Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204387,
+      "nome": "Sargento Fahur",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 38175.83,
+      "qtdLancamentos": 2326
+    },
+    {
+      "id": 220706,
+      "nome": "Padovani",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 35090.59,
+      "qtdLancamentos": 1734
+    },
+    {
+      "id": 220682,
+      "nome": "Tadeu Veneri",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 17082.41,
+      "qtdLancamentos": 3171
+    },
+    {
+      "id": 178929,
+      "nome": "Diego Garcia",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 16895.23,
+      "qtdLancamentos": 4134
+    },
+    {
+      "id": 224333,
+      "nome": "Welter",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 15473.33,
+      "qtdLancamentos": 2211
+    },
+    {
+      "id": 220683,
+      "nome": "Beto Richa",
+      "uf": "PR",
+      "partido": "PSDB",
+      "valor": 12562.92,
+      "qtdLancamentos": 1949
+    },
+    {
+      "id": 231911,
+      "nome": "Lenir de Assis",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 5391.29,
+      "qtdLancamentos": 764
+    },
+    {
+      "id": 138286,
+      "nome": "Luciano Alves",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 5321.01,
+      "qtdLancamentos": 899
+    },
+    {
+      "id": 220704,
+      "nome": "Carol Dartora",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 1594.33,
+      "qtdLancamentos": 2428
+    },
+    {
+      "id": 204396,
+      "nome": "Vermelho",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 985.87,
+      "qtdLancamentos": 1273
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.363911Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74253,
+      "nome": "Julio Lopes",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 614440.26,
+      "qtdLancamentos": 729
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 605598.89,
+      "qtdLancamentos": 531
+    },
+    {
+      "id": 220604,
+      "nome": "Marcos Tavares",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 502367.1,
+      "qtdLancamentos": 1113
+    },
+    {
+      "id": 220603,
+      "nome": "Dani Cunha",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 389667.34,
+      "qtdLancamentos": 2382
+    },
+    {
+      "id": 74848,
+      "nome": "Jandira Feghali",
+      "uf": "RJ",
+      "partido": "PCdoB",
+      "valor": 387319.67,
+      "qtdLancamentos": 1061
+    },
+    {
+      "id": 220612,
+      "nome": "Bebeto",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 387008.04,
+      "qtdLancamentos": 901
+    },
+    {
+      "id": 220616,
+      "nome": "Luciano Vieira",
+      "uf": "RJ",
+      "partido": "PSDB",
+      "valor": 369879.16,
+      "qtdLancamentos": 1009
+    },
+    {
+      "id": 204455,
+      "nome": "Luiz Lima",
+      "uf": "RJ",
+      "partido": "NOVO",
+      "valor": 342510.03,
+      "qtdLancamentos": 1285
+    },
+    {
+      "id": 220606,
+      "nome": "Reimont",
+      "uf": "RJ",
+      "partido": "PT",
+      "valor": 334501.81,
+      "qtdLancamentos": 1775
+    },
+    {
+      "id": 73701,
+      "nome": "Benedita da Silva",
+      "uf": "RJ",
+      "partido": "PT",
+      "valor": 327250.47,
+      "qtdLancamentos": 1063
+    }
+  ]
+}

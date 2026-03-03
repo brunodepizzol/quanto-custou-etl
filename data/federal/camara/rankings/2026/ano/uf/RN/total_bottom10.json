@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RN"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.495769Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204453,
+      "nome": "Natália Bonavides",
+      "uf": "RN",
+      "partido": "PT",
+      "valor": 6329.11,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 204445,
+      "nome": "Fernando Mineiro",
+      "uf": "RN",
+      "partido": "PT",
+      "valor": 33462.04,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 220621,
+      "nome": "Sargento Gonçalves",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 41441.47,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 46385.53,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 213762,
+      "nome": "Carla Dickson",
+      "uf": "RN",
+      "partido": "UNIÃO",
+      "valor": 53955.88,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 109429,
+      "nome": "Benes Leocádio",
+      "uf": "RN",
+      "partido": "UNIÃO",
+      "valor": 55157.45,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 220624,
+      "nome": "Robinson Faria",
+      "uf": "RN",
+      "partido": "PP",
+      "valor": 76734.37,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 141459,
+      "nome": "João Maia",
+      "uf": "RN",
+      "partido": "PP",
+      "valor": 81573.19,
+      "qtdLancamentos": 42
+    }
+  ]
+}

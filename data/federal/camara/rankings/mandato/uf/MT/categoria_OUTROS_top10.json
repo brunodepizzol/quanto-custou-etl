@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "OUTROS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MT"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.380688Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220594,
+      "nome": "Coronel Assis",
+      "uf": "MT",
+      "partido": "UNIÃO",
+      "valor": 383587.99,
+      "qtdLancamentos": 1288
+    },
+    {
+      "id": 204474,
+      "nome": "Juarez Costa",
+      "uf": "MT",
+      "partido": "MDB",
+      "valor": 297281.15,
+      "qtdLancamentos": 764
+    },
+    {
+      "id": 226179,
+      "nome": "Gisela Simona",
+      "uf": "MT",
+      "partido": "UNIÃO",
+      "valor": 278324.0,
+      "qtdLancamentos": 954
+    },
+    {
+      "id": 204449,
+      "nome": "Nelson Barbudo",
+      "uf": "MT",
+      "partido": "PL",
+      "valor": 245871.0,
+      "qtdLancamentos": 535
+    },
+    {
+      "id": 204472,
+      "nome": "José Medeiros",
+      "uf": "MT",
+      "partido": "PL",
+      "valor": 234020.16,
+      "qtdLancamentos": 2811
+    },
+    {
+      "id": 220595,
+      "nome": "Coronel Fernanda",
+      "uf": "MT",
+      "partido": "PL",
+      "valor": 222135.82,
+      "qtdLancamentos": 1150
+    },
+    {
+      "id": 198783,
+      "nome": "Emanuel Pinheiro Neto",
+      "uf": "MT",
+      "partido": "MDB",
+      "valor": 220250.74,
+      "qtdLancamentos": 1875
+    },
+    {
+      "id": 230767,
+      "nome": "Rodrigo da Zaeli",
+      "uf": "MT",
+      "partido": "PL",
+      "valor": 73690.0,
+      "qtdLancamentos": 716
+    }
+  ]
+}

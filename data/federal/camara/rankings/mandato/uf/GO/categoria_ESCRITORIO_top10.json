@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "GO"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.337921Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 166402,
+      "nome": "Magda Mofatto",
+      "uf": "GO",
+      "partido": "PRD",
+      "valor": 664224.5,
+      "qtdLancamentos": 664
+    },
+    {
+      "id": 204390,
+      "nome": "Professor Alcides",
+      "uf": "GO",
+      "partido": "PL",
+      "valor": 539178.1,
+      "qtdLancamentos": 174
+    },
+    {
+      "id": 220568,
+      "nome": "Gustavo Gayer",
+      "uf": "GO",
+      "partido": "PL",
+      "valor": 398816.27,
+      "qtdLancamentos": 1329
+    },
+    {
+      "id": 220569,
+      "nome": "Silvye Alves",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 392609.61,
+      "qtdLancamentos": 783
+    },
+    {
+      "id": 204412,
+      "nome": "Dr. Zacharias Calil",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 365014.08,
+      "qtdLancamentos": 1522
+    },
+    {
+      "id": 74371,
+      "nome": "Rubens Otoni",
+      "uf": "GO",
+      "partido": "PT",
+      "valor": 349005.52,
+      "qtdLancamentos": 742
+    },
+    {
+      "id": 220571,
+      "nome": "Daniel Agrobom",
+      "uf": "GO",
+      "partido": "PL",
+      "valor": 285033.46,
+      "qtdLancamentos": 526
+    },
+    {
+      "id": 160598,
+      "nome": "Flávia Morais",
+      "uf": "GO",
+      "partido": "PDT",
+      "valor": 283824.08,
+      "qtdLancamentos": 469
+    },
+    {
+      "id": 121948,
+      "nome": "Adriano do Baldy",
+      "uf": "GO",
+      "partido": "PP",
+      "valor": 251550.36,
+      "qtdLancamentos": 1654
+    },
+    {
+      "id": 220567,
+      "nome": "Jeferson Rodrigues",
+      "uf": "GO",
+      "partido": "REPUBLICANOS",
+      "valor": 220476.16,
+      "qtdLancamentos": 271
+    }
+  ]
+}

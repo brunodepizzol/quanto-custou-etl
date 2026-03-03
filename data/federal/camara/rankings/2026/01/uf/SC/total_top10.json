@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SC"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.050444Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204362,
+      "nome": "Ricardo Guidi",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 45205.0,
+      "qtdLancamentos": 44
+    },
+    {
+      "id": 220557,
+      "nome": "Daniela Reinehr",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 41714.14,
+      "qtdLancamentos": 32
+    },
+    {
+      "id": 220556,
+      "nome": "Ana Paula Lima",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 40042.09,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 98148,
+      "nome": "Cobalchini",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 37239.84,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 214694,
+      "nome": "Jorge Goetten",
+      "uf": "SC",
+      "partido": "REPUBLICANOS",
+      "valor": 34828.21,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 220558,
+      "nome": "Zé Trovão",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 34401.89,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 178966,
+      "nome": "Geovania de Sá",
+      "uf": "SC",
+      "partido": "PSDB",
+      "valor": 34297.04,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 160604,
+      "nome": "Pedro Uczai",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 33094.94,
+      "qtdLancamentos": 60
+    },
+    {
+      "id": 161440,
+      "nome": "Pezenti",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 29707.87,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 98615,
+      "nome": "Ismael",
+      "uf": "SC",
+      "partido": "PSD",
+      "valor": 26305.38,
+      "qtdLancamentos": 9
+    }
+  ]
+}

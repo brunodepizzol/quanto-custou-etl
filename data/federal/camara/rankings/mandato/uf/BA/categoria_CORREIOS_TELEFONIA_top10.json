@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "BA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.335589Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 160553,
+      "nome": "Antonio Brito",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 72152.04,
+      "qtdLancamentos": 2085
+    },
+    {
+      "id": 160666,
+      "nome": "Félix Mendonça Júnior",
+      "uf": "BA",
+      "partido": "PDT",
+      "valor": 59941.86,
+      "qtdLancamentos": 1070
+    },
+    {
+      "id": 139285,
+      "nome": "Lídice da Mata",
+      "uf": "BA",
+      "partido": "PSB",
+      "valor": 51130.22,
+      "qtdLancamentos": 2780
+    },
+    {
+      "id": 160600,
+      "nome": "Arthur Oliveira Maia",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 50391.84,
+      "qtdLancamentos": 1437
+    },
+    {
+      "id": 160610,
+      "nome": "Valmir Assunção",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 48987.47,
+      "qtdLancamentos": 1277
+    },
+    {
+      "id": 160569,
+      "nome": "Waldenor Pereira",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 40956.6,
+      "qtdLancamentos": 1033
+    },
+    {
+      "id": 74537,
+      "nome": "Claudio Cajado",
+      "uf": "BA",
+      "partido": "PP",
+      "valor": 38999.22,
+      "qtdLancamentos": 1753
+    },
+    {
+      "id": 74550,
+      "nome": "João Leão",
+      "uf": "BA",
+      "partido": "PP",
+      "valor": 37041.79,
+      "qtdLancamentos": 1430
+    },
+    {
+      "id": 204559,
+      "nome": "Zé Neto",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 34782.77,
+      "qtdLancamentos": 1160
+    },
+    {
+      "id": 74574,
+      "nome": "Paulo Magalhães",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 33151.16,
+      "qtdLancamentos": 1144
+    }
+  ]
+}

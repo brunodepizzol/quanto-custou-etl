@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.457047Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178963,
+      "nome": "Covatti Filho",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 2969.95,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 204406,
+      "nome": "Pedro Westphalen",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 1955.1,
+      "qtdLancamentos": 102
+    },
+    {
+      "id": 220554,
+      "nome": "Alexandre Lindenmeyer",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 1522.06,
+      "qtdLancamentos": 156
+    },
+    {
+      "id": 73692,
+      "nome": "Osmar Terra",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 1422.8,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 74398,
+      "nome": "Maria do Rosário",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 1365.32,
+      "qtdLancamentos": 69
+    },
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 1277.04,
+      "qtdLancamentos": 100
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 1258.22,
+      "qtdLancamentos": 118
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 1247.98,
+      "qtdLancamentos": 115
+    },
+    {
+      "id": 220553,
+      "nome": "Denise Pessôa",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 1211.0,
+      "qtdLancamentos": 119
+    },
+    {
+      "id": 133810,
+      "nome": "Marcelo Moraes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 1180.0,
+      "qtdLancamentos": 38
+    }
+  ]
+}

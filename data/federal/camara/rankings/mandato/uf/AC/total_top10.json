@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "AC"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.372546Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220590,
+      "nome": "Coronel Ulysses",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 1905048.88,
+      "qtdLancamentos": 846
+    },
+    {
+      "id": 220591,
+      "nome": "Meire Serafim",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 1801400.5,
+      "qtdLancamentos": 1763
+    },
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 1783499.85,
+      "qtdLancamentos": 552
+    },
+    {
+      "id": 220592,
+      "nome": "Zezinho Barbary",
+      "uf": "AC",
+      "partido": "PP",
+      "valor": 1749187.71,
+      "qtdLancamentos": 772
+    },
+    {
+      "id": 220589,
+      "nome": "Eduardo Velloso",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 1648911.54,
+      "qtdLancamentos": 1099
+    },
+    {
+      "id": 220588,
+      "nome": "Roberto Duarte",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 1646036.33,
+      "qtdLancamentos": 1357
+    },
+    {
+      "id": 104552,
+      "nome": "Socorro Neri",
+      "uf": "AC",
+      "partido": "PP",
+      "valor": 1640112.3,
+      "qtdLancamentos": 732
+    },
+    {
+      "id": 230768,
+      "nome": "Zé Adriano",
+      "uf": "AC",
+      "partido": "PP",
+      "valor": 718278.47,
+      "qtdLancamentos": 277
+    }
+  ]
+}

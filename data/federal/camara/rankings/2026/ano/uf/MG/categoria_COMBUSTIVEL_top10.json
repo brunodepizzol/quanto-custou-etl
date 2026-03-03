@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.454649Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220625,
+      "nome": "Delegada Ione",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 15771.45,
+      "qtdLancamentos": 76
+    },
+    {
+      "id": 74159,
+      "nome": "Odair Cunha",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 14762.42,
+      "qtdLancamentos": 103
+    },
+    {
+      "id": 160632,
+      "nome": "Zé Silva",
+      "uf": "MG",
+      "partido": "SOLIDARIEDADE",
+      "valor": 11953.09,
+      "qtdLancamentos": 77
+    },
+    {
+      "id": 220626,
+      "nome": "Rafael Simoes",
+      "uf": "MG",
+      "partido": "UNIÃO",
+      "valor": 10843.69,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 210989,
+      "nome": "Bruno Farias",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 10711.12,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 220628,
+      "nome": "Mauricio do Vôlei",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 9719.37,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 204482,
+      "nome": "Euclydes Pettersen",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 9392.0,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 161550,
+      "nome": "Emidinho Madeira",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 8462.41,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 204508,
+      "nome": "Igor Timo",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 8326.02,
+      "qtdLancamentos": 77
+    },
+    {
+      "id": 204494,
+      "nome": "Fred Costa",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 7693.84,
+      "qtdLancamentos": 64
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "DF"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.351120Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 141533,
+      "nome": "Rodrigo Rollemberg",
+      "uf": "DF",
+      "partido": "PSB",
+      "valor": 214272.34,
+      "qtdLancamentos": 137
+    },
+    {
+      "id": 204372,
+      "nome": "Julio Cesar Ribeiro",
+      "uf": "DF",
+      "partido": "REPUBLICANOS",
+      "valor": 996909.63,
+      "qtdLancamentos": 388
+    },
+    {
+      "id": 220533,
+      "nome": "Prof. Reginaldo Veras",
+      "uf": "DF",
+      "partido": "PV",
+      "valor": 1065984.28,
+      "qtdLancamentos": 764
+    },
+    {
+      "id": 204374,
+      "nome": "Bia Kicis",
+      "uf": "DF",
+      "partido": "PL",
+      "valor": 1216497.08,
+      "qtdLancamentos": 979
+    },
+    {
+      "id": 220532,
+      "nome": "Rafael Prudente",
+      "uf": "DF",
+      "partido": "MDB",
+      "valor": 1259199.76,
+      "qtdLancamentos": 577
+    },
+    {
+      "id": 160575,
+      "nome": "Erika Kokay",
+      "uf": "DF",
+      "partido": "PT",
+      "valor": 1292656.34,
+      "qtdLancamentos": 1526
+    },
+    {
+      "id": 220534,
+      "nome": "Fred Linhares",
+      "uf": "DF",
+      "partido": "REPUBLICANOS",
+      "valor": 1325828.01,
+      "qtdLancamentos": 915
+    },
+    {
+      "id": 73579,
+      "nome": "Alberto Fraga",
+      "uf": "DF",
+      "partido": "PL",
+      "valor": 1368962.08,
+      "qtdLancamentos": 209
+    }
+  ]
+}

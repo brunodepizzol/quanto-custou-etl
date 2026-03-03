@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SC"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.050512Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204362,
+      "nome": "Ricardo Guidi",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 689.98,
+      "qtdLancamentos": 44
+    },
+    {
+      "id": 160604,
+      "nome": "Pedro Uczai",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 618.8,
+      "qtdLancamentos": 60
+    },
+    {
+      "id": 204365,
+      "nome": "Gilson Marques",
+      "uf": "SC",
+      "partido": "NOVO",
+      "valor": 576.0,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 220558,
+      "nome": "Zé Trovão",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 518.56,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 220556,
+      "nome": "Ana Paula Lima",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 309.98,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 178966,
+      "nome": "Geovania de Sá",
+      "uf": "SC",
+      "partido": "PSDB",
+      "valor": 290.0,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 220559,
+      "nome": "Julia Zanatta",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 184.65,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 204369,
+      "nome": "Caroline de Toni",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 98148,
+      "nome": "Cobalchini",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 0.0,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 204367,
+      "nome": "Daniel Freitas",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 22
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "BA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.335689Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 160600,
+      "nome": "Arthur Oliveira Maia",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 137835.94,
+      "qtdLancamentos": 1437
+    },
+    {
+      "id": 220695,
+      "nome": "Rogéria Santos",
+      "uf": "BA",
+      "partido": "REPUBLICANOS",
+      "valor": 41645.09,
+      "qtdLancamentos": 1171
+    },
+    {
+      "id": 74550,
+      "nome": "João Leão",
+      "uf": "BA",
+      "partido": "PP",
+      "valor": 41271.73,
+      "qtdLancamentos": 1430
+    },
+    {
+      "id": 74537,
+      "nome": "Claudio Cajado",
+      "uf": "BA",
+      "partido": "PP",
+      "valor": 32869.92,
+      "qtdLancamentos": 1753
+    },
+    {
+      "id": 74554,
+      "nome": "José Rocha",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 28269.15,
+      "qtdLancamentos": 1103
+    },
+    {
+      "id": 204567,
+      "nome": "Raimundo Costa",
+      "uf": "BA",
+      "partido": "PODE",
+      "valor": 25170.33,
+      "qtdLancamentos": 2109
+    },
+    {
+      "id": 220708,
+      "nome": "Gabriel Nunes",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 22969.18,
+      "qtdLancamentos": 1916
+    },
+    {
+      "id": 178857,
+      "nome": "Jorge Solla",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 20766.98,
+      "qtdLancamentos": 4200
+    },
+    {
+      "id": 209189,
+      "nome": "Joseildo Ramos",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 19769.78,
+      "qtdLancamentos": 1614
+    },
+    {
+      "id": 160666,
+      "nome": "Félix Mendonça Júnior",
+      "uf": "BA",
+      "partido": "PDT",
+      "valor": 16551.56,
+      "qtdLancamentos": 1070
+    }
+  ]
+}

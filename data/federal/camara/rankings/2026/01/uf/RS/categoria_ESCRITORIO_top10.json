@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.025583Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 18970.5,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 74398,
+      "nome": "Maria do Rosário",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 17196.96,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 220555,
+      "nome": "Daiana Santos",
+      "uf": "RS",
+      "partido": "PCdoB",
+      "valor": 15901.96,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 204409,
+      "nome": "Daniel Trzeciak",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 14843.87,
+      "qtdLancamentos": 56
+    },
+    {
+      "id": 204388,
+      "nome": "Bibo Nunes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 12518.4,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 160673,
+      "nome": "Giovani Cherini",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 11772.01,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 220553,
+      "nome": "Denise Pessôa",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 10579.28,
+      "qtdLancamentos": 78
+    },
+    {
+      "id": 204404,
+      "nome": "Lucas Redecker",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 10569.34,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 10436.87,
+      "qtdLancamentos": 63
+    },
+    {
+      "id": 178964,
+      "nome": "Heitor Schuch",
+      "uf": "RS",
+      "partido": "PSB",
+      "valor": 9384.31,
+      "qtdLancamentos": 28
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.770381Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74159,
+      "nome": "Odair Cunha",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 2133.98,
+      "qtdLancamentos": 46
+    },
+    {
+      "id": 179000,
+      "nome": "Marcelo Álvaro Antônio",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 1200.0,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 92776,
+      "nome": "Stefano Aguiar",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 1200.0,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 204494,
+      "nome": "Fred Costa",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 771.0,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 198197,
+      "nome": "Greyce Elias",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 619.47,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 204524,
+      "nome": "Pinheirinho",
+      "uf": "MG",
+      "partido": "PP",
+      "valor": 576.0,
+      "qtdLancamentos": 14
+    },
+    {
+      "id": 141531,
+      "nome": "Rodrigo de Castro",
+      "uf": "MG",
+      "partido": "UNIÃO",
+      "valor": 336.21,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 161550,
+      "nome": "Emidinho Madeira",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 330.0,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 160640,
+      "nome": "Eros Biondini",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 319.9,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 215.99,
+      "qtdLancamentos": 38
+    }
+  ]
+}

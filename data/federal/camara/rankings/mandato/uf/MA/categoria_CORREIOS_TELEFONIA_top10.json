@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.361534Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 122974,
+      "nome": "Pedro Lucas Fernandes",
+      "uf": "MA",
+      "partido": "UNIÃO",
+      "valor": 50096.15,
+      "qtdLancamentos": 1166
+    },
+    {
+      "id": 178881,
+      "nome": "Aluisio Mendes",
+      "uf": "MA",
+      "partido": "REPUBLICANOS",
+      "valor": 41724.98,
+      "qtdLancamentos": 1295
+    },
+    {
+      "id": 220686,
+      "nome": "Duarte Jr.",
+      "uf": "MA",
+      "partido": "PSB",
+      "valor": 34688.61,
+      "qtdLancamentos": 971
+    },
+    {
+      "id": 204574,
+      "nome": "Junior Lourenço",
+      "uf": "MA",
+      "partido": "PL",
+      "valor": 20363.29,
+      "qtdLancamentos": 599
+    },
+    {
+      "id": 81055,
+      "nome": "Márcio Jerry",
+      "uf": "MA",
+      "partido": "PCdoB",
+      "valor": 12480.89,
+      "qtdLancamentos": 1685
+    },
+    {
+      "id": 204570,
+      "nome": "Pastor Gil",
+      "uf": "MA",
+      "partido": "PL",
+      "valor": 5422.52,
+      "qtdLancamentos": 736
+    },
+    {
+      "id": 178886,
+      "nome": "Juscelino Filho",
+      "uf": "MA",
+      "partido": "UNIÃO",
+      "valor": 5070.25,
+      "qtdLancamentos": 126
+    },
+    {
+      "id": 215043,
+      "nome": "Josivaldo JP",
+      "uf": "MA",
+      "partido": "PSD",
+      "valor": 4242.32,
+      "qtdLancamentos": 839
+    },
+    {
+      "id": 226708,
+      "nome": "Allan Garcês",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 3841.84,
+      "qtdLancamentos": 839
+    },
+    {
+      "id": 220707,
+      "nome": "Amanda Gentil",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 3535.98,
+      "qtdLancamentos": 421
+    }
+  ]
+}

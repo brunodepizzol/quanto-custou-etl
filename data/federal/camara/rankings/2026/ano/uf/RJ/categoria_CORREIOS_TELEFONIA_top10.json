@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.482833Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204456,
+      "nome": "Gutemberg Reis",
+      "uf": "RJ",
+      "partido": "MDB",
+      "valor": 2714.99,
+      "qtdLancamentos": 64
+    },
+    {
+      "id": 74856,
+      "nome": "Laura Carneiro",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 1242.21,
+      "qtdLancamentos": 58
+    },
+    {
+      "id": 178946,
+      "nome": "Soraya Santos",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 1200.0,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 220599,
+      "nome": "Marcelo Crivella",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 1121.02,
+      "qtdLancamentos": 44
+    },
+    {
+      "id": 74848,
+      "nome": "Jandira Feghali",
+      "uf": "RJ",
+      "partido": "PCdoB",
+      "valor": 731.86,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 204457,
+      "nome": "Juninho do Pneu",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 648.44,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 178943,
+      "nome": "Marcos Soares",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 594.1,
+      "qtdLancamentos": 39
+    },
+    {
+      "id": 74171,
+      "nome": "Chico Alencar",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 454.23,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 204444,
+      "nome": "Helio Lopes",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 399.99,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 220615,
+      "nome": "Pastor Henrique Vieira",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 351.72,
+      "qtdLancamentos": 32
+    }
+  ]
+}

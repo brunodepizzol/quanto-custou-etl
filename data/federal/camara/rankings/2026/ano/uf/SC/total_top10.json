@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SC"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.487199Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220558,
+      "nome": "Zé Trovão",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 63559.79,
+      "qtdLancamentos": 46
+    },
+    {
+      "id": 178966,
+      "nome": "Geovania de Sá",
+      "uf": "SC",
+      "partido": "PSDB",
+      "valor": 63042.13,
+      "qtdLancamentos": 55
+    },
+    {
+      "id": 98148,
+      "nome": "Cobalchini",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 61091.26,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 204362,
+      "nome": "Ricardo Guidi",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 55854.51,
+      "qtdLancamentos": 69
+    },
+    {
+      "id": 220557,
+      "nome": "Daniela Reinehr",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 53876.38,
+      "qtdLancamentos": 60
+    },
+    {
+      "id": 220556,
+      "nome": "Ana Paula Lima",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 43607.65,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 214694,
+      "nome": "Jorge Goetten",
+      "uf": "SC",
+      "partido": "REPUBLICANOS",
+      "valor": 43431.85,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 160604,
+      "nome": "Pedro Uczai",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 43104.5,
+      "qtdLancamentos": 103
+    },
+    {
+      "id": 98615,
+      "nome": "Ismael",
+      "uf": "SC",
+      "partido": "PSD",
+      "valor": 34038.03,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 161440,
+      "nome": "Pezenti",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 33954.88,
+      "qtdLancamentos": 38
+    }
+  ]
+}

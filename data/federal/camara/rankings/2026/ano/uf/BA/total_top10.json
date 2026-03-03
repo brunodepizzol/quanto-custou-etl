@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "BA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.450021Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 209189,
+      "nome": "Joseildo Ramos",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 88579.46,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 69871,
+      "nome": "Bacelar",
+      "uf": "BA",
+      "partido": "PV",
+      "valor": 88155.44,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 220693,
+      "nome": "Roberta Roma",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 77941.88,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 220690,
+      "nome": "Capitão Alden",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 71880.51,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 160600,
+      "nome": "Arthur Oliveira Maia",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 70380.1,
+      "qtdLancamentos": 49
+    },
+    {
+      "id": 92102,
+      "nome": "Leur Lomanto Júnior",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 63909.32,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 60179.5,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 220708,
+      "nome": "Gabriel Nunes",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 59771.3,
+      "qtdLancamentos": 53
+    },
+    {
+      "id": 74537,
+      "nome": "Claudio Cajado",
+      "uf": "BA",
+      "partido": "PP",
+      "valor": 59430.15,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 160666,
+      "nome": "Félix Mendonça Júnior",
+      "uf": "BA",
+      "partido": "PDT",
+      "valor": 57231.29,
+      "qtdLancamentos": 19
+    }
+  ]
+}

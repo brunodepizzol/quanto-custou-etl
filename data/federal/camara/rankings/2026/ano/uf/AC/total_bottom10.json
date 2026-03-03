@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "AC"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.491634Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220591,
+      "nome": "Meire Serafim",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 22510.26,
+      "qtdLancamentos": 25
+    },
+    {
+      "id": 220589,
+      "nome": "Eduardo Velloso",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 34693.1,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 104552,
+      "nome": "Socorro Neri",
+      "uf": "AC",
+      "partido": "PP",
+      "valor": 41431.18,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 220588,
+      "nome": "Roberto Duarte",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 63751.96,
+      "qtdLancamentos": 53
+    },
+    {
+      "id": 220590,
+      "nome": "Coronel Ulysses",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 70075.0,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 83830.02,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 220592,
+      "nome": "Zezinho Barbary",
+      "uf": "AC",
+      "partido": "PP",
+      "valor": 84011.0,
+      "qtdLancamentos": 25
+    },
+    {
+      "id": 230768,
+      "nome": "Zé Adriano",
+      "uf": "AC",
+      "partido": "PP",
+      "valor": 120164.04,
+      "qtdLancamentos": 25
+    }
+  ]
+}

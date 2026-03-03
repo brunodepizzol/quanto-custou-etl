@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "resumo_deputado",
+    "id": 204409,
+    "geradoEm": "2026-03-03T15:34:13.114941Z",
+    "versaoSchema": "1.1.0",
+    "mandatoInicioAno": 2023,
+    "mandatoFimAno": 2026,
+    "versaoCategoryMap": "1.0.0"
+  },
+  "data": {
+    "id": 204409,
+    "nome": "Daniel Trzeciak",
+    "uf": "RS",
+    "partido": "PSDB",
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204409.jpg",
+    "totaisMandato": {
+      "total": 1608148.94,
+      "qtdLancamentos": 1990,
+      "porCategoria": {
+        "ALIMENTACAO": 0.0,
+        "COMBUSTIVEL": 291629.32,
+        "CONSULTORIA_SERVICOS": 0.0,
+        "CORREIOS_TELEFONIA": 5667.83,
+        "DIVULGACAO": 119043.76,
+        "ESCRITORIO": 496548.02,
+        "HOSPEDAGEM": 80371.71,
+        "OUTROS": 404186.43,
+        "PASSAGENS": 210701.87
+      }
+    },
+    "totaisAno": {
+      "2023": 477780.19,
+      "2024": 556771.81,
+      "2025": 511547.53,
+      "2026": 62049.41
+    },
+    "porMes": {
+      "2023-01": 1303.86,
+      "2023-02": 32073.05,
+      "2023-03": 54208.69,
+      "2023-04": 34306.6,
+      "2023-05": 38588.14,
+      "2023-06": 39287.6,
+      "2023-07": 37686.29,
+      "2023-08": 42268.44,
+      "2023-09": 50418.32,
+      "2023-10": 43949.6,
+      "2023-11": 46608.98,
+      "2023-12": 57080.62,
+      "2024-01": 42178.49,
+      "2024-02": 44792.27,
+      "2024-03": 59723.39,
+      "2024-04": 42697.67,
+      "2024-05": 40809.49,
+      "2024-06": 44265.83,
+      "2024-07": 46052.59,
+      "2024-08": 39310.95,
+      "2024-09": 43210.01,
+      "2024-10": 30513.17,
+      "2024-11": 46575.84,
+      "2024-12": 76642.11,
+      "2025-01": 39064.21,
+      "2025-02": 38376.93,
+      "2025-03": 38200.23,
+      "2025-04": 34203.08,
+      "2025-05": 41135.32,
+      "2025-06": 40681.22,
+      "2025-07": 50081.92,
+      "2025-08": 38558.48,
+      "2025-09": 47738.47,
+      "2025-10": 44819.73,
+      "2025-11": 43367.7,
+      "2025-12": 55320.24,
+      "2026-01": 40835.03,
+      "2026-02": 21214.38,
+      "2026-03": 0.0,
+      "2026-04": 0.0,
+      "2026-05": 0.0,
+      "2026-06": 0.0,
+      "2026-07": 0.0,
+      "2026-08": 0.0,
+      "2026-09": 0.0,
+      "2026-10": 0.0,
+      "2026-11": 0.0,
+      "2026-12": 0.0
+    },
+    "metricas": {
+      "variacaoMensalCV": 0.267156,
+      "picoMes": "2024-12",
+      "picoValor": 76642.11,
+      "fornecedorTop1Pct": 0.013991,
+      "fornecedorTop3Pct": 0.020634,
+      "fornecedorHHI": 0.000236,
+      "categoriaDominante": "ESCRITORIO",
+      "categoriaDominantePct": 0.30877,
+      "semDocumentoPct": 0.315502,
+      "recibosOutrosPct": 0.480053
+    },
+    "topFornecedores": [
+      {
+        "nome": "SOM NA KAIXA COMÉRCIO DE ALARMES E SOM LTDA",
+        "valor": 22500.0
+      },
+      {
+        "nome": "ED CHAFFE CORRETAGEM DE IMÓVEIS EIRELI",
+        "valor": 5682.0
+      },
+      {
+        "nome": "JOAO PAULO NUNES BORGES",
+        "valor": 5000.0
+      },
+      {
+        "nome": "VIGHOR EMPREENDIMENTOS LTDA",
+        "valor": 3827.53
+      },
+      {
+        "nome": "CAPAO DA CANOA MAR HOTEL LTDA",
+        "valor": 3128.0
+      }
+    ],
+    "flags": [
+      "high_without_pdf",
+      "high_receipts_other"
+    ]
+  }
+}

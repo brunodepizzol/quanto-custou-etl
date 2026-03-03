@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.342563Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220554,
+      "nome": "Alexandre Lindenmeyer",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 52836.28,
+      "qtdLancamentos": 6087
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 48712.01,
+      "qtdLancamentos": 3400
+    },
+    {
+      "id": 160673,
+      "nome": "Giovani Cherini",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 44345.69,
+      "qtdLancamentos": 2224
+    },
+    {
+      "id": 74398,
+      "nome": "Maria do Rosário",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 43080.25,
+      "qtdLancamentos": 3794
+    },
+    {
+      "id": 73692,
+      "nome": "Osmar Terra",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 42768.82,
+      "qtdLancamentos": 2048
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 40447.37,
+      "qtdLancamentos": 3076
+    },
+    {
+      "id": 178964,
+      "nome": "Heitor Schuch",
+      "uf": "RS",
+      "partido": "PSB",
+      "valor": 38975.48,
+      "qtdLancamentos": 2761
+    },
+    {
+      "id": 160538,
+      "nome": "Bohn Gass",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 35716.84,
+      "qtdLancamentos": 3184
+    },
+    {
+      "id": 178963,
+      "nome": "Covatti Filho",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 31647.6,
+      "qtdLancamentos": 868
+    },
+    {
+      "id": 204406,
+      "nome": "Pedro Westphalen",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 31492.43,
+      "qtdLancamentos": 2404
+    }
+  ]
+}

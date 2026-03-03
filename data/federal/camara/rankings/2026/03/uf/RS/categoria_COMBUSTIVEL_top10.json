@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 3,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.363279Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204404,
+      "nome": "Lucas Redecker",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 300.59,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 204407,
+      "nome": "Fernanda Melchionna",
+      "uf": "RS",
+      "partido": "PSOL",
+      "valor": 257.46,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 204406,
+      "nome": "Pedro Westphalen",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 240.15,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 220554,
+      "nome": "Alexandre Lindenmeyer",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 234.06,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 191.2,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 133810,
+      "nome": "Marcelo Moraes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 173.66,
+      "qtdLancamentos": 1
+    }
+  ]
+}

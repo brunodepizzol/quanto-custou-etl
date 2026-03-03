@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "OUTROS",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SC"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.487415Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220557,
+      "nome": "Daniela Reinehr",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 13700.0,
+      "qtdLancamentos": 60
+    },
+    {
+      "id": 204368,
+      "nome": "Fabio Schiochet",
+      "uf": "SC",
+      "partido": "UNIÃO",
+      "valor": 13000.0,
+      "qtdLancamentos": 48
+    },
+    {
+      "id": 220558,
+      "nome": "Zé Trovão",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 12000.0,
+      "qtdLancamentos": 46
+    },
+    {
+      "id": 204362,
+      "nome": "Ricardo Guidi",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 9500.0,
+      "qtdLancamentos": 69
+    },
+    {
+      "id": 98615,
+      "nome": "Ismael",
+      "uf": "SC",
+      "partido": "PSD",
+      "valor": 8999.0,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 204367,
+      "nome": "Daniel Freitas",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 8634.0,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 160604,
+      "nome": "Pedro Uczai",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 7281.79,
+      "qtdLancamentos": 103
+    },
+    {
+      "id": 178966,
+      "nome": "Geovania de Sá",
+      "uf": "SC",
+      "partido": "PSDB",
+      "valor": 6500.0,
+      "qtdLancamentos": 55
+    },
+    {
+      "id": 214694,
+      "nome": "Jorge Goetten",
+      "uf": "SC",
+      "partido": "REPUBLICANOS",
+      "valor": 6300.0,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 220556,
+      "nome": "Ana Paula Lima",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 4824.85,
+      "qtdLancamentos": 45
+    }
+  ]
+}

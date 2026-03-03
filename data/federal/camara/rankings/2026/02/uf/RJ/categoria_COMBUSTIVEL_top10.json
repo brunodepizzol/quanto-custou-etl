@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.801496Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220603,
+      "nome": "Dani Cunha",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 6854.05,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 204457,
+      "nome": "Juninho do Pneu",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 5167.87,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 220617,
+      "nome": "Murillo Gouvea",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 4896.89,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 204460,
+      "nome": "Carlos Jordy",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 4854.41,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 204456,
+      "nome": "Gutemberg Reis",
+      "uf": "RJ",
+      "partido": "MDB",
+      "valor": 4714.31,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 74856,
+      "nome": "Laura Carneiro",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 4021.61,
+      "qtdLancamentos": 32
+    },
+    {
+      "id": 220612,
+      "nome": "Bebeto",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 3895.22,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 220611,
+      "nome": "General Pazuello",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 3615.8,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 220605,
+      "nome": "Bandeira de Mello",
+      "uf": "RJ",
+      "partido": "PSB",
+      "valor": 3533.75,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 178943,
+      "nome": "Marcos Soares",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 2884.31,
+      "qtdLancamentos": 24
+    }
+  ]
+}

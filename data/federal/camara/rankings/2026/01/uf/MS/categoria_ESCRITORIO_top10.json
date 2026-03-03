@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.060762Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204351,
+      "nome": "Dr. Luiz Ovando",
+      "uf": "MS",
+      "partido": "PP",
+      "valor": 8680.44,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 74374,
+      "nome": "Geraldo Resende",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 8424.94,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 220547,
+      "nome": "Marcos Pollon",
+      "uf": "MS",
+      "partido": "PL",
+      "valor": 8100.31,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 141411,
+      "nome": "Dagoberto Nogueira",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 7925.52,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 220548,
+      "nome": "Camila Jara",
+      "uf": "MS",
+      "partido": "PT",
+      "valor": 4909.26,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 74376,
+      "nome": "Vander Loubet",
+      "uf": "MS",
+      "partido": "PT",
+      "valor": 4143.04,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 204358,
+      "nome": "Beto Pereira",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 2095.49,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 220546,
+      "nome": "Rodolfo Nogueira",
+      "uf": "MS",
+      "partido": "PL",
+      "valor": 1650.0,
+      "qtdLancamentos": 17
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SC"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.368081Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220558,
+      "nome": "Zé Trovão",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 1706695.43,
+      "qtdLancamentos": 1741
+    },
+    {
+      "id": 204367,
+      "nome": "Daniel Freitas",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 1621898.12,
+      "qtdLancamentos": 1920
+    },
+    {
+      "id": 220556,
+      "nome": "Ana Paula Lima",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 1604073.28,
+      "qtdLancamentos": 1485
+    },
+    {
+      "id": 220557,
+      "nome": "Daniela Reinehr",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 1586968.87,
+      "qtdLancamentos": 2171
+    },
+    {
+      "id": 220559,
+      "nome": "Julia Zanatta",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 1555559.13,
+      "qtdLancamentos": 1824
+    },
+    {
+      "id": 204368,
+      "nome": "Fabio Schiochet",
+      "uf": "SC",
+      "partido": "UNIÃO",
+      "valor": 1520710.69,
+      "qtdLancamentos": 1902
+    },
+    {
+      "id": 160604,
+      "nome": "Pedro Uczai",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 1468705.54,
+      "qtdLancamentos": 3254
+    },
+    {
+      "id": 98148,
+      "nome": "Cobalchini",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 1426262.05,
+      "qtdLancamentos": 2324
+    },
+    {
+      "id": 98615,
+      "nome": "Ismael",
+      "uf": "SC",
+      "partido": "PSD",
+      "valor": 1390410.44,
+      "qtdLancamentos": 1680
+    },
+    {
+      "id": 214694,
+      "nome": "Jorge Goetten",
+      "uf": "SC",
+      "partido": "REPUBLICANOS",
+      "valor": 1320799.44,
+      "qtdLancamentos": 1324
+    }
+  ]
+}

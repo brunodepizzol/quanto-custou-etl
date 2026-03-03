@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "resumo_deputado",
+    "id": 74574,
+    "geradoEm": "2026-03-03T15:34:13.229287Z",
+    "versaoSchema": "1.1.0",
+    "mandatoInicioAno": 2023,
+    "mandatoFimAno": 2026,
+    "versaoCategoryMap": "1.0.0"
+  },
+  "data": {
+    "id": 74574,
+    "nome": "Paulo Magalhães",
+    "uf": "BA",
+    "partido": "PSD",
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74574.jpg",
+    "totaisMandato": {
+      "total": 1459020.54,
+      "qtdLancamentos": 1144,
+      "porCategoria": {
+        "ALIMENTACAO": 0.0,
+        "COMBUSTIVEL": 314575.21,
+        "CONSULTORIA_SERVICOS": 0.0,
+        "CORREIOS_TELEFONIA": 33151.16,
+        "DIVULGACAO": 398100.0,
+        "ESCRITORIO": 117557.92,
+        "HOSPEDAGEM": 13123.28,
+        "OUTROS": 396000.0,
+        "PASSAGENS": 186512.97
+      }
+    },
+    "totaisAno": {
+      "2023": 468026.33,
+      "2024": 410856.21,
+      "2025": 548602.63,
+      "2026": 31535.37
+    },
+    "porMes": {
+      "2023-01": 0.0,
+      "2023-02": 32568.07,
+      "2023-03": 82344.46,
+      "2023-04": 34350.76,
+      "2023-05": 48169.03,
+      "2023-06": 35524.95,
+      "2023-07": 38847.6,
+      "2023-08": 42845.69,
+      "2023-09": 33685.77,
+      "2023-10": 63022.35,
+      "2023-11": 29023.09,
+      "2023-12": 27644.56,
+      "2024-01": 27113.3,
+      "2024-02": 28456.55,
+      "2024-03": 33489.24,
+      "2024-04": 30537.8,
+      "2024-05": 28610.49,
+      "2024-06": 32240.44,
+      "2024-07": 29296.46,
+      "2024-08": 29387.04,
+      "2024-09": 28588.72,
+      "2024-10": 31624.85,
+      "2024-11": 28493.17,
+      "2024-12": 83018.15,
+      "2025-01": 35578.0,
+      "2025-02": 35220.97,
+      "2025-03": 41802.37,
+      "2025-04": 33592.61,
+      "2025-05": 33467.29,
+      "2025-06": 31184.55,
+      "2025-07": 34649.72,
+      "2025-08": 31550.18,
+      "2025-09": 37407.15,
+      "2025-10": 39887.69,
+      "2025-11": 35480.34,
+      "2025-12": 158781.76,
+      "2026-01": 23383.12,
+      "2026-02": 8152.25,
+      "2026-03": 0.0,
+      "2026-04": 0.0,
+      "2026-05": 0.0,
+      "2026-06": 0.0,
+      "2026-07": 0.0,
+      "2026-08": 0.0,
+      "2026-09": 0.0,
+      "2026-10": 0.0,
+      "2026-11": 0.0,
+      "2026-12": 0.0
+    },
+    "metricas": {
+      "variacaoMensalCV": 0.612343,
+      "picoMes": "2025-12",
+      "picoValor": 158781.76,
+      "fornecedorTop1Pct": 0.007539,
+      "fornecedorTop3Pct": 0.013564,
+      "fornecedorHHI": 8.4e-05,
+      "categoriaDominante": "DIVULGACAO",
+      "categoriaDominantePct": 0.272854,
+      "semDocumentoPct": 0.320265,
+      "recibosOutrosPct": 0.325031
+    },
+    "topFornecedores": [
+      {
+        "nome": "QUALITYLOC AUTOMÓVEIS LTDA.",
+        "valor": 11000.0
+      },
+      {
+        "nome": "MACTRA COMERCIO DE COMBUSTIVEIS E LUBRIFICANTES LTDA",
+        "valor": 5981.7
+      },
+      {
+        "nome": "LIGIA SPINOLA COSTA",
+        "valor": 2808.78
+      },
+      {
+        "nome": "IRENILDES PEREIRA DOS SANTOS",
+        "valor": 2000.0
+      },
+      {
+        "nome": "MARIA SONIA DA ANUNCIAÇÃO ME",
+        "valor": 1700.0
+      }
+    ],
+    "flags": [
+      "spiky_spend",
+      "high_without_pdf",
+      "high_receipts_other"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "OUTROS",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PB"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.027817Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204394,
+      "nome": "Gervásio Maia",
+      "uf": "PB",
+      "partido": "PSB",
+      "valor": 13500.0,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 160635,
+      "nome": "Ruy Carneiro",
+      "uf": "PB",
+      "partido": "PODE",
+      "valor": 13000.0,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 74041,
+      "nome": "Luiz Couto",
+      "uf": "PB",
+      "partido": "PT",
+      "valor": 12700.0,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 220585,
+      "nome": "Mersinho Lucena",
+      "uf": "PB",
+      "partido": "PP",
+      "valor": 12600.0,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 220584,
+      "nome": "Murilo Galdino",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 12000.0,
+      "qtdLancamentos": 14
+    },
+    {
+      "id": 160629,
+      "nome": "Romero Rodrigues",
+      "uf": "PB",
+      "partido": "PODE",
+      "valor": 12000.0,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 74044,
+      "nome": "Wilson Santiago",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 12000.0,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 160527,
+      "nome": "Aguinaldo Ribeiro",
+      "uf": "PB",
+      "partido": "PP",
+      "valor": 11500.0,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 160674,
+      "nome": "Hugo Motta",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 7000.0,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 74043,
+      "nome": "Wellington Roberto",
+      "uf": "PB",
+      "partido": "PL",
+      "valor": 3900.0,
+      "qtdLancamentos": 11
+    }
+  ]
+}

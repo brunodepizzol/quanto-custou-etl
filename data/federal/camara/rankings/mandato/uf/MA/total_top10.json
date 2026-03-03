@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.361446Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 141408,
+      "nome": "Cleber Verde",
+      "uf": "MA",
+      "partido": "MDB",
+      "valor": 1830689.94,
+      "qtdLancamentos": 364
+    },
+    {
+      "id": 81055,
+      "nome": "Márcio Jerry",
+      "uf": "MA",
+      "partido": "PCdoB",
+      "valor": 1696591.93,
+      "qtdLancamentos": 1685
+    },
+    {
+      "id": 122974,
+      "nome": "Pedro Lucas Fernandes",
+      "uf": "MA",
+      "partido": "UNIÃO",
+      "valor": 1677697.69,
+      "qtdLancamentos": 1166
+    },
+    {
+      "id": 178887,
+      "nome": "Rubens Pereira Júnior",
+      "uf": "MA",
+      "partido": "PT",
+      "valor": 1653977.65,
+      "qtdLancamentos": 455
+    },
+    {
+      "id": 215043,
+      "nome": "Josivaldo JP",
+      "uf": "MA",
+      "partido": "PSD",
+      "valor": 1535601.19,
+      "qtdLancamentos": 839
+    },
+    {
+      "id": 220707,
+      "nome": "Amanda Gentil",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 1473002.45,
+      "qtdLancamentos": 421
+    },
+    {
+      "id": 204574,
+      "nome": "Junior Lourenço",
+      "uf": "MA",
+      "partido": "PL",
+      "valor": 1467308.08,
+      "qtdLancamentos": 599
+    },
+    {
+      "id": 178881,
+      "nome": "Aluisio Mendes",
+      "uf": "MA",
+      "partido": "REPUBLICANOS",
+      "valor": 1446720.81,
+      "qtdLancamentos": 1295
+    },
+    {
+      "id": 204570,
+      "nome": "Pastor Gil",
+      "uf": "MA",
+      "partido": "PL",
+      "valor": 1401872.38,
+      "qtdLancamentos": 736
+    },
+    {
+      "id": 220687,
+      "nome": "Márcio Honaiser",
+      "uf": "MA",
+      "partido": "PDT",
+      "valor": 1388485.87,
+      "qtdLancamentos": 1065
+    }
+  ]
+}

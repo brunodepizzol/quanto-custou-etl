@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.772536Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220550,
+      "nome": "Mauricio Marcon",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 29845.87,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 178963,
+      "nome": "Covatti Filho",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 27874.05,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 204388,
+      "nome": "Bibo Nunes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 26911.55,
+      "qtdLancamentos": 56
+    },
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 26218.62,
+      "qtdLancamentos": 47
+    },
+    {
+      "id": 74400,
+      "nome": "Paulo Pimenta",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 24000.0,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 204404,
+      "nome": "Lucas Redecker",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 23735.09,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 22086.73,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 73486,
+      "nome": "Pompeo de Mattos",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 21339.84,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 204409,
+      "nome": "Daniel Trzeciak",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 21214.38,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 20649.62,
+      "qtdLancamentos": 19
+    }
+  ]
+}

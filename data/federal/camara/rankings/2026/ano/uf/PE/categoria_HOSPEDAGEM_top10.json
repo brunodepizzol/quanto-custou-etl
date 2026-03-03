@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.489581Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 72442,
+      "nome": "Felipe Carreras",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 6398.28,
+      "qtdLancamentos": 84
+    },
+    {
+      "id": 204426,
+      "nome": "Carlos Veras",
+      "uf": "PE",
+      "partido": "PT",
+      "valor": 5915.2,
+      "qtdLancamentos": 114
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 3641.4,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 204427,
+      "nome": "Fernando Rodolfo",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 2563.55,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 157130,
+      "nome": "Túlio Gadêlha",
+      "uf": "PE",
+      "partido": "REDE",
+      "valor": 1535.0,
+      "qtdLancamentos": 47
+    },
+    {
+      "id": 160642,
+      "nome": "Pastor Eurico",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 1355.9,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 73801,
+      "nome": "Renildo Calheiros",
+      "uf": "PE",
+      "partido": "PCdoB",
+      "valor": 920.0,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 220668,
+      "nome": "Maria Arraes",
+      "uf": "PE",
+      "partido": "SOLIDARIEDADE",
+      "valor": 575.0,
+      "qtdLancamentos": 64
+    },
+    {
+      "id": 220664,
+      "nome": "Guilherme Uchoa",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 536.13,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 204422,
+      "nome": "Ossesio Silva",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 520.0,
+      "qtdLancamentos": 28
+    }
+  ]
+}

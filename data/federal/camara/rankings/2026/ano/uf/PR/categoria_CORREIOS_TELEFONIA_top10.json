@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.478318Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178929,
+      "nome": "Diego Garcia",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 1558.57,
+      "qtdLancamentos": 76
+    },
+    {
+      "id": 220685,
+      "nome": "Paulo Litro",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 793.88,
+      "qtdLancamentos": 58
+    },
+    {
+      "id": 220683,
+      "nome": "Beto Richa",
+      "uf": "PR",
+      "partido": "PSDB",
+      "valor": 737.9,
+      "qtdLancamentos": 53
+    },
+    {
+      "id": 204411,
+      "nome": "Filipe Barros",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 686.0,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 178933,
+      "nome": "Sergio Souza",
+      "uf": "PR",
+      "partido": "MDB",
+      "valor": 678.88,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 220684,
+      "nome": "Tião Medeiros",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 594.74,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 205865,
+      "nome": "Reinhold Stephanes",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 545.27,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 220682,
+      "nome": "Tadeu Veneri",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 330.03,
+      "qtdLancamentos": 74
+    },
+    {
+      "id": 204387,
+      "nome": "Sargento Fahur",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 211.53,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 73788,
+      "nome": "Ricardo Barros",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 116.74,
+      "qtdLancamentos": 12
+    }
+  ]
+}

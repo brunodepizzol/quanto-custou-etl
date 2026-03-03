@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.447459Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220642,
+      "nome": "Delegado Bruno Lima",
+      "uf": "SP",
+      "partido": "PP",
+      "valor": 84349.45,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 221328,
+      "nome": "Adilson Barroso",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 75220.69,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 66828,
+      "nome": "Fausto Pinato",
+      "uf": "SP",
+      "partido": "PP",
+      "valor": 69376.82,
+      "qtdLancamentos": 37
+    },
+    {
+      "id": 226837,
+      "nome": "Saulo Pedroso",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 68219.75,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 221148,
+      "nome": "Alfredinho",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 67640.6,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 66063.52,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 230957,
+      "nome": "João Cury",
+      "uf": "SP",
+      "partido": "MDB",
+      "valor": 65710.3,
+      "qtdLancamentos": 83
+    },
+    {
+      "id": 74784,
+      "nome": "Luiza Erundina",
+      "uf": "SP",
+      "partido": "PSOL",
+      "valor": 60703.62,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 204525,
+      "nome": "Rosana Valle",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 58503.2,
+      "qtdLancamentos": 55
+    },
+    {
+      "id": 204526,
+      "nome": "Luiz Philippe de Orleans e Bragança",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 58280.06,
+      "qtdLancamentos": 39
+    }
+  ]
+}

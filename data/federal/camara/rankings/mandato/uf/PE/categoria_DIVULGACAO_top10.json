@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.370474Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 91228,
+      "nome": "Waldemar Oliveira",
+      "uf": "PE",
+      "partido": "AVANTE",
+      "valor": 922004.21,
+      "qtdLancamentos": 1401
+    },
+    {
+      "id": 220664,
+      "nome": "Guilherme Uchoa",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 905533.45,
+      "qtdLancamentos": 1012
+    },
+    {
+      "id": 220666,
+      "nome": "Coronel Meira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 849902.74,
+      "qtdLancamentos": 1677
+    },
+    {
+      "id": 220662,
+      "nome": "Lucas Ramos",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 824434.4,
+      "qtdLancamentos": 681
+    },
+    {
+      "id": 141421,
+      "nome": "Eduardo da Fonte",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 814850.5,
+      "qtdLancamentos": 1959
+    },
+    {
+      "id": 220668,
+      "nome": "Maria Arraes",
+      "uf": "PE",
+      "partido": "SOLIDARIEDADE",
+      "valor": 760209.12,
+      "qtdLancamentos": 1457
+    },
+    {
+      "id": 88256,
+      "nome": "Clodoaldo Magalhães",
+      "uf": "PE",
+      "partido": "PV",
+      "valor": 760134.05,
+      "qtdLancamentos": 920
+    },
+    {
+      "id": 220669,
+      "nome": "Lula da Fonte",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 646087.2,
+      "qtdLancamentos": 2098
+    },
+    {
+      "id": 220663,
+      "nome": "Eriberto Medeiros",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 643500.0,
+      "qtdLancamentos": 1020
+    },
+    {
+      "id": 204423,
+      "nome": "André Ferreira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 630980.07,
+      "qtdLancamentos": 1744
+    }
+  ]
+}

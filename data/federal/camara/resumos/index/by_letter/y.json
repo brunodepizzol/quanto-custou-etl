@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "resumo_index_deputados",
+    "geradoEm": "2026-03-03T15:34:13.276573Z",
+    "versaoSchema": "1.1.0",
+    "mandatoInicioAno": 2023,
+    "mandatoFimAno": 2026,
+    "shard": {
+      "tipo": "letra",
+      "valor": "y"
+    }
+  },
+  "data": [
+    {
+      "id": 220564,
+      "nome": "Yandra Moura",
+      "uf": "SE",
+      "partido": "UNIÃO",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220564.jpg",
+      "totalMandato": 1375076.63,
+      "totaisAno": {
+        "2023": 492020.35,
+        "2024": 270419.55,
+        "2025": 571036.73,
+        "2026": 41600.0
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.421497,
+        "picoMes": "2023-06",
+        "picoValor": 75048.1,
+        "fornecedorTop1Pct": 0.019635,
+        "fornecedorTop3Pct": 0.029962,
+        "fornecedorHHI": 0.000464,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.475856,
+        "semDocumentoPct": 0.325554,
+        "recibosOutrosPct": 0.008727
+      },
+      "flags": [
+        "high_without_pdf"
+      ]
+    }
+  ]
+}

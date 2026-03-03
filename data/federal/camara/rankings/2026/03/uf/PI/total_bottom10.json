@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 3,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PI"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.372336Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 188097,
+      "nome": "Merlong Solano",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 225.12,
+      "qtdLancamentos": 1
+    }
+  ]
+}

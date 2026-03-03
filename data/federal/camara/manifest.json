@@ -1,0 +1,51 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "manifest",
+    "geradoEm": "2026-03-03T15:34:13.401915Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "methodologyVersion": "v1",
+    "source": {
+      "githubSha": "dad919ca6fd5adf8a88fa61356a26fb43a5b95cf"
+    }
+  },
+  "dataRange": {
+    "mandatoInicioAno": 2023,
+    "mandatoFimAno": 2026,
+    "minYearMonth": "2023-01",
+    "maxYearMonth": "2026-12",
+    "totalMesesIncluidos": 48
+  },
+  "support": {
+    "rankings": [
+      "total_top10",
+      "total_bottom10",
+      "categoria_*_top10",
+      "uf/*"
+    ],
+    "resumos": [
+      "overview",
+      "deputados/{id}",
+      "index shards by_uf/by_letter"
+    ],
+    "metrics": [
+      "total",
+      "variacaoMensalCV",
+      "picoMensal",
+      "fornecedorTop1Pct",
+      "fornecedorTop3Pct",
+      "fornecedorHHI",
+      "categoriaDominantePct",
+      "semDocumentoPct",
+      "recibosOutrosPct"
+    ],
+    "flags": [
+      "high_supplier_concentration",
+      "spiky_spend",
+      "category_dominant",
+      "high_without_pdf",
+      "high_receipts_other"
+    ]
+  }
+}

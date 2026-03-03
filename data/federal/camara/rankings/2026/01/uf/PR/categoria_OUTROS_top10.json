@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "OUTROS",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.042042Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 22300.0,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 178933,
+      "nome": "Sergio Souza",
+      "uf": "PR",
+      "partido": "MDB",
+      "valor": 14630.0,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 178934,
+      "nome": "Toninho Wandscheer",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 12000.0,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 223128,
+      "nome": "Rodrigo Estacho",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 11174.0,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 220704,
+      "nome": "Carol Dartora",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 8200.0,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 205865,
+      "nome": "Reinhold Stephanes",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 8100.0,
+      "qtdLancamentos": 14
+    },
+    {
+      "id": 231911,
+      "nome": "Lenir de Assis",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 7964.43,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 220685,
+      "nome": "Paulo Litro",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 6500.0,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 178929,
+      "nome": "Diego Garcia",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 6300.0,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 178931,
+      "nome": "Luciano Ducci",
+      "uf": "PR",
+      "partido": "PSB",
+      "valor": 5603.26,
+      "qtdLancamentos": 27
+    }
+  ]
+}

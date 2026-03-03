@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "PASSAGENS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.342697Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220552,
+      "nome": "Zucco",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 452272.86,
+      "qtdLancamentos": 1497
+    },
+    {
+      "id": 220550,
+      "nome": "Mauricio Marcon",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 411480.87,
+      "qtdLancamentos": 1242
+    },
+    {
+      "id": 204404,
+      "nome": "Lucas Redecker",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 411452.99,
+      "qtdLancamentos": 2423
+    },
+    {
+      "id": 220554,
+      "nome": "Alexandre Lindenmeyer",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 399586.0,
+      "qtdLancamentos": 6087
+    },
+    {
+      "id": 204416,
+      "nome": "Sanderson",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 395283.57,
+      "qtdLancamentos": 1996
+    },
+    {
+      "id": 178835,
+      "nome": "Afonso Motta",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 351426.08,
+      "qtdLancamentos": 2585
+    },
+    {
+      "id": 73692,
+      "nome": "Osmar Terra",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 349981.94,
+      "qtdLancamentos": 2048
+    },
+    {
+      "id": 204406,
+      "nome": "Pedro Westphalen",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 339574.69,
+      "qtdLancamentos": 2404
+    },
+    {
+      "id": 179001,
+      "nome": "Márcio Biolchi",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 334614.02,
+      "qtdLancamentos": 2467
+    },
+    {
+      "id": 220553,
+      "nome": "Denise Pessôa",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 314874.84,
+      "qtdLancamentos": 5170
+    }
+  ]
+}

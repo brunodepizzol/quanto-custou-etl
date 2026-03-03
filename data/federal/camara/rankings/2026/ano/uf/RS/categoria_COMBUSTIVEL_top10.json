@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.456999Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178835,
+      "nome": "Afonso Motta",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 16289.54,
+      "qtdLancamentos": 87
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 14067.87,
+      "qtdLancamentos": 118
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 12761.8,
+      "qtdLancamentos": 115
+    },
+    {
+      "id": 204409,
+      "nome": "Daniel Trzeciak",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 12140.67,
+      "qtdLancamentos": 83
+    },
+    {
+      "id": 160552,
+      "nome": "Danrlei de Deus Hinterholz",
+      "uf": "RS",
+      "partido": "PSD",
+      "valor": 11493.94,
+      "qtdLancamentos": 65
+    },
+    {
+      "id": 204416,
+      "nome": "Sanderson",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 10957.35,
+      "qtdLancamentos": 51
+    },
+    {
+      "id": 73486,
+      "nome": "Pompeo de Mattos",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 10949.16,
+      "qtdLancamentos": 90
+    },
+    {
+      "id": 204404,
+      "nome": "Lucas Redecker",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 10816.62,
+      "qtdLancamentos": 85
+    },
+    {
+      "id": 220553,
+      "nome": "Denise Pessôa",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 10611.7,
+      "qtdLancamentos": 119
+    },
+    {
+      "id": 204406,
+      "nome": "Pedro Westphalen",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 9522.41,
+      "qtdLancamentos": 102
+    }
+  ]
+}

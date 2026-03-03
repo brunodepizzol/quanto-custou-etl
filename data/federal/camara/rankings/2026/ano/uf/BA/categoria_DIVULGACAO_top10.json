@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "BA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.450172Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 60179.5,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 220690,
+      "nome": "Capitão Alden",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 60000.0,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 220693,
+      "nome": "Roberta Roma",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 53100.0,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 209189,
+      "nome": "Joseildo Ramos",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 49400.0,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 74060,
+      "nome": "Daniel Almeida",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 40000.0,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 220703,
+      "nome": "Neto Carletto",
+      "uf": "BA",
+      "partido": "AVANTE",
+      "valor": 37000.0,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 160610,
+      "nome": "Valmir Assunção",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 35400.0,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 69871,
+      "nome": "Bacelar",
+      "uf": "BA",
+      "partido": "PV",
+      "valor": 34000.0,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 220708,
+      "nome": "Gabriel Nunes",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 30200.0,
+      "qtdLancamentos": 53
+    },
+    {
+      "id": 205476,
+      "nome": "Charles Fernandes",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 28900.0,
+      "qtdLancamentos": 39
+    }
+  ]
+}

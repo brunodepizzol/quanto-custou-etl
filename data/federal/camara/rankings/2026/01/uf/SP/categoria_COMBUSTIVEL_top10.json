@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.016137Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 66828,
+      "nome": "Fausto Pinato",
+      "uf": "SP",
+      "partido": "PP",
+      "valor": 9392.0,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 74784,
+      "nome": "Luiza Erundina",
+      "uf": "SP",
+      "partido": "PSOL",
+      "valor": 6589.95,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 220653,
+      "nome": "Fábio Teruel",
+      "uf": "SP",
+      "partido": "MDB",
+      "valor": 5121.32,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 74273,
+      "nome": "Jefferson Campos",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 4271.59,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 220648,
+      "nome": "Marangoni",
+      "uf": "SP",
+      "partido": "UNIÃO",
+      "valor": 4250.0,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 175765,
+      "nome": "Ribamar Silva",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 3573.54,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 220633,
+      "nome": "Ricardo Salles",
+      "uf": "SP",
+      "partido": "NOVO",
+      "valor": 3518.02,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 220638,
+      "nome": "Antonio Carlos Rodrigues",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 3495.44,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 220654,
+      "nome": "Delegado Paulo Bilynskyj",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 3432.77,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 178989,
+      "nome": "Renata Abreu",
+      "uf": "SP",
+      "partido": "PODE",
+      "valor": 3377.12,
+      "qtdLancamentos": 10
+    }
+  ]
+}

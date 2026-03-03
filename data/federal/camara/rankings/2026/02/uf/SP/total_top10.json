@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.763092Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 230957,
+      "nome": "João Cury",
+      "uf": "SP",
+      "partido": "MDB",
+      "valor": 35854.57,
+      "qtdLancamentos": 61
+    },
+    {
+      "id": 204485,
+      "nome": "Luiz Carlos Motta",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 33484.21,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 221328,
+      "nome": "Adilson Barroso",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 32935.74,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 220642,
+      "nome": "Delegado Bruno Lima",
+      "uf": "SP",
+      "partido": "PP",
+      "valor": 31006.24,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 221148,
+      "nome": "Alfredinho",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 30424.91,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 66828,
+      "nome": "Fausto Pinato",
+      "uf": "SP",
+      "partido": "PP",
+      "valor": 29295.58,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 74283,
+      "nome": "Vicentinho",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 28390.52,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 26655.05,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 204525,
+      "nome": "Rosana Valle",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 26361.18,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 178992,
+      "nome": "Vitor Lippi",
+      "uf": "SP",
+      "partido": "PSDB",
+      "valor": 25085.36,
+      "qtdLancamentos": 33
+    }
+  ]
+}

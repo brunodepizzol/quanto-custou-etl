@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "GO"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.452339Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 121948,
+      "nome": "Adriano do Baldy",
+      "uf": "GO",
+      "partido": "PP",
+      "valor": 16896.93,
+      "qtdLancamentos": 37
+    },
+    {
+      "id": 204390,
+      "nome": "Professor Alcides",
+      "uf": "GO",
+      "partido": "PL",
+      "valor": 15879.51,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 166402,
+      "nome": "Magda Mofatto",
+      "uf": "GO",
+      "partido": "PRD",
+      "valor": 9392.0,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 220567,
+      "nome": "Jeferson Rodrigues",
+      "uf": "GO",
+      "partido": "REPUBLICANOS",
+      "valor": 8965.2,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 178876,
+      "nome": "Célio Silveira",
+      "uf": "GO",
+      "partido": "MDB",
+      "valor": 6843.53,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 220572,
+      "nome": "Marussa Boldrin",
+      "uf": "GO",
+      "partido": "MDB",
+      "valor": 6393.97,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 220570,
+      "nome": "Dr. Ismael Alexandrino",
+      "uf": "GO",
+      "partido": "PSD",
+      "valor": 5703.05,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 74371,
+      "nome": "Rubens Otoni",
+      "uf": "GO",
+      "partido": "PT",
+      "valor": 3709.62,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 220569,
+      "nome": "Silvye Alves",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 2806.84,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 204412,
+      "nome": "Dr. Zacharias Calil",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 2772.09,
+      "qtdLancamentos": 38
+    }
+  ]
+}

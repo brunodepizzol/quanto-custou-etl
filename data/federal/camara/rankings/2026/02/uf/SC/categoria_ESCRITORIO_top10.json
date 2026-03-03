@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SC"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.791259Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220558,
+      "nome": "Zé Trovão",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 14036.85,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 204362,
+      "nome": "Ricardo Guidi",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 6354.87,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 98148,
+      "nome": "Cobalchini",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 4499.34,
+      "qtdLancamentos": 39
+    },
+    {
+      "id": 160604,
+      "nome": "Pedro Uczai",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 2485.86,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 204367,
+      "nome": "Daniel Freitas",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 1980.0,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 161440,
+      "nome": "Pezenti",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 1328.45,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 178966,
+      "nome": "Geovania de Sá",
+      "uf": "SC",
+      "partido": "PSDB",
+      "valor": 1289.9,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 220556,
+      "nome": "Ana Paula Lima",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 399.8,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 204369,
+      "nome": "Caroline de Toni",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 339.0,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 204361,
+      "nome": "Carlos Chiodini",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 150.66,
+      "qtdLancamentos": 12
+    }
+  ]
+}

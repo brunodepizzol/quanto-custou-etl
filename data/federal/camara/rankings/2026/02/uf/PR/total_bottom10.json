@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.784852Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204396,
+      "nome": "Vermelho",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 242.28,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 73778,
+      "nome": "Luiz Carlos Hauly",
+      "uf": "PR",
+      "partido": "PODE",
+      "valor": 761.39,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 73788,
+      "nome": "Ricardo Barros",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 1600.0,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 162332,
+      "nome": "Luiz Nishimori",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 2000.0,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 204410,
+      "nome": "Luisa Canziani",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 2244.25,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 204387,
+      "nome": "Sargento Fahur",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 3309.45,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 178927,
+      "nome": "Aliel Machado",
+      "uf": "PR",
+      "partido": "PV",
+      "valor": 3595.77,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 160592,
+      "nome": "Zeca Dirceu",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 5300.0,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 220684,
+      "nome": "Tião Medeiros",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 5865.94,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 220683,
+      "nome": "Beto Richa",
+      "uf": "PR",
+      "partido": "PSDB",
+      "valor": 8018.26,
+      "qtdLancamentos": 31
+    }
+  ]
+}

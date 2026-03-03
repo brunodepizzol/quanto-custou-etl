@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "resumo_deputado",
+    "id": 220603,
+    "geradoEm": "2026-03-03T15:34:13.112948Z",
+    "versaoSchema": "1.1.0",
+    "mandatoInicioAno": 2023,
+    "mandatoFimAno": 2026,
+    "versaoCategoryMap": "1.0.0"
+  },
+  "data": {
+    "id": 220603,
+    "nome": "Dani Cunha",
+    "uf": "RJ",
+    "partido": "UNIÃO",
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220603.jpg",
+    "totaisMandato": {
+      "total": 1567952.67,
+      "qtdLancamentos": 2382,
+      "porCategoria": {
+        "ALIMENTACAO": 0.0,
+        "COMBUSTIVEL": 285774.5,
+        "CONSULTORIA_SERVICOS": 0.0,
+        "CORREIOS_TELEFONIA": 14096.86,
+        "DIVULGACAO": 380188.59,
+        "ESCRITORIO": 389667.34,
+        "HOSPEDAGEM": 16930.83,
+        "OUTROS": 252582.14,
+        "PASSAGENS": 228712.41
+      }
+    },
+    "totaisAno": {
+      "2023": 500454.58,
+      "2024": 507886.27,
+      "2025": 493527.58,
+      "2026": 66084.24
+    },
+    "porMes": {
+      "2023-01": 0.0,
+      "2023-02": 52602.11,
+      "2023-03": 58368.8,
+      "2023-04": 32526.91,
+      "2023-05": 70030.46,
+      "2023-06": 46367.3,
+      "2023-07": 44905.76,
+      "2023-08": 53365.21,
+      "2023-09": 46261.69,
+      "2023-10": 46328.6,
+      "2023-11": 38694.41,
+      "2023-12": 11003.33,
+      "2024-01": 37874.59,
+      "2024-02": 46304.85,
+      "2024-03": 44292.96,
+      "2024-04": 49840.9,
+      "2024-05": 46565.98,
+      "2024-06": 47204.63,
+      "2024-07": 42326.54,
+      "2024-08": 50946.9,
+      "2024-09": 52545.79,
+      "2024-10": 33445.86,
+      "2024-11": 33541.94,
+      "2024-12": 22995.33,
+      "2025-01": 51273.44,
+      "2025-02": 47044.35,
+      "2025-03": 40862.53,
+      "2025-04": 51738.84,
+      "2025-05": 52491.96,
+      "2025-06": 38356.75,
+      "2025-07": 29286.4,
+      "2025-08": 30267.27,
+      "2025-09": 40803.15,
+      "2025-10": 40320.93,
+      "2025-11": 28548.57,
+      "2025-12": 42533.39,
+      "2026-01": 43103.36,
+      "2026-02": 22980.88,
+      "2026-03": 0.0,
+      "2026-04": 0.0,
+      "2026-05": 0.0,
+      "2026-06": 0.0,
+      "2026-07": 0.0,
+      "2026-08": 0.0,
+      "2026-09": 0.0,
+      "2026-10": 0.0,
+      "2026-11": 0.0,
+      "2026-12": 0.0
+    },
+    "metricas": {
+      "variacaoMensalCV": 0.258556,
+      "picoMes": "2023-05",
+      "picoValor": 70030.46,
+      "fornecedorTop1Pct": 0.010587,
+      "fornecedorTop3Pct": 0.029911,
+      "fornecedorHHI": 0.000315,
+      "categoriaDominante": "ESCRITORIO",
+      "categoriaDominantePct": 0.24852,
+      "semDocumentoPct": 0.341347,
+      "recibosOutrosPct": 0.375483
+    },
+    "topFornecedores": [
+      {
+        "nome": "NOVITTA RENT A CAR TRANSPORTE LTDA ME",
+        "valor": 16600.0
+      },
+      {
+        "nome": "CONDOMINIO DO EDIFICIO RODOLPHO DE PAOLI",
+        "valor": 15298.89
+      },
+      {
+        "nome": "28.877.434 RUI MALHEIROS FURTADO",
+        "valor": 15000.0
+      },
+      {
+        "nome": "AUTO POSTO CRUZADA PENINSULA LTDA.",
+        "valor": 4942.07
+      },
+      {
+        "nome": "58.100.717 LUIZ GUSTAVO ROSA DO NASCIMENTO",
+        "valor": 3000.0
+      }
+    ],
+    "flags": [
+      "high_without_pdf",
+      "high_receipts_other"
+    ]
+  }
+}

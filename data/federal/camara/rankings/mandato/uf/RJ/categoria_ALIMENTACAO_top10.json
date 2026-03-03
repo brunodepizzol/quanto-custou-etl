@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ALIMENTACAO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.363643Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220613,
+      "nome": "Roberto Monteiro Pai",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 62223.15,
+      "qtdLancamentos": 2100
+    },
+    {
+      "id": 220599,
+      "nome": "Marcelo Crivella",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 52065.23,
+      "qtdLancamentos": 1247
+    },
+    {
+      "id": 74856,
+      "nome": "Laura Carneiro",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 28263.09,
+      "qtdLancamentos": 1962
+    },
+    {
+      "id": 220605,
+      "nome": "Bandeira de Mello",
+      "uf": "RJ",
+      "partido": "PSB",
+      "valor": 26012.54,
+      "qtdLancamentos": 2286
+    },
+    {
+      "id": 178943,
+      "nome": "Marcos Soares",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 23355.95,
+      "qtdLancamentos": 1667
+    },
+    {
+      "id": 74171,
+      "nome": "Chico Alencar",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 12747.9,
+      "qtdLancamentos": 1634
+    },
+    {
+      "id": 205550,
+      "nome": "Jorge Braz",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 12377.76,
+      "qtdLancamentos": 966
+    },
+    {
+      "id": 204444,
+      "nome": "Helio Lopes",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 6929.03,
+      "qtdLancamentos": 1071
+    },
+    {
+      "id": 220611,
+      "nome": "General Pazuello",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 5319.73,
+      "qtdLancamentos": 1444
+    },
+    {
+      "id": 204448,
+      "nome": "Luiz Antonio Corrêa",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 5281.38,
+      "qtdLancamentos": 380
+    }
+  ]
+}

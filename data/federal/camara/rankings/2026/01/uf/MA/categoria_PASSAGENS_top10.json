@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "PASSAGENS",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.044110Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 226708,
+      "nome": "Allan Garcês",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 0.0,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 178881,
+      "nome": "Aluisio Mendes",
+      "uf": "MA",
+      "partido": "REPUBLICANOS",
+      "valor": 0.0,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 220707,
+      "nome": "Amanda Gentil",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 0.0,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 141408,
+      "nome": "Cleber Verde",
+      "uf": "MA",
+      "partido": "MDB",
+      "valor": 0.0,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 220686,
+      "nome": "Duarte Jr.",
+      "uf": "MA",
+      "partido": "PSB",
+      "valor": 0.0,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 178884,
+      "nome": "Hildo Rocha",
+      "uf": "MA",
+      "partido": "MDB",
+      "valor": 0.0,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 220687,
+      "nome": "Márcio Honaiser",
+      "uf": "MA",
+      "partido": "PDT",
+      "valor": 0.0,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 81055,
+      "nome": "Márcio Jerry",
+      "uf": "MA",
+      "partido": "PCdoB",
+      "valor": 0.0,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 204570,
+      "nome": "Pastor Gil",
+      "uf": "MA",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 122974,
+      "nome": "Pedro Lucas Fernandes",
+      "uf": "MA",
+      "partido": "UNIÃO",
+      "valor": 0.0,
+      "qtdLancamentos": 19
+    }
+  ]
+}

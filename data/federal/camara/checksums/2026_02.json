@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "checksums",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2
+    },
+    "geradoEm": "2026-03-03T15:29:12.815650Z",
+    "versaoSchema": "1.1.0"
+  },
+  "data": {
+    "totalGasto": 6377187.91,
+    "agentesConsiderados": 456,
+    "files": [
+      {
+        "path": "federal/camara/aggregates/2026/02/totais_deputados.json",
+        "sha256": "4db0bd94a16f796e7f77775d6c416bf44702ab55218d01f468e89e1e77dc699e"
+      }
+    ],
+    "combinedSha256": "056c6700ac5c510df2365fb643dd7d9ff4b2eb29def4e44fc7798bfb96704e16"
+  }
+}

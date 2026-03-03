@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.770457Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 107970,
+      "nome": "Ana Paula Leão",
+      "uf": "MG",
+      "partido": "PP",
+      "valor": 12905.8,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 10890.41,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 204494,
+      "nome": "Fred Costa",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 9571.3,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 74156,
+      "nome": "Leonardo Monteiro",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 8146.27,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 198197,
+      "nome": "Greyce Elias",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 7977.25,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 74646,
+      "nome": "Aécio Neves",
+      "uf": "MG",
+      "partido": "PSDB",
+      "valor": 5488.35,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 160588,
+      "nome": "Diego Andrade",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 5197.01,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 141531,
+      "nome": "Rodrigo de Castro",
+      "uf": "MG",
+      "partido": "UNIÃO",
+      "valor": 4918.84,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 204512,
+      "nome": "Delegado Marcelo Freitas",
+      "uf": "MG",
+      "partido": "UNIÃO",
+      "valor": 4800.0,
+      "qtdLancamentos": 25
+    },
+    {
+      "id": 74161,
+      "nome": "Reginaldo Lopes",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 4045.5,
+      "qtdLancamentos": 5
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "GO"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.337904Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204391,
+      "nome": "José Nelto",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 1198350.0,
+      "qtdLancamentos": 695
+    },
+    {
+      "id": 204419,
+      "nome": "Glaustin da Fokus",
+      "uf": "GO",
+      "partido": "PODE",
+      "valor": 1126799.8,
+      "qtdLancamentos": 64
+    },
+    {
+      "id": 178876,
+      "nome": "Célio Silveira",
+      "uf": "GO",
+      "partido": "MDB",
+      "valor": 1109200.0,
+      "qtdLancamentos": 752
+    },
+    {
+      "id": 220572,
+      "nome": "Marussa Boldrin",
+      "uf": "GO",
+      "partido": "MDB",
+      "valor": 995232.4,
+      "qtdLancamentos": 1016
+    },
+    {
+      "id": 220570,
+      "nome": "Dr. Ismael Alexandrino",
+      "uf": "GO",
+      "partido": "PSD",
+      "valor": 840325.87,
+      "qtdLancamentos": 602
+    },
+    {
+      "id": 220567,
+      "nome": "Jeferson Rodrigues",
+      "uf": "GO",
+      "partido": "REPUBLICANOS",
+      "valor": 719200.0,
+      "qtdLancamentos": 271
+    },
+    {
+      "id": 160598,
+      "nome": "Flávia Morais",
+      "uf": "GO",
+      "partido": "PDT",
+      "valor": 717810.0,
+      "qtdLancamentos": 469
+    },
+    {
+      "id": 74371,
+      "nome": "Rubens Otoni",
+      "uf": "GO",
+      "partido": "PT",
+      "valor": 686935.99,
+      "qtdLancamentos": 742
+    },
+    {
+      "id": 220566,
+      "nome": "Lêda Borges",
+      "uf": "GO",
+      "partido": "PSDB",
+      "valor": 665609.0,
+      "qtdLancamentos": 787
+    },
+    {
+      "id": 204412,
+      "nome": "Dr. Zacharias Calil",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 544164.69,
+      "qtdLancamentos": 1522
+    }
+  ]
+}

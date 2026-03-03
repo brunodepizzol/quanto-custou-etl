@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.363952Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220605,
+      "nome": "Bandeira de Mello",
+      "uf": "RJ",
+      "partido": "PSB",
+      "valor": 137959.9,
+      "qtdLancamentos": 2286
+    },
+    {
+      "id": 204444,
+      "nome": "Helio Lopes",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 92027.67,
+      "qtdLancamentos": 1071
+    },
+    {
+      "id": 220598,
+      "nome": "Tarcísio Motta",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 54040.18,
+      "qtdLancamentos": 2003
+    },
+    {
+      "id": 220617,
+      "nome": "Murillo Gouvea",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 54016.27,
+      "qtdLancamentos": 1375
+    },
+    {
+      "id": 204462,
+      "nome": "Chris Tonietto",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 44916.96,
+      "qtdLancamentos": 2354
+    },
+    {
+      "id": 220613,
+      "nome": "Roberto Monteiro Pai",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 39823.24,
+      "qtdLancamentos": 2100
+    },
+    {
+      "id": 178943,
+      "nome": "Marcos Soares",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 38788.46,
+      "qtdLancamentos": 1667
+    },
+    {
+      "id": 74171,
+      "nome": "Chico Alencar",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 28727.31,
+      "qtdLancamentos": 1634
+    },
+    {
+      "id": 141450,
+      "nome": "Hugo Leal",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 26776.22,
+      "qtdLancamentos": 1316
+    },
+    {
+      "id": 204464,
+      "nome": "Talíria Petrone",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 23557.42,
+      "qtdLancamentos": 1668
+    }
+  ]
+}

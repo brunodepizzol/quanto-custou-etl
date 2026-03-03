@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ALIMENTACAO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.454608Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204515,
+      "nome": "André Janones",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 693.99,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 107970,
+      "nome": "Ana Paula Leão",
+      "uf": "MG",
+      "partido": "PP",
+      "valor": 651.8,
+      "qtdLancamentos": 51
+    },
+    {
+      "id": 179000,
+      "nome": "Marcelo Álvaro Antônio",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 375.55,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 92776,
+      "nome": "Stefano Aguiar",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 357.83,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 160632,
+      "nome": "Zé Silva",
+      "uf": "MG",
+      "partido": "SOLIDARIEDADE",
+      "valor": 331.55,
+      "qtdLancamentos": 77
+    },
+    {
+      "id": 141487,
+      "nome": "Luiz Fernando Faria",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 272.8,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 161550,
+      "nome": "Emidinho Madeira",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 211.6,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 207.08,
+      "qtdLancamentos": 57
+    },
+    {
+      "id": 204480,
+      "nome": "Rogério Correia",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 112.75,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 77003,
+      "nome": "Sergio Santos Rodrigues",
+      "uf": "MG",
+      "partido": "PODE",
+      "valor": 107.7,
+      "qtdLancamentos": 33
+    }
+  ]
+}

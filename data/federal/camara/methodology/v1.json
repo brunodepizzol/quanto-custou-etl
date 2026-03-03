@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "methodology",
+    "versao": "v1",
+    "geradoEm": "2026-03-03T15:34:13.401611Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "metricas": {
+    "total": "Soma do valorLiquido/valorDocumento no período.",
+    "variacaoMensalCV": "Coeficiente de variação (desvio padrão populacional / média) dos totais mensais (>0).",
+    "picoMensal": "Maior total mensal do período (mês e valor).",
+    "fornecedorTop1Pct": "Participação do fornecedor #1 no total do período.",
+    "fornecedorTop3Pct": "Participação acumulada dos 3 maiores fornecedores.",
+    "fornecedorHHI": "Índice HHI baseado nas participações de fornecedores (0..1).",
+    "categoriaDominantePct": "Maior categoriaQC / total do período.",
+    "semDocumentoPct": "valorSemDocumentoPdf / total (indicador neutro de documentação pública em PDF).",
+    "recibosOutrosPct": "valorRecibosOutros / total (indicador neutro)."
+  },
+  "flags": {
+    "high_supplier_concentration": {
+      "regra": "fornecedorTop1Pct >= 0.60"
+    },
+    "spiky_spend": {
+      "regra": "picoValor >= 4x média mensal e >=3 meses com gasto"
+    },
+    "category_dominant": {
+      "regra": "categoriaDominantePct >= 0.70"
+    },
+    "high_without_pdf": {
+      "regra": "semDocumentoPct >= 0.30 e total >= 20000"
+    },
+    "high_receipts_other": {
+      "regra": "recibosOutrosPct >= 0.30 e total >= 20000"
+    }
+  },
+  "observacoes": [
+    "Flags não indicam irregularidade; apenas padrões para investigação.",
+    "Alguns períodos podem ser parciais (ano em andamento). Ver manifest.json."
+  ]
+}

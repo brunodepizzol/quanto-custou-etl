@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.378719Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220547,
+      "nome": "Marcos Pollon",
+      "uf": "MS",
+      "partido": "PL",
+      "valor": 1546811.89,
+      "qtdLancamentos": 893
+    },
+    {
+      "id": 204351,
+      "nome": "Dr. Luiz Ovando",
+      "uf": "MS",
+      "partido": "PP",
+      "valor": 1620328.08,
+      "qtdLancamentos": 1963
+    },
+    {
+      "id": 74376,
+      "nome": "Vander Loubet",
+      "uf": "MS",
+      "partido": "PT",
+      "valor": 1628167.97,
+      "qtdLancamentos": 1467
+    },
+    {
+      "id": 220548,
+      "nome": "Camila Jara",
+      "uf": "MS",
+      "partido": "PT",
+      "valor": 1659360.71,
+      "qtdLancamentos": 1615
+    },
+    {
+      "id": 141411,
+      "nome": "Dagoberto Nogueira",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 1674293.35,
+      "qtdLancamentos": 872
+    },
+    {
+      "id": 220546,
+      "nome": "Rodolfo Nogueira",
+      "uf": "MS",
+      "partido": "PL",
+      "valor": 1686755.58,
+      "qtdLancamentos": 1174
+    },
+    {
+      "id": 74374,
+      "nome": "Geraldo Resende",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 1719873.19,
+      "qtdLancamentos": 565
+    },
+    {
+      "id": 204358,
+      "nome": "Beto Pereira",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 1757058.46,
+      "qtdLancamentos": 788
+    }
+  ]
+}

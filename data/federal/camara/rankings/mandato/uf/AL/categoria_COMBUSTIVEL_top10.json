@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "AL"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.357159Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220581,
+      "nome": "Luciano Amaral",
+      "uf": "AL",
+      "partido": "PSD",
+      "valor": 203071.24,
+      "qtdLancamentos": 1090
+    },
+    {
+      "id": 160541,
+      "nome": "Arthur Lira",
+      "uf": "AL",
+      "partido": "PP",
+      "valor": 114427.62,
+      "qtdLancamentos": 538
+    },
+    {
+      "id": 204436,
+      "nome": "Isnaldo Bulhões Jr.",
+      "uf": "AL",
+      "partido": "MDB",
+      "valor": 109435.62,
+      "qtdLancamentos": 1167
+    },
+    {
+      "id": 178843,
+      "nome": "Marx Beltrão",
+      "uf": "AL",
+      "partido": "PP",
+      "valor": 92056.23,
+      "qtdLancamentos": 848
+    },
+    {
+      "id": 220582,
+      "nome": "Daniel Barbosa",
+      "uf": "AL",
+      "partido": "PP",
+      "valor": 91822.32,
+      "qtdLancamentos": 791
+    },
+    {
+      "id": 220586,
+      "nome": "Rafael Brito",
+      "uf": "AL",
+      "partido": "MDB",
+      "valor": 77446.55,
+      "qtdLancamentos": 1321
+    },
+    {
+      "id": 220576,
+      "nome": "Alfredo Gaspar",
+      "uf": "AL",
+      "partido": "UNIÃO",
+      "valor": 76598.74,
+      "qtdLancamentos": 785
+    },
+    {
+      "id": 171617,
+      "nome": "Paulão",
+      "uf": "AL",
+      "partido": "PT",
+      "valor": 64341.16,
+      "qtdLancamentos": 1031
+    },
+    {
+      "id": 220583,
+      "nome": "Delegado Fabio Costa",
+      "uf": "AL",
+      "partido": "PP",
+      "valor": 48763.81,
+      "qtdLancamentos": 758
+    }
+  ]
+}

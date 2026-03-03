@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.342508Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 292963.16,
+      "qtdLancamentos": 3400
+    },
+    {
+      "id": 204409,
+      "nome": "Daniel Trzeciak",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 291629.32,
+      "qtdLancamentos": 1990
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 275188.17,
+      "qtdLancamentos": 3076
+    },
+    {
+      "id": 220554,
+      "nome": "Alexandre Lindenmeyer",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 255758.6,
+      "qtdLancamentos": 6087
+    },
+    {
+      "id": 220553,
+      "nome": "Denise Pessôa",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 252476.01,
+      "qtdLancamentos": 5170
+    },
+    {
+      "id": 178835,
+      "nome": "Afonso Motta",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 248573.4,
+      "qtdLancamentos": 2585
+    },
+    {
+      "id": 204404,
+      "nome": "Lucas Redecker",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 225370.62,
+      "qtdLancamentos": 2423
+    },
+    {
+      "id": 136811,
+      "nome": "Afonso Hamm",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 221795.68,
+      "qtdLancamentos": 2997
+    },
+    {
+      "id": 74398,
+      "nome": "Maria do Rosário",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 214484.78,
+      "qtdLancamentos": 3794
+    },
+    {
+      "id": 204416,
+      "nome": "Sanderson",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 206770.93,
+      "qtdLancamentos": 1996
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ALIMENTACAO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.478246Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204387,
+      "nome": "Sargento Fahur",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 1355.1,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 231911,
+      "nome": "Lenir de Assis",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 916.34,
+      "qtdLancamentos": 72
+    },
+    {
+      "id": 224333,
+      "nome": "Welter",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 591.86,
+      "qtdLancamentos": 90
+    },
+    {
+      "id": 220682,
+      "nome": "Tadeu Veneri",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 430.24,
+      "qtdLancamentos": 74
+    },
+    {
+      "id": 178927,
+      "nome": "Aliel Machado",
+      "uf": "PR",
+      "partido": "PV",
+      "valor": 0.0,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 220683,
+      "nome": "Beto Richa",
+      "uf": "PR",
+      "partido": "PSDB",
+      "valor": 0.0,
+      "qtdLancamentos": 53
+    },
+    {
+      "id": 220704,
+      "nome": "Carol Dartora",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 0.0,
+      "qtdLancamentos": 68
+    },
+    {
+      "id": 220701,
+      "nome": "Delegado Matheus Laiola",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 0.0,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 178929,
+      "nome": "Diego Garcia",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 0.0,
+      "qtdLancamentos": 76
+    },
+    {
+      "id": 73768,
+      "nome": "Dilceu Sperafico",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 0.0,
+      "qtdLancamentos": 30
+    }
+  ]
+}

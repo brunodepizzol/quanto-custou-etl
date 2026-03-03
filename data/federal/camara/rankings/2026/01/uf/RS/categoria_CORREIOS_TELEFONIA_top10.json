@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.025533Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220554,
+      "nome": "Alexandre Lindenmeyer",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 1522.06,
+      "qtdLancamentos": 53
+    },
+    {
+      "id": 178963,
+      "nome": "Covatti Filho",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 1489.95,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 73692,
+      "nome": "Osmar Terra",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 1422.8,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 204406,
+      "nome": "Pedro Westphalen",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 1379.1,
+      "qtdLancamentos": 63
+    },
+    {
+      "id": 74398,
+      "nome": "Maria do Rosário",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 1365.32,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 1258.22,
+      "qtdLancamentos": 80
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 1247.98,
+      "qtdLancamentos": 63
+    },
+    {
+      "id": 160673,
+      "nome": "Giovani Cherini",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 1022.56,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 178964,
+      "nome": "Heitor Schuch",
+      "uf": "RS",
+      "partido": "PSB",
+      "valor": 898.72,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 716.11,
+      "qtdLancamentos": 52
+    }
+  ]
+}

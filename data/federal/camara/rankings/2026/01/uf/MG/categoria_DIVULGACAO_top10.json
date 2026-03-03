@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.023240Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74158,
+      "nome": "Mário Heringer",
+      "uf": "MG",
+      "partido": "PDT",
+      "valor": 45970.0,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 178895,
+      "nome": "Misael Varella",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 34487.5,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 204512,
+      "nome": "Delegado Marcelo Freitas",
+      "uf": "MG",
+      "partido": "UNIÃO",
+      "valor": 33800.0,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 77003,
+      "nome": "Sergio Santos Rodrigues",
+      "uf": "MG",
+      "partido": "PODE",
+      "valor": 32480.0,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 220628,
+      "nome": "Mauricio do Vôlei",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 30000.0,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 204517,
+      "nome": "Zé Vitor",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 28742.0,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 160556,
+      "nome": "Padre João",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 27071.77,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 160632,
+      "nome": "Zé Silva",
+      "uf": "MG",
+      "partido": "SOLIDARIEDADE",
+      "valor": 22265.23,
+      "qtdLancamentos": 49
+    },
+    {
+      "id": 220620,
+      "nome": "Rosângela Reis",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 20328.42,
+      "qtdLancamentos": 14
+    },
+    {
+      "id": 178896,
+      "nome": "Newton Cardoso Jr",
+      "uf": "MG",
+      "partido": "MDB",
+      "valor": 20270.0,
+      "qtdLancamentos": 5
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.461450Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 13605.51,
+      "qtdLancamentos": 100
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 7301.0,
+      "qtdLancamentos": 118
+    },
+    {
+      "id": 204406,
+      "nome": "Pedro Westphalen",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 5535.79,
+      "qtdLancamentos": 102
+    },
+    {
+      "id": 73692,
+      "nome": "Osmar Terra",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 4323.8,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 204409,
+      "nome": "Daniel Trzeciak",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 4238.26,
+      "qtdLancamentos": 83
+    },
+    {
+      "id": 160538,
+      "nome": "Bohn Gass",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 3809.0,
+      "qtdLancamentos": 57
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 2505.06,
+      "qtdLancamentos": 115
+    },
+    {
+      "id": 136811,
+      "nome": "Afonso Hamm",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 1789.0,
+      "qtdLancamentos": 61
+    },
+    {
+      "id": 179001,
+      "nome": "Márcio Biolchi",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 1720.0,
+      "qtdLancamentos": 50
+    },
+    {
+      "id": 220555,
+      "nome": "Daiana Santos",
+      "uf": "RS",
+      "partido": "PCdoB",
+      "valor": 1509.0,
+      "qtdLancamentos": 30
+    }
+  ]
+}

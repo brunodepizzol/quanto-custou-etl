@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "BA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.450084Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 205476,
+      "nome": "Charles Fernandes",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 13928.25,
+      "qtdLancamentos": 39
+    },
+    {
+      "id": 141458,
+      "nome": "João Carlos Bacelar",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 11624.45,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 229585,
+      "nome": "Elisangela Araujo",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 11430.53,
+      "qtdLancamentos": 58
+    },
+    {
+      "id": 220691,
+      "nome": "Diego Coronel",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 10090.11,
+      "qtdLancamentos": 40
+    },
+    {
+      "id": 74537,
+      "nome": "Claudio Cajado",
+      "uf": "BA",
+      "partido": "PP",
+      "valor": 9830.58,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 74574,
+      "nome": "Paulo Magalhães",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 9744.27,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 139285,
+      "nome": "Lídice da Mata",
+      "uf": "BA",
+      "partido": "PSB",
+      "valor": 9513.9,
+      "qtdLancamentos": 108
+    },
+    {
+      "id": 160569,
+      "nome": "Waldenor Pereira",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 9330.63,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 220692,
+      "nome": "Dal Barreto",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 9009.77,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 220693,
+      "nome": "Roberta Roma",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 8412.29,
+      "qtdLancamentos": 38
+    }
+  ]
+}

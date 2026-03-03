@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "resumo_deputado",
+    "id": 220621,
+    "geradoEm": "2026-03-03T15:34:13.255329Z",
+    "versaoSchema": "1.1.0",
+    "mandatoInicioAno": 2023,
+    "mandatoFimAno": 2026,
+    "versaoCategoryMap": "1.0.0"
+  },
+  "data": {
+    "id": 220621,
+    "nome": "Sargento Gonçalves",
+    "uf": "RN",
+    "partido": "PL",
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220621.jpg",
+    "totaisMandato": {
+      "total": 1362268.51,
+      "qtdLancamentos": 765,
+      "porCategoria": {
+        "ALIMENTACAO": 0.0,
+        "COMBUSTIVEL": 94786.88,
+        "CONSULTORIA_SERVICOS": 0.0,
+        "CORREIOS_TELEFONIA": 0.0,
+        "DIVULGACAO": 720750.0,
+        "ESCRITORIO": 55556.65,
+        "HOSPEDAGEM": 0.0,
+        "OUTROS": 144000.0,
+        "PASSAGENS": 347174.98
+      }
+    },
+    "totaisAno": {
+      "2023": 369643.57,
+      "2024": 418928.31,
+      "2025": 532255.16,
+      "2026": 41441.47
+    },
+    "porMes": {
+      "2023-01": 0.0,
+      "2023-02": 25864.77,
+      "2023-03": 35061.8,
+      "2023-04": 24718.12,
+      "2023-05": 28020.96,
+      "2023-06": 23828.45,
+      "2023-07": 17721.08,
+      "2023-08": 29004.12,
+      "2023-09": 27145.38,
+      "2023-10": 32921.49,
+      "2023-11": 32250.36,
+      "2023-12": 93107.04,
+      "2024-01": 21561.92,
+      "2024-02": 13703.56,
+      "2024-03": 19939.09,
+      "2024-04": 25460.3,
+      "2024-05": 21085.55,
+      "2024-06": 20064.37,
+      "2024-07": 37614.47,
+      "2024-08": 34681.79,
+      "2024-09": 20933.75,
+      "2024-10": 25191.57,
+      "2024-11": 19832.39,
+      "2024-12": 158859.55,
+      "2025-01": 25742.03,
+      "2025-02": 16947.65,
+      "2025-03": 33633.09,
+      "2025-04": 40738.39,
+      "2025-05": 29057.98,
+      "2025-06": 21719.65,
+      "2025-07": 8748.9,
+      "2025-08": 4821.25,
+      "2025-09": 17086.81,
+      "2025-10": 157232.06,
+      "2025-11": 30884.28,
+      "2025-12": 145643.07,
+      "2026-01": 41441.47,
+      "2026-02": 0.0,
+      "2026-03": 0.0,
+      "2026-04": 0.0,
+      "2026-05": 0.0,
+      "2026-06": 0.0,
+      "2026-07": 0.0,
+      "2026-08": 0.0,
+      "2026-09": 0.0,
+      "2026-10": 0.0,
+      "2026-11": 0.0,
+      "2026-12": 0.0
+    },
+    "metricas": {
+      "variacaoMensalCV": 0.993852,
+      "picoMes": "2024-12",
+      "picoValor": 158859.55,
+      "fornecedorTop1Pct": 0.019086,
+      "fornecedorTop3Pct": 0.026206,
+      "fornecedorHHI": 0.000394,
+      "categoriaDominante": "DIVULGACAO",
+      "categoriaDominantePct": 0.529081,
+      "semDocumentoPct": 0.628805,
+      "recibosOutrosPct": 0.142703
+    },
+    "topFornecedores": [
+      {
+        "nome": "BANDEIRANTES PROPAGANDA POTIGUAR LTDA",
+        "valor": 26000.0
+      },
+      {
+        "nome": "CENTRAL DE MIDIA E MARKETING LTDA",
+        "valor": 6000.0
+      },
+      {
+        "nome": "FUNDAÇÃO EURICO BERGSTEN",
+        "valor": 3700.0
+      },
+      {
+        "nome": "RÁDIO LIBERTADORA MOSSOROENSE LTDA.",
+        "valor": 2000.0
+      },
+      {
+        "nome": "AUTO POSTO SAO TOME LTDA IV",
+        "valor": 440.78
+      }
+    ],
+    "flags": [
+      "spiky_spend",
+      "high_without_pdf"
+    ]
+  }
+}

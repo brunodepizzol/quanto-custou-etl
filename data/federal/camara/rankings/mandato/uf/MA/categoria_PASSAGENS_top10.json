@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "PASSAGENS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.361623Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204574,
+      "nome": "Junior Lourenço",
+      "uf": "MA",
+      "partido": "PL",
+      "valor": 369448.67,
+      "qtdLancamentos": 599
+    },
+    {
+      "id": 81055,
+      "nome": "Márcio Jerry",
+      "uf": "MA",
+      "partido": "PCdoB",
+      "valor": 358635.56,
+      "qtdLancamentos": 1685
+    },
+    {
+      "id": 215043,
+      "nome": "Josivaldo JP",
+      "uf": "MA",
+      "partido": "PSD",
+      "valor": 280609.72,
+      "qtdLancamentos": 839
+    },
+    {
+      "id": 220686,
+      "nome": "Duarte Jr.",
+      "uf": "MA",
+      "partido": "PSB",
+      "valor": 269388.77,
+      "qtdLancamentos": 971
+    },
+    {
+      "id": 178887,
+      "nome": "Rubens Pereira Júnior",
+      "uf": "MA",
+      "partido": "PT",
+      "valor": 255902.93,
+      "qtdLancamentos": 455
+    },
+    {
+      "id": 178881,
+      "nome": "Aluisio Mendes",
+      "uf": "MA",
+      "partido": "REPUBLICANOS",
+      "valor": 254761.74,
+      "qtdLancamentos": 1295
+    },
+    {
+      "id": 226708,
+      "nome": "Allan Garcês",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 209746.17,
+      "qtdLancamentos": 839
+    },
+    {
+      "id": 122974,
+      "nome": "Pedro Lucas Fernandes",
+      "uf": "MA",
+      "partido": "UNIÃO",
+      "valor": 196722.25,
+      "qtdLancamentos": 1166
+    },
+    {
+      "id": 220687,
+      "nome": "Márcio Honaiser",
+      "uf": "MA",
+      "partido": "PDT",
+      "valor": 174681.41,
+      "qtdLancamentos": 1065
+    },
+    {
+      "id": 141408,
+      "nome": "Cleber Verde",
+      "uf": "MA",
+      "partido": "MDB",
+      "valor": 168739.78,
+      "qtdLancamentos": 364
+    }
+  ]
+}

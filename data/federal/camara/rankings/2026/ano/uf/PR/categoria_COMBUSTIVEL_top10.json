@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.478272Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 224333,
+      "nome": "Welter",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 17258.3,
+      "qtdLancamentos": 90
+    },
+    {
+      "id": 223128,
+      "nome": "Rodrigo Estacho",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 13133.58,
+      "qtdLancamentos": 87
+    },
+    {
+      "id": 220685,
+      "nome": "Paulo Litro",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 12759.69,
+      "qtdLancamentos": 58
+    },
+    {
+      "id": 220682,
+      "nome": "Tadeu Veneri",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 9260.02,
+      "qtdLancamentos": 74
+    },
+    {
+      "id": 178929,
+      "nome": "Diego Garcia",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 8610.34,
+      "qtdLancamentos": 76
+    },
+    {
+      "id": 204410,
+      "nome": "Luisa Canziani",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 8371.37,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 220683,
+      "nome": "Beto Richa",
+      "uf": "PR",
+      "partido": "PSDB",
+      "valor": 7798.23,
+      "qtdLancamentos": 53
+    },
+    {
+      "id": 204387,
+      "nome": "Sargento Fahur",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 7553.68,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 220701,
+      "nome": "Delegado Matheus Laiola",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 6574.04,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 204398,
+      "nome": "Felipe Francischini",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 6436.68,
+      "qtdLancamentos": 30
+    }
+  ]
+}

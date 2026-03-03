@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.770494Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 160640,
+      "nome": "Eros Biondini",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 4837.0,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 204508,
+      "nome": "Igor Timo",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 1250.0,
+      "qtdLancamentos": 39
+    },
+    {
+      "id": 74159,
+      "nome": "Odair Cunha",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 1243.0,
+      "qtdLancamentos": 46
+    },
+    {
+      "id": 160632,
+      "nome": "Zé Silva",
+      "uf": "MG",
+      "partido": "SOLIDARIEDADE",
+      "valor": 1107.9,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 206018,
+      "nome": "Célia Xakriabá",
+      "uf": "MG",
+      "partido": "PSOL",
+      "valor": 594.0,
+      "qtdLancamentos": 97
+    },
+    {
+      "id": 198197,
+      "nome": "Greyce Elias",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 500.0,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 381.15,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 204492,
+      "nome": "Paulo Guedes",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 357.12,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 178896,
+      "nome": "Newton Cardoso Jr",
+      "uf": "MG",
+      "partido": "MDB",
+      "valor": 310.0,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 179000,
+      "nome": "Marcelo Álvaro Antônio",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 90.0,
+      "qtdLancamentos": 17
+    }
+  ]
+}

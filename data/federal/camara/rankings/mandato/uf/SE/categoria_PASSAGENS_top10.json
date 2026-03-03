@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "PASSAGENS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.384615Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204408,
+      "nome": "Gustinho Ribeiro",
+      "uf": "SE",
+      "partido": "REPUBLICANOS",
+      "valor": 366289.12,
+      "qtdLancamentos": 385
+    },
+    {
+      "id": 220564,
+      "nome": "Yandra Moura",
+      "uf": "SE",
+      "partido": "UNIÃO",
+      "valor": 337525.59,
+      "qtdLancamentos": 563
+    },
+    {
+      "id": 220563,
+      "nome": "Icaro de Valmir",
+      "uf": "SE",
+      "partido": "PL",
+      "valor": 318767.51,
+      "qtdLancamentos": 1074
+    },
+    {
+      "id": 165470,
+      "nome": "Rodrigo Valadares",
+      "uf": "SE",
+      "partido": "UNIÃO",
+      "valor": 291821.27,
+      "qtdLancamentos": 855
+    },
+    {
+      "id": 220561,
+      "nome": "Delegada Katarina",
+      "uf": "SE",
+      "partido": "PSD",
+      "valor": 291240.29,
+      "qtdLancamentos": 1816
+    },
+    {
+      "id": 178970,
+      "nome": "João Daniel",
+      "uf": "SE",
+      "partido": "PT",
+      "valor": 176967.84,
+      "qtdLancamentos": 644
+    },
+    {
+      "id": 220560,
+      "nome": "Thiago de Joaldo",
+      "uf": "SE",
+      "partido": "PP",
+      "valor": 139765.52,
+      "qtdLancamentos": 925
+    },
+    {
+      "id": 171623,
+      "nome": "Fabio Reis",
+      "uf": "SE",
+      "partido": "PSD",
+      "valor": 79541.77,
+      "qtdLancamentos": 534
+    }
+  ]
+}

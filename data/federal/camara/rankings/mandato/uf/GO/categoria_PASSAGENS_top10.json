@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "PASSAGENS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "GO"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.337970Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220568,
+      "nome": "Gustavo Gayer",
+      "uf": "GO",
+      "partido": "PL",
+      "valor": 62841.29,
+      "qtdLancamentos": 1329
+    },
+    {
+      "id": 220570,
+      "nome": "Dr. Ismael Alexandrino",
+      "uf": "GO",
+      "partido": "PSD",
+      "valor": 45555.23,
+      "qtdLancamentos": 602
+    },
+    {
+      "id": 220572,
+      "nome": "Marussa Boldrin",
+      "uf": "GO",
+      "partido": "MDB",
+      "valor": 29605.64,
+      "qtdLancamentos": 1016
+    },
+    {
+      "id": 220569,
+      "nome": "Silvye Alves",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 28956.16,
+      "qtdLancamentos": 783
+    },
+    {
+      "id": 204391,
+      "nome": "José Nelto",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 28857.33,
+      "qtdLancamentos": 695
+    },
+    {
+      "id": 220567,
+      "nome": "Jeferson Rodrigues",
+      "uf": "GO",
+      "partido": "REPUBLICANOS",
+      "valor": 17223.87,
+      "qtdLancamentos": 271
+    },
+    {
+      "id": 204412,
+      "nome": "Dr. Zacharias Calil",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 15240.15,
+      "qtdLancamentos": 1522
+    },
+    {
+      "id": 220565,
+      "nome": "Delegada Adriana Accorsi",
+      "uf": "GO",
+      "partido": "PT",
+      "valor": 13295.34,
+      "qtdLancamentos": 434
+    },
+    {
+      "id": 220566,
+      "nome": "Lêda Borges",
+      "uf": "GO",
+      "partido": "PSDB",
+      "valor": 4739.02,
+      "qtdLancamentos": 787
+    },
+    {
+      "id": 160598,
+      "nome": "Flávia Morais",
+      "uf": "GO",
+      "partido": "PDT",
+      "valor": 3079.73,
+      "qtdLancamentos": 469
+    }
+  ]
+}

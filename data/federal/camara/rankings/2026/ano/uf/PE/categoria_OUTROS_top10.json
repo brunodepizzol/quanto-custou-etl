@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "OUTROS",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.489600Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220669,
+      "nome": "Lula da Fonte",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 37940.8,
+      "qtdLancamentos": 67
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 30000.0,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 141431,
+      "nome": "Fernando Coelho Filho",
+      "uf": "PE",
+      "partido": "UNIÃO",
+      "valor": 22238.1,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 220665,
+      "nome": "Clarissa Tércio",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 19500.0,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 88256,
+      "nome": "Clodoaldo Magalhães",
+      "uf": "PE",
+      "partido": "PV",
+      "valor": 18970.42,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 72442,
+      "nome": "Felipe Carreras",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 16162.94,
+      "qtdLancamentos": 84
+    },
+    {
+      "id": 141421,
+      "nome": "Eduardo da Fonte",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 15325.0,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 204426,
+      "nome": "Carlos Veras",
+      "uf": "PE",
+      "partido": "PT",
+      "valor": 15000.0,
+      "qtdLancamentos": 114
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 12620.0,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 220664,
+      "nome": "Guilherme Uchoa",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 12600.0,
+      "qtdLancamentos": 20
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.359097Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220685,
+      "nome": "Paulo Litro",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 1677350.43,
+      "qtdLancamentos": 1668
+    },
+    {
+      "id": 204396,
+      "nome": "Vermelho",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 1675722.42,
+      "qtdLancamentos": 1273
+    },
+    {
+      "id": 178927,
+      "nome": "Aliel Machado",
+      "uf": "PR",
+      "partido": "PV",
+      "valor": 1617989.36,
+      "qtdLancamentos": 1611
+    },
+    {
+      "id": 73768,
+      "nome": "Dilceu Sperafico",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 1616044.68,
+      "qtdLancamentos": 1600
+    },
+    {
+      "id": 178933,
+      "nome": "Sergio Souza",
+      "uf": "PR",
+      "partido": "MDB",
+      "valor": 1610367.66,
+      "qtdLancamentos": 2165
+    },
+    {
+      "id": 178934,
+      "nome": "Toninho Wandscheer",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 1608531.96,
+      "qtdLancamentos": 1024
+    },
+    {
+      "id": 178929,
+      "nome": "Diego Garcia",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 1603011.27,
+      "qtdLancamentos": 4134
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 1602931.7,
+      "qtdLancamentos": 380
+    },
+    {
+      "id": 220684,
+      "nome": "Tião Medeiros",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 1602590.21,
+      "qtdLancamentos": 1261
+    },
+    {
+      "id": 220701,
+      "nome": "Delegado Matheus Laiola",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 1588306.82,
+      "qtdLancamentos": 949
+    }
+  ]
+}

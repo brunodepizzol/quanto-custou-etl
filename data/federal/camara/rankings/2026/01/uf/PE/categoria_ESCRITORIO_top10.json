@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.052829Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 20451.69,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 17356.5,
+      "qtdLancamentos": 14
+    },
+    {
+      "id": 157130,
+      "nome": "Túlio Gadêlha",
+      "uf": "PE",
+      "partido": "REDE",
+      "valor": 13256.07,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 74428,
+      "nome": "Mendonça Filho",
+      "uf": "PE",
+      "partido": "UNIÃO",
+      "valor": 11480.87,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 73801,
+      "nome": "Renildo Calheiros",
+      "uf": "PE",
+      "partido": "PCdoB",
+      "valor": 9573.7,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 220665,
+      "nome": "Clarissa Tércio",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 8618.18,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 204426,
+      "nome": "Carlos Veras",
+      "uf": "PE",
+      "partido": "PT",
+      "valor": 8461.99,
+      "qtdLancamentos": 70
+    },
+    {
+      "id": 204423,
+      "nome": "André Ferreira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 8333.29,
+      "qtdLancamentos": 32
+    },
+    {
+      "id": 141431,
+      "nome": "Fernando Coelho Filho",
+      "uf": "PE",
+      "partido": "UNIÃO",
+      "valor": 8190.41,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 220666,
+      "nome": "Coronel Meira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 7016.79,
+      "qtdLancamentos": 15
+    }
+  ]
+}

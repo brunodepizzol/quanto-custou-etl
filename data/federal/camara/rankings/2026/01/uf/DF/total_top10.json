@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "DF"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.034017Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 73579,
+      "nome": "Alberto Fraga",
+      "uf": "DF",
+      "partido": "PL",
+      "valor": 37050.0,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 220533,
+      "nome": "Prof. Reginaldo Veras",
+      "uf": "DF",
+      "partido": "PV",
+      "valor": 32019.89,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 160575,
+      "nome": "Erika Kokay",
+      "uf": "DF",
+      "partido": "PT",
+      "valor": 31641.82,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 220532,
+      "nome": "Rafael Prudente",
+      "uf": "DF",
+      "partido": "MDB",
+      "valor": 30470.57,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 204374,
+      "nome": "Bia Kicis",
+      "uf": "DF",
+      "partido": "PL",
+      "valor": 27035.13,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 204372,
+      "nome": "Julio Cesar Ribeiro",
+      "uf": "DF",
+      "partido": "REPUBLICANOS",
+      "valor": 20867.84,
+      "qtdLancamentos": 14
+    },
+    {
+      "id": 141533,
+      "nome": "Rodrigo Rollemberg",
+      "uf": "DF",
+      "partido": "PSB",
+      "valor": 14396.59,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 220534,
+      "nome": "Fred Linhares",
+      "uf": "DF",
+      "partido": "REPUBLICANOS",
+      "valor": 13500.0,
+      "qtdLancamentos": 1
+    }
+  ]
+}

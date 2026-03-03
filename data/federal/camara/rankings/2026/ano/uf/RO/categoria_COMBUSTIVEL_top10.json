@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RO"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.501839Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178954,
+      "nome": "Lucio Mosquini",
+      "uf": "RO",
+      "partido": "MDB",
+      "valor": 11215.7,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 233594,
+      "nome": "Rafael Fera",
+      "uf": "RO",
+      "partido": "PODE",
+      "valor": 7694.58,
+      "qtdLancamentos": 73
+    },
+    {
+      "id": 204360,
+      "nome": "Silvia Cristina",
+      "uf": "RO",
+      "partido": "PP",
+      "valor": 5705.93,
+      "qtdLancamentos": 32
+    },
+    {
+      "id": 220608,
+      "nome": "Cristiane Lopes",
+      "uf": "RO",
+      "partido": "UNIÃO",
+      "valor": 5292.53,
+      "qtdLancamentos": 51
+    },
+    {
+      "id": 220610,
+      "nome": "Dr. Fernando Máximo",
+      "uf": "RO",
+      "partido": "UNIÃO",
+      "valor": 5288.95,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 220609,
+      "nome": "Maurício Carvalho",
+      "uf": "RO",
+      "partido": "UNIÃO",
+      "valor": 5085.54,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 220597,
+      "nome": "Thiago Flores",
+      "uf": "RO",
+      "partido": "REPUBLICANOS",
+      "valor": 4085.24,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 204378,
+      "nome": "Coronel Chrisóstomo",
+      "uf": "RO",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 29
+    }
+  ]
+}

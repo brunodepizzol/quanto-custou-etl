@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.454765Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 77003,
+      "nome": "Sergio Santos Rodrigues",
+      "uf": "MG",
+      "partido": "PODE",
+      "valor": 54805.0,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 204512,
+      "nome": "Delegado Marcelo Freitas",
+      "uf": "MG",
+      "partido": "UNIÃO",
+      "valor": 47300.0,
+      "qtdLancamentos": 55
+    },
+    {
+      "id": 74158,
+      "nome": "Mário Heringer",
+      "uf": "MG",
+      "partido": "PDT",
+      "valor": 45970.0,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 160632,
+      "nome": "Zé Silva",
+      "uf": "MG",
+      "partido": "SOLIDARIEDADE",
+      "valor": 44265.23,
+      "qtdLancamentos": 77
+    },
+    {
+      "id": 204518,
+      "nome": "Dr. Frederico",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 34730.0,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 178895,
+      "nome": "Misael Varella",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 34487.5,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 220628,
+      "nome": "Mauricio do Vôlei",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 30000.0,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 204517,
+      "nome": "Zé Vitor",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 28742.0,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 141487,
+      "nome": "Luiz Fernando Faria",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 28000.0,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 160556,
+      "nome": "Padre João",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 27071.77,
+      "qtdLancamentos": 45
+    }
+  ]
+}

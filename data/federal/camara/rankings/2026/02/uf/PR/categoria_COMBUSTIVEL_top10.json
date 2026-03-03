@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.784903Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 224333,
+      "nome": "Welter",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 8355.02,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 220685,
+      "nome": "Paulo Litro",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 7580.92,
+      "qtdLancamentos": 37
+    },
+    {
+      "id": 223128,
+      "nome": "Rodrigo Estacho",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 6729.51,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 220701,
+      "nome": "Delegado Matheus Laiola",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 4412.0,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 220683,
+      "nome": "Beto Richa",
+      "uf": "PR",
+      "partido": "PSDB",
+      "valor": 4388.98,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 220682,
+      "nome": "Tadeu Veneri",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 4378.96,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 178929,
+      "nome": "Diego Garcia",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 4205.23,
+      "qtdLancamentos": 40
+    },
+    {
+      "id": 220684,
+      "nome": "Tião Medeiros",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 3095.05,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 231911,
+      "nome": "Lenir de Assis",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 2794.52,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 205865,
+      "nome": "Reinhold Stephanes",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 2353.44,
+      "qtdLancamentos": 22
+    }
+  ]
+}

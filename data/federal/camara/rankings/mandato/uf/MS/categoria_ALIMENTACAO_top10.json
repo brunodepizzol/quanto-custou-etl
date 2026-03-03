@@ -1,0 +1,89 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ALIMENTACAO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.378738Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 141411,
+      "nome": "Dagoberto Nogueira",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 4282.07,
+      "qtdLancamentos": 872
+    },
+    {
+      "id": 204351,
+      "nome": "Dr. Luiz Ovando",
+      "uf": "MS",
+      "partido": "PP",
+      "valor": 2287.83,
+      "qtdLancamentos": 1963
+    },
+    {
+      "id": 74374,
+      "nome": "Geraldo Resende",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 1789.33,
+      "qtdLancamentos": 565
+    },
+    {
+      "id": 220547,
+      "nome": "Marcos Pollon",
+      "uf": "MS",
+      "partido": "PL",
+      "valor": 890.44,
+      "qtdLancamentos": 893
+    },
+    {
+      "id": 220546,
+      "nome": "Rodolfo Nogueira",
+      "uf": "MS",
+      "partido": "PL",
+      "valor": 519.4,
+      "qtdLancamentos": 1174
+    },
+    {
+      "id": 204358,
+      "nome": "Beto Pereira",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 156.78,
+      "qtdLancamentos": 788
+    },
+    {
+      "id": 220548,
+      "nome": "Camila Jara",
+      "uf": "MS",
+      "partido": "PT",
+      "valor": 0.0,
+      "qtdLancamentos": 1615
+    },
+    {
+      "id": 74376,
+      "nome": "Vander Loubet",
+      "uf": "MS",
+      "partido": "PT",
+      "valor": 0.0,
+      "qtdLancamentos": 1467
+    }
+  ]
+}

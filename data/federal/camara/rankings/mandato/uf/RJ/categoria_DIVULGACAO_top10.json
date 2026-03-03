@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.363799Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220599,
+      "nome": "Marcelo Crivella",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 1162800.0,
+      "qtdLancamentos": 1247
+    },
+    {
+      "id": 74171,
+      "nome": "Chico Alencar",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 918191.62,
+      "qtdLancamentos": 1634
+    },
+    {
+      "id": 220602,
+      "nome": "Dimas Gadelha",
+      "uf": "RJ",
+      "partido": "PT",
+      "valor": 809057.52,
+      "qtdLancamentos": 522
+    },
+    {
+      "id": 222429,
+      "nome": "Luis Carlos Gomes",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 778509.31,
+      "qtdLancamentos": 789
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 766494.94,
+      "qtdLancamentos": 782
+    },
+    {
+      "id": 204441,
+      "nome": "Otoni de Paula",
+      "uf": "RJ",
+      "partido": "MDB",
+      "valor": 734555.2,
+      "qtdLancamentos": 1072
+    },
+    {
+      "id": 178937,
+      "nome": "Altineu Côrtes",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 707600.0,
+      "qtdLancamentos": 657
+    },
+    {
+      "id": 220606,
+      "nome": "Reimont",
+      "uf": "RJ",
+      "partido": "PT",
+      "valor": 690821.82,
+      "qtdLancamentos": 1775
+    },
+    {
+      "id": 73701,
+      "nome": "Benedita da Silva",
+      "uf": "RJ",
+      "partido": "PT",
+      "valor": 670100.0,
+      "qtdLancamentos": 1063
+    },
+    {
+      "id": 205550,
+      "nome": "Jorge Braz",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 648551.06,
+      "qtdLancamentos": 966
+    }
+  ]
+}

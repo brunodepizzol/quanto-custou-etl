@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.447705Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 226837,
+      "nome": "Saulo Pedroso",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 56099.4,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 178987,
+      "nome": "Orlando Silva",
+      "uf": "SP",
+      "partido": "PCdoB",
+      "valor": 48850.0,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 221148,
+      "nome": "Alfredinho",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 44900.0,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 66828,
+      "nome": "Fausto Pinato",
+      "uf": "SP",
+      "partido": "PP",
+      "valor": 43921.15,
+      "qtdLancamentos": 37
+    },
+    {
+      "id": 204526,
+      "nome": "Luiz Philippe de Orleans e Bragança",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 42282.14,
+      "qtdLancamentos": 39
+    },
+    {
+      "id": 178989,
+      "nome": "Renata Abreu",
+      "uf": "SP",
+      "partido": "PODE",
+      "valor": 40754.3,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 204506,
+      "nome": "Marcos Pereira",
+      "uf": "SP",
+      "partido": "REPUBLICANOS",
+      "valor": 40000.0,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 178986,
+      "nome": "Nilto Tatto",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 39999.0,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 204485,
+      "nome": "Luiz Carlos Motta",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 37273.22,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 220646,
+      "nome": "Felipe Becari",
+      "uf": "SP",
+      "partido": "UNIÃO",
+      "valor": 35950.0,
+      "qtdLancamentos": 36
+    }
+  ]
+}

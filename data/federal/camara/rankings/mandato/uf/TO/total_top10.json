@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "TO"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.355020Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220544,
+      "nome": "Antonio Andrade",
+      "uf": "TO",
+      "partido": "REPUBLICANOS",
+      "valor": 1667761.76,
+      "qtdLancamentos": 800
+    },
+    {
+      "id": 220542,
+      "nome": "Alexandre Guimarães",
+      "uf": "TO",
+      "partido": "MDB",
+      "valor": 1635759.6,
+      "qtdLancamentos": 1079
+    },
+    {
+      "id": 220545,
+      "nome": "Filipe Martins",
+      "uf": "TO",
+      "partido": "PL",
+      "valor": 1592540.7,
+      "qtdLancamentos": 966
+    },
+    {
+      "id": 220543,
+      "nome": "Ricardo Ayres",
+      "uf": "TO",
+      "partido": "REPUBLICANOS",
+      "valor": 1589409.24,
+      "qtdLancamentos": 1618
+    },
+    {
+      "id": 178993,
+      "nome": "Carlos Henrique Gaguim",
+      "uf": "TO",
+      "partido": "UNIÃO",
+      "valor": 1586640.97,
+      "qtdLancamentos": 1439
+    },
+    {
+      "id": 204364,
+      "nome": "Eli Borges",
+      "uf": "TO",
+      "partido": "PL",
+      "valor": 1359368.24,
+      "qtdLancamentos": 1400
+    },
+    {
+      "id": 137070,
+      "nome": "Vicentinho Júnior",
+      "uf": "TO",
+      "partido": "PP",
+      "valor": 1034622.45,
+      "qtdLancamentos": 413
+    },
+    {
+      "id": 143084,
+      "nome": "Tiago Dimas",
+      "uf": "TO",
+      "partido": "PODE",
+      "valor": 206505.56,
+      "qtdLancamentos": 263
+    }
+  ]
+}

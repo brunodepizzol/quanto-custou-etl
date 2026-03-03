@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.041831Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 224333,
+      "nome": "Welter",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 8903.28,
+      "qtdLancamentos": 48
+    },
+    {
+      "id": 204410,
+      "nome": "Luisa Canziani",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 8100.12,
+      "qtdLancamentos": 14
+    },
+    {
+      "id": 223128,
+      "nome": "Rodrigo Estacho",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 6404.07,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 204387,
+      "nome": "Sargento Fahur",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 5513.53,
+      "qtdLancamentos": 25
+    },
+    {
+      "id": 220685,
+      "nome": "Paulo Litro",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 5178.77,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 220682,
+      "nome": "Tadeu Veneri",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 4881.06,
+      "qtdLancamentos": 40
+    },
+    {
+      "id": 178929,
+      "nome": "Diego Garcia",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 4405.11,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 178931,
+      "nome": "Luciano Ducci",
+      "uf": "PR",
+      "partido": "PSB",
+      "valor": 4382.66,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 204398,
+      "nome": "Felipe Francischini",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 4248.41,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 220683,
+      "nome": "Beto Richa",
+      "uf": "PR",
+      "partido": "PSDB",
+      "valor": 3409.25,
+      "qtdLancamentos": 22
+    }
+  ]
+}

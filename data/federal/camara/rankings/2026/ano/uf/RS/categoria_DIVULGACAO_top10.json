@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.457071Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74400,
+      "nome": "Paulo Pimenta",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 50000.0,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 49000.0,
+      "qtdLancamentos": 49
+    },
+    {
+      "id": 73486,
+      "nome": "Pompeo de Mattos",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 33840.0,
+      "qtdLancamentos": 90
+    },
+    {
+      "id": 220550,
+      "nome": "Mauricio Marcon",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 32400.0,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 204407,
+      "nome": "Fernanda Melchionna",
+      "uf": "RS",
+      "partido": "PSOL",
+      "valor": 31672.8,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 27590.8,
+      "qtdLancamentos": 115
+    },
+    {
+      "id": 204388,
+      "nome": "Bibo Nunes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 25989.61,
+      "qtdLancamentos": 91
+    },
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 25249.45,
+      "qtdLancamentos": 100
+    },
+    {
+      "id": 178963,
+      "nome": "Covatti Filho",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 25116.0,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 160673,
+      "nome": "Giovani Cherini",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 24045.0,
+      "qtdLancamentos": 45
+    }
+  ]
+}

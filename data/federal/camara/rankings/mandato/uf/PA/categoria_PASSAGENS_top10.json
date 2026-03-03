@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "PASSAGENS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.347000Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74079,
+      "nome": "José Priante",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 599626.44,
+      "qtdLancamentos": 670
+    },
+    {
+      "id": 74075,
+      "nome": "Elcione Barbalho",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 563517.44,
+      "qtdLancamentos": 1081
+    },
+    {
+      "id": 204495,
+      "nome": "Airton Faleiro",
+      "uf": "PA",
+      "partido": "PT",
+      "valor": 560013.63,
+      "qtdLancamentos": 1009
+    },
+    {
+      "id": 204498,
+      "nome": "Olival Marques",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 495344.42,
+      "qtdLancamentos": 656
+    },
+    {
+      "id": 153423,
+      "nome": "Renilce Nicodemos",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 460076.47,
+      "qtdLancamentos": 565
+    },
+    {
+      "id": 178910,
+      "nome": "Joaquim Passarinho",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 435686.77,
+      "qtdLancamentos": 1273
+    },
+    {
+      "id": 220674,
+      "nome": "Dra. Alessandra Haber",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 428695.94,
+      "qtdLancamentos": 494
+    },
+    {
+      "id": 220672,
+      "nome": "Henderson Pinto",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 427838.31,
+      "qtdLancamentos": 1112
+    },
+    {
+      "id": 74084,
+      "nome": "Raimundo Santos",
+      "uf": "PA",
+      "partido": "PSD",
+      "valor": 419620.09,
+      "qtdLancamentos": 941
+    },
+    {
+      "id": 220677,
+      "nome": "Keniston Braga",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 397164.74,
+      "qtdLancamentos": 770
+    }
+  ]
+}

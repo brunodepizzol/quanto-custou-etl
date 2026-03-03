@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "PASSAGENS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "BA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.335756Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 160553,
+      "nome": "Antonio Brito",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 535180.48,
+      "qtdLancamentos": 2085
+    },
+    {
+      "id": 160610,
+      "nome": "Valmir Assunção",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 503283.68,
+      "qtdLancamentos": 1277
+    },
+    {
+      "id": 141458,
+      "nome": "João Carlos Bacelar",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 428690.88,
+      "qtdLancamentos": 1222
+    },
+    {
+      "id": 220695,
+      "nome": "Rogéria Santos",
+      "uf": "BA",
+      "partido": "REPUBLICANOS",
+      "valor": 381094.7,
+      "qtdLancamentos": 1171
+    },
+    {
+      "id": 178857,
+      "nome": "Jorge Solla",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 374727.64,
+      "qtdLancamentos": 4200
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 358336.52,
+      "qtdLancamentos": 966
+    },
+    {
+      "id": 178854,
+      "nome": "Elmar Nascimento",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 331531.75,
+      "qtdLancamentos": 649
+    },
+    {
+      "id": 204559,
+      "nome": "Zé Neto",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 319578.09,
+      "qtdLancamentos": 1160
+    },
+    {
+      "id": 160600,
+      "nome": "Arthur Oliveira Maia",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 315153.82,
+      "qtdLancamentos": 1437
+    },
+    {
+      "id": 74537,
+      "nome": "Claudio Cajado",
+      "uf": "BA",
+      "partido": "PP",
+      "valor": 305504.02,
+      "qtdLancamentos": 1753
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "OUTROS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.361606Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220686,
+      "nome": "Duarte Jr.",
+      "uf": "MA",
+      "partido": "PSB",
+      "valor": 408000.0,
+      "qtdLancamentos": 971
+    },
+    {
+      "id": 178881,
+      "nome": "Aluisio Mendes",
+      "uf": "MA",
+      "partido": "REPUBLICANOS",
+      "valor": 368145.79,
+      "qtdLancamentos": 1295
+    },
+    {
+      "id": 204574,
+      "nome": "Junior Lourenço",
+      "uf": "MA",
+      "partido": "PL",
+      "valor": 323416.0,
+      "qtdLancamentos": 599
+    },
+    {
+      "id": 122974,
+      "nome": "Pedro Lucas Fernandes",
+      "uf": "MA",
+      "partido": "UNIÃO",
+      "valor": 220680.0,
+      "qtdLancamentos": 1166
+    },
+    {
+      "id": 141408,
+      "nome": "Cleber Verde",
+      "uf": "MA",
+      "partido": "MDB",
+      "valor": 174849.6,
+      "qtdLancamentos": 364
+    },
+    {
+      "id": 220707,
+      "nome": "Amanda Gentil",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 158578.0,
+      "qtdLancamentos": 421
+    },
+    {
+      "id": 226708,
+      "nome": "Allan Garcês",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 140617.58,
+      "qtdLancamentos": 839
+    },
+    {
+      "id": 81055,
+      "nome": "Márcio Jerry",
+      "uf": "MA",
+      "partido": "PCdoB",
+      "valor": 116922.15,
+      "qtdLancamentos": 1685
+    },
+    {
+      "id": 178884,
+      "nome": "Hildo Rocha",
+      "uf": "MA",
+      "partido": "MDB",
+      "valor": 110800.0,
+      "qtdLancamentos": 482
+    },
+    {
+      "id": 215043,
+      "nome": "Josivaldo JP",
+      "uf": "MA",
+      "partido": "PSD",
+      "valor": 90923.93,
+      "qtdLancamentos": 839
+    }
+  ]
+}

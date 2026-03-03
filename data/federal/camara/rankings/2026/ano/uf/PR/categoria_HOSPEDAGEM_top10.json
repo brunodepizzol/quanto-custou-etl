@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.478499Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204411,
+      "nome": "Filipe Barros",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 12456.33,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 220702,
+      "nome": "Geraldo Mendes",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 5229.53,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 220683,
+      "nome": "Beto Richa",
+      "uf": "PR",
+      "partido": "PSDB",
+      "valor": 3978.2,
+      "qtdLancamentos": 53
+    },
+    {
+      "id": 178933,
+      "nome": "Sergio Souza",
+      "uf": "PR",
+      "partido": "MDB",
+      "valor": 2012.0,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 224333,
+      "nome": "Welter",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 1636.1,
+      "qtdLancamentos": 90
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 1245.6,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 231911,
+      "nome": "Lenir de Assis",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 925.0,
+      "qtdLancamentos": 72
+    },
+    {
+      "id": 223128,
+      "nome": "Rodrigo Estacho",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 889.0,
+      "qtdLancamentos": 87
+    },
+    {
+      "id": 204396,
+      "nome": "Vermelho",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 869.44,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 204410,
+      "nome": "Luisa Canziani",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 773.0,
+      "qtdLancamentos": 17
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PB"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.344763Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74044,
+      "nome": "Wilson Santiago",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 58287.99,
+      "qtdLancamentos": 1163
+    },
+    {
+      "id": 204394,
+      "nome": "Gervásio Maia",
+      "uf": "PB",
+      "partido": "PSB",
+      "valor": 16828.4,
+      "qtdLancamentos": 1662
+    },
+    {
+      "id": 160674,
+      "nome": "Hugo Motta",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 16047.01,
+      "qtdLancamentos": 1384
+    },
+    {
+      "id": 74043,
+      "nome": "Wellington Roberto",
+      "uf": "PB",
+      "partido": "PL",
+      "valor": 6891.16,
+      "qtdLancamentos": 796
+    },
+    {
+      "id": 74041,
+      "nome": "Luiz Couto",
+      "uf": "PB",
+      "partido": "PT",
+      "valor": 5872.62,
+      "qtdLancamentos": 1330
+    },
+    {
+      "id": 74467,
+      "nome": "Damião Feliciano",
+      "uf": "PB",
+      "partido": "UNIÃO",
+      "valor": 5800.3,
+      "qtdLancamentos": 575
+    },
+    {
+      "id": 160629,
+      "nome": "Romero Rodrigues",
+      "uf": "PB",
+      "partido": "PODE",
+      "valor": 3596.04,
+      "qtdLancamentos": 549
+    },
+    {
+      "id": 220585,
+      "nome": "Mersinho Lucena",
+      "uf": "PB",
+      "partido": "PP",
+      "valor": 1168.5,
+      "qtdLancamentos": 918
+    },
+    {
+      "id": 220584,
+      "nome": "Murilo Galdino",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 1052.0,
+      "qtdLancamentos": 952
+    },
+    {
+      "id": 220574,
+      "nome": "Cabo Gilberto Silva",
+      "uf": "PB",
+      "partido": "PL",
+      "valor": 812.0,
+      "qtdLancamentos": 748
+    }
+  ]
+}

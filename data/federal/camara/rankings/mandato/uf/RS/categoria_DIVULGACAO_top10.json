@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.342590Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 1050039.71,
+      "qtdLancamentos": 2195
+    },
+    {
+      "id": 73486,
+      "nome": "Pompeo de Mattos",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 1005896.15,
+      "qtdLancamentos": 2457
+    },
+    {
+      "id": 178963,
+      "nome": "Covatti Filho",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 694631.58,
+      "qtdLancamentos": 868
+    },
+    {
+      "id": 220550,
+      "nome": "Mauricio Marcon",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 677511.62,
+      "qtdLancamentos": 1242
+    },
+    {
+      "id": 220555,
+      "nome": "Daiana Santos",
+      "uf": "RS",
+      "partido": "PCdoB",
+      "valor": 616221.46,
+      "qtdLancamentos": 1130
+    },
+    {
+      "id": 204407,
+      "nome": "Fernanda Melchionna",
+      "uf": "RS",
+      "partido": "PSOL",
+      "valor": 608025.43,
+      "qtdLancamentos": 1527
+    },
+    {
+      "id": 178964,
+      "nome": "Heitor Schuch",
+      "uf": "RS",
+      "partido": "PSB",
+      "valor": 606672.11,
+      "qtdLancamentos": 2761
+    },
+    {
+      "id": 160538,
+      "nome": "Bohn Gass",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 600204.62,
+      "qtdLancamentos": 3184
+    },
+    {
+      "id": 204416,
+      "nome": "Sanderson",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 547450.06,
+      "qtdLancamentos": 1996
+    },
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 540024.02,
+      "qtdLancamentos": 2470
+    }
+  ]
+}

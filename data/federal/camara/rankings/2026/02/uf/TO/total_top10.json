@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "TO"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.781029Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220544,
+      "nome": "Antonio Andrade",
+      "uf": "TO",
+      "partido": "REPUBLICANOS",
+      "valor": 35957.09,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 204364,
+      "nome": "Eli Borges",
+      "uf": "TO",
+      "partido": "PL",
+      "valor": 33351.64,
+      "qtdLancamentos": 39
+    },
+    {
+      "id": 178993,
+      "nome": "Carlos Henrique Gaguim",
+      "uf": "TO",
+      "partido": "UNIÃO",
+      "valor": 30684.54,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 220543,
+      "nome": "Ricardo Ayres",
+      "uf": "TO",
+      "partido": "REPUBLICANOS",
+      "valor": 12035.66,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 143084,
+      "nome": "Tiago Dimas",
+      "uf": "TO",
+      "partido": "PODE",
+      "valor": 11292.88,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 220545,
+      "nome": "Filipe Martins",
+      "uf": "TO",
+      "partido": "PL",
+      "valor": 9212.32,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 220542,
+      "nome": "Alexandre Guimarães",
+      "uf": "TO",
+      "partido": "MDB",
+      "valor": 2520.96,
+      "qtdLancamentos": 12
+    }
+  ]
+}

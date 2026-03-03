@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.046099Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220603,
+      "nome": "Dani Cunha",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 8992.3,
+      "qtdLancamentos": 54
+    },
+    {
+      "id": 220617,
+      "nome": "Murillo Gouvea",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 6109.1,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 141450,
+      "nome": "Hugo Leal",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 5100.6,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 74253,
+      "nome": "Julio Lopes",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 4286.1,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 204456,
+      "nome": "Gutemberg Reis",
+      "uf": "RJ",
+      "partido": "MDB",
+      "valor": 3674.24,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 220612,
+      "nome": "Bebeto",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 3461.32,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 204460,
+      "nome": "Carlos Jordy",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 3111.9,
+      "qtdLancamentos": 25
+    },
+    {
+      "id": 220618,
+      "nome": "Sargento Portugal",
+      "uf": "RJ",
+      "partido": "PODE",
+      "valor": 3098.98,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 220599,
+      "nome": "Marcelo Crivella",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 3005.37,
+      "qtdLancamentos": 37
+    },
+    {
+      "id": 204441,
+      "nome": "Otoni de Paula",
+      "uf": "RJ",
+      "partido": "MDB",
+      "valor": 2924.44,
+      "qtdLancamentos": 15
+    }
+  ]
+}

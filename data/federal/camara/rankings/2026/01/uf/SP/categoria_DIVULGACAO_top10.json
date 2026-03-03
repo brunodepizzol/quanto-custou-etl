@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.016290Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 226837,
+      "nome": "Saulo Pedroso",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 56099.4,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 178989,
+      "nome": "Renata Abreu",
+      "uf": "SP",
+      "partido": "PODE",
+      "valor": 40754.3,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 204526,
+      "nome": "Luiz Philippe de Orleans e Bragança",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 39917.67,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 220635,
+      "nome": "Bruno Ganem",
+      "uf": "SP",
+      "partido": "PODE",
+      "valor": 31021.2,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 178985,
+      "nome": "Miguel Lombardi",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 28000.0,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 220633,
+      "nome": "Ricardo Salles",
+      "uf": "SP",
+      "partido": "NOVO",
+      "valor": 28000.0,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 220642,
+      "nome": "Delegado Bruno Lima",
+      "uf": "SP",
+      "partido": "PP",
+      "valor": 24500.0,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 178987,
+      "nome": "Orlando Silva",
+      "uf": "SP",
+      "partido": "PCdoB",
+      "valor": 24450.0,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 178986,
+      "nome": "Nilto Tatto",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 23400.0,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 220640,
+      "nome": "Juliana Cardoso",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 23200.0,
+      "qtdLancamentos": 9
+    }
+  ]
+}

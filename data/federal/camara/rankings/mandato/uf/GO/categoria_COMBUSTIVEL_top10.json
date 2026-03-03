@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "GO"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.337855Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 121948,
+      "nome": "Adriano do Baldy",
+      "uf": "GO",
+      "partido": "PP",
+      "valor": 320109.73,
+      "qtdLancamentos": 1654
+    },
+    {
+      "id": 166402,
+      "nome": "Magda Mofatto",
+      "uf": "GO",
+      "partido": "PRD",
+      "valor": 275837.0,
+      "qtdLancamentos": 664
+    },
+    {
+      "id": 204390,
+      "nome": "Professor Alcides",
+      "uf": "GO",
+      "partido": "PL",
+      "valor": 242851.68,
+      "qtdLancamentos": 174
+    },
+    {
+      "id": 74371,
+      "nome": "Rubens Otoni",
+      "uf": "GO",
+      "partido": "PT",
+      "valor": 221317.93,
+      "qtdLancamentos": 742
+    },
+    {
+      "id": 220567,
+      "nome": "Jeferson Rodrigues",
+      "uf": "GO",
+      "partido": "REPUBLICANOS",
+      "valor": 211245.35,
+      "qtdLancamentos": 271
+    },
+    {
+      "id": 204391,
+      "nome": "José Nelto",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 202298.12,
+      "qtdLancamentos": 695
+    },
+    {
+      "id": 220565,
+      "nome": "Delegada Adriana Accorsi",
+      "uf": "GO",
+      "partido": "PT",
+      "valor": 171109.15,
+      "qtdLancamentos": 434
+    },
+    {
+      "id": 220572,
+      "nome": "Marussa Boldrin",
+      "uf": "GO",
+      "partido": "MDB",
+      "valor": 166563.75,
+      "qtdLancamentos": 1016
+    },
+    {
+      "id": 178876,
+      "nome": "Célio Silveira",
+      "uf": "GO",
+      "partido": "MDB",
+      "valor": 158734.21,
+      "qtdLancamentos": 752
+    },
+    {
+      "id": 220569,
+      "nome": "Silvye Alves",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 118942.39,
+      "qtdLancamentos": 783
+    }
+  ]
+}

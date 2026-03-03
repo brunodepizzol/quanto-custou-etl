@@ -1,0 +1,79 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MT"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.062558Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220594,
+      "nome": "Coronel Assis",
+      "uf": "MT",
+      "partido": "UNIÃO",
+      "valor": 20332.18,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 204449,
+      "nome": "Nelson Barbudo",
+      "uf": "MT",
+      "partido": "PL",
+      "valor": 22988.92,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 198783,
+      "nome": "Emanuel Pinheiro Neto",
+      "uf": "MT",
+      "partido": "MDB",
+      "valor": 23231.62,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 230767,
+      "nome": "Rodrigo da Zaeli",
+      "uf": "MT",
+      "partido": "PL",
+      "valor": 32633.09,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 204474,
+      "nome": "Juarez Costa",
+      "uf": "MT",
+      "partido": "MDB",
+      "valor": 32759.82,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 204472,
+      "nome": "José Medeiros",
+      "uf": "MT",
+      "partido": "PL",
+      "valor": 32898.5,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 226179,
+      "nome": "Gisela Simona",
+      "uf": "MT",
+      "partido": "UNIÃO",
+      "valor": 62384.47,
+      "qtdLancamentos": 51
+    }
+  ]
+}

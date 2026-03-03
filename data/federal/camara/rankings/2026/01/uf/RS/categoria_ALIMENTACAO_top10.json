@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ALIMENTACAO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.025457Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 2884.0,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 204406,
+      "nome": "Pedro Westphalen",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 1393.47,
+      "qtdLancamentos": 63
+    },
+    {
+      "id": 204388,
+      "nome": "Bibo Nunes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 645.31,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 615.05,
+      "qtdLancamentos": 63
+    },
+    {
+      "id": 179001,
+      "nome": "Márcio Biolchi",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 542.66,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 73692,
+      "nome": "Osmar Terra",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 475.87,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 466.9,
+      "qtdLancamentos": 80
+    },
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 233.3,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 178835,
+      "nome": "Afonso Motta",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 109.39,
+      "qtdLancamentos": 57
+    },
+    {
+      "id": 160538,
+      "nome": "Bohn Gass",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 95.0,
+      "qtdLancamentos": 15
+    }
+  ]
+}

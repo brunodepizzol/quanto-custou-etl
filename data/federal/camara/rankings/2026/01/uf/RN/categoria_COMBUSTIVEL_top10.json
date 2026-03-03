@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RN"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.058757Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220624,
+      "nome": "Robinson Faria",
+      "uf": "RN",
+      "partido": "PP",
+      "valor": 5126.69,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 109429,
+      "nome": "Benes Leocádio",
+      "uf": "RN",
+      "partido": "UNIÃO",
+      "valor": 4216.24,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 220621,
+      "nome": "Sargento Gonçalves",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 3741.47,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 141459,
+      "nome": "João Maia",
+      "uf": "RN",
+      "partido": "PP",
+      "valor": 3126.51,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 213762,
+      "nome": "Carla Dickson",
+      "uf": "RN",
+      "partido": "UNIÃO",
+      "valor": 2414.69,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 204445,
+      "nome": "Fernando Mineiro",
+      "uf": "RN",
+      "partido": "PT",
+      "valor": 1065.8,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 204453,
+      "nome": "Natália Bonavides",
+      "uf": "RN",
+      "partido": "PT",
+      "valor": 250.57,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 146.36,
+      "qtdLancamentos": 13
+    }
+  ]
+}

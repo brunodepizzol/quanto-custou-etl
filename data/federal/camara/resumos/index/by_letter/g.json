@@ -1,0 +1,670 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "resumo_index_deputados",
+    "geradoEm": "2026-03-03T15:34:13.276573Z",
+    "versaoSchema": "1.1.0",
+    "mandatoInicioAno": 2023,
+    "mandatoFimAno": 2026,
+    "shard": {
+      "tipo": "letra",
+      "valor": "g"
+    }
+  },
+  "data": [
+    {
+      "id": 224117,
+      "nome": "Gabriel Mota",
+      "uf": "RR",
+      "partido": "REPUBLICANOS",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/224117.jpg",
+      "totalMandato": 1866967.83,
+      "totaisAno": {
+        "2023": 516019.27,
+        "2024": 627373.83,
+        "2025": 634574.73,
+        "2026": 89000.0
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.103107,
+        "picoMes": "2025-10",
+        "picoValor": 60951.42,
+        "fornecedorTop1Pct": 0.040172,
+        "fornecedorTop3Pct": 0.047671,
+        "fornecedorHHI": 0.00167,
+        "categoriaDominante": "ESCRITORIO",
+        "categoriaDominantePct": 0.451161,
+        "semDocumentoPct": 0.036164,
+        "recibosOutrosPct": 0.0
+      },
+      "flags": []
+    },
+    {
+      "id": 220708,
+      "nome": "Gabriel Nunes",
+      "uf": "BA",
+      "partido": "PSD",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220708.jpg",
+      "totalMandato": 1677779.8,
+      "totaisAno": {
+        "2023": 511776.81,
+        "2024": 568849.31,
+        "2025": 537382.38,
+        "2026": 59771.3
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.248521,
+        "picoMes": "2024-03",
+        "picoValor": 62641.36,
+        "fornecedorTop1Pct": 0.007441,
+        "fornecedorTop3Pct": 0.019958,
+        "fornecedorHHI": 0.00017,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.423506,
+        "semDocumentoPct": 0.210797,
+        "recibosOutrosPct": 0.308387
+      },
+      "flags": [
+        "high_receipts_other"
+      ]
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204473.jpg",
+      "totalMandato": 1821577.4,
+      "totaisAno": {
+        "2023": 590048.97,
+        "2024": 600795.27,
+        "2025": 584347.63,
+        "2026": 46385.53
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.237169,
+        "picoMes": "2023-10",
+        "picoValor": 62811.96,
+        "fornecedorTop1Pct": 0.00785,
+        "fornecedorTop3Pct": 0.014438,
+        "fornecedorHHI": 0.000107,
+        "categoriaDominante": "ESCRITORIO",
+        "categoriaDominantePct": 0.31404,
+        "semDocumentoPct": 0.156467,
+        "recibosOutrosPct": 0.453951
+      },
+      "flags": [
+        "high_receipts_other"
+      ]
+    },
+    {
+      "id": 220611,
+      "nome": "General Pazuello",
+      "uf": "RJ",
+      "partido": "PL",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220611.jpg",
+      "totalMandato": 1447446.93,
+      "totaisAno": {
+        "2023": 464045.9,
+        "2024": 464317.9,
+        "2025": 468834.53,
+        "2026": 50248.6
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.26538,
+        "picoMes": "2023-05",
+        "picoValor": 63667.75,
+        "fornecedorTop1Pct": 0.010363,
+        "fornecedorTop3Pct": 0.022359,
+        "fornecedorHHI": 0.000218,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.374204,
+        "semDocumentoPct": 0.363422,
+        "recibosOutrosPct": 0.212242
+      },
+      "flags": [
+        "high_without_pdf"
+      ]
+    },
+    {
+      "id": 178966,
+      "nome": "Geovania de Sá",
+      "uf": "SC",
+      "partido": "PSDB",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178966.jpg",
+      "totalMandato": 1206462.75,
+      "totaisAno": {
+        "2023": 394559.57,
+        "2024": 236356.76,
+        "2025": 512504.29,
+        "2026": 63042.13
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.323529,
+        "picoMes": "2024-05",
+        "picoValor": 68022.02,
+        "fornecedorTop1Pct": 0.013916,
+        "fornecedorTop3Pct": 0.026846,
+        "fornecedorHHI": 0.000324,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.335821,
+        "semDocumentoPct": 0.27271,
+        "recibosOutrosPct": 0.29068
+      },
+      "flags": []
+    },
+    {
+      "id": 220702,
+      "nome": "Geraldo Mendes",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220702.jpg",
+      "totalMandato": 1407540.23,
+      "totaisAno": {
+        "2023": 520730.64,
+        "2024": 325076.54,
+        "2025": 511151.25,
+        "2026": 50581.8
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.452028,
+        "picoMes": "2023-10",
+        "picoValor": 76438.45,
+        "fornecedorTop1Pct": 0.006394,
+        "fornecedorTop3Pct": 0.014991,
+        "fornecedorHHI": 0.000144,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.515265,
+        "semDocumentoPct": 0.238799,
+        "recibosOutrosPct": 0.17228
+      },
+      "flags": []
+    },
+    {
+      "id": 74374,
+      "nome": "Geraldo Resende",
+      "uf": "MS",
+      "partido": "PSDB",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74374.jpg",
+      "totalMandato": 1719873.19,
+      "totaisAno": {
+        "2023": 524343.8,
+        "2024": 574031.55,
+        "2025": 564425.04,
+        "2026": 57072.8
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.393194,
+        "picoMes": "2025-08",
+        "picoValor": 75569.8,
+        "fornecedorTop1Pct": 0.007268,
+        "fornecedorTop3Pct": 0.017734,
+        "fornecedorHHI": 0.000139,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.533364,
+        "semDocumentoPct": 0.19659,
+        "recibosOutrosPct": 0.236608
+      },
+      "flags": []
+    },
+    {
+      "id": 204394,
+      "nome": "Gervásio Maia",
+      "uf": "PB",
+      "partido": "PSB",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204394.jpg",
+      "totalMandato": 1377673.73,
+      "totaisAno": {
+        "2023": 419627.95,
+        "2024": 391833.21,
+        "2025": 527102.31,
+        "2026": 39110.26
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.253212,
+        "picoMes": "2025-03",
+        "picoValor": 56377.96,
+        "fornecedorTop1Pct": 0.010162,
+        "fornecedorTop3Pct": 0.02102,
+        "fornecedorHHI": 0.000203,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.317587,
+        "semDocumentoPct": 0.266282,
+        "recibosOutrosPct": 0.388909
+      },
+      "flags": [
+        "high_receipts_other"
+      ]
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74383.jpg",
+      "totalMandato": 1602931.7,
+      "totaisAno": {
+        "2023": 516901.71,
+        "2024": 520609.0,
+        "2025": 507472.79,
+        "2026": 57948.2
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.405802,
+        "picoMes": "2024-11",
+        "picoValor": 71713.59,
+        "fornecedorTop1Pct": 0.021462,
+        "fornecedorTop3Pct": 0.036151,
+        "fornecedorHHI": 0.000655,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.753428,
+        "semDocumentoPct": 0.81883,
+        "recibosOutrosPct": 0.0
+      },
+      "flags": [
+        "category_dominant",
+        "high_without_pdf"
+      ]
+    },
+    {
+      "id": 204491,
+      "nome": "Gilberto Abramo",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204491.jpg",
+      "totalMandato": 1468576.13,
+      "totaisAno": {
+        "2023": 465616.17,
+        "2024": 501219.31,
+        "2025": 486347.48,
+        "2026": 15393.17
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.698263,
+        "picoMes": "2024-10",
+        "picoValor": 129977.09,
+        "fornecedorTop1Pct": 0.006809,
+        "fornecedorTop3Pct": 0.008507,
+        "fornecedorHHI": 4.8e-05,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.688295,
+        "semDocumentoPct": 0.123757,
+        "recibosOutrosPct": 0.008347
+      },
+      "flags": []
+    },
+    {
+      "id": 74270,
+      "nome": "Gilberto Nascimento",
+      "uf": "SP",
+      "partido": "PSD",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/74270.jpg",
+      "totalMandato": 1521694.32,
+      "totaisAno": {
+        "2023": 398511.26,
+        "2024": 555274.95,
+        "2025": 516365.38,
+        "2026": 51542.73
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.290963,
+        "picoMes": "2024-12",
+        "picoValor": 70747.62,
+        "fornecedorTop1Pct": 0.013143,
+        "fornecedorTop3Pct": 0.028258,
+        "fornecedorHHI": 0.000301,
+        "categoriaDominante": "OUTROS",
+        "categoriaDominantePct": 0.260578,
+        "semDocumentoPct": 0.191269,
+        "recibosOutrosPct": 0.351644
+      },
+      "flags": [
+        "high_receipts_other"
+      ]
+    },
+    {
+      "id": 220529,
+      "nome": "Gilson Daniel",
+      "uf": "ES",
+      "partido": "PODE",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220529.jpg",
+      "totalMandato": 1597020.03,
+      "totaisAno": {
+        "2023": 484442.31,
+        "2024": 527740.24,
+        "2025": 516008.0,
+        "2026": 68829.48
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.308634,
+        "picoMes": "2024-04",
+        "picoValor": 70445.72,
+        "fornecedorTop1Pct": 0.015341,
+        "fornecedorTop3Pct": 0.02968,
+        "fornecedorHHI": 0.000395,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.487464,
+        "semDocumentoPct": 0.176282,
+        "recibosOutrosPct": 0.293384
+      },
+      "flags": []
+    },
+    {
+      "id": 204365,
+      "nome": "Gilson Marques",
+      "uf": "SC",
+      "partido": "NOVO",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204365.jpg",
+      "totalMandato": 486030.0,
+      "totaisAno": {
+        "2023": 117227.87,
+        "2024": 152679.63,
+        "2025": 204388.58,
+        "2026": 11733.92
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.490925,
+        "picoMes": "2024-11",
+        "picoValor": 32227.7,
+        "fornecedorTop1Pct": 0.01646,
+        "fornecedorTop3Pct": 0.019696,
+        "fornecedorHHI": 0.000279,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.472193,
+        "semDocumentoPct": 0.402609,
+        "recibosOutrosPct": 0.012884
+      },
+      "flags": [
+        "high_without_pdf"
+      ]
+    },
+    {
+      "id": 220526,
+      "nome": "Gilvan da Federal",
+      "uf": "ES",
+      "partido": "PL",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+      "totalMandato": 1261303.0,
+      "totaisAno": {
+        "2023": 405463.01,
+        "2024": 463461.49,
+        "2025": 336975.42,
+        "2026": 55403.08
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.407237,
+        "picoMes": "2023-09",
+        "picoValor": 83917.62,
+        "fornecedorTop1Pct": 0.017573,
+        "fornecedorTop3Pct": 0.037634,
+        "fornecedorHHI": 0.000521,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.332457,
+        "semDocumentoPct": 0.275627,
+        "recibosOutrosPct": 0.276232
+      },
+      "flags": []
+    },
+    {
+      "id": 160673,
+      "nome": "Giovani Cherini",
+      "uf": "RS",
+      "partido": "PL",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160673.jpg",
+      "totalMandato": 1678477.28,
+      "totaisAno": {
+        "2023": 559566.79,
+        "2024": 524519.25,
+        "2025": 547025.25,
+        "2026": 47365.99
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.361739,
+        "picoMes": "2023-03",
+        "picoValor": 84814.67,
+        "fornecedorTop1Pct": 0.013405,
+        "fornecedorTop3Pct": 0.020699,
+        "fornecedorHHI": 0.000213,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.298841,
+        "semDocumentoPct": 0.201777,
+        "recibosOutrosPct": 0.426725
+      },
+      "flags": [
+        "high_receipts_other"
+      ]
+    },
+    {
+      "id": 226179,
+      "nome": "Gisela Simona",
+      "uf": "MT",
+      "partido": "UNIÃO",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/226179.jpg",
+      "totalMandato": 1030838.05,
+      "totaisAno": {
+        "2023": 209875.49,
+        "2024": 304824.51,
+        "2025": 450574.97,
+        "2026": 65563.08
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.344012,
+        "picoMes": "2026-01",
+        "picoValor": 62384.47,
+        "fornecedorTop1Pct": 0.019402,
+        "fornecedorTop3Pct": 0.039288,
+        "fornecedorHHI": 0.000656,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.475317,
+        "semDocumentoPct": 0.09928,
+        "recibosOutrosPct": 0.329223
+      },
+      "flags": [
+        "high_receipts_other"
+      ]
+    },
+    {
+      "id": 204419,
+      "nome": "Glaustin da Fokus",
+      "uf": "GO",
+      "partido": "PODE",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204419.jpg",
+      "totalMandato": 1297556.57,
+      "totaisAno": {
+        "2023": 457776.77,
+        "2024": 460077.7,
+        "2025": 311132.8,
+        "2026": 68569.3
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.524712,
+        "picoMes": "2024-12",
+        "picoValor": 99044.0,
+        "fornecedorTop1Pct": 0.043158,
+        "fornecedorTop3Pct": 0.052845,
+        "fornecedorHHI": 0.001953,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.868401,
+        "semDocumentoPct": 0.014671,
+        "recibosOutrosPct": 0.002931
+      },
+      "flags": [
+        "category_dominant"
+      ]
+    },
+    {
+      "id": 198197,
+      "nome": "Greyce Elias",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/198197.jpg",
+      "totalMandato": 1252470.98,
+      "totaisAno": {
+        "2023": 240722.54,
+        "2024": 479273.19,
+        "2025": 483156.37,
+        "2026": 49318.88
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.387444,
+        "picoMes": "2025-07",
+        "picoValor": 62021.02,
+        "fornecedorTop1Pct": 0.012325,
+        "fornecedorTop3Pct": 0.024735,
+        "fornecedorHHI": 0.000272,
+        "categoriaDominante": "PASSAGENS",
+        "categoriaDominantePct": 0.269682,
+        "semDocumentoPct": 0.315616,
+        "recibosOutrosPct": 0.387512
+      },
+      "flags": [
+        "high_without_pdf",
+        "high_receipts_other"
+      ]
+    },
+    {
+      "id": 204531,
+      "nome": "Guilherme Derrite",
+      "uf": "SP",
+      "partido": "PP",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204531.jpg",
+      "totalMandato": 12094.89,
+      "totaisAno": {
+        "2023": 1638.0,
+        "2024": 1392.2,
+        "2025": 8241.97,
+        "2026": 822.72
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.82557,
+        "picoMes": "2025-12",
+        "picoValor": 6349.76,
+        "fornecedorTop1Pct": 0.047352,
+        "fornecedorTop3Pct": 0.068022,
+        "fornecedorHHI": 0.002669,
+        "categoriaDominante": "PASSAGENS",
+        "categoriaDominantePct": 0.573237,
+        "semDocumentoPct": 0.868703,
+        "recibosOutrosPct": 0.0
+      },
+      "flags": []
+    },
+    {
+      "id": 220664,
+      "nome": "Guilherme Uchoa",
+      "uf": "PE",
+      "partido": "PSB",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220664.jpg",
+      "totalMandato": 1646828.0,
+      "totaisAno": {
+        "2023": 510281.47,
+        "2024": 561724.63,
+        "2025": 540232.57,
+        "2026": 34589.33
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.885169,
+        "picoMes": "2024-12",
+        "picoValor": 245807.96,
+        "fornecedorTop1Pct": 0.008501,
+        "fornecedorTop3Pct": 0.01767,
+        "fornecedorHHI": 0.000135,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.549865,
+        "semDocumentoPct": 0.236835,
+        "recibosOutrosPct": 0.207864
+      },
+      "flags": [
+        "spiky_spend"
+      ]
+    },
+    {
+      "id": 220568,
+      "nome": "Gustavo Gayer",
+      "uf": "GO",
+      "partido": "PL",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220568.jpg",
+      "totalMandato": 1059177.86,
+      "totaisAno": {
+        "2023": 374209.83,
+        "2024": 425739.69,
+        "2025": 222675.17,
+        "2026": 36553.17
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.331548,
+        "picoMes": "2024-08",
+        "picoValor": 43502.49,
+        "fornecedorTop1Pct": 0.023603,
+        "fornecedorTop3Pct": 0.033871,
+        "fornecedorHHI": 0.00063,
+        "categoriaDominante": "ESCRITORIO",
+        "categoriaDominantePct": 0.376534,
+        "semDocumentoPct": 0.103676,
+        "recibosOutrosPct": 0.560654
+      },
+      "flags": [
+        "high_receipts_other"
+      ]
+    },
+    {
+      "id": 204408,
+      "nome": "Gustinho Ribeiro",
+      "uf": "SE",
+      "partido": "REPUBLICANOS",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204408.jpg",
+      "totalMandato": 1602427.46,
+      "totaisAno": {
+        "2023": 491111.71,
+        "2024": 544926.13,
+        "2025": 532489.62,
+        "2026": 33900.0
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.859104,
+        "picoMes": "2023-12",
+        "picoValor": 189988.23,
+        "fornecedorTop1Pct": 0.011795,
+        "fornecedorTop3Pct": 0.021155,
+        "fornecedorHHI": 0.000227,
+        "categoriaDominante": "DIVULGACAO",
+        "categoriaDominantePct": 0.57931,
+        "semDocumentoPct": 0.237468,
+        "recibosOutrosPct": 0.178978
+      },
+      "flags": [
+        "spiky_spend"
+      ]
+    },
+    {
+      "id": 204456,
+      "nome": "Gutemberg Reis",
+      "uf": "RJ",
+      "partido": "MDB",
+      "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204456.jpg",
+      "totalMandato": 1356273.69,
+      "totaisAno": {
+        "2023": 442769.61,
+        "2024": 433757.11,
+        "2025": 438674.7,
+        "2026": 41072.27
+      },
+      "metricas": {
+        "variacaoMensalCV": 0.252912,
+        "picoMes": "2023-09",
+        "picoValor": 54367.44,
+        "fornecedorTop1Pct": 0.01106,
+        "fornecedorTop3Pct": 0.019069,
+        "fornecedorHHI": 0.000176,
+        "categoriaDominante": "OUTROS",
+        "categoriaDominantePct": 0.264914,
+        "semDocumentoPct": 0.46029,
+        "recibosOutrosPct": 0.34178
+      },
+      "flags": [
+        "high_without_pdf",
+        "high_receipts_other"
+      ]
+    }
+  ]
+}

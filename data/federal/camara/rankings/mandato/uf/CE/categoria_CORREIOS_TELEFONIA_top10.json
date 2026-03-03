@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "CE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.349044Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 133439,
+      "nome": "André Figueiredo",
+      "uf": "CE",
+      "partido": "PDT",
+      "valor": 27234.82,
+      "qtdLancamentos": 1091
+    },
+    {
+      "id": 74454,
+      "nome": "Eunício Oliveira",
+      "uf": "CE",
+      "partido": "MDB",
+      "valor": 22654.37,
+      "qtdLancamentos": 197
+    },
+    {
+      "id": 178866,
+      "nome": "Luizianne Lins",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 20697.5,
+      "qtdLancamentos": 1238
+    },
+    {
+      "id": 74299,
+      "nome": "Leônidas Cristino",
+      "uf": "CE",
+      "partido": "PDT",
+      "valor": 17994.14,
+      "qtdLancamentos": 1345
+    },
+    {
+      "id": 62881,
+      "nome": "Danilo Forte",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "valor": 16458.47,
+      "qtdLancamentos": 1555
+    },
+    {
+      "id": 204549,
+      "nome": "AJ Albuquerque",
+      "uf": "CE",
+      "partido": "PP",
+      "valor": 11865.57,
+      "qtdLancamentos": 738
+    },
+    {
+      "id": 204486,
+      "nome": "Mauro Benevides Filho",
+      "uf": "CE",
+      "partido": "PDT",
+      "valor": 8547.64,
+      "qtdLancamentos": 634
+    },
+    {
+      "id": 178997,
+      "nome": "Moses Rodrigues",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "valor": 8388.36,
+      "qtdLancamentos": 627
+    },
+    {
+      "id": 141464,
+      "nome": "José Airton Félix Cirilo",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 7186.57,
+      "qtdLancamentos": 539
+    },
+    {
+      "id": 220658,
+      "nome": "Luiz Gastão",
+      "uf": "CE",
+      "partido": "PSD",
+      "valor": 6174.82,
+      "qtdLancamentos": 704
+    }
+  ]
+}

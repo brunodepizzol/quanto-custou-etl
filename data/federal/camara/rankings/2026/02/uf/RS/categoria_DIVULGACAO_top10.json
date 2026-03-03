@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.772665Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74400,
+      "nome": "Paulo Pimenta",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 24000.0,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 220550,
+      "nome": "Mauricio Marcon",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 17400.0,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 17000.0,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 204388,
+      "nome": "Bibo Nunes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 15327.0,
+      "qtdLancamentos": 56
+    },
+    {
+      "id": 160673,
+      "nome": "Giovani Cherini",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 13500.0,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 73486,
+      "nome": "Pompeo de Mattos",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 12700.0,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 204407,
+      "nome": "Fernanda Melchionna",
+      "uf": "RS",
+      "partido": "PSOL",
+      "valor": 12449.9,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 220553,
+      "nome": "Denise Pessôa",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 10514.0,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 204406,
+      "nome": "Pedro Westphalen",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 8800.0,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 178835,
+      "nome": "Afonso Motta",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 8500.0,
+      "qtdLancamentos": 30
+    }
+  ]
+}

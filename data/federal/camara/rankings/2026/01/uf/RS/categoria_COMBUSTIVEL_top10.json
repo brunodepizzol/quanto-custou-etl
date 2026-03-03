@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.025485Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178835,
+      "nome": "Afonso Motta",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 9392.0,
+      "qtdLancamentos": 57
+    },
+    {
+      "id": 204409,
+      "nome": "Daniel Trzeciak",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 9392.0,
+      "qtdLancamentos": 56
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 8127.03,
+      "qtdLancamentos": 80
+    },
+    {
+      "id": 73486,
+      "nome": "Pompeo de Mattos",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 7826.32,
+      "qtdLancamentos": 62
+    },
+    {
+      "id": 160552,
+      "nome": "Danrlei de Deus Hinterholz",
+      "uf": "RS",
+      "partido": "PSD",
+      "valor": 7814.21,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 6710.28,
+      "qtdLancamentos": 63
+    },
+    {
+      "id": 204416,
+      "nome": "Sanderson",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 5817.73,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 220553,
+      "nome": "Denise Pessôa",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 5754.82,
+      "qtdLancamentos": 78
+    },
+    {
+      "id": 73692,
+      "nome": "Osmar Terra",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 5669.4,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 204404,
+      "nome": "Lucas Redecker",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 5245.67,
+      "qtdLancamentos": 42
+    }
+  ]
+}

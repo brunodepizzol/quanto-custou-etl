@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.763452Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204511,
+      "nome": "David Soares",
+      "uf": "SP",
+      "partido": "UNIÃO",
+      "valor": 1953.85,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 230957,
+      "nome": "João Cury",
+      "uf": "SP",
+      "partido": "MDB",
+      "valor": 1625.8,
+      "qtdLancamentos": 61
+    },
+    {
+      "id": 73531,
+      "nome": "Ivan Valente",
+      "uf": "SP",
+      "partido": "PSOL",
+      "valor": 924.0,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 178986,
+      "nome": "Nilto Tatto",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 763.2,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 204525,
+      "nome": "Rosana Valle",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 745.0,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 178992,
+      "nome": "Vitor Lippi",
+      "uf": "SP",
+      "partido": "PSDB",
+      "valor": 690.0,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 73604,
+      "nome": "Rui Falcão",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 644.7,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 220646,
+      "nome": "Felipe Becari",
+      "uf": "SP",
+      "partido": "UNIÃO",
+      "valor": 460.0,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 204506,
+      "nome": "Marcos Pereira",
+      "uf": "SP",
+      "partido": "REPUBLICANOS",
+      "valor": 402.9,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 141398,
+      "nome": "Carlos Zarattini",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 278.25,
+      "qtdLancamentos": 30
+    }
+  ]
+}

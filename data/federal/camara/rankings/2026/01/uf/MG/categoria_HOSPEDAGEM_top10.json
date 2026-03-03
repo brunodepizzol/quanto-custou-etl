@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.023322Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220632,
+      "nome": "Ana Pimentel",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 2445.0,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 204508,
+      "nome": "Igor Timo",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 2416.0,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 160640,
+      "nome": "Eros Biondini",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 2173.3,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 220623,
+      "nome": "Duda Salabert",
+      "uf": "MG",
+      "partido": "PDT",
+      "valor": 1480.7,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 74161,
+      "nome": "Reginaldo Lopes",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 903.0,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 204512,
+      "nome": "Delegado Marcelo Freitas",
+      "uf": "MG",
+      "partido": "UNIÃO",
+      "valor": 812.7,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 206018,
+      "nome": "Célia Xakriabá",
+      "uf": "MG",
+      "partido": "PSOL",
+      "valor": 724.5,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 160599,
+      "nome": "Dimas Fabiano",
+      "uf": "MG",
+      "partido": "PP",
+      "valor": 683.5,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 160632,
+      "nome": "Zé Silva",
+      "uf": "MG",
+      "partido": "SOLIDARIEDADE",
+      "valor": 600.0,
+      "qtdLancamentos": 49
+    },
+    {
+      "id": 204492,
+      "nome": "Paulo Guedes",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 570.0,
+      "qtdLancamentos": 31
+    }
+  ]
+}

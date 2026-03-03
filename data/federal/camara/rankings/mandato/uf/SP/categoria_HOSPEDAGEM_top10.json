@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.333302Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220654,
+      "nome": "Delegado Paulo Bilynskyj",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 52549.71,
+      "qtdLancamentos": 1718
+    },
+    {
+      "id": 160548,
+      "nome": "Jonas Donizette",
+      "uf": "SP",
+      "partido": "PSB",
+      "valor": 52136.71,
+      "qtdLancamentos": 2707
+    },
+    {
+      "id": 141555,
+      "nome": "Vinicius Carvalho",
+      "uf": "SP",
+      "partido": "REPUBLICANOS",
+      "valor": 42972.91,
+      "qtdLancamentos": 1720
+    },
+    {
+      "id": 178992,
+      "nome": "Vitor Lippi",
+      "uf": "SP",
+      "partido": "PSDB",
+      "valor": 36375.92,
+      "qtdLancamentos": 2954
+    },
+    {
+      "id": 178986,
+      "nome": "Nilto Tatto",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 30276.6,
+      "qtdLancamentos": 1784
+    },
+    {
+      "id": 220655,
+      "nome": "Mario Frias",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 27686.21,
+      "qtdLancamentos": 1056
+    },
+    {
+      "id": 204511,
+      "nome": "David Soares",
+      "uf": "SP",
+      "partido": "UNIÃO",
+      "valor": 25871.16,
+      "qtdLancamentos": 1594
+    },
+    {
+      "id": 220633,
+      "nome": "Ricardo Salles",
+      "uf": "SP",
+      "partido": "NOVO",
+      "valor": 24056.86,
+      "qtdLancamentos": 1148
+    },
+    {
+      "id": 204534,
+      "nome": "Tabata Amaral",
+      "uf": "SP",
+      "partido": "PSB",
+      "valor": 23922.89,
+      "qtdLancamentos": 1747
+    },
+    {
+      "id": 221328,
+      "nome": "Adilson Barroso",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 21526.92,
+      "qtdLancamentos": 1550
+    }
+  ]
+}

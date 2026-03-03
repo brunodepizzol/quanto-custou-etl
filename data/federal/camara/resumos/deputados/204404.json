@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "resumo_deputado",
+    "id": 204404,
+    "geradoEm": "2026-03-03T15:34:13.188584Z",
+    "versaoSchema": "1.1.0",
+    "mandatoInicioAno": 2023,
+    "mandatoFimAno": 2026,
+    "versaoCategoryMap": "1.0.0"
+  },
+  "data": {
+    "id": 204404,
+    "nome": "Lucas Redecker",
+    "uf": "RS",
+    "partido": "PSDB",
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204404.jpg",
+    "totaisMandato": {
+      "total": 1352887.13,
+      "qtdLancamentos": 2423,
+      "porCategoria": {
+        "ALIMENTACAO": 0.0,
+        "COMBUSTIVEL": 225370.62,
+        "CONSULTORIA_SERVICOS": 0.0,
+        "CORREIOS_TELEFONIA": 22084.36,
+        "DIVULGACAO": 3754.95,
+        "ESCRITORIO": 417420.06,
+        "HOSPEDAGEM": 42702.82,
+        "OUTROS": 230101.33,
+        "PASSAGENS": 411452.99
+      }
+    },
+    "totaisAno": {
+      "2023": 428682.03,
+      "2024": 426984.36,
+      "2025": 449750.35,
+      "2026": 47470.39
+    },
+    "porMes": {
+      "2023-01": 6660.04,
+      "2023-02": 42785.33,
+      "2023-03": 44163.87,
+      "2023-04": 38582.03,
+      "2023-05": 45600.23,
+      "2023-06": 24996.69,
+      "2023-07": 42449.35,
+      "2023-08": 48558.42,
+      "2023-09": 46734.04,
+      "2023-10": 20561.87,
+      "2023-11": 41546.24,
+      "2023-12": 26043.92,
+      "2024-01": 30898.43,
+      "2024-02": 41623.39,
+      "2024-03": 49563.33,
+      "2024-04": 30219.27,
+      "2024-05": 30396.72,
+      "2024-06": 29154.67,
+      "2024-07": 35365.43,
+      "2024-08": 34792.83,
+      "2024-09": 30555.76,
+      "2024-10": 44810.46,
+      "2024-11": 33603.45,
+      "2024-12": 36000.62,
+      "2025-01": 24621.36,
+      "2025-02": 27352.78,
+      "2025-03": 51054.14,
+      "2025-04": 58356.63,
+      "2025-05": 31993.5,
+      "2025-06": 26520.49,
+      "2025-07": 46440.63,
+      "2025-08": 25829.54,
+      "2025-09": 26375.66,
+      "2025-10": 50209.77,
+      "2025-11": 36847.7,
+      "2025-12": 44148.15,
+      "2026-01": 23434.71,
+      "2026-02": 23735.09,
+      "2026-03": 300.59,
+      "2026-04": 0.0,
+      "2026-05": 0.0,
+      "2026-06": 0.0,
+      "2026-07": 0.0,
+      "2026-08": 0.0,
+      "2026-09": 0.0,
+      "2026-10": 0.0,
+      "2026-11": 0.0,
+      "2026-12": 0.0
+    },
+    "metricas": {
+      "variacaoMensalCV": 0.341426,
+      "picoMes": "2025-04",
+      "picoValor": 58356.63,
+      "fornecedorTop1Pct": 0.01019,
+      "fornecedorTop3Pct": 0.024289,
+      "fornecedorHHI": 0.000213,
+      "categoriaDominante": "ESCRITORIO",
+      "categoriaDominantePct": 0.30854,
+      "semDocumentoPct": 0.482636,
+      "recibosOutrosPct": 0.428156
+    },
+    "topFornecedores": [
+      {
+        "nome": "UNIDAS LOCADORA S.A",
+        "valor": 13785.64
+      },
+      {
+        "nome": "JMP ADMINSTRAÇÃO E PARTICIPAÇÕES LTDA.",
+        "valor": 11675.26
+      },
+      {
+        "nome": "BIRO DE INFORMATICA NACIONAL EIRELI - EPP",
+        "valor": 7400.0
+      },
+      {
+        "nome": "CEEE - Companhia Estadual de Distribuição de Energia Elétrica",
+        "valor": 1604.95
+      },
+      {
+        "nome": "POSTO DE COMBUSTIVEIS PRIMAVERA LTDA NOVO HAMBURGO F1",
+        "valor": 899.91
+      }
+    ],
+    "flags": [
+      "high_without_pdf",
+      "high_receipts_other"
+    ]
+  }
+}

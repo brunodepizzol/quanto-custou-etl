@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.489428Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74478,
+      "nome": "Luciano Bivar",
+      "uf": "PE",
+      "partido": "UNIÃO",
+      "valor": 1651.79,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 160642,
+      "nome": "Pastor Eurico",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 6880.04,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 204427,
+      "nome": "Fernando Rodolfo",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 14725.11,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 204422,
+      "nome": "Ossesio Silva",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 21430.26,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 91228,
+      "nome": "Waldemar Oliveira",
+      "uf": "PE",
+      "partido": "AVANTE",
+      "valor": 23648.55,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 220666,
+      "nome": "Coronel Meira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 27561.87,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 220670,
+      "nome": "Iza Arruda",
+      "uf": "PE",
+      "partido": "MDB",
+      "valor": 28427.14,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 220667,
+      "nome": "Pedro Campos",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 29513.35,
+      "qtdLancamentos": 44
+    },
+    {
+      "id": 88256,
+      "nome": "Clodoaldo Magalhães",
+      "uf": "PE",
+      "partido": "PV",
+      "valor": 30925.24,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 74428,
+      "nome": "Mendonça Filho",
+      "uf": "PE",
+      "partido": "UNIÃO",
+      "valor": 33222.6,
+      "qtdLancamentos": 10
+    }
+  ]
+}

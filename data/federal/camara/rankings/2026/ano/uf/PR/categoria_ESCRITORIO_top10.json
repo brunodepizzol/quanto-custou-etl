@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.478472Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220701,
+      "nome": "Delegado Matheus Laiola",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 30260.04,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 220704,
+      "nome": "Carol Dartora",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 23409.07,
+      "qtdLancamentos": 68
+    },
+    {
+      "id": 223128,
+      "nome": "Rodrigo Estacho",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 17477.09,
+      "qtdLancamentos": 87
+    },
+    {
+      "id": 220684,
+      "nome": "Tião Medeiros",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 16230.72,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 204411,
+      "nome": "Filipe Barros",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 14274.37,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 178933,
+      "nome": "Sergio Souza",
+      "uf": "PR",
+      "partido": "MDB",
+      "valor": 13892.25,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 204410,
+      "nome": "Luisa Canziani",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 13566.24,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 231911,
+      "nome": "Lenir de Assis",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 13560.26,
+      "qtdLancamentos": 72
+    },
+    {
+      "id": 178929,
+      "nome": "Diego Garcia",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 9974.58,
+      "qtdLancamentos": 76
+    },
+    {
+      "id": 73788,
+      "nome": "Ricardo Barros",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 8072.24,
+      "qtdLancamentos": 12
+    }
+  ]
+}

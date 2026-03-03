@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.370336Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204423,
+      "nome": "André Ferreira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 1849411.33,
+      "qtdLancamentos": 1744
+    },
+    {
+      "id": 220662,
+      "nome": "Lucas Ramos",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 1792015.56,
+      "qtdLancamentos": 681
+    },
+    {
+      "id": 204426,
+      "nome": "Carlos Veras",
+      "uf": "PE",
+      "partido": "PT",
+      "valor": 1768577.71,
+      "qtdLancamentos": 2683
+    },
+    {
+      "id": 91228,
+      "nome": "Waldemar Oliveira",
+      "uf": "PE",
+      "partido": "AVANTE",
+      "valor": 1721621.14,
+      "qtdLancamentos": 1401
+    },
+    {
+      "id": 220666,
+      "nome": "Coronel Meira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 1683117.97,
+      "qtdLancamentos": 1677
+    },
+    {
+      "id": 141421,
+      "nome": "Eduardo da Fonte",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 1680966.53,
+      "qtdLancamentos": 1959
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 1675722.96,
+      "qtdLancamentos": 1599
+    },
+    {
+      "id": 204427,
+      "nome": "Fernando Rodolfo",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 1655208.43,
+      "qtdLancamentos": 1379
+    },
+    {
+      "id": 220664,
+      "nome": "Guilherme Uchoa",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 1646828.0,
+      "qtdLancamentos": 1012
+    },
+    {
+      "id": 220663,
+      "nome": "Eriberto Medeiros",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 1645521.25,
+      "qtdLancamentos": 1020
+    }
+  ]
+}

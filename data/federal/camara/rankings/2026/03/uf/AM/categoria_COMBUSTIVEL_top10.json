@@ -1,0 +1,32 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 3,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "AM"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.361547Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220714,
+      "nome": "Adail Filho",
+      "uf": "AM",
+      "partido": "REPUBLICANOS",
+      "valor": 458.18,
+      "qtdLancamentos": 2
+    }
+  ]
+}

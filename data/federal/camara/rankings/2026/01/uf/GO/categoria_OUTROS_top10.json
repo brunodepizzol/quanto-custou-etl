@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "OUTROS",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "GO"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.021045Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220572,
+      "nome": "Marussa Boldrin",
+      "uf": "GO",
+      "partido": "MDB",
+      "valor": 17000.0,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 220570,
+      "nome": "Dr. Ismael Alexandrino",
+      "uf": "GO",
+      "partido": "PSD",
+      "valor": 16800.0,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 220569,
+      "nome": "Silvye Alves",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 12700.0,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 220568,
+      "nome": "Gustavo Gayer",
+      "uf": "GO",
+      "partido": "PL",
+      "valor": 12500.0,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 204419,
+      "nome": "Glaustin da Fokus",
+      "uf": "GO",
+      "partido": "PODE",
+      "valor": 12327.0,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 160598,
+      "nome": "Flávia Morais",
+      "uf": "GO",
+      "partido": "PDT",
+      "valor": 11500.0,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 121948,
+      "nome": "Adriano do Baldy",
+      "uf": "GO",
+      "partido": "PP",
+      "valor": 10000.0,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 204412,
+      "nome": "Dr. Zacharias Calil",
+      "uf": "GO",
+      "partido": "UNIÃO",
+      "valor": 8900.0,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 74371,
+      "nome": "Rubens Otoni",
+      "uf": "GO",
+      "partido": "PT",
+      "valor": 7300.0,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 220566,
+      "nome": "Lêda Borges",
+      "uf": "GO",
+      "partido": "PSDB",
+      "valor": 6250.0,
+      "qtdLancamentos": 5
+    }
+  ]
+}

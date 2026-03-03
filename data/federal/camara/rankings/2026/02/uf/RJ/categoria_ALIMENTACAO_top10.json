@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ALIMENTACAO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.801462Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220613,
+      "nome": "Roberto Monteiro Pai",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 2356.85,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 74856,
+      "nome": "Laura Carneiro",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 1420.93,
+      "qtdLancamentos": 32
+    },
+    {
+      "id": 220605,
+      "nome": "Bandeira de Mello",
+      "uf": "RJ",
+      "partido": "PSB",
+      "valor": 795.15,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 220604,
+      "nome": "Marcos Tavares",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 439.4,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 178943,
+      "nome": "Marcos Soares",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 357.3,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 73701,
+      "nome": "Benedita da Silva",
+      "uf": "RJ",
+      "partido": "PT",
+      "valor": 353.82,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 143942,
+      "nome": "Caio Vianna",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 305.47,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 220599,
+      "nome": "Marcelo Crivella",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 221.44,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 230765,
+      "nome": "Enfermeira Rejane",
+      "uf": "RJ",
+      "partido": "PCdoB",
+      "valor": 205.67,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 74171,
+      "nome": "Chico Alencar",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 177.68,
+      "qtdLancamentos": 20
+    }
+  ]
+}

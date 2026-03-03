@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "CE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.031968Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 141464,
+      "nome": "José Airton Félix Cirilo",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 9392.0,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 204488,
+      "nome": "Célio Studart",
+      "uf": "CE",
+      "partido": "PSD",
+      "valor": 7000.0,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 141470,
+      "nome": "José Guimarães",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 5386.63,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 234673,
+      "nome": "Vanderlan Alves",
+      "uf": "CE",
+      "partido": "REPUBLICANOS",
+      "valor": 4775.44,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 74299,
+      "nome": "Leônidas Cristino",
+      "uf": "CE",
+      "partido": "PDT",
+      "valor": 4302.92,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 133439,
+      "nome": "André Figueiredo",
+      "uf": "CE",
+      "partido": "PDT",
+      "valor": 4012.91,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 225730,
+      "nome": "Enfermeira Ana Paula",
+      "uf": "CE",
+      "partido": "PODE",
+      "valor": 1618.61,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 220657,
+      "nome": "André Fernandes",
+      "uf": "CE",
+      "partido": "PL",
+      "valor": 1178.87,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 204549,
+      "nome": "AJ Albuquerque",
+      "uf": "CE",
+      "partido": "PP",
+      "valor": 1137.3,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 178866,
+      "nome": "Luizianne Lins",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 683.04,
+      "qtdLancamentos": 19
+    }
+  ]
+}

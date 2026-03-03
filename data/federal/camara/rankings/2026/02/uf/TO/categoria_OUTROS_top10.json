@@ -1,0 +1,80 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "OUTROS",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "TO"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.781102Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178993,
+      "nome": "Carlos Henrique Gaguim",
+      "uf": "TO",
+      "partido": "UNIÃO",
+      "valor": 12000.0,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 220545,
+      "nome": "Filipe Martins",
+      "uf": "TO",
+      "partido": "PL",
+      "valor": 310.44,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 220542,
+      "nome": "Alexandre Guimarães",
+      "uf": "TO",
+      "partido": "MDB",
+      "valor": 0.0,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 220544,
+      "nome": "Antonio Andrade",
+      "uf": "TO",
+      "partido": "REPUBLICANOS",
+      "valor": 0.0,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 204364,
+      "nome": "Eli Borges",
+      "uf": "TO",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 39
+    },
+    {
+      "id": 220543,
+      "nome": "Ricardo Ayres",
+      "uf": "TO",
+      "partido": "REPUBLICANOS",
+      "valor": 0.0,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 143084,
+      "nome": "Tiago Dimas",
+      "uf": "TO",
+      "partido": "PODE",
+      "valor": 0.0,
+      "qtdLancamentos": 26
+    }
+  ]
+}

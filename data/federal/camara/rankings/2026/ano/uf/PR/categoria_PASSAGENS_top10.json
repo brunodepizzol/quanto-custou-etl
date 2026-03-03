@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "PASSAGENS",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.478547Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178929,
+      "nome": "Diego Garcia",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 7258.29,
+      "qtdLancamentos": 76
+    },
+    {
+      "id": 204410,
+      "nome": "Luisa Canziani",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 2654.38,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 73768,
+      "nome": "Dilceu Sperafico",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 1539.26,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 162332,
+      "nome": "Luiz Nishimori",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 1300.37,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 178927,
+      "nome": "Aliel Machado",
+      "uf": "PR",
+      "partido": "PV",
+      "valor": 0.0,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 220683,
+      "nome": "Beto Richa",
+      "uf": "PR",
+      "partido": "PSDB",
+      "valor": 0.0,
+      "qtdLancamentos": 53
+    },
+    {
+      "id": 220704,
+      "nome": "Carol Dartora",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 0.0,
+      "qtdLancamentos": 68
+    },
+    {
+      "id": 220701,
+      "nome": "Delegado Matheus Laiola",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 0.0,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 204398,
+      "nome": "Felipe Francischini",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 0.0,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 204411,
+      "nome": "Filipe Barros",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 43
+    }
+  ]
+}

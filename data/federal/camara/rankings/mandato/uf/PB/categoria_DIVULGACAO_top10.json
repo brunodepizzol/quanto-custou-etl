@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PB"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.344737Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220574,
+      "nome": "Cabo Gilberto Silva",
+      "uf": "PB",
+      "partido": "PL",
+      "valor": 1142900.0,
+      "qtdLancamentos": 748
+    },
+    {
+      "id": 74044,
+      "nome": "Wilson Santiago",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 1100440.0,
+      "qtdLancamentos": 1163
+    },
+    {
+      "id": 74043,
+      "nome": "Wellington Roberto",
+      "uf": "PB",
+      "partido": "PL",
+      "valor": 1028000.0,
+      "qtdLancamentos": 796
+    },
+    {
+      "id": 160635,
+      "nome": "Ruy Carneiro",
+      "uf": "PB",
+      "partido": "PODE",
+      "valor": 971012.68,
+      "qtdLancamentos": 855
+    },
+    {
+      "id": 160674,
+      "nome": "Hugo Motta",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 923200.0,
+      "qtdLancamentos": 1384
+    },
+    {
+      "id": 220584,
+      "nome": "Murilo Galdino",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 880500.0,
+      "qtdLancamentos": 952
+    },
+    {
+      "id": 74467,
+      "nome": "Damião Feliciano",
+      "uf": "PB",
+      "partido": "UNIÃO",
+      "valor": 858065.6,
+      "qtdLancamentos": 575
+    },
+    {
+      "id": 160629,
+      "nome": "Romero Rodrigues",
+      "uf": "PB",
+      "partido": "PODE",
+      "valor": 850099.99,
+      "qtdLancamentos": 549
+    },
+    {
+      "id": 160527,
+      "nome": "Aguinaldo Ribeiro",
+      "uf": "PB",
+      "partido": "PP",
+      "valor": 542700.0,
+      "qtdLancamentos": 1608
+    },
+    {
+      "id": 220585,
+      "nome": "Mersinho Lucena",
+      "uf": "PB",
+      "partido": "PP",
+      "valor": 514397.71,
+      "qtdLancamentos": 918
+    }
+  ]
+}

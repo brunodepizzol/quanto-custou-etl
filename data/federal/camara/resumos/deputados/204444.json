@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "resumo_deputado",
+    "id": 204444,
+    "geradoEm": "2026-03-03T15:34:13.161309Z",
+    "versaoSchema": "1.1.0",
+    "mandatoInicioAno": 2023,
+    "mandatoFimAno": 2026,
+    "versaoCategoryMap": "1.0.0"
+  },
+  "data": {
+    "id": 204444,
+    "nome": "Helio Lopes",
+    "uf": "RJ",
+    "partido": "PL",
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204444.jpg",
+    "totaisMandato": {
+      "total": 1097259.46,
+      "qtdLancamentos": 1071,
+      "porCategoria": {
+        "ALIMENTACAO": 6929.03,
+        "COMBUSTIVEL": 47411.18,
+        "CONSULTORIA_SERVICOS": 0.0,
+        "CORREIOS_TELEFONIA": 12229.42,
+        "DIVULGACAO": 109200.0,
+        "ESCRITORIO": 9224.03,
+        "HOSPEDAGEM": 92027.67,
+        "OUTROS": 432941.68,
+        "PASSAGENS": 387296.45
+      }
+    },
+    "totaisAno": {
+      "2023": 311432.23,
+      "2024": 393376.93,
+      "2025": 379604.56,
+      "2026": 12845.74
+    },
+    "porMes": {
+      "2023-01": 0.0,
+      "2023-02": 26368.87,
+      "2023-03": 20501.8,
+      "2023-04": 25346.55,
+      "2023-05": 26256.27,
+      "2023-06": 13347.18,
+      "2023-07": 35327.87,
+      "2023-08": 40283.35,
+      "2023-09": 33917.55,
+      "2023-10": 24521.09,
+      "2023-11": 28086.92,
+      "2023-12": 37474.78,
+      "2024-01": 23644.79,
+      "2024-02": 24475.28,
+      "2024-03": 25328.89,
+      "2024-04": 32596.3,
+      "2024-05": 43323.33,
+      "2024-06": 31497.49,
+      "2024-07": 48469.91,
+      "2024-08": 50202.99,
+      "2024-09": 16988.42,
+      "2024-10": 21974.97,
+      "2024-11": 28846.41,
+      "2024-12": 46028.15,
+      "2025-01": 22661.45,
+      "2025-02": 24478.18,
+      "2025-03": 32458.62,
+      "2025-04": 33682.97,
+      "2025-05": 28751.73,
+      "2025-06": 28129.76,
+      "2025-07": 92500.56,
+      "2025-08": 35755.16,
+      "2025-09": 22007.71,
+      "2025-10": 30709.54,
+      "2025-11": 14835.25,
+      "2025-12": 13633.63,
+      "2026-01": 11222.16,
+      "2026-02": 1623.58,
+      "2026-03": 0.0,
+      "2026-04": 0.0,
+      "2026-05": 0.0,
+      "2026-06": 0.0,
+      "2026-07": 0.0,
+      "2026-08": 0.0,
+      "2026-09": 0.0,
+      "2026-10": 0.0,
+      "2026-11": 0.0,
+      "2026-12": 0.0
+    },
+    "metricas": {
+      "variacaoMensalCV": 0.493971,
+      "picoMes": "2025-07",
+      "picoValor": 92500.56,
+      "fornecedorTop1Pct": 0.007747,
+      "fornecedorTop3Pct": 0.009578,
+      "fornecedorHHI": 6.2e-05,
+      "categoriaDominante": "OUTROS",
+      "categoriaDominantePct": 0.394566,
+      "semDocumentoPct": 0.413902,
+      "recibosOutrosPct": 0.374386
+    },
+    "topFornecedores": [
+      {
+        "nome": "NOVACAR LOCADORA DE VEICULOS LTDA",
+        "valor": 8500.0
+      },
+      {
+        "nome": "DRA4 DERIVADOS DE PETROLEO LTDA",
+        "valor": 1271.37
+      },
+      {
+        "nome": "POSTO DE COMBUSTIVEIS PARADA CERTA LTDA",
+        "valor": 737.7
+      },
+      {
+        "nome": "TIM S.A",
+        "valor": 399.99
+      },
+      {
+        "nome": "POSTO DE GASOLINA PRAIA DE COPACABANA LTDA",
+        "valor": 271.74
+      }
+    ],
+    "flags": [
+      "high_without_pdf",
+      "high_receipts_other"
+    ]
+  }
+}

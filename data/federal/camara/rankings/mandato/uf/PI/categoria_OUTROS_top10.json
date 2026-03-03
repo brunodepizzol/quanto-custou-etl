@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "OUTROS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PI"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.374782Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220700,
+      "nome": "Florentino Neto",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 539591.0,
+      "qtdLancamentos": 551
+    },
+    {
+      "id": 220699,
+      "nome": "Castro Neto",
+      "uf": "PI",
+      "partido": "PSD",
+      "valor": 503108.8,
+      "qtdLancamentos": 1365
+    },
+    {
+      "id": 74317,
+      "nome": "Júlio Cesar",
+      "uf": "PI",
+      "partido": "PSD",
+      "valor": 473012.0,
+      "qtdLancamentos": 541
+    },
+    {
+      "id": 204431,
+      "nome": "Marcos Aurélio Sampaio",
+      "uf": "PI",
+      "partido": "PSD",
+      "valor": 432000.0,
+      "qtdLancamentos": 332
+    },
+    {
+      "id": 188097,
+      "nome": "Merlong Solano",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 421000.0,
+      "qtdLancamentos": 1737
+    },
+    {
+      "id": 191923,
+      "nome": "Flávio Nogueira",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 408900.0,
+      "qtdLancamentos": 791
+    },
+    {
+      "id": 66385,
+      "nome": "Julio Arcoverde",
+      "uf": "PI",
+      "partido": "PP",
+      "valor": 403013.0,
+      "qtdLancamentos": 945
+    },
+    {
+      "id": 123086,
+      "nome": "Átila Lira",
+      "uf": "PI",
+      "partido": "PP",
+      "valor": 400400.0,
+      "qtdLancamentos": 814
+    },
+    {
+      "id": 220688,
+      "nome": "Dr. Francisco",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 344179.85,
+      "qtdLancamentos": 1189
+    },
+    {
+      "id": 220697,
+      "nome": "Jadyel Alencar",
+      "uf": "PI",
+      "partido": "REPUBLICANOS",
+      "valor": 228000.0,
+      "qtdLancamentos": 787
+    }
+  ]
+}

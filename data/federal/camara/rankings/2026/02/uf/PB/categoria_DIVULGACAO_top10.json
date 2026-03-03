@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PB"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.774888Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74044,
+      "nome": "Wilson Santiago",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 36500.0,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 220584,
+      "nome": "Murilo Galdino",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 30500.0,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 160629,
+      "nome": "Romero Rodrigues",
+      "uf": "PB",
+      "partido": "PODE",
+      "valor": 27950.0,
+      "qtdLancamentos": 5
+    },
+    {
+      "id": 160674,
+      "nome": "Hugo Motta",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 26300.0,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 220585,
+      "nome": "Mersinho Lucena",
+      "uf": "PB",
+      "partido": "PP",
+      "valor": 25000.0,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 160635,
+      "nome": "Ruy Carneiro",
+      "uf": "PB",
+      "partido": "PODE",
+      "valor": 23660.88,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 74043,
+      "nome": "Wellington Roberto",
+      "uf": "PB",
+      "partido": "PL",
+      "valor": 20000.0,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 160527,
+      "nome": "Aguinaldo Ribeiro",
+      "uf": "PB",
+      "partido": "PP",
+      "valor": 17000.0,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 74041,
+      "nome": "Luiz Couto",
+      "uf": "PB",
+      "partido": "PT",
+      "valor": 4500.0,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 220574,
+      "nome": "Cabo Gilberto Silva",
+      "uf": "PB",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 2
+    }
+  ]
+}

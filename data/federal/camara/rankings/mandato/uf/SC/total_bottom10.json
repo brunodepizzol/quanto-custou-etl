@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SC"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.368081Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204365,
+      "nome": "Gilson Marques",
+      "uf": "SC",
+      "partido": "NOVO",
+      "valor": 486030.0,
+      "qtdLancamentos": 682
+    },
+    {
+      "id": 204369,
+      "nome": "Caroline de Toni",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 658782.54,
+      "qtdLancamentos": 996
+    },
+    {
+      "id": 204361,
+      "nome": "Carlos Chiodini",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 726262.84,
+      "qtdLancamentos": 1258
+    },
+    {
+      "id": 204362,
+      "nome": "Ricardo Guidi",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 861684.26,
+      "qtdLancamentos": 1498
+    },
+    {
+      "id": 161440,
+      "nome": "Pezenti",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 1105019.4,
+      "qtdLancamentos": 1039
+    },
+    {
+      "id": 178966,
+      "nome": "Geovania de Sá",
+      "uf": "SC",
+      "partido": "PSDB",
+      "valor": 1206462.75,
+      "qtdLancamentos": 1652
+    },
+    {
+      "id": 214694,
+      "nome": "Jorge Goetten",
+      "uf": "SC",
+      "partido": "REPUBLICANOS",
+      "valor": 1320799.44,
+      "qtdLancamentos": 1324
+    },
+    {
+      "id": 98615,
+      "nome": "Ismael",
+      "uf": "SC",
+      "partido": "PSD",
+      "valor": 1390410.44,
+      "qtdLancamentos": 1680
+    },
+    {
+      "id": 98148,
+      "nome": "Cobalchini",
+      "uf": "SC",
+      "partido": "MDB",
+      "valor": 1426262.05,
+      "qtdLancamentos": 2324
+    },
+    {
+      "id": 160604,
+      "nome": "Pedro Uczai",
+      "uf": "SC",
+      "partido": "PT",
+      "valor": 1468705.54,
+      "qtdLancamentos": 3254
+    }
+  ]
+}

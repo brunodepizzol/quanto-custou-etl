@@ -1,0 +1,103 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.041778Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 162332,
+      "nome": "Luiz Nishimori",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 8200.37,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 204387,
+      "nome": "Sargento Fahur",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 8647.28,
+      "qtdLancamentos": 25
+    },
+    {
+      "id": 220682,
+      "nome": "Tadeu Veneri",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 10773.63,
+      "qtdLancamentos": 40
+    },
+    {
+      "id": 204395,
+      "nome": "Pedro Lupion",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 10920.0,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 160592,
+      "nome": "Zeca Dirceu",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 14449.86,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 204411,
+      "nome": "Filipe Barros",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 17532.04,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 220683,
+      "nome": "Beto Richa",
+      "uf": "PR",
+      "partido": "PSDB",
+      "valor": 20422.45,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 73768,
+      "nome": "Dilceu Sperafico",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 20839.26,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 178931,
+      "nome": "Luciano Ducci",
+      "uf": "PR",
+      "partido": "PSB",
+      "valor": 22708.46,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 73788,
+      "nome": "Ricardo Barros",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 23271.74,
+      "qtdLancamentos": 8
+    }
+  ]
+}

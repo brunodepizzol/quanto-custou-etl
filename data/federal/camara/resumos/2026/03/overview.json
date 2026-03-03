@@ -7,20 +7,30 @@
       "ano": 2026,
       "mes": 3
     },
-    "geradoEm": "2026-03-02T03:25:58.183717Z",
-    "versaoSchema": "1.0.0",
+    "geradoEm": "2026-03-03T15:34:12.361173Z",
+    "versaoSchema": "1.1.0",
     "versaoCategoryMap": "1.0.0"
   },
   "kpis": {
-    "totalGasto": 0.0,
-    "top1Gasto": null,
+    "totalGasto": 13743.66,
+    "top1Gasto": {
+      "id": 231911,
+      "nome": "Lenir de Assis",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 7182.25
+    },
     "topCategorias": [
       {
-        "categoriaQC": "ALIMENTACAO",
-        "valor": 0.0
+        "categoriaQC": "OUTROS",
+        "valor": 7182.25
       },
       {
         "categoriaQC": "COMBUSTIVEL",
+        "valor": 6561.41
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
         "valor": 0.0
       },
       {
@@ -28,15 +38,56 @@
         "valor": 0.0
       },
       {
-        "categoriaQC": "CORREIOS_TELEFONIA",
-        "valor": 0.0
-      },
-      {
         "categoriaQC": "DEMAIS CATEGORIAS",
         "valor": 0.0
       }
     ],
-    "topUFs": [],
-    "agentesConsiderados": 0
+    "topUFs": [
+      {
+        "uf": "PR",
+        "valor": 7382.25
+      },
+      {
+        "uf": "RS",
+        "valor": 1397.12
+      },
+      {
+        "uf": "PE",
+        "valor": 1354.76
+      },
+      {
+        "uf": "MA",
+        "valor": 1003.71
+      },
+      {
+        "uf": "BA",
+        "valor": 548.35
+      },
+      {
+        "uf": "SP",
+        "valor": 484.2
+      },
+      {
+        "uf": "AM",
+        "valor": 458.18
+      },
+      {
+        "uf": "SC",
+        "valor": 422.78
+      },
+      {
+        "uf": "RO",
+        "valor": 265.06
+      },
+      {
+        "uf": "PI",
+        "valor": 225.12
+      },
+      {
+        "uf": "DF",
+        "valor": 202.13
+      }
+    ],
+    "agentesConsiderados": 21
   }
 }

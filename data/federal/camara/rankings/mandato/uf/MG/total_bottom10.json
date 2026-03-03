@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.339911Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 234388,
+      "nome": "Fabiano Cazeca",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 59961.66,
+      "qtdLancamentos": 100
+    },
+    {
+      "id": 77003,
+      "nome": "Sergio Santos Rodrigues",
+      "uf": "MG",
+      "partido": "PODE",
+      "valor": 75846.14,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 204520,
+      "nome": "Junio Amaral",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 968015.43,
+      "qtdLancamentos": 1667
+    },
+    {
+      "id": 204482,
+      "nome": "Euclydes Pettersen",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 1072398.44,
+      "qtdLancamentos": 385
+    },
+    {
+      "id": 209787,
+      "nome": "Nikolas Ferreira",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 1108809.5,
+      "qtdLancamentos": 1084
+    },
+    {
+      "id": 160510,
+      "nome": "Luis Tibé",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 1166793.07,
+      "qtdLancamentos": 1321
+    },
+    {
+      "id": 204539,
+      "nome": "Hercílio Coelho Diniz",
+      "uf": "MG",
+      "partido": "MDB",
+      "valor": 1206421.7,
+      "qtdLancamentos": 542
+    },
+    {
+      "id": 178896,
+      "nome": "Newton Cardoso Jr",
+      "uf": "MG",
+      "partido": "MDB",
+      "valor": 1212329.29,
+      "qtdLancamentos": 765
+    },
+    {
+      "id": 198197,
+      "nome": "Greyce Elias",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 1252470.98,
+      "qtdLancamentos": 2557
+    },
+    {
+      "id": 74158,
+      "nome": "Mário Heringer",
+      "uf": "MG",
+      "partido": "PDT",
+      "valor": 1288680.28,
+      "qtdLancamentos": 508
+    }
+  ]
+}

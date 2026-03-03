@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.478339Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 205865,
+      "nome": "Reinhold Stephanes",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 60000.0,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 138286,
+      "nome": "Luciano Alves",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 56999.6,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 178934,
+      "nome": "Toninho Wandscheer",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 50000.0,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 73768,
+      "nome": "Dilceu Sperafico",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 49200.0,
+      "qtdLancamentos": 30
+    },
+    {
+      "id": 204410,
+      "nome": "Luisa Canziani",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 43612.0,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 231911,
+      "nome": "Lenir de Assis",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 40300.0,
+      "qtdLancamentos": 72
+    },
+    {
+      "id": 224333,
+      "nome": "Welter",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 39050.62,
+      "qtdLancamentos": 90
+    },
+    {
+      "id": 220702,
+      "nome": "Geraldo Mendes",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 37400.0,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 220685,
+      "nome": "Paulo Litro",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 37250.0,
+      "qtdLancamentos": 58
+    },
+    {
+      "id": 73778,
+      "nome": "Luiz Carlos Hauly",
+      "uf": "PR",
+      "partido": "PODE",
+      "valor": 35399.0,
+      "qtdLancamentos": 22
+    }
+  ]
+}

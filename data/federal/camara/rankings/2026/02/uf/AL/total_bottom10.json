@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "AL"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.782842Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 171617,
+      "nome": "Paulão",
+      "uf": "AL",
+      "partido": "PT",
+      "valor": 322.13,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 220582,
+      "nome": "Daniel Barbosa",
+      "uf": "AL",
+      "partido": "PP",
+      "valor": 1481.9,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 220586,
+      "nome": "Rafael Brito",
+      "uf": "AL",
+      "partido": "MDB",
+      "valor": 1890.6,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 204436,
+      "nome": "Isnaldo Bulhões Jr.",
+      "uf": "AL",
+      "partido": "MDB",
+      "valor": 2144.01,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 178843,
+      "nome": "Marx Beltrão",
+      "uf": "AL",
+      "partido": "PP",
+      "valor": 4390.44,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 220576,
+      "nome": "Alfredo Gaspar",
+      "uf": "AL",
+      "partido": "UNIÃO",
+      "valor": 26631.44,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 220583,
+      "nome": "Delegado Fabio Costa",
+      "uf": "AL",
+      "partido": "PP",
+      "valor": 34257.68,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 220581,
+      "nome": "Luciano Amaral",
+      "uf": "AL",
+      "partido": "PSD",
+      "valor": 37424.6,
+      "qtdLancamentos": 14
+    }
+  ]
+}

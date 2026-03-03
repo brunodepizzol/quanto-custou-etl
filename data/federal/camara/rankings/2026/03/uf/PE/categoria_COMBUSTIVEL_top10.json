@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 3,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.367934Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 88256,
+      "nome": "Clodoaldo Magalhães",
+      "uf": "PE",
+      "partido": "PV",
+      "valor": 939.88,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 220669,
+      "nome": "Lula da Fonte",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 414.88,
+      "qtdLancamentos": 2
+    }
+  ]
+}

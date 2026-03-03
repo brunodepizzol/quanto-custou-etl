@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MT"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.499860Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204472,
+      "nome": "José Medeiros",
+      "uf": "MT",
+      "partido": "PL",
+      "valor": 9666.61,
+      "qtdLancamentos": 32
+    },
+    {
+      "id": 198783,
+      "nome": "Emanuel Pinheiro Neto",
+      "uf": "MT",
+      "partido": "MDB",
+      "valor": 6807.74,
+      "qtdLancamentos": 37
+    },
+    {
+      "id": 220594,
+      "nome": "Coronel Assis",
+      "uf": "MT",
+      "partido": "UNIÃO",
+      "valor": 3682.18,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 204474,
+      "nome": "Juarez Costa",
+      "uf": "MT",
+      "partido": "MDB",
+      "valor": 3546.9,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 230767,
+      "nome": "Rodrigo da Zaeli",
+      "uf": "MT",
+      "partido": "PL",
+      "valor": 2900.0,
+      "qtdLancamentos": 79
+    },
+    {
+      "id": 226179,
+      "nome": "Gisela Simona",
+      "uf": "MT",
+      "partido": "UNIÃO",
+      "valor": 2194.6,
+      "qtdLancamentos": 62
+    },
+    {
+      "id": 204449,
+      "nome": "Nelson Barbudo",
+      "uf": "MT",
+      "partido": "PL",
+      "valor": 70.74,
+      "qtdLancamentos": 26
+    }
+  ]
+}

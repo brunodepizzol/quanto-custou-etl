@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "OUTROS",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.454884Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74159,
+      "nome": "Odair Cunha",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 31600.0,
+      "qtdLancamentos": 103
+    },
+    {
+      "id": 204524,
+      "nome": "Pinheirinho",
+      "uf": "MG",
+      "partido": "PP",
+      "valor": 25970.0,
+      "qtdLancamentos": 43
+    },
+    {
+      "id": 160758,
+      "nome": "Domingos Sávio",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 19360.0,
+      "qtdLancamentos": 47
+    },
+    {
+      "id": 220620,
+      "nome": "Rosângela Reis",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 17700.0,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 204512,
+      "nome": "Delegado Marcelo Freitas",
+      "uf": "MG",
+      "partido": "UNIÃO",
+      "valor": 16375.0,
+      "qtdLancamentos": 55
+    },
+    {
+      "id": 160599,
+      "nome": "Dimas Fabiano",
+      "uf": "MG",
+      "partido": "PP",
+      "valor": 15960.0,
+      "qtdLancamentos": 49
+    },
+    {
+      "id": 204518,
+      "nome": "Dr. Frederico",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 15600.0,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 198197,
+      "nome": "Greyce Elias",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 15436.36,
+      "qtdLancamentos": 50
+    },
+    {
+      "id": 74156,
+      "nome": "Leonardo Monteiro",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 14320.0,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 210989,
+      "nome": "Bruno Farias",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 14116.89,
+      "qtdLancamentos": 42
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "PASSAGENS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PB"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.344787Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 160527,
+      "nome": "Aguinaldo Ribeiro",
+      "uf": "PB",
+      "partido": "PP",
+      "valor": 424476.13,
+      "qtdLancamentos": 1608
+    },
+    {
+      "id": 74041,
+      "nome": "Luiz Couto",
+      "uf": "PB",
+      "partido": "PT",
+      "valor": 405652.83,
+      "qtdLancamentos": 1330
+    },
+    {
+      "id": 74467,
+      "nome": "Damião Feliciano",
+      "uf": "PB",
+      "partido": "UNIÃO",
+      "valor": 393099.29,
+      "qtdLancamentos": 575
+    },
+    {
+      "id": 220574,
+      "nome": "Cabo Gilberto Silva",
+      "uf": "PB",
+      "partido": "PL",
+      "valor": 345489.35,
+      "qtdLancamentos": 748
+    },
+    {
+      "id": 160674,
+      "nome": "Hugo Motta",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 295296.73,
+      "qtdLancamentos": 1384
+    },
+    {
+      "id": 220585,
+      "nome": "Mersinho Lucena",
+      "uf": "PB",
+      "partido": "PP",
+      "valor": 278055.54,
+      "qtdLancamentos": 918
+    },
+    {
+      "id": 74043,
+      "nome": "Wellington Roberto",
+      "uf": "PB",
+      "partido": "PL",
+      "valor": 247159.57,
+      "qtdLancamentos": 796
+    },
+    {
+      "id": 204394,
+      "nome": "Gervásio Maia",
+      "uf": "PB",
+      "partido": "PSB",
+      "valor": 207860.64,
+      "qtdLancamentos": 1662
+    },
+    {
+      "id": 220584,
+      "nome": "Murilo Galdino",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 167927.55,
+      "qtdLancamentos": 952
+    },
+    {
+      "id": 160629,
+      "nome": "Romero Rodrigues",
+      "uf": "PB",
+      "partido": "PODE",
+      "valor": 141066.95,
+      "qtdLancamentos": 549
+    }
+  ]
+}

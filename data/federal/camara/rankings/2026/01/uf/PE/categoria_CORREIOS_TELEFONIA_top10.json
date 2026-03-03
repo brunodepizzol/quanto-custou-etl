@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.052787Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204426,
+      "nome": "Carlos Veras",
+      "uf": "PE",
+      "partido": "PT",
+      "valor": 1316.35,
+      "qtdLancamentos": 70
+    },
+    {
+      "id": 157130,
+      "nome": "Túlio Gadêlha",
+      "uf": "PE",
+      "partido": "REDE",
+      "valor": 1198.53,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 204423,
+      "nome": "André Ferreira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 575.9,
+      "qtdLancamentos": 32
+    },
+    {
+      "id": 73801,
+      "nome": "Renildo Calheiros",
+      "uf": "PE",
+      "partido": "PCdoB",
+      "valor": 408.47,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 220663,
+      "nome": "Eriberto Medeiros",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 404.62,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 220665,
+      "nome": "Clarissa Tércio",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 310.93,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 160642,
+      "nome": "Pastor Eurico",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 296.9,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 130.99,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 88256,
+      "nome": "Clodoaldo Magalhães",
+      "uf": "PE",
+      "partido": "PV",
+      "valor": 0.0,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 220666,
+      "nome": "Coronel Meira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 15
+    }
+  ]
+}

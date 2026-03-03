@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.763283Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178829,
+      "nome": "Capitão Augusto",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 1200.0,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 74784,
+      "nome": "Luiza Erundina",
+      "uf": "SP",
+      "partido": "PSOL",
+      "valor": 1148.17,
+      "qtdLancamentos": 14
+    },
+    {
+      "id": 74262,
+      "nome": "Carlos Sampaio",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 1132.08,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 204525,
+      "nome": "Rosana Valle",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 987.0,
+      "qtdLancamentos": 28
+    },
+    {
+      "id": 73433,
+      "nome": "Arlindo Chinaglia",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 939.99,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 178986,
+      "nome": "Nilto Tatto",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 598.99,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 204528,
+      "nome": "Adriana Ventura",
+      "uf": "SP",
+      "partido": "NOVO",
+      "valor": 537.99,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 227433,
+      "nome": "Douglas Viegas",
+      "uf": "SP",
+      "partido": "UNIÃO",
+      "valor": 454.97,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 141518,
+      "nome": "Paulinho da Força",
+      "uf": "SP",
+      "partido": "SOLIDARIEDADE",
+      "valor": 330.0,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 220644,
+      "nome": "Rosangela Moro",
+      "uf": "SP",
+      "partido": "UNIÃO",
+      "valor": 280.78,
+      "qtdLancamentos": 6
+    }
+  ]
+}

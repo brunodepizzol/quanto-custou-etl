@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.489518Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204426,
+      "nome": "Carlos Veras",
+      "uf": "PE",
+      "partido": "PT",
+      "valor": 2632.7,
+      "qtdLancamentos": 114
+    },
+    {
+      "id": 157130,
+      "nome": "Túlio Gadêlha",
+      "uf": "PE",
+      "partido": "REDE",
+      "valor": 1874.64,
+      "qtdLancamentos": 47
+    },
+    {
+      "id": 220663,
+      "nome": "Eriberto Medeiros",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 589.17,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 204423,
+      "nome": "André Ferreira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 575.9,
+      "qtdLancamentos": 56
+    },
+    {
+      "id": 160642,
+      "nome": "Pastor Eurico",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 572.9,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 73801,
+      "nome": "Renildo Calheiros",
+      "uf": "PE",
+      "partido": "PCdoB",
+      "valor": 408.47,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 72442,
+      "nome": "Felipe Carreras",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 315.0,
+      "qtdLancamentos": 84
+    },
+    {
+      "id": 220665,
+      "nome": "Clarissa Tércio",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 310.93,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 130.99,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 121.0,
+      "qtdLancamentos": 20
+    }
+  ]
+}

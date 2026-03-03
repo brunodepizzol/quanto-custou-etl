@@ -1,0 +1,116 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.482699Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204459,
+      "nome": "Daniela do Waguinho",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 250.13,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 178946,
+      "nome": "Soraya Santos",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 1200.0,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 160512,
+      "nome": "Aureo Ribeiro",
+      "uf": "RJ",
+      "partido": "SOLIDARIEDADE",
+      "valor": 6424.5,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 74858,
+      "nome": "Lindbergh Farias",
+      "uf": "RJ",
+      "partido": "PT",
+      "valor": 9205.44,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 143942,
+      "nome": "Caio Vianna",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 11617.88,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 204444,
+      "nome": "Helio Lopes",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 12845.74,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 220616,
+      "nome": "Luciano Vieira",
+      "uf": "RJ",
+      "partido": "PSDB",
+      "valor": 14043.05,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 204464,
+      "nome": "Talíria Petrone",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 14173.85,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 204450,
+      "nome": "Doutor Luizinho",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 15742.01,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 220602,
+      "nome": "Dimas Gadelha",
+      "uf": "RJ",
+      "partido": "PT",
+      "valor": 16264.99,
+      "qtdLancamentos": 4
+    }
+  ]
+}

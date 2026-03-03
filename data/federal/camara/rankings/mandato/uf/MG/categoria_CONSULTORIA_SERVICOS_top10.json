@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CONSULTORIA_SERVICOS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.340055Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204515,
+      "nome": "André Janones",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 15000.0,
+      "qtdLancamentos": 999
+    },
+    {
+      "id": 204482,
+      "nome": "Euclydes Pettersen",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 12000.0,
+      "qtdLancamentos": 385
+    },
+    {
+      "id": 74646,
+      "nome": "Aécio Neves",
+      "uf": "MG",
+      "partido": "PSDB",
+      "valor": 0.0,
+      "qtdLancamentos": 1154
+    },
+    {
+      "id": 107970,
+      "nome": "Ana Paula Leão",
+      "uf": "MG",
+      "partido": "PP",
+      "valor": 0.0,
+      "qtdLancamentos": 1858
+    },
+    {
+      "id": 220632,
+      "nome": "Ana Pimentel",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 0.0,
+      "qtdLancamentos": 2163
+    },
+    {
+      "id": 210989,
+      "nome": "Bruno Farias",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 0.0,
+      "qtdLancamentos": 1955
+    },
+    {
+      "id": 206018,
+      "nome": "Célia Xakriabá",
+      "uf": "MG",
+      "partido": "PSOL",
+      "valor": 0.0,
+      "qtdLancamentos": 2541
+    },
+    {
+      "id": 220629,
+      "nome": "Dandara",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 0.0,
+      "qtdLancamentos": 767
+    },
+    {
+      "id": 220625,
+      "nome": "Delegada Ione",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 0.0,
+      "qtdLancamentos": 2315
+    },
+    {
+      "id": 204512,
+      "nome": "Delegado Marcelo Freitas",
+      "uf": "MG",
+      "partido": "UNIÃO",
+      "valor": 0.0,
+      "qtdLancamentos": 1299
+    }
+  ]
+}

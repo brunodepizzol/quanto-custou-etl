@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PI"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.056783Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 188097,
+      "nome": "Merlong Solano",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 46462.54,
+      "qtdLancamentos": 35
+    },
+    {
+      "id": 191923,
+      "nome": "Flávio Nogueira",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 45660.72,
+      "qtdLancamentos": 7
+    },
+    {
+      "id": 220699,
+      "nome": "Castro Neto",
+      "uf": "PI",
+      "partido": "PSD",
+      "valor": 44725.0,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 204431,
+      "nome": "Marcos Aurélio Sampaio",
+      "uf": "PI",
+      "partido": "PSD",
+      "valor": 44200.0,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 220688,
+      "nome": "Dr. Francisco",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 35340.09,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 74317,
+      "nome": "Júlio Cesar",
+      "uf": "PI",
+      "partido": "PSD",
+      "valor": 24903.58,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 123086,
+      "nome": "Átila Lira",
+      "uf": "PI",
+      "partido": "PP",
+      "valor": 19508.21,
+      "qtdLancamentos": 10
+    },
+    {
+      "id": 220697,
+      "nome": "Jadyel Alencar",
+      "uf": "PI",
+      "partido": "REPUBLICANOS",
+      "valor": 16794.2,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 220700,
+      "nome": "Florentino Neto",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 11498.04,
+      "qtdLancamentos": 4
+    }
+  ]
+}

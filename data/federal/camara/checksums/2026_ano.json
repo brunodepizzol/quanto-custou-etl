@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "checksums",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "geradoEm": "2026-03-03T15:34:12.510012Z",
+    "versaoSchema": "1.1.0"
+  },
+  "data": {
+    "totalGasto": 21120746.35,
+    "agentesConsiderados": 500,
+    "files": [
+      {
+        "path": "federal/camara/aggregates/2026/01/totais_deputados.json",
+        "sha256": "28a1cbc5273d51e6efc9feca4a1b224dd49b724449e50828ae8c2ac1e0b93a2e"
+      },
+      {
+        "path": "federal/camara/aggregates/2026/02/totais_deputados.json",
+        "sha256": "4db0bd94a16f796e7f77775d6c416bf44702ab55218d01f468e89e1e77dc699e"
+      },
+      {
+        "path": "federal/camara/aggregates/2026/03/totais_deputados.json",
+        "sha256": "18872fd8c553f1b457f31d63cfb52dfc01e8b8813494910e623eb24a33ac839b"
+      },
+      {
+        "path": "federal/camara/aggregates/2026/04/totais_deputados.json",
+        "sha256": "813e4cf7fe7be44e57b43f2c68da9e9eaac0099cb9dcb6cffe2e40f733abc1c7"
+      },
+      {
+        "path": "federal/camara/aggregates/2026/05/totais_deputados.json",
+        "sha256": "c676dac5e360482a0d346cc1935cf56eac3becba177229b3eaa60d51ddd5a919"
+      },
+      {
+        "path": "federal/camara/aggregates/2026/06/totais_deputados.json",
+        "sha256": "4a01687d1d863bd77f3bfddbe97c7f688d0acf4b4d52106e987ac890cbf026df"
+      },
+      {
+        "path": "federal/camara/aggregates/2026/07/totais_deputados.json",
+        "sha256": "e9b2d95734c0c76383fde797b626ed2ac5234037d274a99c9f9cbbe6d518a593"
+      },
+      {
+        "path": "federal/camara/aggregates/2026/08/totais_deputados.json",
+        "sha256": "88536705506ed82c8e3c8ee538ce0a0a09748b366b1e32ebbcc5f3d1890d9b9f"
+      },
+      {
+        "path": "federal/camara/aggregates/2026/09/totais_deputados.json",
+        "sha256": "f772d076f3af05db958c4ae3fa9adf7701d18db92354b5624b9d5f5cc942c55b"
+      },
+      {
+        "path": "federal/camara/aggregates/2026/10/totais_deputados.json",
+        "sha256": "c90aab99f039f324b096c2d336b258458865ceffb1a5efa69b6cfbdb6fed543e"
+      },
+      {
+        "path": "federal/camara/aggregates/2026/11/totais_deputados.json",
+        "sha256": "bc8c88a30eba1d1a5e554df739dfc5aafb4078a454aa018effaff7f07afa4fea"
+      },
+      {
+        "path": "federal/camara/aggregates/2026/12/totais_deputados.json",
+        "sha256": "36d654d7001038274c7b592b58423843e5d85829a6ff1dcc3948ce904637229a"
+      }
+    ],
+    "combinedSha256": "34be31af6187deeb5ea9271886c59775606ec4ecc2c78ad838f6e9592de3594d"
+  }
+}

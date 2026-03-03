@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ESCRITORIO",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.454806Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 107970,
+      "nome": "Ana Paula Leão",
+      "uf": "MG",
+      "partido": "PP",
+      "valor": 28962.15,
+      "qtdLancamentos": 51
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 26863.34,
+      "qtdLancamentos": 37
+    },
+    {
+      "id": 204508,
+      "nome": "Igor Timo",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 20520.12,
+      "qtdLancamentos": 77
+    },
+    {
+      "id": 92776,
+      "nome": "Stefano Aguiar",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 20196.31,
+      "qtdLancamentos": 29
+    },
+    {
+      "id": 204494,
+      "nome": "Fred Costa",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 19258.18,
+      "qtdLancamentos": 64
+    },
+    {
+      "id": 74646,
+      "nome": "Aécio Neves",
+      "uf": "MG",
+      "partido": "PSDB",
+      "valor": 18752.77,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 18078.27,
+      "qtdLancamentos": 57
+    },
+    {
+      "id": 198197,
+      "nome": "Greyce Elias",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 17573.11,
+      "qtdLancamentos": 50
+    },
+    {
+      "id": 74156,
+      "nome": "Leonardo Monteiro",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 16174.03,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 220632,
+      "nome": "Ana Pimentel",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 14648.91,
+      "qtdLancamentos": 39
+    }
+  ]
+}

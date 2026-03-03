@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "OUTROS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "BA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.335723Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204560,
+      "nome": "Adolfo Viana",
+      "uf": "BA",
+      "partido": "PSDB",
+      "valor": 591045.8,
+      "qtdLancamentos": 700
+    },
+    {
+      "id": 92102,
+      "nome": "Leur Lomanto Júnior",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 546500.0,
+      "qtdLancamentos": 702
+    },
+    {
+      "id": 204567,
+      "nome": "Raimundo Costa",
+      "uf": "BA",
+      "partido": "PODE",
+      "valor": 519356.44,
+      "qtdLancamentos": 2109
+    },
+    {
+      "id": 69871,
+      "nome": "Bacelar",
+      "uf": "BA",
+      "partido": "PV",
+      "valor": 503813.0,
+      "qtdLancamentos": 710
+    },
+    {
+      "id": 178860,
+      "nome": "Paulo Azi",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 471079.56,
+      "qtdLancamentos": 850
+    },
+    {
+      "id": 204571,
+      "nome": "Alex Santana",
+      "uf": "BA",
+      "partido": "REPUBLICANOS",
+      "valor": 467189.0,
+      "qtdLancamentos": 802
+    },
+    {
+      "id": 74537,
+      "nome": "Claudio Cajado",
+      "uf": "BA",
+      "partido": "PP",
+      "valor": 452159.92,
+      "qtdLancamentos": 1753
+    },
+    {
+      "id": 220691,
+      "nome": "Diego Coronel",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 444550.0,
+      "qtdLancamentos": 1616
+    },
+    {
+      "id": 220696,
+      "nome": "Ivoneide Caetano",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 432679.41,
+      "qtdLancamentos": 1065
+    },
+    {
+      "id": 209189,
+      "nome": "Joseildo Ramos",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 429132.89,
+      "qtdLancamentos": 1614
+    }
+  ]
+}

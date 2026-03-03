@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ALIMENTACAO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.763135Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 221328,
+      "nome": "Adilson Barroso",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 836.6,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 230957,
+      "nome": "João Cury",
+      "uf": "SP",
+      "partido": "MDB",
+      "valor": 607.63,
+      "qtdLancamentos": 61
+    },
+    {
+      "id": 160561,
+      "nome": "Missionário José Olimpio",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 602.52,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 204511,
+      "nome": "David Soares",
+      "uf": "SP",
+      "partido": "UNIÃO",
+      "valor": 353.71,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 74283,
+      "nome": "Vicentinho",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 306.27,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 220654,
+      "nome": "Delegado Paulo Bilynskyj",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 204.46,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 73441,
+      "nome": "Celso Russomanno",
+      "uf": "SP",
+      "partido": "REPUBLICANOS",
+      "valor": 192.94,
+      "qtdLancamentos": 15
+    },
+    {
+      "id": 73433,
+      "nome": "Arlindo Chinaglia",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 148.67,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 178829,
+      "nome": "Capitão Augusto",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 129.16,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 226837,
+      "nome": "Saulo Pedroso",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 110.32,
+      "qtdLancamentos": 7
+    }
+  ]
+}

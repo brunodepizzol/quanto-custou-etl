@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "escopo": "federal/camara",
+    "tipo": "resumo_deputado",
+    "id": 220528,
+    "geradoEm": "2026-03-03T15:34:13.130808Z",
+    "versaoSchema": "1.1.0",
+    "mandatoInicioAno": 2023,
+    "mandatoFimAno": 2026,
+    "versaoCategoryMap": "1.0.0"
+  },
+  "data": {
+    "id": 220528,
+    "nome": "Dr. Victor Linhalis",
+    "uf": "ES",
+    "partido": "PODE",
+    "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220528.jpg",
+    "totaisMandato": {
+      "total": 1446664.0,
+      "qtdLancamentos": 845,
+      "porCategoria": {
+        "ALIMENTACAO": 0.0,
+        "COMBUSTIVEL": 90113.79,
+        "CONSULTORIA_SERVICOS": 0.0,
+        "CORREIOS_TELEFONIA": 10870.2,
+        "DIVULGACAO": 572827.35,
+        "ESCRITORIO": 281086.92,
+        "HOSPEDAGEM": 5024.81,
+        "OUTROS": 324105.71,
+        "PASSAGENS": 162635.22
+      }
+    },
+    "totaisAno": {
+      "2023": 453617.95,
+      "2024": 504583.93,
+      "2025": 452547.24,
+      "2026": 35914.88
+    },
+    "porMes": {
+      "2023-01": 0.0,
+      "2023-02": 31668.15,
+      "2023-03": 25330.3,
+      "2023-04": 13648.12,
+      "2023-05": 33168.69,
+      "2023-06": 32074.96,
+      "2023-07": 6819.83,
+      "2023-08": 18021.58,
+      "2023-09": 36142.34,
+      "2023-10": 41861.32,
+      "2023-11": 42816.42,
+      "2023-12": 172066.24,
+      "2024-01": 42260.93,
+      "2024-02": 40868.89,
+      "2024-03": 50501.24,
+      "2024-04": 63350.08,
+      "2024-05": 35609.39,
+      "2024-06": 30138.63,
+      "2024-07": 31630.6,
+      "2024-08": 41708.21,
+      "2024-09": 41920.82,
+      "2024-10": 39886.24,
+      "2024-11": 32135.67,
+      "2024-12": 54573.23,
+      "2025-01": 10332.1,
+      "2025-02": 19227.22,
+      "2025-03": 48911.09,
+      "2025-04": 25833.55,
+      "2025-05": 31837.74,
+      "2025-06": 38071.22,
+      "2025-07": 44849.77,
+      "2025-08": 35313.19,
+      "2025-09": 39179.28,
+      "2025-10": 35068.93,
+      "2025-11": 37898.21,
+      "2025-12": 86024.94,
+      "2026-01": 34587.41,
+      "2026-02": 1327.47,
+      "2026-03": 0.0,
+      "2026-04": 0.0,
+      "2026-05": 0.0,
+      "2026-06": 0.0,
+      "2026-07": 0.0,
+      "2026-08": 0.0,
+      "2026-09": 0.0,
+      "2026-10": 0.0,
+      "2026-11": 0.0,
+      "2026-12": 0.0
+    },
+    "metricas": {
+      "variacaoMensalCV": 0.68601,
+      "picoMes": "2023-12",
+      "picoValor": 172066.24,
+      "fornecedorTop1Pct": 0.007716,
+      "fornecedorTop3Pct": 0.01805,
+      "fornecedorHHI": 0.000132,
+      "categoriaDominante": "DIVULGACAO",
+      "categoriaDominantePct": 0.395964,
+      "semDocumentoPct": 0.175048,
+      "recibosOutrosPct": 0.396885
+    },
+    "topFornecedores": [
+      {
+        "nome": "GALWAN CONSTRUTORA INCORPORADORA LTDA",
+        "valor": 11162.23
+      },
+      {
+        "nome": "O ANJO PUBLICIDADE LTDA",
+        "valor": 8500.0
+      },
+      {
+        "nome": "SUPREMA MOBILIDADE LTDA",
+        "valor": 6450.0
+      },
+      {
+        "nome": "ATOS COMUNICAÇÃO LTDA",
+        "valor": 5000.0
+      },
+      {
+        "nome": "NEURALIS AGENCIA DE PUBLICIDADE LTDA",
+        "valor": 3500.0
+      }
+    ],
+    "flags": [
+      "spiky_spend",
+      "high_receipts_other"
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "ALIMENTACAO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:29:12.772564Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 2177.1,
+      "qtdLancamentos": 47
+    },
+    {
+      "id": 204388,
+      "nome": "Bibo Nunes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 945.23,
+      "qtdLancamentos": 56
+    },
+    {
+      "id": 179001,
+      "nome": "Márcio Biolchi",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 834.24,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 591.4,
+      "qtdLancamentos": 52
+    },
+    {
+      "id": 204406,
+      "nome": "Pedro Westphalen",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 541.47,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 160538,
+      "nome": "Bohn Gass",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 498.79,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 419.03,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 398.75,
+      "qtdLancamentos": 38
+    },
+    {
+      "id": 178964,
+      "nome": "Heitor Schuch",
+      "uf": "RS",
+      "partido": "PSB",
+      "valor": 273.11,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 136811,
+      "nome": "Afonso Hamm",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 219.46,
+      "qtdLancamentos": 30
+    }
+  ]
+}

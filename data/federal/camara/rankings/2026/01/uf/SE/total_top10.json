@@ -1,0 +1,87 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "SE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.066376Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220560,
+      "nome": "Thiago de Joaldo",
+      "uf": "SE",
+      "partido": "PP",
+      "valor": 40889.73,
+      "qtdLancamentos": 25
+    },
+    {
+      "id": 220564,
+      "nome": "Yandra Moura",
+      "uf": "SE",
+      "partido": "UNIÃO",
+      "valor": 40300.0,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 178970,
+      "nome": "João Daniel",
+      "uf": "SE",
+      "partido": "PT",
+      "valor": 39745.48,
+      "qtdLancamentos": 26
+    },
+    {
+      "id": 204408,
+      "nome": "Gustinho Ribeiro",
+      "uf": "SE",
+      "partido": "REPUBLICANOS",
+      "valor": 33900.0,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 220561,
+      "nome": "Delegada Katarina",
+      "uf": "SE",
+      "partido": "PSD",
+      "valor": 25363.13,
+      "qtdLancamentos": 31
+    },
+    {
+      "id": 220563,
+      "nome": "Icaro de Valmir",
+      "uf": "SE",
+      "partido": "PL",
+      "valor": 22638.23,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 171623,
+      "nome": "Fabio Reis",
+      "uf": "SE",
+      "partido": "PSD",
+      "valor": 19624.21,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 165470,
+      "nome": "Rodrigo Valadares",
+      "uf": "SE",
+      "partido": "UNIÃO",
+      "valor": 19538.47,
+      "qtdLancamentos": 5
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "ES"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.048458Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178871,
+      "nome": "Evair Vieira de Melo",
+      "uf": "ES",
+      "partido": "PP",
+      "valor": 38300.0,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 204356,
+      "nome": "Amaro Neto",
+      "uf": "ES",
+      "partido": "REPUBLICANOS",
+      "valor": 30000.0,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 160517,
+      "nome": "Paulo Folletto",
+      "uf": "ES",
+      "partido": "PSB",
+      "valor": 26000.0,
+      "qtdLancamentos": 13
+    },
+    {
+      "id": 220529,
+      "nome": "Gilson Daniel",
+      "uf": "ES",
+      "partido": "PODE",
+      "valor": 22550.0,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 178873,
+      "nome": "Helder Salomão",
+      "uf": "ES",
+      "partido": "PT",
+      "valor": 20000.0,
+      "qtdLancamentos": 18
+    },
+    {
+      "id": 220530,
+      "nome": "Messias Donato",
+      "uf": "ES",
+      "partido": "REPUBLICANOS",
+      "valor": 19880.0,
+      "qtdLancamentos": 23
+    },
+    {
+      "id": 220528,
+      "nome": "Dr. Victor Linhalis",
+      "uf": "ES",
+      "partido": "PODE",
+      "valor": 17000.0,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 220526,
+      "nome": "Gilvan da Federal",
+      "uf": "ES",
+      "partido": "PL",
+      "valor": 10000.0,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 204355,
+      "nome": "Da Vitoria",
+      "uf": "ES",
+      "partido": "PP",
+      "valor": 6000.0,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 220527,
+      "nome": "Jack Rocha",
+      "uf": "ES",
+      "partido": "PT",
+      "valor": 0.0,
+      "qtdLancamentos": 6
+    }
+  ]
+}

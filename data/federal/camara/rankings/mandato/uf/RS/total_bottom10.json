@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_total",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RS"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.342440Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178962,
+      "nome": "Carlos Gomes",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 259812.03,
+      "qtdLancamentos": 543
+    },
+    {
+      "id": 74400,
+      "nome": "Paulo Pimenta",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 570878.26,
+      "qtdLancamentos": 166
+    },
+    {
+      "id": 160552,
+      "nome": "Danrlei de Deus Hinterholz",
+      "uf": "RS",
+      "partido": "PSD",
+      "valor": 620170.27,
+      "qtdLancamentos": 731
+    },
+    {
+      "id": 156190,
+      "nome": "Marcel van Hattem",
+      "uf": "RS",
+      "partido": "NOVO",
+      "valor": 809969.87,
+      "qtdLancamentos": 1723
+    },
+    {
+      "id": 133810,
+      "nome": "Marcelo Moraes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 864728.61,
+      "qtdLancamentos": 1471
+    },
+    {
+      "id": 220549,
+      "nome": "Any Ortiz",
+      "uf": "RS",
+      "partido": "CIDADANIA",
+      "valor": 935093.96,
+      "qtdLancamentos": 1406
+    },
+    {
+      "id": 220552,
+      "nome": "Zucco",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 1180131.58,
+      "qtdLancamentos": 1497
+    },
+    {
+      "id": 204404,
+      "nome": "Lucas Redecker",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 1352887.13,
+      "qtdLancamentos": 2423
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 1408368.37,
+      "qtdLancamentos": 3400
+    },
+    {
+      "id": 204407,
+      "nome": "Fernanda Melchionna",
+      "uf": "RS",
+      "partido": "PSOL",
+      "valor": 1447648.64,
+      "qtdLancamentos": 1527
+    }
+  ]
+}

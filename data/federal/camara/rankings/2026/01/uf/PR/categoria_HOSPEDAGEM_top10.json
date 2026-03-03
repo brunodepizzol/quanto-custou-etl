@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PR"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.042020Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220702,
+      "nome": "Geraldo Mendes",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 5229.53,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 204411,
+      "nome": "Filipe Barros",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 2560.96,
+      "qtdLancamentos": 17
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 1245.6,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 224333,
+      "nome": "Welter",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 1105.0,
+      "qtdLancamentos": 48
+    },
+    {
+      "id": 204396,
+      "nome": "Vermelho",
+      "uf": "PR",
+      "partido": "PP",
+      "valor": 869.44,
+      "qtdLancamentos": 11
+    },
+    {
+      "id": 220683,
+      "nome": "Beto Richa",
+      "uf": "PR",
+      "partido": "PSDB",
+      "valor": 748.0,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 178931,
+      "nome": "Luciano Ducci",
+      "uf": "PR",
+      "partido": "PSB",
+      "valor": 720.0,
+      "qtdLancamentos": 27
+    },
+    {
+      "id": 178927,
+      "nome": "Aliel Machado",
+      "uf": "PR",
+      "partido": "PV",
+      "valor": 495.0,
+      "qtdLancamentos": 25
+    },
+    {
+      "id": 220704,
+      "nome": "Carol Dartora",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 0.0,
+      "qtdLancamentos": 20
+    },
+    {
+      "id": 220701,
+      "nome": "Delegado Matheus Laiola",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 0.0,
+      "qtdLancamentos": 11
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "RJ"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.363687Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220603,
+      "nome": "Dani Cunha",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 285774.5,
+      "qtdLancamentos": 2382
+    },
+    {
+      "id": 74253,
+      "nome": "Julio Lopes",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 266613.22,
+      "qtdLancamentos": 729
+    },
+    {
+      "id": 204456,
+      "nome": "Gutemberg Reis",
+      "uf": "RJ",
+      "partido": "MDB",
+      "valor": 210434.37,
+      "qtdLancamentos": 2175
+    },
+    {
+      "id": 220611,
+      "nome": "General Pazuello",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 169641.37,
+      "qtdLancamentos": 1444
+    },
+    {
+      "id": 204441,
+      "nome": "Otoni de Paula",
+      "uf": "RJ",
+      "partido": "MDB",
+      "valor": 164987.54,
+      "qtdLancamentos": 1072
+    },
+    {
+      "id": 204457,
+      "nome": "Juninho do Pneu",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 155665.85,
+      "qtdLancamentos": 1159
+    },
+    {
+      "id": 74856,
+      "nome": "Laura Carneiro",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 153288.45,
+      "qtdLancamentos": 1962
+    },
+    {
+      "id": 178943,
+      "nome": "Marcos Soares",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 130794.78,
+      "qtdLancamentos": 1667
+    },
+    {
+      "id": 178947,
+      "nome": "Sóstenes Cavalcante",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 129704.31,
+      "qtdLancamentos": 1317
+    },
+    {
+      "id": 204460,
+      "nome": "Carlos Jordy",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 127919.75,
+      "qtdLancamentos": 1235
+    }
+  ]
+}

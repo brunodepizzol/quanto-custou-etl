@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.489476Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204426,
+      "nome": "Carlos Veras",
+      "uf": "PE",
+      "partido": "PT",
+      "valor": 17201.51,
+      "qtdLancamentos": 114
+    },
+    {
+      "id": 72442,
+      "nome": "Felipe Carreras",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 14752.62,
+      "qtdLancamentos": 84
+    },
+    {
+      "id": 220670,
+      "nome": "Iza Arruda",
+      "uf": "PE",
+      "partido": "MDB",
+      "valor": 13527.14,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 220668,
+      "nome": "Maria Arraes",
+      "uf": "PE",
+      "partido": "SOLIDARIEDADE",
+      "valor": 12601.78,
+      "qtdLancamentos": 64
+    },
+    {
+      "id": 220669,
+      "nome": "Lula da Fonte",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 11714.48,
+      "qtdLancamentos": 67
+    },
+    {
+      "id": 141431,
+      "nome": "Fernando Coelho Filho",
+      "uf": "PE",
+      "partido": "UNIÃO",
+      "valor": 10637.59,
+      "qtdLancamentos": 22
+    },
+    {
+      "id": 204423,
+      "nome": "André Ferreira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 10260.27,
+      "qtdLancamentos": 56
+    },
+    {
+      "id": 88256,
+      "nome": "Clodoaldo Magalhães",
+      "uf": "PE",
+      "partido": "PV",
+      "valor": 7954.82,
+      "qtdLancamentos": 36
+    },
+    {
+      "id": 73801,
+      "nome": "Renildo Calheiros",
+      "uf": "PE",
+      "partido": "PCdoB",
+      "valor": 6290.06,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 204427,
+      "nome": "Fernando Rodolfo",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 5161.56,
+      "qtdLancamentos": 23
+    }
+  ]
+}

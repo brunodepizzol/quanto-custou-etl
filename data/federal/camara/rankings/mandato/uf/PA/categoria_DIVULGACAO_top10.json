@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "DIVULGACAO",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.346935Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204498,
+      "nome": "Olival Marques",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 1229250.0,
+      "qtdLancamentos": 656
+    },
+    {
+      "id": 220671,
+      "nome": "Dilvanda Faro",
+      "uf": "PA",
+      "partido": "PT",
+      "valor": 1115038.0,
+      "qtdLancamentos": 516
+    },
+    {
+      "id": 220676,
+      "nome": "Andreia Siqueira",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 889274.49,
+      "qtdLancamentos": 573
+    },
+    {
+      "id": 220674,
+      "nome": "Dra. Alessandra Haber",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 808643.64,
+      "qtdLancamentos": 494
+    },
+    {
+      "id": 220677,
+      "nome": "Keniston Braga",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 795371.26,
+      "qtdLancamentos": 770
+    },
+    {
+      "id": 220672,
+      "nome": "Henderson Pinto",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 709834.0,
+      "qtdLancamentos": 1112
+    },
+    {
+      "id": 204497,
+      "nome": "Júnior Ferrari",
+      "uf": "PA",
+      "partido": "PSD",
+      "valor": 705748.87,
+      "qtdLancamentos": 722
+    },
+    {
+      "id": 204495,
+      "nome": "Airton Faleiro",
+      "uf": "PA",
+      "partido": "PT",
+      "valor": 659691.2,
+      "qtdLancamentos": 1009
+    },
+    {
+      "id": 74084,
+      "nome": "Raimundo Santos",
+      "uf": "PA",
+      "partido": "PSD",
+      "valor": 571125.0,
+      "qtdLancamentos": 941
+    },
+    {
+      "id": 220675,
+      "nome": "Antônio Doido",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 510377.27,
+      "qtdLancamentos": 817
+    }
+  ]
+}

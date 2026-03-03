@@ -1,0 +1,101 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "COMBUSTIVEL",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "AP"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.443461Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178831,
+      "nome": "André Abdon",
+      "uf": "AP",
+      "partido": "PP",
+      "valor": 10740.03,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 220578,
+      "nome": "Josenildo",
+      "uf": "AP",
+      "partido": "PDT",
+      "valor": 6616.07,
+      "qtdLancamentos": 33
+    },
+    {
+      "id": 204379,
+      "nome": "Acácio Favacho",
+      "uf": "AP",
+      "partido": "MDB",
+      "valor": 3063.6,
+      "qtdLancamentos": 16
+    },
+    {
+      "id": 220573,
+      "nome": "Dorinaldo Malafaia",
+      "uf": "AP",
+      "partido": "PDT",
+      "valor": 514.38,
+      "qtdLancamentos": 8
+    },
+    {
+      "id": 160641,
+      "nome": "Professora Marcivania",
+      "uf": "AP",
+      "partido": "PCdoB",
+      "valor": 504.99,
+      "qtdLancamentos": 4
+    },
+    {
+      "id": 234840,
+      "nome": "Cristiano Furlan",
+      "uf": "AP",
+      "partido": "REDE",
+      "valor": 0.0,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 74065,
+      "nome": "Fatima Pelaes",
+      "uf": "AP",
+      "partido": "REPUBLICANOS",
+      "valor": 0.0,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 160591,
+      "nome": "Vinicius Gurgel",
+      "uf": "AP",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 5
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:24:10.029840Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 178910,
+      "nome": "Joaquim Passarinho",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 413.97,
+      "qtdLancamentos": 14
+    },
+    {
+      "id": 74084,
+      "nome": "Raimundo Santos",
+      "uf": "PA",
+      "partido": "PSD",
+      "valor": 324.8,
+      "qtdLancamentos": 9
+    },
+    {
+      "id": 74075,
+      "nome": "Elcione Barbalho",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 216.3,
+      "qtdLancamentos": 6
+    },
+    {
+      "id": 204495,
+      "nome": "Airton Faleiro",
+      "uf": "PA",
+      "partido": "PT",
+      "valor": 0.0,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 220676,
+      "nome": "Andreia Siqueira",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 0.0,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 204496,
+      "nome": "Celso Sabino",
+      "uf": "PA",
+      "partido": "UNIÃO",
+      "valor": 0.0,
+      "qtdLancamentos": 2
+    },
+    {
+      "id": 220673,
+      "nome": "Delegado Caveira",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 178908,
+      "nome": "Delegado Éder Mauro",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 0.0,
+      "qtdLancamentos": 1
+    },
+    {
+      "id": 220671,
+      "nome": "Dilvanda Faro",
+      "uf": "PA",
+      "partido": "PT",
+      "valor": 0.0,
+      "qtdLancamentos": 3
+    },
+    {
+      "id": 220674,
+      "nome": "Dra. Alessandra Haber",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 0.0,
+      "qtdLancamentos": 2
+    }
+  ]
+}

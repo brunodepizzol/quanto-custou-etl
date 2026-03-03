@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "PASSAGENS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "MG"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.340324Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74161,
+      "nome": "Reginaldo Lopes",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 906032.29,
+      "qtdLancamentos": 1435
+    },
+    {
+      "id": 220623,
+      "nome": "Duda Salabert",
+      "uf": "MG",
+      "partido": "PDT",
+      "valor": 516316.66,
+      "qtdLancamentos": 1171
+    },
+    {
+      "id": 74158,
+      "nome": "Mário Heringer",
+      "uf": "MG",
+      "partido": "PDT",
+      "valor": 489197.03,
+      "qtdLancamentos": 508
+    },
+    {
+      "id": 160640,
+      "nome": "Eros Biondini",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 459120.06,
+      "qtdLancamentos": 1444
+    },
+    {
+      "id": 74646,
+      "nome": "Aécio Neves",
+      "uf": "MG",
+      "partido": "PSDB",
+      "valor": 446042.81,
+      "qtdLancamentos": 1154
+    },
+    {
+      "id": 160588,
+      "nome": "Diego Andrade",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 416285.21,
+      "qtdLancamentos": 1261
+    },
+    {
+      "id": 160510,
+      "nome": "Luis Tibé",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 410064.19,
+      "qtdLancamentos": 1321
+    },
+    {
+      "id": 141516,
+      "nome": "Paulo Abi-Ackel",
+      "uf": "MG",
+      "partido": "PSDB",
+      "valor": 385610.8,
+      "qtdLancamentos": 2096
+    },
+    {
+      "id": 206018,
+      "nome": "Célia Xakriabá",
+      "uf": "MG",
+      "partido": "PSOL",
+      "valor": 385464.87,
+      "qtdLancamentos": 2541
+    },
+    {
+      "id": 141531,
+      "nome": "Rodrigo de Castro",
+      "uf": "MG",
+      "partido": "UNIÃO",
+      "valor": 359533.6,
+      "qtdLancamentos": 1784
+    }
+  ]
+}

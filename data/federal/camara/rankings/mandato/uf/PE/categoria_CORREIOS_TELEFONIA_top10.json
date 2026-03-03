@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "CORREIOS_TELEFONIA",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.370451Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 204426,
+      "nome": "Carlos Veras",
+      "uf": "PE",
+      "partido": "PT",
+      "valor": 41372.94,
+      "qtdLancamentos": 2683
+    },
+    {
+      "id": 157130,
+      "nome": "Túlio Gadêlha",
+      "uf": "PE",
+      "partido": "REDE",
+      "valor": 32649.59,
+      "qtdLancamentos": 1572
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 31589.47,
+      "qtdLancamentos": 1260
+    },
+    {
+      "id": 73801,
+      "nome": "Renildo Calheiros",
+      "uf": "PE",
+      "partido": "PCdoB",
+      "valor": 21146.24,
+      "qtdLancamentos": 1097
+    },
+    {
+      "id": 204423,
+      "nome": "André Ferreira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 20284.12,
+      "qtdLancamentos": 1744
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 18438.22,
+      "qtdLancamentos": 1599
+    },
+    {
+      "id": 220663,
+      "nome": "Eriberto Medeiros",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 11816.51,
+      "qtdLancamentos": 1020
+    },
+    {
+      "id": 160642,
+      "nome": "Pastor Eurico",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 9735.79,
+      "qtdLancamentos": 1612
+    },
+    {
+      "id": 141431,
+      "nome": "Fernando Coelho Filho",
+      "uf": "PE",
+      "partido": "UNIÃO",
+      "valor": 9649.88,
+      "qtdLancamentos": 1087
+    },
+    {
+      "id": 220665,
+      "nome": "Clarissa Tércio",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 9224.7,
+      "qtdLancamentos": 838
+    }
+  ]
+}

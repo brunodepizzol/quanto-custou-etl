@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "HOSPEDAGEM",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.370519Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 220666,
+      "nome": "Coronel Meira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 95821.59,
+      "qtdLancamentos": 1677
+    },
+    {
+      "id": 204426,
+      "nome": "Carlos Veras",
+      "uf": "PE",
+      "partido": "PT",
+      "valor": 71225.52,
+      "qtdLancamentos": 2683
+    },
+    {
+      "id": 72442,
+      "nome": "Felipe Carreras",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 66883.81,
+      "qtdLancamentos": 1643
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 60925.1,
+      "qtdLancamentos": 1260
+    },
+    {
+      "id": 157130,
+      "nome": "Túlio Gadêlha",
+      "uf": "PE",
+      "partido": "REDE",
+      "valor": 49794.14,
+      "qtdLancamentos": 1572
+    },
+    {
+      "id": 220667,
+      "nome": "Pedro Campos",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 48194.97,
+      "qtdLancamentos": 1811
+    },
+    {
+      "id": 204427,
+      "nome": "Fernando Rodolfo",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 42717.23,
+      "qtdLancamentos": 1379
+    },
+    {
+      "id": 160642,
+      "nome": "Pastor Eurico",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 36649.84,
+      "qtdLancamentos": 1612
+    },
+    {
+      "id": 220668,
+      "nome": "Maria Arraes",
+      "uf": "PE",
+      "partido": "SOLIDARIEDADE",
+      "valor": 29693.01,
+      "qtdLancamentos": 1457
+    },
+    {
+      "id": 74428,
+      "nome": "Mendonça Filho",
+      "uf": "PE",
+      "partido": "UNIÃO",
+      "valor": 28728.97,
+      "qtdLancamentos": 1029
+    }
+  ]
+}

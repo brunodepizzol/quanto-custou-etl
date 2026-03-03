@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "PASSAGENS",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48,
+      "recorte": {
+        "tipo": "uf",
+        "valor": "PE"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:13.370565Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 72442,
+      "nome": "Felipe Carreras",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 646617.6,
+      "qtdLancamentos": 1643
+    },
+    {
+      "id": 204427,
+      "nome": "Fernando Rodolfo",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 630257.53,
+      "qtdLancamentos": 1379
+    },
+    {
+      "id": 220662,
+      "nome": "Lucas Ramos",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 442432.49,
+      "qtdLancamentos": 681
+    },
+    {
+      "id": 160642,
+      "nome": "Pastor Eurico",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 408673.01,
+      "qtdLancamentos": 1612
+    },
+    {
+      "id": 141431,
+      "nome": "Fernando Coelho Filho",
+      "uf": "PE",
+      "partido": "UNIÃO",
+      "valor": 383816.5,
+      "qtdLancamentos": 1087
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 365676.52,
+      "qtdLancamentos": 1260
+    },
+    {
+      "id": 220667,
+      "nome": "Pedro Campos",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 353658.84,
+      "qtdLancamentos": 1811
+    },
+    {
+      "id": 74428,
+      "nome": "Mendonça Filho",
+      "uf": "PE",
+      "partido": "UNIÃO",
+      "valor": 341808.51,
+      "qtdLancamentos": 1029
+    },
+    {
+      "id": 220669,
+      "nome": "Lula da Fonte",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 338748.44,
+      "qtdLancamentos": 2098
+    },
+    {
+      "id": 74478,
+      "nome": "Luciano Bivar",
+      "uf": "PE",
+      "partido": "UNIÃO",
+      "valor": 325316.3,
+      "qtdLancamentos": 665
+    }
+  ]
+}

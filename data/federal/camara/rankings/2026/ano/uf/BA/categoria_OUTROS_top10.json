@@ -1,0 +1,117 @@
+{
+  "meta": {
+    "tipo": "ranking_categoria",
+    "escopo": "federal/camara",
+    "categoriaQC": "OUTROS",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2026,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "recorte": {
+        "tipo": "uf",
+        "valor": "BA"
+      }
+    },
+    "geradoEm": "2026-03-03T15:34:12.450262Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    }
+  },
+  "itens": [
+    {
+      "id": 74537,
+      "nome": "Claudio Cajado",
+      "uf": "BA",
+      "partido": "PP",
+      "valor": 37940.4,
+      "qtdLancamentos": 41
+    },
+    {
+      "id": 69871,
+      "nome": "Bacelar",
+      "uf": "BA",
+      "partido": "PV",
+      "valor": 37200.0,
+      "qtdLancamentos": 24
+    },
+    {
+      "id": 160666,
+      "nome": "Félix Mendonça Júnior",
+      "uf": "BA",
+      "partido": "PDT",
+      "valor": 29870.0,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 204571,
+      "nome": "Alex Santana",
+      "uf": "BA",
+      "partido": "REPUBLICANOS",
+      "valor": 25900.0,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 220691,
+      "nome": "Diego Coronel",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 25400.0,
+      "qtdLancamentos": 40
+    },
+    {
+      "id": 92102,
+      "nome": "Leur Lomanto Júnior",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 25000.0,
+      "qtdLancamentos": 21
+    },
+    {
+      "id": 209189,
+      "nome": "Joseildo Ramos",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 24000.0,
+      "qtdLancamentos": 45
+    },
+    {
+      "id": 80815,
+      "nome": "Leo Prates",
+      "uf": "BA",
+      "partido": "PDT",
+      "valor": 21600.0,
+      "qtdLancamentos": 19
+    },
+    {
+      "id": 204567,
+      "nome": "Raimundo Costa",
+      "uf": "BA",
+      "partido": "PODE",
+      "valor": 19367.6,
+      "qtdLancamentos": 42
+    },
+    {
+      "id": 178854,
+      "nome": "Elmar Nascimento",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 18700.0,
+      "qtdLancamentos": 6
+    }
+  ]
+}
