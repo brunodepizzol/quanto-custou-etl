@@ -29,6 +29,13 @@ def read_json(path: Path) -> Optional[dict]:
         return None
     return json.loads(path.read_text(encoding="utf-8"))
 
+def safe_slug(text):
+    text = text or ""
+    text = text.lower()
+    text = re.sub(r"[^\w\s-]", "", text)
+    text = re.sub(r"[\s]+", "-", text)
+    return text.strip("-")
+    
 def write_resumos_index(out_dir: Path, escopo: str = "federal/camara") -> None:
     deps_dir = out_dir / "federal/camara/resumos/deputados"
     if not deps_dir.exists():
