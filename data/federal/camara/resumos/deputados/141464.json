@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 141464,
-    "geradoEm": "2026-03-04T14:16:10.675734Z",
+    "geradoEm": "2026-03-04T15:52:10.059803Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,27 +13,28 @@
     "partido": "PT",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141464.jpg",
     "totaisMandato": {
-      "total": 808716.43,
-      "qtdLancamentos": 290,
+      "total": 1286242.08,
+      "qtdLancamentos": 413,
       "porCategoria": {
-        "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 127799.52,
+        "ALIMENTACAO": 309.0,
+        "COMBUSTIVEL": 240262.52,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 5773.48,
-        "DIVULGACAO": 137040.25,
-        "ESCRITORIO": 102173.47,
-        "HOSPEDAGEM": 7604.2,
-        "OUTROS": 239711.6,
-        "PASSAGENS": 188613.91
+        "CORREIOS_TELEFONIA": 6153.45,
+        "DIVULGACAO": 365873.58,
+        "ESCRITORIO": 122900.63,
+        "HOSPEDAGEM": 16894.5,
+        "OUTROS": 277850.6,
+        "PASSAGENS": 255997.8
       },
-      "qtdSemDocumentoPdf": 186,
-      "valorSemDocumentoPdf": 319128.2,
-      "qtdRecibosOutros": 15,
-      "valorRecibosOutros": 77371.41
+      "qtdSemDocumentoPdf": 250,
+      "valorSemDocumentoPdf": 496030.21,
+      "qtdRecibosOutros": 18,
+      "valorRecibosOutros": 95856.77
     },
     "totaisAno": {
       "2023": 503405.43,
-      "2024": 305311.0
+      "2024": 305311.0,
+      "2025": 477525.65
     },
     "porMes": {
       "2023-01": 13853.7,
@@ -59,12 +60,24 @@
       "2024-09": 37029.59,
       "2024-10": 38764.89,
       "2024-11": 45448.32,
-      "2024-12": 16937.67
+      "2024-12": 16937.67,
+      "2025-01": 32526.66,
+      "2025-02": 91299.05,
+      "2025-03": 37451.58,
+      "2025-04": 49601.78,
+      "2025-05": 39889.94,
+      "2025-06": 34435.75,
+      "2025-07": 43305.15,
+      "2025-08": 24784.13,
+      "2025-09": 24608.31,
+      "2025-10": 36892.0,
+      "2025-11": 32173.3,
+      "2025-12": 30558.0
     },
     "maiorCategoria": {
-      "categoria": "OUTROS",
-      "valor": 239711.6,
-      "pct": 29.64
+      "categoria": "DIVULGACAO",
+      "valor": 365873.58,
+      "pct": 28.45
     }
   }
 }

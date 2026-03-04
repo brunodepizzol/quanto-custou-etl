@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2025,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "geradoEm": "2026-03-04T15:52:09.703518Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 220621,
+      "nome": "Sargento Gonçalves",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 437623.33,
+      "qtdLancamentos": 241,
+      "qtdSemDocumentoPdf": 212
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 430492.0,
+      "qtdLancamentos": 86,
+      "qtdSemDocumentoPdf": 71
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 392525.62,
+      "qtdLancamentos": 207,
+      "qtdSemDocumentoPdf": 197
+    },
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 357081.33,
+      "qtdLancamentos": 116,
+      "qtdSemDocumentoPdf": 105
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 311198.08,
+      "qtdLancamentos": 94,
+      "qtdSemDocumentoPdf": 61
+    },
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 278304.55,
+      "qtdLancamentos": 999,
+      "qtdSemDocumentoPdf": 810
+    },
+    {
+      "id": 160512,
+      "nome": "Aureo Ribeiro",
+      "uf": "RJ",
+      "partido": "SOLIDARIEDADE",
+      "valor": 238408.59,
+      "qtdLancamentos": 225,
+      "qtdSemDocumentoPdf": 170
+    },
+    {
+      "id": 178943,
+      "nome": "Marcos Soares",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 238008.51,
+      "qtdLancamentos": 497,
+      "qtdSemDocumentoPdf": 395
+    },
+    {
+      "id": 204368,
+      "nome": "Fabio Schiochet",
+      "uf": "SC",
+      "partido": "UNIÃO",
+      "valor": 237669.66,
+      "qtdLancamentos": 658,
+      "qtdSemDocumentoPdf": 482
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 225685.57,
+      "qtdLancamentos": 1123,
+      "qtdSemDocumentoPdf": 631
+    }
+  ]
+}

@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 156190,
-    "geradoEm": "2026-03-04T14:16:10.688793Z",
+    "geradoEm": "2026-03-04T15:52:10.068165Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,27 +13,28 @@
     "partido": "NOVO",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/156190.jpg",
     "totaisMandato": {
-      "total": 349319.68,
-      "qtdLancamentos": 681,
+      "total": 606742.1,
+      "qtdLancamentos": 1252,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 30243.8,
+        "COMBUSTIVEL": 52674.48,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 2326.73,
-        "DIVULGACAO": 47928.75,
-        "ESCRITORIO": 110737.24,
-        "HOSPEDAGEM": 10424.94,
-        "OUTROS": 10441.79,
-        "PASSAGENS": 137216.43
+        "CORREIOS_TELEFONIA": 5209.25,
+        "DIVULGACAO": 73584.06,
+        "ESCRITORIO": 223450.24,
+        "HOSPEDAGEM": 13344.19,
+        "OUTROS": 53353.22,
+        "PASSAGENS": 185126.66
       },
-      "qtdSemDocumentoPdf": 371,
-      "valorSemDocumentoPdf": 162366.04,
-      "qtdRecibosOutros": 166,
-      "valorRecibosOutros": 101312.67
+      "qtdSemDocumentoPdf": 650,
+      "valorSemDocumentoPdf": 237525.9,
+      "qtdRecibosOutros": 350,
+      "valorRecibosOutros": 219034.26
     },
     "totaisAno": {
       "2023": 252554.23,
-      "2024": 96765.45
+      "2024": 96765.45,
+      "2025": 257422.42
     },
     "porMes": {
       "2023-01": 0.0,
@@ -59,12 +60,24 @@
       "2024-09": 11952.47,
       "2024-10": 10928.11,
       "2024-11": 9704.46,
-      "2024-12": 13922.65
+      "2024-12": 13922.65,
+      "2025-01": 18912.87,
+      "2025-02": 19071.27,
+      "2025-03": 27480.91,
+      "2025-04": 22639.84,
+      "2025-05": 27074.91,
+      "2025-06": 23621.3,
+      "2025-07": 16264.1,
+      "2025-08": 19124.04,
+      "2025-09": 20492.16,
+      "2025-10": 22257.54,
+      "2025-11": 22081.04,
+      "2025-12": 18402.44
     },
     "maiorCategoria": {
-      "categoria": "PASSAGENS",
-      "valor": 137216.43,
-      "pct": 39.28
+      "categoria": "ESCRITORIO",
+      "valor": 223450.24,
+      "pct": 36.83
     }
   }
 }

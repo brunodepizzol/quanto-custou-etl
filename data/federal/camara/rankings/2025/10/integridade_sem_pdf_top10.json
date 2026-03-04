@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 10
+    },
+    "geradoEm": "2026-03-04T15:41:11.420112Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 220621,
+      "nome": "Sargento Gonçalves",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 131484.73,
+      "qtdLancamentos": 15,
+      "qtdSemDocumentoPdf": 11
+    },
+    {
+      "id": 220591,
+      "nome": "Meire Serafim",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 26497.97,
+      "qtdLancamentos": 64,
+      "qtdSemDocumentoPdf": 61
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 24800.0,
+      "qtdLancamentos": 1,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 22650.0,
+      "qtdLancamentos": 4,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 22424.44,
+      "qtdLancamentos": 12,
+      "qtdSemDocumentoPdf": 12
+    },
+    {
+      "id": 74090,
+      "nome": "Átila Lins",
+      "uf": "AM",
+      "partido": "PSD",
+      "valor": 17844.17,
+      "qtdLancamentos": 8,
+      "qtdSemDocumentoPdf": 4
+    },
+    {
+      "id": 204567,
+      "nome": "Raimundo Costa",
+      "uf": "BA",
+      "partido": "PODE",
+      "valor": 15214.93,
+      "qtdLancamentos": 74,
+      "qtdSemDocumentoPdf": 45
+    },
+    {
+      "id": 143084,
+      "nome": "Tiago Dimas",
+      "uf": "TO",
+      "partido": "PODE",
+      "valor": 14850.54,
+      "qtdLancamentos": 51,
+      "qtdSemDocumentoPdf": 33
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 13207.49,
+      "qtdLancamentos": 108,
+      "qtdSemDocumentoPdf": 72
+    },
+    {
+      "id": 220534,
+      "nome": "Fred Linhares",
+      "uf": "DF",
+      "partido": "REPUBLICANOS",
+      "valor": 12622.5,
+      "qtdLancamentos": 39,
+      "qtdSemDocumentoPdf": 37
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 10
+    },
+    "geradoEm": "2026-03-04T15:41:11.425889Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 17980428.93,
+    "top1Gasto": {
+      "id": 220621,
+      "nome": "Sargento Gonçalves",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 144334.73
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 8609507.24
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3618027.45
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2998093.91
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1959449.91
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 795350.42
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2195959.28
+      },
+      {
+        "uf": "MG",
+        "valor": 1804198.23
+      },
+      {
+        "uf": "BA",
+        "valor": 1427606.24
+      },
+      {
+        "uf": "RJ",
+        "valor": 1356744.19
+      },
+      {
+        "uf": "RS",
+        "valor": 1093118.18
+      },
+      {
+        "uf": "PR",
+        "valor": 1085550.2
+      },
+      {
+        "uf": "PE",
+        "valor": 1033799.54
+      },
+      {
+        "uf": "CE",
+        "valor": 694097.29
+      },
+      {
+        "uf": "GO",
+        "valor": 622244.92
+      },
+      {
+        "uf": "MA",
+        "valor": 522577.96
+      },
+      {
+        "uf": "SC",
+        "valor": 512913.86
+      },
+      {
+        "uf": "PA",
+        "valor": 507708.13
+      }
+    ],
+    "agentesConsiderados": 493
+  }
+}

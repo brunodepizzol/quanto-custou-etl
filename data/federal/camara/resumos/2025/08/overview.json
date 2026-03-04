@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 8
+    },
+    "geradoEm": "2026-03-04T15:30:07.752644Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 17341386.13,
+    "top1Gasto": {
+      "id": 160598,
+      "nome": "Flávia Morais",
+      "uf": "GO",
+      "partido": "PDT",
+      "valor": 89157.53
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7960642.1
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3640403.85
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 3084505.57
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1914781.67
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 741052.94
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2231660.13
+      },
+      {
+        "uf": "MG",
+        "valor": 1750376.66
+      },
+      {
+        "uf": "RJ",
+        "valor": 1324182.9
+      },
+      {
+        "uf": "BA",
+        "valor": 1294922.94
+      },
+      {
+        "uf": "RS",
+        "valor": 1104114.05
+      },
+      {
+        "uf": "PR",
+        "valor": 1068999.34
+      },
+      {
+        "uf": "PE",
+        "valor": 960341.44
+      },
+      {
+        "uf": "GO",
+        "valor": 657905.57
+      },
+      {
+        "uf": "CE",
+        "valor": 647438.84
+      },
+      {
+        "uf": "PB",
+        "valor": 506912.69
+      },
+      {
+        "uf": "MA",
+        "valor": 501587.09
+      },
+      {
+        "uf": "SC",
+        "valor": 466286.4
+      }
+    ],
+    "agentesConsiderados": 491
+  }
+}

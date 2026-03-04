@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 220615,
-    "geradoEm": "2026-03-04T14:16:10.701688Z",
+    "geradoEm": "2026-03-04T15:52:10.076670Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,27 +13,28 @@
     "partido": "PSOL",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220615.jpg",
     "totaisMandato": {
-      "total": 672900.29,
-      "qtdLancamentos": 672,
+      "total": 1151550.08,
+      "qtdLancamentos": 974,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 30389.13,
+        "COMBUSTIVEL": 55544.8,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 3443.99,
-        "DIVULGACAO": 291571.6,
-        "ESCRITORIO": 49632.66,
+        "CORREIOS_TELEFONIA": 6635.25,
+        "DIVULGACAO": 483595.21,
+        "ESCRITORIO": 102121.89,
         "HOSPEDAGEM": 9622.19,
-        "OUTROS": 121960.41,
-        "PASSAGENS": 166280.31
+        "OUTROS": 253460.37,
+        "PASSAGENS": 240570.37
       },
-      "qtdSemDocumentoPdf": 376,
-      "valorSemDocumentoPdf": 204587.68,
-      "qtdRecibosOutros": 206,
-      "valorRecibosOutros": 165283.43
+      "qtdSemDocumentoPdf": 562,
+      "valorSemDocumentoPdf": 306918.81,
+      "qtdRecibosOutros": 265,
+      "valorRecibosOutros": 332547.52
     },
     "totaisAno": {
       "2023": 473201.94,
-      "2024": 199698.35
+      "2024": 199698.35,
+      "2025": 478649.79
     },
     "porMes": {
       "2023-01": 1060.1,
@@ -59,12 +60,24 @@
       "2024-09": 23484.98,
       "2024-10": 23992.59,
       "2024-11": 25032.59,
-      "2024-12": 48602.79
+      "2024-12": 48602.79,
+      "2025-01": 30759.08,
+      "2025-02": 30749.88,
+      "2025-03": 58636.18,
+      "2025-04": 43637.09,
+      "2025-05": 46772.51,
+      "2025-06": 42486.78,
+      "2025-07": 45478.69,
+      "2025-08": 31773.86,
+      "2025-09": 42946.0,
+      "2025-10": 32789.39,
+      "2025-11": 45701.72,
+      "2025-12": 26918.61
     },
     "maiorCategoria": {
       "categoria": "DIVULGACAO",
-      "valor": 291571.6,
-      "pct": 43.33
+      "valor": 483595.21,
+      "pct": 42.0
     }
   }
 }

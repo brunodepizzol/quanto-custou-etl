@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 11
+    },
+    "geradoEm": "2026-03-04T15:46:43.579249Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 17301083.45,
+    "top1Gasto": {
+      "id": 160642,
+      "nome": "Pastor Eurico",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 106717.75
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 8503503.06
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3515632.81
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2785428.85
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1739088.39
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 757430.34
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2151061.18
+      },
+      {
+        "uf": "MG",
+        "valor": 1723081.91
+      },
+      {
+        "uf": "RJ",
+        "valor": 1360734.79
+      },
+      {
+        "uf": "BA",
+        "valor": 1253556.58
+      },
+      {
+        "uf": "PR",
+        "valor": 1156234.38
+      },
+      {
+        "uf": "RS",
+        "valor": 1068238.65
+      },
+      {
+        "uf": "PE",
+        "valor": 980169.45
+      },
+      {
+        "uf": "CE",
+        "valor": 627593.59
+      },
+      {
+        "uf": "MA",
+        "valor": 542333.13
+      },
+      {
+        "uf": "SC",
+        "valor": 529222.76
+      },
+      {
+        "uf": "PA",
+        "valor": 512718.35
+      },
+      {
+        "uf": "GO",
+        "valor": 491898.33
+      }
+    ],
+    "agentesConsiderados": 493
+  }
+}

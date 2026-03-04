@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 1
+    },
+    "geradoEm": "2026-03-04T14:50:53.458626Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 16592609.94,
+    "top1Gasto": {
+      "id": 204356,
+      "nome": "Amaro Neto",
+      "uf": "ES",
+      "partido": "REPUBLICANOS",
+      "valor": 79566.82
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 6508955.95
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3374174.73
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2778758.06
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 2299276.04
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 1631445.16
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2020162.19
+      },
+      {
+        "uf": "MG",
+        "valor": 1686077.94
+      },
+      {
+        "uf": "BA",
+        "valor": 1342884.25
+      },
+      {
+        "uf": "RJ",
+        "valor": 1320846.07
+      },
+      {
+        "uf": "PR",
+        "valor": 958822.62
+      },
+      {
+        "uf": "RS",
+        "valor": 958153.98
+      },
+      {
+        "uf": "PE",
+        "valor": 874300.72
+      },
+      {
+        "uf": "CE",
+        "valor": 658909.11
+      },
+      {
+        "uf": "GO",
+        "valor": 540882.06
+      },
+      {
+        "uf": "PA",
+        "valor": 521010.83
+      },
+      {
+        "uf": "SC",
+        "valor": 495795.59
+      },
+      {
+        "uf": "MA",
+        "valor": 484913.38
+      }
+    ],
+    "agentesConsiderados": 483
+  }
+}

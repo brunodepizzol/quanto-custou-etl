@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 4
+    },
+    "geradoEm": "2026-03-04T15:07:41.485692Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 21117906.85,
+    "top1Gasto": {
+      "id": 160512,
+      "nome": "Aureo Ribeiro",
+      "uf": "RJ",
+      "partido": "SOLIDARIEDADE",
+      "valor": 99249.5
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7592857.42
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 4618437.4
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3595063.22
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2965581.67
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 2345967.14
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2610263.65
+      },
+      {
+        "uf": "MG",
+        "valor": 2293179.5
+      },
+      {
+        "uf": "RJ",
+        "valor": 1852914.9
+      },
+      {
+        "uf": "BA",
+        "valor": 1539129.1
+      },
+      {
+        "uf": "RS",
+        "valor": 1337940.21
+      },
+      {
+        "uf": "PR",
+        "valor": 1300967.81
+      },
+      {
+        "uf": "PE",
+        "valor": 1198286.54
+      },
+      {
+        "uf": "CE",
+        "valor": 877195.06
+      },
+      {
+        "uf": "GO",
+        "valor": 671933.23
+      },
+      {
+        "uf": "PA",
+        "valor": 666020.95
+      },
+      {
+        "uf": "PB",
+        "valor": 599447.88
+      },
+      {
+        "uf": "MA",
+        "valor": 594269.47
+      }
+    ],
+    "agentesConsiderados": 488
+  }
+}

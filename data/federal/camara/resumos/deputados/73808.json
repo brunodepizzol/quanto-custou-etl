@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 73808,
-    "geradoEm": "2026-03-04T14:16:10.718720Z",
+    "geradoEm": "2026-03-04T15:52:10.087711Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,27 +13,28 @@
     "partido": "PSD",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73808.jpg",
     "totaisMandato": {
-      "total": 38262.55,
-      "qtdLancamentos": 41,
+      "total": 77122.73,
+      "qtdLancamentos": 70,
       "porCategoria": {
-        "ALIMENTACAO": 325.0,
-        "COMBUSTIVEL": 3446.27,
+        "ALIMENTACAO": 538.83,
+        "COMBUSTIVEL": 5324.72,
         "CONSULTORIA_SERVICOS": 0.0,
         "CORREIOS_TELEFONIA": 862.56,
-        "DIVULGACAO": 14000.0,
-        "ESCRITORIO": 780.68,
-        "HOSPEDAGEM": 0.0,
+        "DIVULGACAO": 35000.0,
+        "ESCRITORIO": 10672.05,
+        "HOSPEDAGEM": 3380.46,
         "OUTROS": 420.0,
-        "PASSAGENS": 18428.04
+        "PASSAGENS": 20924.11
       },
-      "qtdSemDocumentoPdf": 34,
-      "valorSemDocumentoPdf": 22834.87,
-      "qtdRecibosOutros": 2,
-      "valorRecibosOutros": 1200.68
+      "qtdSemDocumentoPdf": 49,
+      "valorSemDocumentoPdf": 24927.15,
+      "qtdRecibosOutros": 4,
+      "valorRecibosOutros": 10367.38
     },
     "totaisAno": {
       "2023": 30070.05,
-      "2024": 8192.5
+      "2024": 8192.5,
+      "2025": 38860.18
     },
     "porMes": {
       "2023-01": 116.43,
@@ -59,12 +60,24 @@
       "2024-09": 0.0,
       "2024-10": 0.0,
       "2024-11": 0.0,
-      "2024-12": 8192.5
+      "2024-12": 8192.5,
+      "2025-01": 0.0,
+      "2025-02": 0.0,
+      "2025-03": 0.0,
+      "2025-04": 0.0,
+      "2025-05": 0.0,
+      "2025-06": 0.0,
+      "2025-07": 0.0,
+      "2025-08": 0.0,
+      "2025-09": 0.0,
+      "2025-10": 0.0,
+      "2025-11": 16631.54,
+      "2025-12": 22228.64
     },
     "maiorCategoria": {
-      "categoria": "PASSAGENS",
-      "valor": 18428.04,
-      "pct": 48.16
+      "categoria": "DIVULGACAO",
+      "valor": 35000.0,
+      "pct": 45.38
     }
   }
 }

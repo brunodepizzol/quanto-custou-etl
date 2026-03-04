@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 12
+    },
+    "geradoEm": "2026-03-04T15:52:09.654298Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 17032197.92,
+    "top1Gasto": {
+      "id": 73433,
+      "nome": "Arlindo Chinaglia",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 185549.75
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 10244409.89
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 2672141.28
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2317040.73
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1375635.51
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 422970.51
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2176593.55
+      },
+      {
+        "uf": "MG",
+        "valor": 1460482.14
+      },
+      {
+        "uf": "RJ",
+        "valor": 1433302.4
+      },
+      {
+        "uf": "BA",
+        "valor": 1290818.92
+      },
+      {
+        "uf": "PE",
+        "valor": 1044585.93
+      },
+      {
+        "uf": "RS",
+        "valor": 1024836.29
+      },
+      {
+        "uf": "PR",
+        "valor": 1004303.04
+      },
+      {
+        "uf": "MA",
+        "valor": 872274.48
+      },
+      {
+        "uf": "GO",
+        "valor": 576298.92
+      },
+      {
+        "uf": "SC",
+        "valor": 559058.72
+      },
+      {
+        "uf": "CE",
+        "valor": 553796.29
+      },
+      {
+        "uf": "PA",
+        "valor": 533825.39
+      }
+    ],
+    "agentesConsiderados": 493
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 5
+    },
+    "geradoEm": "2026-03-04T15:13:14.858809Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 29609.2,
+      "qtdLancamentos": 40,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 29378.8,
+      "qtdLancamentos": 22,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 204355,
+      "nome": "Da Vitoria",
+      "uf": "ES",
+      "partido": "PP",
+      "valor": 28944.35,
+      "qtdLancamentos": 42,
+      "qtdRecibosOutros": 10
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 28844.77,
+      "qtdLancamentos": 44,
+      "qtdRecibosOutros": 19
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 28517.46,
+      "qtdLancamentos": 61,
+      "qtdRecibosOutros": 19
+    },
+    {
+      "id": 141391,
+      "nome": "Arnaldo Jardim",
+      "uf": "SP",
+      "partido": "CIDADANIA",
+      "valor": 28095.45,
+      "qtdLancamentos": 42,
+      "qtdRecibosOutros": 7
+    },
+    {
+      "id": 204504,
+      "nome": "Cezinha de Madureira",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 27851.71,
+      "qtdLancamentos": 26,
+      "qtdRecibosOutros": 5
+    },
+    {
+      "id": 160556,
+      "nome": "Padre João",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 27719.47,
+      "qtdLancamentos": 96,
+      "qtdRecibosOutros": 27
+    },
+    {
+      "id": 220630,
+      "nome": "Pedro Aihara",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 26799.62,
+      "qtdLancamentos": 81,
+      "qtdRecibosOutros": 23
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 26514.42,
+      "qtdLancamentos": 52,
+      "qtdRecibosOutros": 9
+    }
+  ]
+}
