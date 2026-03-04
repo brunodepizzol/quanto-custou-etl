@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 160552,
-    "geradoEm": "2026-03-04T17:53:47.367724Z",
+    "geradoEm": "2026-03-04T19:23:38.874502Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,27 +13,28 @@
     "partido": "PSD",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/160552.jpg",
     "totaisMandato": {
-      "total": 143149.43,
-      "qtdLancamentos": 195,
+      "total": 524924.0,
+      "qtdLancamentos": 614,
       "porCategoria": {
-        "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 19009.14,
+        "ALIMENTACAO": 241.44,
+        "COMBUSTIVEL": 77487.35,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 2949.54,
-        "DIVULGACAO": 0.0,
-        "ESCRITORIO": 9816.2,
-        "HOSPEDAGEM": 0.0,
-        "OUTROS": 50826.0,
-        "PASSAGENS": 60548.55
+        "CORREIOS_TELEFONIA": 6239.06,
+        "DIVULGACAO": 55000.0,
+        "ESCRITORIO": 14679.9,
+        "HOSPEDAGEM": 2066.64,
+        "OUTROS": 186503.0,
+        "PASSAGENS": 182706.61
       },
-      "qtdSemDocumentoPdf": 153,
-      "valorSemDocumentoPdf": 84957.53,
-      "qtdRecibosOutros": 38,
-      "valorRecibosOutros": 58170.2
+      "qtdSemDocumentoPdf": 532,
+      "valorSemDocumentoPdf": 273714.62,
+      "qtdRecibosOutros": 68,
+      "valorRecibosOutros": 193879.6
     },
     "totaisAno": {
       "2023": 73237.53,
-      "2024": 69911.9
+      "2024": 69911.9,
+      "2025": 381774.57
     },
     "porMes": {
       "2023-01": 17152.39,
@@ -59,12 +60,24 @@
       "2024-09": 0.0,
       "2024-10": 9119.7,
       "2024-11": 38998.18,
-      "2024-12": 21794.02
+      "2024-12": 21794.02,
+      "2025-01": 20168.69,
+      "2025-02": 30538.08,
+      "2025-03": 25462.64,
+      "2025-04": 37464.59,
+      "2025-05": 41032.9,
+      "2025-06": 34576.83,
+      "2025-07": 32101.56,
+      "2025-08": 26517.55,
+      "2025-09": 33954.62,
+      "2025-10": 29282.61,
+      "2025-11": 39582.73,
+      "2025-12": 31091.77
     },
     "maiorCategoria": {
-      "categoria": "PASSAGENS",
-      "valor": 60548.55,
-      "pct": 42.3
+      "categoria": "OUTROS",
+      "valor": 186503.0,
+      "pct": 35.53
     }
   }
 }

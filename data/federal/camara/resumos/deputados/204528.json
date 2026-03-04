@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 204528,
-    "geradoEm": "2026-03-04T17:53:47.346873Z",
+    "geradoEm": "2026-03-04T19:23:38.851025Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,27 +13,28 @@
     "partido": "NOVO",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204528.jpg",
     "totaisMandato": {
-      "total": 127063.42,
-      "qtdLancamentos": 644,
+      "total": 220036.04,
+      "qtdLancamentos": 983,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
         "COMBUSTIVEL": 0.0,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 4134.51,
-        "DIVULGACAO": 17817.12,
-        "ESCRITORIO": 54552.37,
-        "HOSPEDAGEM": 9427.9,
-        "OUTROS": 0.0,
-        "PASSAGENS": 41131.52
+        "CORREIOS_TELEFONIA": 10433.21,
+        "DIVULGACAO": 20181.48,
+        "ESCRITORIO": 111594.09,
+        "HOSPEDAGEM": 19933.68,
+        "OUTROS": 938.04,
+        "PASSAGENS": 56955.54
       },
-      "qtdSemDocumentoPdf": 220,
-      "valorSemDocumentoPdf": 45715.1,
-      "qtdRecibosOutros": 350,
-      "valorRecibosOutros": 40121.17
+      "qtdSemDocumentoPdf": 330,
+      "valorSemDocumentoPdf": 67837.82,
+      "qtdRecibosOutros": 550,
+      "valorRecibosOutros": 91896.12
     },
     "totaisAno": {
       "2023": 59954.37,
-      "2024": 67109.05
+      "2024": 67109.05,
+      "2025": 92972.62
     },
     "porMes": {
       "2023-01": 4273.5,
@@ -59,12 +60,24 @@
       "2024-09": 2329.27,
       "2024-10": 1760.02,
       "2024-11": 7024.71,
-      "2024-12": 21097.37
+      "2024-12": 21097.37,
+      "2025-01": 8779.93,
+      "2025-02": 6103.14,
+      "2025-03": 7395.09,
+      "2025-04": 6783.73,
+      "2025-05": 14575.64,
+      "2025-06": 7978.13,
+      "2025-07": 6158.37,
+      "2025-08": 8763.45,
+      "2025-09": 4804.23,
+      "2025-10": 4999.44,
+      "2025-11": 5719.42,
+      "2025-12": 10912.05
     },
     "maiorCategoria": {
       "categoria": "ESCRITORIO",
-      "valor": 54552.37,
-      "pct": 42.93
+      "valor": 111594.09,
+      "pct": 50.72
     }
   }
 }

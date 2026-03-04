@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 123086,
-    "geradoEm": "2026-03-04T17:53:47.355331Z",
+    "geradoEm": "2026-03-04T19:23:38.860415Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,27 +13,28 @@
     "partido": "PP",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/123086.jpg",
     "totaisMandato": {
-      "total": 1099460.6,
-      "qtdLancamentos": 560,
+      "total": 1576516.76,
+      "qtdLancamentos": 773,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 192329.46,
+        "COMBUSTIVEL": 282374.95,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 10836.63,
-        "DIVULGACAO": 128700.0,
-        "ESCRITORIO": 285600.26,
-        "HOSPEDAGEM": 1586.65,
-        "OUTROS": 279400.0,
-        "PASSAGENS": 201007.6
+        "CORREIOS_TELEFONIA": 16040.02,
+        "DIVULGACAO": 228970.46,
+        "ESCRITORIO": 379630.72,
+        "HOSPEDAGEM": 1970.2,
+        "OUTROS": 400400.0,
+        "PASSAGENS": 267130.41
       },
-      "qtdSemDocumentoPdf": 382,
-      "valorSemDocumentoPdf": 370716.82,
-      "qtdRecibosOutros": 62,
-      "valorRecibosOutros": 93264.08
+      "qtdSemDocumentoPdf": 505,
+      "valorSemDocumentoPdf": 532746.41,
+      "qtdRecibosOutros": 98,
+      "valorRecibosOutros": 154536.76
     },
     "totaisAno": {
       "2023": 513428.59,
-      "2024": 586032.01
+      "2024": 586032.01,
+      "2025": 477056.16
     },
     "porMes": {
       "2023-01": 0.0,
@@ -59,12 +60,24 @@
       "2024-09": 46692.55,
       "2024-10": 53587.25,
       "2024-11": 48839.65,
-      "2024-12": 37333.08
+      "2024-12": 37333.08,
+      "2025-01": 46506.14,
+      "2025-02": 47496.94,
+      "2025-03": 55490.56,
+      "2025-04": 46113.59,
+      "2025-05": 51781.54,
+      "2025-06": 39116.93,
+      "2025-07": 38598.21,
+      "2025-08": 32564.45,
+      "2025-09": 37948.95,
+      "2025-10": 32768.66,
+      "2025-11": 32523.15,
+      "2025-12": 16147.04
     },
     "maiorCategoria": {
-      "categoria": "ESCRITORIO",
-      "valor": 285600.26,
-      "pct": 25.98
+      "categoria": "OUTROS",
+      "valor": 400400.0,
+      "pct": 25.4
     }
   }
 }
