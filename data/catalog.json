@@ -7,7 +7,9 @@
     {
       "id": "federal/camara",
       "descricao": "Rankings e resumos (Deputados Federais) gerados a partir da API da Câmara",
-      "mandatoInicioAno": 2023
+      "mandatoInicioAno": 2023,
+      "pathCategoryMap": "federal/camara/mapping/categoria/category_map.json",
+      "pathCategoryMapSource": "mapping/federal/deputados/category_map.json"
     }
   ]
 }

@@ -61,19 +61,19 @@ jobs:
           MONTHS: ${{ github.event.inputs.months }}
           MANDATE_START_YEAR: ${{ github.event.inputs.mandate_start_year }}
           OUT_DIR: data
-          CATEGORY_MAP: mapping/category_map.json
-        run: python scripts/generate_camara_rankings.py
+          CATEGORY_MAP: mapping/federal/deputados/category_map.json
+        run: python scripts/federal/deputados/generate_camara_rankings.py
 
       - name: Generate data (scheduled)
         if: github.event_name == 'schedule'
         env:
           MODE: "single"
           OUT_DIR: data
-          CATEGORY_MAP: mapping/category_map.json
+          CATEGORY_MAP: mapping/federal/deputados/category_map.json
           MANDATE_START_YEAR: "2023"
         run: |
           cat env.txt >> $GITHUB_ENV
-          python scripts/generate_camara_rankings.py
+          python scripts/federal/deputados/generate_camara_rankings.py
 
       - name: Commit and push
         run: |

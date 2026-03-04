@@ -1,0 +1,30 @@
+name: Validate Category Mappings
+
+on:
+  pull_request:
+    paths:
+      - "mapping/**"
+      - "scripts/validate_category_maps.py"
+      - ".github/workflows/validate-mappings.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "mapping/**"
+      - "scripts/validate_category_maps.py"
+      - ".github/workflows/validate-mappings.yml"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate category maps
+        run: python scripts/validate_category_maps.py
