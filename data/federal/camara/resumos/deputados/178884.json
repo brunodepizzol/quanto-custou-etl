@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 178884,
-    "geradoEm": "2026-03-04T12:53:23.929988Z",
+    "geradoEm": "2026-03-04T14:16:10.670199Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,26 +13,27 @@
     "partido": "MDB",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178884.jpg",
     "totaisMandato": {
-      "total": 376.45,
-      "qtdLancamentos": 1,
+      "total": 109981.02,
+      "qtdLancamentos": 77,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 0.0,
+        "COMBUSTIVEL": 9860.22,
         "CONSULTORIA_SERVICOS": 0.0,
         "CORREIOS_TELEFONIA": 376.45,
-        "DIVULGACAO": 0.0,
-        "ESCRITORIO": 0.0,
-        "HOSPEDAGEM": 0.0,
-        "OUTROS": 0.0,
+        "DIVULGACAO": 64700.0,
+        "ESCRITORIO": 850.6,
+        "HOSPEDAGEM": 12803.75,
+        "OUTROS": 21390.0,
         "PASSAGENS": 0.0
       },
-      "qtdSemDocumentoPdf": 1,
-      "valorSemDocumentoPdf": 376.45,
+      "qtdSemDocumentoPdf": 39,
+      "valorSemDocumentoPdf": 11087.27,
       "qtdRecibosOutros": 0,
       "valorRecibosOutros": 0.0
     },
     "totaisAno": {
-      "2023": 376.45
+      "2023": 376.45,
+      "2024": 109604.57
     },
     "porMes": {
       "2023-01": 376.45,
@@ -46,12 +47,24 @@
       "2023-09": 0.0,
       "2023-10": 0.0,
       "2023-11": 0.0,
-      "2023-12": 0.0
+      "2023-12": 0.0,
+      "2024-01": 0.0,
+      "2024-02": 0.0,
+      "2024-03": 0.0,
+      "2024-04": 0.0,
+      "2024-05": 0.0,
+      "2024-06": 32363.33,
+      "2024-07": 41463.92,
+      "2024-08": 33688.82,
+      "2024-09": 2088.5,
+      "2024-10": 0.0,
+      "2024-11": 0.0,
+      "2024-12": 0.0
     },
     "maiorCategoria": {
-      "categoria": "CORREIOS_TELEFONIA",
-      "valor": 376.45,
-      "pct": 100.0
+      "categoria": "DIVULGACAO",
+      "valor": 64700.0,
+      "pct": 58.83
     }
   }
 }

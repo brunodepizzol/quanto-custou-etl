@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 6
+    },
+    "geradoEm": "2026-03-04T13:40:38.053324Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 25524.03,
+      "qtdLancamentos": 84,
+      "qtdSemDocumentoPdf": 45
+    },
+    {
+      "id": 178895,
+      "nome": "Misael Varella",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 21600.0,
+      "qtdLancamentos": 15,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 204559,
+      "nome": "Zé Neto",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 13267.22,
+      "qtdLancamentos": 14,
+      "qtdSemDocumentoPdf": 5
+    },
+    {
+      "id": 141458,
+      "nome": "João Carlos Bacelar",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 10369.1,
+      "qtdLancamentos": 23,
+      "qtdSemDocumentoPdf": 17
+    },
+    {
+      "id": 220591,
+      "nome": "Meire Serafim",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 10106.32,
+      "qtdLancamentos": 25,
+      "qtdSemDocumentoPdf": 23
+    },
+    {
+      "id": 160592,
+      "nome": "Zeca Dirceu",
+      "uf": "PR",
+      "partido": "PT",
+      "valor": 9750.0,
+      "qtdLancamentos": 46,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 180214,
+      "nome": "Pastor Diniz",
+      "uf": "RR",
+      "partido": "UNIÃO",
+      "valor": 9694.87,
+      "qtdLancamentos": 9,
+      "qtdSemDocumentoPdf": 3
+    },
+    {
+      "id": 214694,
+      "nome": "Jorge Goetten",
+      "uf": "SC",
+      "partido": "REPUBLICANOS",
+      "valor": 9440.96,
+      "qtdLancamentos": 35,
+      "qtdSemDocumentoPdf": 23
+    },
+    {
+      "id": 166402,
+      "nome": "Magda Mofatto",
+      "uf": "GO",
+      "partido": "PRD",
+      "valor": 9431.63,
+      "qtdLancamentos": 21,
+      "qtdSemDocumentoPdf": 15
+    },
+    {
+      "id": 74554,
+      "nome": "José Rocha",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 9392.0,
+      "qtdLancamentos": 13,
+      "qtdSemDocumentoPdf": 10
+    }
+  ]
+}

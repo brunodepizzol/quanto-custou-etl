@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 220661,
-    "geradoEm": "2026-03-04T12:53:23.947848Z",
+    "geradoEm": "2026-03-04T14:16:10.693916Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,26 +13,27 @@
     "partido": "PL",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220661.jpg",
     "totaisMandato": {
-      "total": 299121.74,
-      "qtdLancamentos": 213,
+      "total": 497856.68,
+      "qtdLancamentos": 267,
       "porCategoria": {
-        "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 13239.31,
+        "ALIMENTACAO": 303.95,
+        "COMBUSTIVEL": 48941.62,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 0.0,
-        "DIVULGACAO": 77400.0,
-        "ESCRITORIO": 47468.28,
-        "HOSPEDAGEM": 0.0,
+        "CORREIOS_TELEFONIA": 397.32,
+        "DIVULGACAO": 228850.0,
+        "ESCRITORIO": 51268.28,
+        "HOSPEDAGEM": 6389.86,
         "OUTROS": 0.0,
-        "PASSAGENS": 161014.15
+        "PASSAGENS": 161705.65
       },
-      "qtdSemDocumentoPdf": 166,
-      "valorSemDocumentoPdf": 179921.74,
-      "qtdRecibosOutros": 11,
-      "valorRecibosOutros": 41800.0
+      "qtdSemDocumentoPdf": 175,
+      "valorSemDocumentoPdf": 197983.7,
+      "qtdRecibosOutros": 12,
+      "valorRecibosOutros": 45600.0
     },
     "totaisAno": {
-      "2023": 299121.74
+      "2023": 299121.74,
+      "2024": 198734.94
     },
     "porMes": {
       "2023-01": 0.0,
@@ -46,12 +47,24 @@
       "2023-09": 21242.84,
       "2023-10": 31823.83,
       "2023-11": 42868.58,
-      "2023-12": 43194.25
+      "2023-12": 43194.25,
+      "2024-01": 0.0,
+      "2024-02": 0.0,
+      "2024-03": 0.0,
+      "2024-04": 0.0,
+      "2024-05": 0.0,
+      "2024-06": 33371.69,
+      "2024-07": 13048.66,
+      "2024-08": 33765.26,
+      "2024-09": 31511.01,
+      "2024-10": 26998.05,
+      "2024-11": 22181.91,
+      "2024-12": 37858.36
     },
     "maiorCategoria": {
-      "categoria": "PASSAGENS",
-      "valor": 161014.15,
-      "pct": 53.83
+      "categoria": "DIVULGACAO",
+      "valor": 228850.0,
+      "pct": 45.97
     }
   }
 }

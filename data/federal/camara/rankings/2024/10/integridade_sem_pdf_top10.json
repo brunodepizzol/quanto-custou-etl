@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 10
+    },
+    "geradoEm": "2026-03-04T14:04:27.649582Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 70000.0,
+      "qtdLancamentos": 3,
+      "qtdSemDocumentoPdf": 2
+    },
+    {
+      "id": 160512,
+      "nome": "Aureo Ribeiro",
+      "uf": "RJ",
+      "partido": "SOLIDARIEDADE",
+      "valor": 45500.0,
+      "qtdLancamentos": 5,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 43000.0,
+      "qtdLancamentos": 2,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 204398,
+      "nome": "Felipe Francischini",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 38531.55,
+      "qtdLancamentos": 23,
+      "qtdSemDocumentoPdf": 18
+    },
+    {
+      "id": 178954,
+      "nome": "Lucio Mosquini",
+      "uf": "RO",
+      "partido": "MDB",
+      "valor": 30696.02,
+      "qtdLancamentos": 20,
+      "qtdSemDocumentoPdf": 8
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 29732.57,
+      "qtdLancamentos": 26,
+      "qtdSemDocumentoPdf": 22
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 25423.98,
+      "qtdLancamentos": 11,
+      "qtdSemDocumentoPdf": 10
+    },
+    {
+      "id": 160575,
+      "nome": "Erika Kokay",
+      "uf": "DF",
+      "partido": "PT",
+      "valor": 16807.46,
+      "qtdLancamentos": 42,
+      "qtdSemDocumentoPdf": 13
+    },
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 11755.62,
+      "qtdLancamentos": 73,
+      "qtdSemDocumentoPdf": 52
+    },
+    {
+      "id": 220540,
+      "nome": "Duda Ramos",
+      "uf": "RR",
+      "partido": "MDB",
+      "valor": 10386.73,
+      "qtdLancamentos": 7,
+      "qtdSemDocumentoPdf": 4
+    }
+  ]
+}

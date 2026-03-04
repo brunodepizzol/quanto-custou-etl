@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 11
+    },
+    "geradoEm": "2026-03-04T14:10:22.050745Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 16876351.47,
+    "top1Gasto": {
+      "id": 220584,
+      "nome": "Murilo Galdino",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 194356.41
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 8642815.95
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3330535.78
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2746434.62
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1530318.73
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 626246.39
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2101825.66
+      },
+      {
+        "uf": "MG",
+        "valor": 1802280.55
+      },
+      {
+        "uf": "RJ",
+        "valor": 1456624.46
+      },
+      {
+        "uf": "BA",
+        "valor": 1419314.56
+      },
+      {
+        "uf": "RS",
+        "valor": 901171.27
+      },
+      {
+        "uf": "PR",
+        "valor": 879604.99
+      },
+      {
+        "uf": "PE",
+        "valor": 826290.85
+      },
+      {
+        "uf": "PA",
+        "valor": 663835.69
+      },
+      {
+        "uf": "PB",
+        "valor": 636287.33
+      },
+      {
+        "uf": "CE",
+        "valor": 567208.35
+      },
+      {
+        "uf": "MA",
+        "valor": 559414.8
+      },
+      {
+        "uf": "GO",
+        "valor": 516541.32
+      }
+    ],
+    "agentesConsiderados": 466
+  }
+}

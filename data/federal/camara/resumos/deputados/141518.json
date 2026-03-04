@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 141518,
-    "geradoEm": "2026-03-04T12:53:23.954768Z",
+    "geradoEm": "2026-03-04T14:16:10.702745Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,26 +13,27 @@
     "partido": "SOLIDARIEDADE",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141518.jpg",
     "totaisMandato": {
-      "total": 13015.85,
-      "qtdLancamentos": 17,
+      "total": 104551.07,
+      "qtdLancamentos": 61,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 253.24,
+        "COMBUSTIVEL": 7937.01,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 0.0,
-        "DIVULGACAO": 0.0,
-        "ESCRITORIO": 0.0,
+        "CORREIOS_TELEFONIA": 2020.52,
+        "DIVULGACAO": 60000.0,
+        "ESCRITORIO": 197.6,
         "HOSPEDAGEM": 0.0,
-        "OUTROS": 3233.33,
+        "OUTROS": 24866.66,
         "PASSAGENS": 9529.28
       },
-      "qtdSemDocumentoPdf": 16,
-      "valorSemDocumentoPdf": 9782.52,
-      "qtdRecibosOutros": 1,
-      "valorRecibosOutros": 3233.33
+      "qtdSemDocumentoPdf": 40,
+      "valorSemDocumentoPdf": 12821.57,
+      "qtdRecibosOutros": 5,
+      "valorRecibosOutros": 24866.66
     },
     "totaisAno": {
-      "2023": 13015.85
+      "2023": 13015.85,
+      "2024": 91535.22
     },
     "porMes": {
       "2023-01": 0.0,
@@ -46,12 +47,24 @@
       "2023-09": 0.0,
       "2023-10": 0.0,
       "2023-11": 0.0,
-      "2023-12": 13015.85
+      "2023-12": 13015.85,
+      "2024-01": 0.0,
+      "2024-02": 0.0,
+      "2024-03": 0.0,
+      "2024-04": 0.0,
+      "2024-05": 0.0,
+      "2024-06": 0.0,
+      "2024-07": 0.0,
+      "2024-08": 12897.6,
+      "2024-09": 16672.75,
+      "2024-10": 20461.23,
+      "2024-11": 21025.65,
+      "2024-12": 20477.99
     },
     "maiorCategoria": {
-      "categoria": "PASSAGENS",
-      "valor": 9529.28,
-      "pct": 73.21
+      "categoria": "DIVULGACAO",
+      "valor": 60000.0,
+      "pct": 57.39
     }
   }
 }

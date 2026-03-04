@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 8
+    },
+    "geradoEm": "2026-03-04T13:52:38.040010Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 14343892.64,
+    "top1Gasto": {
+      "id": 141458,
+      "nome": "João Carlos Bacelar",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 102883.58
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 5851493.17
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3515942.26
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2637380.8
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1832213.31
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 506863.1
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 1739555.39
+      },
+      {
+        "uf": "MG",
+        "valor": 1544408.77
+      },
+      {
+        "uf": "BA",
+        "valor": 1305077.04
+      },
+      {
+        "uf": "RJ",
+        "valor": 1099708.82
+      },
+      {
+        "uf": "RS",
+        "valor": 954121.95
+      },
+      {
+        "uf": "PE",
+        "valor": 839337.58
+      },
+      {
+        "uf": "PR",
+        "valor": 808809.4
+      },
+      {
+        "uf": "CE",
+        "valor": 654910.52
+      },
+      {
+        "uf": "GO",
+        "valor": 580962.4
+      },
+      {
+        "uf": "PA",
+        "valor": 452968.98
+      },
+      {
+        "uf": "PI",
+        "valor": 398209.87
+      },
+      {
+        "uf": "RR",
+        "valor": 357489.58
+      }
+    ],
+    "agentesConsiderados": 448
+  }
+}

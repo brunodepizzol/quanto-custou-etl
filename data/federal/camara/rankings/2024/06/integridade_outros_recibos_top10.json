@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 6
+    },
+    "geradoEm": "2026-03-04T13:40:38.053324Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 178860,
+      "nome": "Paulo Azi",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 34200.0,
+      "qtdLancamentos": 10,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 28225.9,
+      "qtdLancamentos": 3,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 26614.41,
+      "qtdLancamentos": 33,
+      "qtdRecibosOutros": 15
+    },
+    {
+      "id": 220630,
+      "nome": "Pedro Aihara",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 25449.7,
+      "qtdLancamentos": 88,
+      "qtdRecibosOutros": 46
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 24787.13,
+      "qtdLancamentos": 46,
+      "qtdRecibosOutros": 21
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 24249.4,
+      "qtdLancamentos": 19,
+      "qtdRecibosOutros": 7
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 23144.34,
+      "qtdLancamentos": 70,
+      "qtdRecibosOutros": 19
+    },
+    {
+      "id": 220662,
+      "nome": "Lucas Ramos",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 22525.0,
+      "qtdLancamentos": 12,
+      "qtdRecibosOutros": 5
+    },
+    {
+      "id": 178933,
+      "nome": "Sergio Souza",
+      "uf": "PR",
+      "partido": "MDB",
+      "valor": 22033.79,
+      "qtdLancamentos": 60,
+      "qtdRecibosOutros": 27
+    },
+    {
+      "id": 74585,
+      "nome": "Lincoln Portela",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 21906.64,
+      "qtdLancamentos": 37,
+      "qtdRecibosOutros": 10
+    }
+  ]
+}

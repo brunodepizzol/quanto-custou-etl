@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 10
+    },
+    "geradoEm": "2026-03-04T14:04:27.656082Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 15319723.57,
+    "top1Gasto": {
+      "id": 220544,
+      "nome": "Antonio Andrade",
+      "uf": "TO",
+      "partido": "REPUBLICANOS",
+      "valor": 148853.29
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7317066.47
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3344294.04
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2654296.1
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1531450.65
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 472616.31
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 1810264.11
+      },
+      {
+        "uf": "MG",
+        "valor": 1762981.71
+      },
+      {
+        "uf": "RJ",
+        "valor": 1248837.44
+      },
+      {
+        "uf": "BA",
+        "valor": 1242106.4
+      },
+      {
+        "uf": "RS",
+        "valor": 883430.36
+      },
+      {
+        "uf": "PR",
+        "valor": 857414.58
+      },
+      {
+        "uf": "PE",
+        "valor": 830643.62
+      },
+      {
+        "uf": "CE",
+        "valor": 574043.32
+      },
+      {
+        "uf": "GO",
+        "valor": 520056.3
+      },
+      {
+        "uf": "PA",
+        "valor": 444636.74
+      },
+      {
+        "uf": "PI",
+        "valor": 437891.48
+      },
+      {
+        "uf": "AL",
+        "valor": 391284.15
+      }
+    ],
+    "agentesConsiderados": 455
+  }
+}

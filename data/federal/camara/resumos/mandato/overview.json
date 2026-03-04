@@ -5,94 +5,94 @@
     "periodo": {
       "tipo": "mandato",
       "inicioAno": 2023,
-      "fimAno": 2023,
-      "totalMesesIncluidos": 12
+      "fimAno": 2024,
+      "totalMesesIncluidos": 24
     },
-    "geradoEm": "2026-03-04T12:53:23.832414Z",
+    "geradoEm": "2026-03-04T14:16:10.497908Z",
     "versaoSchema": "1.0.0",
     "versaoCategoryMap": "1.0.0"
   },
   "kpis": {
-    "totalGasto": 214817997.64,
+    "totalGasto": 320216227.17,
     "top1Gasto": {
       "id": 73486,
       "nome": "Pompeo de Mattos",
       "uf": "RS",
       "partido": "PDT",
-      "valor": 644056.54
+      "valor": 1037178.81
     },
     "topCategorias": [
       {
         "categoriaQC": "DIVULGACAO",
-        "valor": 82020812.22
-      },
-      {
-        "categoriaQC": "PASSAGENS",
-        "valor": 44896002.34
+        "valor": 133155862.45
       },
       {
         "categoriaQC": "OUTROS",
-        "valor": 36022083.42
+        "valor": 58328235.28
       },
       {
         "categoriaQC": "ESCRITORIO",
-        "valor": 28501132.51
+        "valor": 45883769.55
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 45399792.87
       },
       {
         "categoriaQC": "DEMAIS CATEGORIAS",
-        "valor": 23377967.15
+        "valor": 37448567.02
       }
     ],
     "topUFs": [
       {
         "uf": "SP",
-        "valor": 25788891.51
+        "valor": 38789828.46
       },
       {
         "uf": "MG",
-        "valor": 22774338.52
+        "valor": 34103991.77
       },
       {
         "uf": "BA",
-        "valor": 17990946.87
+        "valor": 26959056.18
       },
       {
         "uf": "RJ",
-        "valor": 17358124.17
+        "valor": 25717021.89
       },
       {
         "uf": "RS",
-        "valor": 13930891.67
+        "valor": 20335671.66
       },
       {
         "uf": "PR",
-        "valor": 12985455.79
+        "valor": 18938009.56
       },
       {
         "uf": "PE",
-        "valor": 11525408.29
+        "valor": 17614342.8
       },
       {
         "uf": "CE",
-        "valor": 8296294.36
+        "valor": 12115623.89
       },
       {
         "uf": "PA",
-        "valor": 7667897.88
+        "valor": 11052585.82
       },
       {
         "uf": "GO",
-        "valor": 6600994.19
+        "valor": 10609673.44
       },
       {
         "uf": "MA",
-        "valor": 6307050.97
+        "valor": 9467392.21
       },
       {
-        "uf": "SC",
-        "valor": 6284653.48
+        "uf": "PB",
+        "valor": 8966848.26
       }
     ],
-    "agentesConsiderados": 488
+    "agentesConsiderados": 492
   }
 }

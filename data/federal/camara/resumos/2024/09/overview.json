@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 9
+    },
+    "geradoEm": "2026-03-04T13:58:34.462873Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 14001517.6,
+    "top1Gasto": {
+      "id": 150418,
+      "nome": "Márcio Marinho",
+      "uf": "BA",
+      "partido": "REPUBLICANOS",
+      "valor": 178528.31
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 5625666.52
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3409414.49
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2576264.63
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1697766.52
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 692405.44
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 1592207.53
+      },
+      {
+        "uf": "MG",
+        "valor": 1570906.26
+      },
+      {
+        "uf": "BA",
+        "valor": 1353620.44
+      },
+      {
+        "uf": "RJ",
+        "valor": 1011297.85
+      },
+      {
+        "uf": "RS",
+        "valor": 960926.56
+      },
+      {
+        "uf": "PR",
+        "valor": 836009.9
+      },
+      {
+        "uf": "PE",
+        "valor": 813924.49
+      },
+      {
+        "uf": "CE",
+        "valor": 542654.5
+      },
+      {
+        "uf": "GO",
+        "valor": 540930.5
+      },
+      {
+        "uf": "PA",
+        "valor": 427512.26
+      },
+      {
+        "uf": "PI",
+        "valor": 387887.05
+      },
+      {
+        "uf": "ES",
+        "valor": 353820.03
+      }
+    ],
+    "agentesConsiderados": 447
+  }
+}

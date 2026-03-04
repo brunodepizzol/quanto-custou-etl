@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2024,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "geradoEm": "2026-03-04T14:16:10.373682Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 220630,
+      "nome": "Pedro Aihara",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 202820.11,
+      "qtdLancamentos": 404,
+      "qtdRecibosOutros": 225
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 193966.7,
+      "qtdLancamentos": 17,
+      "qtdRecibosOutros": 14
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 180477.02,
+      "qtdLancamentos": 437,
+      "qtdRecibosOutros": 107
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 176589.56,
+      "qtdLancamentos": 233,
+      "qtdRecibosOutros": 110
+    },
+    {
+      "id": 74273,
+      "nome": "Jefferson Campos",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 166635.87,
+      "qtdLancamentos": 121,
+      "qtdRecibosOutros": 43
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 163160.41,
+      "qtdLancamentos": 380,
+      "qtdRecibosOutros": 143
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 161987.9,
+      "qtdLancamentos": 163,
+      "qtdRecibosOutros": 15
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 158065.65,
+      "qtdLancamentos": 106,
+      "qtdRecibosOutros": 35
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 155795.04,
+      "qtdLancamentos": 217,
+      "qtdRecibosOutros": 53
+    },
+    {
+      "id": 205550,
+      "nome": "Jorge Braz",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 153108.34,
+      "qtdLancamentos": 129,
+      "qtdRecibosOutros": 31
+    }
+  ]
+}

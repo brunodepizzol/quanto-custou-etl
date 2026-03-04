@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 9
+    },
+    "geradoEm": "2026-03-04T13:58:34.456495Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 220591,
+      "nome": "Meire Serafim",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 79014.42,
+      "qtdLancamentos": 5,
+      "qtdSemDocumentoPdf": 3
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 48000.0,
+      "qtdLancamentos": 1,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 10681.32,
+      "qtdLancamentos": 73,
+      "qtdSemDocumentoPdf": 45
+    },
+    {
+      "id": 178857,
+      "nome": "Jorge Solla",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 10502.55,
+      "qtdLancamentos": 157,
+      "qtdSemDocumentoPdf": 49
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 10429.38,
+      "qtdLancamentos": 109,
+      "qtdSemDocumentoPdf": 50
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 10377.3,
+      "qtdLancamentos": 120,
+      "qtdSemDocumentoPdf": 48
+    },
+    {
+      "id": 73486,
+      "nome": "Pompeo de Mattos",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 10245.39,
+      "qtdLancamentos": 82,
+      "qtdSemDocumentoPdf": 54
+    },
+    {
+      "id": 141458,
+      "nome": "João Carlos Bacelar",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 10120.5,
+      "qtdLancamentos": 15,
+      "qtdSemDocumentoPdf": 11
+    },
+    {
+      "id": 141421,
+      "nome": "Eduardo da Fonte",
+      "uf": "PE",
+      "partido": "PP",
+      "valor": 9812.56,
+      "qtdLancamentos": 59,
+      "qtdSemDocumentoPdf": 41
+    },
+    {
+      "id": 178835,
+      "nome": "Afonso Motta",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 9686.0,
+      "qtdLancamentos": 84,
+      "qtdSemDocumentoPdf": 51
+    }
+  ]
+}

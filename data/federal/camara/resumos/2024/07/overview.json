@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 7
+    },
+    "geradoEm": "2026-03-04T13:46:40.626873Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 14749601.4,
+    "top1Gasto": {
+      "id": 204539,
+      "nome": "Hercílio Coelho Diniz",
+      "uf": "MG",
+      "partido": "MDB",
+      "valor": 115299.4
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 6135262.38
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3480050.99
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2661470.76
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1834903.19
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 637914.08
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 1764029.28
+      },
+      {
+        "uf": "MG",
+        "valor": 1728608.95
+      },
+      {
+        "uf": "BA",
+        "valor": 1215432.89
+      },
+      {
+        "uf": "RJ",
+        "valor": 1038916.32
+      },
+      {
+        "uf": "RS",
+        "valor": 1027023.02
+      },
+      {
+        "uf": "PR",
+        "valor": 914839.03
+      },
+      {
+        "uf": "PE",
+        "valor": 846294.17
+      },
+      {
+        "uf": "GO",
+        "valor": 666356.49
+      },
+      {
+        "uf": "CE",
+        "valor": 659657.19
+      },
+      {
+        "uf": "PA",
+        "valor": 466021.24
+      },
+      {
+        "uf": "PI",
+        "valor": 367565.2
+      },
+      {
+        "uf": "SC",
+        "valor": 366989.9
+      }
+    ],
+    "agentesConsiderados": 455
+  }
+}

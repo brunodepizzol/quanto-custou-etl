@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 11
+    },
+    "geradoEm": "2026-03-04T14:10:22.044214Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 227433,
+      "nome": "Douglas Viegas",
+      "uf": "SP",
+      "partido": "UNIÃO",
+      "valor": 29713.0,
+      "qtdLancamentos": 11,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 178908,
+      "nome": "Delegado Éder Mauro",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 28000.0,
+      "qtdLancamentos": 5,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 27670.15,
+      "qtdLancamentos": 37,
+      "qtdRecibosOutros": 10
+    },
+    {
+      "id": 74273,
+      "nome": "Jefferson Campos",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 27374.34,
+      "qtdLancamentos": 18,
+      "qtdRecibosOutros": 7
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 26780.47,
+      "qtdLancamentos": 35,
+      "qtdRecibosOutros": 9
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 26341.5,
+      "qtdLancamentos": 2,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 26204.9,
+      "qtdLancamentos": 21,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 26176.41,
+      "qtdLancamentos": 22,
+      "qtdRecibosOutros": 14
+    },
+    {
+      "id": 220630,
+      "nome": "Pedro Aihara",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 25265.75,
+      "qtdLancamentos": 29,
+      "qtdRecibosOutros": 18
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 24949.71,
+      "qtdLancamentos": 55,
+      "qtdRecibosOutros": 18
+    }
+  ]
+}

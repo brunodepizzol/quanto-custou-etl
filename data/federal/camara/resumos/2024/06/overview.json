@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 6
+    },
+    "geradoEm": "2026-03-04T13:40:38.058673Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 8808627.95,
+    "top1Gasto": {
+      "id": 204557,
+      "nome": "Sidney Leite",
+      "uf": "AM",
+      "partido": "PSD",
+      "valor": 140619.15
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 3589477.49
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 2182298.78
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 1633156.15
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1076498.66
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 327196.87
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 1140996.36
+      },
+      {
+        "uf": "MG",
+        "valor": 935863.12
+      },
+      {
+        "uf": "RJ",
+        "valor": 759159.72
+      },
+      {
+        "uf": "BA",
+        "valor": 701153.27
+      },
+      {
+        "uf": "PR",
+        "valor": 611284.0
+      },
+      {
+        "uf": "RS",
+        "valor": 526011.65
+      },
+      {
+        "uf": "PE",
+        "valor": 469906.55
+      },
+      {
+        "uf": "GO",
+        "valor": 412201.54
+      },
+      {
+        "uf": "PA",
+        "valor": 290694.86
+      },
+      {
+        "uf": "CE",
+        "valor": 270946.41
+      },
+      {
+        "uf": "PB",
+        "valor": 250020.62
+      },
+      {
+        "uf": "AM",
+        "valor": 242016.42
+      }
+    ],
+    "agentesConsiderados": 287
+  }
+}
