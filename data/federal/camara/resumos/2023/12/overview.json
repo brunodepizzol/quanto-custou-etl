@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 12
+    },
+    "geradoEm": "2026-03-04T12:53:23.709850Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 24781209.45,
+    "top1Gasto": {
+      "id": 220707,
+      "nome": "Amanda Gentil",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 256958.64
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 14176858.63
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 3177053.38
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 2937363.8
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2557132.52
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 1932801.12
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 3197388.12
+      },
+      {
+        "uf": "MG",
+        "valor": 2910878.13
+      },
+      {
+        "uf": "RJ",
+        "valor": 2244479.14
+      },
+      {
+        "uf": "BA",
+        "valor": 1711363.93
+      },
+      {
+        "uf": "PE",
+        "valor": 1683267.66
+      },
+      {
+        "uf": "PR",
+        "valor": 1476194.22
+      },
+      {
+        "uf": "RS",
+        "valor": 1475317.15
+      },
+      {
+        "uf": "MA",
+        "valor": 1029762.91
+      },
+      {
+        "uf": "CE",
+        "valor": 938680.76
+      },
+      {
+        "uf": "PA",
+        "valor": 800987.84
+      },
+      {
+        "uf": "SC",
+        "valor": 758602.64
+      },
+      {
+        "uf": "ES",
+        "valor": 667242.07
+      }
+    ],
+    "agentesConsiderados": 476
+  }
+}

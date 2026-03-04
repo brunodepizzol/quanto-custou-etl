@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 6
+    },
+    "geradoEm": "2026-03-04T12:17:28.608818Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 28398.7,
+      "qtdLancamentos": 10,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 26901.5,
+      "qtdLancamentos": 37,
+      "qtdRecibosOutros": 3
+    },
+    {
+      "id": 220695,
+      "nome": "Rogéria Santos",
+      "uf": "BA",
+      "partido": "REPUBLICANOS",
+      "valor": 26153.0,
+      "qtdLancamentos": 48,
+      "qtdRecibosOutros": 10
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 25661.9,
+      "qtdLancamentos": 31,
+      "qtdRecibosOutros": 16
+    },
+    {
+      "id": 204367,
+      "nome": "Daniel Freitas",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 24212.62,
+      "qtdLancamentos": 41,
+      "qtdRecibosOutros": 7
+    },
+    {
+      "id": 160673,
+      "nome": "Giovani Cherini",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 23404.04,
+      "qtdLancamentos": 67,
+      "qtdRecibosOutros": 13
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 23391.62,
+      "qtdLancamentos": 110,
+      "qtdRecibosOutros": 16
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 23144.0,
+      "qtdLancamentos": 34,
+      "qtdRecibosOutros": 8
+    },
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 23047.87,
+      "qtdLancamentos": 69,
+      "qtdRecibosOutros": 25
+    },
+    {
+      "id": 204574,
+      "nome": "Junior Lourenço",
+      "uf": "MA",
+      "partido": "PL",
+      "valor": 22500.0,
+      "qtdLancamentos": 18,
+      "qtdRecibosOutros": 2
+    }
+  ]
+}

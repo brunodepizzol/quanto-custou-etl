@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 7
+    },
+    "geradoEm": "2026-03-04T12:23:22.021543Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 204423,
+      "nome": "André Ferreira",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 34454.0,
+      "qtdLancamentos": 47,
+      "qtdRecibosOutros": 10
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 28385.8,
+      "qtdLancamentos": 5,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 26864.8,
+      "qtdLancamentos": 22,
+      "qtdRecibosOutros": 3
+    },
+    {
+      "id": 220695,
+      "nome": "Rogéria Santos",
+      "uf": "BA",
+      "partido": "REPUBLICANOS",
+      "valor": 26153.0,
+      "qtdLancamentos": 44,
+      "qtdRecibosOutros": 10
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 25497.03,
+      "qtdLancamentos": 35,
+      "qtdRecibosOutros": 9
+    },
+    {
+      "id": 220625,
+      "nome": "Delegada Ione",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 24846.85,
+      "qtdLancamentos": 54,
+      "qtdRecibosOutros": 14
+    },
+    {
+      "id": 204367,
+      "nome": "Daniel Freitas",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 24404.64,
+      "qtdLancamentos": 65,
+      "qtdRecibosOutros": 8
+    },
+    {
+      "id": 220623,
+      "nome": "Duda Salabert",
+      "uf": "MG",
+      "partido": "PDT",
+      "valor": 23992.99,
+      "qtdLancamentos": 11,
+      "qtdRecibosOutros": 6
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 23199.38,
+      "qtdLancamentos": 30,
+      "qtdRecibosOutros": 12
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 23146.86,
+      "qtdLancamentos": 109,
+      "qtdRecibosOutros": 13
+    }
+  ]
+}

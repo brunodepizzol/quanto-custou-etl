@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 5
+    },
+    "geradoEm": "2026-03-04T12:10:56.224167Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 18836433.14,
+    "top1Gasto": {
+      "id": 220700,
+      "nome": "Florentino Neto",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 116087.39
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 6619570.42
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 4157777.73
+      },
+      {
+        "categoriaQC": "OUTROS",
+        "valor": 3341361.26
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2552726.78
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 2164996.95
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2241081.6
+      },
+      {
+        "uf": "MG",
+        "valor": 1911979.75
+      },
+      {
+        "uf": "BA",
+        "valor": 1584843.24
+      },
+      {
+        "uf": "RJ",
+        "valor": 1532889.51
+      },
+      {
+        "uf": "RS",
+        "valor": 1196516.21
+      },
+      {
+        "uf": "PR",
+        "valor": 1079468.75
+      },
+      {
+        "uf": "PE",
+        "valor": 973664.35
+      },
+      {
+        "uf": "PA",
+        "valor": 817141.57
+      },
+      {
+        "uf": "CE",
+        "valor": 727938.65
+      },
+      {
+        "uf": "PI",
+        "valor": 597455.36
+      },
+      {
+        "uf": "GO",
+        "valor": 566201.03
+      },
+      {
+        "uf": "SC",
+        "valor": 552674.34
+      }
+    ],
+    "agentesConsiderados": 464
+  }
+}

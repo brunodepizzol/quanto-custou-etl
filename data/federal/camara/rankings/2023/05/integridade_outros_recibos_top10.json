@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 5
+    },
+    "geradoEm": "2026-03-04T12:10:56.217719Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 220603,
+      "nome": "Dani Cunha",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 31232.94,
+      "qtdLancamentos": 166,
+      "qtdRecibosOutros": 73
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 28374.4,
+      "qtdLancamentos": 16,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 26785.6,
+      "qtdLancamentos": 37,
+      "qtdRecibosOutros": 3
+    },
+    {
+      "id": 204388,
+      "nome": "Bibo Nunes",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 26134.42,
+      "qtdLancamentos": 90,
+      "qtdRecibosOutros": 8
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 25516.91,
+      "qtdLancamentos": 49,
+      "qtdRecibosOutros": 9
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 24633.17,
+      "qtdLancamentos": 34,
+      "qtdRecibosOutros": 15
+    },
+    {
+      "id": 160673,
+      "nome": "Giovani Cherini",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 23829.21,
+      "qtdLancamentos": 107,
+      "qtdRecibosOutros": 14
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 23474.14,
+      "qtdLancamentos": 41,
+      "qtdRecibosOutros": 7
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 22870.5,
+      "qtdLancamentos": 75,
+      "qtdRecibosOutros": 25
+    },
+    {
+      "id": 204574,
+      "nome": "Junior Lourenço",
+      "uf": "MA",
+      "partido": "PL",
+      "valor": 22500.0,
+      "qtdLancamentos": 13,
+      "qtdRecibosOutros": 2
+    }
+  ]
+}
