@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2
+    },
+    "geradoEm": "2026-03-04T16:32:42.385678Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 41080.02,
+      "qtdLancamentos": 5,
+      "qtdSemDocumentoPdf": 5
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 34402.6,
+      "qtdLancamentos": 1,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 32004.5,
+      "qtdLancamentos": 2,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 234673,
+      "nome": "Vanderlan Alves",
+      "uf": "CE",
+      "partido": "REPUBLICANOS",
+      "valor": 11718.53,
+      "qtdLancamentos": 18,
+      "qtdSemDocumentoPdf": 9
+    },
+    {
+      "id": 121948,
+      "nome": "Adriano do Baldy",
+      "uf": "GO",
+      "partido": "PP",
+      "valor": 11227.35,
+      "qtdLancamentos": 21,
+      "qtdSemDocumentoPdf": 10
+    },
+    {
+      "id": 74398,
+      "nome": "Maria do Rosário",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 10945.96,
+      "qtdLancamentos": 41,
+      "qtdSemDocumentoPdf": 31
+    },
+    {
+      "id": 204426,
+      "nome": "Carlos Veras",
+      "uf": "PE",
+      "partido": "PT",
+      "valor": 10400.4,
+      "qtdLancamentos": 59,
+      "qtdSemDocumentoPdf": 35
+    },
+    {
+      "id": 220533,
+      "nome": "Prof. Reginaldo Veras",
+      "uf": "DF",
+      "partido": "PV",
+      "valor": 9889.8,
+      "qtdLancamentos": 23,
+      "qtdSemDocumentoPdf": 18
+    },
+    {
+      "id": 204364,
+      "nome": "Eli Borges",
+      "uf": "TO",
+      "partido": "PL",
+      "valor": 9392.0,
+      "qtdLancamentos": 39,
+      "qtdSemDocumentoPdf": 32
+    },
+    {
+      "id": 230767,
+      "nome": "Rodrigo da Zaeli",
+      "uf": "MT",
+      "partido": "PL",
+      "valor": 9234.23,
+      "qtdLancamentos": 48,
+      "qtdSemDocumentoPdf": 37
+    }
+  ]
+}
