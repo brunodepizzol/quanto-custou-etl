@@ -361,6 +361,39 @@ def build_rankings_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
     out["total_top10.json"] = mk_ranking(base_meta_total, top_total)
     out["total_bottom10.json"] = mk_ranking(base_meta_total, bottom_total)
 
+    # integridade documental (top10)
+    meta_int_base = {
+        "tipo": "ranking_integridade",
+        "escopo": "federal/camara",
+        "periodo": periodo_meta,
+        "geradoEm": now_iso(),
+        "versaoSchema": "1.0.0",
+        "versaoCategoryMap": cmap.version,
+        "criterio": {"consideraAtivosNoPeriodo": True}
+    }
+
+    sem_pdf_sorted = sorted(ativos, key=lambda r: float(r["totais"].get("valorSemDocumentoPdf", 0.0)), reverse=True)
+    out["integridade_sem_pdf_top10.json"] = mk_ranking(
+        {**meta_int_base, "metrica": "valorSemDocumentoPdf"},
+        [{
+            "id": r["id"], "nome": r["nome"], "uf": r["uf"], "partido": r["partido"],
+            "valor": round(float(r["totais"].get("valorSemDocumentoPdf", 0.0)), 2),
+            "qtdLancamentos": r["totais"]["qtdLancamentos"],
+            "qtdSemDocumentoPdf": int(r["totais"].get("qtdSemDocumentoPdf", 0))
+        } for r in sem_pdf_sorted[:10]]
+    )
+
+    outros_sorted = sorted(ativos, key=lambda r: float(r["totais"].get("valorRecibosOutros", 0.0)), reverse=True)
+    out["integridade_outros_recibos_top10.json"] = mk_ranking(
+        {**meta_int_base, "metrica": "valorRecibosOutros"},
+        [{
+            "id": r["id"], "nome": r["nome"], "uf": r["uf"], "partido": r["partido"],
+            "valor": round(float(r["totais"].get("valorRecibosOutros", 0.0)), 2),
+            "qtdLancamentos": r["totais"]["qtdLancamentos"],
+            "qtdRecibosOutros": int(r["totais"].get("qtdRecibosOutros", 0))
+        } for r in outros_sorted[:10]]
+    )
+
     # por categoria (top10)
     for cat in cats:
         meta_cat = {
