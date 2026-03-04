@@ -7,36 +7,91 @@
       "ano": 2024,
       "mes": 2
     },
-    "geradoEm": "2026-03-04T13:17:21.300232Z",
+    "geradoEm": "2026-03-04T17:02:21.981396Z",
     "versaoSchema": "1.0.0",
     "versaoCategoryMap": "1.0.0"
   },
   "kpis": {
-    "totalGasto": 0.0,
-    "top1Gasto": null,
+    "totalGasto": 18018184.77,
+    "top1Gasto": {
+      "id": 204408,
+      "nome": "Gustinho Ribeiro",
+      "uf": "SE",
+      "partido": "REPUBLICANOS",
+      "valor": 114457.0
+    },
     "topCategorias": [
       {
-        "categoriaQC": "ALIMENTACAO",
-        "valor": 0.0
+        "categoriaQC": "DIVULGACAO",
+        "valor": 6889899.77
       },
       {
-        "categoriaQC": "COMBUSTIVEL",
-        "valor": 0.0
+        "categoriaQC": "OUTROS",
+        "valor": 3206047.66
       },
       {
-        "categoriaQC": "CONSULTORIA_SERVICOS",
-        "valor": 0.0
+        "categoriaQC": "PASSAGENS",
+        "valor": 3188547.89
       },
       {
-        "categoriaQC": "CORREIOS_TELEFONIA",
-        "valor": 0.0
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2803442.79
       },
       {
         "categoriaQC": "DEMAIS CATEGORIAS",
-        "valor": 0.0
+        "valor": 1930246.66
       }
     ],
-    "topUFs": [],
-    "agentesConsiderados": 0
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2145547.89
+      },
+      {
+        "uf": "MG",
+        "valor": 1909819.56
+      },
+      {
+        "uf": "RJ",
+        "valor": 1493748.47
+      },
+      {
+        "uf": "BA",
+        "valor": 1457553.44
+      },
+      {
+        "uf": "PR",
+        "valor": 1252556.85
+      },
+      {
+        "uf": "RS",
+        "valor": 1113417.97
+      },
+      {
+        "uf": "PE",
+        "valor": 1000177.18
+      },
+      {
+        "uf": "CE",
+        "valor": 728127.17
+      },
+      {
+        "uf": "GO",
+        "valor": 640503.93
+      },
+      {
+        "uf": "PA",
+        "valor": 627122.87
+      },
+      {
+        "uf": "SC",
+        "valor": 540236.63
+      },
+      {
+        "uf": "MA",
+        "valor": 465081.39
+      }
+    ],
+    "agentesConsiderados": 465
   }
 }
