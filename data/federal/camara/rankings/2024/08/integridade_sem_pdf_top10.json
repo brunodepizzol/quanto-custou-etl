@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 8
+    },
+    "geradoEm": "2026-03-05T08:54:57.734103Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 42865.73,
+      "qtdLancamentos": 9,
+      "qtdSemDocumentoPdf": 8
+    },
+    {
+      "id": 220527,
+      "nome": "Jack Rocha",
+      "uf": "ES",
+      "partido": "PT",
+      "valor": 40870.19,
+      "qtdLancamentos": 41,
+      "qtdSemDocumentoPdf": 27
+    },
+    {
+      "id": 220540,
+      "nome": "Duda Ramos",
+      "uf": "RR",
+      "partido": "MDB",
+      "valor": 39043.49,
+      "qtdLancamentos": 26,
+      "qtdSemDocumentoPdf": 24
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 36407.49,
+      "qtdLancamentos": 135,
+      "qtdSemDocumentoPdf": 75
+    },
+    {
+      "id": 204444,
+      "nome": "Helio Lopes",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 33061.71,
+      "qtdLancamentos": 47,
+      "qtdSemDocumentoPdf": 41
+    },
+    {
+      "id": 141458,
+      "nome": "João Carlos Bacelar",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 27344.62,
+      "qtdLancamentos": 37,
+      "qtdSemDocumentoPdf": 29
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 27301.44,
+      "qtdLancamentos": 24,
+      "qtdSemDocumentoPdf": 23
+    },
+    {
+      "id": 73441,
+      "nome": "Celso Russomanno",
+      "uf": "SP",
+      "partido": "REPUBLICANOS",
+      "valor": 26693.41,
+      "qtdLancamentos": 64,
+      "qtdSemDocumentoPdf": 34
+    },
+    {
+      "id": 74161,
+      "nome": "Reginaldo Lopes",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 26437.38,
+      "qtdLancamentos": 38,
+      "qtdSemDocumentoPdf": 22
+    },
+    {
+      "id": 198197,
+      "nome": "Greyce Elias",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 25944.92,
+      "qtdLancamentos": 114,
+      "qtdSemDocumentoPdf": 34
+    }
+  ]
+}

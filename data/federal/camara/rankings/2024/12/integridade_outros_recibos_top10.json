@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 12
+    },
+    "geradoEm": "2026-03-05T09:18:30.588730Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 220630,
+      "nome": "Pedro Aihara",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 56359.42,
+      "qtdLancamentos": 42,
+      "qtdRecibosOutros": 18
+    },
+    {
+      "id": 178860,
+      "nome": "Paulo Azi",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 43987.1,
+      "qtdLancamentos": 6,
+      "qtdRecibosOutros": 3
+    },
+    {
+      "id": 205550,
+      "nome": "Jorge Braz",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 36775.69,
+      "qtdLancamentos": 67,
+      "qtdRecibosOutros": 6
+    },
+    {
+      "id": 220628,
+      "nome": "Mauricio do Vôlei",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 32500.0,
+      "qtdLancamentos": 21,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 220555,
+      "nome": "Daiana Santos",
+      "uf": "RS",
+      "partido": "PCdoB",
+      "valor": 30577.28,
+      "qtdLancamentos": 26,
+      "qtdRecibosOutros": 7
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 26341.5,
+      "qtdLancamentos": 10,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 204444,
+      "nome": "Helio Lopes",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 25426.0,
+      "qtdLancamentos": 29,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 25159.8,
+      "qtdLancamentos": 38,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 24923.27,
+      "qtdLancamentos": 53,
+      "qtdRecibosOutros": 18
+    },
+    {
+      "id": 74273,
+      "nome": "Jefferson Campos",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 24890.04,
+      "qtdLancamentos": 45,
+      "qtdRecibosOutros": 5
+    }
+  ]
+}

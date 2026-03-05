@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 204539,
-    "geradoEm": "2026-03-05T00:26:54.726545Z",
+    "geradoEm": "2026-03-05T09:18:30.942914Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,26 +13,27 @@
     "partido": "MDB",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/204539.jpg",
     "totaisMandato": {
-      "total": 312746.47,
-      "qtdLancamentos": 21,
+      "total": 742697.38,
+      "qtdLancamentos": 234,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 0.0,
+        "COMBUSTIVEL": 25820.48,
         "CONSULTORIA_SERVICOS": 0.0,
         "CORREIOS_TELEFONIA": 0.0,
-        "DIVULGACAO": 255590.0,
-        "ESCRITORIO": 0.0,
-        "HOSPEDAGEM": 3345.89,
+        "DIVULGACAO": 615790.0,
+        "ESCRITORIO": 1579.1,
+        "HOSPEDAGEM": 22087.69,
         "OUTROS": 0.0,
-        "PASSAGENS": 53810.58
+        "PASSAGENS": 77420.11
       },
-      "qtdSemDocumentoPdf": 0,
-      "valorSemDocumentoPdf": 0.0,
-      "qtdRecibosOutros": 0,
-      "valorRecibosOutros": 0.0
+      "qtdSemDocumentoPdf": 7,
+      "valorSemDocumentoPdf": 11050.91,
+      "qtdRecibosOutros": 50,
+      "valorRecibosOutros": 8395.66
     },
     "totaisAno": {
-      "2023": 312746.47
+      "2023": 312746.47,
+      "2024": 429950.91
     },
     "porMes": {
       "2023-01": 0.0,
@@ -46,12 +47,24 @@
       "2023-09": 12700.0,
       "2023-10": 24899.0,
       "2023-11": 63447.47,
-      "2023-12": 79000.0
+      "2023-12": 79000.0,
+      "2024-01": 600.0,
+      "2024-02": 3796.61,
+      "2024-03": 582.66,
+      "2024-04": 4588.0,
+      "2024-05": 12381.63,
+      "2024-06": 1428.98,
+      "2024-07": 115299.4,
+      "2024-08": 16218.15,
+      "2024-09": 74748.79,
+      "2024-10": 67103.65,
+      "2024-11": 63571.74,
+      "2024-12": 69631.3
     },
     "maiorCategoria": {
       "categoria": "DIVULGACAO",
-      "valor": 255590.0,
-      "pct": 81.72
+      "valor": 615790.0,
+      "pct": 82.91
     }
   }
 }

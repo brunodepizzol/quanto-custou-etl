@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 12
+    },
+    "geradoEm": "2026-03-05T09:18:30.588730Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 220621,
+      "nome": "Sargento Gonçalves",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 157709.55,
+      "qtdLancamentos": 15,
+      "qtdSemDocumentoPdf": 14
+    },
+    {
+      "id": 204390,
+      "nome": "Professor Alcides",
+      "uf": "GO",
+      "partido": "PL",
+      "valor": 156960.13,
+      "qtdLancamentos": 2,
+      "qtdSemDocumentoPdf": 2
+    },
+    {
+      "id": 178943,
+      "nome": "Marcos Soares",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 109949.34,
+      "qtdLancamentos": 34,
+      "qtdSemDocumentoPdf": 19
+    },
+    {
+      "id": 220612,
+      "nome": "Bebeto",
+      "uf": "RJ",
+      "partido": "PP",
+      "valor": 81634.53,
+      "qtdLancamentos": 36,
+      "qtdSemDocumentoPdf": 32
+    },
+    {
+      "id": 220707,
+      "nome": "Amanda Gentil",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 80590.92,
+      "qtdLancamentos": 20,
+      "qtdSemDocumentoPdf": 13
+    },
+    {
+      "id": 160512,
+      "nome": "Aureo Ribeiro",
+      "uf": "RJ",
+      "partido": "SOLIDARIEDADE",
+      "valor": 78797.95,
+      "qtdLancamentos": 29,
+      "qtdSemDocumentoPdf": 25
+    },
+    {
+      "id": 204395,
+      "nome": "Pedro Lupion",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 77082.32,
+      "qtdLancamentos": 20,
+      "qtdSemDocumentoPdf": 18
+    },
+    {
+      "id": 221338,
+      "nome": "Professora Luciene Cavalcante",
+      "uf": "SP",
+      "partido": "PSOL",
+      "valor": 61496.22,
+      "qtdLancamentos": 58,
+      "qtdSemDocumentoPdf": 27
+    },
+    {
+      "id": 220623,
+      "nome": "Duda Salabert",
+      "uf": "MG",
+      "partido": "PDT",
+      "valor": 60189.91,
+      "qtdLancamentos": 111,
+      "qtdSemDocumentoPdf": 97
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 58365.63,
+      "qtdLancamentos": 19,
+      "qtdSemDocumentoPdf": 18
+    }
+  ]
+}
