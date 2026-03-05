@@ -481,6 +481,43 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
         }
     }
 
+def build_consulta_deputados_from_rows(rows: List[dict], periodo_meta: dict, cmap: CategoryMap) -> dict:
+    itens = []
+    for r in rows:
+        totais = r.get("totais") or {}
+        itens.append({
+            "id": r.get("id"),
+            "nome": r.get("nome"),
+            "uf": r.get("uf"),
+            "partido": r.get("partido"),
+            "urlFoto": r.get("urlFoto"),
+            "total": round(float(totais.get("total", 0.0) or 0.0), 2),
+            "qtdLancamentos": int(totais.get("qtdLancamentos", 0) or 0),
+            "porCategoria": {k: round(float(v or 0.0), 2) for k, v in (totais.get("porCategoria") or {}).items()},
+            "qtdSemDocumentoPdf": int(totais.get("qtdSemDocumentoPdf", 0) or 0),
+            "valorSemDocumentoPdf": round(float(totais.get("valorSemDocumentoPdf", 0.0) or 0.0), 2),
+            "qtdRecibosOutros": int(totais.get("qtdRecibosOutros", 0) or 0),
+            "valorRecibosOutros": round(float(totais.get("valorRecibosOutros", 0.0) or 0.0), 2)
+        })
+
+    return {
+        "meta": {
+            "tipo": "consulta_deputados",
+            "escopo": "federal/camara",
+            "periodo": periodo_meta,
+            "geradoEm": now_iso(),
+            "versaoSchema": "1.0.0",
+            "versaoCategoryMap": cmap.version,
+            "campos": [
+                "id", "nome", "uf", "partido", "urlFoto",
+                "total", "qtdLancamentos", "porCategoria",
+                "qtdSemDocumentoPdf", "valorSemDocumentoPdf",
+                "qtdRecibosOutros", "valorRecibosOutros"
+            ]
+        },
+        "itens": itens
+    }
+
 # ----------------------------
 # Summation helpers (year / mandate) using stored aggregates
 # ----------------------------
@@ -773,6 +810,8 @@ def main():
         # overview do mês
         overview = build_overview_from_rows(rows, periodo_mes, cmap)
         write_json(out_dir / f"federal/camara/resumos/{year:04d}/{m:02d}/overview.json", overview)
+        consulta_mes = build_consulta_deputados_from_rows(rows, periodo_mes, cmap)
+        write_json(out_dir / f"federal/camara/consultas/{year:04d}/{m:02d}/deputados.json", consulta_mes)
 
     # rebuild YEAR (ano fechado ou acumulado) e MANDATO usando aggregates armazenados
     # Ano: soma todos os meses que existem em aggregates/{year}/
@@ -786,6 +825,8 @@ def main():
             write_json(out_dir / f"federal/camara/rankings/{year:04d}/ano/{fname}", obj)
         overview_year = build_overview_from_rows(rows_year, periodo_ano, cmap)
         write_json(out_dir / f"federal/camara/resumos/{year:04d}/ano/overview.json", overview_year)
+        consulta_year = build_consulta_deputados_from_rows(rows_year, periodo_ano, cmap)
+        write_json(out_dir / f"federal/camara/consultas/{year:04d}/ano/deputados.json", consulta_year)
 
     # Mandato: soma todos os aggregates de mandate_start_year..(year) existentes
     mandate_files = []
@@ -804,6 +845,8 @@ def main():
             write_json(out_dir / "federal/camara/rankings/mandato" / fname, obj)
         overview_mandato = build_overview_from_rows(rows_mandato, periodo_mandato, cmap)
         write_json(out_dir / "federal/camara/resumos/mandato/overview.json", overview_mandato)
+        consulta_mandato = build_consulta_deputados_from_rows(rows_mandato, periodo_mandato, cmap)
+        write_json(out_dir / "federal/camara/consultas/mandato/deputados.json", consulta_mandato)
 
     # Resumos individuais (mandato) + índice universal
     if mandate_files:
@@ -820,6 +863,7 @@ def main():
             "id": "federal/camara",
             "descricao": "Rankings e resumos (Deputados Federais) gerados a partir da API da Câmara",
             "mandatoInicioAno": mandate_start_year,
+            "pathConsultasRoot": "federal/camara/consultas",
             "pathCategoryMap": "federal/camara/mapping/categoria/category_map.json",
             "pathCategoryMapSource": "mapping/federal/deputados/category_map.json"
         }
@@ -838,6 +882,7 @@ def main():
         "descricao": "Rankings e resumos (Deputados Federais) gerados a partir da API da Câmara",
         "pathCatalog": "federal/camara/catalog.json",
         "pathBaseData": "federal/camara",
+        "pathConsultasRoot": "federal/camara/consultas",
         "pathCategoryMap": "federal/camara/mapping/categoria/category_map.json",
         "pathCategoryMapSource": "mapping/federal/deputados/category_map.json",
         "mandatoInicioAno": mandate_start_year
