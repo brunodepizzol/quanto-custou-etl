@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 3
+    },
+    "geradoEm": "2026-03-05T15:08:29.956744Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 44999.2,
+      "qtdLancamentos": 1,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 33472.8,
+      "qtdLancamentos": 2,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 220676,
+      "nome": "Andreia Siqueira",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 8000.98,
+      "qtdLancamentos": 1,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 220592,
+      "nome": "Zezinho Barbary",
+      "uf": "AC",
+      "partido": "PP",
+      "valor": 5201.0,
+      "qtdLancamentos": 3,
+      "qtdSemDocumentoPdf": 3
+    },
+    {
+      "id": 235088,
+      "nome": "Ribeiro Neto",
+      "uf": "MA",
+      "partido": "PRD",
+      "valor": 1612.81,
+      "qtdLancamentos": 5,
+      "qtdSemDocumentoPdf": 5
+    },
+    {
+      "id": 88256,
+      "nome": "Clodoaldo Magalhães",
+      "uf": "PE",
+      "partido": "PV",
+      "valor": 1251.91,
+      "qtdLancamentos": 5,
+      "qtdSemDocumentoPdf": 5
+    },
+    {
+      "id": 220537,
+      "nome": "Helena Lima",
+      "uf": "RR",
+      "partido": "MDB",
+      "valor": 1197.0,
+      "qtdLancamentos": 2,
+      "qtdSemDocumentoPdf": 2
+    },
+    {
+      "id": 178993,
+      "nome": "Carlos Henrique Gaguim",
+      "uf": "TO",
+      "partido": "UNIÃO",
+      "valor": 1183.0,
+      "qtdLancamentos": 3,
+      "qtdSemDocumentoPdf": 3
+    },
+    {
+      "id": 223128,
+      "nome": "Rodrigo Estacho",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 1157.17,
+      "qtdLancamentos": 5,
+      "qtdSemDocumentoPdf": 5
+    },
+    {
+      "id": 205476,
+      "nome": "Charles Fernandes",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 1147.29,
+      "qtdLancamentos": 4,
+      "qtdSemDocumentoPdf": 4
+    }
+  ]
+}

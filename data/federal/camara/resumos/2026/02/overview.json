@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2
+    },
+    "geradoEm": "2026-03-05T15:03:30.191708Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 8129111.9,
+    "top1Gasto": {
+      "id": 141459,
+      "nome": "João Maia",
+      "uf": "RN",
+      "partido": "PP",
+      "valor": 57919.08
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 3920555.71
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 1425830.7
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 1398538.19
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1133737.77
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 250449.53
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 1003808.32
+      },
+      {
+        "uf": "BA",
+        "valor": 783577.35
+      },
+      {
+        "uf": "MG",
+        "valor": 693577.61
+      },
+      {
+        "uf": "RS",
+        "valor": 594310.13
+      },
+      {
+        "uf": "RJ",
+        "valor": 558788.52
+      },
+      {
+        "uf": "PR",
+        "valor": 555066.15
+      },
+      {
+        "uf": "PE",
+        "valor": 355340.34
+      },
+      {
+        "uf": "PB",
+        "valor": 337805.22
+      },
+      {
+        "uf": "CE",
+        "valor": 321037.22
+      },
+      {
+        "uf": "RR",
+        "valor": 229506.46
+      },
+      {
+        "uf": "GO",
+        "valor": 227432.16
+      },
+      {
+        "uf": "SC",
+        "valor": 218119.03
+      }
+    ],
+    "agentesConsiderados": 471
+  }
+}

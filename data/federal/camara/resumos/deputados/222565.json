@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 222565,
-    "geradoEm": "2026-03-05T14:52:13.683253Z",
+    "geradoEm": "2026-03-05T15:52:33.098292Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,11 +13,11 @@
     "partido": "UNIÃO",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/222565.jpg",
     "totaisMandato": {
-      "total": 0.0,
-      "qtdLancamentos": 0,
+      "total": 1811.28,
+      "qtdLancamentos": 11,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 0.0,
+        "COMBUSTIVEL": 1811.28,
         "CONSULTORIA_SERVICOS": 0.0,
         "CORREIOS_TELEFONIA": 0.0,
         "DIVULGACAO": 0.0,
@@ -26,15 +26,16 @@
         "OUTROS": 0.0,
         "PASSAGENS": 0.0
       },
-      "qtdSemDocumentoPdf": 0,
-      "valorSemDocumentoPdf": 0.0,
+      "qtdSemDocumentoPdf": 11,
+      "valorSemDocumentoPdf": 1811.28,
       "qtdRecibosOutros": 0,
       "valorRecibosOutros": 0.0
     },
     "totaisAno": {
       "2023": 0.0,
       "2024": 0.0,
-      "2025": 0.0
+      "2025": 0.0,
+      "2026": 1811.28
     },
     "porMes": {
       "2023-01": 0.0,
@@ -72,12 +73,24 @@
       "2025-09": 0.0,
       "2025-10": 0.0,
       "2025-11": 0.0,
-      "2025-12": 0.0
+      "2025-12": 0.0,
+      "2026-01": 0.0,
+      "2026-02": 1345.2,
+      "2026-03": 466.08,
+      "2026-04": 0.0,
+      "2026-05": 0.0,
+      "2026-06": 0.0,
+      "2026-07": 0.0,
+      "2026-08": 0.0,
+      "2026-09": 0.0,
+      "2026-10": 0.0,
+      "2026-11": 0.0,
+      "2026-12": 0.0
     },
     "maiorCategoria": {
-      "categoria": "ALIMENTACAO",
-      "valor": 0.0,
-      "pct": 0.0
+      "categoria": "COMBUSTIVEL",
+      "valor": 1811.28,
+      "pct": 100.0
     }
   }
 }

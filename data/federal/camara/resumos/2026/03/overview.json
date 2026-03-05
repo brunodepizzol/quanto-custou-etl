@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 3
+    },
+    "geradoEm": "2026-03-05T15:08:29.960348Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 250780.94,
+    "top1Gasto": {
+      "id": 74454,
+      "nome": "Eunício Oliveira",
+      "uf": "CE",
+      "partido": "MDB",
+      "valor": 47000.0
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 162472.0
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 63661.92
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 10307.65
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 7182.25
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 7157.12
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "AC",
+        "valor": 50859.11
+      },
+      {
+        "uf": "PR",
+        "valor": 49458.3
+      },
+      {
+        "uf": "CE",
+        "valor": 47466.08
+      },
+      {
+        "uf": "RJ",
+        "valor": 35980.88
+      },
+      {
+        "uf": "RS",
+        "valor": 14187.42
+      },
+      {
+        "uf": "PA",
+        "valor": 8200.98
+      },
+      {
+        "uf": "SP",
+        "valor": 6975.88
+      },
+      {
+        "uf": "MG",
+        "valor": 6484.54
+      },
+      {
+        "uf": "BA",
+        "valor": 5885.94
+      },
+      {
+        "uf": "PE",
+        "valor": 4667.28
+      },
+      {
+        "uf": "SC",
+        "valor": 3292.79
+      },
+      {
+        "uf": "MT",
+        "valor": 2496.64
+      }
+    ],
+    "agentesConsiderados": 147
+  }
+}

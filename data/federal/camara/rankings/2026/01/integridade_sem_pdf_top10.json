@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1
+    },
+    "geradoEm": "2026-03-05T14:58:35.708429Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 28175.0,
+      "qtdLancamentos": 2,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 25150.0,
+      "qtdLancamentos": 2,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 178895,
+      "nome": "Misael Varella",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 22000.0,
+      "qtdLancamentos": 8,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 220591,
+      "nome": "Meire Serafim",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 21690.34,
+      "qtdLancamentos": 21,
+      "qtdSemDocumentoPdf": 21
+    },
+    {
+      "id": 74554,
+      "nome": "José Rocha",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 14267.5,
+      "qtdLancamentos": 30,
+      "qtdSemDocumentoPdf": 29
+    },
+    {
+      "id": 204456,
+      "nome": "Gutemberg Reis",
+      "uf": "RJ",
+      "partido": "MDB",
+      "valor": 12532.13,
+      "qtdLancamentos": 29,
+      "qtdSemDocumentoPdf": 23
+    },
+    {
+      "id": 234673,
+      "nome": "Vanderlan Alves",
+      "uf": "CE",
+      "partido": "REPUBLICANOS",
+      "valor": 10950.0,
+      "qtdLancamentos": 26,
+      "qtdSemDocumentoPdf": 6
+    },
+    {
+      "id": 178954,
+      "nome": "Lucio Mosquini",
+      "uf": "RO",
+      "partido": "MDB",
+      "valor": 10884.81,
+      "qtdLancamentos": 18,
+      "qtdSemDocumentoPdf": 4
+    },
+    {
+      "id": 204410,
+      "nome": "Luisa Canziani",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 10754.5,
+      "qtdLancamentos": 14,
+      "qtdSemDocumentoPdf": 3
+    },
+    {
+      "id": 204426,
+      "nome": "Carlos Veras",
+      "uf": "PE",
+      "partido": "PT",
+      "valor": 10706.46,
+      "qtdLancamentos": 70,
+      "qtdSemDocumentoPdf": 36
+    }
+  ]
+}
