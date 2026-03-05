@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 6
+    },
+    "geradoEm": "2026-03-05T10:04:32.080365Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 20644725.07,
+    "top1Gasto": {
+      "id": 141408,
+      "nome": "Cleber Verde",
+      "uf": "MA",
+      "partido": "MDB",
+      "valor": 119849.92
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7852309.46
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 7328341.42
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2988233.34
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1874702.37
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 601138.48
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2562352.26
+      },
+      {
+        "uf": "MG",
+        "valor": 2258184.1
+      },
+      {
+        "uf": "RJ",
+        "valor": 1732307.95
+      },
+      {
+        "uf": "BA",
+        "valor": 1485746.69
+      },
+      {
+        "uf": "RS",
+        "valor": 1365480.73
+      },
+      {
+        "uf": "PR",
+        "valor": 1335058.11
+      },
+      {
+        "uf": "PE",
+        "valor": 1089795.59
+      },
+      {
+        "uf": "CE",
+        "valor": 827168.43
+      },
+      {
+        "uf": "MA",
+        "valor": 651291.49
+      },
+      {
+        "uf": "PA",
+        "valor": 642423.71
+      },
+      {
+        "uf": "GO",
+        "valor": 623242.16
+      },
+      {
+        "uf": "PB",
+        "valor": 618606.72
+      }
+    ],
+    "agentesConsiderados": 485
+  }
+}

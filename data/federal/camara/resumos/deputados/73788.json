@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 73788,
-    "geradoEm": "2026-03-05T09:18:30.981042Z",
+    "geradoEm": "2026-03-05T10:33:45.146915Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,27 +13,28 @@
     "partido": "PP",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/73788.jpg",
     "totaisMandato": {
-      "total": 830.24,
-      "qtdLancamentos": 1,
+      "total": 387548.15,
+      "qtdLancamentos": 286,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 0.0,
+        "COMBUSTIVEL": 9735.26,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 0.0,
-        "DIVULGACAO": 0.0,
-        "ESCRITORIO": 830.24,
+        "CORREIOS_TELEFONIA": 6587.59,
+        "DIVULGACAO": 175823.79,
+        "ESCRITORIO": 63314.15,
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
-        "PASSAGENS": 0.0
+        "PASSAGENS": 132087.36
       },
-      "qtdSemDocumentoPdf": 0,
-      "valorSemDocumentoPdf": 0.0,
-      "qtdRecibosOutros": 0,
-      "valorRecibosOutros": 0.0
+      "qtdSemDocumentoPdf": 250,
+      "valorSemDocumentoPdf": 140222.64,
+      "qtdRecibosOutros": 9,
+      "valorRecibosOutros": 53750.16
     },
     "totaisAno": {
       "2023": 830.24,
-      "2024": 0.0
+      "2024": 0.0,
+      "2025": 386717.91
     },
     "porMes": {
       "2023-01": 0.0,
@@ -59,12 +60,24 @@
       "2024-09": 0.0,
       "2024-10": 0.0,
       "2024-11": 0.0,
-      "2024-12": 0.0
+      "2024-12": 0.0,
+      "2025-01": 0.0,
+      "2025-02": 0.0,
+      "2025-03": 19222.74,
+      "2025-04": 33081.98,
+      "2025-05": 47140.15,
+      "2025-06": 42750.96,
+      "2025-07": 32141.78,
+      "2025-08": 33340.79,
+      "2025-09": 30333.89,
+      "2025-10": 40647.72,
+      "2025-11": 35847.97,
+      "2025-12": 72209.93
     },
     "maiorCategoria": {
-      "categoria": "ESCRITORIO",
-      "valor": 830.24,
-      "pct": 100.0
+      "categoria": "DIVULGACAO",
+      "valor": 175823.79,
+      "pct": 45.37
     }
   }
 }

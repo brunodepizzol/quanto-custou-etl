@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 2
+    },
+    "geradoEm": "2026-03-05T09:43:15.115527Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 61096.79,
+      "qtdLancamentos": 9,
+      "qtdSemDocumentoPdf": 8
+    },
+    {
+      "id": 220661,
+      "nome": "Matheus Noronha",
+      "uf": "CE",
+      "partido": "PL",
+      "valor": 49857.07,
+      "qtdLancamentos": 35,
+      "qtdSemDocumentoPdf": 30
+    },
+    {
+      "id": 73441,
+      "nome": "Celso Russomanno",
+      "uf": "SP",
+      "partido": "REPUBLICANOS",
+      "valor": 47666.97,
+      "qtdLancamentos": 84,
+      "qtdSemDocumentoPdf": 57
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 40009.22,
+      "qtdLancamentos": 25,
+      "qtdSemDocumentoPdf": 24
+    },
+    {
+      "id": 220657,
+      "nome": "André Fernandes",
+      "uf": "CE",
+      "partido": "PL",
+      "valor": 39547.21,
+      "qtdLancamentos": 47,
+      "qtdSemDocumentoPdf": 46
+    },
+    {
+      "id": 220667,
+      "nome": "Pedro Campos",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 38383.13,
+      "qtdLancamentos": 65,
+      "qtdSemDocumentoPdf": 49
+    },
+    {
+      "id": 141458,
+      "nome": "João Carlos Bacelar",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 38223.0,
+      "qtdLancamentos": 38,
+      "qtdSemDocumentoPdf": 36
+    },
+    {
+      "id": 204427,
+      "nome": "Fernando Rodolfo",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 35855.34,
+      "qtdLancamentos": 50,
+      "qtdSemDocumentoPdf": 46
+    },
+    {
+      "id": 220712,
+      "nome": "Fausto Jr.",
+      "uf": "AM",
+      "partido": "UNIÃO",
+      "valor": 34639.53,
+      "qtdLancamentos": 39,
+      "qtdSemDocumentoPdf": 37
+    },
+    {
+      "id": 178895,
+      "nome": "Misael Varella",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 31926.06,
+      "qtdLancamentos": 11,
+      "qtdSemDocumentoPdf": 6
+    }
+  ]
+}
