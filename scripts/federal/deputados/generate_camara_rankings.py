@@ -425,10 +425,15 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
     total_geral = 0.0
     soma_cat = {c: 0.0 for c in cats}
     soma_uf: Dict[str, float] = {}
+    total_lancamentos = 0
 
     ativos = [r for r in rows if (r["totais"]["qtdLancamentos"] > 0 or r["totais"]["total"] > 0)]
+    base_agentes = len(rows)
+    com_gasto_agentes = len(ativos)
+    sem_gasto_agentes = max(0, base_agentes - com_gasto_agentes)
     for r in ativos:
         total_geral += float(r["totais"]["total"])
+        total_lancamentos += int(r["totais"]["qtdLancamentos"])
         uf = r.get("uf") or "?"
         soma_uf[uf] = soma_uf.get(uf, 0.0) + float(r["totais"]["total"])
         for c in cats:
@@ -451,7 +456,7 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
         key=lambda x: x["valor"],
         reverse=True
     )
-    top_n = 4
+    top_n = 8
     top_n_list = [{"categoriaQC": x["categoriaQC"], "valor": round(x["valor"], 2)} for x in top_cats_raw[:top_n]]
     soma_top_n = sum(float(x["valor"]) for x in top_cats_raw[:top_n])
     resto = max(0.0, float(total_geral) - float(soma_top_n))
@@ -463,13 +468,19 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
         reverse=True
     )[:12]
 
+    # Insight helpers (não quebram contrato antigo de kpis)
+    top10_total = sum(float(r["totais"]["total"]) for r in sorted(ativos, key=lambda x: float(x["totais"]["total"]), reverse=True)[:10])
+    top10_pct = (top10_total / total_geral * 100.0) if total_geral > 0 else 0.0
+    media_por_agente = (total_geral / com_gasto_agentes) if com_gasto_agentes > 0 else 0.0
+    media_por_lancamento = (total_geral / total_lancamentos) if total_lancamentos > 0 else 0.0
+
     return {
         "meta": {
             "tipo": "overview",
             "escopo": "federal/camara",
             "periodo": periodo_meta,
             "geradoEm": now_iso(),
-            "versaoSchema": "1.0.0",
+            "versaoSchema": "1.1.0",
             "versaoCategoryMap": cmap.version
         },
         "kpis": {
@@ -477,7 +488,37 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
             "top1Gasto": top1,
             "topCategorias": top_cats,
             "topUFs": top_ufs,
-            "agentesConsiderados": len(ativos)
+            "agentesConsiderados": com_gasto_agentes,
+            "agentesBase": base_agentes,
+            "agentesComGasto": com_gasto_agentes,
+            "agentesSemGasto": sem_gasto_agentes,
+            "totalLancamentos": int(total_lancamentos)
+        },
+        "insights": {
+            "gasto": {
+                "top1Gasto": top1
+            },
+            "categoria": {
+                "top8MaisDemais": top_cats
+            },
+            "uf": {
+                "topUFs": top_ufs
+            },
+            "concentracao": {
+                "top10Total": round(top10_total, 2),
+                "top10Percentual": round(top10_pct, 2)
+            },
+            "medias": {
+                "porAgenteComGasto": round(media_por_agente, 2),
+                "porLancamento": round(media_por_lancamento, 2)
+            },
+            "base": {
+                "agentesBase": base_agentes,
+                "agentesComGasto": com_gasto_agentes,
+                "agentesSemGasto": sem_gasto_agentes,
+                "totalLancamentos": int(total_lancamentos),
+                "totalGasto": round(total_geral, 2)
+            }
         }
     }
 

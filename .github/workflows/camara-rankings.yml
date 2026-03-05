@@ -17,8 +17,10 @@ on:
         default: "2023"
 
   schedule:
-    # Dia 1 de cada mês, 03:30 UTC
-    - cron: "30 3 1 * *"
+    # Daily refresh (current month of current year), 03:20 UTC
+    - cron: "20 3 * * *"
+    # Weekly full refresh YTD (1-current month), Sundays 03:40 UTC
+    - cron: "40 3 * * 0"
 
 jobs:
   build:
@@ -37,20 +39,29 @@ jobs:
 
       - name: Compute target year/month (scheduled)
         if: github.event_name == 'schedule'
+        env:
+          CRON_EXPR: ${{ github.event.schedule }}
         run: |
           python - << 'PY'
+          import os
           from datetime import datetime, timezone
           now = datetime.now(timezone.utc)
-          # mês anterior
           y = now.year
-          m = now.month - 1
-          if m == 0:
-            m = 12
-            y -= 1
+          m = now.month
+          cron_expr = (os.environ.get("CRON_EXPR") or "").strip()
+
+          if cron_expr == "40 3 * * 0":
+            months = f"1-{m}"
+            refresh_kind = "weekly_full_ytd"
+          else:
+            months = str(m)
+            refresh_kind = "daily_current_month"
+
           print(f"YEAR={y}")
-          print(f"MONTHS={m}")
+          print(f"MONTHS={months}")
+          print(f"REFRESH_KIND={refresh_kind}")
           with open("env.txt","w",encoding="utf-8") as f:
-            f.write(f"YEAR={y}\nMONTHS={m}\n")
+            f.write(f"YEAR={y}\nMONTHS={months}\nREFRESH_KIND={refresh_kind}\n")
           PY
 
       - name: Generate data (manual)
@@ -73,6 +84,7 @@ jobs:
           MANDATE_START_YEAR: "2023"
         run: |
           cat env.txt >> $GITHUB_ENV
+          echo "Scheduled refresh: ${REFRESH_KIND} (YEAR=${YEAR}, MONTHS=${MONTHS})"
           python scripts/federal/deputados/generate_camara_rankings.py
 
       - name: Commit and push
