@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 220700,
-    "geradoEm": "2026-03-05T12:35:40.584752Z",
+    "geradoEm": "2026-03-05T13:40:00.438600Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,26 +13,27 @@
     "partido": "PT",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220700.jpg",
     "totaisMandato": {
-      "total": 508531.67,
-      "qtdLancamentos": 194,
+      "total": 977225.62,
+      "qtdLancamentos": 390,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 0.0,
+        "COMBUSTIVEL": 14189.86,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 2363.88,
-        "DIVULGACAO": 177800.0,
-        "ESCRITORIO": 51293.27,
-        "HOSPEDAGEM": 0.0,
+        "CORREIOS_TELEFONIA": 2573.24,
+        "DIVULGACAO": 307000.0,
+        "ESCRITORIO": 109239.84,
+        "HOSPEDAGEM": 688.8,
         "OUTROS": 0.0,
-        "PASSAGENS": 277074.52
+        "PASSAGENS": 543533.88
       },
-      "qtdSemDocumentoPdf": 117,
-      "valorSemDocumentoPdf": 210805.06,
-      "qtdRecibosOutros": 31,
-      "valorRecibosOutros": 109108.62
+      "qtdSemDocumentoPdf": 228,
+      "valorSemDocumentoPdf": 337328.06,
+      "qtdRecibosOutros": 70,
+      "valorRecibosOutros": 310562.9
     },
     "totaisAno": {
-      "2023": 508531.67
+      "2023": 508531.67,
+      "2024": 468693.95
     },
     "porMes": {
       "2023-01": 0.0,
@@ -46,12 +47,24 @@
       "2023-09": 40632.94,
       "2023-10": 50288.93,
       "2023-11": 50281.81,
-      "2023-12": 48524.54
+      "2023-12": 48524.54,
+      "2024-01": 35732.58,
+      "2024-02": 36148.16,
+      "2024-03": 46915.72,
+      "2024-04": 29739.44,
+      "2024-05": 50399.6,
+      "2024-06": 28755.54,
+      "2024-07": 38482.28,
+      "2024-08": 34789.5,
+      "2024-09": 34886.31,
+      "2024-10": 40272.59,
+      "2024-11": 40650.93,
+      "2024-12": 51921.3
     },
     "maiorCategoria": {
       "categoria": "PASSAGENS",
-      "valor": 277074.52,
-      "pct": 54.49
+      "valor": 543533.88,
+      "pct": 55.62
     }
   }
 }

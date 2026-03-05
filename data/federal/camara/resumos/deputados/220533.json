@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 220533,
-    "geradoEm": "2026-03-05T12:35:40.619012Z",
+    "geradoEm": "2026-03-05T13:40:00.485437Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,26 +13,27 @@
     "partido": "PV",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220533.jpg",
     "totaisMandato": {
-      "total": 147137.82,
-      "qtdLancamentos": 245,
+      "total": 581545.92,
+      "qtdLancamentos": 564,
       "porCategoria": {
-        "ALIMENTACAO": 7971.44,
-        "COMBUSTIVEL": 19008.33,
+        "ALIMENTACAO": 19677.83,
+        "COMBUSTIVEL": 47200.15,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 3307.56,
-        "DIVULGACAO": 0.0,
-        "ESCRITORIO": 54267.99,
+        "CORREIOS_TELEFONIA": 4639.39,
+        "DIVULGACAO": 166680.56,
+        "ESCRITORIO": 188331.89,
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
-        "PASSAGENS": 62582.5
+        "PASSAGENS": 155016.1
       },
-      "qtdSemDocumentoPdf": 225,
-      "valorSemDocumentoPdf": 34555.32,
-      "qtdRecibosOutros": 20,
-      "valorRecibosOutros": 112582.5
+      "qtdSemDocumentoPdf": 489,
+      "valorSemDocumentoPdf": 107437.08,
+      "qtdRecibosOutros": 55,
+      "valorRecibosOutros": 317574.22
     },
     "totaisAno": {
-      "2023": 147137.82
+      "2023": 147137.82,
+      "2024": 434408.1
     },
     "porMes": {
       "2023-01": 0.0,
@@ -46,12 +47,24 @@
       "2023-09": 18008.52,
       "2023-10": 22912.91,
       "2023-11": 22164.15,
-      "2023-12": 21013.78
+      "2023-12": 21013.78,
+      "2024-01": 19250.26,
+      "2024-02": 22959.88,
+      "2024-03": 31274.92,
+      "2024-04": 39768.88,
+      "2024-05": 41542.32,
+      "2024-06": 24890.78,
+      "2024-07": 43866.26,
+      "2024-08": 33911.41,
+      "2024-09": 42788.01,
+      "2024-10": 58627.35,
+      "2024-11": 72691.67,
+      "2024-12": 2836.36
     },
     "maiorCategoria": {
-      "categoria": "PASSAGENS",
-      "valor": 62582.5,
-      "pct": 42.53
+      "categoria": "ESCRITORIO",
+      "valor": 188331.89,
+      "pct": 32.38
     }
   }
 }
