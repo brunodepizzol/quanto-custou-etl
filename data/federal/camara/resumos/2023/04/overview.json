@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 4
+    },
+    "geradoEm": "2026-03-04T23:49:41.384077Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 16474373.87,
+    "top1Gasto": {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 123484.61
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 6247049.6
+      },
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 5813691.9
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2424912.82
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1472112.88
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 516606.67
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 1835708.59
+      },
+      {
+        "uf": "MG",
+        "valor": 1755988.53
+      },
+      {
+        "uf": "BA",
+        "valor": 1310122.54
+      },
+      {
+        "uf": "RJ",
+        "valor": 1295007.33
+      },
+      {
+        "uf": "RS",
+        "valor": 1084905.8
+      },
+      {
+        "uf": "PR",
+        "valor": 979054.53
+      },
+      {
+        "uf": "PE",
+        "valor": 816807.67
+      },
+      {
+        "uf": "CE",
+        "valor": 640388.98
+      },
+      {
+        "uf": "GO",
+        "valor": 557540.99
+      },
+      {
+        "uf": "PA",
+        "valor": 550458.1
+      },
+      {
+        "uf": "MA",
+        "valor": 515182.92
+      },
+      {
+        "uf": "PB",
+        "valor": 504032.92
+      }
+    ],
+    "agentesConsiderados": 465
+  }
+}

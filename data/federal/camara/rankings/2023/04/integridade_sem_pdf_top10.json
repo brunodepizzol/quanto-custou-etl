@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 4
+    },
+    "geradoEm": "2026-03-04T23:49:41.377871Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 220685,
+      "nome": "Paulo Litro",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 48413.88,
+      "qtdLancamentos": 39,
+      "qtdSemDocumentoPdf": 32
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 46779.86,
+      "qtdLancamentos": 10,
+      "qtdSemDocumentoPdf": 7
+    },
+    {
+      "id": 204395,
+      "nome": "Pedro Lupion",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 39620.76,
+      "qtdLancamentos": 40,
+      "qtdSemDocumentoPdf": 33
+    },
+    {
+      "id": 74356,
+      "nome": "Silas Câmara",
+      "uf": "AM",
+      "partido": "REPUBLICANOS",
+      "valor": 37927.07,
+      "qtdLancamentos": 8,
+      "qtdSemDocumentoPdf": 8
+    },
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 37223.81,
+      "qtdLancamentos": 31,
+      "qtdSemDocumentoPdf": 25
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 30778.1,
+      "qtdLancamentos": 30,
+      "qtdSemDocumentoPdf": 27
+    },
+    {
+      "id": 74537,
+      "nome": "Claudio Cajado",
+      "uf": "BA",
+      "partido": "PP",
+      "valor": 30539.36,
+      "qtdLancamentos": 64,
+      "qtdSemDocumentoPdf": 47
+    },
+    {
+      "id": 220677,
+      "nome": "Keniston Braga",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 29631.44,
+      "qtdLancamentos": 30,
+      "qtdSemDocumentoPdf": 26
+    },
+    {
+      "id": 178943,
+      "nome": "Marcos Soares",
+      "uf": "RJ",
+      "partido": "UNIÃO",
+      "valor": 29194.13,
+      "qtdLancamentos": 43,
+      "qtdSemDocumentoPdf": 28
+    },
+    {
+      "id": 74075,
+      "nome": "Elcione Barbalho",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 28857.18,
+      "qtdLancamentos": 28,
+      "qtdSemDocumentoPdf": 24
+    }
+  ]
+}

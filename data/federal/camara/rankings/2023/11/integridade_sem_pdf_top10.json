@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 11
+    },
+    "geradoEm": "2026-03-05T00:22:22.628966Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 220557,
+      "nome": "Daniela Reinehr",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 46538.93,
+      "qtdLancamentos": 132,
+      "qtdSemDocumentoPdf": 104
+    },
+    {
+      "id": 220584,
+      "nome": "Murilo Galdino",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 44913.66,
+      "qtdLancamentos": 47,
+      "qtdSemDocumentoPdf": 41
+    },
+    {
+      "id": 160642,
+      "nome": "Pastor Eurico",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 44825.23,
+      "qtdLancamentos": 63,
+      "qtdSemDocumentoPdf": 48
+    },
+    {
+      "id": 204351,
+      "nome": "Dr. Luiz Ovando",
+      "uf": "MS",
+      "partido": "PP",
+      "valor": 37845.39,
+      "qtdLancamentos": 72,
+      "qtdSemDocumentoPdf": 47
+    },
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 36130.38,
+      "qtdLancamentos": 25,
+      "qtdSemDocumentoPdf": 23
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 35879.71,
+      "qtdLancamentos": 20,
+      "qtdSemDocumentoPdf": 17
+    },
+    {
+      "id": 74161,
+      "nome": "Reginaldo Lopes",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 34333.61,
+      "qtdLancamentos": 56,
+      "qtdSemDocumentoPdf": 51
+    },
+    {
+      "id": 220554,
+      "nome": "Alexandre Lindenmeyer",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 34314.98,
+      "qtdLancamentos": 212,
+      "qtdSemDocumentoPdf": 85
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 34277.87,
+      "qtdLancamentos": 77,
+      "qtdSemDocumentoPdf": 54
+    },
+    {
+      "id": 220672,
+      "nome": "Henderson Pinto",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 33921.47,
+      "qtdLancamentos": 62,
+      "qtdSemDocumentoPdf": 50
+    }
+  ]
+}

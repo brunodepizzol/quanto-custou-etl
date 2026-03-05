@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "geradoEm": "2026-03-05T00:26:54.798923Z",
+    "versaoSchema": "1.0.0"
+  },
+  "datasets": [
+    {
+      "id": "federal/camara",
+      "descricao": "Rankings e resumos (Deputados Federais) gerados a partir da API da Câmara",
+      "mandatoInicioAno": 2023,
+      "pathCategoryMap": "federal/camara/mapping/categoria/category_map.json",
+      "pathCategoryMapSource": "mapping/federal/deputados/category_map.json"
+    }
+  ]
+}

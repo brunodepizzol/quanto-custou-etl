@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 10
+    },
+    "geradoEm": "2026-03-05T00:17:41.805468Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 21287951.22,
+    "top1Gasto": {
+      "id": 220692,
+      "nome": "Dal Barreto",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 179616.16
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 8347001.61
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 7782253.86
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2798158.23
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1831693.33
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 528844.19
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2651913.89
+      },
+      {
+        "uf": "MG",
+        "valor": 2052148.5
+      },
+      {
+        "uf": "BA",
+        "valor": 1951044.64
+      },
+      {
+        "uf": "RJ",
+        "valor": 1745162.18
+      },
+      {
+        "uf": "RS",
+        "valor": 1319156.06
+      },
+      {
+        "uf": "PR",
+        "valor": 1297443.22
+      },
+      {
+        "uf": "PE",
+        "valor": 1105886.83
+      },
+      {
+        "uf": "PA",
+        "valor": 822704.55
+      },
+      {
+        "uf": "CE",
+        "valor": 811195.39
+      },
+      {
+        "uf": "PB",
+        "valor": 653982.36
+      },
+      {
+        "uf": "SC",
+        "valor": 645376.07
+      },
+      {
+        "uf": "MA",
+        "valor": 616812.79
+      }
+    ],
+    "agentesConsiderados": 470
+  }
+}
