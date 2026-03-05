@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 8
+    },
+    "geradoEm": "2026-03-05T12:16:32.572421Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 20682912.57,
+    "top1Gasto": {
+      "id": 160601,
+      "nome": "Pr. Marco Feliciano",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 164053.53
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 7953786.0
+      },
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7617210.31
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2757549.49
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1777344.82
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 577021.95
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2563005.76
+      },
+      {
+        "uf": "MG",
+        "valor": 2083814.23
+      },
+      {
+        "uf": "BA",
+        "valor": 1651888.76
+      },
+      {
+        "uf": "RJ",
+        "valor": 1598106.5
+      },
+      {
+        "uf": "RS",
+        "valor": 1358254.99
+      },
+      {
+        "uf": "PR",
+        "valor": 1279947.55
+      },
+      {
+        "uf": "PE",
+        "valor": 1090872.26
+      },
+      {
+        "uf": "CE",
+        "valor": 830035.94
+      },
+      {
+        "uf": "PB",
+        "valor": 638598.61
+      },
+      {
+        "uf": "PA",
+        "valor": 635217.88
+      },
+      {
+        "uf": "GO",
+        "valor": 628977.35
+      },
+      {
+        "uf": "SC",
+        "valor": 628579.28
+      }
+    ],
+    "agentesConsiderados": 466
+  }
+}

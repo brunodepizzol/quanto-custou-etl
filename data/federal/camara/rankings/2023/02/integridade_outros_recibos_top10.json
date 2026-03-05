@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 2
+    },
+    "geradoEm": "2026-03-05T11:45:45.243688Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 28353.3,
+      "qtdLancamentos": 16,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 178908,
+      "nome": "Delegado Éder Mauro",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 28000.0,
+      "qtdLancamentos": 13,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 26942.87,
+      "qtdLancamentos": 48,
+      "qtdRecibosOutros": 7
+    },
+    {
+      "id": 160673,
+      "nome": "Giovani Cherini",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 26118.77,
+      "qtdLancamentos": 49,
+      "qtdRecibosOutros": 10
+    },
+    {
+      "id": 109429,
+      "nome": "Benes Leocádio",
+      "uf": "RN",
+      "partido": "UNIÃO",
+      "valor": 24343.71,
+      "qtdLancamentos": 40,
+      "qtdRecibosOutros": 6
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 23403.8,
+      "qtdLancamentos": 30,
+      "qtdRecibosOutros": 14
+    },
+    {
+      "id": 141555,
+      "nome": "Vinicius Carvalho",
+      "uf": "SP",
+      "partido": "REPUBLICANOS",
+      "valor": 23393.8,
+      "qtdLancamentos": 60,
+      "qtdRecibosOutros": 9
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 23250.84,
+      "qtdLancamentos": 40,
+      "qtdRecibosOutros": 8
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 23123.53,
+      "qtdLancamentos": 40,
+      "qtdRecibosOutros": 6
+    },
+    {
+      "id": 220633,
+      "nome": "Ricardo Salles",
+      "uf": "SP",
+      "partido": "NOVO",
+      "valor": 22400.0,
+      "qtdLancamentos": 27,
+      "qtdRecibosOutros": 5
+    }
+  ]
+}

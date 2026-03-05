@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 1
+    },
+    "geradoEm": "2026-03-05T11:41:08.421327Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 2004837.97,
+    "top1Gasto": {
+      "id": 204419,
+      "nome": "Glaustin da Fokus",
+      "uf": "GO",
+      "partido": "PODE",
+      "valor": 55402.94
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 834791.21
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 595464.06
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 365332.42
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 90200.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 119050.28
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "MG",
+        "valor": 224201.87
+      },
+      {
+        "uf": "SP",
+        "valor": 209789.03
+      },
+      {
+        "uf": "BA",
+        "valor": 207675.02
+      },
+      {
+        "uf": "RS",
+        "valor": 178780.2
+      },
+      {
+        "uf": "GO",
+        "valor": 157251.35
+      },
+      {
+        "uf": "RJ",
+        "valor": 116732.79
+      },
+      {
+        "uf": "PE",
+        "valor": 107159.27
+      },
+      {
+        "uf": "CE",
+        "valor": 100008.11
+      },
+      {
+        "uf": "PA",
+        "valor": 90770.82
+      },
+      {
+        "uf": "PR",
+        "valor": 85040.25
+      },
+      {
+        "uf": "PB",
+        "valor": 78315.41
+      },
+      {
+        "uf": "MT",
+        "valor": 75103.99
+      }
+    ],
+    "agentesConsiderados": 248
+  }
+}
