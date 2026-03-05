@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 8
+    },
+    "geradoEm": "2026-03-05T14:30:25.270199Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 160641,
+      "nome": "Professora Marcivania",
+      "uf": "AP",
+      "partido": "PCdoB",
+      "valor": 35961.05,
+      "qtdLancamentos": 9,
+      "qtdSemDocumentoPdf": 7
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 31553.52,
+      "qtdLancamentos": 30,
+      "qtdSemDocumentoPdf": 29
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 31467.59,
+      "qtdLancamentos": 6,
+      "qtdSemDocumentoPdf": 2
+    },
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 25728.8,
+      "qtdLancamentos": 4,
+      "qtdSemDocumentoPdf": 4
+    },
+    {
+      "id": 220591,
+      "nome": "Meire Serafim",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 25505.77,
+      "qtdLancamentos": 70,
+      "qtdSemDocumentoPdf": 67
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 22650.0,
+      "qtdLancamentos": 4,
+      "qtdSemDocumentoPdf": 1
+    },
+    {
+      "id": 220553,
+      "nome": "Denise Pessôa",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 21449.77,
+      "qtdLancamentos": 129,
+      "qtdSemDocumentoPdf": 53
+    },
+    {
+      "id": 220623,
+      "nome": "Duda Salabert",
+      "uf": "MG",
+      "partido": "PDT",
+      "valor": 17654.95,
+      "qtdLancamentos": 29,
+      "qtdSemDocumentoPdf": 14
+    },
+    {
+      "id": 160642,
+      "nome": "Pastor Eurico",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 16937.45,
+      "qtdLancamentos": 55,
+      "qtdSemDocumentoPdf": 53
+    },
+    {
+      "id": 160559,
+      "nome": "Alceu Moreira",
+      "uf": "RS",
+      "partido": "MDB",
+      "valor": 16834.71,
+      "qtdLancamentos": 83,
+      "qtdSemDocumentoPdf": 57
+    }
+  ]
+}

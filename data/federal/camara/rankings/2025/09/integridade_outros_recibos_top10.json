@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 9
+    },
+    "geradoEm": "2026-03-05T14:35:52.368359Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 31935.3,
+      "qtdLancamentos": 17,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 30700.27,
+      "qtdLancamentos": 57,
+      "qtdRecibosOutros": 9
+    },
+    {
+      "id": 220548,
+      "nome": "Camila Jara",
+      "uf": "MS",
+      "partido": "PT",
+      "valor": 30490.0,
+      "qtdLancamentos": 46,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 178963,
+      "nome": "Covatti Filho",
+      "uf": "RS",
+      "partido": "PP",
+      "valor": 29849.48,
+      "qtdLancamentos": 28,
+      "qtdRecibosOutros": 9
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 29214.0,
+      "qtdLancamentos": 9,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 204355,
+      "nome": "Da Vitoria",
+      "uf": "ES",
+      "partido": "PP",
+      "valor": 29149.77,
+      "qtdLancamentos": 22,
+      "qtdRecibosOutros": 10
+    },
+    {
+      "id": 74585,
+      "nome": "Lincoln Portela",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 28679.17,
+      "qtdLancamentos": 44,
+      "qtdRecibosOutros": 15
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 28519.05,
+      "qtdLancamentos": 23,
+      "qtdRecibosOutros": 9
+    },
+    {
+      "id": 178908,
+      "nome": "Delegado Éder Mauro",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 28000.0,
+      "qtdLancamentos": 14,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 204504,
+      "nome": "Cezinha de Madureira",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 27697.75,
+      "qtdLancamentos": 25,
+      "qtdRecibosOutros": 4
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 11
+    },
+    "geradoEm": "2026-03-05T14:46:52.054994Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 44510.96,
+      "qtdLancamentos": 6,
+      "qtdSemDocumentoPdf": 4
+    },
+    {
+      "id": 220591,
+      "nome": "Meire Serafim",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 42846.05,
+      "qtdLancamentos": 82,
+      "qtdSemDocumentoPdf": 77
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 40674.08,
+      "qtdLancamentos": 29,
+      "qtdSemDocumentoPdf": 28
+    },
+    {
+      "id": 204398,
+      "nome": "Felipe Francischini",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 40627.43,
+      "qtdLancamentos": 29,
+      "qtdSemDocumentoPdf": 21
+    },
+    {
+      "id": 220609,
+      "nome": "Maurício Carvalho",
+      "uf": "RO",
+      "partido": "UNIÃO",
+      "valor": 32256.08,
+      "qtdLancamentos": 44,
+      "qtdSemDocumentoPdf": 30
+    },
+    {
+      "id": 230765,
+      "nome": "Enfermeira Rejane",
+      "uf": "RJ",
+      "partido": "PCdoB",
+      "valor": 28870.82,
+      "qtdLancamentos": 13,
+      "qtdSemDocumentoPdf": 8
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 27232.66,
+      "qtdLancamentos": 5,
+      "qtdSemDocumentoPdf": 3
+    },
+    {
+      "id": 220604,
+      "nome": "Marcos Tavares",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 26856.72,
+      "qtdLancamentos": 35,
+      "qtdSemDocumentoPdf": 27
+    },
+    {
+      "id": 178895,
+      "nome": "Misael Varella",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 26057.71,
+      "qtdLancamentos": 14,
+      "qtdSemDocumentoPdf": 6
+    },
+    {
+      "id": 204379,
+      "nome": "Acácio Favacho",
+      "uf": "AP",
+      "partido": "MDB",
+      "valor": 22857.68,
+      "qtdLancamentos": 30,
+      "qtdSemDocumentoPdf": 25
+    }
+  ]
+}

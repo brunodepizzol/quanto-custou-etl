@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 2
+    },
+    "geradoEm": "2026-03-05T13:57:35.485353Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 205550,
+      "nome": "Jorge Braz",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 36607.98,
+      "qtdLancamentos": 28,
+      "qtdRecibosOutros": 5
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 29010.8,
+      "qtdLancamentos": 15,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 166402,
+      "nome": "Magda Mofatto",
+      "uf": "GO",
+      "partido": "PRD",
+      "valor": 28563.81,
+      "qtdLancamentos": 28,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 178908,
+      "nome": "Delegado Éder Mauro",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 28000.0,
+      "qtdLancamentos": 13,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 27587.5,
+      "qtdLancamentos": 38,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 27045.0,
+      "qtdLancamentos": 52,
+      "qtdRecibosOutros": 20
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 26976.17,
+      "qtdLancamentos": 45,
+      "qtdRecibosOutros": 7
+    },
+    {
+      "id": 74273,
+      "nome": "Jefferson Campos",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 26490.03,
+      "qtdLancamentos": 47,
+      "qtdRecibosOutros": 9
+    },
+    {
+      "id": 204494,
+      "nome": "Fred Costa",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 26466.78,
+      "qtdLancamentos": 47,
+      "qtdRecibosOutros": 6
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 25872.61,
+      "qtdLancamentos": 87,
+      "qtdRecibosOutros": 47
+    }
+  ]
+}

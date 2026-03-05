@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 11
+    },
+    "geradoEm": "2026-03-05T14:46:52.061890Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 18779311.04,
+    "top1Gasto": {
+      "id": 230768,
+      "nome": "Zé Adriano",
+      "uf": "AC",
+      "partido": "PP",
+      "valor": 113184.65
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 8540194.14
+      },
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 5102981.24
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2783742.18
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1738782.51
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 613610.97
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2317878.94
+      },
+      {
+        "uf": "MG",
+        "valor": 1816396.77
+      },
+      {
+        "uf": "RJ",
+        "valor": 1564040.82
+      },
+      {
+        "uf": "BA",
+        "valor": 1386270.19
+      },
+      {
+        "uf": "PR",
+        "valor": 1243190.27
+      },
+      {
+        "uf": "RS",
+        "valor": 1144977.85
+      },
+      {
+        "uf": "PE",
+        "valor": 1054175.01
+      },
+      {
+        "uf": "CE",
+        "valor": 678200.27
+      },
+      {
+        "uf": "MA",
+        "valor": 609994.47
+      },
+      {
+        "uf": "SC",
+        "valor": 567554.98
+      },
+      {
+        "uf": "PA",
+        "valor": 565625.83
+      },
+      {
+        "uf": "GO",
+        "valor": 510731.33
+      }
+    ],
+    "agentesConsiderados": 497
+  }
+}
