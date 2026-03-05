@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 12
+    },
+    "geradoEm": "2026-03-05T22:12:46.536315Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 220591,
+      "nome": "Meire Serafim",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 135324.95,
+      "qtdLancamentos": 32,
+      "qtdSemDocumentoPdf": 28
+    },
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 133921.68,
+      "qtdLancamentos": 33,
+      "qtdSemDocumentoPdf": 25
+    },
+    {
+      "id": 220707,
+      "nome": "Amanda Gentil",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 128897.84,
+      "qtdLancamentos": 25,
+      "qtdSemDocumentoPdf": 19
+    },
+    {
+      "id": 204462,
+      "nome": "Chris Tonietto",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 91865.21,
+      "qtdLancamentos": 203,
+      "qtdSemDocumentoPdf": 158
+    },
+    {
+      "id": 160512,
+      "nome": "Aureo Ribeiro",
+      "uf": "RJ",
+      "partido": "SOLIDARIEDADE",
+      "valor": 83589.51,
+      "qtdLancamentos": 18,
+      "qtdSemDocumentoPdf": 13
+    },
+    {
+      "id": 220560,
+      "nome": "Thiago de Joaldo",
+      "uf": "SE",
+      "partido": "PP",
+      "valor": 67652.66,
+      "qtdLancamentos": 32,
+      "qtdSemDocumentoPdf": 22
+    },
+    {
+      "id": 204445,
+      "nome": "Fernando Mineiro",
+      "uf": "RN",
+      "partido": "PT",
+      "valor": 63758.66,
+      "qtdLancamentos": 42,
+      "qtdSemDocumentoPdf": 25
+    },
+    {
+      "id": 220670,
+      "nome": "Iza Arruda",
+      "uf": "PE",
+      "partido": "MDB",
+      "valor": 61990.56,
+      "qtdLancamentos": 49,
+      "qtdSemDocumentoPdf": 44
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 58740.68,
+      "qtdLancamentos": 19,
+      "qtdSemDocumentoPdf": 17
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 47133.26,
+      "qtdLancamentos": 28,
+      "qtdSemDocumentoPdf": 27
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 5
+    },
+    "geradoEm": "2026-03-05T21:36:27.573722Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 18863887.26,
+    "top1Gasto": {
+      "id": 220700,
+      "nome": "Florentino Neto",
+      "uf": "PI",
+      "partido": "PT",
+      "valor": 116087.39
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 7490739.48
+      },
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 6636070.42
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2553237.51
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1634475.12
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 229816.81
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 222414.85
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 80533.07
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 16600.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2241081.6
+      },
+      {
+        "uf": "MG",
+        "valor": 1911979.75
+      },
+      {
+        "uf": "BA",
+        "valor": 1584843.24
+      },
+      {
+        "uf": "RJ",
+        "valor": 1532889.51
+      },
+      {
+        "uf": "RS",
+        "valor": 1196516.21
+      },
+      {
+        "uf": "PR",
+        "valor": 1079468.75
+      },
+      {
+        "uf": "PE",
+        "valor": 973664.35
+      },
+      {
+        "uf": "PA",
+        "valor": 817141.57
+      },
+      {
+        "uf": "CE",
+        "valor": 727938.65
+      },
+      {
+        "uf": "PI",
+        "valor": 597455.36
+      },
+      {
+        "uf": "GO",
+        "valor": 566201.03
+      },
+      {
+        "uf": "SC",
+        "valor": 552674.34
+      }
+    ],
+    "agentesConsiderados": 465,
+    "agentesBase": 513,
+    "agentesComGasto": 465,
+    "agentesSemGasto": 48,
+    "totalLancamentos": 18898
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 220700,
+        "nome": "Florentino Neto",
+        "uf": "PI",
+        "partido": "PT",
+        "valor": 116087.39
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "PASSAGENS",
+          "valor": 7490739.48
+        },
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 6636070.42
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 2553237.51
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1634475.12
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 229816.81
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 222414.85
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 80533.07
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 16600.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2241081.6
+        },
+        {
+          "uf": "MG",
+          "valor": 1911979.75
+        },
+        {
+          "uf": "BA",
+          "valor": 1584843.24
+        },
+        {
+          "uf": "RJ",
+          "valor": 1532889.51
+        },
+        {
+          "uf": "RS",
+          "valor": 1196516.21
+        },
+        {
+          "uf": "PR",
+          "valor": 1079468.75
+        },
+        {
+          "uf": "PE",
+          "valor": 973664.35
+        },
+        {
+          "uf": "PA",
+          "valor": 817141.57
+        },
+        {
+          "uf": "CE",
+          "valor": 727938.65
+        },
+        {
+          "uf": "PI",
+          "valor": 597455.36
+        },
+        {
+          "uf": "GO",
+          "valor": 566201.03
+        },
+        {
+          "uf": "SC",
+          "valor": 552674.34
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 875540.89,
+      "top10Percentual": 4.64
+    },
+    "medias": {
+      "porAgenteComGasto": 40567.5,
+      "porLancamento": 998.19
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 465,
+      "agentesSemGasto": 48,
+      "totalLancamentos": 18898,
+      "totalGasto": 18863887.26
+    }
+  }
+}

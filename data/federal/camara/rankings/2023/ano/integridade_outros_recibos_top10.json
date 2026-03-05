@@ -1,0 +1,123 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2023,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "geradoEm": "2026-03-05T22:12:46.605277Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 298451.17,
+      "qtdLancamentos": 192,
+      "qtdRecibosOutros": 22
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 287479.86,
+      "qtdLancamentos": 470,
+      "qtdRecibosOutros": 43
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 284507.04,
+      "qtdLancamentos": 398,
+      "qtdRecibosOutros": 164
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 275369.68,
+      "qtdLancamentos": 476,
+      "qtdRecibosOutros": 100
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 251700.98,
+      "qtdLancamentos": 646,
+      "qtdRecibosOutros": 191
+    },
+    {
+      "id": 178908,
+      "nome": "Delegado Éder Mauro",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 249527.23,
+      "qtdLancamentos": 121,
+      "qtdRecibosOutros": 35
+    },
+    {
+      "id": 178933,
+      "nome": "Sergio Souza",
+      "uf": "PR",
+      "partido": "MDB",
+      "valor": 247192.52,
+      "qtdLancamentos": 817,
+      "qtdRecibosOutros": 266
+    },
+    {
+      "id": 160553,
+      "nome": "Antonio Brito",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 245451.18,
+      "qtdLancamentos": 636,
+      "qtdRecibosOutros": 100
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 239284.6,
+      "qtdLancamentos": 393,
+      "qtdRecibosOutros": 92
+    },
+    {
+      "id": 204426,
+      "nome": "Carlos Veras",
+      "uf": "PE",
+      "partido": "PT",
+      "valor": 236773.29,
+      "qtdLancamentos": 912,
+      "qtdRecibosOutros": 226
+    }
+  ]
+}

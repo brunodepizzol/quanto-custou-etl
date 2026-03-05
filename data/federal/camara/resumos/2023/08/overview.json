@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 8
+    },
+    "geradoEm": "2026-03-05T21:52:09.575254Z",
+    "versaoSchema": "1.1.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 20682912.57,
+    "top1Gasto": {
+      "id": 160601,
+      "nome": "Pr. Marco Feliciano",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 164053.53
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "PASSAGENS",
+        "valor": 7953786.0
+      },
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7617210.31
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2757549.49
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1777344.82
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 260599.29
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 234382.72
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 82039.94
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 0.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2563005.76
+      },
+      {
+        "uf": "MG",
+        "valor": 2083814.23
+      },
+      {
+        "uf": "BA",
+        "valor": 1651888.76
+      },
+      {
+        "uf": "RJ",
+        "valor": 1598106.5
+      },
+      {
+        "uf": "RS",
+        "valor": 1358254.99
+      },
+      {
+        "uf": "PR",
+        "valor": 1279947.55
+      },
+      {
+        "uf": "PE",
+        "valor": 1090872.26
+      },
+      {
+        "uf": "CE",
+        "valor": 830035.94
+      },
+      {
+        "uf": "PB",
+        "valor": 638598.61
+      },
+      {
+        "uf": "PA",
+        "valor": 635217.88
+      },
+      {
+        "uf": "GO",
+        "valor": 628977.35
+      },
+      {
+        "uf": "SC",
+        "valor": 628579.28
+      }
+    ],
+    "agentesConsiderados": 466,
+    "agentesBase": 513,
+    "agentesComGasto": 466,
+    "agentesSemGasto": 47,
+    "totalLancamentos": 20710
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 160601,
+        "nome": "Pr. Marco Feliciano",
+        "uf": "SP",
+        "partido": "PL",
+        "valor": 164053.53
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "PASSAGENS",
+          "valor": 7953786.0
+        },
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 7617210.31
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 2757549.49
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1777344.82
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 260599.29
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 234382.72
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 82039.94
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 0.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2563005.76
+        },
+        {
+          "uf": "MG",
+          "valor": 2083814.23
+        },
+        {
+          "uf": "BA",
+          "valor": 1651888.76
+        },
+        {
+          "uf": "RJ",
+          "valor": 1598106.5
+        },
+        {
+          "uf": "RS",
+          "valor": 1358254.99
+        },
+        {
+          "uf": "PR",
+          "valor": 1279947.55
+        },
+        {
+          "uf": "PE",
+          "valor": 1090872.26
+        },
+        {
+          "uf": "CE",
+          "valor": 830035.94
+        },
+        {
+          "uf": "PB",
+          "valor": 638598.61
+        },
+        {
+          "uf": "PA",
+          "valor": 635217.88
+        },
+        {
+          "uf": "GO",
+          "valor": 628977.35
+        },
+        {
+          "uf": "SC",
+          "valor": 628579.28
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 1078864.24,
+      "top10Percentual": 5.22
+    },
+    "medias": {
+      "porAgenteComGasto": 44383.93,
+      "porLancamento": 998.69
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 466,
+      "agentesSemGasto": 47,
+      "totalLancamentos": 20710,
+      "totalGasto": 20682912.57
+    }
+  }
+}

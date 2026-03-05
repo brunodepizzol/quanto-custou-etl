@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 7
+    },
+    "geradoEm": "2026-03-05T21:46:58.823394Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 60652.22,
+      "qtdLancamentos": 11,
+      "qtdSemDocumentoPdf": 11
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 39970.92,
+      "qtdLancamentos": 22,
+      "qtdSemDocumentoPdf": 22
+    },
+    {
+      "id": 204398,
+      "nome": "Felipe Francischini",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 38838.63,
+      "qtdLancamentos": 29,
+      "qtdSemDocumentoPdf": 24
+    },
+    {
+      "id": 204395,
+      "nome": "Pedro Lupion",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 38209.68,
+      "qtdLancamentos": 30,
+      "qtdSemDocumentoPdf": 20
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 35817.9,
+      "qtdLancamentos": 32,
+      "qtdSemDocumentoPdf": 28
+    },
+    {
+      "id": 74262,
+      "nome": "Carlos Sampaio",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 35025.14,
+      "qtdLancamentos": 59,
+      "qtdSemDocumentoPdf": 51
+    },
+    {
+      "id": 204559,
+      "nome": "Zé Neto",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 34202.25,
+      "qtdLancamentos": 51,
+      "qtdSemDocumentoPdf": 34
+    },
+    {
+      "id": 160518,
+      "nome": "Weliton Prado",
+      "uf": "MG",
+      "partido": "SOLIDARIEDADE",
+      "valor": 33215.88,
+      "qtdLancamentos": 19,
+      "qtdSemDocumentoPdf": 7
+    },
+    {
+      "id": 160553,
+      "nome": "Antonio Brito",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 33142.1,
+      "qtdLancamentos": 64,
+      "qtdSemDocumentoPdf": 51
+    },
+    {
+      "id": 74858,
+      "nome": "Lindbergh Farias",
+      "uf": "RJ",
+      "partido": "PT",
+      "valor": 30506.93,
+      "qtdLancamentos": 41,
+      "qtdSemDocumentoPdf": 39
+    }
+  ]
+}

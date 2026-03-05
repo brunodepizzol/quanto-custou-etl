@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 10
+    },
+    "geradoEm": "2026-03-05T22:02:30.505582Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 178881,
+      "nome": "Aluisio Mendes",
+      "uf": "MA",
+      "partido": "REPUBLICANOS",
+      "valor": 46974.61,
+      "qtdLancamentos": 53,
+      "qtdRecibosOutros": 8
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 28460.5,
+      "qtdLancamentos": 37,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 178908,
+      "nome": "Delegado Éder Mauro",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 28000.0,
+      "qtdLancamentos": 12,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 26060.11,
+      "qtdLancamentos": 94,
+      "qtdRecibosOutros": 7
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 25516.91,
+      "qtdLancamentos": 38,
+      "qtdRecibosOutros": 9
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 25497.08,
+      "qtdLancamentos": 36,
+      "qtdRecibosOutros": 12
+    },
+    {
+      "id": 204367,
+      "nome": "Daniel Freitas",
+      "uf": "SC",
+      "partido": "PL",
+      "valor": 24692.05,
+      "qtdLancamentos": 66,
+      "qtdRecibosOutros": 6
+    },
+    {
+      "id": 74273,
+      "nome": "Jefferson Campos",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 24341.15,
+      "qtdLancamentos": 43,
+      "qtdRecibosOutros": 5
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 24232.68,
+      "qtdLancamentos": 71,
+      "qtdRecibosOutros": 22
+    },
+    {
+      "id": 204409,
+      "nome": "Daniel Trzeciak",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 23923.11,
+      "qtdLancamentos": 51,
+      "qtdRecibosOutros": 7
+    }
+  ]
+}
