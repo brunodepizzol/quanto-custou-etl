@@ -5,10 +5,10 @@
     "periodo": {
       "tipo": "mandato",
       "inicioAno": 2023,
-      "fimAno": 2025,
-      "totalMesesIncluidos": 36
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48
     },
-    "geradoEm": "2026-03-06T13:45:07.758929Z",
+    "geradoEm": "2026-03-06T15:05:44.598345Z",
     "versaoSchema": "1.0.0",
     "versaoCategoryMap": "1.0.0",
     "criterio": {
@@ -17,44 +17,36 @@
   },
   "itens": [
     {
+      "id": 222565,
+      "nome": "Soldado Noelio",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "valor": 2296.97,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 235088,
+      "nome": "Ribeiro Neto",
+      "uf": "MA",
+      "partido": "PRD",
+      "valor": 21466.05,
+      "qtdLancamentos": 17
+    },
+    {
       "id": 204531,
       "nome": "Guilherme Derrite",
       "uf": "SP",
       "partido": "PP",
-      "valor": 11272.17,
-      "qtdLancamentos": 8
+      "valor": 22094.89,
+      "qtdLancamentos": 12
     },
     {
       "id": 234788,
       "nome": "Heloísa Helena",
       "uf": "RJ",
       "partido": "REDE",
-      "valor": 15194.4,
-      "qtdLancamentos": 2
-    },
-    {
-      "id": 77003,
-      "nome": "Sergio Santos Rodrigues",
-      "uf": "MG",
-      "partido": "PODE",
-      "valor": 15476.53,
-      "qtdLancamentos": 19
-    },
-    {
-      "id": 234673,
-      "nome": "Vanderlan Alves",
-      "uf": "CE",
-      "partido": "REPUBLICANOS",
-      "valor": 39005.2,
-      "qtdLancamentos": 26
-    },
-    {
-      "id": 234310,
-      "nome": "Ricardo Galvão",
-      "uf": "SP",
-      "partido": "REDE",
-      "valor": 49460.68,
-      "qtdLancamentos": 20
+      "valor": 40023.8,
+      "qtdLancamentos": 4
     },
     {
       "id": 234253,
@@ -65,12 +57,28 @@
       "qtdLancamentos": 5
     },
     {
-      "id": 73808,
-      "nome": "Sérgio Brito",
-      "uf": "BA",
-      "partido": "PSD",
-      "valor": 83948.86,
-      "qtdLancamentos": 81
+      "id": 234310,
+      "nome": "Ricardo Galvão",
+      "uf": "SP",
+      "partido": "REDE",
+      "valor": 63894.24,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 77003,
+      "nome": "Sergio Santos Rodrigues",
+      "uf": "MG",
+      "partido": "PODE",
+      "valor": 82860.02,
+      "qtdLancamentos": 56
+    },
+    {
+      "id": 234673,
+      "nome": "Vanderlan Alves",
+      "uf": "CE",
+      "partido": "REPUBLICANOS",
+      "valor": 92288.63,
+      "qtdLancamentos": 77
     },
     {
       "id": 220715,
@@ -81,20 +89,12 @@
       "qtdLancamentos": 193
     },
     {
-      "id": 74065,
-      "nome": "Fatima Pelaes",
-      "uf": "AP",
-      "partido": "REPUBLICANOS",
-      "valor": 110034.36,
-      "qtdLancamentos": 10
-    },
-    {
-      "id": 227991,
-      "nome": "Dr Flávio",
-      "uf": "RJ",
-      "partido": "PL",
-      "valor": 149154.14,
-      "qtdLancamentos": 106
+      "id": 73808,
+      "nome": "Sérgio Brito",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 132588.26,
+      "qtdLancamentos": 111
     }
   ]
 }

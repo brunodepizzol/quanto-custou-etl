@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 1
+    },
+    "geradoEm": "2026-03-06T14:02:05.591119Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 32356.5,
+      "qtdLancamentos": 14,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 166402,
+      "nome": "Magda Mofatto",
+      "uf": "GO",
+      "partido": "PRD",
+      "valor": 31799.4,
+      "qtdLancamentos": 19,
+      "qtdRecibosOutros": 1
+    },
+    {
+      "id": 220628,
+      "nome": "Mauricio do Vôlei",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 30000.0,
+      "qtdLancamentos": 31,
+      "qtdRecibosOutros": 1
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 29080.39,
+      "qtdLancamentos": 13,
+      "qtdRecibosOutros": 5
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 28890.83,
+      "qtdLancamentos": 20,
+      "qtdRecibosOutros": 7
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 27155.15,
+      "qtdLancamentos": 17,
+      "qtdRecibosOutros": 6
+    },
+    {
+      "id": 220642,
+      "nome": "Delegado Bruno Lima",
+      "uf": "SP",
+      "partido": "PP",
+      "valor": 26110.9,
+      "qtdLancamentos": 8,
+      "qtdRecibosOutros": 3
+    },
+    {
+      "id": 74585,
+      "nome": "Lincoln Portela",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 25628.56,
+      "qtdLancamentos": 17,
+      "qtdRecibosOutros": 14
+    },
+    {
+      "id": 74273,
+      "nome": "Jefferson Campos",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 25466.83,
+      "qtdLancamentos": 20,
+      "qtdRecibosOutros": 6
+    },
+    {
+      "id": 221328,
+      "nome": "Adilson Barroso",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 24450.0,
+      "qtdLancamentos": 12,
+      "qtdRecibosOutros": 3
+    }
+  ]
+}

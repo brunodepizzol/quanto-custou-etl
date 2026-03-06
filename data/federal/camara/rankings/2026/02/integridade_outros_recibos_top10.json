@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 2
+    },
+    "geradoEm": "2026-03-06T14:07:52.732060Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 32284.7,
+      "qtdLancamentos": 8,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 220628,
+      "nome": "Mauricio do Vôlei",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 30000.0,
+      "qtdLancamentos": 16,
+      "qtdRecibosOutros": 1
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 29095.05,
+      "qtdLancamentos": 13,
+      "qtdRecibosOutros": 5
+    },
+    {
+      "id": 220642,
+      "nome": "Delegado Bruno Lima",
+      "uf": "SP",
+      "partido": "PP",
+      "valor": 26110.9,
+      "qtdLancamentos": 11,
+      "qtdRecibosOutros": 3
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 24551.64,
+      "qtdLancamentos": 35,
+      "qtdRecibosOutros": 15
+    },
+    {
+      "id": 204504,
+      "nome": "Cezinha de Madureira",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 23131.06,
+      "qtdLancamentos": 14,
+      "qtdRecibosOutros": 3
+    },
+    {
+      "id": 221328,
+      "nome": "Adilson Barroso",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 22450.0,
+      "qtdLancamentos": 23,
+      "qtdRecibosOutros": 3
+    },
+    {
+      "id": 74270,
+      "nome": "Gilberto Nascimento",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 22083.26,
+      "qtdLancamentos": 7,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 74537,
+      "nome": "Claudio Cajado",
+      "uf": "BA",
+      "partido": "PP",
+      "valor": 21670.4,
+      "qtdLancamentos": 17,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 204512,
+      "nome": "Delegado Marcelo Freitas",
+      "uf": "MG",
+      "partido": "UNIÃO",
+      "valor": 21175.0,
+      "qtdLancamentos": 33,
+      "qtdRecibosOutros": 5
+    }
+  ]
+}
