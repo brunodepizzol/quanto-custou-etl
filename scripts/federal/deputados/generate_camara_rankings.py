@@ -156,7 +156,7 @@ def build_metodologia_global() -> dict:
         }
     }
 
-def build_metodologia_scope_camara(cmap: CategoryMap, mandate_start_year: int) -> dict:
+def build_metodologia_scope_camara(cmap: "CategoryMap", mandate_start_year: int) -> dict:
     return {
         "meta": {
             "id": "metodologia_scope_federal_camara",
@@ -240,7 +240,7 @@ def build_metodologia_scope_camara(cmap: CategoryMap, mandate_start_year: int) -
         ]
     }
 
-def write_metodologia_docs(out_dir: Path, cmap: CategoryMap, mandate_start_year: int) -> None:
+def write_metodologia_docs(out_dir: Path, cmap: "CategoryMap", mandate_start_year: int) -> None:
     write_json(out_dir / "metodologia.json", build_metodologia_global())
     write_json(out_dir / "federal/camara/metodologia_scope.json", build_metodologia_scope_camara(cmap, mandate_start_year))
 
