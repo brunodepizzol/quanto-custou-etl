@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 6
+    },
+    "geradoEm": "2026-03-06T13:16:19.854259Z",
+    "versaoSchema": "1.2.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 20606653.85,
+    "top1Gasto": {
+      "id": 141408,
+      "nome": "Cleber Verde",
+      "uf": "MA",
+      "partido": "MDB",
+      "valor": 119849.92
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7846082.12
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 7309170.95
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2978767.18
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1872705.12
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 366074.07
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 172840.7
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 51868.1
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 9145.61
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2562352.26
+      },
+      {
+        "uf": "MG",
+        "valor": 2258184.1
+      },
+      {
+        "uf": "RJ",
+        "valor": 1732307.95
+      },
+      {
+        "uf": "BA",
+        "valor": 1485746.69
+      },
+      {
+        "uf": "RS",
+        "valor": 1365480.73
+      },
+      {
+        "uf": "PR",
+        "valor": 1335058.11
+      },
+      {
+        "uf": "PE",
+        "valor": 1089795.59
+      },
+      {
+        "uf": "CE",
+        "valor": 827168.43
+      },
+      {
+        "uf": "MA",
+        "valor": 651291.49
+      },
+      {
+        "uf": "PA",
+        "valor": 642423.71
+      },
+      {
+        "uf": "GO",
+        "valor": 623242.16
+      },
+      {
+        "uf": "PB",
+        "valor": 618606.72
+      }
+    ],
+    "agentesConsiderados": 484,
+    "agentesBase": 513,
+    "agentesComGasto": 484,
+    "agentesSemGasto": 29,
+    "totalLancamentos": 17673
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 141408,
+        "nome": "Cleber Verde",
+        "uf": "MA",
+        "partido": "MDB",
+        "valor": 119849.92
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 7846082.12
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 7309170.95
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 2978767.18
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1872705.12
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 366074.07
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 172840.7
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 51868.1
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 9145.61
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2562352.26
+        },
+        {
+          "uf": "MG",
+          "valor": 2258184.1
+        },
+        {
+          "uf": "RJ",
+          "valor": 1732307.95
+        },
+        {
+          "uf": "BA",
+          "valor": 1485746.69
+        },
+        {
+          "uf": "RS",
+          "valor": 1365480.73
+        },
+        {
+          "uf": "PR",
+          "valor": 1335058.11
+        },
+        {
+          "uf": "PE",
+          "valor": 1089795.59
+        },
+        {
+          "uf": "CE",
+          "valor": 827168.43
+        },
+        {
+          "uf": "MA",
+          "valor": 651291.49
+        },
+        {
+          "uf": "PA",
+          "valor": 642423.71
+        },
+        {
+          "uf": "GO",
+          "valor": 623242.16
+        },
+        {
+          "uf": "PB",
+          "valor": 618606.72
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 831024.97,
+      "top10Percentual": 4.03
+    },
+    "medias": {
+      "porAgenteComGasto": 42575.73,
+      "porLancamento": 1166.0
+    },
+    "diario": {
+      "dataReferencia": "2025-09-25",
+      "deputado": {
+        "id": 204379,
+        "nome": "Acácio Favacho",
+        "uf": "AP",
+        "partido": "MDB"
+      },
+      "valor": 16142.9,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "categoriaQC": "DIVULGACAO",
+      "fornecedor": "ELIEZER CONCEIÇÃO LIMA",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3308/2025/7987736.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 484,
+      "agentesSemGasto": 29,
+      "totalLancamentos": 17673,
+      "totalGasto": 20606653.85
+    }
+  }
+}

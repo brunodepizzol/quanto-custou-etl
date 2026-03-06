@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2025,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "geradoEm": "2026-03-06T13:45:07.481288Z",
+    "versaoSchema": "1.2.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 238718152.71,
+    "top1Gasto": {
+      "id": 224117,
+      "nome": "Gabriel Mota",
+      "uf": "RR",
+      "partido": "REPUBLICANOS",
+      "valor": 634574.73
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 96277829.74
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 79973532.01
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 34837730.1
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 21260741.62
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 3758050.68
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 1944987.4
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 634904.47
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 30376.69
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 30389440.08
+      },
+      {
+        "uf": "MG",
+        "valor": 24490180.03
+      },
+      {
+        "uf": "RJ",
+        "valor": 19566717.81
+      },
+      {
+        "uf": "BA",
+        "valor": 18093639.99
+      },
+      {
+        "uf": "RS",
+        "valor": 15173946.2
+      },
+      {
+        "uf": "PR",
+        "valor": 14652031.13
+      },
+      {
+        "uf": "PE",
+        "valor": 13256625.65
+      },
+      {
+        "uf": "CE",
+        "valor": 9563791.36
+      },
+      {
+        "uf": "MA",
+        "valor": 7554775.16
+      },
+      {
+        "uf": "GO",
+        "valor": 7501849.37
+      },
+      {
+        "uf": "PA",
+        "valor": 7455404.97
+      },
+      {
+        "uf": "SC",
+        "valor": 7050681.68
+      }
+    ],
+    "agentesConsiderados": 504,
+    "agentesBase": 513,
+    "agentesComGasto": 504,
+    "agentesSemGasto": 9,
+    "totalLancamentos": 201604
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 224117,
+        "nome": "Gabriel Mota",
+        "uf": "RR",
+        "partido": "REPUBLICANOS",
+        "valor": 634574.73
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 96277829.74
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 79973532.01
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 34837730.1
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 21260741.62
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 3758050.68
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 1944987.4
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 634904.47
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 30376.69
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 30389440.08
+        },
+        {
+          "uf": "MG",
+          "valor": 24490180.03
+        },
+        {
+          "uf": "RJ",
+          "valor": 19566717.81
+        },
+        {
+          "uf": "BA",
+          "valor": 18093639.99
+        },
+        {
+          "uf": "RS",
+          "valor": 15173946.2
+        },
+        {
+          "uf": "PR",
+          "valor": 14652031.13
+        },
+        {
+          "uf": "PE",
+          "valor": 13256625.65
+        },
+        {
+          "uf": "CE",
+          "valor": 9563791.36
+        },
+        {
+          "uf": "MA",
+          "valor": 7554775.16
+        },
+        {
+          "uf": "GO",
+          "valor": 7501849.37
+        },
+        {
+          "uf": "PA",
+          "valor": 7455404.97
+        },
+        {
+          "uf": "SC",
+          "valor": 7050681.68
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 6102373.67,
+      "top10Percentual": 2.56
+    },
+    "medias": {
+      "porAgenteComGasto": 473647.13,
+      "porLancamento": 1184.09
+    },
+    "diario": {
+      "dataReferencia": "2026-03-03",
+      "deputado": {
+        "id": 220528,
+        "nome": "Dr. Victor Linhalis",
+        "uf": "ES",
+        "partido": "PODE"
+      },
+      "valor": 54000.0,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "categoriaQC": "DIVULGACAO",
+      "fornecedor": "JORNAL CANELA VERDE EIRELI",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3611/2026/8058861.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 504,
+      "agentesSemGasto": 9,
+      "totalLancamentos": 201604,
+      "totalGasto": 238718152.71
+    }
+  }
+}

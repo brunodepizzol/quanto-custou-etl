@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 8
+    },
+    "geradoEm": "2026-03-06T13:26:06.142805Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 205550,
+      "nome": "Jorge Braz",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 36818.61,
+      "qtdLancamentos": 19,
+      "qtdRecibosOutros": 5
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 32580.8,
+      "qtdLancamentos": 21,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 29214.0,
+      "qtdLancamentos": 2,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 209787,
+      "nome": "Nikolas Ferreira",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 29127.69,
+      "qtdLancamentos": 34,
+      "qtdRecibosOutros": 13
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 28253.24,
+      "qtdLancamentos": 61,
+      "qtdRecibosOutros": 22
+    },
+    {
+      "id": 178908,
+      "nome": "Delegado Éder Mauro",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 28000.0,
+      "qtdLancamentos": 6,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 204504,
+      "nome": "Cezinha de Madureira",
+      "uf": "SP",
+      "partido": "PSD",
+      "valor": 27809.58,
+      "qtdLancamentos": 19,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 160556,
+      "nome": "Padre João",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 27687.45,
+      "qtdLancamentos": 96,
+      "qtdRecibosOutros": 36
+    },
+    {
+      "id": 74585,
+      "nome": "Lincoln Portela",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 27557.26,
+      "qtdLancamentos": 39,
+      "qtdRecibosOutros": 14
+    },
+    {
+      "id": 204355,
+      "nome": "Da Vitoria",
+      "uf": "ES",
+      "partido": "PP",
+      "valor": 27484.55,
+      "qtdLancamentos": 17,
+      "qtdRecibosOutros": 7
+    }
+  ]
+}

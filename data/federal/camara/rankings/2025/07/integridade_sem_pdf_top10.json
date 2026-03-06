@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 7
+    },
+    "geradoEm": "2026-03-06T13:21:18.228710Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 90472.02,
+      "qtdLancamentos": 114,
+      "qtdSemDocumentoPdf": 102
+    },
+    {
+      "id": 220539,
+      "nome": "Defensor Stélio Dener",
+      "uf": "RR",
+      "partido": "REPUBLICANOS",
+      "valor": 63845.52,
+      "qtdLancamentos": 36,
+      "qtdSemDocumentoPdf": 32
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 59705.39,
+      "qtdLancamentos": 34,
+      "qtdSemDocumentoPdf": 33
+    },
+    {
+      "id": 204441,
+      "nome": "Otoni de Paula",
+      "uf": "RJ",
+      "partido": "MDB",
+      "valor": 53134.44,
+      "qtdLancamentos": 32,
+      "qtdSemDocumentoPdf": 30
+    },
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 51664.97,
+      "qtdLancamentos": 9,
+      "qtdSemDocumentoPdf": 8
+    },
+    {
+      "id": 178866,
+      "nome": "Luizianne Lins",
+      "uf": "CE",
+      "partido": "PT",
+      "valor": 43889.4,
+      "qtdLancamentos": 45,
+      "qtdSemDocumentoPdf": 30
+    },
+    {
+      "id": 74161,
+      "nome": "Reginaldo Lopes",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 40150.65,
+      "qtdLancamentos": 45,
+      "qtdSemDocumentoPdf": 40
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 39541.01,
+      "qtdLancamentos": 10,
+      "qtdSemDocumentoPdf": 9
+    },
+    {
+      "id": 204398,
+      "nome": "Felipe Francischini",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 38745.41,
+      "qtdLancamentos": 22,
+      "qtdSemDocumentoPdf": 18
+    },
+    {
+      "id": 204572,
+      "nome": "Capitão Alberto Neto",
+      "uf": "AM",
+      "partido": "PL",
+      "valor": 36399.43,
+      "qtdLancamentos": 21,
+      "qtdSemDocumentoPdf": 18
+    }
+  ]
+}

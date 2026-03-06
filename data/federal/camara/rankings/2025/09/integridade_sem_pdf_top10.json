@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 9
+    },
+    "geradoEm": "2026-03-06T13:30:53.988336Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 66126.15,
+      "qtdLancamentos": 19,
+      "qtdSemDocumentoPdf": 19
+    },
+    {
+      "id": 178983,
+      "nome": "Marcio Alvino",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 45136.01,
+      "qtdLancamentos": 99,
+      "qtdSemDocumentoPdf": 96
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 38046.61,
+      "qtdLancamentos": 10,
+      "qtdSemDocumentoPdf": 9
+    },
+    {
+      "id": 74079,
+      "nome": "José Priante",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 28817.72,
+      "qtdLancamentos": 14,
+      "qtdSemDocumentoPdf": 12
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 27791.15,
+      "qtdLancamentos": 20,
+      "qtdSemDocumentoPdf": 19
+    },
+    {
+      "id": 141450,
+      "nome": "Hugo Leal",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 27268.32,
+      "qtdLancamentos": 53,
+      "qtdSemDocumentoPdf": 40
+    },
+    {
+      "id": 160535,
+      "nome": "Marcon",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 27011.37,
+      "qtdLancamentos": 75,
+      "qtdSemDocumentoPdf": 56
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 26255.07,
+      "qtdLancamentos": 12,
+      "qtdSemDocumentoPdf": 9
+    },
+    {
+      "id": 220591,
+      "nome": "Meire Serafim",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 26145.54,
+      "qtdLancamentos": 56,
+      "qtdSemDocumentoPdf": 51
+    },
+    {
+      "id": 141518,
+      "nome": "Paulinho da Força",
+      "uf": "SP",
+      "partido": "SOLIDARIEDADE",
+      "valor": 24564.39,
+      "qtdLancamentos": 37,
+      "qtdSemDocumentoPdf": 33
+    }
+  ]
+}

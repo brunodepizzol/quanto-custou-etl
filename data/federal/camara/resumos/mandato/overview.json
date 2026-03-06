@@ -5,54 +5,54 @@
     "periodo": {
       "tipo": "mandato",
       "inicioAno": 2023,
-      "fimAno": 2024,
-      "totalMesesIncluidos": 24
+      "fimAno": 2025,
+      "totalMesesIncluidos": 36
     },
-    "geradoEm": "2026-03-06T12:37:52.455769Z",
+    "geradoEm": "2026-03-06T13:45:07.766903Z",
     "versaoSchema": "1.2.0",
     "versaoCategoryMap": "1.0.0"
   },
   "kpis": {
-    "totalGasto": 441710501.9,
+    "totalGasto": 680428654.61,
     "top1Gasto": {
       "id": 73486,
       "nome": "Pompeo de Mattos",
       "uf": "RS",
       "partido": "PDT",
-      "valor": 1311836.81
+      "valor": 1911097.5
     },
     "topCategorias": [
       {
         "categoriaQC": "DIVULGACAO",
-        "valor": 171641167.75
+        "valor": 267918997.49
       },
       {
         "categoriaQC": "DESLOCAMENTO",
-        "valor": 160154799.41
+        "valor": 240128331.42
       },
       {
         "categoriaQC": "ESCRITORIO",
-        "valor": 60861432.82
+        "valor": 95699162.92
       },
       {
         "categoriaQC": "COMBUSTIVEL",
-        "valor": 37278767.19
+        "valor": 58539508.81
       },
       {
         "categoriaQC": "HOSPEDAGEM",
-        "valor": 5751137.5
+        "valor": 9509188.18
       },
       {
         "categoriaQC": "CORREIOS_TELEFONIA",
-        "valor": 4565344.97
+        "valor": 6510332.37
       },
       {
         "categoriaQC": "ALIMENTACAO",
-        "valor": 1276551.29
+        "valor": 1911455.76
       },
       {
         "categoriaQC": "CONSULTORIA_SERVICOS",
-        "valor": 181300.97
+        "valor": 211677.66
       },
       {
         "categoriaQC": "DEMAIS CATEGORIAS",
@@ -62,58 +62,58 @@
     "topUFs": [
       {
         "uf": "SP",
-        "valor": 53626005.31
+        "valor": 84015445.39
       },
       {
         "uf": "MG",
-        "valor": 47123297.82
-      },
-      {
-        "uf": "BA",
-        "valor": 36578968.2
+        "valor": 71613477.85
       },
       {
         "uf": "RJ",
-        "valor": 36158444.0
+        "valor": 55725161.81
+      },
+      {
+        "uf": "BA",
+        "valor": 54672608.19
       },
       {
         "uf": "RS",
-        "valor": 28118474.34
+        "valor": 43292420.54
       },
       {
         "uf": "PR",
-        "valor": 26499047.07
+        "valor": 41151078.2
       },
       {
         "uf": "PE",
-        "valor": 24685091.62
+        "valor": 37941717.27
       },
       {
         "uf": "CE",
-        "valor": 17003023.05
+        "valor": 26566814.41
       },
       {
         "uf": "PA",
-        "valor": 15342342.88
+        "valor": 22797747.85
       },
       {
         "uf": "GO",
-        "valor": 14113105.0
+        "valor": 21614954.37
       },
       {
         "uf": "MA",
-        "valor": 12754655.63
+        "valor": 20309430.79
       },
       {
         "uf": "SC",
-        "valor": 12612054.28
+        "valor": 19662735.96
       }
     ],
-    "agentesConsiderados": 492,
+    "agentesConsiderados": 510,
     "agentesBase": 513,
-    "agentesComGasto": 492,
-    "agentesSemGasto": 21,
-    "totalLancamentos": 399724
+    "agentesComGasto": 510,
+    "agentesSemGasto": 3,
+    "totalLancamentos": 601328
   },
   "insights": {
     "gasto": {
@@ -122,42 +122,42 @@
         "nome": "Pompeo de Mattos",
         "uf": "RS",
         "partido": "PDT",
-        "valor": 1311836.81
+        "valor": 1911097.5
       }
     },
     "categoria": {
       "top8MaisDemais": [
         {
           "categoriaQC": "DIVULGACAO",
-          "valor": 171641167.75
+          "valor": 267918997.49
         },
         {
           "categoriaQC": "DESLOCAMENTO",
-          "valor": 160154799.41
+          "valor": 240128331.42
         },
         {
           "categoriaQC": "ESCRITORIO",
-          "valor": 60861432.82
+          "valor": 95699162.92
         },
         {
           "categoriaQC": "COMBUSTIVEL",
-          "valor": 37278767.19
+          "valor": 58539508.81
         },
         {
           "categoriaQC": "HOSPEDAGEM",
-          "valor": 5751137.5
+          "valor": 9509188.18
         },
         {
           "categoriaQC": "CORREIOS_TELEFONIA",
-          "valor": 4565344.97
+          "valor": 6510332.37
         },
         {
           "categoriaQC": "ALIMENTACAO",
-          "valor": 1276551.29
+          "valor": 1911455.76
         },
         {
           "categoriaQC": "CONSULTORIA_SERVICOS",
-          "valor": 181300.97
+          "valor": 211677.66
         },
         {
           "categoriaQC": "DEMAIS CATEGORIAS",
@@ -169,83 +169,83 @@
       "topUFs": [
         {
           "uf": "SP",
-          "valor": 53626005.31
+          "valor": 84015445.39
         },
         {
           "uf": "MG",
-          "valor": 47123297.82
-        },
-        {
-          "uf": "BA",
-          "valor": 36578968.2
+          "valor": 71613477.85
         },
         {
           "uf": "RJ",
-          "valor": 36158444.0
+          "valor": 55725161.81
+        },
+        {
+          "uf": "BA",
+          "valor": 54672608.19
         },
         {
           "uf": "RS",
-          "valor": 28118474.34
+          "valor": 43292420.54
         },
         {
           "uf": "PR",
-          "valor": 26499047.07
+          "valor": 41151078.2
         },
         {
           "uf": "PE",
-          "valor": 24685091.62
+          "valor": 37941717.27
         },
         {
           "uf": "CE",
-          "valor": 17003023.05
+          "valor": 26566814.41
         },
         {
           "uf": "PA",
-          "valor": 15342342.88
+          "valor": 22797747.85
         },
         {
           "uf": "GO",
-          "valor": 14113105.0
+          "valor": 21614954.37
         },
         {
           "uf": "MA",
-          "valor": 12754655.63
+          "valor": 20309430.79
         },
         {
           "uf": "SC",
-          "valor": 12612054.28
+          "valor": 19662735.96
         }
       ]
     },
     "concentracao": {
-      "top10Total": 12151979.34,
-      "top10Percentual": 2.75
+      "top10Total": 18050554.38,
+      "top10Percentual": 2.65
     },
     "medias": {
-      "porAgenteComGasto": 897785.57,
-      "porLancamento": 1105.04
+      "porAgenteComGasto": 1334173.83,
+      "porLancamento": 1131.54
     },
     "diario": {
-      "dataReferencia": "2025-03-27",
+      "dataReferencia": "2026-03-03",
       "deputado": {
-        "id": 160673,
-        "nome": "Giovani Cherini",
-        "uf": "RS",
-        "partido": "PL"
+        "id": 220528,
+        "nome": "Dr. Victor Linhalis",
+        "uf": "ES",
+        "partido": "PODE"
       },
-      "valor": 9500.0,
+      "valor": 54000.0,
       "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
       "categoriaQC": "DIVULGACAO",
-      "fornecedor": "Instituto Mais Cidades Assessoria e Consultoria ltda",
+      "fornecedor": "JORNAL CANELA VERDE EIRELI",
       "tipoDocumento": "Nota Fiscal",
-      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2281/2025/7889687.pdf"
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3611/2026/8058861.pdf"
     },
     "base": {
       "agentesBase": 513,
-      "agentesComGasto": 492,
-      "agentesSemGasto": 21,
-      "totalLancamentos": 399724,
-      "totalGasto": 441710501.9
+      "agentesComGasto": 510,
+      "agentesSemGasto": 3,
+      "totalLancamentos": 601328,
+      "totalGasto": 680428654.61
     }
   }
 }

@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 8
+    },
+    "geradoEm": "2026-03-06T13:26:06.149903Z",
+    "versaoSchema": "1.2.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 17739990.82,
+    "top1Gasto": {
+      "id": 160598,
+      "nome": "Flávia Morais",
+      "uf": "GO",
+      "partido": "PDT",
+      "valor": 89157.53
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7944433.18
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 4224404.68
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 3083478.33
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1914781.67
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 327484.75
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 177423.83
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 67387.38
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 597.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2321721.89
+      },
+      {
+        "uf": "MG",
+        "valor": 1909053.19
+      },
+      {
+        "uf": "RJ",
+        "valor": 1324130.63
+      },
+      {
+        "uf": "BA",
+        "valor": 1313064.72
+      },
+      {
+        "uf": "RS",
+        "valor": 1111128.41
+      },
+      {
+        "uf": "PR",
+        "valor": 1095447.03
+      },
+      {
+        "uf": "PE",
+        "valor": 1039510.64
+      },
+      {
+        "uf": "GO",
+        "valor": 657905.57
+      },
+      {
+        "uf": "CE",
+        "valor": 653000.19
+      },
+      {
+        "uf": "MA",
+        "valor": 512485.93
+      },
+      {
+        "uf": "PB",
+        "valor": 511899.39
+      },
+      {
+        "uf": "SC",
+        "valor": 474662.49
+      }
+    ],
+    "agentesConsiderados": 491,
+    "agentesBase": 513,
+    "agentesComGasto": 491,
+    "agentesSemGasto": 22,
+    "totalLancamentos": 14875
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 160598,
+        "nome": "Flávia Morais",
+        "uf": "GO",
+        "partido": "PDT",
+        "valor": 89157.53
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 7944433.18
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 4224404.68
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 3083478.33
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1914781.67
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 327484.75
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 177423.83
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 67387.38
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 597.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2321721.89
+        },
+        {
+          "uf": "MG",
+          "valor": 1909053.19
+        },
+        {
+          "uf": "RJ",
+          "valor": 1324130.63
+        },
+        {
+          "uf": "BA",
+          "valor": 1313064.72
+        },
+        {
+          "uf": "RS",
+          "valor": 1111128.41
+        },
+        {
+          "uf": "PR",
+          "valor": 1095447.03
+        },
+        {
+          "uf": "PE",
+          "valor": 1039510.64
+        },
+        {
+          "uf": "GO",
+          "valor": 657905.57
+        },
+        {
+          "uf": "CE",
+          "valor": 653000.19
+        },
+        {
+          "uf": "MA",
+          "valor": 512485.93
+        },
+        {
+          "uf": "PB",
+          "valor": 511899.39
+        },
+        {
+          "uf": "SC",
+          "valor": 474662.49
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 732531.04,
+      "top10Percentual": 4.13
+    },
+    "medias": {
+      "porAgenteComGasto": 36130.33,
+      "porLancamento": 1192.6
+    },
+    "diario": {
+      "dataReferencia": "2025-11-25",
+      "deputado": {
+        "id": 204539,
+        "nome": "Hercílio Coelho Diniz",
+        "uf": "MG",
+        "partido": "MDB"
+      },
+      "valor": 30000.0,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "categoriaQC": "DIVULGACAO",
+      "fornecedor": "FRAMIN AGENCIA DECOMUNICAÇÃO LTDA",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3268/2025/8017951.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 491,
+      "agentesSemGasto": 22,
+      "totalLancamentos": 14875,
+      "totalGasto": 17739990.82
+    }
+  }
+}

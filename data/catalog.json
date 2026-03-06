@@ -1,6 +1,6 @@
 {
   "meta": {
-    "geradoEm": "2026-03-06T12:37:52.724636Z",
+    "geradoEm": "2026-03-06T13:45:08.106085Z",
     "versaoSchema": "1.0.0",
     "tipo": "global_catalog"
   },
@@ -15,6 +15,8 @@
       "pathConsultasRoot": "federal/camara/consultas",
       "pathCategoryMap": "federal/camara/mapping/categoria/category_map.json",
       "pathCategoryMapSource": "mapping/federal/deputados/category_map.json",
+      "pathMetodologiaGlobal": "metodologia.json",
+      "pathMetodologiaScope": "federal/camara/metodologia_scope.json",
       "mandatoInicioAno": 2023
     }
   ]
