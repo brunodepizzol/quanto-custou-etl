@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 1
+    },
+    "geradoEm": "2026-03-06T10:23:00.436882Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 204515,
+      "nome": "André Janones",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 15654.3,
+      "qtdLancamentos": 3,
+      "qtdSemDocumentoPdf": 2
+    },
+    {
+      "id": 74317,
+      "nome": "Júlio Cesar",
+      "uf": "PI",
+      "partido": "PSD",
+      "valor": 7055.51,
+      "qtdLancamentos": 7,
+      "qtdSemDocumentoPdf": 4
+    },
+    {
+      "id": 204559,
+      "nome": "Zé Neto",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 6328.83,
+      "qtdLancamentos": 7,
+      "qtdSemDocumentoPdf": 3
+    },
+    {
+      "id": 204574,
+      "nome": "Junior Lourenço",
+      "uf": "MA",
+      "partido": "PL",
+      "valor": 6161.25,
+      "qtdLancamentos": 2,
+      "qtdSemDocumentoPdf": 2
+    },
+    {
+      "id": 62881,
+      "nome": "Danilo Forte",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "valor": 5305.52,
+      "qtdLancamentos": 5,
+      "qtdSemDocumentoPdf": 2
+    },
+    {
+      "id": 74060,
+      "nome": "Daniel Almeida",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 4055.87,
+      "qtdLancamentos": 4,
+      "qtdSemDocumentoPdf": 3
+    },
+    {
+      "id": 141411,
+      "nome": "Dagoberto Nogueira",
+      "uf": "MS",
+      "partido": "PSDB",
+      "valor": 3875.83,
+      "qtdLancamentos": 6,
+      "qtdSemDocumentoPdf": 3
+    },
+    {
+      "id": 204355,
+      "nome": "Da Vitoria",
+      "uf": "ES",
+      "partido": "PP",
+      "valor": 3813.33,
+      "qtdLancamentos": 4,
+      "qtdSemDocumentoPdf": 2
+    },
+    {
+      "id": 160635,
+      "nome": "Ruy Carneiro",
+      "uf": "PB",
+      "partido": "PODE",
+      "valor": 3499.58,
+      "qtdLancamentos": 5,
+      "qtdSemDocumentoPdf": 2
+    },
+    {
+      "id": 204398,
+      "nome": "Felipe Francischini",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 3280.0,
+      "qtdLancamentos": 1,
+      "qtdSemDocumentoPdf": 1
+    }
+  ]
+}
