@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 5
+    },
+    "geradoEm": "2026-03-06T08:30:38.622101Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 42342.13,
+      "qtdLancamentos": 28,
+      "qtdSemDocumentoPdf": 27
+    },
+    {
+      "id": 178835,
+      "nome": "Afonso Motta",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 36787.63,
+      "qtdLancamentos": 67,
+      "qtdSemDocumentoPdf": 53
+    },
+    {
+      "id": 74161,
+      "nome": "Reginaldo Lopes",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 35922.43,
+      "qtdLancamentos": 57,
+      "qtdSemDocumentoPdf": 37
+    },
+    {
+      "id": 204462,
+      "nome": "Chris Tonietto",
+      "uf": "RJ",
+      "partido": "PL",
+      "valor": 29989.63,
+      "qtdLancamentos": 94,
+      "qtdSemDocumentoPdf": 24
+    },
+    {
+      "id": 72442,
+      "nome": "Felipe Carreras",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 29791.75,
+      "qtdLancamentos": 51,
+      "qtdSemDocumentoPdf": 46
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 28734.91,
+      "qtdLancamentos": 23,
+      "qtdSemDocumentoPdf": 19
+    },
+    {
+      "id": 160510,
+      "nome": "Luis Tibé",
+      "uf": "MG",
+      "partido": "AVANTE",
+      "valor": 28308.08,
+      "qtdLancamentos": 52,
+      "qtdSemDocumentoPdf": 32
+    },
+    {
+      "id": 204416,
+      "nome": "Sanderson",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 27888.5,
+      "qtdLancamentos": 62,
+      "qtdSemDocumentoPdf": 40
+    },
+    {
+      "id": 141487,
+      "nome": "Luiz Fernando Faria",
+      "uf": "MG",
+      "partido": "PSD",
+      "valor": 27164.7,
+      "qtdLancamentos": 46,
+      "qtdSemDocumentoPdf": 32
+    },
+    {
+      "id": 141450,
+      "nome": "Hugo Leal",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 27114.33,
+      "qtdLancamentos": 43,
+      "qtdSemDocumentoPdf": 35
+    }
+  ]
+}

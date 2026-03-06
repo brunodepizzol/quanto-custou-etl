@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 2
+    },
+    "geradoEm": "2026-03-06T08:12:53.765239Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 51617.91,
+      "qtdLancamentos": 20,
+      "qtdSemDocumentoPdf": 19
+    },
+    {
+      "id": 204395,
+      "nome": "Pedro Lupion",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 35961.52,
+      "qtdLancamentos": 21,
+      "qtdSemDocumentoPdf": 16
+    },
+    {
+      "id": 214694,
+      "nome": "Jorge Goetten",
+      "uf": "SC",
+      "partido": "REPUBLICANOS",
+      "valor": 35465.49,
+      "qtdLancamentos": 89,
+      "qtdSemDocumentoPdf": 58
+    },
+    {
+      "id": 223128,
+      "nome": "Rodrigo Estacho",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 34247.17,
+      "qtdLancamentos": 117,
+      "qtdSemDocumentoPdf": 104
+    },
+    {
+      "id": 74090,
+      "nome": "Átila Lins",
+      "uf": "AM",
+      "partido": "PSD",
+      "valor": 32008.37,
+      "qtdLancamentos": 17,
+      "qtdSemDocumentoPdf": 13
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 31907.29,
+      "qtdLancamentos": 13,
+      "qtdSemDocumentoPdf": 10
+    },
+    {
+      "id": 204498,
+      "nome": "Olival Marques",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 31803.57,
+      "qtdLancamentos": 42,
+      "qtdSemDocumentoPdf": 42
+    },
+    {
+      "id": 73441,
+      "nome": "Celso Russomanno",
+      "uf": "SP",
+      "partido": "REPUBLICANOS",
+      "valor": 29401.77,
+      "qtdLancamentos": 72,
+      "qtdSemDocumentoPdf": 60
+    },
+    {
+      "id": 220685,
+      "nome": "Paulo Litro",
+      "uf": "PR",
+      "partido": "PSD",
+      "valor": 28190.59,
+      "qtdLancamentos": 84,
+      "qtdSemDocumentoPdf": 78
+    },
+    {
+      "id": 204464,
+      "nome": "Talíria Petrone",
+      "uf": "RJ",
+      "partido": "PSOL",
+      "valor": 28102.85,
+      "qtdLancamentos": 107,
+      "qtdSemDocumentoPdf": 38
+    }
+  ]
+}

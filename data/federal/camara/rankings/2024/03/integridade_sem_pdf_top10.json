@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 3
+    },
+    "geradoEm": "2026-03-06T08:18:52.804995Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 178835,
+      "nome": "Afonso Motta",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 38110.87,
+      "qtdLancamentos": 84,
+      "qtdSemDocumentoPdf": 58
+    },
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 34503.38,
+      "qtdLancamentos": 11,
+      "qtdSemDocumentoPdf": 9
+    },
+    {
+      "id": 220706,
+      "nome": "Padovani",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 34308.81,
+      "qtdLancamentos": 84,
+      "qtdSemDocumentoPdf": 71
+    },
+    {
+      "id": 73433,
+      "nome": "Arlindo Chinaglia",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 31931.55,
+      "qtdLancamentos": 36,
+      "qtdSemDocumentoPdf": 27
+    },
+    {
+      "id": 73692,
+      "nome": "Osmar Terra",
+      "uf": "RS",
+      "partido": "PL",
+      "valor": 31733.62,
+      "qtdLancamentos": 88,
+      "qtdSemDocumentoPdf": 61
+    },
+    {
+      "id": 220554,
+      "nome": "Alexandre Lindenmeyer",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 31620.55,
+      "qtdLancamentos": 233,
+      "qtdSemDocumentoPdf": 79
+    },
+    {
+      "id": 204404,
+      "nome": "Lucas Redecker",
+      "uf": "RS",
+      "partido": "PSDB",
+      "valor": 30726.03,
+      "qtdLancamentos": 105,
+      "qtdSemDocumentoPdf": 62
+    },
+    {
+      "id": 160553,
+      "nome": "Antonio Brito",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 30274.72,
+      "qtdLancamentos": 73,
+      "qtdSemDocumentoPdf": 60
+    },
+    {
+      "id": 204368,
+      "nome": "Fabio Schiochet",
+      "uf": "SC",
+      "partido": "UNIÃO",
+      "valor": 30195.92,
+      "qtdLancamentos": 77,
+      "qtdSemDocumentoPdf": 64
+    },
+    {
+      "id": 204436,
+      "nome": "Isnaldo Bulhões Jr.",
+      "uf": "AL",
+      "partido": "MDB",
+      "valor": 30110.94,
+      "qtdLancamentos": 33,
+      "qtdSemDocumentoPdf": 31
+    }
+  ]
+}
