@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 2
+    },
+    "geradoEm": "2026-03-06T11:38:33.973969Z",
+    "versaoSchema": "1.2.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 18018184.77,
+    "top1Gasto": {
+      "id": 204408,
+      "nome": "Gustinho Ribeiro",
+      "uf": "SE",
+      "partido": "REPUBLICANOS",
+      "valor": 114457.0
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 6889899.77
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 6385449.94
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2803442.79
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1511856.08
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 189955.98
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 177338.39
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 51096.21
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 9145.61
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2145547.89
+      },
+      {
+        "uf": "MG",
+        "valor": 1909819.56
+      },
+      {
+        "uf": "RJ",
+        "valor": 1493748.47
+      },
+      {
+        "uf": "BA",
+        "valor": 1457553.44
+      },
+      {
+        "uf": "PR",
+        "valor": 1252556.85
+      },
+      {
+        "uf": "RS",
+        "valor": 1113417.97
+      },
+      {
+        "uf": "PE",
+        "valor": 1000177.18
+      },
+      {
+        "uf": "CE",
+        "valor": 728127.17
+      },
+      {
+        "uf": "GO",
+        "valor": 640503.93
+      },
+      {
+        "uf": "PA",
+        "valor": 627122.87
+      },
+      {
+        "uf": "SC",
+        "valor": 540236.63
+      },
+      {
+        "uf": "MA",
+        "valor": 465081.39
+      }
+    ],
+    "agentesConsiderados": 465,
+    "agentesBase": 513,
+    "agentesComGasto": 465,
+    "agentesSemGasto": 48,
+    "totalLancamentos": 16623
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 204408,
+        "nome": "Gustinho Ribeiro",
+        "uf": "SE",
+        "partido": "REPUBLICANOS",
+        "valor": 114457.0
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 6889899.77
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 6385449.94
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 2803442.79
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1511856.08
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 189955.98
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 177338.39
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 51096.21
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 9145.61
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2145547.89
+        },
+        {
+          "uf": "MG",
+          "valor": 1909819.56
+        },
+        {
+          "uf": "RJ",
+          "valor": 1493748.47
+        },
+        {
+          "uf": "BA",
+          "valor": 1457553.44
+        },
+        {
+          "uf": "PR",
+          "valor": 1252556.85
+        },
+        {
+          "uf": "RS",
+          "valor": 1113417.97
+        },
+        {
+          "uf": "PE",
+          "valor": 1000177.18
+        },
+        {
+          "uf": "CE",
+          "valor": 728127.17
+        },
+        {
+          "uf": "GO",
+          "valor": 640503.93
+        },
+        {
+          "uf": "PA",
+          "valor": 627122.87
+        },
+        {
+          "uf": "SC",
+          "valor": 540236.63
+        },
+        {
+          "uf": "MA",
+          "valor": 465081.39
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 809640.02,
+      "top10Percentual": 4.49
+    },
+    "medias": {
+      "porAgenteComGasto": 38748.78,
+      "porLancamento": 1083.93
+    },
+    "diario": {
+      "dataReferencia": "2024-05-14",
+      "deputado": {
+        "id": 204445,
+        "nome": "Fernando Mineiro",
+        "uf": "RN",
+        "partido": "PT"
+      },
+      "valor": 12500.0,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "categoriaQC": "DIVULGACAO",
+      "fornecedor": "CENTER FILMES AUDIOVISUAL LTDA",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3700/2024/7735254.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 465,
+      "agentesSemGasto": 48,
+      "totalLancamentos": 16623,
+      "totalGasto": 18018184.77
+    }
+  }
+}

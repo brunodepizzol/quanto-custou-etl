@@ -1,0 +1,263 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2024,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "geradoEm": "2026-03-06T12:37:52.264611Z",
+    "versaoSchema": "1.2.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 226337130.04,
+    "top1Gasto": {
+      "id": 73486,
+      "nome": "Pompeo de Mattos",
+      "uf": "RS",
+      "partido": "PDT",
+      "valor": 667780.27
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 89321018.93
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 79048020.55
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 32357255.46
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 19738610.98
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 3260837.48
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 1998939.92
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 569297.36
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 43149.36
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 27837113.8
+      },
+      {
+        "uf": "MG",
+        "valor": 24348959.3
+      },
+      {
+        "uf": "RJ",
+        "valor": 18800319.83
+      },
+      {
+        "uf": "BA",
+        "valor": 18588021.33
+      },
+      {
+        "uf": "RS",
+        "valor": 14187582.67
+      },
+      {
+        "uf": "PR",
+        "valor": 13513591.28
+      },
+      {
+        "uf": "PE",
+        "valor": 13159683.33
+      },
+      {
+        "uf": "CE",
+        "valor": 8706728.69
+      },
+      {
+        "uf": "PA",
+        "valor": 7674445.0
+      },
+      {
+        "uf": "GO",
+        "valor": 7518151.21
+      },
+      {
+        "uf": "MA",
+        "valor": 6447604.66
+      },
+      {
+        "uf": "SC",
+        "valor": 6327400.8
+      }
+    ],
+    "agentesConsiderados": 488,
+    "agentesBase": 513,
+    "agentesComGasto": 488,
+    "agentesSemGasto": 25,
+    "totalLancamentos": 201197
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 73486,
+        "nome": "Pompeo de Mattos",
+        "uf": "RS",
+        "partido": "PDT",
+        "valor": 667780.27
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 89321018.93
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 79048020.55
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 32357255.46
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 19738610.98
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 3260837.48
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 1998939.92
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 569297.36
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 43149.36
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 27837113.8
+        },
+        {
+          "uf": "MG",
+          "valor": 24348959.3
+        },
+        {
+          "uf": "RJ",
+          "valor": 18800319.83
+        },
+        {
+          "uf": "BA",
+          "valor": 18588021.33
+        },
+        {
+          "uf": "RS",
+          "valor": 14187582.67
+        },
+        {
+          "uf": "PR",
+          "valor": 13513591.28
+        },
+        {
+          "uf": "PE",
+          "valor": 13159683.33
+        },
+        {
+          "uf": "CE",
+          "valor": 8706728.69
+        },
+        {
+          "uf": "PA",
+          "valor": 7674445.0
+        },
+        {
+          "uf": "GO",
+          "valor": 7518151.21
+        },
+        {
+          "uf": "MA",
+          "valor": 6447604.66
+        },
+        {
+          "uf": "SC",
+          "valor": 6327400.8
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 6214155.39,
+      "top10Percentual": 2.75
+    },
+    "medias": {
+      "porAgenteComGasto": 463805.59,
+      "porLancamento": 1124.95
+    },
+    "diario": {
+      "dataReferencia": "2025-03-27",
+      "deputado": {
+        "id": 160673,
+        "nome": "Giovani Cherini",
+        "uf": "RS",
+        "partido": "PL"
+      },
+      "valor": 9500.0,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "categoriaQC": "DIVULGACAO",
+      "fornecedor": "Instituto Mais Cidades Assessoria e Consultoria ltda",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2281/2025/7889687.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 488,
+      "agentesSemGasto": 25,
+      "totalLancamentos": 201197,
+      "totalGasto": 226337130.04
+    }
+  }
+}

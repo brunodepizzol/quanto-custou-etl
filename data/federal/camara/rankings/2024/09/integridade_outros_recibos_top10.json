@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 9
+    },
+    "geradoEm": "2026-03-06T12:21:18.534985Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 28492.0,
+      "qtdLancamentos": 41,
+      "qtdRecibosOutros": 3
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 28287.6,
+      "qtdLancamentos": 6,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 27670.15,
+      "qtdLancamentos": 45,
+      "qtdRecibosOutros": 10
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 25758.1,
+      "qtdLancamentos": 45,
+      "qtdRecibosOutros": 13
+    },
+    {
+      "id": 220630,
+      "nome": "Pedro Aihara",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 25300.54,
+      "qtdLancamentos": 83,
+      "qtdRecibosOutros": 47
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 25167.59,
+      "qtdLancamentos": 64,
+      "qtdRecibosOutros": 18
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 24927.53,
+      "qtdLancamentos": 73,
+      "qtdRecibosOutros": 13
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 24226.86,
+      "qtdLancamentos": 13,
+      "qtdRecibosOutros": 5
+    },
+    {
+      "id": 74273,
+      "nome": "Jefferson Campos",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 24106.49,
+      "qtdLancamentos": 17,
+      "qtdRecibosOutros": 6
+    },
+    {
+      "id": 220551,
+      "nome": "Franciane Bayer",
+      "uf": "RS",
+      "partido": "REPUBLICANOS",
+      "valor": 22587.22,
+      "qtdLancamentos": 79,
+      "qtdRecibosOutros": 12
+    }
+  ]
+}

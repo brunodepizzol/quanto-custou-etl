@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 8
+    },
+    "geradoEm": "2026-03-06T12:15:49.536793Z",
+    "versaoSchema": "1.2.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 16829809.98,
+    "top1Gasto": {
+      "id": 141458,
+      "nome": "João Carlos Bacelar",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 119925.84
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 6007609.57
+      },
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 5864995.17
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2635483.7
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1829687.47
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 297327.11
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 149581.05
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 45125.91
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 0.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2109107.84
+      },
+      {
+        "uf": "MG",
+        "valor": 1866188.1
+      },
+      {
+        "uf": "BA",
+        "valor": 1454894.85
+      },
+      {
+        "uf": "RJ",
+        "valor": 1341298.71
+      },
+      {
+        "uf": "RS",
+        "valor": 1148612.87
+      },
+      {
+        "uf": "PE",
+        "valor": 998872.34
+      },
+      {
+        "uf": "PR",
+        "valor": 983325.57
+      },
+      {
+        "uf": "CE",
+        "valor": 736437.83
+      },
+      {
+        "uf": "GO",
+        "valor": 599689.81
+      },
+      {
+        "uf": "PA",
+        "valor": 592616.97
+      },
+      {
+        "uf": "PI",
+        "valor": 453795.64
+      },
+      {
+        "uf": "RR",
+        "valor": 420330.27
+      }
+    ],
+    "agentesConsiderados": 463,
+    "agentesBase": 513,
+    "agentesComGasto": 463,
+    "agentesSemGasto": 50,
+    "totalLancamentos": 17321
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 141458,
+        "nome": "João Carlos Bacelar",
+        "uf": "BA",
+        "partido": "PL",
+        "valor": 119925.84
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 6007609.57
+        },
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 5864995.17
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 2635483.7
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1829687.47
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 297327.11
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 149581.05
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 45125.91
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 0.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2109107.84
+        },
+        {
+          "uf": "MG",
+          "valor": 1866188.1
+        },
+        {
+          "uf": "BA",
+          "valor": 1454894.85
+        },
+        {
+          "uf": "RJ",
+          "valor": 1341298.71
+        },
+        {
+          "uf": "RS",
+          "valor": 1148612.87
+        },
+        {
+          "uf": "PE",
+          "valor": 998872.34
+        },
+        {
+          "uf": "PR",
+          "valor": 983325.57
+        },
+        {
+          "uf": "CE",
+          "valor": 736437.83
+        },
+        {
+          "uf": "GO",
+          "valor": 599689.81
+        },
+        {
+          "uf": "PA",
+          "valor": 592616.97
+        },
+        {
+          "uf": "PI",
+          "valor": 453795.64
+        },
+        {
+          "uf": "RR",
+          "valor": 420330.27
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 890535.02,
+      "top10Percentual": 5.29
+    },
+    "medias": {
+      "porAgenteComGasto": 36349.48,
+      "porLancamento": 971.64
+    },
+    "diario": {
+      "dataReferencia": "2024-11-27",
+      "deputado": {
+        "id": 74090,
+        "nome": "Átila Lins",
+        "uf": "AM",
+        "partido": "PSD"
+      },
+      "valor": 15000.0,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "categoriaQC": "DESLOCAMENTO",
+      "fornecedor": "CTA - CLEITON TAXI AEREO LTDA",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2024/7836151.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 463,
+      "agentesSemGasto": 50,
+      "totalLancamentos": 17321,
+      "totalGasto": 16829809.98
+    }
+  }
+}

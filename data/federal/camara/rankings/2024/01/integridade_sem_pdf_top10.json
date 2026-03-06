@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 1
+    },
+    "geradoEm": "2026-03-06T11:33:01.349465Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 38854.02,
+      "qtdLancamentos": 12,
+      "qtdSemDocumentoPdf": 9
+    },
+    {
+      "id": 74317,
+      "nome": "Júlio Cesar",
+      "uf": "PI",
+      "partido": "PSD",
+      "valor": 31783.29,
+      "qtdLancamentos": 15,
+      "qtdSemDocumentoPdf": 11
+    },
+    {
+      "id": 204511,
+      "nome": "David Soares",
+      "uf": "SP",
+      "partido": "UNIÃO",
+      "valor": 29844.38,
+      "qtdLancamentos": 43,
+      "qtdSemDocumentoPdf": 27
+    },
+    {
+      "id": 226708,
+      "nome": "Allan Garcês",
+      "uf": "MA",
+      "partido": "PP",
+      "valor": 28572.02,
+      "qtdLancamentos": 55,
+      "qtdSemDocumentoPdf": 35
+    },
+    {
+      "id": 178857,
+      "nome": "Jorge Solla",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 28512.23,
+      "qtdLancamentos": 89,
+      "qtdSemDocumentoPdf": 67
+    },
+    {
+      "id": 160610,
+      "nome": "Valmir Assunção",
+      "uf": "BA",
+      "partido": "PT",
+      "valor": 28273.65,
+      "qtdLancamentos": 21,
+      "qtdSemDocumentoPdf": 16
+    },
+    {
+      "id": 160553,
+      "nome": "Antonio Brito",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 26170.79,
+      "qtdLancamentos": 55,
+      "qtdSemDocumentoPdf": 42
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 25921.51,
+      "qtdLancamentos": 8,
+      "qtdSemDocumentoPdf": 5
+    },
+    {
+      "id": 141458,
+      "nome": "João Carlos Bacelar",
+      "uf": "BA",
+      "partido": "PL",
+      "valor": 25778.66,
+      "qtdLancamentos": 39,
+      "qtdSemDocumentoPdf": 34
+    },
+    {
+      "id": 220554,
+      "nome": "Alexandre Lindenmeyer",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 24424.61,
+      "qtdLancamentos": 92,
+      "qtdSemDocumentoPdf": 41
+    }
+  ]
+}

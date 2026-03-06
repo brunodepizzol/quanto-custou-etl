@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 6
+    },
+    "geradoEm": "2026-03-06T12:00:53.595929Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 178908,
+      "nome": "Delegado Éder Mauro",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 40000.0,
+      "qtdLancamentos": 12,
+      "qtdRecibosOutros": 6
+    },
+    {
+      "id": 178860,
+      "nome": "Paulo Azi",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 34200.0,
+      "qtdLancamentos": 17,
+      "qtdRecibosOutros": 4
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 30068.6,
+      "qtdLancamentos": 52,
+      "qtdRecibosOutros": 3
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 28225.9,
+      "qtdLancamentos": 21,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 26614.41,
+      "qtdLancamentos": 43,
+      "qtdRecibosOutros": 15
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 25965.61,
+      "qtdLancamentos": 86,
+      "qtdRecibosOutros": 31
+    },
+    {
+      "id": 220630,
+      "nome": "Pedro Aihara",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 25449.7,
+      "qtdLancamentos": 108,
+      "qtdRecibosOutros": 46
+    },
+    {
+      "id": 162067,
+      "nome": "Kiko Celeguim",
+      "uf": "SP",
+      "partido": "PT",
+      "valor": 24249.4,
+      "qtdLancamentos": 22,
+      "qtdRecibosOutros": 7
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 23202.08,
+      "qtdLancamentos": 56,
+      "qtdRecibosOutros": 15
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 23144.34,
+      "qtdLancamentos": 94,
+      "qtdRecibosOutros": 19
+    }
+  ]
+}
