@@ -35,6 +35,25 @@ def safe_slug(text):
     text = re.sub(r"[^\w\s-]", "", text)
     text = re.sub(r"[\s]+", "-", text)
     return text.strip("-")
+
+def normalize_doc_date(value: str) -> Optional[str]:
+    s = str(value or "").strip()
+    if not s:
+        return None
+    # Common API format: YYYY-MM-DD (possibly with time suffix)
+    if len(s) >= 10:
+        cand = s[:10]
+        try:
+            datetime.strptime(cand, "%Y-%m-%d")
+            return cand
+        except Exception:
+            pass
+    # Fallback for DD/MM/YYYY
+    try:
+        d = datetime.strptime(s, "%d/%m/%Y")
+        return d.strftime("%Y-%m-%d")
+    except Exception:
+        return None
     
 def write_resumos_index(out_dir: Path, escopo: str = "federal/camara") -> None:
     deps_dir = out_dir / "federal/camara/resumos/deputados"
@@ -216,7 +235,7 @@ def build_month_aggregates(
     mes: int,
     cmap: CategoryMap,
     sleep_s: float = 0.05
-) -> Tuple[dict, dict, List[str]]:
+) -> Tuple[dict, dict, List[str], Optional[dict]]:
     """
     Returns:
       aggregates_obj: meta + data (per dep totals)
@@ -228,6 +247,7 @@ def build_month_aggregates(
 
     tipo_resumo: Dict[str, dict] = {}
     pendentes_set = set()
+    max_dia_por_data: Dict[str, dict] = {}
 
     rows = []
     for i, dep in enumerate(deputados, start=1):
@@ -251,6 +271,27 @@ def build_month_aggregates(
             cat = categorize(tipo, cmap)
             por_cat.setdefault(cat, 0.0)
             por_cat[cat] += v
+
+            data_doc = normalize_doc_date(x.get("dataDocumento"))
+            if data_doc:
+                cand = {
+                    "dataReferencia": data_doc,
+                    "deputado": {
+                        "id": dep_id,
+                        "nome": dep_map[dep_id].get("nome"),
+                        "uf": dep_map[dep_id].get("siglaUf"),
+                        "partido": dep_map[dep_id].get("siglaPartido")
+                    },
+                    "valor": round(v, 2),
+                    "tipoDespesa": tipo,
+                    "categoriaQC": cat,
+                    "fornecedor": (x.get("nomeFornecedor") or "").strip() or None,
+                    "tipoDocumento": (x.get("tipoDocumento") or "").strip() or None,
+                    "urlDocumento": (x.get("urlDocumento") or "").strip() or None
+                }
+                prev = max_dia_por_data.get(data_doc)
+                if (not prev) or (float(cand["valor"]) > float(prev.get("valor", 0.0))):
+                    max_dia_por_data[data_doc] = cand
 
             # doc indicators (objetivo, sem acusação)
             url = (x.get("urlDocumento") or "").strip()
@@ -299,14 +340,22 @@ def build_month_aggregates(
     tipo_lista = list(tipo_resumo.values())
     tipo_lista.sort(key=lambda x: x["valorTotal"], reverse=True)
 
+    insight_diario = None
+    if max_dia_por_data:
+        data_mais_recente = max(max_dia_por_data.keys())
+        insight_diario = max_dia_por_data.get(data_mais_recente)
+
     aggregates_obj = {
         "meta": {
             "fonte": "Camara Dados Abertos",
             "escopo": "federal/camara",
             "periodo": {"ano": ano, "mes": mes},
             "geradoEm": now_iso(),
-            "versaoSchema": "1.0.0",
-            "versaoCategoryMap": cmap.version
+            "versaoSchema": "1.1.0",
+            "versaoCategoryMap": cmap.version,
+            "insights": {
+                "diario": insight_diario
+            }
         },
         "data": rows
     }
@@ -322,7 +371,28 @@ def build_month_aggregates(
     }
 
     pendentes = sorted(p for p in pendentes_set if p not in ("(Sem tipo)",))
-    return aggregates_obj, tipo_resumo_obj, pendentes
+    return aggregates_obj, tipo_resumo_obj, pendentes, insight_diario
+
+def pick_latest_daily_insight_from_aggregate_files(aggregate_files: List[Path]) -> Optional[dict]:
+    latest = None
+    latest_date = None
+    for fp in aggregate_files:
+        obj = read_json(fp)
+        if not obj:
+            continue
+        daily = (((obj.get("meta") or {}).get("insights") or {}).get("diario")) or None
+        if not isinstance(daily, dict):
+            continue
+        d = normalize_doc_date(daily.get("dataReferencia"))
+        if not d:
+            continue
+        if (latest_date is None) or (d > latest_date):
+            latest_date = d
+            latest = daily
+        elif d == latest_date:
+            if float(daily.get("valor") or 0.0) > float((latest or {}).get("valor") or 0.0):
+                latest = daily
+    return latest
 
 # ----------------------------
 # Build rankings + overview from aggregates
@@ -419,7 +489,7 @@ def build_rankings_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
 
     return out
 
-def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: CategoryMap) -> dict:
+def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: CategoryMap, daily_insight: Optional[dict] = None) -> dict:
     cats = all_categories(cmap)
 
     total_geral = 0.0
@@ -480,7 +550,7 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
             "escopo": "federal/camara",
             "periodo": periodo_meta,
             "geradoEm": now_iso(),
-            "versaoSchema": "1.1.0",
+            "versaoSchema": "1.2.0",
             "versaoCategoryMap": cmap.version
         },
         "kpis": {
@@ -512,6 +582,7 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
                 "porAgenteComGasto": round(media_por_agente, 2),
                 "porLancamento": round(media_por_lancamento, 2)
             },
+            "diario": daily_insight,
             "base": {
                 "agentesBase": base_agentes,
                 "agentesComGasto": com_gasto_agentes,
@@ -829,7 +900,7 @@ def main():
 
     # gerar mês a mês (agregado + rankings + overview + dicionário/pendências)
     for m in months:
-        aggregates_obj, tipo_resumo_obj, pendentes = build_month_aggregates(deputados, year, m, cmap)
+        aggregates_obj, tipo_resumo_obj, pendentes, insight_diario_mes = build_month_aggregates(deputados, year, m, cmap)
 
         agg_path = out_dir / f"federal/camara/aggregates/{year:04d}/{m:02d}/totais_deputados.json"
         write_json(agg_path, aggregates_obj)
@@ -849,7 +920,7 @@ def main():
             write_json(out_dir / f"federal/camara/rankings/{year:04d}/{m:02d}/{fname}", obj)
 
         # overview do mês
-        overview = build_overview_from_rows(rows, periodo_mes, cmap)
+        overview = build_overview_from_rows(rows, periodo_mes, cmap, daily_insight=insight_diario_mes)
         write_json(out_dir / f"federal/camara/resumos/{year:04d}/{m:02d}/overview.json", overview)
         consulta_mes = build_consulta_deputados_from_rows(rows, periodo_mes, cmap)
         write_json(out_dir / f"federal/camara/consultas/{year:04d}/{m:02d}/deputados.json", consulta_mes)
@@ -861,10 +932,11 @@ def main():
     if month_files:
         rows_year = sum_aggregate_files(month_files)
         periodo_ano = {"tipo": "ano", "ano": year, "mesesIncluidos": [int(p.parent.name) for p in month_files]}
+        daily_year = pick_latest_daily_insight_from_aggregate_files(month_files)
         rankings_year = build_rankings_from_rows(rows_year, periodo_ano, cmap)
         for fname, obj in rankings_year.items():
             write_json(out_dir / f"federal/camara/rankings/{year:04d}/ano/{fname}", obj)
-        overview_year = build_overview_from_rows(rows_year, periodo_ano, cmap)
+        overview_year = build_overview_from_rows(rows_year, periodo_ano, cmap, daily_insight=daily_year)
         write_json(out_dir / f"federal/camara/resumos/{year:04d}/ano/overview.json", overview_year)
         consulta_year = build_consulta_deputados_from_rows(rows_year, periodo_ano, cmap)
         write_json(out_dir / f"federal/camara/consultas/{year:04d}/ano/deputados.json", consulta_year)
@@ -875,6 +947,7 @@ def main():
         mandate_files.extend(sorted((out_dir / f"federal/camara/aggregates/{y:04d}").glob("*/totais_deputados.json")))
     if mandate_files:
         rows_mandato = sum_aggregate_files(mandate_files)
+        daily_mandato = pick_latest_daily_insight_from_aggregate_files(mandate_files)
         periodo_mandato = {
             "tipo": "mandato",
             "inicioAno": mandate_start_year,
@@ -884,7 +957,7 @@ def main():
         rankings_mandato = build_rankings_from_rows(rows_mandato, periodo_mandato, cmap)
         for fname, obj in rankings_mandato.items():
             write_json(out_dir / "federal/camara/rankings/mandato" / fname, obj)
-        overview_mandato = build_overview_from_rows(rows_mandato, periodo_mandato, cmap)
+        overview_mandato = build_overview_from_rows(rows_mandato, periodo_mandato, cmap, daily_insight=daily_mandato)
         write_json(out_dir / "federal/camara/resumos/mandato/overview.json", overview_mandato)
         consulta_mandato = build_consulta_deputados_from_rows(rows_mandato, periodo_mandato, cmap)
         write_json(out_dir / "federal/camara/consultas/mandato/deputados.json", consulta_mandato)
