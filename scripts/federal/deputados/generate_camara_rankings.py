@@ -122,6 +122,128 @@ def write_resumos_index(out_dir: Path, escopo: str = "federal/camara") -> None:
     }
     write_json(out_dir / "federal/camara/resumos/index.json", obj_out)
 
+def build_metodologia_global() -> dict:
+    return {
+        "meta": {
+            "id": "metodologia_global",
+            "escopo": "global",
+            "geradoEm": now_iso(),
+            "versaoSchema": "1.0.0",
+            "versaoDocumento": "1.0.0"
+        },
+        "principios": [
+            "Uso exclusivo de bases públicas oficiais.",
+            "Não substituição da fonte oficial de origem.",
+            "Processamento técnico padronizado e replicável.",
+            "Ausência de juízo de valor sobre condutas individuais.",
+            "Transparência de fórmulas, versões e critérios."
+        ],
+        "operacoesBase": [
+            {"id": "soma", "descricao": "Soma de valores monetários por período e recortes."},
+            {"id": "ordenacao", "descricao": "Ordenação numérica ascendente/descendente por métrica."},
+            {"id": "filtro", "descricao": "Aplicação de filtros explícitos definidos pelo usuário."},
+            {"id": "agrupamento", "descricao": "Agrupamento técnico por regras de categoria e/ou chaves oficiais."},
+            {"id": "arredondamento", "descricao": "Arredondamento monetário para 2 casas decimais."}
+        ],
+        "governanca": {
+            "criterioDivergencia": "Em caso de divergência, prevalece o dado do órgão público responsável.",
+            "auditoriaMinima": [
+                "Fonte oficial utilizada.",
+                "Versão do mapeamento/categorização.",
+                "Versão de schema dos artefatos.",
+                "Data/hora de geração."
+            ]
+        }
+    }
+
+def build_metodologia_scope_camara(cmap: CategoryMap, mandate_start_year: int) -> dict:
+    return {
+        "meta": {
+            "id": "metodologia_scope_federal_camara",
+            "escopo": "federal/camara",
+            "geradoEm": now_iso(),
+            "versaoSchema": "1.0.0",
+            "versaoDocumento": "1.0.0"
+        },
+        "fonte": {
+            "orgao": "Câmara dos Deputados",
+            "apiBase": CAMARA_BASE,
+            "endpoints": [
+                "/deputados",
+                "/deputados/{id}/despesas"
+            ]
+        },
+        "periodizacao": {
+            "mes": "Consulta por ano/mês da API e geração de agregados mensais.",
+            "ano": "Soma dos agregados mensais existentes no ano.",
+            "mandato": f"Soma de agregados mensais de {mandate_start_year} em diante."
+        },
+        "categorizacao": {
+            "pathCategoryMap": "federal/camara/mapping/categoria/category_map.json",
+            "versaoCategoryMap": cmap.version,
+            "default": cmap.default,
+            "descricao": "Tipo de despesa oficial agrupado por regras regex versionadas."
+        },
+        "criterios": {
+            "agenteAtivoPeriodo": "Deputado com qtdLancamentos > 0 ou total > 0 no período.",
+            "integridadeDocumental": [
+                "Sem documento PDF público (urlDocumento não termina com .pdf ou não é URL HTTP).",
+                "Tipo de documento 'recibos/outros'."
+            ]
+        },
+        "artefatosSaida": [
+            {"path": "federal/camara/aggregates/{ano}/{mes}/totais_deputados.json", "descricao": "Base agregada mensal por deputado."},
+            {"path": "federal/camara/consultas/{periodo}/deputados.json", "descricao": "Consulta otimizada por período para consumo do front."},
+            {"path": "federal/camara/rankings/{periodo}/*.json", "descricao": "Rankings por total, integridade e categoria."},
+            {"path": "federal/camara/resumos/{periodo}/overview.json", "descricao": "KPIs e insights agregados do período."},
+            {"path": "federal/camara/dicionarios/{ano}/{mes}/tipoDespesa_resumo.json", "descricao": "Resumo por tipo de despesa oficial."},
+            {"path": "federal/camara/pendencias/{ano}/{mes}/tipoDespesa_pendentes.json", "descricao": "Tipos que caíram na categoria default."},
+            {"path": "federal/camara/resumos/deputados/{id}.json", "descricao": "Resumo individual de mandato por deputado."},
+            {"path": "federal/camara/resumos/index.json", "descricao": "Índice de deputados, UFs e partidos."}
+        ],
+        "indicadores": [
+            {
+                "id": "totalGasto",
+                "fonteSaida": "resumos/{periodo}/overview.json:kpis.totalGasto",
+                "formula": "sum(total por deputado ativo no período)"
+            },
+            {
+                "id": "top1Gasto",
+                "fonteSaida": "resumos/{periodo}/overview.json:kpis.top1Gasto",
+                "formula": "argmax(total por deputado ativo no período)"
+            },
+            {
+                "id": "top8MaisDemais",
+                "fonteSaida": "resumos/{periodo}/overview.json:insights.categoria.top8MaisDemais",
+                "formula": "ordenar categorias por valor, selecionar top 8, residual = totalGasto - soma(top8)"
+            },
+            {
+                "id": "topUFs",
+                "fonteSaida": "resumos/{periodo}/overview.json:insights.uf.topUFs",
+                "formula": "sum(total) por UF, ordenar desc, limitar 12"
+            },
+            {
+                "id": "concentracaoTop10",
+                "fonteSaida": "resumos/{periodo}/overview.json:insights.concentracao",
+                "formula": "top10Total = soma dos 10 maiores totais; top10Percentual = top10Total/totalGasto*100"
+            },
+            {
+                "id": "medias",
+                "fonteSaida": "resumos/{periodo}/overview.json:insights.medias",
+                "formula": "porAgenteComGasto = totalGasto/agentesComGasto; porLancamento = totalGasto/totalLancamentos"
+            },
+            {
+                "id": "insightDiario",
+                "fonteSaida": "resumos/{periodo}/overview.json:insights.diario",
+                "formula": "selecionar a dataDocumento mais recente disponível; dentro dela, escolher o maior valor"
+            }
+        ]
+    }
+
+def write_metodologia_docs(out_dir: Path, cmap: CategoryMap, mandate_start_year: int) -> None:
+    write_json(out_dir / "metodologia.json", build_metodologia_global())
+    write_json(out_dir / "federal/camara/metodologia_scope.json", build_metodologia_scope_camara(cmap, mandate_start_year))
+
 
 def http_get_json(url: str, params: dict = None, retries: int = 8, timeout_s: int = 120) -> dict:
     """GET JSON with retry/backoff for transient HTTP failures (429/5xx)."""
@@ -895,6 +1017,7 @@ def main():
     out_mapping_path = out_dir / "federal/camara/mapping/categoria/category_map.json"
     ensure_dir(out_mapping_path.parent)
     out_mapping_path.write_text(mapping_path.read_text(encoding="utf-8"), encoding="utf-8")
+    write_metodologia_docs(out_dir, cmap, mandate_start_year)
 
     deputados = fetch_deputados()
 
@@ -979,7 +1102,9 @@ def main():
             "mandatoInicioAno": mandate_start_year,
             "pathConsultasRoot": "federal/camara/consultas",
             "pathCategoryMap": "federal/camara/mapping/categoria/category_map.json",
-            "pathCategoryMapSource": "mapping/federal/deputados/category_map.json"
+            "pathCategoryMapSource": "mapping/federal/deputados/category_map.json",
+            "pathMetodologiaGlobal": "metodologia.json",
+            "pathMetodologiaScope": "federal/camara/metodologia_scope.json"
         }
     ]
     write_json(out_dir / "federal/camara/catalog.json", catalog)
@@ -999,6 +1124,8 @@ def main():
         "pathConsultasRoot": "federal/camara/consultas",
         "pathCategoryMap": "federal/camara/mapping/categoria/category_map.json",
         "pathCategoryMapSource": "mapping/federal/deputados/category_map.json",
+        "pathMetodologiaGlobal": "metodologia.json",
+        "pathMetodologiaScope": "federal/camara/metodologia_scope.json",
         "mandatoInicioAno": mandate_start_year
     }
     existentes = [x for x in (global_catalog.get("datasets") or []) if (x or {}).get("id") != ds_id]
