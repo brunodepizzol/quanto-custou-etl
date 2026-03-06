@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 2
+    },
+    "geradoEm": "2026-03-06T11:38:33.967479Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 220628,
+      "nome": "Mauricio do Vôlei",
+      "uf": "MG",
+      "partido": "PL",
+      "valor": 32090.0,
+      "qtdLancamentos": 40,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 178908,
+      "nome": "Delegado Éder Mauro",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 31999.99,
+      "qtdLancamentos": 12,
+      "qtdRecibosOutros": 5
+    },
+    {
+      "id": 220641,
+      "nome": "Rodrigo Gambale",
+      "uf": "SP",
+      "partido": "PODE",
+      "valor": 29320.0,
+      "qtdLancamentos": 24,
+      "qtdRecibosOutros": 5
+    },
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 28691.4,
+      "qtdLancamentos": 7,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 166402,
+      "nome": "Magda Mofatto",
+      "uf": "GO",
+      "partido": "PRD",
+      "valor": 26301.18,
+      "qtdLancamentos": 9,
+      "qtdRecibosOutros": 2
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 26122.25,
+      "qtdLancamentos": 49,
+      "qtdRecibosOutros": 19
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 25737.12,
+      "qtdLancamentos": 133,
+      "qtdRecibosOutros": 44
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 24868.01,
+      "qtdLancamentos": 41,
+      "qtdRecibosOutros": 10
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 24827.16,
+      "qtdLancamentos": 46,
+      "qtdRecibosOutros": 17
+    },
+    {
+      "id": 220667,
+      "nome": "Pedro Campos",
+      "uf": "PE",
+      "partido": "PSB",
+      "valor": 24593.41,
+      "qtdLancamentos": 67,
+      "qtdRecibosOutros": 10
+    }
+  ]
+}

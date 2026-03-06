@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 7
+    },
+    "geradoEm": "2026-03-06T12:08:53.673733Z",
+    "versaoSchema": "1.2.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 17355860.23,
+    "top1Gasto": {
+      "id": 204539,
+      "nome": "Hercílio Coelho Diniz",
+      "uf": "MG",
+      "partido": "MDB",
+      "valor": 115299.4
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 6186262.38
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 6082819.9
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2661572.12
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1831363.71
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 373352.87
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 168104.52
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 43884.73
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 8500.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2078486.22
+      },
+      {
+        "uf": "MG",
+        "valor": 2049400.8
+      },
+      {
+        "uf": "BA",
+        "valor": 1388617.55
+      },
+      {
+        "uf": "RJ",
+        "valor": 1304607.89
+      },
+      {
+        "uf": "RS",
+        "valor": 1261142.56
+      },
+      {
+        "uf": "PR",
+        "valor": 1088706.1
+      },
+      {
+        "uf": "PE",
+        "valor": 1048380.81
+      },
+      {
+        "uf": "CE",
+        "valor": 761898.08
+      },
+      {
+        "uf": "GO",
+        "valor": 680484.65
+      },
+      {
+        "uf": "PA",
+        "valor": 558225.06
+      },
+      {
+        "uf": "SC",
+        "valor": 448199.79
+      },
+      {
+        "uf": "PI",
+        "valor": 430050.2
+      }
+    ],
+    "agentesConsiderados": 467,
+    "agentesBase": 513,
+    "agentesComGasto": 467,
+    "agentesSemGasto": 46,
+    "totalLancamentos": 18104
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 204539,
+        "nome": "Hercílio Coelho Diniz",
+        "uf": "MG",
+        "partido": "MDB",
+        "valor": 115299.4
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 6186262.38
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 6082819.9
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 2661572.12
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1831363.71
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 373352.87
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 168104.52
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 43884.73
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 8500.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2078486.22
+        },
+        {
+          "uf": "MG",
+          "valor": 2049400.8
+        },
+        {
+          "uf": "BA",
+          "valor": 1388617.55
+        },
+        {
+          "uf": "RJ",
+          "valor": 1304607.89
+        },
+        {
+          "uf": "RS",
+          "valor": 1261142.56
+        },
+        {
+          "uf": "PR",
+          "valor": 1088706.1
+        },
+        {
+          "uf": "PE",
+          "valor": 1048380.81
+        },
+        {
+          "uf": "CE",
+          "valor": 761898.08
+        },
+        {
+          "uf": "GO",
+          "valor": 680484.65
+        },
+        {
+          "uf": "PA",
+          "valor": 558225.06
+        },
+        {
+          "uf": "SC",
+          "valor": 448199.79
+        },
+        {
+          "uf": "PI",
+          "valor": 430050.2
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 825390.96,
+      "top10Percentual": 4.76
+    },
+    "medias": {
+      "porAgenteComGasto": 37164.58,
+      "porLancamento": 958.68
+    },
+    "diario": {
+      "dataReferencia": "2024-10-25",
+      "deputado": {
+        "id": 209787,
+        "nome": "Nikolas Ferreira",
+        "uf": "MG",
+        "partido": "PL"
+      },
+      "valor": 5000.0,
+      "tipoDespesa": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "categoriaQC": "ESCRITORIO",
+      "fornecedor": "MONAGHAN EMPREENDIMENTOS IMOBILIARIOS",
+      "tipoDocumento": "Recibos/Outros",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3605/2024/7809378.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 467,
+      "agentesSemGasto": 46,
+      "totalLancamentos": 18104,
+      "totalGasto": 17355860.23
+    }
+  }
+}

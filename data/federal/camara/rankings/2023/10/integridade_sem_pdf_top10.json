@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 10
+    },
+    "geradoEm": "2026-03-06T11:12:17.789945Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 220692,
+      "nome": "Dal Barreto",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 152616.16,
+      "qtdLancamentos": 22,
+      "qtdSemDocumentoPdf": 20
+    },
+    {
+      "id": 204368,
+      "nome": "Fabio Schiochet",
+      "uf": "SC",
+      "partido": "UNIÃO",
+      "valor": 53362.67,
+      "qtdLancamentos": 47,
+      "qtdSemDocumentoPdf": 39
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 48350.15,
+      "qtdLancamentos": 15,
+      "qtdSemDocumentoPdf": 14
+    },
+    {
+      "id": 74858,
+      "nome": "Lindbergh Farias",
+      "uf": "RJ",
+      "partido": "PT",
+      "valor": 38477.87,
+      "qtdLancamentos": 50,
+      "qtdSemDocumentoPdf": 45
+    },
+    {
+      "id": 220645,
+      "nome": "Erika Hilton",
+      "uf": "SP",
+      "partido": "PSOL",
+      "valor": 37107.69,
+      "qtdLancamentos": 92,
+      "qtdSemDocumentoPdf": 35
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 36622.97,
+      "qtdLancamentos": 41,
+      "qtdSemDocumentoPdf": 40
+    },
+    {
+      "id": 74161,
+      "nome": "Reginaldo Lopes",
+      "uf": "MG",
+      "partido": "PT",
+      "valor": 36409.77,
+      "qtdLancamentos": 51,
+      "qtdSemDocumentoPdf": 44
+    },
+    {
+      "id": 204536,
+      "nome": "Kim Kataguiri",
+      "uf": "SP",
+      "partido": "UNIÃO",
+      "valor": 35164.07,
+      "qtdLancamentos": 36,
+      "qtdSemDocumentoPdf": 35
+    },
+    {
+      "id": 160553,
+      "nome": "Antonio Brito",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 33023.79,
+      "qtdLancamentos": 90,
+      "qtdSemDocumentoPdf": 78
+    },
+    {
+      "id": 204398,
+      "nome": "Felipe Francischini",
+      "uf": "PR",
+      "partido": "UNIÃO",
+      "valor": 32828.91,
+      "qtdLancamentos": 32,
+      "qtdSemDocumentoPdf": 29
+    }
+  ]
+}

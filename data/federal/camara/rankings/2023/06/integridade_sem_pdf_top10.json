@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 6
+    },
+    "geradoEm": "2026-03-06T10:50:07.028322Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorSemDocumentoPdf"
+  },
+  "itens": [
+    {
+      "id": 178876,
+      "nome": "Célio Silveira",
+      "uf": "GO",
+      "partido": "MDB",
+      "valor": 52821.33,
+      "qtdLancamentos": 16,
+      "qtdSemDocumentoPdf": 14
+    },
+    {
+      "id": 204395,
+      "nome": "Pedro Lupion",
+      "uf": "PR",
+      "partido": "REPUBLICANOS",
+      "valor": 49776.99,
+      "qtdLancamentos": 55,
+      "qtdSemDocumentoPdf": 46
+    },
+    {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 46101.39,
+      "qtdLancamentos": 38,
+      "qtdSemDocumentoPdf": 38
+    },
+    {
+      "id": 220699,
+      "nome": "Castro Neto",
+      "uf": "PI",
+      "partido": "PSD",
+      "valor": 45344.72,
+      "qtdLancamentos": 51,
+      "qtdSemDocumentoPdf": 41
+    },
+    {
+      "id": 74398,
+      "nome": "Maria do Rosário",
+      "uf": "RS",
+      "partido": "PT",
+      "valor": 40462.7,
+      "qtdLancamentos": 154,
+      "qtdSemDocumentoPdf": 71
+    },
+    {
+      "id": 74383,
+      "nome": "Giacobo",
+      "uf": "PR",
+      "partido": "PL",
+      "valor": 40149.02,
+      "qtdLancamentos": 5,
+      "qtdSemDocumentoPdf": 4
+    },
+    {
+      "id": 220607,
+      "nome": "Max Lemos",
+      "uf": "RJ",
+      "partido": "PDT",
+      "valor": 40115.76,
+      "qtdLancamentos": 43,
+      "qtdSemDocumentoPdf": 40
+    },
+    {
+      "id": 220675,
+      "nome": "Antônio Doido",
+      "uf": "PA",
+      "partido": "MDB",
+      "valor": 37087.36,
+      "qtdLancamentos": 37,
+      "qtdSemDocumentoPdf": 35
+    },
+    {
+      "id": 123756,
+      "nome": "Antônia Lúcia",
+      "uf": "AC",
+      "partido": "REPUBLICANOS",
+      "valor": 34353.78,
+      "qtdLancamentos": 13,
+      "qtdSemDocumentoPdf": 12
+    },
+    {
+      "id": 204427,
+      "nome": "Fernando Rodolfo",
+      "uf": "PE",
+      "partido": "PL",
+      "valor": 33430.31,
+      "qtdLancamentos": 46,
+      "qtdSemDocumentoPdf": 43
+    }
+  ]
+}

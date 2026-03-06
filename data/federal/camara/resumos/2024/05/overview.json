@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 5
+    },
+    "geradoEm": "2026-03-06T11:55:17.608959Z",
+    "versaoSchema": "1.2.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 19490184.68,
+    "top1Gasto": {
+      "id": 160666,
+      "nome": "Félix Mendonça Júnior",
+      "uf": "BA",
+      "partido": "PDT",
+      "valor": 112922.43
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7566431.25
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 6810895.83
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2767375.78
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1803443.06
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 301830.14
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 173906.21
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 61302.41
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 5000.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2273936.99
+      },
+      {
+        "uf": "MG",
+        "valor": 2110433.92
+      },
+      {
+        "uf": "RJ",
+        "valor": 1641749.45
+      },
+      {
+        "uf": "BA",
+        "valor": 1552053.62
+      },
+      {
+        "uf": "PR",
+        "valor": 1381412.12
+      },
+      {
+        "uf": "RS",
+        "valor": 1138930.29
+      },
+      {
+        "uf": "PE",
+        "valor": 1090670.06
+      },
+      {
+        "uf": "CE",
+        "valor": 798267.27
+      },
+      {
+        "uf": "GO",
+        "valor": 715735.4
+      },
+      {
+        "uf": "SC",
+        "valor": 619145.66
+      },
+      {
+        "uf": "PA",
+        "valor": 582374.19
+      },
+      {
+        "uf": "PB",
+        "valor": 570343.69
+      }
+    ],
+    "agentesConsiderados": 467,
+    "agentesBase": 513,
+    "agentesComGasto": 467,
+    "agentesSemGasto": 46,
+    "totalLancamentos": 18506
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 160666,
+        "nome": "Félix Mendonça Júnior",
+        "uf": "BA",
+        "partido": "PDT",
+        "valor": 112922.43
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 7566431.25
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 6810895.83
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 2767375.78
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1803443.06
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 301830.14
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 173906.21
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 61302.41
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 5000.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2273936.99
+        },
+        {
+          "uf": "MG",
+          "valor": 2110433.92
+        },
+        {
+          "uf": "RJ",
+          "valor": 1641749.45
+        },
+        {
+          "uf": "BA",
+          "valor": 1552053.62
+        },
+        {
+          "uf": "PR",
+          "valor": 1381412.12
+        },
+        {
+          "uf": "RS",
+          "valor": 1138930.29
+        },
+        {
+          "uf": "PE",
+          "valor": 1090670.06
+        },
+        {
+          "uf": "CE",
+          "valor": 798267.27
+        },
+        {
+          "uf": "GO",
+          "valor": 715735.4
+        },
+        {
+          "uf": "SC",
+          "valor": 619145.66
+        },
+        {
+          "uf": "PA",
+          "valor": 582374.19
+        },
+        {
+          "uf": "PB",
+          "valor": 570343.69
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 806477.13,
+      "top10Percentual": 4.14
+    },
+    "medias": {
+      "porAgenteComGasto": 41734.87,
+      "porLancamento": 1053.18
+    },
+    "diario": {
+      "dataReferencia": "2024-08-23",
+      "deputado": {
+        "id": 138286,
+        "nome": "Luciano Alves",
+        "uf": "PR",
+        "partido": "PSD"
+      },
+      "valor": 30000.0,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "categoriaQC": "DIVULGACAO",
+      "fornecedor": "CARLOS MOREIRA CONEGUNDES 489.909.226-15",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3736/2024/7790901.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 467,
+      "agentesSemGasto": 46,
+      "totalLancamentos": 18506,
+      "totalGasto": 19490184.68
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "tipo": "ranking_integridade",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mandato",
+      "inicioAno": 2023,
+      "fimAno": 2024,
+      "totalMesesIncluidos": 24
+    },
+    "geradoEm": "2026-03-06T12:37:52.448434Z",
+    "versaoSchema": "1.0.0",
+    "versaoCategoryMap": "1.0.0",
+    "criterio": {
+      "consideraAtivosNoPeriodo": true
+    },
+    "metrica": "valorRecibosOutros"
+  },
+  "itens": [
+    {
+      "id": 122158,
+      "nome": "Pedro Paulo",
+      "uf": "RJ",
+      "partido": "PSD",
+      "valor": 637910.87,
+      "qtdLancamentos": 387,
+      "qtdRecibosOutros": 46
+    },
+    {
+      "id": 92699,
+      "nome": "Fernando Monteiro",
+      "uf": "PE",
+      "partido": "PSD",
+      "valor": 598463.36,
+      "qtdLancamentos": 949,
+      "qtdRecibosOutros": 74
+    },
+    {
+      "id": 98057,
+      "nome": "Lafayette de Andrada",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 592656.6,
+      "qtdLancamentos": 906,
+      "qtdRecibosOutros": 366
+    },
+    {
+      "id": 160665,
+      "nome": "Augusto Coutinho",
+      "uf": "PE",
+      "partido": "REPUBLICANOS",
+      "valor": 582236.47,
+      "qtdLancamentos": 1023,
+      "qtdRecibosOutros": 227
+    },
+    {
+      "id": 178908,
+      "nome": "Delegado Éder Mauro",
+      "uf": "PA",
+      "partido": "PL",
+      "valor": 565527.22,
+      "qtdLancamentos": 234,
+      "qtdRecibosOutros": 80
+    },
+    {
+      "id": 204473,
+      "nome": "General Girão",
+      "uf": "RN",
+      "partido": "PL",
+      "valor": 538294.73,
+      "qtdLancamentos": 1342,
+      "qtdRecibosOutros": 415
+    },
+    {
+      "id": 220631,
+      "nome": "Samuel Viana",
+      "uf": "MG",
+      "partido": "REPUBLICANOS",
+      "valor": 533534.44,
+      "qtdLancamentos": 2027,
+      "qtdRecibosOutros": 363
+    },
+    {
+      "id": 220630,
+      "nome": "Pedro Aihara",
+      "uf": "MG",
+      "partido": "PRD",
+      "valor": 524618.77,
+      "qtdLancamentos": 1763,
+      "qtdRecibosOutros": 663
+    },
+    {
+      "id": 160553,
+      "nome": "Antonio Brito",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 509555.23,
+      "qtdLancamentos": 1430,
+      "qtdRecibosOutros": 206
+    },
+    {
+      "id": 205550,
+      "nome": "Jorge Braz",
+      "uf": "RJ",
+      "partido": "REPUBLICANOS",
+      "valor": 509260.47,
+      "qtdLancamentos": 598,
+      "qtdRecibosOutros": 99
+    }
+  ]
+}
