@@ -5,10 +5,10 @@
     "periodo": {
       "tipo": "mandato",
       "inicioAno": 2023,
-      "fimAno": 2023,
-      "totalMesesIncluidos": 12
+      "fimAno": 2026,
+      "totalMesesIncluidos": 13
     },
-    "geradoEm": "2026-03-05T22:12:46.679167Z",
+    "geradoEm": "2026-03-06T04:58:06.323834Z",
     "versaoSchema": "1.0.0",
     "versaoCategoryMap": "1.0.0",
     "criterio": {
@@ -18,49 +18,58 @@
   },
   "itens": [
     {
+      "id": 74057,
+      "nome": "Alice Portugal",
+      "uf": "BA",
+      "partido": "PCdoB",
+      "valor": 462324.32,
+      "qtdLancamentos": 412,
+      "qtdSemDocumentoPdf": 403
+    },
+    {
       "id": 74383,
       "nome": "Giacobo",
       "uf": "PR",
       "partido": "PL",
       "valor": 436593.81,
-      "qtdLancamentos": 126,
+      "qtdLancamentos": 130,
       "qtdSemDocumentoPdf": 112
-    },
-    {
-      "id": 74057,
-      "nome": "Alice Portugal",
-      "uf": "BA",
-      "partido": "PCdoB",
-      "valor": 432582.69,
-      "qtdLancamentos": 405,
-      "qtdSemDocumentoPdf": 397
-    },
-    {
-      "id": 74858,
-      "nome": "Lindbergh Farias",
-      "uf": "RJ",
-      "partido": "PT",
-      "valor": 358289.2,
-      "qtdLancamentos": 508,
-      "qtdSemDocumentoPdf": 477
     },
     {
       "id": 220607,
       "nome": "Max Lemos",
       "uf": "RJ",
       "partido": "PDT",
-      "valor": 348878.84,
-      "qtdLancamentos": 333,
-      "qtdSemDocumentoPdf": 305
+      "valor": 374028.84,
+      "qtdLancamentos": 336,
+      "qtdSemDocumentoPdf": 306
+    },
+    {
+      "id": 74858,
+      "nome": "Lindbergh Farias",
+      "uf": "RJ",
+      "partido": "PT",
+      "valor": 358864.62,
+      "qtdLancamentos": 512,
+      "qtdSemDocumentoPdf": 479
     },
     {
       "id": 160512,
       "nome": "Aureo Ribeiro",
       "uf": "RJ",
       "partido": "SOLIDARIEDADE",
-      "valor": 342297.9,
-      "qtdLancamentos": 275,
-      "qtdSemDocumentoPdf": 225
+      "valor": 342572.4,
+      "qtdLancamentos": 279,
+      "qtdSemDocumentoPdf": 226
+    },
+    {
+      "id": 141485,
+      "nome": "Luiz Carlos Busato",
+      "uf": "RS",
+      "partido": "UNIÃO",
+      "valor": 326784.88,
+      "qtdLancamentos": 496,
+      "qtdSemDocumentoPdf": 397
     },
     {
       "id": 204395,
@@ -68,7 +77,7 @@
       "uf": "PR",
       "partido": "REPUBLICANOS",
       "valor": 326325.1,
-      "qtdLancamentos": 438,
+      "qtdLancamentos": 439,
       "qtdSemDocumentoPdf": 377
     },
     {
@@ -76,36 +85,27 @@
       "nome": "Reginaldo Lopes",
       "uf": "MG",
       "partido": "PT",
-      "valor": 321221.73,
-      "qtdLancamentos": 515,
-      "qtdSemDocumentoPdf": 428
-    },
-    {
-      "id": 141485,
-      "nome": "Luiz Carlos Busato",
-      "uf": "RS",
-      "partido": "UNIÃO",
-      "valor": 320804.72,
-      "qtdLancamentos": 444,
-      "qtdSemDocumentoPdf": 357
+      "valor": 321275.61,
+      "qtdLancamentos": 532,
+      "qtdSemDocumentoPdf": 429
     },
     {
       "id": 160604,
       "nome": "Pedro Uczai",
       "uf": "SC",
       "partido": "PT",
-      "valor": 298225.48,
-      "qtdLancamentos": 1160,
-      "qtdSemDocumentoPdf": 655
+      "valor": 304290.55,
+      "qtdLancamentos": 1220,
+      "qtdSemDocumentoPdf": 686
     },
     {
       "id": 220554,
       "nome": "Alexandre Lindenmeyer",
       "uf": "RS",
       "partido": "PT",
-      "valor": 294483.94,
-      "qtdLancamentos": 2039,
-      "qtdSemDocumentoPdf": 760
+      "valor": 299435.74,
+      "qtdLancamentos": 2092,
+      "qtdSemDocumentoPdf": 781
     }
   ]
 }

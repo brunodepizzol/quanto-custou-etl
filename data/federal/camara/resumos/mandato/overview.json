@@ -5,54 +5,54 @@
     "periodo": {
       "tipo": "mandato",
       "inicioAno": 2023,
-      "fimAno": 2023,
-      "totalMesesIncluidos": 12
+      "fimAno": 2026,
+      "totalMesesIncluidos": 13
     },
-    "geradoEm": "2026-03-05T22:12:46.684914Z",
+    "geradoEm": "2026-03-06T04:58:06.330992Z",
     "versaoSchema": "1.1.0",
     "versaoCategoryMap": "1.0.0"
   },
   "kpis": {
-    "totalGasto": 215379412.26,
+    "totalGasto": 230448765.91,
     "top1Gasto": {
-      "id": 73486,
-      "nome": "Pompeo de Mattos",
-      "uf": "RS",
-      "partido": "PDT",
-      "valor": 644056.54
+      "id": 220590,
+      "nome": "Coronel Ulysses",
+      "uf": "AC",
+      "partido": "UNIÃO",
+      "valor": 702289.27
     },
     "topCategorias": [
       {
         "categoriaQC": "DIVULGACAO",
-        "valor": 82320148.82
+        "valor": 89655022.94
       },
       {
         "categoriaQC": "PASSAGENS",
-        "valor": 81106778.86
+        "valor": 84528388.92
       },
       {
         "categoriaQC": "ESCRITORIO",
-        "valor": 28510099.86
+        "valor": 31180880.9
       },
       {
         "categoriaQC": "COMBUSTIVEL",
-        "valor": 17540156.21
+        "valor": 18830402.56
       },
       {
         "categoriaQC": "CORREIOS_TELEFONIA",
-        "valor": 2566522.95
+        "valor": 2711006.43
       },
       {
         "categoriaQC": "HOSPEDAGEM",
-        "valor": 2490300.02
+        "valor": 2667745.63
       },
       {
         "categoriaQC": "ALIMENTACAO",
-        "valor": 707253.93
+        "valor": 730166.92
       },
       {
         "categoriaQC": "CONSULTORIA_SERVICOS",
-        "valor": 138151.61
+        "valor": 145151.61
       },
       {
         "categoriaQC": "DEMAIS CATEGORIAS",
@@ -62,102 +62,102 @@
     "topUFs": [
       {
         "uf": "SP",
-        "valor": 25788891.51
+        "valor": 27762064.38
       },
       {
         "uf": "MG",
-        "valor": 22774338.52
+        "valor": 24299176.61
       },
       {
         "uf": "BA",
-        "valor": 17990946.87
+        "valor": 19210782.63
       },
       {
         "uf": "RJ",
-        "valor": 17358124.17
+        "valor": 18491397.57
       },
       {
         "uf": "RS",
-        "valor": 13930891.67
+        "valor": 14848093.83
       },
       {
         "uf": "PR",
-        "valor": 12985455.79
+        "valor": 13853438.18
       },
       {
         "uf": "PE",
-        "valor": 11525408.29
+        "valor": 12283019.35
       },
       {
         "uf": "CE",
-        "valor": 8296294.36
+        "valor": 8949216.53
       },
       {
         "uf": "PA",
-        "valor": 7667897.88
+        "valor": 8026363.65
       },
       {
         "uf": "GO",
-        "valor": 6600994.19
-      },
-      {
-        "uf": "MA",
-        "valor": 6307050.97
+        "valor": 7096410.59
       },
       {
         "uf": "SC",
-        "valor": 6284653.48
+        "valor": 6731667.27
+      },
+      {
+        "uf": "MA",
+        "valor": 6627123.93
       }
     ],
-    "agentesConsiderados": 489,
+    "agentesConsiderados": 507,
     "agentesBase": 513,
-    "agentesComGasto": 489,
-    "agentesSemGasto": 24,
-    "totalLancamentos": 198529
+    "agentesComGasto": 507,
+    "agentesSemGasto": 6,
+    "totalLancamentos": 207061
   },
   "insights": {
     "gasto": {
       "top1Gasto": {
-        "id": 73486,
-        "nome": "Pompeo de Mattos",
-        "uf": "RS",
-        "partido": "PDT",
-        "valor": 644056.54
+        "id": 220590,
+        "nome": "Coronel Ulysses",
+        "uf": "AC",
+        "partido": "UNIÃO",
+        "valor": 702289.27
       }
     },
     "categoria": {
       "top8MaisDemais": [
         {
           "categoriaQC": "DIVULGACAO",
-          "valor": 82320148.82
+          "valor": 89655022.94
         },
         {
           "categoriaQC": "PASSAGENS",
-          "valor": 81106778.86
+          "valor": 84528388.92
         },
         {
           "categoriaQC": "ESCRITORIO",
-          "valor": 28510099.86
+          "valor": 31180880.9
         },
         {
           "categoriaQC": "COMBUSTIVEL",
-          "valor": 17540156.21
+          "valor": 18830402.56
         },
         {
           "categoriaQC": "CORREIOS_TELEFONIA",
-          "valor": 2566522.95
+          "valor": 2711006.43
         },
         {
           "categoriaQC": "HOSPEDAGEM",
-          "valor": 2490300.02
+          "valor": 2667745.63
         },
         {
           "categoriaQC": "ALIMENTACAO",
-          "valor": 707253.93
+          "valor": 730166.92
         },
         {
           "categoriaQC": "CONSULTORIA_SERVICOS",
-          "valor": 138151.61
+          "valor": 145151.61
         },
         {
           "categoriaQC": "DEMAIS CATEGORIAS",
@@ -169,68 +169,68 @@
       "topUFs": [
         {
           "uf": "SP",
-          "valor": 25788891.51
+          "valor": 27762064.38
         },
         {
           "uf": "MG",
-          "valor": 22774338.52
+          "valor": 24299176.61
         },
         {
           "uf": "BA",
-          "valor": 17990946.87
+          "valor": 19210782.63
         },
         {
           "uf": "RJ",
-          "valor": 17358124.17
+          "valor": 18491397.57
         },
         {
           "uf": "RS",
-          "valor": 13930891.67
+          "valor": 14848093.83
         },
         {
           "uf": "PR",
-          "valor": 12985455.79
+          "valor": 13853438.18
         },
         {
           "uf": "PE",
-          "valor": 11525408.29
+          "valor": 12283019.35
         },
         {
           "uf": "CE",
-          "valor": 8296294.36
+          "valor": 8949216.53
         },
         {
           "uf": "PA",
-          "valor": 7667897.88
+          "valor": 8026363.65
         },
         {
           "uf": "GO",
-          "valor": 6600994.19
-        },
-        {
-          "uf": "MA",
-          "valor": 6307050.97
+          "valor": 7096410.59
         },
         {
           "uf": "SC",
-          "valor": 6284653.48
+          "valor": 6731667.27
+        },
+        {
+          "uf": "MA",
+          "valor": 6627123.93
         }
       ]
     },
     "concentracao": {
-      "top10Total": 6054331.63,
+      "top10Total": 6471266.18,
       "top10Percentual": 2.81
     },
     "medias": {
-      "porAgenteComGasto": 440448.7,
-      "porLancamento": 1084.88
+      "porAgenteComGasto": 454534.06,
+      "porLancamento": 1112.95
     },
     "base": {
       "agentesBase": 513,
-      "agentesComGasto": 489,
-      "agentesSemGasto": 24,
-      "totalLancamentos": 198529,
-      "totalGasto": 215379412.26
+      "agentesComGasto": 507,
+      "agentesSemGasto": 6,
+      "totalLancamentos": 207061,
+      "totalGasto": 230448765.91
     }
   }
 }

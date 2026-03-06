@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 220642,
-    "geradoEm": "2026-03-05T22:12:46.768006Z",
+    "geradoEm": "2026-03-06T04:58:06.434914Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,26 +13,27 @@
     "partido": "PP",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220642.jpg",
     "totaisMandato": {
-      "total": 3126.95,
-      "qtdLancamentos": 5,
+      "total": 56470.16,
+      "qtdLancamentos": 13,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 0.0,
+        "COMBUSTIVEL": 2732.31,
         "CONSULTORIA_SERVICOS": 0.0,
         "CORREIOS_TELEFONIA": 0.0,
-        "DIVULGACAO": 0.0,
-        "ESCRITORIO": 827.25,
+        "DIVULGACAO": 24500.0,
+        "ESCRITORIO": 12338.15,
         "HOSPEDAGEM": 874.12,
         "OUTROS": 0.0,
-        "PASSAGENS": 1425.58
+        "PASSAGENS": 16025.58
       },
       "qtdSemDocumentoPdf": 3,
       "valorSemDocumentoPdf": 583.64,
-      "qtdRecibosOutros": 0,
-      "valorRecibosOutros": 0.0
+      "qtdRecibosOutros": 3,
+      "valorRecibosOutros": 26110.9
     },
     "totaisAno": {
-      "2023": 3126.95
+      "2023": 3126.95,
+      "2026": 53343.21
     },
     "porMes": {
       "2023-01": 0.0,
@@ -46,12 +47,13 @@
       "2023-09": 0.0,
       "2023-10": 0.0,
       "2023-11": 0.0,
-      "2023-12": 0.0
+      "2023-12": 0.0,
+      "2026-01": 53343.21
     },
     "maiorCategoria": {
-      "categoria": "PASSAGENS",
-      "valor": 1425.58,
-      "pct": 45.59
+      "categoria": "DIVULGACAO",
+      "valor": 24500.0,
+      "pct": 43.39
     }
   }
 }

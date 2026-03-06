@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 234673,
-    "geradoEm": "2026-03-05T22:12:46.808192Z",
+    "geradoEm": "2026-03-06T04:58:06.500150Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,26 +13,27 @@
     "partido": "REPUBLICANOS",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/234673.jpg",
     "totaisMandato": {
-      "total": 0.0,
-      "qtdLancamentos": 0,
+      "total": 33125.44,
+      "qtdLancamentos": 26,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 0.0,
+        "COMBUSTIVEL": 4775.44,
         "CONSULTORIA_SERVICOS": 0.0,
         "CORREIOS_TELEFONIA": 0.0,
-        "DIVULGACAO": 0.0,
+        "DIVULGACAO": 17950.0,
         "ESCRITORIO": 0.0,
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
-        "PASSAGENS": 0.0
+        "PASSAGENS": 10400.0
       },
-      "qtdSemDocumentoPdf": 0,
-      "valorSemDocumentoPdf": 0.0,
+      "qtdSemDocumentoPdf": 6,
+      "valorSemDocumentoPdf": 10950.0,
       "qtdRecibosOutros": 0,
       "valorRecibosOutros": 0.0
     },
     "totaisAno": {
-      "2023": 0.0
+      "2023": 0.0,
+      "2026": 33125.44
     },
     "porMes": {
       "2023-01": 0.0,
@@ -46,12 +47,13 @@
       "2023-09": 0.0,
       "2023-10": 0.0,
       "2023-11": 0.0,
-      "2023-12": 0.0
+      "2023-12": 0.0,
+      "2026-01": 33125.44
     },
     "maiorCategoria": {
-      "categoria": "ALIMENTACAO",
-      "valor": 0.0,
-      "pct": 0.0
+      "categoria": "DIVULGACAO",
+      "valor": 17950.0,
+      "pct": 54.19
     }
   }
 }

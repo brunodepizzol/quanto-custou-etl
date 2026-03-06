@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 141518,
-    "geradoEm": "2026-03-05T22:12:46.796979Z",
+    "geradoEm": "2026-03-06T04:58:06.481659Z",
     "versaoSchema": "1.1.0"
   },
   "data": {
@@ -13,26 +13,27 @@
     "partido": "SOLIDARIEDADE",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/141518.jpg",
     "totaisMandato": {
-      "total": 13015.85,
-      "qtdLancamentos": 17,
+      "total": 41414.71,
+      "qtdLancamentos": 22,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 253.24,
+        "COMBUSTIVEL": 1822.1,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 0.0,
-        "DIVULGACAO": 0.0,
+        "CORREIOS_TELEFONIA": 330.0,
+        "DIVULGACAO": 20000.0,
         "ESCRITORIO": 0.0,
         "HOSPEDAGEM": 0.0,
         "OUTROS": 0.0,
-        "PASSAGENS": 12762.61
+        "PASSAGENS": 19262.61
       },
-      "qtdSemDocumentoPdf": 16,
-      "valorSemDocumentoPdf": 9782.52,
+      "qtdSemDocumentoPdf": 17,
+      "valorSemDocumentoPdf": 10112.52,
       "qtdRecibosOutros": 1,
       "valorRecibosOutros": 3233.33
     },
     "totaisAno": {
-      "2023": 13015.85
+      "2023": 13015.85,
+      "2026": 28398.86
     },
     "porMes": {
       "2023-01": 0.0,
@@ -46,12 +47,13 @@
       "2023-09": 0.0,
       "2023-10": 0.0,
       "2023-11": 0.0,
-      "2023-12": 13015.85
+      "2023-12": 13015.85,
+      "2026-01": 28398.86
     },
     "maiorCategoria": {
-      "categoria": "PASSAGENS",
-      "valor": 12762.61,
-      "pct": 98.05
+      "categoria": "DIVULGACAO",
+      "valor": 20000.0,
+      "pct": 48.29
     }
   }
 }
