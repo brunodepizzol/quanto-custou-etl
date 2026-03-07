@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "geradoEm": "2026-03-07T13:20:46.202011Z",
+    "versaoSchema": "1.0.0",
+    "tipo": "global_catalog"
+  },
+  "datasets": [
+    {
+      "id": "federal/camara",
+      "escopo": "federal",
+      "poder": "camara",
+      "descricao": "Rankings e resumos (Deputados Federais) gerados a partir da API da Câmara",
+      "pathCatalog": "federal/camara/catalog.json",
+      "pathBaseData": "federal/camara",
+      "pathConsultasRoot": "federal/camara/consultas",
+      "pathCategoryMap": "federal/camara/mapping/categoria/category_map.json",
+      "pathCategoryMapSource": "mapping/federal/deputados/category_map.json",
+      "pathMetodologiaGlobal": "metodologia.json",
+      "pathMetodologiaScope": "federal/camara/metodologia_scope.json",
+      "mandatoInicioAno": 2023
+    }
+  ]
+}

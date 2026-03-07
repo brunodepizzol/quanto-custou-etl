@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 8
+    },
+    "geradoEm": "2026-03-07T13:00:24.089154Z",
+    "versaoSchema": "2.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 20676819.23,
+    "totalLiquido": 20676819.23,
+    "totalBruto": 21651430.03,
+    "totalAjustes": -974610.8,
+    "top1Gasto": {
+      "id": 160601,
+      "nome": "Pr. Marco Feliciano",
+      "uf": "SP",
+      "partido": "PL",
+      "valor": 164053.53,
+      "valorLiquido": 164053.53,
+      "valorBruto": 164053.53,
+      "valorAjustes": 0.0
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 7953786.0,
+        "valorLiquido": 7953786.0,
+        "valorBruto": 8928396.8,
+        "valorAjustes": -974610.8
+      },
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7617210.31,
+        "valorLiquido": 7617210.31,
+        "valorBruto": 7617210.31,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2754506.53,
+        "valorLiquido": 2754506.53,
+        "valorBruto": 2754506.53,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1774294.44,
+        "valorLiquido": 1774294.44,
+        "valorBruto": 1774294.44,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 260599.29,
+        "valorLiquido": 260599.29,
+        "valorBruto": 260599.29,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 234382.72,
+        "valorLiquido": 234382.72,
+        "valorBruto": 234382.72,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 82039.94,
+        "valorLiquido": 82039.94,
+        "valorBruto": 82039.94,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 0.0,
+        "valorLiquido": 0.0,
+        "valorBruto": 0.0,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": -0.0,
+        "valorLiquido": -0.0,
+        "valorBruto": 0.0,
+        "valorAjustes": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2563005.76,
+        "valorLiquido": 2563005.76,
+        "valorBruto": 2655165.92,
+        "valorAjustes": -92160.16
+      },
+      {
+        "uf": "MG",
+        "valor": 2083814.23,
+        "valorLiquido": 2083814.23,
+        "valorBruto": 2187519.42,
+        "valorAjustes": -103705.19
+      },
+      {
+        "uf": "BA",
+        "valor": 1651888.76,
+        "valorLiquido": 1651888.76,
+        "valorBruto": 1716618.97,
+        "valorAjustes": -64730.21
+      },
+      {
+        "uf": "RJ",
+        "valor": 1598056.54,
+        "valorLiquido": 1598056.54,
+        "valorBruto": 1744833.9,
+        "valorAjustes": -146777.36
+      },
+      {
+        "uf": "RS",
+        "valor": 1358254.99,
+        "valorLiquido": 1358254.99,
+        "valorBruto": 1421179.47,
+        "valorAjustes": -62924.48
+      },
+      {
+        "uf": "PR",
+        "valor": 1279947.55,
+        "valorLiquido": 1279947.55,
+        "valorBruto": 1333471.87,
+        "valorAjustes": -53524.32
+      },
+      {
+        "uf": "PE",
+        "valor": 1090872.26,
+        "valorLiquido": 1090872.26,
+        "valorBruto": 1143840.01,
+        "valorAjustes": -52967.75
+      },
+      {
+        "uf": "CE",
+        "valor": 830035.94,
+        "valorLiquido": 830035.94,
+        "valorBruto": 874117.64,
+        "valorAjustes": -44081.7
+      },
+      {
+        "uf": "PB",
+        "valor": 638598.61,
+        "valorLiquido": 638598.61,
+        "valorBruto": 673123.15,
+        "valorAjustes": -34524.54
+      },
+      {
+        "uf": "PA",
+        "valor": 635217.88,
+        "valorLiquido": 635217.88,
+        "valorBruto": 678035.44,
+        "valorAjustes": -42817.56
+      },
+      {
+        "uf": "GO",
+        "valor": 628977.35,
+        "valorLiquido": 628977.35,
+        "valorBruto": 628977.35,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "SC",
+        "valor": 628579.28,
+        "valorLiquido": 628579.28,
+        "valorBruto": 659437.56,
+        "valorAjustes": -30858.28
+      }
+    ],
+    "agentesConsiderados": 466,
+    "agentesBase": 513,
+    "agentesComGasto": 466,
+    "agentesSemGasto": 47,
+    "totalLancamentos": 20710
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 160601,
+        "nome": "Pr. Marco Feliciano",
+        "uf": "SP",
+        "partido": "PL",
+        "valor": 164053.53,
+        "valorLiquido": 164053.53,
+        "valorBruto": 164053.53,
+        "valorAjustes": 0.0
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 7953786.0,
+          "valorLiquido": 7953786.0,
+          "valorBruto": 8928396.8,
+          "valorAjustes": -974610.8
+        },
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 7617210.31,
+          "valorLiquido": 7617210.31,
+          "valorBruto": 7617210.31,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 2754506.53,
+          "valorLiquido": 2754506.53,
+          "valorBruto": 2754506.53,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1774294.44,
+          "valorLiquido": 1774294.44,
+          "valorBruto": 1774294.44,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 260599.29,
+          "valorLiquido": 260599.29,
+          "valorBruto": 260599.29,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 234382.72,
+          "valorLiquido": 234382.72,
+          "valorBruto": 234382.72,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 82039.94,
+          "valorLiquido": 82039.94,
+          "valorBruto": 82039.94,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 0.0,
+          "valorLiquido": 0.0,
+          "valorBruto": 0.0,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": -0.0,
+          "valorLiquido": -0.0,
+          "valorBruto": 0.0,
+          "valorAjustes": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2563005.76,
+          "valorLiquido": 2563005.76,
+          "valorBruto": 2655165.92,
+          "valorAjustes": -92160.16
+        },
+        {
+          "uf": "MG",
+          "valor": 2083814.23,
+          "valorLiquido": 2083814.23,
+          "valorBruto": 2187519.42,
+          "valorAjustes": -103705.19
+        },
+        {
+          "uf": "BA",
+          "valor": 1651888.76,
+          "valorLiquido": 1651888.76,
+          "valorBruto": 1716618.97,
+          "valorAjustes": -64730.21
+        },
+        {
+          "uf": "RJ",
+          "valor": 1598056.54,
+          "valorLiquido": 1598056.54,
+          "valorBruto": 1744833.9,
+          "valorAjustes": -146777.36
+        },
+        {
+          "uf": "RS",
+          "valor": 1358254.99,
+          "valorLiquido": 1358254.99,
+          "valorBruto": 1421179.47,
+          "valorAjustes": -62924.48
+        },
+        {
+          "uf": "PR",
+          "valor": 1279947.55,
+          "valorLiquido": 1279947.55,
+          "valorBruto": 1333471.87,
+          "valorAjustes": -53524.32
+        },
+        {
+          "uf": "PE",
+          "valor": 1090872.26,
+          "valorLiquido": 1090872.26,
+          "valorBruto": 1143840.01,
+          "valorAjustes": -52967.75
+        },
+        {
+          "uf": "CE",
+          "valor": 830035.94,
+          "valorLiquido": 830035.94,
+          "valorBruto": 874117.64,
+          "valorAjustes": -44081.7
+        },
+        {
+          "uf": "PB",
+          "valor": 638598.61,
+          "valorLiquido": 638598.61,
+          "valorBruto": 673123.15,
+          "valorAjustes": -34524.54
+        },
+        {
+          "uf": "PA",
+          "valor": 635217.88,
+          "valorLiquido": 635217.88,
+          "valorBruto": 678035.44,
+          "valorAjustes": -42817.56
+        },
+        {
+          "uf": "GO",
+          "valor": 628977.35,
+          "valorLiquido": 628977.35,
+          "valorBruto": 628977.35,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "SC",
+          "valor": 628579.28,
+          "valorLiquido": 628579.28,
+          "valorBruto": 659437.56,
+          "valorAjustes": -30858.28
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 1078864.24,
+      "top10Liquido": 1078864.24,
+      "top10Bruto": 1085298.54,
+      "top10Ajustes": -6434.3,
+      "top10Percentual": 5.22
+    },
+    "medias": {
+      "porAgenteComGasto": 44370.86,
+      "porLancamento": 998.4
+    },
+    "diario": {
+      "dataReferencia": "2023-11-21",
+      "deputado": {
+        "id": 220667,
+        "nome": "Pedro Campos",
+        "uf": "PE",
+        "partido": "PSB"
+      },
+      "valor": 12713.0,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "categoriaQC": "DESLOCAMENTO",
+      "fornecedor": "PARVI LOCADORA LTDA",
+      "tipoDocumento": "Recibos/Outros",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3608/2023/7646218.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 466,
+      "agentesSemGasto": 47,
+      "totalLancamentos": 20710,
+      "totalGasto": 20676819.23,
+      "totalLiquido": 20676819.23,
+      "totalBruto": 21651430.03,
+      "totalAjustes": -974610.8
+    }
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2023,
+      "mes": 10
+    },
+    "geradoEm": "2026-03-07T13:10:31.723010Z",
+    "versaoSchema": "2.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 21278172.06,
+    "totalLiquido": 21278172.06,
+    "totalBruto": 22573050.88,
+    "totalAjustes": -1294878.82,
+    "top1Gasto": {
+      "id": 220692,
+      "nome": "Dal Barreto",
+      "uf": "BA",
+      "partido": "UNIÃO",
+      "valor": 179616.16,
+      "valorLiquido": 179616.16,
+      "valorBruto": 179616.16,
+      "valorAjustes": 0.0
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 8345001.61,
+        "valorLiquido": 8345001.61,
+        "valorBruto": 8345001.61,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 7782253.86,
+        "valorLiquido": 7782253.86,
+        "valorBruto": 9077132.68,
+        "valorAjustes": -1294878.82
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2797144.36,
+        "valorLiquido": 2797144.36,
+        "valorBruto": 2797144.36,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1824928.04,
+        "valorLiquido": 1824928.04,
+        "valorBruto": 1824928.04,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 237416.77,
+        "valorLiquido": 237416.77,
+        "valorBruto": 237416.77,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 225599.38,
+        "valorLiquido": 225599.38,
+        "valorBruto": 225599.38,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 65828.04,
+        "valorLiquido": 65828.04,
+        "valorBruto": 65828.04,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 0.0,
+        "valorLiquido": 0.0,
+        "valorBruto": 0.0,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0,
+        "valorLiquido": 0.0,
+        "valorBruto": 0.0,
+        "valorAjustes": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2650900.02,
+        "valorLiquido": 2650900.02,
+        "valorBruto": 2845659.87,
+        "valorAjustes": -194759.85
+      },
+      {
+        "uf": "MG",
+        "valor": 2048398.4,
+        "valorLiquido": 2048398.4,
+        "valorBruto": 2152323.77,
+        "valorAjustes": -103925.37
+      },
+      {
+        "uf": "BA",
+        "valor": 1951044.64,
+        "valorLiquido": 1951044.64,
+        "valorBruto": 2081145.3,
+        "valorAjustes": -130100.66
+      },
+      {
+        "uf": "RJ",
+        "valor": 1745162.18,
+        "valorLiquido": 1745162.18,
+        "valorBruto": 1904895.0,
+        "valorAjustes": -159732.82
+      },
+      {
+        "uf": "RS",
+        "valor": 1317156.06,
+        "valorLiquido": 1317156.06,
+        "valorBruto": 1427206.02,
+        "valorAjustes": -110049.96
+      },
+      {
+        "uf": "PR",
+        "valor": 1297443.22,
+        "valorLiquido": 1297443.22,
+        "valorBruto": 1395840.46,
+        "valorAjustes": -98397.24
+      },
+      {
+        "uf": "PE",
+        "valor": 1105886.83,
+        "valorLiquido": 1105886.83,
+        "valorBruto": 1202272.88,
+        "valorAjustes": -96386.05
+      },
+      {
+        "uf": "PA",
+        "valor": 822704.55,
+        "valorLiquido": 822704.55,
+        "valorBruto": 872989.7,
+        "valorAjustes": -50285.15
+      },
+      {
+        "uf": "CE",
+        "valor": 811195.39,
+        "valorLiquido": 811195.39,
+        "valorBruto": 854615.33,
+        "valorAjustes": -43419.94
+      },
+      {
+        "uf": "PB",
+        "valor": 653982.36,
+        "valorLiquido": 653982.36,
+        "valorBruto": 687834.04,
+        "valorAjustes": -33851.68
+      },
+      {
+        "uf": "SC",
+        "valor": 645376.07,
+        "valorLiquido": 645376.07,
+        "valorBruto": 685113.36,
+        "valorAjustes": -39737.29
+      },
+      {
+        "uf": "MA",
+        "valor": 616812.79,
+        "valorLiquido": 616812.79,
+        "valorBruto": 633706.46,
+        "valorAjustes": -16893.67
+      }
+    ],
+    "agentesConsiderados": 470,
+    "agentesBase": 513,
+    "agentesComGasto": 470,
+    "agentesSemGasto": 43,
+    "totalLancamentos": 20360
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 220692,
+        "nome": "Dal Barreto",
+        "uf": "BA",
+        "partido": "UNIÃO",
+        "valor": 179616.16,
+        "valorLiquido": 179616.16,
+        "valorBruto": 179616.16,
+        "valorAjustes": 0.0
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 8345001.61,
+          "valorLiquido": 8345001.61,
+          "valorBruto": 8345001.61,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 7782253.86,
+          "valorLiquido": 7782253.86,
+          "valorBruto": 9077132.68,
+          "valorAjustes": -1294878.82
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 2797144.36,
+          "valorLiquido": 2797144.36,
+          "valorBruto": 2797144.36,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1824928.04,
+          "valorLiquido": 1824928.04,
+          "valorBruto": 1824928.04,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 237416.77,
+          "valorLiquido": 237416.77,
+          "valorBruto": 237416.77,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 225599.38,
+          "valorLiquido": 225599.38,
+          "valorBruto": 225599.38,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 65828.04,
+          "valorLiquido": 65828.04,
+          "valorBruto": 65828.04,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 0.0,
+          "valorLiquido": 0.0,
+          "valorBruto": 0.0,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0,
+          "valorLiquido": 0.0,
+          "valorBruto": 0.0,
+          "valorAjustes": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2650900.02,
+          "valorLiquido": 2650900.02,
+          "valorBruto": 2845659.87,
+          "valorAjustes": -194759.85
+        },
+        {
+          "uf": "MG",
+          "valor": 2048398.4,
+          "valorLiquido": 2048398.4,
+          "valorBruto": 2152323.77,
+          "valorAjustes": -103925.37
+        },
+        {
+          "uf": "BA",
+          "valor": 1951044.64,
+          "valorLiquido": 1951044.64,
+          "valorBruto": 2081145.3,
+          "valorAjustes": -130100.66
+        },
+        {
+          "uf": "RJ",
+          "valor": 1745162.18,
+          "valorLiquido": 1745162.18,
+          "valorBruto": 1904895.0,
+          "valorAjustes": -159732.82
+        },
+        {
+          "uf": "RS",
+          "valor": 1317156.06,
+          "valorLiquido": 1317156.06,
+          "valorBruto": 1427206.02,
+          "valorAjustes": -110049.96
+        },
+        {
+          "uf": "PR",
+          "valor": 1297443.22,
+          "valorLiquido": 1297443.22,
+          "valorBruto": 1395840.46,
+          "valorAjustes": -98397.24
+        },
+        {
+          "uf": "PE",
+          "valor": 1105886.83,
+          "valorLiquido": 1105886.83,
+          "valorBruto": 1202272.88,
+          "valorAjustes": -96386.05
+        },
+        {
+          "uf": "PA",
+          "valor": 822704.55,
+          "valorLiquido": 822704.55,
+          "valorBruto": 872989.7,
+          "valorAjustes": -50285.15
+        },
+        {
+          "uf": "CE",
+          "valor": 811195.39,
+          "valorLiquido": 811195.39,
+          "valorBruto": 854615.33,
+          "valorAjustes": -43419.94
+        },
+        {
+          "uf": "PB",
+          "valor": 653982.36,
+          "valorLiquido": 653982.36,
+          "valorBruto": 687834.04,
+          "valorAjustes": -33851.68
+        },
+        {
+          "uf": "SC",
+          "valor": 645376.07,
+          "valorLiquido": 645376.07,
+          "valorBruto": 685113.36,
+          "valorAjustes": -39737.29
+        },
+        {
+          "uf": "MA",
+          "valor": 616812.79,
+          "valorLiquido": 616812.79,
+          "valorBruto": 633706.46,
+          "valorAjustes": -16893.67
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 1130768.85,
+      "top10Liquido": 1130768.85,
+      "top10Bruto": 1153812.76,
+      "top10Ajustes": -23043.91,
+      "top10Percentual": 5.31
+    },
+    "medias": {
+      "porAgenteComGasto": 45272.71,
+      "porLancamento": 1045.1
+    },
+    "diario": {
+      "dataReferencia": "2024-01-26",
+      "deputado": {
+        "id": 204553,
+        "nome": "Pastor Sargento Isidório",
+        "uf": "BA",
+        "partido": "AVANTE"
+      },
+      "valor": 12713.0,
+      "tipoDespesa": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "categoriaQC": "DESLOCAMENTO",
+      "fornecedor": "Realizados Locar Locadora de Veiculos LTDA",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3200/2023/7668384.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 470,
+      "agentesSemGasto": 43,
+      "totalLancamentos": 20360,
+      "totalGasto": 21278172.06,
+      "totalLiquido": 21278172.06,
+      "totalBruto": 22573050.88,
+      "totalAjustes": -1294878.82
+    }
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "meta": {
+    "id": "metodologia_scope_federal_camara",
+    "escopo": "federal/camara",
+    "geradoEm": "2026-03-07T12:10:49.817002Z",
+    "versaoSchema": "1.0.0",
+    "versaoDocumento": "1.0.0"
+  },
+  "fonte": {
+    "orgao": "Câmara dos Deputados",
+    "apiBase": "https://dadosabertos.camara.leg.br/api/v2",
+    "endpoints": [
+      "/deputados",
+      "/deputados/{id}/despesas"
+    ]
+  },
+  "periodizacao": {
+    "mes": "Consulta por ano/mês da API e geração de agregados mensais.",
+    "ano": "Soma dos agregados mensais existentes no ano.",
+    "mandato": "Soma de agregados mensais de 2023 em diante."
+  },
+  "categorizacao": {
+    "pathCategoryMap": "federal/camara/mapping/categoria/category_map.json",
+    "versaoCategoryMap": "1.0.0",
+    "default": "OUTROS",
+    "descricao": "Tipo de despesa oficial agrupado por regras regex versionadas."
+  },
+  "criterios": {
+    "agenteAtivoPeriodo": "Deputado com qtdLancamentos > 0 ou total > 0 no período."
+  },
+  "artefatosSaida": [
+    {
+      "path": "federal/camara/aggregates/{ano}/{mes}/totais_deputados.json",
+      "descricao": "Base agregada mensal por deputado."
+    },
+    {
+      "path": "federal/camara/consultas/{periodo}/deputados.json",
+      "descricao": "Consulta otimizada por período para consumo do front."
+    },
+    {
+      "path": "federal/camara/rankings/{periodo}/*.json",
+      "descricao": "Rankings por total e categoria."
+    },
+    {
+      "path": "federal/camara/resumos/{periodo}/overview.json",
+      "descricao": "KPIs e insights agregados do período."
+    },
+    {
+      "path": "federal/camara/dicionarios/{ano}/{mes}/tipoDespesa_resumo.json",
+      "descricao": "Resumo por tipo de despesa oficial."
+    },
+    {
+      "path": "federal/camara/pendencias/{ano}/{mes}/tipoDespesa_pendentes.json",
+      "descricao": "Tipos que caíram na categoria default."
+    },
+    {
+      "path": "federal/camara/resumos/deputados/{id}.json",
+      "descricao": "Resumo individual de mandato por deputado."
+    },
+    {
+      "path": "federal/camara/resumos/index.json",
+      "descricao": "Índice de deputados, UFs e partidos."
+    }
+  ],
+  "indicadores": [
+    {
+      "id": "totalGasto",
+      "fonteSaida": "resumos/{periodo}/overview.json:kpis.totalGasto",
+      "formula": "sum(totalLiquido por deputado ativo no período), com abertura em totalBruto e totalAjustes"
+    },
+    {
+      "id": "top1Gasto",
+      "fonteSaida": "resumos/{periodo}/overview.json:kpis.top1Gasto",
+      "formula": "argmax(total por deputado ativo no período)"
+    },
+    {
+      "id": "top8MaisDemais",
+      "fonteSaida": "resumos/{periodo}/overview.json:insights.categoria.top8MaisDemais",
+      "formula": "ordenar categorias por valorLiquido, selecionar top 8, residual = totalLiquido - soma(top8Liquido)"
+    },
+    {
+      "id": "topUFs",
+      "fonteSaida": "resumos/{periodo}/overview.json:insights.uf.topUFs",
+      "formula": "sum(totalLiquido) por UF, ordenar desc, limitar 12"
+    },
+    {
+      "id": "concentracaoTop10",
+      "fonteSaida": "resumos/{periodo}/overview.json:insights.concentracao",
+      "formula": "top10Total = soma dos 10 maiores totais líquidos; top10Percentual = top10Total/totalLiquido*100"
+    },
+    {
+      "id": "medias",
+      "fonteSaida": "resumos/{periodo}/overview.json:insights.medias",
+      "formula": "porAgenteComGasto = totalLiquido/agentesComGasto; porLancamento = totalLiquido/totalLancamentos"
+    },
+    {
+      "id": "insightDiario",
+      "fonteSaida": "resumos/{periodo}/overview.json:insights.diario",
+      "formula": "selecionar a dataDocumento mais recente disponível; dentro dela, escolher o maior valor"
+    }
+  ]
+}
