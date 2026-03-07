@@ -5,10 +5,10 @@
     "periodo": {
       "tipo": "mandato",
       "inicioAno": 2023,
-      "fimAno": 2025,
-      "totalMesesIncluidos": 36
+      "fimAno": 2026,
+      "totalMesesIncluidos": 48
     },
-    "geradoEm": "2026-03-07T16:36:54.890747Z",
+    "geradoEm": "2026-03-07T17:41:05.367367Z",
     "versaoSchema": "2.0.0",
     "versaoCategoryMap": "1.0.0",
     "criterio": {
@@ -17,59 +17,48 @@
   },
   "itens": [
     {
+      "id": 222565,
+      "nome": "Soldado Noelio",
+      "uf": "CE",
+      "partido": "UNIÃO",
+      "valor": 2296.97,
+      "valorLiquido": 2296.97,
+      "valorBruto": 2296.97,
+      "valorAjustes": 0.0,
+      "qtdLancamentos": 12
+    },
+    {
+      "id": 235088,
+      "nome": "Ribeiro Neto",
+      "uf": "MA",
+      "partido": "PRD",
+      "valor": 21466.05,
+      "valorLiquido": 21466.05,
+      "valorBruto": 21466.05,
+      "valorAjustes": 0.0,
+      "qtdLancamentos": 17
+    },
+    {
       "id": 204531,
       "nome": "Guilherme Derrite",
       "uf": "SP",
       "partido": "PP",
-      "valor": 11272.17,
-      "valorLiquido": 11272.17,
-      "valorBruto": 11272.17,
+      "valor": 22094.89,
+      "valorLiquido": 22094.89,
+      "valorBruto": 22094.89,
       "valorAjustes": 0.0,
-      "qtdLancamentos": 8
+      "qtdLancamentos": 12
     },
     {
       "id": 234788,
       "nome": "Heloísa Helena",
       "uf": "RJ",
       "partido": "REDE",
-      "valor": 15194.4,
-      "valorLiquido": 15194.4,
-      "valorBruto": 15194.4,
+      "valor": 40023.8,
+      "valorLiquido": 40023.8,
+      "valorBruto": 40023.8,
       "valorAjustes": 0.0,
-      "qtdLancamentos": 2
-    },
-    {
-      "id": 77003,
-      "nome": "Sergio Santos Rodrigues",
-      "uf": "MG",
-      "partido": "PODE",
-      "valor": 15476.53,
-      "valorLiquido": 15476.53,
-      "valorBruto": 15476.53,
-      "valorAjustes": 0.0,
-      "qtdLancamentos": 19
-    },
-    {
-      "id": 234673,
-      "nome": "Vanderlan Alves",
-      "uf": "CE",
-      "partido": "REPUBLICANOS",
-      "valor": 39005.2,
-      "valorLiquido": 39005.2,
-      "valorBruto": 39005.2,
-      "valorAjustes": 0.0,
-      "qtdLancamentos": 26
-    },
-    {
-      "id": 234310,
-      "nome": "Ricardo Galvão",
-      "uf": "SP",
-      "partido": "REDE",
-      "valor": 49460.68,
-      "valorLiquido": 49460.68,
-      "valorBruto": 49460.68,
-      "valorAjustes": 0.0,
-      "qtdLancamentos": 20
+      "qtdLancamentos": 4
     },
     {
       "id": 234253,
@@ -83,15 +72,37 @@
       "qtdLancamentos": 5
     },
     {
-      "id": 73808,
-      "nome": "Sérgio Brito",
-      "uf": "BA",
-      "partido": "PSD",
-      "valor": 83948.86,
-      "valorLiquido": 83948.86,
-      "valorBruto": 84096.41,
-      "valorAjustes": -147.55,
-      "qtdLancamentos": 81
+      "id": 234310,
+      "nome": "Ricardo Galvão",
+      "uf": "SP",
+      "partido": "REDE",
+      "valor": 63894.24,
+      "valorLiquido": 63894.24,
+      "valorBruto": 63894.24,
+      "valorAjustes": 0.0,
+      "qtdLancamentos": 34
+    },
+    {
+      "id": 77003,
+      "nome": "Sergio Santos Rodrigues",
+      "uf": "MG",
+      "partido": "PODE",
+      "valor": 82860.02,
+      "valorLiquido": 82860.02,
+      "valorBruto": 82860.02,
+      "valorAjustes": 0.0,
+      "qtdLancamentos": 56
+    },
+    {
+      "id": 234673,
+      "nome": "Vanderlan Alves",
+      "uf": "CE",
+      "partido": "REPUBLICANOS",
+      "valor": 92288.63,
+      "valorLiquido": 92288.63,
+      "valorBruto": 92288.63,
+      "valorAjustes": 0.0,
+      "qtdLancamentos": 77
     },
     {
       "id": 220715,
@@ -105,26 +116,15 @@
       "qtdLancamentos": 193
     },
     {
-      "id": 74065,
-      "nome": "Fatima Pelaes",
-      "uf": "AP",
-      "partido": "REPUBLICANOS",
-      "valor": 110034.36,
-      "valorLiquido": 110034.36,
-      "valorBruto": 110034.36,
-      "valorAjustes": 0.0,
-      "qtdLancamentos": 10
-    },
-    {
-      "id": 227991,
-      "nome": "Dr Flávio",
-      "uf": "RJ",
-      "partido": "PL",
-      "valor": 149154.14,
-      "valorLiquido": 149154.14,
-      "valorBruto": 151673.96,
-      "valorAjustes": -2519.82,
-      "qtdLancamentos": 106
+      "id": 73808,
+      "nome": "Sérgio Brito",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 132588.26,
+      "valorLiquido": 132588.26,
+      "valorBruto": 132735.81,
+      "valorAjustes": -147.55,
+      "qtdLancamentos": 111
     }
   ]
 }

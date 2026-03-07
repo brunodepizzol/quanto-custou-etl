@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2026,
+      "mes": 3
+    },
+    "geradoEm": "2026-03-07T17:00:09.065476Z",
+    "versaoSchema": "2.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 316080.73,
+    "totalLiquido": 316080.73,
+    "totalBruto": 316080.73,
+    "totalAjustes": 0.0,
+    "top1Gasto": {
+      "id": 74454,
+      "nome": "Eunício Oliveira",
+      "uf": "CE",
+      "partido": "MDB",
+      "valor": 47000.0,
+      "valorLiquido": 47000.0,
+      "valorBruto": 47000.0,
+      "valorAjustes": 0.0
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 179672.0,
+        "valorLiquido": 179672.0,
+        "valorBruto": 179672.0,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 98394.53,
+        "valorLiquido": 98394.53,
+        "valorBruto": 98394.53,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 18360.78,
+        "valorLiquido": 18360.78,
+        "valorBruto": 18360.78,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 9982.25,
+        "valorLiquido": 9982.25,
+        "valorBruto": 9982.25,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 8516.4,
+        "valorLiquido": 8516.4,
+        "valorBruto": 8516.4,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 1154.77,
+        "valorLiquido": 1154.77,
+        "valorBruto": 1154.77,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 0.0,
+        "valorLiquido": 0.0,
+        "valorBruto": 0.0,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 0.0,
+        "valorLiquido": 0.0,
+        "valorBruto": 0.0,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": -0.0,
+        "valorLiquido": -0.0,
+        "valorBruto": -0.0,
+        "valorAjustes": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "PR",
+        "valor": 60874.18,
+        "valorLiquido": 60874.18,
+        "valorBruto": 60874.18,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "AC",
+        "valor": 50956.01,
+        "valorLiquido": 50956.01,
+        "valorBruto": 50956.01,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "CE",
+        "valor": 48306.08,
+        "valorLiquido": 48306.08,
+        "valorBruto": 48306.08,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "RJ",
+        "valor": 38694.22,
+        "valorLiquido": 38694.22,
+        "valorBruto": 38694.22,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "RS",
+        "valor": 21242.46,
+        "valorLiquido": 21242.46,
+        "valorBruto": 21242.46,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "SP",
+        "valor": 14440.85,
+        "valorLiquido": 14440.85,
+        "valorBruto": 14440.85,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "MG",
+        "valor": 13407.94,
+        "valorLiquido": 13407.94,
+        "valorBruto": 13407.94,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "BA",
+        "valor": 10169.06,
+        "valorLiquido": 10169.06,
+        "valorBruto": 10169.06,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "PE",
+        "valor": 9918.43,
+        "valorLiquido": 9918.43,
+        "valorBruto": 9918.43,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "PA",
+        "valor": 9025.48,
+        "valorLiquido": 9025.48,
+        "valorBruto": 9025.48,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "MA",
+        "valor": 7268.33,
+        "valorLiquido": 7268.33,
+        "valorBruto": 7268.33,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "SC",
+        "valor": 6086.84,
+        "valorLiquido": 6086.84,
+        "valorBruto": 6086.84,
+        "valorAjustes": 0.0
+      }
+    ],
+    "agentesConsiderados": 198,
+    "agentesBase": 513,
+    "agentesComGasto": 198,
+    "agentesSemGasto": 315,
+    "totalLancamentos": 448
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 74454,
+        "nome": "Eunício Oliveira",
+        "uf": "CE",
+        "partido": "MDB",
+        "valor": 47000.0,
+        "valorLiquido": 47000.0,
+        "valorBruto": 47000.0,
+        "valorAjustes": 0.0
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 179672.0,
+          "valorLiquido": 179672.0,
+          "valorBruto": 179672.0,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 98394.53,
+          "valorLiquido": 98394.53,
+          "valorBruto": 98394.53,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 18360.78,
+          "valorLiquido": 18360.78,
+          "valorBruto": 18360.78,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 9982.25,
+          "valorLiquido": 9982.25,
+          "valorBruto": 9982.25,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 8516.4,
+          "valorLiquido": 8516.4,
+          "valorBruto": 8516.4,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 1154.77,
+          "valorLiquido": 1154.77,
+          "valorBruto": 1154.77,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 0.0,
+          "valorLiquido": 0.0,
+          "valorBruto": 0.0,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 0.0,
+          "valorLiquido": 0.0,
+          "valorBruto": 0.0,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": -0.0,
+          "valorLiquido": -0.0,
+          "valorBruto": -0.0,
+          "valorAjustes": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "PR",
+          "valor": 60874.18,
+          "valorLiquido": 60874.18,
+          "valorBruto": 60874.18,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "AC",
+          "valor": 50956.01,
+          "valorLiquido": 50956.01,
+          "valorBruto": 50956.01,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "CE",
+          "valor": 48306.08,
+          "valorLiquido": 48306.08,
+          "valorBruto": 48306.08,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "RJ",
+          "valor": 38694.22,
+          "valorLiquido": 38694.22,
+          "valorBruto": 38694.22,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "RS",
+          "valor": 21242.46,
+          "valorLiquido": 21242.46,
+          "valorBruto": 21242.46,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "SP",
+          "valor": 14440.85,
+          "valorLiquido": 14440.85,
+          "valorBruto": 14440.85,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "MG",
+          "valor": 13407.94,
+          "valorLiquido": 13407.94,
+          "valorBruto": 13407.94,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "BA",
+          "valor": 10169.06,
+          "valorLiquido": 10169.06,
+          "valorBruto": 10169.06,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "PE",
+          "valor": 9918.43,
+          "valorLiquido": 9918.43,
+          "valorBruto": 9918.43,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "PA",
+          "valor": 9025.48,
+          "valorLiquido": 9025.48,
+          "valorBruto": 9025.48,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "MA",
+          "valor": 7268.33,
+          "valorLiquido": 7268.33,
+          "valorBruto": 7268.33,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "SC",
+          "valor": 6086.84,
+          "valorLiquido": 6086.84,
+          "valorBruto": 6086.84,
+          "valorAjustes": 0.0
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 199056.1,
+      "top10Liquido": 199056.1,
+      "top10Bruto": 199056.1,
+      "top10Ajustes": 0.0,
+      "top10Percentual": 62.98
+    },
+    "medias": {
+      "porAgenteComGasto": 1596.37,
+      "porLancamento": 705.54
+    },
+    "diario": {
+      "dataReferencia": "2026-03-05",
+      "deputado": {
+        "id": 107970,
+        "nome": "Ana Paula Leão",
+        "uf": "MG",
+        "partido": "PP"
+      },
+      "valor": 320.13,
+      "tipoDespesa": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "categoriaQC": "COMBUSTIVEL",
+      "fornecedor": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
+      "tipoDocumento": "Nota Fiscal Eletrônica",
+      "urlDocumento": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8061141"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 198,
+      "agentesSemGasto": 315,
+      "totalLancamentos": 448,
+      "totalGasto": 316080.73,
+      "totalLiquido": 316080.73,
+      "totalBruto": 316080.73,
+      "totalAjustes": 0.0
+    }
+  }
+}
