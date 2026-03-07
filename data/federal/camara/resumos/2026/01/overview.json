@@ -7,12 +7,12 @@
       "ano": 2026,
       "mes": 1
     },
-    "geradoEm": "2026-03-06T14:02:05.597890Z",
+    "geradoEm": "2026-03-07T04:46:07.545671Z",
     "versaoSchema": "1.2.0",
     "versaoCategoryMap": "1.0.0"
   },
   "kpis": {
-    "totalGasto": 15069353.65,
+    "totalGasto": 15096272.24,
     "top1Gasto": {
       "id": 74356,
       "nome": "Silas Câmara",
@@ -23,19 +23,19 @@
     "topCategorias": [
       {
         "categoriaQC": "DIVULGACAO",
-        "valor": 7334874.12
+        "valor": 7349874.12
       },
       {
         "categoriaQC": "DESLOCAMENTO",
-        "valor": 3421610.06
+        "valor": 3430510.06
       },
       {
         "categoriaQC": "ESCRITORIO",
-        "valor": 2670781.04
+        "valor": 2671209.54
       },
       {
         "categoriaQC": "COMBUSTIVEL",
-        "valor": 1290246.35
+        "valor": 1292065.5
       },
       {
         "categoriaQC": "HOSPEDAGEM",
@@ -43,11 +43,11 @@
       },
       {
         "categoriaQC": "CORREIOS_TELEFONIA",
-        "valor": 144483.48
+        "valor": 144777.91
       },
       {
         "categoriaQC": "ALIMENTACAO",
-        "valor": 22912.99
+        "valor": 23389.5
       },
       {
         "categoriaQC": "CONSULTORIA_SERVICOS",
@@ -93,7 +93,7 @@
       },
       {
         "uf": "GO",
-        "valor": 495416.4
+        "valor": 522334.99
       },
       {
         "uf": "PB",
@@ -108,11 +108,11 @@
         "valor": 364884.93
       }
     ],
-    "agentesConsiderados": 490,
+    "agentesConsiderados": 491,
     "agentesBase": 513,
-    "agentesComGasto": 490,
-    "agentesSemGasto": 23,
-    "totalLancamentos": 8532
+    "agentesComGasto": 491,
+    "agentesSemGasto": 22,
+    "totalLancamentos": 8560
   },
   "insights": {
     "gasto": {
@@ -128,19 +128,19 @@
       "top8MaisDemais": [
         {
           "categoriaQC": "DIVULGACAO",
-          "valor": 7334874.12
+          "valor": 7349874.12
         },
         {
           "categoriaQC": "DESLOCAMENTO",
-          "valor": 3421610.06
+          "valor": 3430510.06
         },
         {
           "categoriaQC": "ESCRITORIO",
-          "valor": 2670781.04
+          "valor": 2671209.54
         },
         {
           "categoriaQC": "COMBUSTIVEL",
-          "valor": 1290246.35
+          "valor": 1292065.5
         },
         {
           "categoriaQC": "HOSPEDAGEM",
@@ -148,11 +148,11 @@
         },
         {
           "categoriaQC": "CORREIOS_TELEFONIA",
-          "valor": 144483.48
+          "valor": 144777.91
         },
         {
           "categoriaQC": "ALIMENTACAO",
-          "valor": 22912.99
+          "valor": 23389.5
         },
         {
           "categoriaQC": "CONSULTORIA_SERVICOS",
@@ -200,7 +200,7 @@
         },
         {
           "uf": "GO",
-          "valor": 495416.4
+          "valor": 522334.99
         },
         {
           "uf": "PB",
@@ -218,11 +218,11 @@
     },
     "concentracao": {
       "top10Total": 713852.4,
-      "top10Percentual": 4.74
+      "top10Percentual": 4.73
     },
     "medias": {
-      "porAgenteComGasto": 30753.78,
-      "porLancamento": 1766.22
+      "porAgenteComGasto": 30745.97,
+      "porLancamento": 1763.58
     },
     "diario": {
       "dataReferencia": "2026-03-03",
@@ -241,10 +241,10 @@
     },
     "base": {
       "agentesBase": 513,
-      "agentesComGasto": 490,
-      "agentesSemGasto": 23,
-      "totalLancamentos": 8532,
-      "totalGasto": 15069353.65
+      "agentesComGasto": 491,
+      "agentesSemGasto": 22,
+      "totalLancamentos": 8560,
+      "totalGasto": 15096272.24
     }
   }
 }
