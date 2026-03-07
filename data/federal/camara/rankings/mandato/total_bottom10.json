@@ -5,10 +5,10 @@
     "periodo": {
       "tipo": "mandato",
       "inicioAno": 2023,
-      "fimAno": 2023,
-      "totalMesesIncluidos": 12
+      "fimAno": 2024,
+      "totalMesesIncluidos": 24
     },
-    "geradoEm": "2026-03-07T13:20:45.873424Z",
+    "geradoEm": "2026-03-07T14:55:23.810361Z",
     "versaoSchema": "2.0.0",
     "versaoCategoryMap": "1.0.0",
     "criterio": {
@@ -39,17 +39,6 @@
       "qtdLancamentos": 1
     },
     {
-      "id": 178884,
-      "nome": "Hildo Rocha",
-      "uf": "MA",
-      "partido": "MDB",
-      "valor": 376.45,
-      "valorLiquido": 376.45,
-      "valorBruto": 376.45,
-      "valorAjustes": 0.0,
-      "qtdLancamentos": 1
-    },
-    {
       "id": 73788,
       "nome": "Ricardo Barros",
       "uf": "PR",
@@ -65,66 +54,77 @@
       "nome": "Guilherme Derrite",
       "uf": "SP",
       "partido": "PP",
-      "valor": 1638.0,
-      "valorLiquido": 1638.0,
-      "valorBruto": 1638.0,
+      "valor": 3030.2,
+      "valorLiquido": 3030.2,
+      "valorBruto": 3030.2,
       "valorAjustes": 0.0,
-      "qtdLancamentos": 2
+      "qtdLancamentos": 3
     },
     {
-      "id": 220642,
-      "nome": "Delegado Bruno Lima",
+      "id": 175765,
+      "nome": "Ribamar Silva",
       "uf": "SP",
-      "partido": "PP",
-      "valor": 3126.95,
-      "valorLiquido": 3126.95,
-      "valorBruto": 3370.56,
-      "valorAjustes": -243.61,
-      "qtdLancamentos": 5
+      "partido": "PSD",
+      "valor": 17257.95,
+      "valorLiquido": 17257.95,
+      "valorBruto": 18187.99,
+      "valorAjustes": -930.04,
+      "qtdLancamentos": 7
     },
     {
       "id": 220715,
       "nome": "Amom Mandel",
       "uf": "AM",
       "partido": "CIDADANIA",
-      "valor": 12966.5,
-      "valorLiquido": 12966.5,
-      "valorBruto": 35116.8,
-      "valorAjustes": -22150.3,
+      "valor": 37811.33,
+      "valorLiquido": 37811.33,
+      "valorBruto": 95223.06,
+      "valorAjustes": -57411.73,
+      "qtdLancamentos": 108
+    },
+    {
+      "id": 73808,
+      "nome": "Sérgio Brito",
+      "uf": "BA",
+      "partido": "PSD",
+      "valor": 38262.55,
+      "valorLiquido": 38262.55,
+      "valorBruto": 38410.1,
+      "valorAjustes": -147.55,
       "qtdLancamentos": 41
     },
     {
-      "id": 141518,
-      "nome": "Paulinho da Força",
+      "id": 178983,
+      "nome": "Marcio Alvino",
       "uf": "SP",
-      "partido": "SOLIDARIEDADE",
-      "valor": 13015.85,
-      "valorLiquido": 13015.85,
-      "valorBruto": 16929.58,
-      "valorAjustes": -3913.73,
-      "qtdLancamentos": 17
-    },
-    {
-      "id": 227433,
-      "nome": "Douglas Viegas",
-      "uf": "SP",
-      "partido": "UNIÃO",
-      "valor": 13786.68,
-      "valorLiquido": 13786.68,
-      "valorBruto": 13786.68,
-      "valorAjustes": 0.0,
-      "qtdLancamentos": 3
-    },
-    {
-      "id": 204449,
-      "nome": "Nelson Barbudo",
-      "uf": "MT",
       "partido": "PL",
-      "valor": 23500.0,
-      "valorLiquido": 23500.0,
-      "valorBruto": 23500.0,
-      "valorAjustes": 0.0,
-      "qtdLancamentos": 1
+      "valor": 85170.77,
+      "valorLiquido": 85170.77,
+      "valorBruto": 149406.85,
+      "valorAjustes": -64236.08,
+      "qtdLancamentos": 340
+    },
+    {
+      "id": 204528,
+      "nome": "Adriana Ventura",
+      "uf": "SP",
+      "partido": "NOVO",
+      "valor": 127063.42,
+      "valorLiquido": 127063.42,
+      "valorBruto": 154294.26,
+      "valorAjustes": -27230.84,
+      "qtdLancamentos": 644
+    },
+    {
+      "id": 220642,
+      "nome": "Delegado Bruno Lima",
+      "uf": "SP",
+      "partido": "PP",
+      "valor": 129670.01,
+      "valorLiquido": 129670.01,
+      "valorBruto": 132610.73,
+      "valorAjustes": -2940.72,
+      "qtdLancamentos": 103
     }
   ]
 }

@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 11
+    },
+    "geradoEm": "2026-03-07T14:50:24.530035Z",
+    "versaoSchema": "2.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 21636649.7,
+    "totalLiquido": 21636649.7,
+    "totalBruto": 22474001.48,
+    "totalAjustes": -837351.78,
+    "top1Gasto": {
+      "id": 220584,
+      "nome": "Murilo Galdino",
+      "uf": "PB",
+      "partido": "REPUBLICANOS",
+      "valor": 223130.69,
+      "valorLiquido": 223130.69,
+      "valorBruto": 231056.47,
+      "valorAjustes": -7925.78
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 8674315.95,
+        "valorLiquido": 8674315.95,
+        "valorBruto": 8674315.95,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 8207322.16,
+        "valorLiquido": 8207322.16,
+        "valorBruto": 9044673.94,
+        "valorAjustes": -837351.78
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2746749.82,
+        "valorLiquido": 2746749.82,
+        "valorBruto": 2746749.82,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1531726.42,
+        "valorLiquido": 1531726.42,
+        "valorBruto": 1531726.42,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 259730.63,
+        "valorLiquido": 259730.63,
+        "valorBruto": 259730.63,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 157344.15,
+        "valorLiquido": 157344.15,
+        "valorBruto": 157344.15,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 48102.43,
+        "valorLiquido": 48102.43,
+        "valorBruto": 48102.43,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 11358.14,
+        "valorLiquido": 11358.14,
+        "valorBruto": 11358.14,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": -0.0,
+        "valorLiquido": -0.0,
+        "valorBruto": 0.0,
+        "valorAjustes": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2778131.75,
+        "valorLiquido": 2778131.75,
+        "valorBruto": 2893709.63,
+        "valorAjustes": -115577.88
+      },
+      {
+        "uf": "MG",
+        "valor": 2334849.91,
+        "valorLiquido": 2334849.91,
+        "valorBruto": 2393311.44,
+        "valorAjustes": -58461.53
+      },
+      {
+        "uf": "RJ",
+        "valor": 1982619.16,
+        "valorLiquido": 1982619.16,
+        "valorBruto": 2088991.08,
+        "valorAjustes": -106371.92
+      },
+      {
+        "uf": "BA",
+        "valor": 1802177.64,
+        "valorLiquido": 1802177.64,
+        "valorBruto": 1882862.25,
+        "valorAjustes": -80684.61
+      },
+      {
+        "uf": "RS",
+        "valor": 1172352.27,
+        "valorLiquido": 1172352.27,
+        "valorBruto": 1244740.81,
+        "valorAjustes": -72388.54
+      },
+      {
+        "uf": "PE",
+        "valor": 1165088.25,
+        "valorLiquido": 1165088.25,
+        "valorBruto": 1237639.72,
+        "valorAjustes": -72551.47
+      },
+      {
+        "uf": "PR",
+        "valor": 1137913.3,
+        "valorLiquido": 1137913.3,
+        "valorBruto": 1184956.6,
+        "valorAjustes": -47043.3
+      },
+      {
+        "uf": "PA",
+        "valor": 936548.86,
+        "valorLiquido": 936548.86,
+        "valorBruto": 958462.02,
+        "valorAjustes": -21913.16
+      },
+      {
+        "uf": "PB",
+        "valor": 820719.7,
+        "valorLiquido": 820719.7,
+        "valorBruto": 848253.74,
+        "valorAjustes": -27534.04
+      },
+      {
+        "uf": "CE",
+        "valor": 714534.48,
+        "valorLiquido": 714534.48,
+        "valorBruto": 737676.52,
+        "valorAjustes": -23142.04
+      },
+      {
+        "uf": "MA",
+        "valor": 653209.13,
+        "valorLiquido": 653209.13,
+        "valorBruto": 669427.7,
+        "valorAjustes": -16218.57
+      },
+      {
+        "uf": "SC",
+        "valor": 584860.86,
+        "valorLiquido": 584860.86,
+        "valorBruto": 602739.22,
+        "valorAjustes": -17878.36
+      }
+    ],
+    "agentesConsiderados": 469,
+    "agentesBase": 513,
+    "agentesComGasto": 469,
+    "agentesSemGasto": 44,
+    "totalLancamentos": 16608
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 220584,
+        "nome": "Murilo Galdino",
+        "uf": "PB",
+        "partido": "REPUBLICANOS",
+        "valor": 223130.69,
+        "valorLiquido": 223130.69,
+        "valorBruto": 231056.47,
+        "valorAjustes": -7925.78
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 8674315.95,
+          "valorLiquido": 8674315.95,
+          "valorBruto": 8674315.95,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 8207322.16,
+          "valorLiquido": 8207322.16,
+          "valorBruto": 9044673.94,
+          "valorAjustes": -837351.78
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 2746749.82,
+          "valorLiquido": 2746749.82,
+          "valorBruto": 2746749.82,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1531726.42,
+          "valorLiquido": 1531726.42,
+          "valorBruto": 1531726.42,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 259730.63,
+          "valorLiquido": 259730.63,
+          "valorBruto": 259730.63,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 157344.15,
+          "valorLiquido": 157344.15,
+          "valorBruto": 157344.15,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 48102.43,
+          "valorLiquido": 48102.43,
+          "valorBruto": 48102.43,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 11358.14,
+          "valorLiquido": 11358.14,
+          "valorBruto": 11358.14,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": -0.0,
+          "valorLiquido": -0.0,
+          "valorBruto": 0.0,
+          "valorAjustes": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2778131.75,
+          "valorLiquido": 2778131.75,
+          "valorBruto": 2893709.63,
+          "valorAjustes": -115577.88
+        },
+        {
+          "uf": "MG",
+          "valor": 2334849.91,
+          "valorLiquido": 2334849.91,
+          "valorBruto": 2393311.44,
+          "valorAjustes": -58461.53
+        },
+        {
+          "uf": "RJ",
+          "valor": 1982619.16,
+          "valorLiquido": 1982619.16,
+          "valorBruto": 2088991.08,
+          "valorAjustes": -106371.92
+        },
+        {
+          "uf": "BA",
+          "valor": 1802177.64,
+          "valorLiquido": 1802177.64,
+          "valorBruto": 1882862.25,
+          "valorAjustes": -80684.61
+        },
+        {
+          "uf": "RS",
+          "valor": 1172352.27,
+          "valorLiquido": 1172352.27,
+          "valorBruto": 1244740.81,
+          "valorAjustes": -72388.54
+        },
+        {
+          "uf": "PE",
+          "valor": 1165088.25,
+          "valorLiquido": 1165088.25,
+          "valorBruto": 1237639.72,
+          "valorAjustes": -72551.47
+        },
+        {
+          "uf": "PR",
+          "valor": 1137913.3,
+          "valorLiquido": 1137913.3,
+          "valorBruto": 1184956.6,
+          "valorAjustes": -47043.3
+        },
+        {
+          "uf": "PA",
+          "valor": 936548.86,
+          "valorLiquido": 936548.86,
+          "valorBruto": 958462.02,
+          "valorAjustes": -21913.16
+        },
+        {
+          "uf": "PB",
+          "valor": 820719.7,
+          "valorLiquido": 820719.7,
+          "valorBruto": 848253.74,
+          "valorAjustes": -27534.04
+        },
+        {
+          "uf": "CE",
+          "valor": 714534.48,
+          "valorLiquido": 714534.48,
+          "valorBruto": 737676.52,
+          "valorAjustes": -23142.04
+        },
+        {
+          "uf": "MA",
+          "valor": 653209.13,
+          "valorLiquido": 653209.13,
+          "valorBruto": 669427.7,
+          "valorAjustes": -16218.57
+        },
+        {
+          "uf": "SC",
+          "valor": 584860.86,
+          "valorLiquido": 584860.86,
+          "valorBruto": 602739.22,
+          "valorAjustes": -17878.36
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 1181161.82,
+      "top10Liquido": 1181161.82,
+      "top10Bruto": 1199756.14,
+      "top10Ajustes": -18594.32,
+      "top10Percentual": 5.46
+    },
+    "medias": {
+      "porAgenteComGasto": 46133.58,
+      "porLancamento": 1302.78
+    },
+    "diario": {
+      "dataReferencia": "2025-02-27",
+      "deputado": {
+        "id": 220674,
+        "nome": "Dra. Alessandra Haber",
+        "uf": "PA",
+        "partido": "MDB"
+      },
+      "valor": 35000.0,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "categoriaQC": "DIVULGACAO",
+      "fornecedor": "41.818.753 PAULA LEONTINA PEREIRA MARCOLINO",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3527/2025/7875876.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 469,
+      "agentesSemGasto": 44,
+      "totalLancamentos": 16608,
+      "totalGasto": 21636649.7,
+      "totalLiquido": 21636649.7,
+      "totalBruto": 22474001.48,
+      "totalAjustes": -837351.78
+    }
+  }
+}

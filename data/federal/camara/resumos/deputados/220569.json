@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 220569,
-    "geradoEm": "2026-03-07T13:20:46.157301Z",
+    "geradoEm": "2026-03-07T14:55:24.242970Z",
     "versaoSchema": "2.0.0"
   },
   "data": {
@@ -13,42 +13,42 @@
     "partido": "UNIÃO",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/220569.jpg",
     "totaisMandato": {
-      "total": 250396.29,
-      "totalLiquido": 250396.29,
-      "totalBruto": 250396.29,
-      "totalAjustes": 0.0,
-      "qtdLancamentos": 214,
+      "total": 681506.99,
+      "totalLiquido": 681506.99,
+      "totalBruto": 682693.86,
+      "totalAjustes": -1186.87,
+      "qtdLancamentos": 496,
       "porCategoria": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 29923.5,
+        "COMBUSTIVEL": 70032.95,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 1086.56,
-        "DESLOCAMENTO": 75900.0,
-        "DIVULGACAO": 23608.5,
-        "ESCRITORIO": 118860.73,
-        "HOSPEDAGEM": 1017.0,
+        "CORREIOS_TELEFONIA": 1256.23,
+        "DESLOCAMENTO": 209407.0,
+        "DIVULGACAO": 102358.5,
+        "ESCRITORIO": 294133.31,
+        "HOSPEDAGEM": 4319.0,
         "OUTROS": 0.0
       },
       "porCategoriaLiquido": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 29923.5,
+        "COMBUSTIVEL": 70032.95,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 1086.56,
-        "DESLOCAMENTO": 75900.0,
-        "DIVULGACAO": 23608.5,
-        "ESCRITORIO": 118860.73,
-        "HOSPEDAGEM": 1017.0,
+        "CORREIOS_TELEFONIA": 1256.23,
+        "DESLOCAMENTO": 209407.0,
+        "DIVULGACAO": 102358.5,
+        "ESCRITORIO": 294133.31,
+        "HOSPEDAGEM": 4319.0,
         "OUTROS": 0.0
       },
       "porCategoriaBruto": {
         "ALIMENTACAO": 0.0,
-        "COMBUSTIVEL": 29923.5,
+        "COMBUSTIVEL": 70032.95,
         "CONSULTORIA_SERVICOS": 0.0,
-        "CORREIOS_TELEFONIA": 1086.56,
-        "DESLOCAMENTO": 75900.0,
-        "DIVULGACAO": 23608.5,
-        "ESCRITORIO": 118860.73,
-        "HOSPEDAGEM": 1017.0,
+        "CORREIOS_TELEFONIA": 1256.23,
+        "DESLOCAMENTO": 210593.87,
+        "DIVULGACAO": 102358.5,
+        "ESCRITORIO": 294133.31,
+        "HOSPEDAGEM": 4319.0,
         "OUTROS": 0.0
       },
       "porCategoriaAjustes": {
@@ -56,7 +56,7 @@
         "COMBUSTIVEL": 0.0,
         "CONSULTORIA_SERVICOS": 0.0,
         "CORREIOS_TELEFONIA": 0.0,
-        "DESLOCAMENTO": 0.0,
+        "DESLOCAMENTO": -1186.87,
         "DIVULGACAO": 0.0,
         "ESCRITORIO": 0.0,
         "HOSPEDAGEM": 0.0,
@@ -64,7 +64,8 @@
       }
     },
     "totaisAno": {
-      "2023": 250396.29
+      "2023": 250396.29,
+      "2024": 431110.7
     },
     "porMes": {
       "2023-01": 0.0,
@@ -78,12 +79,24 @@
       "2023-09": 20708.27,
       "2023-10": 39394.85,
       "2023-11": 36725.3,
-      "2023-12": 35982.54
+      "2023-12": 35982.54,
+      "2024-01": 34484.18,
+      "2024-02": 35967.86,
+      "2024-03": 24351.25,
+      "2024-04": 26497.47,
+      "2024-05": 29184.73,
+      "2024-06": 33952.71,
+      "2024-07": 36211.21,
+      "2024-08": 47759.75,
+      "2024-09": 29039.96,
+      "2024-10": 36885.99,
+      "2024-11": 32755.19,
+      "2024-12": 64020.4
     },
     "maiorCategoria": {
       "categoria": "ESCRITORIO",
-      "valor": 118860.73,
-      "pct": 47.47
+      "valor": 294133.31,
+      "pct": 43.16
     }
   }
 }

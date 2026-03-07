@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2024,
+      "mes": 10
+    },
+    "geradoEm": "2026-03-07T14:45:27.785497Z",
+    "versaoSchema": "2.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 18780064.84,
+    "totalLiquido": 18780064.84,
+    "totalBruto": 19679752.14,
+    "totalAjustes": -899687.3,
+    "top1Gasto": {
+      "id": 220582,
+      "nome": "Daniel Barbosa",
+      "uf": "AL",
+      "partido": "PP",
+      "valor": 149845.12,
+      "valorLiquido": 149845.12,
+      "valorBruto": 149845.12,
+      "valorAjustes": 0.0
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7325566.47,
+        "valorLiquido": 7325566.47,
+        "valorBruto": 7325566.47,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 6852561.34,
+        "valorLiquido": 6852561.34,
+        "valorBruto": 7752248.64,
+        "valorAjustes": -899687.3
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2651996.1,
+        "valorLiquido": 2651996.1,
+        "valorBruto": 2651996.1,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1532345.16,
+        "valorLiquido": 1532345.16,
+        "valorBruto": 1532345.16,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 226014.52,
+        "valorLiquido": 226014.52,
+        "valorBruto": 226014.52,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 151795.4,
+        "valorLiquido": 151795.4,
+        "valorBruto": 151795.4,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 39785.85,
+        "valorLiquido": 39785.85,
+        "valorBruto": 39785.85,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 0.0,
+        "valorLiquido": 0.0,
+        "valorBruto": 0.0,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": -0.0,
+        "valorLiquido": -0.0,
+        "valorBruto": -0.0,
+        "valorAjustes": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2221825.36,
+        "valorLiquido": 2221825.36,
+        "valorBruto": 2320851.82,
+        "valorAjustes": -99026.46
+      },
+      {
+        "uf": "MG",
+        "valor": 2129969.55,
+        "valorLiquido": 2129969.55,
+        "valorBruto": 2157527.32,
+        "valorAjustes": -27557.77
+      },
+      {
+        "uf": "RJ",
+        "valor": 1673635.17,
+        "valorLiquido": 1673635.17,
+        "valorBruto": 1770575.43,
+        "valorAjustes": -96940.26
+      },
+      {
+        "uf": "BA",
+        "valor": 1534463.53,
+        "valorLiquido": 1534463.53,
+        "valorBruto": 1623639.62,
+        "valorAjustes": -89176.09
+      },
+      {
+        "uf": "RS",
+        "valor": 1119162.02,
+        "valorLiquido": 1119162.02,
+        "valorBruto": 1192571.21,
+        "valorAjustes": -73409.19
+      },
+      {
+        "uf": "PE",
+        "valor": 1077598.86,
+        "valorLiquido": 1077598.86,
+        "valorBruto": 1139757.94,
+        "valorAjustes": -62159.08
+      },
+      {
+        "uf": "PR",
+        "valor": 1059510.24,
+        "valorLiquido": 1059510.24,
+        "valorBruto": 1113426.8,
+        "valorAjustes": -53916.56
+      },
+      {
+        "uf": "CE",
+        "valor": 718311.08,
+        "valorLiquido": 718311.08,
+        "valorBruto": 760034.2,
+        "valorAjustes": -41723.12
+      },
+      {
+        "uf": "PA",
+        "valor": 602055.95,
+        "valorLiquido": 602055.95,
+        "valorBruto": 647328.9,
+        "valorAjustes": -45272.95
+      },
+      {
+        "uf": "GO",
+        "valor": 524979.7,
+        "valorLiquido": 524979.7,
+        "valorBruto": 524979.7,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "PI",
+        "valor": 509297.72,
+        "valorLiquido": 509297.72,
+        "valorBruto": 537898.23,
+        "valorAjustes": -28600.51
+      },
+      {
+        "uf": "MA",
+        "valor": 462591.98,
+        "valorLiquido": 462591.98,
+        "valorBruto": 495163.29,
+        "valorAjustes": -32571.31
+      }
+    ],
+    "agentesConsiderados": 459,
+    "agentesBase": 513,
+    "agentesComGasto": 459,
+    "agentesSemGasto": 54,
+    "totalLancamentos": 15588
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 220582,
+        "nome": "Daniel Barbosa",
+        "uf": "AL",
+        "partido": "PP",
+        "valor": 149845.12,
+        "valorLiquido": 149845.12,
+        "valorBruto": 149845.12,
+        "valorAjustes": 0.0
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 7325566.47,
+          "valorLiquido": 7325566.47,
+          "valorBruto": 7325566.47,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 6852561.34,
+          "valorLiquido": 6852561.34,
+          "valorBruto": 7752248.64,
+          "valorAjustes": -899687.3
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 2651996.1,
+          "valorLiquido": 2651996.1,
+          "valorBruto": 2651996.1,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1532345.16,
+          "valorLiquido": 1532345.16,
+          "valorBruto": 1532345.16,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 226014.52,
+          "valorLiquido": 226014.52,
+          "valorBruto": 226014.52,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 151795.4,
+          "valorLiquido": 151795.4,
+          "valorBruto": 151795.4,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 39785.85,
+          "valorLiquido": 39785.85,
+          "valorBruto": 39785.85,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 0.0,
+          "valorLiquido": 0.0,
+          "valorBruto": 0.0,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": -0.0,
+          "valorLiquido": -0.0,
+          "valorBruto": -0.0,
+          "valorAjustes": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2221825.36,
+          "valorLiquido": 2221825.36,
+          "valorBruto": 2320851.82,
+          "valorAjustes": -99026.46
+        },
+        {
+          "uf": "MG",
+          "valor": 2129969.55,
+          "valorLiquido": 2129969.55,
+          "valorBruto": 2157527.32,
+          "valorAjustes": -27557.77
+        },
+        {
+          "uf": "RJ",
+          "valor": 1673635.17,
+          "valorLiquido": 1673635.17,
+          "valorBruto": 1770575.43,
+          "valorAjustes": -96940.26
+        },
+        {
+          "uf": "BA",
+          "valor": 1534463.53,
+          "valorLiquido": 1534463.53,
+          "valorBruto": 1623639.62,
+          "valorAjustes": -89176.09
+        },
+        {
+          "uf": "RS",
+          "valor": 1119162.02,
+          "valorLiquido": 1119162.02,
+          "valorBruto": 1192571.21,
+          "valorAjustes": -73409.19
+        },
+        {
+          "uf": "PE",
+          "valor": 1077598.86,
+          "valorLiquido": 1077598.86,
+          "valorBruto": 1139757.94,
+          "valorAjustes": -62159.08
+        },
+        {
+          "uf": "PR",
+          "valor": 1059510.24,
+          "valorLiquido": 1059510.24,
+          "valorBruto": 1113426.8,
+          "valorAjustes": -53916.56
+        },
+        {
+          "uf": "CE",
+          "valor": 718311.08,
+          "valorLiquido": 718311.08,
+          "valorBruto": 760034.2,
+          "valorAjustes": -41723.12
+        },
+        {
+          "uf": "PA",
+          "valor": 602055.95,
+          "valorLiquido": 602055.95,
+          "valorBruto": 647328.9,
+          "valorAjustes": -45272.95
+        },
+        {
+          "uf": "GO",
+          "valor": 524979.7,
+          "valorLiquido": 524979.7,
+          "valorBruto": 524979.7,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "PI",
+          "valor": 509297.72,
+          "valorLiquido": 509297.72,
+          "valorBruto": 537898.23,
+          "valorAjustes": -28600.51
+        },
+        {
+          "uf": "MA",
+          "valor": 462591.98,
+          "valorLiquido": 462591.98,
+          "valorBruto": 495163.29,
+          "valorAjustes": -32571.31
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 1088887.71,
+      "top10Liquido": 1088887.71,
+      "top10Bruto": 1129983.72,
+      "top10Ajustes": -41096.01,
+      "top10Percentual": 5.8
+    },
+    "medias": {
+      "porAgenteComGasto": 40915.17,
+      "porLancamento": 1204.78
+    },
+    "diario": {
+      "dataReferencia": "2025-01-21",
+      "deputado": {
+        "id": 220690,
+        "nome": "Capitão Alden",
+        "uf": "BA",
+        "partido": "PL"
+      },
+      "valor": 15187.5,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "categoriaQC": "DIVULGACAO",
+      "fornecedor": "AGÊNCIA BRANDING MARKETING DIRETO LTDA",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3678/2024/7845691.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 459,
+      "agentesSemGasto": 54,
+      "totalLancamentos": 15588,
+      "totalGasto": 18780064.84,
+      "totalLiquido": 18780064.84,
+      "totalBruto": 19679752.14,
+      "totalAjustes": -899687.3
+    }
+  }
+}

@@ -3,7 +3,7 @@
     "escopo": "federal/camara",
     "tipo": "resumo_deputado_mandato",
     "id": 178962,
-    "geradoEm": "2026-03-07T13:20:46.079341Z",
+    "geradoEm": "2026-03-07T14:55:24.152010Z",
     "versaoSchema": "2.0.0"
   },
   "data": {
@@ -13,17 +13,17 @@
     "partido": "REPUBLICANOS",
     "urlFoto": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
     "totaisMandato": {
-      "total": 254347.75,
-      "totalLiquido": 254347.75,
-      "totalBruto": 277733.71,
-      "totalAjustes": -23385.96,
-      "qtdLancamentos": 504,
+      "total": 253966.33,
+      "totalLiquido": 253966.33,
+      "totalBruto": 288272.03,
+      "totalAjustes": -34305.7,
+      "qtdLancamentos": 522,
       "porCategoria": {
         "ALIMENTACAO": 3050.08,
-        "COMBUSTIVEL": 33410.64,
+        "COMBUSTIVEL": 34131.79,
         "CONSULTORIA_SERVICOS": 0.0,
         "CORREIOS_TELEFONIA": 6999.73,
-        "DESLOCAMENTO": 121971.15,
+        "DESLOCAMENTO": 120868.58,
         "DIVULGACAO": 2399.9,
         "ESCRITORIO": 76034.52,
         "HOSPEDAGEM": 10481.73,
@@ -31,10 +31,10 @@
       },
       "porCategoriaLiquido": {
         "ALIMENTACAO": 3050.08,
-        "COMBUSTIVEL": 33410.64,
+        "COMBUSTIVEL": 34131.79,
         "CONSULTORIA_SERVICOS": 0.0,
         "CORREIOS_TELEFONIA": 6999.73,
-        "DESLOCAMENTO": 121971.15,
+        "DESLOCAMENTO": 120868.58,
         "DIVULGACAO": 2399.9,
         "ESCRITORIO": 76034.52,
         "HOSPEDAGEM": 10481.73,
@@ -42,10 +42,10 @@
       },
       "porCategoriaBruto": {
         "ALIMENTACAO": 3050.08,
-        "COMBUSTIVEL": 33410.64,
+        "COMBUSTIVEL": 34131.79,
         "CONSULTORIA_SERVICOS": 0.0,
         "CORREIOS_TELEFONIA": 6999.73,
-        "DESLOCAMENTO": 145357.11,
+        "DESLOCAMENTO": 155174.28,
         "DIVULGACAO": 2399.9,
         "ESCRITORIO": 76034.52,
         "HOSPEDAGEM": 10481.73,
@@ -56,7 +56,7 @@
         "COMBUSTIVEL": 0.0,
         "CONSULTORIA_SERVICOS": 0.0,
         "CORREIOS_TELEFONIA": 0.0,
-        "DESLOCAMENTO": -23385.96,
+        "DESLOCAMENTO": -34305.7,
         "DIVULGACAO": 0.0,
         "ESCRITORIO": 0.0,
         "HOSPEDAGEM": 0.0,
@@ -64,7 +64,8 @@
       }
     },
     "totaisAno": {
-      "2023": 254347.75
+      "2023": 254347.75,
+      "2024": -381.42
     },
     "porMes": {
       "2023-01": 1598.08,
@@ -78,12 +79,24 @@
       "2023-09": 28336.45,
       "2023-10": 31676.94,
       "2023-11": 7490.65,
-      "2023-12": 4033.33
+      "2023-12": 4033.33,
+      "2024-01": 0.0,
+      "2024-02": 0.0,
+      "2024-03": 0.0,
+      "2024-04": 0.0,
+      "2024-05": 0.0,
+      "2024-06": -50.83,
+      "2024-07": -5741.2,
+      "2024-08": -3647.64,
+      "2024-09": 0.0,
+      "2024-10": 0.0,
+      "2024-11": 0.0,
+      "2024-12": 9058.25
     },
     "maiorCategoria": {
       "categoria": "DESLOCAMENTO",
-      "valor": 121971.15,
-      "pct": 47.95
+      "valor": 120868.58,
+      "pct": 47.59
     }
   }
 }
