@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 11
+    },
+    "geradoEm": "2026-03-07T16:32:21.257641Z",
+    "versaoSchema": "2.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 18784266.62,
+    "totalLiquido": 18784266.62,
+    "totalBruto": 19397949.69,
+    "totalAjustes": -613683.07,
+    "top1Gasto": {
+      "id": 230768,
+      "nome": "Zé Adriano",
+      "uf": "AC",
+      "partido": "PP",
+      "valor": 113184.65,
+      "valorLiquido": 113184.65,
+      "valorBruto": 113184.65,
+      "valorAjustes": 0.0
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 8539369.73,
+        "valorLiquido": 8539369.73,
+        "valorBruto": 8539369.73,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 5108761.23,
+        "valorLiquido": 5108761.23,
+        "valorBruto": 5722444.3,
+        "valorAjustes": -613683.07
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 2783742.18,
+        "valorLiquido": 2783742.18,
+        "valorBruto": 2783742.18,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1738782.51,
+        "valorLiquido": 1738782.51,
+        "valorBruto": 1738782.51,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 423870.23,
+        "valorLiquido": 423870.23,
+        "valorBruto": 423870.23,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 143626.66,
+        "valorLiquido": 143626.66,
+        "valorBruto": 143626.66,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 46114.08,
+        "valorLiquido": 46114.08,
+        "valorBruto": 46114.08,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 0.0,
+        "valorLiquido": 0.0,
+        "valorBruto": 0.0,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0,
+        "valorLiquido": 0.0,
+        "valorBruto": 0.0,
+        "valorAjustes": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2317878.94,
+        "valorLiquido": 2317878.94,
+        "valorBruto": 2400633.63,
+        "valorAjustes": -82754.69
+      },
+      {
+        "uf": "MG",
+        "valor": 1815417.45,
+        "valorLiquido": 1815417.45,
+        "valorBruto": 1851247.47,
+        "valorAjustes": -35830.02
+      },
+      {
+        "uf": "RJ",
+        "valor": 1565293.18,
+        "valorLiquido": 1565293.18,
+        "valorBruto": 1649850.32,
+        "valorAjustes": -84557.14
+      },
+      {
+        "uf": "BA",
+        "valor": 1386270.19,
+        "valorLiquido": 1386270.19,
+        "valorBruto": 1437165.97,
+        "valorAjustes": -50895.78
+      },
+      {
+        "uf": "PR",
+        "valor": 1243190.27,
+        "valorLiquido": 1243190.27,
+        "valorBruto": 1263278.06,
+        "valorAjustes": -20087.79
+      },
+      {
+        "uf": "RS",
+        "valor": 1144977.85,
+        "valorLiquido": 1144977.85,
+        "valorBruto": 1170864.38,
+        "valorAjustes": -25886.53
+      },
+      {
+        "uf": "PE",
+        "valor": 1054175.01,
+        "valorLiquido": 1054175.01,
+        "valorBruto": 1084413.33,
+        "valorAjustes": -30238.32
+      },
+      {
+        "uf": "CE",
+        "valor": 678200.27,
+        "valorLiquido": 678200.27,
+        "valorBruto": 728442.92,
+        "valorAjustes": -50242.65
+      },
+      {
+        "uf": "MA",
+        "valor": 609994.47,
+        "valorLiquido": 609994.47,
+        "valorBruto": 647395.13,
+        "valorAjustes": -37400.66
+      },
+      {
+        "uf": "SC",
+        "valor": 570008.26,
+        "valorLiquido": 570008.26,
+        "valorBruto": 586478.05,
+        "valorAjustes": -16469.79
+      },
+      {
+        "uf": "PA",
+        "valor": 565625.83,
+        "valorLiquido": 565625.83,
+        "valorBruto": 581133.75,
+        "valorAjustes": -15507.92
+      },
+      {
+        "uf": "GO",
+        "valor": 510731.33,
+        "valorLiquido": 510731.33,
+        "valorBruto": 510731.33,
+        "valorAjustes": 0.0
+      }
+    ],
+    "agentesConsiderados": 497,
+    "agentesBase": 513,
+    "agentesComGasto": 497,
+    "agentesSemGasto": 16,
+    "totalLancamentos": 14420
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 230768,
+        "nome": "Zé Adriano",
+        "uf": "AC",
+        "partido": "PP",
+        "valor": 113184.65,
+        "valorLiquido": 113184.65,
+        "valorBruto": 113184.65,
+        "valorAjustes": 0.0
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 8539369.73,
+          "valorLiquido": 8539369.73,
+          "valorBruto": 8539369.73,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 5108761.23,
+          "valorLiquido": 5108761.23,
+          "valorBruto": 5722444.3,
+          "valorAjustes": -613683.07
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 2783742.18,
+          "valorLiquido": 2783742.18,
+          "valorBruto": 2783742.18,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1738782.51,
+          "valorLiquido": 1738782.51,
+          "valorBruto": 1738782.51,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 423870.23,
+          "valorLiquido": 423870.23,
+          "valorBruto": 423870.23,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 143626.66,
+          "valorLiquido": 143626.66,
+          "valorBruto": 143626.66,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 46114.08,
+          "valorLiquido": 46114.08,
+          "valorBruto": 46114.08,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 0.0,
+          "valorLiquido": 0.0,
+          "valorBruto": 0.0,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0,
+          "valorLiquido": 0.0,
+          "valorBruto": 0.0,
+          "valorAjustes": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2317878.94,
+          "valorLiquido": 2317878.94,
+          "valorBruto": 2400633.63,
+          "valorAjustes": -82754.69
+        },
+        {
+          "uf": "MG",
+          "valor": 1815417.45,
+          "valorLiquido": 1815417.45,
+          "valorBruto": 1851247.47,
+          "valorAjustes": -35830.02
+        },
+        {
+          "uf": "RJ",
+          "valor": 1565293.18,
+          "valorLiquido": 1565293.18,
+          "valorBruto": 1649850.32,
+          "valorAjustes": -84557.14
+        },
+        {
+          "uf": "BA",
+          "valor": 1386270.19,
+          "valorLiquido": 1386270.19,
+          "valorBruto": 1437165.97,
+          "valorAjustes": -50895.78
+        },
+        {
+          "uf": "PR",
+          "valor": 1243190.27,
+          "valorLiquido": 1243190.27,
+          "valorBruto": 1263278.06,
+          "valorAjustes": -20087.79
+        },
+        {
+          "uf": "RS",
+          "valor": 1144977.85,
+          "valorLiquido": 1144977.85,
+          "valorBruto": 1170864.38,
+          "valorAjustes": -25886.53
+        },
+        {
+          "uf": "PE",
+          "valor": 1054175.01,
+          "valorLiquido": 1054175.01,
+          "valorBruto": 1084413.33,
+          "valorAjustes": -30238.32
+        },
+        {
+          "uf": "CE",
+          "valor": 678200.27,
+          "valorLiquido": 678200.27,
+          "valorBruto": 728442.92,
+          "valorAjustes": -50242.65
+        },
+        {
+          "uf": "MA",
+          "valor": 609994.47,
+          "valorLiquido": 609994.47,
+          "valorBruto": 647395.13,
+          "valorAjustes": -37400.66
+        },
+        {
+          "uf": "SC",
+          "valor": 570008.26,
+          "valorLiquido": 570008.26,
+          "valorBruto": 586478.05,
+          "valorAjustes": -16469.79
+        },
+        {
+          "uf": "PA",
+          "valor": 565625.83,
+          "valorLiquido": 565625.83,
+          "valorBruto": 581133.75,
+          "valorAjustes": -15507.92
+        },
+        {
+          "uf": "GO",
+          "valor": 510731.33,
+          "valorLiquido": 510731.33,
+          "valorBruto": 510731.33,
+          "valorAjustes": 0.0
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 911628.39,
+      "top10Liquido": 911628.39,
+      "top10Bruto": 921720.57,
+      "top10Ajustes": -10092.18,
+      "top10Percentual": 4.85
+    },
+    "medias": {
+      "porAgenteComGasto": 37795.31,
+      "porLancamento": 1302.65
+    },
+    "diario": {
+      "dataReferencia": "2026-02-11",
+      "deputado": {
+        "id": 204539,
+        "nome": "Hercílio Coelho Diniz",
+        "uf": "MG",
+        "partido": "MDB"
+      },
+      "valor": 30000.0,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "categoriaQC": "DIVULGACAO",
+      "fornecedor": "FRAMIN AGENCIA DECOMUNICAÇÃO LTDA",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3268/2026/8050895.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 497,
+      "agentesSemGasto": 16,
+      "totalLancamentos": 14420,
+      "totalGasto": 18784266.62,
+      "totalLiquido": 18784266.62,
+      "totalBruto": 19397949.69,
+      "totalAjustes": -613683.07
+    }
+  }
+}

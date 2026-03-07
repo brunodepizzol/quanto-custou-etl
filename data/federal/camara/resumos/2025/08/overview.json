@@ -1,0 +1,391 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "mes",
+      "ano": 2025,
+      "mes": 8
+    },
+    "geradoEm": "2026-03-07T16:18:34.523273Z",
+    "versaoSchema": "2.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 17729182.73,
+    "totalLiquido": 17729182.73,
+    "totalBruto": 17921932.56,
+    "totalAjustes": -192749.83,
+    "top1Gasto": {
+      "id": 160598,
+      "nome": "Flávia Morais",
+      "uf": "GO",
+      "partido": "PDT",
+      "valor": 89157.53,
+      "valorLiquido": 89157.53,
+      "valorBruto": 89157.53,
+      "valorAjustes": 0.0
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 7944433.18,
+        "valorLiquido": 7944433.18,
+        "valorBruto": 7944433.18,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 4219504.68,
+        "valorLiquido": 4219504.68,
+        "valorBruto": 4412254.51,
+        "valorAjustes": -192749.83
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 3083478.33,
+        "valorLiquido": 3083478.33,
+        "valorBruto": 3083478.33,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 1914132.56,
+        "valorLiquido": 1914132.56,
+        "valorBruto": 1914132.56,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 322225.77,
+        "valorLiquido": 322225.77,
+        "valorBruto": 322225.77,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 177423.83,
+        "valorLiquido": 177423.83,
+        "valorBruto": 177423.83,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 67387.38,
+        "valorLiquido": 67387.38,
+        "valorBruto": 67387.38,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 597.0,
+        "valorLiquido": 597.0,
+        "valorBruto": 597.0,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": 0.0,
+        "valorLiquido": 0.0,
+        "valorBruto": 0.0,
+        "valorAjustes": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 2321721.89,
+        "valorLiquido": 2321721.89,
+        "valorBruto": 2354511.25,
+        "valorAjustes": -32789.36
+      },
+      {
+        "uf": "MG",
+        "valor": 1909053.19,
+        "valorLiquido": 1909053.19,
+        "valorBruto": 1939312.98,
+        "valorAjustes": -30259.79
+      },
+      {
+        "uf": "RJ",
+        "valor": 1318222.54,
+        "valorLiquido": 1318222.54,
+        "valorBruto": 1328523.48,
+        "valorAjustes": -10300.94
+      },
+      {
+        "uf": "BA",
+        "valor": 1313064.72,
+        "valorLiquido": 1313064.72,
+        "valorBruto": 1330241.81,
+        "valorAjustes": -17177.09
+      },
+      {
+        "uf": "RS",
+        "valor": 1106228.41,
+        "valorLiquido": 1106228.41,
+        "valorBruto": 1118485.65,
+        "valorAjustes": -12257.24
+      },
+      {
+        "uf": "PR",
+        "valor": 1095447.03,
+        "valorLiquido": 1095447.03,
+        "valorBruto": 1109535.71,
+        "valorAjustes": -14088.68
+      },
+      {
+        "uf": "PE",
+        "valor": 1039510.64,
+        "valorLiquido": 1039510.64,
+        "valorBruto": 1051744.82,
+        "valorAjustes": -12234.18
+      },
+      {
+        "uf": "GO",
+        "valor": 657905.57,
+        "valorLiquido": 657905.57,
+        "valorBruto": 657905.57,
+        "valorAjustes": 0.0
+      },
+      {
+        "uf": "CE",
+        "valor": 653000.19,
+        "valorLiquido": 653000.19,
+        "valorBruto": 656190.2,
+        "valorAjustes": -3190.01
+      },
+      {
+        "uf": "MA",
+        "valor": 512485.93,
+        "valorLiquido": 512485.93,
+        "valorBruto": 515966.54,
+        "valorAjustes": -3480.61
+      },
+      {
+        "uf": "PB",
+        "valor": 511899.39,
+        "valorLiquido": 511899.39,
+        "valorBruto": 514859.41,
+        "valorAjustes": -2960.02
+      },
+      {
+        "uf": "SC",
+        "valor": 474662.49,
+        "valorLiquido": 474662.49,
+        "valorBruto": 480235.89,
+        "valorAjustes": -5573.4
+      }
+    ],
+    "agentesConsiderados": 491,
+    "agentesBase": 513,
+    "agentesComGasto": 491,
+    "agentesSemGasto": 22,
+    "totalLancamentos": 14875
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 160598,
+        "nome": "Flávia Morais",
+        "uf": "GO",
+        "partido": "PDT",
+        "valor": 89157.53,
+        "valorLiquido": 89157.53,
+        "valorBruto": 89157.53,
+        "valorAjustes": 0.0
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 7944433.18,
+          "valorLiquido": 7944433.18,
+          "valorBruto": 7944433.18,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 4219504.68,
+          "valorLiquido": 4219504.68,
+          "valorBruto": 4412254.51,
+          "valorAjustes": -192749.83
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 3083478.33,
+          "valorLiquido": 3083478.33,
+          "valorBruto": 3083478.33,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 1914132.56,
+          "valorLiquido": 1914132.56,
+          "valorBruto": 1914132.56,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 322225.77,
+          "valorLiquido": 322225.77,
+          "valorBruto": 322225.77,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 177423.83,
+          "valorLiquido": 177423.83,
+          "valorBruto": 177423.83,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 67387.38,
+          "valorLiquido": 67387.38,
+          "valorBruto": 67387.38,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 597.0,
+          "valorLiquido": 597.0,
+          "valorBruto": 597.0,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": 0.0,
+          "valorLiquido": 0.0,
+          "valorBruto": 0.0,
+          "valorAjustes": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 2321721.89,
+          "valorLiquido": 2321721.89,
+          "valorBruto": 2354511.25,
+          "valorAjustes": -32789.36
+        },
+        {
+          "uf": "MG",
+          "valor": 1909053.19,
+          "valorLiquido": 1909053.19,
+          "valorBruto": 1939312.98,
+          "valorAjustes": -30259.79
+        },
+        {
+          "uf": "RJ",
+          "valor": 1318222.54,
+          "valorLiquido": 1318222.54,
+          "valorBruto": 1328523.48,
+          "valorAjustes": -10300.94
+        },
+        {
+          "uf": "BA",
+          "valor": 1313064.72,
+          "valorLiquido": 1313064.72,
+          "valorBruto": 1330241.81,
+          "valorAjustes": -17177.09
+        },
+        {
+          "uf": "RS",
+          "valor": 1106228.41,
+          "valorLiquido": 1106228.41,
+          "valorBruto": 1118485.65,
+          "valorAjustes": -12257.24
+        },
+        {
+          "uf": "PR",
+          "valor": 1095447.03,
+          "valorLiquido": 1095447.03,
+          "valorBruto": 1109535.71,
+          "valorAjustes": -14088.68
+        },
+        {
+          "uf": "PE",
+          "valor": 1039510.64,
+          "valorLiquido": 1039510.64,
+          "valorBruto": 1051744.82,
+          "valorAjustes": -12234.18
+        },
+        {
+          "uf": "GO",
+          "valor": 657905.57,
+          "valorLiquido": 657905.57,
+          "valorBruto": 657905.57,
+          "valorAjustes": 0.0
+        },
+        {
+          "uf": "CE",
+          "valor": 653000.19,
+          "valorLiquido": 653000.19,
+          "valorBruto": 656190.2,
+          "valorAjustes": -3190.01
+        },
+        {
+          "uf": "MA",
+          "valor": 512485.93,
+          "valorLiquido": 512485.93,
+          "valorBruto": 515966.54,
+          "valorAjustes": -3480.61
+        },
+        {
+          "uf": "PB",
+          "valor": 511899.39,
+          "valorLiquido": 511899.39,
+          "valorBruto": 514859.41,
+          "valorAjustes": -2960.02
+        },
+        {
+          "uf": "SC",
+          "valor": 474662.49,
+          "valorLiquido": 474662.49,
+          "valorBruto": 480235.89,
+          "valorAjustes": -5573.4
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 732531.04,
+      "top10Liquido": 732531.04,
+      "top10Bruto": 732531.04,
+      "top10Ajustes": 0.0,
+      "top10Percentual": 4.13
+    },
+    "medias": {
+      "porAgenteComGasto": 36108.32,
+      "porLancamento": 1191.88
+    },
+    "diario": {
+      "dataReferencia": "2025-11-25",
+      "deputado": {
+        "id": 204539,
+        "nome": "Hercílio Coelho Diniz",
+        "uf": "MG",
+        "partido": "MDB"
+      },
+      "valor": 30000.0,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "categoriaQC": "DIVULGACAO",
+      "fornecedor": "FRAMIN AGENCIA DECOMUNICAÇÃO LTDA",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3268/2025/8017951.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 491,
+      "agentesSemGasto": 22,
+      "totalLancamentos": 14875,
+      "totalGasto": 17729182.73,
+      "totalLiquido": 17729182.73,
+      "totalBruto": 17921932.56,
+      "totalAjustes": -192749.83
+    }
+  }
+}

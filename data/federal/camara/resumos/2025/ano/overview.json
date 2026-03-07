@@ -1,0 +1,404 @@
+{
+  "meta": {
+    "tipo": "overview",
+    "escopo": "federal/camara",
+    "periodo": {
+      "tipo": "ano",
+      "ano": 2025,
+      "mesesIncluidos": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "geradoEm": "2026-03-07T16:36:54.246120Z",
+    "versaoSchema": "2.0.0",
+    "versaoCategoryMap": "1.0.0"
+  },
+  "kpis": {
+    "totalGasto": 238769908.49,
+    "totalLiquido": 238769908.49,
+    "totalBruto": 249796985.84,
+    "totalAjustes": -11027077.35,
+    "top1Gasto": {
+      "id": 224117,
+      "nome": "Gabriel Mota",
+      "uf": "RR",
+      "partido": "REPUBLICANOS",
+      "valor": 634574.73,
+      "valorLiquido": 634574.73,
+      "valorBruto": 644054.97,
+      "valorAjustes": -9480.24
+    },
+    "topCategorias": [
+      {
+        "categoriaQC": "DIVULGACAO",
+        "valor": 96294611.27,
+        "valorLiquido": 96294611.27,
+        "valorBruto": 96294611.27,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DESLOCAMENTO",
+        "valor": 80007146.21,
+        "valorLiquido": 80007146.21,
+        "valorBruto": 91034223.56,
+        "valorAjustes": -11027077.35
+      },
+      {
+        "categoriaQC": "ESCRITORIO",
+        "valor": 34854527.28,
+        "valorLiquido": 34854527.28,
+        "valorBruto": 34854527.28,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "COMBUSTIVEL",
+        "valor": 21266573.48,
+        "valorLiquido": 21266573.48,
+        "valorBruto": 21266573.48,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "HOSPEDAGEM",
+        "valor": 3735017.57,
+        "valorLiquido": 3735017.57,
+        "valorBruto": 3735017.57,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CORREIOS_TELEFONIA",
+        "valor": 1946951.52,
+        "valorLiquido": 1946951.52,
+        "valorBruto": 1946951.52,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "ALIMENTACAO",
+        "valor": 634704.47,
+        "valorLiquido": 634704.47,
+        "valorBruto": 634704.47,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "CONSULTORIA_SERVICOS",
+        "valor": 30376.69,
+        "valorLiquido": 30376.69,
+        "valorBruto": 30376.69,
+        "valorAjustes": 0.0
+      },
+      {
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": -0.0,
+        "valorLiquido": -0.0,
+        "valorBruto": -0.0,
+        "valorAjustes": 0.0
+      }
+    ],
+    "topUFs": [
+      {
+        "uf": "SP",
+        "valor": 30387575.94,
+        "valorLiquido": 30387575.94,
+        "valorBruto": 31771672.41,
+        "valorAjustes": -1384096.47
+      },
+      {
+        "uf": "MG",
+        "valor": 24489200.71,
+        "valorLiquido": 24489200.71,
+        "valorBruto": 25147469.92,
+        "valorAjustes": -658269.21
+      },
+      {
+        "uf": "RJ",
+        "valor": 19535063.17,
+        "valorLiquido": 19535063.17,
+        "valorBruto": 20884296.53,
+        "valorAjustes": -1349233.36
+      },
+      {
+        "uf": "BA",
+        "valor": 18118835.11,
+        "valorLiquido": 18118835.11,
+        "valorBruto": 19122973.51,
+        "valorAjustes": -1004138.4
+      },
+      {
+        "uf": "RS",
+        "valor": 15169046.2,
+        "valorLiquido": 15169046.2,
+        "valorBruto": 16081763.68,
+        "valorAjustes": -912717.48
+      },
+      {
+        "uf": "PR",
+        "valor": 14651088.19,
+        "valorLiquido": 14651088.19,
+        "valorBruto": 15282516.27,
+        "valorAjustes": -631428.08
+      },
+      {
+        "uf": "PE",
+        "valor": 13256625.65,
+        "valorLiquido": 13256625.65,
+        "valorBruto": 13909191.79,
+        "valorAjustes": -652566.14
+      },
+      {
+        "uf": "CE",
+        "valor": 9563791.36,
+        "valorLiquido": 9563791.36,
+        "valorBruto": 10032042.68,
+        "valorAjustes": -468251.32
+      },
+      {
+        "uf": "MA",
+        "valor": 7554775.16,
+        "valorLiquido": 7554775.16,
+        "valorBruto": 7993740.62,
+        "valorAjustes": -438965.46
+      },
+      {
+        "uf": "GO",
+        "valor": 7501849.37,
+        "valorLiquido": 7501849.37,
+        "valorBruto": 7504353.97,
+        "valorAjustes": -2504.6
+      },
+      {
+        "uf": "PA",
+        "valor": 7455404.97,
+        "valorLiquido": 7455404.97,
+        "valorBruto": 7730773.68,
+        "valorAjustes": -275368.71
+      },
+      {
+        "uf": "SC",
+        "valor": 7050681.68,
+        "valorLiquido": 7050681.68,
+        "valorBruto": 7373319.11,
+        "valorAjustes": -322637.43
+      }
+    ],
+    "agentesConsiderados": 504,
+    "agentesBase": 513,
+    "agentesComGasto": 504,
+    "agentesSemGasto": 9,
+    "totalLancamentos": 201691
+  },
+  "insights": {
+    "gasto": {
+      "top1Gasto": {
+        "id": 224117,
+        "nome": "Gabriel Mota",
+        "uf": "RR",
+        "partido": "REPUBLICANOS",
+        "valor": 634574.73,
+        "valorLiquido": 634574.73,
+        "valorBruto": 644054.97,
+        "valorAjustes": -9480.24
+      }
+    },
+    "categoria": {
+      "top8MaisDemais": [
+        {
+          "categoriaQC": "DIVULGACAO",
+          "valor": 96294611.27,
+          "valorLiquido": 96294611.27,
+          "valorBruto": 96294611.27,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DESLOCAMENTO",
+          "valor": 80007146.21,
+          "valorLiquido": 80007146.21,
+          "valorBruto": 91034223.56,
+          "valorAjustes": -11027077.35
+        },
+        {
+          "categoriaQC": "ESCRITORIO",
+          "valor": 34854527.28,
+          "valorLiquido": 34854527.28,
+          "valorBruto": 34854527.28,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "COMBUSTIVEL",
+          "valor": 21266573.48,
+          "valorLiquido": 21266573.48,
+          "valorBruto": 21266573.48,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "HOSPEDAGEM",
+          "valor": 3735017.57,
+          "valorLiquido": 3735017.57,
+          "valorBruto": 3735017.57,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CORREIOS_TELEFONIA",
+          "valor": 1946951.52,
+          "valorLiquido": 1946951.52,
+          "valorBruto": 1946951.52,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "ALIMENTACAO",
+          "valor": 634704.47,
+          "valorLiquido": 634704.47,
+          "valorBruto": 634704.47,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "CONSULTORIA_SERVICOS",
+          "valor": 30376.69,
+          "valorLiquido": 30376.69,
+          "valorBruto": 30376.69,
+          "valorAjustes": 0.0
+        },
+        {
+          "categoriaQC": "DEMAIS CATEGORIAS",
+          "valor": -0.0,
+          "valorLiquido": -0.0,
+          "valorBruto": -0.0,
+          "valorAjustes": 0.0
+        }
+      ]
+    },
+    "uf": {
+      "topUFs": [
+        {
+          "uf": "SP",
+          "valor": 30387575.94,
+          "valorLiquido": 30387575.94,
+          "valorBruto": 31771672.41,
+          "valorAjustes": -1384096.47
+        },
+        {
+          "uf": "MG",
+          "valor": 24489200.71,
+          "valorLiquido": 24489200.71,
+          "valorBruto": 25147469.92,
+          "valorAjustes": -658269.21
+        },
+        {
+          "uf": "RJ",
+          "valor": 19535063.17,
+          "valorLiquido": 19535063.17,
+          "valorBruto": 20884296.53,
+          "valorAjustes": -1349233.36
+        },
+        {
+          "uf": "BA",
+          "valor": 18118835.11,
+          "valorLiquido": 18118835.11,
+          "valorBruto": 19122973.51,
+          "valorAjustes": -1004138.4
+        },
+        {
+          "uf": "RS",
+          "valor": 15169046.2,
+          "valorLiquido": 15169046.2,
+          "valorBruto": 16081763.68,
+          "valorAjustes": -912717.48
+        },
+        {
+          "uf": "PR",
+          "valor": 14651088.19,
+          "valorLiquido": 14651088.19,
+          "valorBruto": 15282516.27,
+          "valorAjustes": -631428.08
+        },
+        {
+          "uf": "PE",
+          "valor": 13256625.65,
+          "valorLiquido": 13256625.65,
+          "valorBruto": 13909191.79,
+          "valorAjustes": -652566.14
+        },
+        {
+          "uf": "CE",
+          "valor": 9563791.36,
+          "valorLiquido": 9563791.36,
+          "valorBruto": 10032042.68,
+          "valorAjustes": -468251.32
+        },
+        {
+          "uf": "MA",
+          "valor": 7554775.16,
+          "valorLiquido": 7554775.16,
+          "valorBruto": 7993740.62,
+          "valorAjustes": -438965.46
+        },
+        {
+          "uf": "GO",
+          "valor": 7501849.37,
+          "valorLiquido": 7501849.37,
+          "valorBruto": 7504353.97,
+          "valorAjustes": -2504.6
+        },
+        {
+          "uf": "PA",
+          "valor": 7455404.97,
+          "valorLiquido": 7455404.97,
+          "valorBruto": 7730773.68,
+          "valorAjustes": -275368.71
+        },
+        {
+          "uf": "SC",
+          "valor": 7050681.68,
+          "valorLiquido": 7050681.68,
+          "valorBruto": 7373319.11,
+          "valorAjustes": -322637.43
+        }
+      ]
+    },
+    "concentracao": {
+      "top10Total": 6102373.67,
+      "top10Liquido": 6102373.67,
+      "top10Bruto": 6514659.7,
+      "top10Ajustes": -412286.03,
+      "top10Percentual": 2.56
+    },
+    "medias": {
+      "porAgenteComGasto": 473749.82,
+      "porLancamento": 1183.84
+    },
+    "diario": {
+      "dataReferencia": "2026-03-03",
+      "deputado": {
+        "id": 220528,
+        "nome": "Dr. Victor Linhalis",
+        "uf": "ES",
+        "partido": "PODE"
+      },
+      "valor": 54000.0,
+      "tipoDespesa": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "categoriaQC": "DIVULGACAO",
+      "fornecedor": "JORNAL CANELA VERDE EIRELI",
+      "tipoDocumento": "Nota Fiscal",
+      "urlDocumento": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3611/2026/8058861.pdf"
+    },
+    "base": {
+      "agentesBase": 513,
+      "agentesComGasto": 504,
+      "agentesSemGasto": 9,
+      "totalLancamentos": 201691,
+      "totalGasto": 238769908.49,
+      "totalLiquido": 238769908.49,
+      "totalBruto": 249796985.84,
+      "totalAjustes": -11027077.35
+    }
+  }
+}
