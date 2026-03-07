@@ -24,6 +24,10 @@ def write_json(path: Path, obj) -> None:
     ensure_dir(path.parent)
     path.write_text(json.dumps(obj, ensure_ascii=False, indent=2), encoding="utf-8")
 
+def remove_if_exists(path: Path) -> None:
+    if path.exists():
+        path.unlink()
+
 def read_json(path: Path) -> Optional[dict]:
     if not path.exists():
         return None
@@ -54,6 +58,25 @@ def normalize_doc_date(value: str) -> Optional[str]:
         return d.strftime("%Y-%m-%d")
     except Exception:
         return None
+
+def parse_monetary(value) -> float:
+    if value is None:
+        return 0.0
+    s = str(value).strip()
+    if not s:
+        return 0.0
+    try:
+        return float(s)
+    except Exception:
+        return 0.0
+
+def split_financial_values(item: dict) -> Tuple[float, float, float]:
+    raw_liq = item.get("valorLiquido")
+    has_liq = raw_liq is not None and str(raw_liq).strip() != ""
+    valor_liquido = parse_monetary(raw_liq if has_liq else item.get("valorDocumento"))
+    valor_bruto = valor_liquido if valor_liquido > 0 else 0.0
+    valor_ajustes = valor_liquido if valor_liquido < 0 else 0.0
+    return valor_bruto, valor_ajustes, valor_liquido
     
 def write_resumos_index(out_dir: Path, escopo: str = "federal/camara") -> None:
     deps_dir = out_dir / "federal/camara/resumos/deputados"
@@ -185,16 +208,12 @@ def build_metodologia_scope_camara(cmap: "CategoryMap", mandate_start_year: int)
             "descricao": "Tipo de despesa oficial agrupado por regras regex versionadas."
         },
         "criterios": {
-            "agenteAtivoPeriodo": "Deputado com qtdLancamentos > 0 ou total > 0 no período.",
-            "integridadeDocumental": [
-                "Sem documento PDF público (urlDocumento não termina com .pdf ou não é URL HTTP).",
-                "Tipo de documento 'recibos/outros'."
-            ]
+            "agenteAtivoPeriodo": "Deputado com qtdLancamentos > 0 ou total > 0 no período."
         },
         "artefatosSaida": [
             {"path": "federal/camara/aggregates/{ano}/{mes}/totais_deputados.json", "descricao": "Base agregada mensal por deputado."},
             {"path": "federal/camara/consultas/{periodo}/deputados.json", "descricao": "Consulta otimizada por período para consumo do front."},
-            {"path": "federal/camara/rankings/{periodo}/*.json", "descricao": "Rankings por total, integridade e categoria."},
+            {"path": "federal/camara/rankings/{periodo}/*.json", "descricao": "Rankings por total e categoria."},
             {"path": "federal/camara/resumos/{periodo}/overview.json", "descricao": "KPIs e insights agregados do período."},
             {"path": "federal/camara/dicionarios/{ano}/{mes}/tipoDespesa_resumo.json", "descricao": "Resumo por tipo de despesa oficial."},
             {"path": "federal/camara/pendencias/{ano}/{mes}/tipoDespesa_pendentes.json", "descricao": "Tipos que caíram na categoria default."},
@@ -205,7 +224,7 @@ def build_metodologia_scope_camara(cmap: "CategoryMap", mandate_start_year: int)
             {
                 "id": "totalGasto",
                 "fonteSaida": "resumos/{periodo}/overview.json:kpis.totalGasto",
-                "formula": "sum(total por deputado ativo no período)"
+                "formula": "sum(totalLiquido por deputado ativo no período), com abertura em totalBruto e totalAjustes"
             },
             {
                 "id": "top1Gasto",
@@ -215,22 +234,22 @@ def build_metodologia_scope_camara(cmap: "CategoryMap", mandate_start_year: int)
             {
                 "id": "top8MaisDemais",
                 "fonteSaida": "resumos/{periodo}/overview.json:insights.categoria.top8MaisDemais",
-                "formula": "ordenar categorias por valor, selecionar top 8, residual = totalGasto - soma(top8)"
+                "formula": "ordenar categorias por valorLiquido, selecionar top 8, residual = totalLiquido - soma(top8Liquido)"
             },
             {
                 "id": "topUFs",
                 "fonteSaida": "resumos/{periodo}/overview.json:insights.uf.topUFs",
-                "formula": "sum(total) por UF, ordenar desc, limitar 12"
+                "formula": "sum(totalLiquido) por UF, ordenar desc, limitar 12"
             },
             {
                 "id": "concentracaoTop10",
                 "fonteSaida": "resumos/{periodo}/overview.json:insights.concentracao",
-                "formula": "top10Total = soma dos 10 maiores totais; top10Percentual = top10Total/totalGasto*100"
+                "formula": "top10Total = soma dos 10 maiores totais líquidos; top10Percentual = top10Total/totalLiquido*100"
             },
             {
                 "id": "medias",
                 "fonteSaida": "resumos/{periodo}/overview.json:insights.medias",
-                "formula": "porAgenteComGasto = totalGasto/agentesComGasto; porLancamento = totalGasto/totalLancamentos"
+                "formula": "porAgenteComGasto = totalLiquido/agentesComGasto; porLancamento = totalLiquido/totalLancamentos"
             },
             {
                 "id": "insightDiario",
@@ -376,23 +395,29 @@ def build_month_aggregates(
         dep_id = int(dep["id"])
         despesas = fetch_despesas(dep_id, ano, mes)
 
-        total = 0.0
-        por_cat = {c: 0.0 for c in cats}
+        total_liquido = 0.0
+        total_bruto = 0.0
+        total_ajustes = 0.0
+        por_cat_liquido = {c: 0.0 for c in cats}
+        por_cat_bruto = {c: 0.0 for c in cats}
+        por_cat_ajustes = {c: 0.0 for c in cats}
         qtd = 0
-        qtd_sem_documento = 0
-        valor_sem_documento = 0.0
-        qtd_recibos_outros = 0
-        valor_recibos_outros = 0.0
 
         for x in despesas:
             qtd += 1
-            v = float(x.get("valorLiquido") or x.get("valorDocumento") or 0.0)
-            total += v
+            v_bruto, v_ajustes, v_liquido = split_financial_values(x)
+            total_liquido += v_liquido
+            total_bruto += v_bruto
+            total_ajustes += v_ajustes
 
             tipo = (x.get("tipoDespesa") or "").strip() or "(Sem tipo)"
             cat = categorize(tipo, cmap)
-            por_cat.setdefault(cat, 0.0)
-            por_cat[cat] += v
+            por_cat_liquido.setdefault(cat, 0.0)
+            por_cat_liquido[cat] += v_liquido
+            por_cat_bruto.setdefault(cat, 0.0)
+            por_cat_bruto[cat] += v_bruto
+            por_cat_ajustes.setdefault(cat, 0.0)
+            por_cat_ajustes[cat] += v_ajustes
 
             data_doc = normalize_doc_date(x.get("dataDocumento"))
             if data_doc:
@@ -404,7 +429,7 @@ def build_month_aggregates(
                         "uf": dep_map[dep_id].get("siglaUf"),
                         "partido": dep_map[dep_id].get("siglaPartido")
                     },
-                    "valor": round(v, 2),
+                    "valor": round(v_liquido, 2),
                     "tipoDespesa": tipo,
                     "categoriaQC": cat,
                     "fornecedor": (x.get("nomeFornecedor") or "").strip() or None,
@@ -415,21 +440,22 @@ def build_month_aggregates(
                 if (not prev) or (float(cand["valor"]) > float(prev.get("valor", 0.0))):
                     max_dia_por_data[data_doc] = cand
 
-            # doc indicators (objetivo, sem acusação)
-            url = (x.get("urlDocumento") or "").strip()
-            tipo_doc = (x.get("tipoDocumento") or "").strip()
-            tem_pdf_publico = bool(url.lower().endswith(".pdf")) and url.startswith("http")
-            if not tem_pdf_publico:
-                qtd_sem_documento += 1
-                valor_sem_documento += v
-
-            if tipo_doc.lower() == "recibos/outros":
-                qtd_recibos_outros += 1
-                valor_recibos_outros += v
-
             # tipoDespesa resumo + pendências
-            bucket = tipo_resumo.setdefault(tipo, {"tipoDespesa": tipo, "valorTotal": 0.0, "qtd": 0})
-            bucket["valorTotal"] += v
+            bucket = tipo_resumo.setdefault(
+                tipo,
+                {
+                    "tipoDespesa": tipo,
+                    "valorTotal": 0.0,
+                    "valorLiquido": 0.0,
+                    "valorBruto": 0.0,
+                    "valorAjustes": 0.0,
+                    "qtd": 0
+                }
+            )
+            bucket["valorTotal"] += v_liquido
+            bucket["valorLiquido"] += v_liquido
+            bucket["valorBruto"] += v_bruto
+            bucket["valorAjustes"] += v_ajustes
             bucket["qtd"] += 1
             if cat == cmap.default:
                 pendentes_set.add(tipo)
@@ -441,13 +467,15 @@ def build_month_aggregates(
             "partido": dep_map[dep_id].get("siglaPartido"),
             "urlFoto": dep_map[dep_id].get("urlFoto"),
             "totais": {
-                "total": round(total, 2),
+                "total": round(total_liquido, 2),
+                "totalLiquido": round(total_liquido, 2),
+                "totalBruto": round(total_bruto, 2),
+                "totalAjustes": round(total_ajustes, 2),
                 "qtdLancamentos": qtd,
-                "porCategoria": {k: round(v, 2) for k, v in por_cat.items()},
-                "qtdSemDocumentoPdf": qtd_sem_documento,
-                "valorSemDocumentoPdf": round(valor_sem_documento, 2),
-                "qtdRecibosOutros": qtd_recibos_outros,
-                "valorRecibosOutros": round(valor_recibos_outros, 2)
+                "porCategoria": {k: round(v, 2) for k, v in por_cat_liquido.items()},
+                "porCategoriaLiquido": {k: round(v, 2) for k, v in por_cat_liquido.items()},
+                "porCategoriaBruto": {k: round(v, 2) for k, v in por_cat_bruto.items()},
+                "porCategoriaAjustes": {k: round(v, 2) for k, v in por_cat_ajustes.items()}
             }
         })
 
@@ -460,6 +488,11 @@ def build_month_aggregates(
             print(f"[{ano}-{mes:02d}] processados {i}/{len(deputados)} deputados...")
 
     tipo_lista = list(tipo_resumo.values())
+    for item in tipo_lista:
+        item["valorTotal"] = round(float(item.get("valorTotal", 0.0)), 2)
+        item["valorLiquido"] = round(float(item.get("valorLiquido", 0.0)), 2)
+        item["valorBruto"] = round(float(item.get("valorBruto", 0.0)), 2)
+        item["valorAjustes"] = round(float(item.get("valorAjustes", 0.0)), 2)
     tipo_lista.sort(key=lambda x: x["valorTotal"], reverse=True)
 
     insight_diario = None
@@ -473,7 +506,7 @@ def build_month_aggregates(
             "escopo": "federal/camara",
             "periodo": {"ano": ano, "mes": mes},
             "geradoEm": now_iso(),
-            "versaoSchema": "1.1.0",
+            "versaoSchema": "2.0.0",
             "versaoCategoryMap": cmap.version,
             "insights": {
                 "diario": insight_diario
@@ -522,6 +555,10 @@ def pick_latest_daily_insight_from_aggregate_files(aggregate_files: List[Path]) 
 def mk_ranking(meta_base: dict, itens: List[dict]) -> dict:
     return {"meta": meta_base, "itens": itens}
 
+def cleanup_integridade_rankings(ranking_dir: Path) -> None:
+    remove_if_exists(ranking_dir / "integridade_sem_pdf_top10.json")
+    remove_if_exists(ranking_dir / "integridade_outros_recibos_top10.json")
+
 def build_rankings_from_rows(rows: List[dict], periodo_meta: dict, cmap: CategoryMap) -> Dict[str, dict]:
     cats = all_categories(cmap)
 
@@ -530,7 +567,7 @@ def build_rankings_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
         "escopo": "federal/camara",
         "periodo": periodo_meta,
         "geradoEm": now_iso(),
-        "versaoSchema": "1.0.0",
+        "versaoSchema": "2.0.0",
         "versaoCategoryMap": cmap.version,
         "criterio": {"consideraAtivosNoPeriodo": True}
     }
@@ -541,50 +578,25 @@ def build_rankings_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
     total_sorted = sorted(ativos, key=lambda r: r["totais"]["total"], reverse=True)
     top_total = [{
         "id": r["id"], "nome": r["nome"], "uf": r["uf"], "partido": r["partido"],
-        "valor": r["totais"]["total"], "qtdLancamentos": r["totais"]["qtdLancamentos"]
+        "valor": round(float(r["totais"].get("totalLiquido", r["totais"]["total"])), 2),
+        "valorLiquido": round(float(r["totais"].get("totalLiquido", r["totais"]["total"])), 2),
+        "valorBruto": round(float(r["totais"].get("totalBruto", max(0.0, float(r["totais"]["total"])))), 2),
+        "valorAjustes": round(float(r["totais"].get("totalAjustes", min(0.0, float(r["totais"]["total"])))), 2),
+        "qtdLancamentos": r["totais"]["qtdLancamentos"]
     } for r in total_sorted[:10]]
 
     bottom_total = [{
         "id": r["id"], "nome": r["nome"], "uf": r["uf"], "partido": r["partido"],
-        "valor": r["totais"]["total"], "qtdLancamentos": r["totais"]["qtdLancamentos"]
+        "valor": round(float(r["totais"].get("totalLiquido", r["totais"]["total"])), 2),
+        "valorLiquido": round(float(r["totais"].get("totalLiquido", r["totais"]["total"])), 2),
+        "valorBruto": round(float(r["totais"].get("totalBruto", max(0.0, float(r["totais"]["total"])))), 2),
+        "valorAjustes": round(float(r["totais"].get("totalAjustes", min(0.0, float(r["totais"]["total"])))), 2),
+        "qtdLancamentos": r["totais"]["qtdLancamentos"]
     } for r in sorted(ativos, key=lambda r: r["totais"]["total"])[:10]]
 
     out: Dict[str, dict] = {}
     out["total_top10.json"] = mk_ranking(base_meta_total, top_total)
     out["total_bottom10.json"] = mk_ranking(base_meta_total, bottom_total)
-
-    # integridade documental (top10)
-    meta_int_base = {
-        "tipo": "ranking_integridade",
-        "escopo": "federal/camara",
-        "periodo": periodo_meta,
-        "geradoEm": now_iso(),
-        "versaoSchema": "1.0.0",
-        "versaoCategoryMap": cmap.version,
-        "criterio": {"consideraAtivosNoPeriodo": True}
-    }
-
-    sem_pdf_sorted = sorted(ativos, key=lambda r: float(r["totais"].get("valorSemDocumentoPdf", 0.0)), reverse=True)
-    out["integridade_sem_pdf_top10.json"] = mk_ranking(
-        {**meta_int_base, "metrica": "valorSemDocumentoPdf"},
-        [{
-            "id": r["id"], "nome": r["nome"], "uf": r["uf"], "partido": r["partido"],
-            "valor": round(float(r["totais"].get("valorSemDocumentoPdf", 0.0)), 2),
-            "qtdLancamentos": r["totais"]["qtdLancamentos"],
-            "qtdSemDocumentoPdf": int(r["totais"].get("qtdSemDocumentoPdf", 0))
-        } for r in sem_pdf_sorted[:10]]
-    )
-
-    outros_sorted = sorted(ativos, key=lambda r: float(r["totais"].get("valorRecibosOutros", 0.0)), reverse=True)
-    out["integridade_outros_recibos_top10.json"] = mk_ranking(
-        {**meta_int_base, "metrica": "valorRecibosOutros"},
-        [{
-            "id": r["id"], "nome": r["nome"], "uf": r["uf"], "partido": r["partido"],
-            "valor": round(float(r["totais"].get("valorRecibosOutros", 0.0)), 2),
-            "qtdLancamentos": r["totais"]["qtdLancamentos"],
-            "qtdRecibosOutros": int(r["totais"].get("qtdRecibosOutros", 0))
-        } for r in outros_sorted[:10]]
-    )
 
     # por categoria (top10)
     for cat in cats:
@@ -594,16 +606,21 @@ def build_rankings_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
             "categoriaQC": cat,
             "periodo": periodo_meta,
             "geradoEm": now_iso(),
-            "versaoSchema": "1.0.0",
+            "versaoSchema": "2.0.0",
             "versaoCategoryMap": cmap.version,
             "criterio": {"consideraAtivosNoPeriodo": True}
         }
         arr = []
         for r in ativos:
-            v = float(r["totais"]["porCategoria"].get(cat, 0.0))
+            v = float((r["totais"].get("porCategoriaLiquido") or r["totais"].get("porCategoria") or {}).get(cat, 0.0))
+            v_bruto = float((r["totais"].get("porCategoriaBruto") or {}).get(cat, max(v, 0.0)))
+            v_ajustes = float((r["totais"].get("porCategoriaAjustes") or {}).get(cat, min(v, 0.0)))
             arr.append({
                 "id": r["id"], "nome": r["nome"], "uf": r["uf"], "partido": r["partido"],
                 "valor": round(v, 2),
+                "valorLiquido": round(v, 2),
+                "valorBruto": round(v_bruto, 2),
+                "valorAjustes": round(v_ajustes, 2),
                 "qtdLancamentos": r["totais"]["qtdLancamentos"]
             })
         arr_sorted = sorted(arr, key=lambda x: x["valor"], reverse=True)[:10]
@@ -615,8 +632,12 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
     cats = all_categories(cmap)
 
     total_geral = 0.0
-    soma_cat = {c: 0.0 for c in cats}
-    soma_uf: Dict[str, float] = {}
+    total_bruto_geral = 0.0
+    total_ajustes_geral = 0.0
+    soma_cat_liquido = {c: 0.0 for c in cats}
+    soma_cat_bruto = {c: 0.0 for c in cats}
+    soma_cat_ajustes = {c: 0.0 for c in cats}
+    soma_uf: Dict[str, dict] = {}
     total_lancamentos = 0
 
     ativos = [r for r in rows if (r["totais"]["qtdLancamentos"] > 0 or r["totais"]["total"] > 0)]
@@ -624,44 +645,103 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
     com_gasto_agentes = len(ativos)
     sem_gasto_agentes = max(0, base_agentes - com_gasto_agentes)
     for r in ativos:
-        total_geral += float(r["totais"]["total"])
+        total_liq = float(r["totais"].get("totalLiquido", r["totais"]["total"]))
+        total_bruto = float(r["totais"].get("totalBruto", max(total_liq, 0.0)))
+        total_ajustes = float(r["totais"].get("totalAjustes", min(total_liq, 0.0)))
+        total_geral += total_liq
+        total_bruto_geral += total_bruto
+        total_ajustes_geral += total_ajustes
         total_lancamentos += int(r["totais"]["qtdLancamentos"])
         uf = r.get("uf") or "?"
-        soma_uf[uf] = soma_uf.get(uf, 0.0) + float(r["totais"]["total"])
+        if uf not in soma_uf:
+            soma_uf[uf] = {"valorLiquido": 0.0, "valorBruto": 0.0, "valorAjustes": 0.0}
+        soma_uf[uf]["valorLiquido"] += total_liq
+        soma_uf[uf]["valorBruto"] += total_bruto
+        soma_uf[uf]["valorAjustes"] += total_ajustes
         for c in cats:
-            soma_cat[c] += float(r["totais"]["porCategoria"].get(c, 0.0))
+            v_liq = float((r["totais"].get("porCategoriaLiquido") or r["totais"].get("porCategoria") or {}).get(c, 0.0))
+            v_bruto = float((r["totais"].get("porCategoriaBruto") or {}).get(c, max(v_liq, 0.0)))
+            v_ajustes = float((r["totais"].get("porCategoriaAjustes") or {}).get(c, min(v_liq, 0.0)))
+            soma_cat_liquido[c] += v_liq
+            soma_cat_bruto[c] += v_bruto
+            soma_cat_ajustes[c] += v_ajustes
 
     top1 = None
     if ativos:
         top1r = max(ativos, key=lambda r: r["totais"]["total"])
+        top1_liq = float(top1r["totais"].get("totalLiquido", top1r["totais"]["total"]))
+        top1_bruto = float(top1r["totais"].get("totalBruto", max(top1_liq, 0.0)))
+        top1_ajustes = float(top1r["totais"].get("totalAjustes", min(top1_liq, 0.0)))
         top1 = {
             "id": top1r["id"],
             "nome": top1r["nome"],
             "uf": top1r["uf"],
             "partido": top1r["partido"],
-            "valor": round(float(top1r["totais"]["total"]), 2)
+            "valor": round(top1_liq, 2),
+            "valorLiquido": round(top1_liq, 2),
+            "valorBruto": round(top1_bruto, 2),
+            "valorAjustes": round(top1_ajustes, 2)
         }
 
     # ordenar top categorias e UFs
     top_cats_raw = sorted(
-        [{"categoriaQC": c, "valor": float(v)} for c, v in soma_cat.items()],
+        [
+            {
+                "categoriaQC": c,
+                "valor": float(soma_cat_liquido[c]),
+                "valorLiquido": float(soma_cat_liquido[c]),
+                "valorBruto": float(soma_cat_bruto[c]),
+                "valorAjustes": float(soma_cat_ajustes[c])
+            }
+            for c in cats
+        ],
         key=lambda x: x["valor"],
         reverse=True
     )
     top_n = 8
-    top_n_list = [{"categoriaQC": x["categoriaQC"], "valor": round(x["valor"], 2)} for x in top_cats_raw[:top_n]]
-    soma_top_n = sum(float(x["valor"]) for x in top_cats_raw[:top_n])
-    resto = max(0.0, float(total_geral) - float(soma_top_n))
-    top_cats = top_n_list + [{"categoriaQC": "DEMAIS CATEGORIAS", "valor": round(resto, 2)}]
+    top_n_list = [
+        {
+            "categoriaQC": x["categoriaQC"],
+            "valor": round(float(x["valor"]), 2),
+            "valorLiquido": round(float(x["valorLiquido"]), 2),
+            "valorBruto": round(float(x["valorBruto"]), 2),
+            "valorAjustes": round(float(x["valorAjustes"]), 2)
+        }
+        for x in top_cats_raw[:top_n]
+    ]
+    soma_top_n_liq = sum(float(x["valorLiquido"]) for x in top_cats_raw[:top_n])
+    soma_top_n_bruto = sum(float(x["valorBruto"]) for x in top_cats_raw[:top_n])
+    soma_top_n_ajustes = sum(float(x["valorAjustes"]) for x in top_cats_raw[:top_n])
+    resto_liq = float(total_geral) - float(soma_top_n_liq)
+    resto_bruto = float(total_bruto_geral) - float(soma_top_n_bruto)
+    resto_ajustes = float(total_ajustes_geral) - float(soma_top_n_ajustes)
+    top_cats = top_n_list + [{
+        "categoriaQC": "DEMAIS CATEGORIAS",
+        "valor": round(resto_liq, 2),
+        "valorLiquido": round(resto_liq, 2),
+        "valorBruto": round(resto_bruto, 2),
+        "valorAjustes": round(resto_ajustes, 2)
+    }]
 
     top_ufs = sorted(
-        [{"uf": uf, "valor": round(v, 2)} for uf, v in soma_uf.items()],
+        [
+            {
+                "uf": uf,
+                "valor": round(float(v.get("valorLiquido", 0.0)), 2),
+                "valorLiquido": round(float(v.get("valorLiquido", 0.0)), 2),
+                "valorBruto": round(float(v.get("valorBruto", 0.0)), 2),
+                "valorAjustes": round(float(v.get("valorAjustes", 0.0)), 2)
+            }
+            for uf, v in soma_uf.items()
+        ],
         key=lambda x: x["valor"],
         reverse=True
     )[:12]
 
     # Insight helpers (não quebram contrato antigo de kpis)
-    top10_total = sum(float(r["totais"]["total"]) for r in sorted(ativos, key=lambda x: float(x["totais"]["total"]), reverse=True)[:10])
+    top10_total = sum(float(r["totais"].get("totalLiquido", r["totais"]["total"])) for r in sorted(ativos, key=lambda x: float(x["totais"]["total"]), reverse=True)[:10])
+    top10_bruto = sum(float(r["totais"].get("totalBruto", max(float(r["totais"]["total"]), 0.0))) for r in sorted(ativos, key=lambda x: float(x["totais"]["total"]), reverse=True)[:10])
+    top10_ajustes = sum(float(r["totais"].get("totalAjustes", min(float(r["totais"]["total"]), 0.0))) for r in sorted(ativos, key=lambda x: float(x["totais"]["total"]), reverse=True)[:10])
     top10_pct = (top10_total / total_geral * 100.0) if total_geral > 0 else 0.0
     media_por_agente = (total_geral / com_gasto_agentes) if com_gasto_agentes > 0 else 0.0
     media_por_lancamento = (total_geral / total_lancamentos) if total_lancamentos > 0 else 0.0
@@ -672,11 +752,14 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
             "escopo": "federal/camara",
             "periodo": periodo_meta,
             "geradoEm": now_iso(),
-            "versaoSchema": "1.2.0",
+            "versaoSchema": "2.0.0",
             "versaoCategoryMap": cmap.version
         },
         "kpis": {
             "totalGasto": round(total_geral, 2),
+            "totalLiquido": round(total_geral, 2),
+            "totalBruto": round(total_bruto_geral, 2),
+            "totalAjustes": round(total_ajustes_geral, 2),
             "top1Gasto": top1,
             "topCategorias": top_cats,
             "topUFs": top_ufs,
@@ -698,6 +781,9 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
             },
             "concentracao": {
                 "top10Total": round(top10_total, 2),
+                "top10Liquido": round(top10_total, 2),
+                "top10Bruto": round(top10_bruto, 2),
+                "top10Ajustes": round(top10_ajustes, 2),
                 "top10Percentual": round(top10_pct, 2)
             },
             "medias": {
@@ -710,7 +796,10 @@ def build_overview_from_rows(rows: List[dict], periodo_meta: dict, cmap: Categor
                 "agentesComGasto": com_gasto_agentes,
                 "agentesSemGasto": sem_gasto_agentes,
                 "totalLancamentos": int(total_lancamentos),
-                "totalGasto": round(total_geral, 2)
+                "totalGasto": round(total_geral, 2),
+                "totalLiquido": round(total_geral, 2),
+                "totalBruto": round(total_bruto_geral, 2),
+                "totalAjustes": round(total_ajustes_geral, 2)
             }
         }
     }
@@ -726,12 +815,14 @@ def build_consulta_deputados_from_rows(rows: List[dict], periodo_meta: dict, cma
             "partido": r.get("partido"),
             "urlFoto": r.get("urlFoto"),
             "total": round(float(totais.get("total", 0.0) or 0.0), 2),
+            "totalLiquido": round(float(totais.get("totalLiquido", totais.get("total", 0.0)) or 0.0), 2),
+            "totalBruto": round(float(totais.get("totalBruto", max(0.0, float(totais.get("total", 0.0) or 0.0))) or 0.0), 2),
+            "totalAjustes": round(float(totais.get("totalAjustes", min(0.0, float(totais.get("total", 0.0) or 0.0))) or 0.0), 2),
             "qtdLancamentos": int(totais.get("qtdLancamentos", 0) or 0),
             "porCategoria": {k: round(float(v or 0.0), 2) for k, v in (totais.get("porCategoria") or {}).items()},
-            "qtdSemDocumentoPdf": int(totais.get("qtdSemDocumentoPdf", 0) or 0),
-            "valorSemDocumentoPdf": round(float(totais.get("valorSemDocumentoPdf", 0.0) or 0.0), 2),
-            "qtdRecibosOutros": int(totais.get("qtdRecibosOutros", 0) or 0),
-            "valorRecibosOutros": round(float(totais.get("valorRecibosOutros", 0.0) or 0.0), 2)
+            "porCategoriaLiquido": {k: round(float(v or 0.0), 2) for k, v in (totais.get("porCategoriaLiquido") or totais.get("porCategoria") or {}).items()},
+            "porCategoriaBruto": {k: round(float(v or 0.0), 2) for k, v in (totais.get("porCategoriaBruto") or {}).items()},
+            "porCategoriaAjustes": {k: round(float(v or 0.0), 2) for k, v in (totais.get("porCategoriaAjustes") or {}).items()}
         })
 
     return {
@@ -740,13 +831,12 @@ def build_consulta_deputados_from_rows(rows: List[dict], periodo_meta: dict, cma
             "escopo": "federal/camara",
             "periodo": periodo_meta,
             "geradoEm": now_iso(),
-            "versaoSchema": "1.0.0",
+            "versaoSchema": "2.0.0",
             "versaoCategoryMap": cmap.version,
             "campos": [
                 "id", "nome", "uf", "partido", "urlFoto",
-                "total", "qtdLancamentos", "porCategoria",
-                "qtdSemDocumentoPdf", "valorSemDocumentoPdf",
-                "qtdRecibosOutros", "valorRecibosOutros"
+                "total", "totalLiquido", "totalBruto", "totalAjustes",
+                "qtdLancamentos", "porCategoria", "porCategoriaLiquido", "porCategoriaBruto", "porCategoriaAjustes",
             ]
         },
         "itens": itens
@@ -777,36 +867,57 @@ def sum_aggregate_files(aggregate_files: List[Path]) -> List[dict]:
                     "urlFoto": r.get("urlFoto"),
                     "totais": {
                         "total": 0.0,
+                        "totalLiquido": 0.0,
+                        "totalBruto": 0.0,
+                        "totalAjustes": 0.0,
                         "qtdLancamentos": 0,
-                        "porCategoria": dict(r["totais"]["porCategoria"]),
-                        "qtdSemDocumentoPdf": 0,
-                        "valorSemDocumentoPdf": 0.0,
-                        "qtdRecibosOutros": 0,
-                        "valorRecibosOutros": 0.0
+                        "porCategoria": dict((r.get("totais") or {}).get("porCategoria") or {}),
+                        "porCategoriaLiquido": dict((r.get("totais") or {}).get("porCategoriaLiquido") or (r.get("totais") or {}).get("porCategoria") or {}),
+                        "porCategoriaBruto": dict((r.get("totais") or {}).get("porCategoriaBruto") or {}),
+                        "porCategoriaAjustes": dict((r.get("totais") or {}).get("porCategoriaAjustes") or {})
                     }
                 }
                 # zerar porCategoria (mantendo keys)
                 for k in summed[dep_id]["totais"]["porCategoria"].keys():
                     summed[dep_id]["totais"]["porCategoria"][k] = 0.0
+                for k in summed[dep_id]["totais"]["porCategoriaLiquido"].keys():
+                    summed[dep_id]["totais"]["porCategoriaLiquido"][k] = 0.0
+                for k in summed[dep_id]["totais"]["porCategoriaBruto"].keys():
+                    summed[dep_id]["totais"]["porCategoriaBruto"][k] = 0.0
+                for k in summed[dep_id]["totais"]["porCategoriaAjustes"].keys():
+                    summed[dep_id]["totais"]["porCategoriaAjustes"][k] = 0.0
 
             s = summed[dep_id]["totais"]
-            s["total"] += float(r["totais"]["total"])
-            s["qtdLancamentos"] += int(r["totais"]["qtdLancamentos"])
-            s["qtdSemDocumentoPdf"] += int(r["totais"].get("qtdSemDocumentoPdf", 0))
-            s["valorSemDocumentoPdf"] += float(r["totais"].get("valorSemDocumentoPdf", 0.0))
-            s["qtdRecibosOutros"] += int(r["totais"].get("qtdRecibosOutros", 0))
-            s["valorRecibosOutros"] += float(r["totais"].get("valorRecibosOutros", 0.0))
+            totais_row = (r.get("totais") or {})
+            total_liq = float(totais_row.get("totalLiquido", totais_row.get("total", 0.0)))
+            total_bruto = float(totais_row.get("totalBruto", max(total_liq, 0.0)))
+            total_ajustes = float(totais_row.get("totalAjustes", min(total_liq, 0.0)))
+            s["total"] += total_liq
+            s["totalLiquido"] += total_liq
+            s["totalBruto"] += total_bruto
+            s["totalAjustes"] += total_ajustes
+            s["qtdLancamentos"] += int(totais_row.get("qtdLancamentos", 0))
 
-            for k, v in r["totais"]["porCategoria"].items():
+            for k, v in (totais_row.get("porCategoria") or {}).items():
                 s["porCategoria"][k] = float(s["porCategoria"].get(k, 0.0)) + float(v)
+            for k, v in (totais_row.get("porCategoriaLiquido") or totais_row.get("porCategoria") or {}).items():
+                s["porCategoriaLiquido"][k] = float(s["porCategoriaLiquido"].get(k, 0.0)) + float(v)
+            for k, v in (totais_row.get("porCategoriaBruto") or {}).items():
+                s["porCategoriaBruto"][k] = float(s["porCategoriaBruto"].get(k, 0.0)) + float(v)
+            for k, v in (totais_row.get("porCategoriaAjustes") or {}).items():
+                s["porCategoriaAjustes"][k] = float(s["porCategoriaAjustes"].get(k, 0.0)) + float(v)
 
     # arredondar
     out = []
     for r in summed.values():
         r["totais"]["total"] = round(r["totais"]["total"], 2)
-        r["totais"]["valorSemDocumentoPdf"] = round(r["totais"]["valorSemDocumentoPdf"], 2)
-        r["totais"]["valorRecibosOutros"] = round(r["totais"]["valorRecibosOutros"], 2)
+        r["totais"]["totalLiquido"] = round(r["totais"]["totalLiquido"], 2)
+        r["totais"]["totalBruto"] = round(r["totais"]["totalBruto"], 2)
+        r["totais"]["totalAjustes"] = round(r["totais"]["totalAjustes"], 2)
         r["totais"]["porCategoria"] = {k: round(float(v), 2) for k, v in r["totais"]["porCategoria"].items()}
+        r["totais"]["porCategoriaLiquido"] = {k: round(float(v), 2) for k, v in r["totais"]["porCategoriaLiquido"].items()}
+        r["totais"]["porCategoriaBruto"] = {k: round(float(v), 2) for k, v in r["totais"]["porCategoriaBruto"].items()}
+        r["totais"]["porCategoriaAjustes"] = {k: round(float(v), 2) for k, v in r["totais"]["porCategoriaAjustes"].items()}
         out.append(r)
     return out
 
@@ -854,12 +965,14 @@ def build_resumos_deputados_from_monthlies(
                 "urlFoto": base.get("urlFoto"),
                 "totaisMandato": {
                     "total": 0.0,
+                    "totalLiquido": 0.0,
+                    "totalBruto": 0.0,
+                    "totalAjustes": 0.0,
                     "qtdLancamentos": 0,
                     "porCategoria": {},
-                    "qtdSemDocumentoPdf": 0,
-                    "valorSemDocumentoPdf": 0.0,
-                    "qtdRecibosOutros": 0,
-                    "valorRecibosOutros": 0.0
+                    "porCategoriaLiquido": {},
+                    "porCategoriaBruto": {},
+                    "porCategoriaAjustes": {}
                 },
                 "totaisAno": {},
                 "porMes": {}
@@ -903,23 +1016,32 @@ def build_resumos_deputados_from_monthlies(
             a["urlFoto"] = a.get("urlFoto") or row.get("urlFoto")
 
             t = row.get("totais") or {}
-            total = float(t.get("total") or 0.0)
+            total = float(t.get("totalLiquido", t.get("total", 0.0)) or 0.0)
+            total_bruto = float(t.get("totalBruto", max(total, 0.0)) or 0.0)
+            total_ajustes = float(t.get("totalAjustes", min(total, 0.0)) or 0.0)
             qtd = int(t.get("qtdLancamentos") or 0)
 
             a["totaisMandato"]["total"] += total
+            a["totaisMandato"]["totalLiquido"] += total
+            a["totaisMandato"]["totalBruto"] += total_bruto
+            a["totaisMandato"]["totalAjustes"] += total_ajustes
             a["totaisMandato"]["qtdLancamentos"] += qtd
 
             # per-category sums
-            pc = t.get("porCategoria") or {}
+            pc = t.get("porCategoriaLiquido") or t.get("porCategoria") or {}
+            pc_bruto = t.get("porCategoriaBruto") or {}
+            pc_ajustes = t.get("porCategoriaAjustes") or {}
             dst_pc = a["totaisMandato"]["porCategoria"]
+            dst_pc_liq = a["totaisMandato"]["porCategoriaLiquido"]
+            dst_pc_bruto = a["totaisMandato"]["porCategoriaBruto"]
+            dst_pc_ajustes = a["totaisMandato"]["porCategoriaAjustes"]
             for k, v in pc.items():
                 dst_pc[k] = float(dst_pc.get(k) or 0.0) + float(v or 0.0)
-
-            # doc stats
-            a["totaisMandato"]["qtdSemDocumentoPdf"] += int(t.get("qtdSemDocumentoPdf") or 0)
-            a["totaisMandato"]["valorSemDocumentoPdf"] += float(t.get("valorSemDocumentoPdf") or 0.0)
-            a["totaisMandato"]["qtdRecibosOutros"] += int(t.get("qtdRecibosOutros") or 0)
-            a["totaisMandato"]["valorRecibosOutros"] += float(t.get("valorRecibosOutros") or 0.0)
+                dst_pc_liq[k] = float(dst_pc_liq.get(k) or 0.0) + float(v or 0.0)
+            for k, v in pc_bruto.items():
+                dst_pc_bruto[k] = float(dst_pc_bruto.get(k) or 0.0) + float(v or 0.0)
+            for k, v in pc_ajustes.items():
+                dst_pc_ajustes[k] = float(dst_pc_ajustes.get(k) or 0.0) + float(v or 0.0)
 
             if year is not None:
                 if year >= mandate_start_year:
@@ -932,15 +1054,19 @@ def build_resumos_deputados_from_monthlies(
     for dep_id, a in acc.items():
         tm = a["totaisMandato"]
         tm["total"] = round(tm["total"], 2)
-        tm["valorSemDocumentoPdf"] = round(tm["valorSemDocumentoPdf"], 2)
-        tm["valorRecibosOutros"] = round(tm["valorRecibosOutros"], 2)
+        tm["totalLiquido"] = round(tm["totalLiquido"], 2)
+        tm["totalBruto"] = round(tm["totalBruto"], 2)
+        tm["totalAjustes"] = round(tm["totalAjustes"], 2)
         tm["porCategoria"] = {k: round(float(v), 2) for k, v in (tm.get("porCategoria") or {}).items()}
+        tm["porCategoriaLiquido"] = {k: round(float(v), 2) for k, v in (tm.get("porCategoriaLiquido") or {}).items()}
+        tm["porCategoriaBruto"] = {k: round(float(v), 2) for k, v in (tm.get("porCategoriaBruto") or {}).items()}
+        tm["porCategoriaAjustes"] = {k: round(float(v), 2) for k, v in (tm.get("porCategoriaAjustes") or {}).items()}
 
         a["totaisAno"] = {k: round(float(v), 2) for k, v in (a.get("totaisAno") or {}).items()}
         a["porMes"] = {k: round(float(v), 2) for k, v in (a.get("porMes") or {}).items()}
 
         # maiorCategoria
-        pc = tm.get("porCategoria") or {}
+        pc = tm.get("porCategoriaLiquido") or tm.get("porCategoria") or {}
         if pc:
             cat, val = max(pc.items(), key=lambda kv: kv[1])
             total = tm.get("total") or 0.0
@@ -970,7 +1096,7 @@ def write_resumos_deputados_mandato(
                 "tipo": "resumo_deputado_mandato",
                 "id": dep_id,
                 "geradoEm": now_iso(),
-                "versaoSchema": "1.1.0"
+                "versaoSchema": "2.0.0"
             },
             "data": a
         }
@@ -1041,6 +1167,7 @@ def main():
         rankings = build_rankings_from_rows(rows, periodo_mes, cmap)
         for fname, obj in rankings.items():
             write_json(out_dir / f"federal/camara/rankings/{year:04d}/{m:02d}/{fname}", obj)
+        cleanup_integridade_rankings(out_dir / f"federal/camara/rankings/{year:04d}/{m:02d}")
 
         # overview do mês
         overview = build_overview_from_rows(rows, periodo_mes, cmap, daily_insight=insight_diario_mes)
@@ -1059,6 +1186,7 @@ def main():
         rankings_year = build_rankings_from_rows(rows_year, periodo_ano, cmap)
         for fname, obj in rankings_year.items():
             write_json(out_dir / f"federal/camara/rankings/{year:04d}/ano/{fname}", obj)
+        cleanup_integridade_rankings(out_dir / f"federal/camara/rankings/{year:04d}/ano")
         overview_year = build_overview_from_rows(rows_year, periodo_ano, cmap, daily_insight=daily_year)
         write_json(out_dir / f"federal/camara/resumos/{year:04d}/ano/overview.json", overview_year)
         consulta_year = build_consulta_deputados_from_rows(rows_year, periodo_ano, cmap)
@@ -1080,6 +1208,7 @@ def main():
         rankings_mandato = build_rankings_from_rows(rows_mandato, periodo_mandato, cmap)
         for fname, obj in rankings_mandato.items():
             write_json(out_dir / "federal/camara/rankings/mandato" / fname, obj)
+        cleanup_integridade_rankings(out_dir / "federal/camara/rankings/mandato")
         overview_mandato = build_overview_from_rows(rows_mandato, periodo_mandato, cmap, daily_insight=daily_mandato)
         write_json(out_dir / "federal/camara/resumos/mandato/overview.json", overview_mandato)
         consulta_mandato = build_consulta_deputados_from_rows(rows_mandato, periodo_mandato, cmap)
