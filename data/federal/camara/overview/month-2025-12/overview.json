@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2025-12",
+    "generatedAt": "2026-03-09T20:59:48.433622Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 18466406.45,
+    "amountGross": 18973058.96,
+    "amountAdjustments": -506652.51,
+    "recordsCount": 11343,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 498,
+    "entitiesWithoutSpending": 15
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 73433,
+      "name": "Arlindo Chinaglia",
+      "stateCode": "SP",
+      "party": "PT",
+      "photoUrl": null,
+      "amountNet": 216013.21,
+      "amountGross": 216013.21,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 10448168.57,
+        "amountGross": 10448168.57,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 3975616.6,
+        "amountGross": 4482269.11,
+        "amountAdjustments": -506652.51
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2333455.1,
+        "amountGross": 2333455.1,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1382591.69,
+        "amountGross": 1382591.69,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 174921.52,
+        "amountGross": 174921.52,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 115573.8,
+        "amountGross": 115573.8,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 36079.17,
+        "amountGross": 36079.17,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2398868.38,
+        "amountGross": 2460743.28,
+        "amountAdjustments": -61874.9
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1604042.17,
+        "amountGross": 1697087.85,
+        "amountAdjustments": -93045.68
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 1594856.58,
+        "amountGross": 1614079.58,
+        "amountAdjustments": -19223.0
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1360277.32,
+        "amountGross": 1444006.59,
+        "amountAdjustments": -83729.27
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1151929.56,
+        "amountGross": 1156784.04,
+        "amountAdjustments": -4854.48
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1105969.25,
+        "amountGross": 1130462.9,
+        "amountAdjustments": -24493.65
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1093827.34,
+        "amountGross": 1120104.41,
+        "amountAdjustments": -26277.07
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 938718.07,
+        "amountGross": 969246.01,
+        "amountAdjustments": -30527.94
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 709932.05,
+        "amountGross": 718283.79,
+        "amountAdjustments": -8351.74
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 601884.09,
+        "amountGross": 607265.72,
+        "amountAdjustments": -5381.63
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 601563.61,
+        "amountGross": 623709.67,
+        "amountAdjustments": -22146.06
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 590951.47,
+        "amountGross": 590951.47,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 1600160.59,
+      "percent": 8.67
+    },
+    "averages": {
+      "perEntityWithSpending": 37081.14,
+      "perRecord": 1628.0
+    },
+    "dailyHighlight": {
+      "referenceDate": "2026-03-03",
+      "entity": {
+        "id": 220528,
+        "name": "Dr. Victor Linhalis",
+        "stateCode": "ES",
+        "party": "PODE",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 54000.0,
+      "topAmountNet": 54000.0,
+      "totalAmountNet": 69000.0,
+      "previousTotalAmountNet": 6500.0,
+      "deltaTotalAmountNet": 62500.0,
+      "deltaPercentTotalAmountNet": 961.54,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2026-02-19",
+          "amountNet": 4343.66
+        },
+        {
+          "date": "2026-02-20",
+          "amountNet": 6600.0
+        },
+        {
+          "date": "2026-02-23",
+          "amountNet": 70900.0
+        },
+        {
+          "date": "2026-02-24",
+          "amountNet": 7700.0
+        },
+        {
+          "date": "2026-02-26",
+          "amountNet": 18000.0
+        },
+        {
+          "date": "2026-02-27",
+          "amountNet": 6500.0
+        },
+        {
+          "date": "2026-03-03",
+          "amountNet": 69000.0
+        }
+      ],
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "JORNAL CANELA VERDE EIRELI"
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2025-06",
+    "generatedAt": "2026-03-09T20:26:00.255388Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 20640257.35,
+    "amountGross": 21658688.27,
+    "amountAdjustments": -1018430.92,
+    "recordsCount": 17701,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 485,
+    "entitiesWithoutSpending": 28
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 141408,
+      "name": "Cleber Verde",
+      "stateCode": "MA",
+      "party": "MDB",
+      "photoUrl": null,
+      "amountNet": 119849.92,
+      "amountGross": 119849.92,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 7852309.46,
+        "amountGross": 7852309.46,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 7324141.42,
+        "amountGross": 8342572.34,
+        "amountAdjustments": -1018430.92
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2988126.74,
+        "amountGross": 2988126.74,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1874541.25,
+        "amountGross": 1874541.25,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 366854.07,
+        "amountGross": 366854.07,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 173270.7,
+        "amountGross": 173270.7,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 51868.1,
+        "amountGross": 51868.1,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 9145.61,
+        "amountGross": 9145.61,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2562191.14,
+        "amountGross": 2703270.12,
+        "amountAdjustments": -141078.98
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2258184.1,
+        "amountGross": 2340721.4,
+        "amountAdjustments": -82537.3
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1728107.95,
+        "amountGross": 1856803.55,
+        "amountAdjustments": -128695.6
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1485746.69,
+        "amountGross": 1579282.47,
+        "amountAdjustments": -93535.78
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1365480.73,
+        "amountGross": 1426167.68,
+        "amountAdjustments": -60686.95
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1334951.51,
+        "amountGross": 1411013.78,
+        "amountAdjustments": -76062.27
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1089795.59,
+        "amountGross": 1142367.27,
+        "amountAdjustments": -52571.68
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 827168.43,
+        "amountGross": 861242.25,
+        "amountAdjustments": -34073.82
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 651291.49,
+        "amountGross": 683233.15,
+        "amountAdjustments": -31941.66
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 642423.71,
+        "amountGross": 660303.19,
+        "amountAdjustments": -17879.48
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 623242.16,
+        "amountGross": 623242.16,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 618606.72,
+        "amountGross": 653687.2,
+        "amountAdjustments": -35080.48
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 831024.97,
+      "percent": 4.03
+    },
+    "averages": {
+      "perEntityWithSpending": 42557.23,
+      "perRecord": 1166.05
+    },
+    "dailyHighlight": {
+      "referenceDate": "2025-09-25",
+      "entity": {
+        "id": 204379,
+        "name": "Acácio Favacho",
+        "stateCode": "AP",
+        "party": "MDB",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 16142.9,
+      "topAmountNet": 16142.9,
+      "totalAmountNet": 16142.9,
+      "previousTotalAmountNet": 6000.35,
+      "deltaTotalAmountNet": 10142.55,
+      "deltaPercentTotalAmountNet": 169.03,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2025-08-28",
+          "amountNet": 6000.0
+        },
+        {
+          "date": "2025-09-02",
+          "amountNet": 4800.0
+        },
+        {
+          "date": "2025-09-03",
+          "amountNet": 14280.0
+        },
+        {
+          "date": "2025-09-08",
+          "amountNet": 30000.0
+        },
+        {
+          "date": "2025-09-09",
+          "amountNet": 1000.0
+        },
+        {
+          "date": "2025-09-15",
+          "amountNet": 6000.35
+        },
+        {
+          "date": "2025-09-25",
+          "amountNet": 16142.9
+        }
+      ],
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "ELIEZER CONCEIÇÃO LIMA"
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2025-04",
+    "generatedAt": "2026-03-09T20:14:44.488492Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 21070650.59,
+    "amountGross": 22517211.61,
+    "amountAdjustments": -1446561.02,
+    "recordsCount": 19663,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 487,
+    "entitiesWithoutSpending": 26
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 160512,
+      "name": "Aureo Ribeiro",
+      "stateCode": "RJ",
+      "party": "SOLIDARIEDADE",
+      "photoUrl": null,
+      "amountNet": 99249.5,
+      "amountGross": 100763.72,
+      "amountAdjustments": -1514.22
+    },
+    "topCategories": [
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 8182081.37,
+        "amountGross": 9628642.39,
+        "amountAdjustments": -1446561.02
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 7576648.5,
+        "amountGross": 7576648.5,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2963818.35,
+        "amountGross": 2963818.35,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1851250.86,
+        "amountGross": 1851250.86,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 268377.56,
+        "amountGross": 268377.56,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 166448.83,
+        "amountGross": 166448.83,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 58825.12,
+        "amountGross": 58825.12,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 3200.0,
+        "amountGross": 3200.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2610093.42,
+        "amountGross": 2767566.9,
+        "amountAdjustments": -157473.48
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2293179.5,
+        "amountGross": 2383259.63,
+        "amountAdjustments": -90080.13
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1852914.9,
+        "amountGross": 2036303.07,
+        "amountAdjustments": -183388.17
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1539129.1,
+        "amountGross": 1652035.2,
+        "amountAdjustments": -112906.1
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1337940.21,
+        "amountGross": 1494248.59,
+        "amountAdjustments": -156308.38
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1300967.81,
+        "amountGross": 1376627.38,
+        "amountAdjustments": -75659.57
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1198286.54,
+        "amountGross": 1289129.43,
+        "amountAdjustments": -90842.89
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 877195.06,
+        "amountGross": 925110.06,
+        "amountAdjustments": -47915.0
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 671933.23,
+        "amountGross": 674404.19,
+        "amountAdjustments": -2470.96
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 666020.95,
+        "amountGross": 691276.25,
+        "amountAdjustments": -25255.3
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 599447.88,
+        "amountGross": 667780.33,
+        "amountAdjustments": -68332.45
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 594269.47,
+        "amountGross": 636791.48,
+        "amountAdjustments": -42522.01
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 787644.39,
+      "percent": 3.74
+    },
+    "averages": {
+      "perEntityWithSpending": 43266.22,
+      "perRecord": 1071.59
+    },
+    "dailyHighlight": {
+      "referenceDate": "2025-07-25",
+      "entity": {
+        "id": 220630,
+        "name": "Pedro Aihara",
+        "stateCode": "MG",
+        "party": "PRD",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 5460.0,
+      "topAmountNet": 5460.0,
+      "totalAmountNet": 5460.0,
+      "previousTotalAmountNet": 11000.0,
+      "deltaTotalAmountNet": -5540.0,
+      "deltaPercentTotalAmountNet": -50.36,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2025-07-02",
+          "amountNet": 24700.0
+        },
+        {
+          "date": "2025-07-03",
+          "amountNet": 7500.0
+        },
+        {
+          "date": "2025-07-08",
+          "amountNet": 3000.0
+        },
+        {
+          "date": "2025-07-09",
+          "amountNet": 17000.0
+        },
+        {
+          "date": "2025-07-16",
+          "amountNet": 30000.0
+        },
+        {
+          "date": "2025-07-24",
+          "amountNet": 11000.0
+        },
+        {
+          "date": "2025-07-25",
+          "amountNet": 5460.0
+        }
+      ],
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "INDIKEY SERVIÇOS DE COMUNICAÇÃO LTDA"
+    }
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2025-05",
+    "generatedAt": "2026-03-09T20:20:22.128109Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 20713221.92,
+    "amountGross": 21820994.43,
+    "amountAdjustments": -1107772.51,
+    "recordsCount": 19445,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 485,
+    "entitiesWithoutSpending": 28
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 150418,
+      "name": "Márcio Marinho",
+      "stateCode": "BA",
+      "party": "REPUBLICANOS",
+      "photoUrl": null,
+      "amountNet": 126915.53,
+      "amountGross": 126915.53,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 7774947.85,
+        "amountGross": 7774947.85,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 7490544.05,
+        "amountGross": 8598316.56,
+        "amountAdjustments": -1107772.51
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2997920.87,
+        "amountGross": 2997920.87,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1879145.1,
+        "amountGross": 1879145.1,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 338487.3,
+        "amountGross": 338487.3,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 168541.88,
+        "amountGross": 168541.88,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 60634.87,
+        "amountGross": 60634.87,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 3000.0,
+        "amountGross": 3000.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2730177.2,
+        "amountGross": 2838363.17,
+        "amountAdjustments": -108185.97
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2232052.83,
+        "amountGross": 2307678.92,
+        "amountAdjustments": -75626.09
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1763660.58,
+        "amountGross": 1906970.04,
+        "amountAdjustments": -143309.46
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1606983.87,
+        "amountGross": 1710338.61,
+        "amountAdjustments": -103354.74
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1412704.4,
+        "amountGross": 1524282.58,
+        "amountAdjustments": -111578.18
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1167540.79,
+        "amountGross": 1227722.8,
+        "amountAdjustments": -60182.01
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1083997.06,
+        "amountGross": 1146917.61,
+        "amountAdjustments": -62920.55
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 901052.47,
+        "amountGross": 925637.63,
+        "amountAdjustments": -24585.16
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 705486.45,
+        "amountGross": 705486.45,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 684187.05,
+        "amountGross": 703608.77,
+        "amountAdjustments": -19421.72
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 612848.76,
+        "amountGross": 681230.95,
+        "amountAdjustments": -68382.19
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 562940.37,
+        "amountGross": 629500.78,
+        "amountAdjustments": -66560.41
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 838698.34,
+      "percent": 4.05
+    },
+    "averages": {
+      "perEntityWithSpending": 42707.67,
+      "perRecord": 1065.22
+    },
+    "dailyHighlight": {
+      "referenceDate": "2025-08-22",
+      "entity": {
+        "id": 220696,
+        "name": "Ivoneide Caetano",
+        "stateCode": "BA",
+        "party": "PT",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 8700.0,
+      "topAmountNet": 8700.0,
+      "totalAmountNet": 8700.0,
+      "previousTotalAmountNet": 14500.0,
+      "deltaTotalAmountNet": -5800.0,
+      "deltaPercentTotalAmountNet": -40.0,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2025-07-31",
+          "amountNet": 9690.0
+        },
+        {
+          "date": "2025-08-01",
+          "amountNet": 7600.0
+        },
+        {
+          "date": "2025-08-04",
+          "amountNet": 2522.88
+        },
+        {
+          "date": "2025-08-05",
+          "amountNet": 13786.8
+        },
+        {
+          "date": "2025-08-08",
+          "amountNet": 30000.0
+        },
+        {
+          "date": "2025-08-14",
+          "amountNet": 14500.0
+        },
+        {
+          "date": "2025-08-22",
+          "amountNet": 8700.0
+        }
+      ],
+      "category": "ESCRITORIO",
+      "expenseType": "SERVIÇO DE SEGURANÇA PRESTADO POR EMPRESA ESPECIALIZADA.",
+      "supplier": "IMPERIO SECURITY VILANCIA PATRIMONIAL EIRELI"
+    }
+  }
+}

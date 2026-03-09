@@ -2,7 +2,7 @@
   "meta": {
     "scope": "federal/camara",
     "type": "entity-profile",
-    "generatedAt": "2026-03-09T14:47:50.304737Z",
+    "generatedAt": "2026-03-09T20:59:49.457977Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -13,30 +13,30 @@
     "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160641.jpg"
   },
   "mandateTotals": {
-    "amountNet": 117.9,
-    "amountGross": 117.9,
-    "amountAdjustments": 0.0,
-    "recordsCount": 1,
+    "amountNet": 224799.42,
+    "amountGross": 236705.9,
+    "amountAdjustments": -11906.48,
+    "recordsCount": 44,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 11096.38,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 117.9,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 36345.14,
+      "DIVULGACAO": 176000.0,
+      "ESCRITORIO": 680.0,
+      "HOSPEDAGEM": 560.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 11096.38,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 117.9,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 48251.62,
+      "DIVULGACAO": 176000.0,
+      "ESCRITORIO": 680.0,
+      "HOSPEDAGEM": 560.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -44,7 +44,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -11906.48,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -53,7 +53,8 @@
   },
   "yearTotals": {
     "2023": 117.9,
-    "2024": 0.0
+    "2024": 0.0,
+    "2025": 224681.52
   },
   "monthTotals": {
     "2023-01": 117.9,
@@ -79,6 +80,18 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 0.0,
-    "2024-12": 0.0
+    "2024-12": 0.0,
+    "2025-01": 0.0,
+    "2025-02": 0.0,
+    "2025-03": 0.0,
+    "2025-04": 0.0,
+    "2025-05": 0.0,
+    "2025-06": 0.0,
+    "2025-07": 0.0,
+    "2025-08": 44548.47,
+    "2025-09": 44484.39,
+    "2025-10": 44506.98,
+    "2025-11": 42540.65,
+    "2025-12": 48601.03
   }
 }
