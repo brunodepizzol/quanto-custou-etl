@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "year-2026",
+    "generatedAt": "2026-03-09T21:42:31.294042Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 25524097.42,
+    "amountGross": 25524097.42,
+    "amountAdjustments": 0.0,
+    "recordsCount": 17689,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 502,
+    "entitiesWithoutSpending": 11
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 74454,
+      "name": "Eunício Oliveira",
+      "stateCode": "CE",
+      "party": "MDB",
+      "photoUrl": null,
+      "amountNet": 140213.0,
+      "amountGross": 140213.0,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 12423881.55,
+        "amountGross": 12423881.55,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 5371053.74,
+        "amountGross": 5371053.74,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 4342494.02,
+        "amountGross": 4342494.02,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 2729600.6,
+        "amountGross": 2729600.6,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 373179.09,
+        "amountGross": 373179.09,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 210687.36,
+        "amountGross": 210687.36,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 66201.06,
+        "amountGross": 66201.06,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 7000.0,
+        "amountGross": 7000.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 3241342.8,
+        "amountGross": 3241342.8,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2511864.64,
+        "amountGross": 2511864.64,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 2126304.61,
+        "amountGross": 2126304.61,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1896963.02,
+        "amountGross": 1896963.02,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1632060.95,
+        "amountGross": 1632060.95,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1560839.73,
+        "amountGross": 1560839.73,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1282665.63,
+        "amountGross": 1282665.63,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 1089755.6,
+        "amountGross": 1089755.6,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 827629.96,
+        "amountGross": 827629.96,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 824744.75,
+        "amountGross": 824744.75,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 726994.1,
+        "amountGross": 726994.1,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 684354.76,
+        "amountGross": 684354.76,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 1165551.02,
+      "percent": 4.57
+    },
+    "averages": {
+      "perEntityWithSpending": 50844.82,
+      "perRecord": 1442.94
+    },
+    "dailyHighlight": {
+      "referenceDate": "2026-03-06",
+      "entity": {
+        "id": 160552,
+        "name": "Danrlei de Deus Hinterholz",
+        "stateCode": "RS",
+        "party": "PSD",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 275.61,
+      "topAmountNet": 275.61,
+      "totalAmountNet": 375.61,
+      "previousTotalAmountNet": 9608.77,
+      "deltaTotalAmountNet": -9233.16,
+      "deltaPercentTotalAmountNet": -96.09,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2026-02-28",
+          "amountNet": 2416.43
+        },
+        {
+          "date": "2026-03-01",
+          "amountNet": 20516.98
+        },
+        {
+          "date": "2026-03-02",
+          "amountNet": 160642.46
+        },
+        {
+          "date": "2026-03-03",
+          "amountNet": 103796.57
+        },
+        {
+          "date": "2026-03-04",
+          "amountNet": 55490.19
+        },
+        {
+          "date": "2026-03-05",
+          "amountNet": 9608.77
+        },
+        {
+          "date": "2026-03-06",
+          "amountNet": 375.61
+        }
+      ],
+      "category": "COMBUSTIVEL",
+      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "supplier": "072 - 403 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+    }
+  }
+}
