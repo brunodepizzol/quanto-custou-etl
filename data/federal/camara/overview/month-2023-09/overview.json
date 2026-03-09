@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2023-09",
+    "generatedAt": "2026-03-09T13:12:10.221855Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 19994751.65,
+    "amountGross": 20803434.72,
+    "amountAdjustments": -808683.07,
+    "recordsCount": 19140,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 468,
+    "entitiesWithoutSpending": 45
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 204570,
+      "name": "Pastor Gil",
+      "stateCode": "MA",
+      "party": "PL",
+      "photoUrl": null,
+      "amountNet": 106419.49,
+      "amountGross": 106419.49,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 7549976.08,
+        "amountGross": 8358659.15,
+        "amountAdjustments": -808683.07
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 7332690.67,
+        "amountGross": 7332690.67,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2702625.99,
+        "amountGross": 2702625.99,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1809378.03,
+        "amountGross": 1809378.03,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 269446.03,
+        "amountGross": 269446.03,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 259020.14,
+        "amountGross": 259020.14,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 68014.71,
+        "amountGross": 68014.71,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 3600.0,
+        "amountGross": 3600.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2392743.98,
+        "amountGross": 2486114.21,
+        "amountAdjustments": -93370.23
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2064536.28,
+        "amountGross": 2130190.06,
+        "amountAdjustments": -65653.78
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1675705.06,
+        "amountGross": 1745535.76,
+        "amountAdjustments": -69830.7
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1600680.86,
+        "amountGross": 1664101.25,
+        "amountAdjustments": -63420.39
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1354744.35,
+        "amountGross": 1421048.47,
+        "amountAdjustments": -66304.12
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1309255.44,
+        "amountGross": 1359281.09,
+        "amountAdjustments": -50025.65
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1020059.4,
+        "amountGross": 1116185.88,
+        "amountAdjustments": -96126.48
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 697795.16,
+        "amountGross": 732912.12,
+        "amountAdjustments": -35116.96
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 668469.76,
+        "amountGross": 681884.19,
+        "amountAdjustments": -13414.43
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 602412.41,
+        "amountGross": 604352.03,
+        "amountAdjustments": -1939.62
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 598909.96,
+        "amountGross": 634120.12,
+        "amountAdjustments": -35210.16
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 575374.41,
+        "amountGross": 590732.89,
+        "amountAdjustments": -15358.48
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 875641.6,
+      "percent": 4.38
+    },
+    "averages": {
+      "perEntityWithSpending": 42723.83,
+      "perRecord": 1044.66
+    },
+    "dailyHighlight": {
+      "referenceDate": "2023-12-21",
+      "entity": {
+        "id": 220697,
+        "name": "Jadyel Alencar",
+        "stateCode": "PI",
+        "party": "REPUBLICANOS",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 9750.0,
+      "topAmountNet": 9750.0,
+      "totalAmountNet": 9750.0,
+      "previousTotalAmountNet": 15000.0,
+      "deltaTotalAmountNet": -5250.0,
+      "deltaPercentTotalAmountNet": -35.0,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2023-12-07",
+          "amountNet": 19000.0
+        },
+        {
+          "date": "2023-12-13",
+          "amountNet": 11724.33
+        },
+        {
+          "date": "2023-12-15",
+          "amountNet": 1500.0
+        },
+        {
+          "date": "2023-12-18",
+          "amountNet": 3953.0
+        },
+        {
+          "date": "2023-12-19",
+          "amountNet": 4380.0
+        },
+        {
+          "date": "2023-12-20",
+          "amountNet": 15000.0
+        },
+        {
+          "date": "2023-12-21",
+          "amountNet": 9750.0
+        }
+      ],
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "J DE ARAUJO S E SILVA"
+    }
+  }
+}

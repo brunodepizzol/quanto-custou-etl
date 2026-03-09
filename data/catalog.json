@@ -1,0 +1,19 @@
+{
+  "meta": {
+    "generatedAt": "2026-03-09T14:48:24.790143Z",
+    "schemaVersion": "1.0.0"
+  },
+  "datasets": [
+    {
+      "id": "federal/camara",
+      "description": "federal/camara ETL outputs",
+      "pathBaseData": "federal/camara",
+      "pathInsightsHome": "federal/camara/insights/home-insights.json",
+      "pathOverviewRoot": "federal/camara/overview",
+      "pathEntitiesRoot": "federal/camara/entities",
+      "pathRankingsRoot": "federal/camara/rankings",
+      "pathAnalyticsRoot": "federal/camara/analytics",
+      "pathCategoryMap": "federal/camara/mapping/categoria/category_map.json"
+    }
+  ]
+}

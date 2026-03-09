@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2023-04",
+    "generatedAt": "2026-03-09T12:44:19.525638Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 16455395.18,
+    "amountGross": 16901477.84,
+    "amountAdjustments": -446082.66,
+    "recordsCount": 15817,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 465,
+    "entitiesWithoutSpending": 48
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 123756,
+      "name": "Antônia Lúcia",
+      "stateCode": "AC",
+      "party": "REPUBLICANOS",
+      "photoUrl": null,
+      "amountNet": 123484.61,
+      "amountGross": 127595.28,
+      "amountAdjustments": -4110.67
+    },
+    "topCategories": [
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 6247049.6,
+        "amountGross": 6693132.26,
+        "amountAdjustments": -446082.66
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 5813691.9,
+        "amountGross": 5813691.9,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2421450.64,
+        "amountGross": 2421450.64,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1468611.9,
+        "amountGross": 1468611.9,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 234594.15,
+        "amountGross": 234594.15,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 199905.31,
+        "amountGross": 199905.31,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 62591.68,
+        "amountGross": 62591.68,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 7500.0,
+        "amountGross": 7500.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 1835351.46,
+        "amountGross": 1895675.36,
+        "amountAdjustments": -60323.9
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 1755988.53,
+        "amountGross": 1811843.61,
+        "amountAdjustments": -55855.08
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1310122.54,
+        "amountGross": 1349872.54,
+        "amountAdjustments": -39750.0
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1294902.28,
+        "amountGross": 1327685.22,
+        "amountAdjustments": -32782.94
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1084905.8,
+        "amountGross": 1106277.34,
+        "amountAdjustments": -21371.54
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 978962.54,
+        "amountGross": 997572.24,
+        "amountAdjustments": -18609.7
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 813927.67,
+        "amountGross": 857758.98,
+        "amountAdjustments": -43831.31
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 637388.98,
+        "amountGross": 652696.48,
+        "amountAdjustments": -15307.5
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 557540.99,
+        "amountGross": 557540.99,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 550458.1,
+        "amountGross": 566694.86,
+        "amountAdjustments": -16236.76
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 506139.38,
+        "amountGross": 512639.68,
+        "amountAdjustments": -6500.3
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 504032.92,
+        "amountGross": 514685.9,
+        "amountAdjustments": -10652.98
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 845204.89,
+      "percent": 5.14
+    },
+    "averages": {
+      "perEntityWithSpending": 35387.95,
+      "perRecord": 1040.36
+    },
+    "dailyHighlight": {
+      "referenceDate": "2023-07-24",
+      "entity": {
+        "id": 204539,
+        "name": "Hercílio Coelho Diniz",
+        "stateCode": "MG",
+        "party": "MDB",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 30000.0,
+      "topAmountNet": 30000.0,
+      "totalAmountNet": 30000.0,
+      "previousTotalAmountNet": 116.12,
+      "deltaTotalAmountNet": 29883.88,
+      "deltaPercentTotalAmountNet": 25735.34,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2023-07-04",
+          "amountNet": 87.45
+        },
+        {
+          "date": "2023-07-05",
+          "amountNet": 2744.0
+        },
+        {
+          "date": "2023-07-11",
+          "amountNet": 1500.0
+        },
+        {
+          "date": "2023-07-13",
+          "amountNet": 15000.0
+        },
+        {
+          "date": "2023-07-14",
+          "amountNet": 8500.0
+        },
+        {
+          "date": "2023-07-19",
+          "amountNet": 116.12
+        },
+        {
+          "date": "2023-07-24",
+          "amountNet": 30000.0
+        }
+      ],
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "FRAMIN - AGENCIA DE COMUNICACAO LTDA"
+    }
+  }
+}

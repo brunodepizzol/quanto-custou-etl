@@ -1,0 +1,197 @@
+name: Build ETL Camara
+
+on:
+  workflow_dispatch:
+    inputs:
+      year:
+        description: "Ano para gerar"
+        required: true
+        default: "2026"
+      months:
+        description: "Meses (ex: 1-12 ou 1,2,3 ou 2)"
+        required: true
+        default: "1"
+      mandate_start_year:
+        description: "Ano inicial do mandato (ex: 2023)"
+        required: true
+        default: "2023"
+
+  schedule:
+    - cron: "20 3 * * *"
+    - cron: "40 3 * * 0"
+
+concurrency:
+  group: etl-camara-rankings-${{ github.ref }}
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy:
+      fail-fast: false
+      matrix:
+        target:
+          - id: federal-camara-deputados
+            script: scripts/federal/deputados/generate_camara_rankings.py
+            category_map: mapping/federal/deputados/category_map.json
+            mandate_start_year: "2023"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Prefill OUT_DIR with current data snapshot
+        env:
+          TARGET_ID: ${{ matrix.target.id }}
+        run: |
+          python - << 'PY'
+          import os
+          import shutil
+          from pathlib import Path
+
+          src = Path("data")
+          target_id = (os.environ.get("TARGET_ID") or "").strip()
+          if not target_id:
+            raise SystemExit("TARGET_ID is required for prefill step")
+          dst = Path("out") / target_id / "data"
+          if not src.exists():
+            print("No existing data snapshot to prefill.")
+            raise SystemExit(0)
+
+          for p in src.rglob("*"):
+            if p.is_dir():
+              continue
+            rel = p.relative_to(src)
+            target = dst / rel
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(p, target)
+          print("Prefill complete.")
+          PY
+
+      - name: Compute target year/month (scheduled)
+        if: github.event_name == 'schedule'
+        env:
+          CRON_EXPR: ${{ github.event.schedule }}
+        run: |
+          python - << 'PY'
+          from datetime import datetime, timezone
+          import os
+          now = datetime.now(timezone.utc)
+          y = now.year
+          m = now.month
+          cron_expr = (os.environ.get("CRON_EXPR") or "").strip()
+          if cron_expr == "40 3 * * 0":
+            months = f"1-{m}"
+          else:
+            months = str(m)
+          with open("env.txt", "w", encoding="utf-8") as f:
+            f.write(f"YEAR={y}\nMONTHS={months}\n")
+          PY
+
+      - name: Generate data (manual)
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          MODE: "single"
+          YEAR: ${{ github.event.inputs.year }}
+          MONTHS: ${{ github.event.inputs.months }}
+          MANDATE_START_YEAR: ${{ github.event.inputs.mandate_start_year }}
+          OUT_DIR: out/${{ matrix.target.id }}/data
+          CATEGORY_MAP: ${{ matrix.target.category_map }}
+        run: python ${{ matrix.target.script }}
+
+      - name: Generate data (scheduled)
+        if: github.event_name == 'schedule'
+        env:
+          MODE: "single"
+          OUT_DIR: out/${{ matrix.target.id }}/data
+          CATEGORY_MAP: ${{ matrix.target.category_map }}
+          MANDATE_START_YEAR: ${{ matrix.target.mandate_start_year }}
+        run: |
+          cat env.txt >> $GITHUB_ENV
+          python ${{ matrix.target.script }}
+
+      - name: Validate contract
+        env:
+          MODE: "validate"
+          OUT_DIR: out/${{ matrix.target.id }}/data
+        run: python ${{ matrix.target.script }}
+
+      - name: Upload ETL artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: etl-${{ matrix.target.id }}
+          path: out/${{ matrix.target.id }}/data
+          if-no-files-found: error
+
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    needs: build
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Download ETL artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: etl-*
+          path: artifacts
+
+      - name: Assemble scoped data (no global merge)
+        run: |
+          python - << 'PY'
+          import shutil
+          from pathlib import Path
+
+          artifacts_root = Path("artifacts")
+          out_root = Path("data")
+          out_root.mkdir(parents=True, exist_ok=True)
+
+          for artifact_dir in sorted([p for p in artifacts_root.iterdir() if p.is_dir()]):
+            data_dir = artifact_dir / "data"
+            # upload-artifact/download-artifact pode entregar o conteudo direto
+            # na raiz do artefato (sem subpasta "data"). Aceita ambos formatos.
+            source_root = data_dir if data_dir.exists() else artifact_dir
+
+            for src in source_root.rglob("*"):
+              if src.is_dir():
+                continue
+              rel = src.relative_to(source_root)
+              # Shared global files are maintained by the aggregator workflow.
+              if rel.as_posix() in {"catalog.json", "home-insights-index.json", "home-insights-feed.json"}:
+                continue
+              dest = out_root / rel
+              dest.parent.mkdir(parents=True, exist_ok=True)
+              shutil.copy2(src, dest)
+          PY
+
+      - name: Commit and push (rebase-safe)
+        run: |
+          git config user.name "quantocustou-bot"
+          git config user.email "quantocustou-bot@users.noreply.github.com"
+          git add -f data
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+            exit 0
+          fi
+          git commit -m "Atualiza ETL (merge matrix)"
+          for i in 1 2 3; do
+            git pull --rebase origin main || true
+            if git push; then
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "Push failed after retries"
+          exit 1

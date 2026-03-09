@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "1.0.0",
+  "locale": "pt-BR",
+  "defaults": {
+    "tag": "INSIGHT DO DIA",
+    "sourceByOrgao": {
+      "camara": "Nível federal • Deputados federais"
+    }
+  },
+  "templates": {
+    "aggregate.mandate": {
+      "tag": "INSIGHT DO DIA"
+    },
+    "aggregate.day": {
+      "tag": "INSIGHT DO DIA"
+    },
+    "person.mandate": {
+      "tag": "INSIGHT DO DIA"
+    },
+    "person.day": {
+      "tag": "INSIGHT DO DIA",
+      "variationTemplate": "Fornecedor: {supplier}"
+    },
+    "comparison.day": {
+      "tag": "INSIGHT DO DIA"
+    },
+    "timeline.rolling7d": {
+      "tag": "INSIGHT DO DIA"
+    }
+  },
+  "insights": {
+    "federal-deputies-mandate-total-amount": {
+      "useTemplate": "aggregate.mandate",
+      "tag": "BASE ANALISADA",
+      "title": "Lançamentos analisados no mandato",
+      "context": "Esta é a base real que sustenta todos os indicadores desta consulta."
+    },
+    "federal-deputies-mandate-top-spender": {
+      "useTemplate": "person.mandate",
+      "tag": "MAIOR GASTO",
+      "title": "Maior gasto no mandato",
+      "context": "Este é o maior gasto individual acumulado no mandato desta consulta."
+    },
+    "federal-deputies-mandate-top10-concentration": {
+      "useTemplate": "aggregate.mandate",
+      "tag": "CONCENTRAÇÃO",
+      "title": "Peso do top 10 no total do mandato",
+      "context": "Os 10 maiores gastos concentram uma fatia relevante do total do mandato."
+    },
+    "federal-deputies-day-total-amount": {
+      "useTemplate": "aggregate.day",
+      "tag": "GASTO DO DIA",
+      "title": "Movimento do dia",
+      "context": "Este é o total líquido movimentado no dia mais recente disponível."
+    },
+    "federal-deputies-day-top-spender": {
+      "useTemplate": "person.day",
+      "tag": "MAIOR GASTO DO DIA",
+      "title": "Maior gasto no dia mais recente",
+      "context": "Este foi o maior gasto individual registrado no dia mais recente."
+    },
+    "federal-deputies-day-vs-previous-day": {
+      "useTemplate": "comparison.day",
+      "tag": "VARIAÇÃO DIÁRIA",
+      "title": "Oscilação diária",
+      "context": "Mostra se o total do último dia subiu ou caiu em relação ao dia anterior."
+    },
+    "federal-deputies-mandate-top-category": {
+      "useTemplate": "aggregate.mandate",
+      "tag": "CATEGORIA DESTAQUE",
+      "title": "Categoria com maior volume no mandato",
+      "context": "Esta foi a categoria que mais puxou os gastos no período."
+    },
+    "federal-deputies-mandate-top-state": {
+      "useTemplate": "aggregate.mandate",
+      "tag": "UF DESTAQUE",
+      "title": "UF com maior gasto agregado no mandato",
+      "context": "Esta UF liderou o volume de gastos entre deputados federais no período."
+    },
+    "federal-deputies-mandate-average-per-entity": {
+      "useTemplate": "aggregate.mandate",
+      "tag": "MÉDIA POR DEPUTADO",
+      "title": "Ticket médio por deputado no mandato",
+      "context": "Este é o gasto médio por deputado com despesa no período."
+    },
+    "federal-deputies-day-top-share": {
+      "useTemplate": "comparison.day",
+      "tag": "PESO DO MAIOR GASTO",
+      "title": "Peso do líder no dia",
+      "context": "Mostra quanto a maior despesa representa dentro do total gasto no dia."
+    },
+    "federal-deputies-rolling7d-trend": {
+      "useTemplate": "timeline.rolling7d",
+      "tag": "MÉDIA POR LANÇAMENTO",
+      "title": "Valor médio por lançamento",
+      "context": "Mostra o valor médio de cada lançamento de despesa no período."
+    }
+  }
+}

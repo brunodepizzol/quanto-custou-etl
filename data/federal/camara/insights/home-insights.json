@@ -1,0 +1,322 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "home-insights",
+    "generatedAt": "2026-03-09T14:47:49.901298Z",
+    "schemaVersion": "1.0.0"
+  },
+  "items": [
+    {
+      "id": "federal-deputies-mandate-total-amount",
+      "type": "aggregate",
+      "level": "federal",
+      "period": "mandate",
+      "tag": "BASE ANALISADA",
+      "title": "Lançamentos analisados no mandato",
+      "context": "Esta é a base real que sustenta todos os indicadores desta consulta.",
+      "source": "Nível federal • Deputados federais",
+      "enabled": true,
+      "priority": 100,
+      "weight": 1.0,
+      "generatedAt": "2026-03-09T14:47:49.901298Z",
+      "freshUntil": "2026-03-10T14:47:49.901298Z",
+      "qualityScore": 1.0,
+      "value": {
+        "amount": 441449564.53,
+        "currency": "BRL"
+      },
+      "tags": [
+        "Dados federais"
+      ],
+      "referenceDate": "399743 lançamentos no período",
+      "variationText": "Base: 513 • Com gasto: 492 • Sem gasto: 21"
+    },
+    {
+      "id": "federal-deputies-mandate-top-spender",
+      "type": "person",
+      "level": "federal",
+      "period": "mandate",
+      "tag": "MAIOR GASTO",
+      "title": "Maior gasto no mandato",
+      "context": "Este é o maior gasto individual acumulado no mandato desta consulta.",
+      "source": "Nível federal • Deputados federais",
+      "enabled": true,
+      "priority": 95,
+      "weight": 0.95,
+      "generatedAt": "2026-03-09T14:47:49.901298Z",
+      "freshUntil": "2026-03-10T14:47:49.901298Z",
+      "qualityScore": 1.0,
+      "entity": {
+        "id": 73486,
+        "name": "Pompeo de Mattos",
+        "party": "PDT",
+        "stateCode": "RS",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/73486.jpg",
+        "subtitle": "Deputado federal • PDT/RS"
+      },
+      "value": {
+        "amount": 1311836.81,
+        "currency": "BRL"
+      },
+      "referenceDate": "Deputado com maior gasto no mandato",
+      "variationText": "Base: 513 • Com gasto: 492"
+    },
+    {
+      "id": "federal-deputies-mandate-top10-concentration",
+      "type": "comparison",
+      "level": "federal",
+      "period": "mandate",
+      "tag": "CONCENTRAÇÃO",
+      "title": "Peso do top 10 no total do mandato",
+      "context": "Os 10 maiores gastos concentram uma fatia relevante do total do mandato.",
+      "source": "Nível federal • Deputados federais",
+      "enabled": true,
+      "priority": 92,
+      "weight": 0.9,
+      "generatedAt": "2026-03-09T14:47:49.901298Z",
+      "freshUntil": "2026-03-10T14:47:49.901298Z",
+      "qualityScore": 1.0,
+      "left": {
+        "amount": 12121322.34,
+        "currency": "BRL"
+      },
+      "right": {
+        "amount": 441449564.53,
+        "currency": "BRL"
+      },
+      "delta": {
+        "amount": -429328242.19,
+        "percent": 2.75,
+        "direction": "up"
+      },
+      "tags": [
+        "Top 10 deputados"
+      ],
+      "referenceDate": "492 deputados com gasto no período",
+      "variationText": "Montante Top 10: R$ 12.121.322,34"
+    },
+    {
+      "id": "federal-deputies-day-total-amount",
+      "type": "aggregate",
+      "level": "federal",
+      "period": "day",
+      "tag": "GASTO DO DIA",
+      "title": "Movimento do dia",
+      "context": "Este é o total líquido movimentado no dia mais recente disponível.",
+      "source": "Nível federal • Deputados federais",
+      "enabled": true,
+      "priority": 90,
+      "weight": 0.88,
+      "generatedAt": "2026-03-09T14:47:49.901298Z",
+      "freshUntil": "2026-03-10T14:47:49.901298Z",
+      "qualityScore": 1.0,
+      "value": {
+        "amount": 9500.0,
+        "currency": "BRL"
+      },
+      "tags": [
+        "Movimento do dia"
+      ],
+      "referenceDate": "27/03/2025 • DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "variationText": "Base: 513 • Com gasto: 492"
+    },
+    {
+      "id": "federal-deputies-day-top-spender",
+      "type": "person",
+      "level": "federal",
+      "period": "day",
+      "tag": "MAIOR GASTO DO DIA",
+      "title": "Maior gasto no dia mais recente",
+      "context": "Maior despesa líquida no dia 27/03/2025.",
+      "source": "Nível federal • Deputados federais",
+      "enabled": true,
+      "priority": 89,
+      "weight": 0.86,
+      "generatedAt": "2026-03-09T14:47:49.901298Z",
+      "freshUntil": "2026-03-10T14:47:49.901298Z",
+      "qualityScore": 1.0,
+      "entity": {
+        "id": 160673,
+        "name": "Giovani Cherini",
+        "party": "PL",
+        "stateCode": "RS",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160673.jpg",
+        "subtitle": "Deputado federal • PL/RS"
+      },
+      "value": {
+        "amount": 9500.0,
+        "currency": "BRL"
+      },
+      "referenceDate": "2025-03-27",
+      "variationText": "Fornecedor: Instituto Mais Cidades Assessoria e Consultoria ltda"
+    },
+    {
+      "id": "federal-deputies-day-vs-previous-day",
+      "type": "comparison",
+      "level": "federal",
+      "period": "day",
+      "tag": "VARIAÇÃO DIÁRIA",
+      "title": "Oscilação diária",
+      "context": "Mostra se o total do último dia subiu ou caiu em relação ao dia anterior.",
+      "source": "Nível federal • Deputados federais",
+      "enabled": true,
+      "priority": 85,
+      "weight": 0.82,
+      "generatedAt": "2026-03-09T14:47:49.901298Z",
+      "freshUntil": "2026-03-10T14:47:49.901298Z",
+      "qualityScore": 1.0,
+      "left": {
+        "amount": 9500.0,
+        "currency": "BRL"
+      },
+      "right": {
+        "amount": 17000.0,
+        "currency": "BRL"
+      },
+      "delta": {
+        "amount": -7500.0,
+        "percent": -44.12,
+        "direction": "down"
+      },
+      "tags": [
+        "Variação diária"
+      ],
+      "referenceDate": "2025-03-27",
+      "variationText": "Dia anterior: R$ 17.000,00"
+    },
+    {
+      "id": "federal-deputies-mandate-top-category",
+      "type": "aggregate",
+      "level": "federal",
+      "period": "mandate",
+      "tag": "CATEGORIA DESTAQUE",
+      "title": "Categoria com maior volume no mandato",
+      "context": "Esta foi a categoria que mais puxou os gastos no período.",
+      "source": "Nível federal • Deputados federais",
+      "enabled": true,
+      "priority": 82,
+      "weight": 0.78,
+      "generatedAt": "2026-03-09T14:47:49.901298Z",
+      "freshUntil": "2026-03-10T14:47:49.901298Z",
+      "qualityScore": 1.0,
+      "value": {
+        "amount": 171559517.75,
+        "currency": "BRL"
+      },
+      "tags": [
+        "DIVULGACAO"
+      ],
+      "referenceDate": "Participação no total do mandato",
+      "variationText": "Participação: 38,9%"
+    },
+    {
+      "id": "federal-deputies-mandate-top-state",
+      "type": "aggregate",
+      "level": "federal",
+      "period": "mandate",
+      "tag": "UF DESTAQUE",
+      "title": "UF com maior gasto agregado no mandato",
+      "context": "Esta UF liderou o volume de gastos entre deputados federais no período.",
+      "source": "Nível federal • Deputados federais",
+      "enabled": true,
+      "priority": 80,
+      "weight": 0.76,
+      "generatedAt": "2026-03-09T14:47:49.901298Z",
+      "freshUntil": "2026-03-10T14:47:49.901298Z",
+      "qualityScore": 1.0,
+      "value": {
+        "amount": 53588863.89,
+        "currency": "BRL"
+      },
+      "tags": [
+        "SP"
+      ],
+      "referenceDate": "492 deputados com gasto no período",
+      "variationText": "Participação: 12,1%"
+    },
+    {
+      "id": "federal-deputies-mandate-average-per-entity",
+      "type": "aggregate",
+      "level": "federal",
+      "period": "mandate",
+      "tag": "MÉDIA POR DEPUTADO",
+      "title": "Ticket médio por deputado no mandato",
+      "context": "Este é o gasto médio por deputado com despesa no período.",
+      "source": "Nível federal • Deputados federais",
+      "enabled": true,
+      "priority": 78,
+      "weight": 0.72,
+      "generatedAt": "2026-03-09T14:47:49.901298Z",
+      "freshUntil": "2026-03-10T14:47:49.901298Z",
+      "qualityScore": 1.0,
+      "value": {
+        "amount": 897255.21,
+        "currency": "BRL"
+      },
+      "tags": [
+        "Média por agente"
+      ],
+      "referenceDate": "492 deputados com gasto no período",
+      "variationText": "Montante: R$ 441.449.564,53"
+    },
+    {
+      "id": "federal-deputies-day-top-share",
+      "type": "comparison",
+      "level": "federal",
+      "period": "day",
+      "tag": "PESO DO MAIOR GASTO",
+      "title": "Peso do líder no dia",
+      "context": "Mostra quanto a maior despesa representa dentro do total gasto no dia.",
+      "source": "Nível federal • Deputados federais",
+      "enabled": true,
+      "priority": 74,
+      "weight": 0.68,
+      "generatedAt": "2026-03-09T14:47:49.901298Z",
+      "freshUntil": "2026-03-10T14:47:49.901298Z",
+      "qualityScore": 1.0,
+      "left": {
+        "amount": 9500.0,
+        "currency": "BRL"
+      },
+      "right": {
+        "amount": 9500.0,
+        "currency": "BRL"
+      },
+      "delta": {
+        "amount": 0.0,
+        "percent": 100.0,
+        "direction": "flat"
+      },
+      "tags": [
+        "Peso do maior gasto no dia"
+      ],
+      "referenceDate": "2025-03-27",
+      "variationText": "Valor líder: R$ 9.500,00"
+    },
+    {
+      "id": "federal-deputies-rolling7d-trend",
+      "type": "aggregate",
+      "level": "federal",
+      "period": "mandate",
+      "tag": "MÉDIA POR LANÇAMENTO",
+      "title": "Valor médio por lançamento",
+      "context": "Mostra o valor médio de cada lançamento de despesa no período.",
+      "source": "Nível federal • Deputados federais",
+      "enabled": true,
+      "priority": 72,
+      "weight": 0.66,
+      "generatedAt": "2026-03-09T14:47:49.901298Z",
+      "freshUntil": "2026-03-10T14:47:49.901298Z",
+      "qualityScore": 1.0,
+      "value": {
+        "amount": 1104.33,
+        "currency": "BRL"
+      },
+      "tags": [
+        "Média por item"
+      ],
+      "referenceDate": "399743 lançamentos no período",
+      "variationText": "Montante: R$ 441.449.564,53"
+    }
+  ]
+}

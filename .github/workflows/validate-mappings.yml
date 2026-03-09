@@ -1,0 +1,58 @@
+name: Validate Category Mappings
+
+on:
+  pull_request:
+    paths:
+      - "mapping/**"
+      - ".github/workflows/validate-mappings.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "mapping/**"
+      - ".github/workflows/validate-mappings.yml"
+
+concurrency:
+  group: validate-mappings-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Validate all category maps
+        run: |
+          python - << 'PY'
+          from pathlib import Path
+          import os
+          import subprocess
+          import sys
+
+          maps = sorted(Path("mapping").rglob("category_map.json"))
+          if not maps:
+              raise SystemExit("No category_map.json found under mapping/")
+
+          script = "scripts/federal/deputados/generate_camara_rankings.py"
+          if not Path(script).exists():
+              raise SystemExit(f"Required script not found: {script}")
+          for p in maps:
+              env = os.environ.copy()
+              env["MODE"] = "validate-mapping"
+              env["CATEGORY_MAP"] = str(p.as_posix())
+              print(f"Validating {p}")
+              subprocess.run([sys.executable, script], check=True, env=env)
+
+          print(f"OK: {len(maps)} mapping file(s) valid")
+          PY

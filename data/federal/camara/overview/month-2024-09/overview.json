@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2024-09",
+    "generatedAt": "2026-03-09T14:31:22.451957Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 16019793.64,
+    "amountGross": 16506170.24,
+    "amountAdjustments": -486376.6,
+    "recordsCount": 14603,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 451,
+    "entitiesWithoutSpending": 62
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 150418,
+      "name": "Márcio Marinho",
+      "stateCode": "BA",
+      "party": "REPUBLICANOS",
+      "photoUrl": null,
+      "amountNet": 183795.38,
+      "amountGross": 183795.38,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 5634668.52,
+        "amountGross": 5634668.52,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 5498838.8,
+        "amountGross": 5985215.4,
+        "amountAdjustments": -486376.6
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2574128.47,
+        "amountGross": 2574128.47,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1697347.92,
+        "amountGross": 1697347.92,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 423200.61,
+        "amountGross": 423200.61,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 155089.12,
+        "amountGross": 155089.12,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 36520.2,
+        "amountGross": 36520.2,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 1828200.37,
+        "amountGross": 1874110.4,
+        "amountAdjustments": -45910.03
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 1792622.44,
+        "amountGross": 1817667.98,
+        "amountAdjustments": -25045.54
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1531201.58,
+        "amountGross": 1562235.21,
+        "amountAdjustments": -31033.63
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1209871.54,
+        "amountGross": 1264739.24,
+        "amountAdjustments": -54867.7
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1071889.87,
+        "amountGross": 1138790.24,
+        "amountAdjustments": -66900.37
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 955674.03,
+        "amountGross": 983016.04,
+        "amountAdjustments": -27342.01
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 954228.34,
+        "amountGross": 991255.12,
+        "amountAdjustments": -37026.78
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 610546.68,
+        "amountGross": 620249.87,
+        "amountAdjustments": -9703.19
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 559209.07,
+        "amountGross": 571366.97,
+        "amountAdjustments": -12157.9
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 546559.07,
+        "amountGross": 546559.07,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PI",
+        "amountNet": 423279.08,
+        "amountGross": 442463.36,
+        "amountAdjustments": -19184.28
+      },
+      {
+        "stateCode": "AC",
+        "amountNet": 399230.82,
+        "amountGross": 404774.18,
+        "amountAdjustments": -5543.36
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 921716.9,
+      "percent": 5.75
+    },
+    "averages": {
+      "perEntityWithSpending": 35520.61,
+      "perRecord": 1097.02
+    },
+    "dailyHighlight": {
+      "referenceDate": "2024-12-20",
+      "entity": {
+        "id": 73531,
+        "name": "Ivan Valente",
+        "stateCode": "SP",
+        "party": "PSOL",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 6000.0,
+      "topAmountNet": 6000.0,
+      "totalAmountNet": 6000.0,
+      "previousTotalAmountNet": 42.9,
+      "deltaTotalAmountNet": 5957.1,
+      "deltaPercentTotalAmountNet": 13886.01,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2024-12-03",
+          "amountNet": 20000.0
+        },
+        {
+          "date": "2024-12-06",
+          "amountNet": 12713.0
+        },
+        {
+          "date": "2024-12-11",
+          "amountNet": 8400.0
+        },
+        {
+          "date": "2024-12-16",
+          "amountNet": 1000.0
+        },
+        {
+          "date": "2024-12-17",
+          "amountNet": 600.0
+        },
+        {
+          "date": "2024-12-18",
+          "amountNet": 42.9
+        },
+        {
+          "date": "2024-12-20",
+          "amountNet": 6000.0
+        }
+      ],
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "OLIVA.AG MARKETING LTDA"
+    }
+  }
+}

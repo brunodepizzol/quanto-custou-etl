@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "mandate",
+    "generatedAt": "2026-03-09T14:47:49.901298Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 441449564.53,
+    "amountGross": 460387711.85,
+    "amountAdjustments": -18938147.32,
+    "recordsCount": 399743,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 492,
+    "entitiesWithoutSpending": 21
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 73486,
+      "name": "Pompeo de Mattos",
+      "stateCode": "RS",
+      "party": "PDT",
+      "photoUrl": null,
+      "amountNet": 1311836.81,
+      "amountGross": 1325133.41,
+      "amountAdjustments": -13296.6
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 171559517.75,
+        "amountGross": 171559517.75,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 160067371.03,
+        "amountGross": 179005518.35,
+        "amountAdjustments": -18938147.32
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 60851811.5,
+        "amountGross": 60851811.5,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 37222180.46,
+        "amountGross": 37222180.46,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 5728870.41,
+        "amountGross": 5728870.41,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 4565370.88,
+        "amountGross": 4565370.88,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 1273141.53,
+        "amountGross": 1273141.53,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 181300.97,
+        "amountGross": 181300.97,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 53588863.89,
+        "amountGross": 55937813.17,
+        "amountAdjustments": -2348949.28
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 47116246.59,
+        "amountGross": 48430700.2,
+        "amountAdjustments": -1314453.61
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 36594187.09,
+        "amountGross": 38415279.24,
+        "amountAdjustments": -1821092.15
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 36145017.75,
+        "amountGross": 38382161.54,
+        "amountAdjustments": -2237143.79
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 28098789.32,
+        "amountGross": 29672184.09,
+        "amountAdjustments": -1573394.77
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 26495570.07,
+        "amountGross": 27524374.4,
+        "amountAdjustments": -1028804.33
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 24678309.62,
+        "amountGross": 26052150.65,
+        "amountAdjustments": -1373841.03
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 17000023.05,
+        "amountGross": 17752901.38,
+        "amountAdjustments": -752878.33
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 15342342.88,
+        "amountGross": 16011343.4,
+        "amountAdjustments": -669000.52
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 14047465.4,
+        "amountGross": 14055523.28,
+        "amountAdjustments": -8057.88
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 12745612.09,
+        "amountGross": 13224160.33,
+        "amountAdjustments": -478548.24
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 12611274.28,
+        "amountGross": 13241866.79,
+        "amountAdjustments": -630592.51
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 12121322.34,
+      "percent": 2.75
+    },
+    "averages": {
+      "perEntityWithSpending": 897255.21,
+      "perRecord": 1104.33
+    },
+    "dailyHighlight": {
+      "referenceDate": "2025-03-27",
+      "entity": {
+        "id": 160673,
+        "name": "Giovani Cherini",
+        "stateCode": "RS",
+        "party": "PL",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 9500.0,
+      "topAmountNet": 9500.0,
+      "totalAmountNet": 9500.0,
+      "previousTotalAmountNet": 17000.0,
+      "deltaTotalAmountNet": -7500.0,
+      "deltaPercentTotalAmountNet": -44.12,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2025-03-12",
+          "amountNet": 2640.0
+        },
+        {
+          "date": "2025-03-13",
+          "amountNet": 55000.0
+        },
+        {
+          "date": "2025-03-20",
+          "amountNet": 50000.0
+        },
+        {
+          "date": "2025-03-24",
+          "amountNet": 6300.0
+        },
+        {
+          "date": "2025-03-25",
+          "amountNet": 2400.0
+        },
+        {
+          "date": "2025-03-26",
+          "amountNet": 17000.0
+        },
+        {
+          "date": "2025-03-27",
+          "amountNet": 9500.0
+        }
+      ],
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "Instituto Mais Cidades Assessoria e Consultoria ltda"
+    }
+  }
+}

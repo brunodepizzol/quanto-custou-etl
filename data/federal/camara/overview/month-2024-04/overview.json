@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2024-04",
+    "generatedAt": "2026-03-09T14:02:30.358568Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 19746251.81,
+    "amountGross": 20658738.41,
+    "amountAdjustments": -912486.6,
+    "recordsCount": 18943,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 467,
+    "entitiesWithoutSpending": 46
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 141485,
+      "name": "Luiz Carlos Busato",
+      "stateCode": "RS",
+      "party": "UNIÃO",
+      "photoUrl": null,
+      "amountNet": 154159.81,
+      "amountGross": 157336.83,
+      "amountAdjustments": -3177.02
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 7499692.2,
+        "amountGross": 7499692.2,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 7074768.03,
+        "amountGross": 7987254.63,
+        "amountAdjustments": -912486.6
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2854416.41,
+        "amountGross": 2854416.41,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1798408.21,
+        "amountGross": 1798408.21,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 288587.87,
+        "amountGross": 288587.87,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 174020.94,
+        "amountGross": 174020.94,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 56358.15,
+        "amountGross": 56358.15,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2328878.63,
+        "amountGross": 2434994.71,
+        "amountAdjustments": -106116.08
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2140882.07,
+        "amountGross": 2191985.74,
+        "amountAdjustments": -51103.67
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1548900.16,
+        "amountGross": 1632926.33,
+        "amountAdjustments": -84026.17
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1541784.42,
+        "amountGross": 1659570.52,
+        "amountAdjustments": -117786.1
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1318966.62,
+        "amountGross": 1443951.71,
+        "amountAdjustments": -124985.09
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1134403.41,
+        "amountGross": 1176457.04,
+        "amountAdjustments": -42053.63
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1061320.34,
+        "amountGross": 1112994.16,
+        "amountAdjustments": -51673.82
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 844624.7,
+        "amountGross": 871647.26,
+        "amountAdjustments": -27022.56
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 780422.71,
+        "amountGross": 805127.87,
+        "amountAdjustments": -24705.16
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 714357.43,
+        "amountGross": 715651.72,
+        "amountAdjustments": -1294.29
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 638846.4,
+        "amountGross": 689808.58,
+        "amountAdjustments": -50962.18
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 636764.24,
+        "amountGross": 651566.95,
+        "amountAdjustments": -14802.71
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 917498.69,
+      "percent": 4.65
+    },
+    "averages": {
+      "perEntityWithSpending": 42283.19,
+      "perRecord": 1042.4
+    },
+    "dailyHighlight": {
+      "referenceDate": "2024-07-18",
+      "entity": {
+        "id": 74273,
+        "name": "Jefferson Campos",
+        "stateCode": "SP",
+        "party": "PL",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 6399.6,
+      "topAmountNet": 6399.6,
+      "totalAmountNet": 6895.81,
+      "previousTotalAmountNet": 7000.0,
+      "deltaTotalAmountNet": -104.19,
+      "deltaPercentTotalAmountNet": -1.49,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2024-06-28",
+          "amountNet": 210.0
+        },
+        {
+          "date": "2024-07-01",
+          "amountNet": 2306.0
+        },
+        {
+          "date": "2024-07-03",
+          "amountNet": 28657.6
+        },
+        {
+          "date": "2024-07-09",
+          "amountNet": 1365.76
+        },
+        {
+          "date": "2024-07-15",
+          "amountNet": 7500.0
+        },
+        {
+          "date": "2024-07-17",
+          "amountNet": 7000.0
+        },
+        {
+          "date": "2024-07-18",
+          "amountNet": 6895.81
+        }
+      ],
+      "category": "DESLOCAMENTO",
+      "expenseType": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "supplier": "MOVIDA LOCAÇÃO DE VEICULOS S.A"
+    }
+  }
+}

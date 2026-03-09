@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "id": "methodology-federal-camara",
+    "scope": "federal/camara",
+    "generatedAt": "2026-03-09T13:31:13.622877Z",
+    "schemaVersion": "1.0.0",
+    "documentVersion": "1.0.0"
+  },
+  "source": {
+    "organization": "Camara dos Deputados",
+    "apiBase": "https://dadosabertos.camara.leg.br/api/v2",
+    "endpoints": [
+      "/deputados",
+      "/deputados/{id}/despesas"
+    ]
+  },
+  "periodization": {
+    "month": "Queries API by year/month and produces monthly entities/contracts.",
+    "year": "Sum of available monthly entities for the year.",
+    "mandate": "Sum of monthly entities from 2023 forward."
+  },
+  "categorization": {
+    "pathCategoryMap": "federal/camara/mapping/categoria/category_map.json",
+    "categoryMapVersion": "1.0.0",
+    "default": "OUTROS",
+    "description": "Official expense type grouped by versioned regex rules."
+  },
+  "criteria": {
+    "activeEntityInPeriod": "Deputy with recordsCount > 0 or amountNet > 0 in the period."
+  },
+  "outputArtifacts": [
+    {
+      "path": "federal/camara/overview/{period}/overview.json",
+      "description": "Aggregated KPIs and highlights by period."
+    },
+    {
+      "path": "federal/camara/entities/{period}/entities.json",
+      "description": "Entities list and metrics by period."
+    },
+    {
+      "path": "federal/camara/rankings/{period}/ranking-total.json",
+      "description": "Top and bottom ranking by total amount."
+    },
+    {
+      "path": "federal/camara/analytics/{period}/expense-types.json",
+      "description": "Distribution by expense type."
+    },
+    {
+      "path": "federal/camara/analytics/{period}/pending-categories.json",
+      "description": "Expense types mapped to default category."
+    },
+    {
+      "path": "federal/camara/entities/profiles/{id}.json",
+      "description": "Entity profile with mandate totals."
+    },
+    {
+      "path": "federal/camara/entities/index.json",
+      "description": "Index of entities for search and filters."
+    },
+    {
+      "path": "federal/camara/insights/home-insights.json",
+      "description": "Home insights pool for this scope."
+    },
+    {
+      "path": "home-insights-index.json",
+      "description": "Global index of home insights pools."
+    },
+    {
+      "path": "catalog.json",
+      "description": "Global data catalog for all scopes."
+    }
+  ],
+  "indicators": [
+    {
+      "id": "totalAccumulatedInMandate",
+      "outputSource": "overview/mandate/overview.json:base.amountNet",
+      "formula": "sum(amountNet by active entity in period)"
+    },
+    {
+      "id": "topSpenderInMandate",
+      "outputSource": "overview/mandate/overview.json:highlights.topSpender",
+      "formula": "argmax(amountNet by active entity in period)"
+    },
+    {
+      "id": "top10Concentration",
+      "outputSource": "overview/mandate/overview.json:highlights.concentrationTop10",
+      "formula": "sum(top 10 entities amountNet) and share over base.amountNet"
+    },
+    {
+      "id": "dailyHighlights",
+      "outputSource": "overview/mandate/overview.json:highlights.dailyHighlight",
+      "formula": "latest document date; daily total, top spender and deltas"
+    }
+  ]
+}

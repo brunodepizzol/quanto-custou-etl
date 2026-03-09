@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "year-2023",
+    "generatedAt": "2026-03-09T13:28:49.611564Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 215230837.38,
+    "amountGross": 223552187.15,
+    "amountAdjustments": -8321349.77,
+    "recordsCount": 198529,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 489,
+    "entitiesWithoutSpending": 24
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 73486,
+      "name": "Pompeo de Mattos",
+      "stateCode": "RS",
+      "party": "PDT",
+      "photoUrl": null,
+      "amountNet": 644056.54,
+      "amountGross": 651294.84,
+      "amountAdjustments": -7238.3
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 82273348.82,
+        "amountGross": 82273348.82,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 81080037.18,
+        "amountGross": 89401386.95,
+        "amountAdjustments": -8321349.77
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 28500343.35,
+        "amountGross": 28500343.35,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 17499465.59,
+        "amountGross": 17499465.59,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 2566430.96,
+        "amountGross": 2566430.96,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 2468032.93,
+        "amountGross": 2468032.93,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 705026.94,
+        "amountGross": 705026.94,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 138151.61,
+        "amountGross": 138151.61,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 25777996.93,
+        "amountGross": 26838372.69,
+        "amountAdjustments": -1060375.76
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 22768672.77,
+        "amountGross": 23462247.63,
+        "amountAdjustments": -693574.86
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 17987946.8,
+        "amountGross": 18722488.89,
+        "amountAdjustments": -734542.09
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 17344926.07,
+        "amountGross": 18380689.37,
+        "amountAdjustments": -1035763.3
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 13917142.27,
+        "amountGross": 14447338.12,
+        "amountAdjustments": -530195.85
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 12985048.8,
+        "amountGross": 13426101.44,
+        "amountAdjustments": -441052.64
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 11519626.29,
+        "amountGross": 12228081.92,
+        "amountAdjustments": -708455.63
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 8293294.36,
+        "amountGross": 8628299.4,
+        "amountAdjustments": -335005.04
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 7667897.88,
+        "amountGross": 7933104.38,
+        "amountAdjustments": -265206.5
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 6593994.19,
+        "amountGross": 6596165.02,
+        "amountAdjustments": -2170.83
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 6298007.43,
+        "amountGross": 6501164.15,
+        "amountAdjustments": -203156.72
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 6283873.48,
+        "amountGross": 6563166.49,
+        "amountAdjustments": -279293.01
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 6019414.35,
+      "percent": 2.8
+    },
+    "averages": {
+      "perEntityWithSpending": 440144.86,
+      "perRecord": 1084.13
+    },
+    "dailyHighlight": {
+      "referenceDate": "2024-03-27",
+      "entity": {
+        "id": 178887,
+        "name": "Rubens Pereira Júnior",
+        "stateCode": "MA",
+        "party": "PT",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 15775.0,
+      "topAmountNet": 15775.0,
+      "totalAmountNet": 15775.0,
+      "previousTotalAmountNet": 23143.0,
+      "deltaTotalAmountNet": -7368.0,
+      "deltaPercentTotalAmountNet": -31.84,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2024-03-18",
+          "amountNet": 8268.0
+        },
+        {
+          "date": "2024-03-19",
+          "amountNet": 7000.0
+        },
+        {
+          "date": "2024-03-20",
+          "amountNet": 81650.0
+        },
+        {
+          "date": "2024-03-21",
+          "amountNet": 32000.0
+        },
+        {
+          "date": "2024-03-25",
+          "amountNet": 10120.0
+        },
+        {
+          "date": "2024-03-26",
+          "amountNet": 23143.0
+        },
+        {
+          "date": "2024-03-27",
+          "amountNet": 15775.0
+        }
+      ],
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "STEVAM GREGORY ROCHA POLLON"
+    }
+  }
+}

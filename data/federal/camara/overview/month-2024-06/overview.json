@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2024-06",
+    "generatedAt": "2026-03-09T14:14:39.374656Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 18469304.48,
+    "amountGross": 19602054.0,
+    "amountAdjustments": -1132749.52,
+    "recordsCount": 19031,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 470,
+    "entitiesWithoutSpending": 43
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 204557,
+      "name": "Sidney Leite",
+      "stateCode": "AM",
+      "party": "PSD",
+      "photoUrl": null,
+      "amountNet": 146654.44,
+      "amountGross": 154108.59,
+      "amountAdjustments": -7454.15
+    },
+    "topCategories": [
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 7116776.84,
+        "amountGross": 8249526.36,
+        "amountAdjustments": -1132749.52
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 6268647.24,
+        "amountGross": 6268647.24,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2734672.28,
+        "amountGross": 2734672.28,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1841315.86,
+        "amountGross": 1841315.86,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 284926.1,
+        "amountGross": 284926.1,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 162493.6,
+        "amountGross": 162493.6,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 60472.56,
+        "amountGross": 60472.56,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2241452.97,
+        "amountGross": 2369509.05,
+        "amountAdjustments": -128056.08
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 1980757.2,
+        "amountGross": 2043854.8,
+        "amountAdjustments": -63097.6
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1557337.95,
+        "amountGross": 1677386.92,
+        "amountAdjustments": -120048.97
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1443544.91,
+        "amountGross": 1541483.05,
+        "amountAdjustments": -97938.14
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1308137.16,
+        "amountGross": 1476441.98,
+        "amountAdjustments": -168304.82
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1083928.73,
+        "amountGross": 1140688.2,
+        "amountAdjustments": -56759.47
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1062174.35,
+        "amountGross": 1112967.46,
+        "amountAdjustments": -50793.11
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 657533.11,
+        "amountGross": 660498.32,
+        "amountAdjustments": -2965.21
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 655142.97,
+        "amountGross": 715462.98,
+        "amountAdjustments": -60320.01
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 604977.53,
+        "amountGross": 641591.23,
+        "amountAdjustments": -36613.7
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 592903.33,
+        "amountGross": 652541.44,
+        "amountAdjustments": -59638.11
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 460713.11,
+        "amountGross": 491850.1,
+        "amountAdjustments": -31136.99
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 907694.59,
+      "percent": 4.91
+    },
+    "averages": {
+      "perEntityWithSpending": 39296.39,
+      "perRecord": 970.49
+    },
+    "dailyHighlight": {
+      "referenceDate": "2024-09-26",
+      "entity": {
+        "id": 160665,
+        "name": "Augusto Coutinho",
+        "stateCode": "PE",
+        "party": "REPUBLICANOS",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 1000.0,
+      "topAmountNet": 1000.0,
+      "totalAmountNet": 1000.0,
+      "previousTotalAmountNet": 6000.0,
+      "deltaTotalAmountNet": -5000.0,
+      "deltaPercentTotalAmountNet": -83.33,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2024-08-29",
+          "amountNet": 28499.96
+        },
+        {
+          "date": "2024-08-30",
+          "amountNet": 213.0
+        },
+        {
+          "date": "2024-09-02",
+          "amountNet": 4660.0
+        },
+        {
+          "date": "2024-09-12",
+          "amountNet": 2800.0
+        },
+        {
+          "date": "2024-09-16",
+          "amountNet": 64200.0
+        },
+        {
+          "date": "2024-09-19",
+          "amountNet": 6000.0
+        },
+        {
+          "date": "2024-09-26",
+          "amountNet": 1000.0
+        }
+      ],
+      "category": "ESCRITORIO",
+      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "supplier": "VIALUMIN CONSULTORIA EMPRESARIAL LTDA"
+    }
+  }
+}

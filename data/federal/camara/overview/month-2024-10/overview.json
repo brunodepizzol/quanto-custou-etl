@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2024-10",
+    "generatedAt": "2026-03-09T14:36:50.699772Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 18780064.84,
+    "amountGross": 19679752.14,
+    "amountAdjustments": -899687.3,
+    "recordsCount": 15588,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 459,
+    "entitiesWithoutSpending": 54
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 220582,
+      "name": "Daniel Barbosa",
+      "stateCode": "AL",
+      "party": "PP",
+      "photoUrl": null,
+      "amountNet": 149845.12,
+      "amountGross": 149845.12,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 7325566.47,
+        "amountGross": 7325566.47,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 6852561.34,
+        "amountGross": 7752248.64,
+        "amountAdjustments": -899687.3
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2651996.1,
+        "amountGross": 2651996.1,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1532345.16,
+        "amountGross": 1532345.16,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 226014.52,
+        "amountGross": 226014.52,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 151795.4,
+        "amountGross": 151795.4,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 39785.85,
+        "amountGross": 39785.85,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2221825.36,
+        "amountGross": 2320851.82,
+        "amountAdjustments": -99026.46
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2129969.55,
+        "amountGross": 2157527.32,
+        "amountAdjustments": -27557.77
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1673635.17,
+        "amountGross": 1770575.43,
+        "amountAdjustments": -96940.26
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1534463.53,
+        "amountGross": 1623639.62,
+        "amountAdjustments": -89176.09
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1119162.02,
+        "amountGross": 1192571.21,
+        "amountAdjustments": -73409.19
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1077598.86,
+        "amountGross": 1139757.94,
+        "amountAdjustments": -62159.08
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1059510.24,
+        "amountGross": 1113426.8,
+        "amountAdjustments": -53916.56
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 718311.08,
+        "amountGross": 760034.2,
+        "amountAdjustments": -41723.12
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 602055.95,
+        "amountGross": 647328.9,
+        "amountAdjustments": -45272.95
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 524979.7,
+        "amountGross": 524979.7,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PI",
+        "amountNet": 509297.72,
+        "amountGross": 537898.23,
+        "amountAdjustments": -28600.51
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 462591.98,
+        "amountGross": 495163.29,
+        "amountAdjustments": -32571.31
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 1088887.71,
+      "percent": 5.8
+    },
+    "averages": {
+      "perEntityWithSpending": 40915.17,
+      "perRecord": 1204.78
+    },
+    "dailyHighlight": {
+      "referenceDate": "2025-01-21",
+      "entity": {
+        "id": 220690,
+        "name": "Capitão Alden",
+        "stateCode": "BA",
+        "party": "PL",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 15187.5,
+      "topAmountNet": 15187.5,
+      "totalAmountNet": 15187.5,
+      "previousTotalAmountNet": 2252.0,
+      "deltaTotalAmountNet": 12935.5,
+      "deltaPercentTotalAmountNet": 574.4,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2025-01-06",
+          "amountNet": 6500.0
+        },
+        {
+          "date": "2025-01-08",
+          "amountNet": 4900.0
+        },
+        {
+          "date": "2025-01-09",
+          "amountNet": 4200.0
+        },
+        {
+          "date": "2025-01-10",
+          "amountNet": 2460.0
+        },
+        {
+          "date": "2025-01-13",
+          "amountNet": 8000.0
+        },
+        {
+          "date": "2025-01-17",
+          "amountNet": 2252.0
+        },
+        {
+          "date": "2025-01-21",
+          "amountNet": 15187.5
+        }
+      ],
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "AGÊNCIA BRANDING MARKETING DIRETO LTDA"
+    }
+  }
+}

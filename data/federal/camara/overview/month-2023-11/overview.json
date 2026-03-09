@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2023-11",
+    "generatedAt": "2026-03-09T13:23:17.343492Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 21167251.32,
+    "amountGross": 22143130.97,
+    "amountAdjustments": -975879.65,
+    "recordsCount": 18803,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 473,
+    "entitiesWithoutSpending": 40
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 178881,
+      "name": "Aluisio Mendes",
+      "stateCode": "MA",
+      "party": "REPUBLICANOS",
+      "photoUrl": null,
+      "amountNet": 182364.83,
+      "amountGross": 182364.83,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 8955144.91,
+        "amountGross": 8955144.91,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 7230108.49,
+        "amountGross": 8205988.14,
+        "amountAdjustments": -975879.65
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2680859.65,
+        "amountGross": 2680859.65,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1698165.59,
+        "amountGross": 1698165.59,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 282458.56,
+        "amountGross": 282458.56,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 258742.59,
+        "amountGross": 258742.59,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 61771.53,
+        "amountGross": 61771.53,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2510091.48,
+        "amountGross": 2605177.95,
+        "amountAdjustments": -95086.47
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2232556.37,
+        "amountGross": 2302669.68,
+        "amountAdjustments": -70113.31
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1695112.05,
+        "amountGross": 1843424.04,
+        "amountAdjustments": -148311.99
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1689558.13,
+        "amountGross": 1774902.62,
+        "amountAdjustments": -85344.49
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1335043.24,
+        "amountGross": 1400148.59,
+        "amountAdjustments": -65105.35
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1331504.75,
+        "amountGross": 1396919.22,
+        "amountAdjustments": -65414.47
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1203647.33,
+        "amountGross": 1278457.62,
+        "amountAdjustments": -74810.29
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 823387.32,
+        "amountGross": 863111.93,
+        "amountAdjustments": -39724.61
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 802218.27,
+        "amountGross": 834466.85,
+        "amountAdjustments": -32248.58
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 795883.29,
+        "amountGross": 830735.09,
+        "amountAdjustments": -34851.8
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 606334.76,
+        "amountGross": 634157.7,
+        "amountAdjustments": -27822.94
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 595616.59,
+        "amountGross": 595616.59,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 1141864.71,
+      "percent": 5.39
+    },
+    "averages": {
+      "perEntityWithSpending": 44751.06,
+      "perRecord": 1125.74
+    },
+    "dailyHighlight": {
+      "referenceDate": "2024-02-21",
+      "entity": {
+        "id": 220667,
+        "name": "Pedro Campos",
+        "stateCode": "PE",
+        "party": "PSB",
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 8554.0,
+      "topAmountNet": 8554.0,
+      "totalAmountNet": 12713.0,
+      "previousTotalAmountNet": 316.0,
+      "deltaTotalAmountNet": 12397.0,
+      "deltaPercentTotalAmountNet": 3923.1,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2024-02-01",
+          "amountNet": 3900.0
+        },
+        {
+          "date": "2024-02-03",
+          "amountNet": 45000.0
+        },
+        {
+          "date": "2024-02-05",
+          "amountNet": 14990.62
+        },
+        {
+          "date": "2024-02-07",
+          "amountNet": 14000.0
+        },
+        {
+          "date": "2024-02-08",
+          "amountNet": 19000.0
+        },
+        {
+          "date": "2024-02-20",
+          "amountNet": 316.0
+        },
+        {
+          "date": "2024-02-21",
+          "amountNet": 12713.0
+        }
+      ],
+      "category": "DESLOCAMENTO",
+      "expenseType": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "supplier": "PARVI LOCADORA LTDA"
+    }
+  }
+}
