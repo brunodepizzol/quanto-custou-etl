@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "year-2026",
-    "generatedAt": "2026-03-09T21:42:31.294042Z",
+    "generatedAt": "2026-03-10T04:58:11.467430Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 25524097.42,
-    "amountGross": 25524097.42,
-    "amountAdjustments": 0.0,
-    "recordsCount": 17689,
+    "amountNet": 25614666.65,
+    "amountGross": 25614843.41,
+    "amountAdjustments": -176.76,
+    "recordsCount": 17760,
     "entitiesCount": 513,
-    "entitiesWithSpending": 502,
-    "entitiesWithoutSpending": 11
+    "entitiesWithSpending": 503,
+    "entitiesWithoutSpending": 10
   },
   "highlights": {
     "topSpender": {
@@ -29,38 +29,38 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 12423881.55,
-        "amountGross": 12423881.55,
+        "amountNet": 12463504.94,
+        "amountGross": 12463504.94,
         "amountAdjustments": 0.0
       },
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 5371053.74,
-        "amountGross": 5371053.74,
-        "amountAdjustments": 0.0
+        "amountNet": 5400246.42,
+        "amountGross": 5400423.18,
+        "amountAdjustments": -176.76
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 4342494.02,
-        "amountGross": 4342494.02,
+        "amountNet": 4358492.81,
+        "amountGross": 4358492.81,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 2729600.6,
-        "amountGross": 2729600.6,
+        "amountNet": 2732898.34,
+        "amountGross": 2732898.34,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 373179.09,
-        "amountGross": 373179.09,
+        "amountNet": 373753.65,
+        "amountGross": 373753.65,
         "amountAdjustments": 0.0
       },
       {
         "category": "CORREIOS_TELEFONIA",
-        "amountNet": 210687.36,
-        "amountGross": 210687.36,
+        "amountNet": 212569.43,
+        "amountGross": 212569.43,
         "amountAdjustments": 0.0
       },
       {
@@ -85,14 +85,14 @@
     "topStates": [
       {
         "stateCode": "SP",
-        "amountNet": 3241342.8,
-        "amountGross": 3241342.8,
+        "amountNet": 3274745.1,
+        "amountGross": 3274745.1,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "MG",
-        "amountNet": 2511864.64,
-        "amountGross": 2511864.64,
+        "amountNet": 2522168.33,
+        "amountGross": 2522168.33,
         "amountAdjustments": 0.0
       },
       {
@@ -103,38 +103,38 @@
       },
       {
         "stateCode": "RJ",
-        "amountNet": 1896963.02,
-        "amountGross": 1896963.02,
-        "amountAdjustments": 0.0
+        "amountNet": 1903874.27,
+        "amountGross": 1904051.03,
+        "amountAdjustments": -176.76
       },
       {
         "stateCode": "RS",
-        "amountNet": 1632060.95,
-        "amountGross": 1632060.95,
+        "amountNet": 1635200.77,
+        "amountGross": 1635200.77,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PR",
-        "amountNet": 1560839.73,
-        "amountGross": 1560839.73,
+        "amountNet": 1572770.09,
+        "amountGross": 1572770.09,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PE",
-        "amountNet": 1282665.63,
-        "amountGross": 1282665.63,
+        "amountNet": 1284902.96,
+        "amountGross": 1284902.96,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "CE",
-        "amountNet": 1089755.6,
-        "amountGross": 1089755.6,
+        "amountNet": 1097269.49,
+        "amountGross": 1097269.49,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PB",
-        "amountNet": 827629.96,
-        "amountGross": 827629.96,
+        "amountNet": 828829.96,
+        "amountGross": 828829.96,
         "amountAdjustments": 0.0
       },
       {
@@ -145,8 +145,8 @@
       },
       {
         "stateCode": "SC",
-        "amountNet": 726994.1,
-        "amountGross": 726994.1,
+        "amountNet": 727698.07,
+        "amountGross": 727698.07,
         "amountAdjustments": 0.0
       },
       {
@@ -157,65 +157,65 @@
       }
     ],
     "concentrationTop10": {
-      "amountNet": 1165551.02,
-      "percent": 4.57
+      "amountNet": 1166849.8,
+      "percent": 4.56
     },
     "averages": {
-      "perEntityWithSpending": 50844.82,
-      "perRecord": 1442.94
+      "perEntityWithSpending": 50923.79,
+      "perRecord": 1442.27
     },
     "dailyHighlight": {
       "referenceDate": "2026-03-06",
       "entity": {
-        "id": 160552,
-        "name": "Danrlei de Deus Hinterholz",
-        "stateCode": "RS",
-        "party": "PSD",
+        "id": 141456,
+        "name": "Jilmar Tatto",
+        "stateCode": "SP",
+        "party": "PT",
         "photoUrl": null,
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 275.61,
-      "topAmountNet": 275.61,
-      "totalAmountNet": 375.61,
-      "previousTotalAmountNet": 9608.77,
-      "deltaTotalAmountNet": -9233.16,
-      "deltaPercentTotalAmountNet": -96.09,
-      "deltaDirection": "down",
+      "amountNet": 12400.0,
+      "topAmountNet": 12400.0,
+      "totalAmountNet": 19900.0,
+      "previousTotalAmountNet": 1564.0,
+      "deltaTotalAmountNet": 18336.0,
+      "deltaPercentTotalAmountNet": 1172.38,
+      "deltaDirection": "up",
       "trend7d": [
         {
-          "date": "2026-02-28",
-          "amountNet": 2416.43
+          "date": "2026-02-26",
+          "amountNet": 31600.0
         },
         {
-          "date": "2026-03-01",
-          "amountNet": 20516.98
+          "date": "2026-02-27",
+          "amountNet": 15537.75
+        },
+        {
+          "date": "2026-02-28",
+          "amountNet": 12404.0
         },
         {
           "date": "2026-03-02",
-          "amountNet": 160642.46
+          "amountNet": 47262.41
         },
         {
           "date": "2026-03-03",
-          "amountNet": 103796.57
+          "amountNet": 6364.47
         },
         {
           "date": "2026-03-04",
-          "amountNet": 55490.19
-        },
-        {
-          "date": "2026-03-05",
-          "amountNet": 9608.77
+          "amountNet": 1564.0
         },
         {
           "date": "2026-03-06",
-          "amountNet": 375.61
+          "amountNet": 19900.0
         }
       ],
-      "category": "COMBUSTIVEL",
-      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "072 - 403 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA"
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "PRESTAÇÃO DE SERVIÇOS DE DESIGN SGA LTDA"
     }
   }
 }

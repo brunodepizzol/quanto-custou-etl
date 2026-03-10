@@ -3,10 +3,20 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-01",
-    "generatedAt": "2026-03-09T21:24:44.137831Z",
+    "generatedAt": "2026-03-10T04:58:11.387682Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
+    {
+      "id": 220590,
+      "name": "Coronel Ulysses",
+      "stateCode": "AC",
+      "party": "UNIÃO",
+      "amountNet": 85962.68,
+      "amountGross": 85962.68,
+      "amountAdjustments": 0.0,
+      "recordsCount": 12
+    },
     {
       "id": 74356,
       "name": "Silas Câmara",
@@ -16,16 +26,6 @@
       "amountGross": 80761.55,
       "amountAdjustments": 0.0,
       "recordsCount": 4
-    },
-    {
-      "id": 220590,
-      "name": "Coronel Ulysses",
-      "stateCode": "AC",
-      "party": "UNIÃO",
-      "amountNet": 76575.0,
-      "amountGross": 76575.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 10
     },
     {
       "id": 220693,
@@ -102,10 +102,10 @@
       "name": "Luisa Canziani",
       "stateCode": "PR",
       "party": "PSD",
-      "amountNet": 66853.18,
-      "amountGross": 66853.18,
+      "amountNet": 67160.33,
+      "amountGross": 67160.33,
       "amountAdjustments": 0.0,
-      "recordsCount": 15
+      "recordsCount": 17
     }
   ],
   "bottom": [
@@ -130,14 +130,24 @@
       "recordsCount": 1
     },
     {
+      "id": 220595,
+      "name": "Coronel Fernanda",
+      "stateCode": "MT",
+      "party": "PL",
+      "amountNet": 587.98,
+      "amountGross": 587.98,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
+    },
+    {
       "id": 178946,
       "name": "Soraya Santos",
       "stateCode": "RJ",
       "party": "PL",
-      "amountNet": 1200.0,
+      "amountNet": 1023.24,
       "amountGross": 1200.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
+      "amountAdjustments": -176.76,
+      "recordsCount": 4
     },
     {
       "id": 204497,
@@ -198,16 +208,6 @@
       "amountGross": 2651.69,
       "amountAdjustments": 0.0,
       "recordsCount": 22
-    },
-    {
-      "id": 220706,
-      "name": "Padovani",
-      "stateCode": "PR",
-      "party": "UNIÃO",
-      "amountNet": 3985.56,
-      "amountGross": 3985.56,
-      "amountAdjustments": 0.0,
-      "recordsCount": 12
     }
   ]
 }
