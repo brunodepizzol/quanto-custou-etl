@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2026-07",
+    "generatedAt": "2026-03-10T09:32:51.551786Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 0.0,
+    "amountGross": 0.0,
+    "amountAdjustments": 0.0,
+    "recordsCount": 0,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 0,
+    "entitiesWithoutSpending": 513
+  },
+  "highlights": {
+    "topSpender": {
+      "id": null,
+      "name": null,
+      "stateCode": null,
+      "party": null,
+      "photoUrl": null,
+      "amountNet": 0.0,
+      "amountGross": 0.0,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [],
+    "concentrationTop10": {
+      "amountNet": 0.0,
+      "percent": 0.0
+    },
+    "averages": {
+      "perEntityWithSpending": 0.0,
+      "perRecord": 0.0
+    },
+    "dailyHighlight": {
+      "referenceDate": null,
+      "entity": {
+        "id": null,
+        "name": null,
+        "stateCode": null,
+        "party": null,
+        "photoUrl": null,
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 0.0,
+      "topAmountNet": 0.0,
+      "totalAmountNet": 0.0,
+      "previousTotalAmountNet": 0.0,
+      "deltaTotalAmountNet": 0.0,
+      "deltaPercentTotalAmountNet": 0.0,
+      "deltaDirection": "flat",
+      "trend7d": [],
+      "category": null,
+      "expenseType": null,
+      "supplier": null
+    }
+  }
+}
