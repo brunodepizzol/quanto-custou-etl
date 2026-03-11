@@ -3,10 +3,20 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-03",
-    "generatedAt": "2026-03-10T09:12:05.820855Z",
+    "generatedAt": "2026-03-11T11:01:10.287152Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
+    {
+      "id": 160642,
+      "name": "Pastor Eurico",
+      "stateCode": "PE",
+      "party": "PL",
+      "amountNet": 67226.71,
+      "amountGross": 67226.71,
+      "amountAdjustments": 0.0,
+      "recordsCount": 4
+    },
     {
       "id": 74454,
       "name": "Eunício Oliveira",
@@ -38,6 +48,16 @@
       "recordsCount": 2
     },
     {
+      "id": 62881,
+      "name": "Danilo Forte",
+      "stateCode": "CE",
+      "party": "UNIÃO",
+      "amountNet": 31682.84,
+      "amountGross": 31682.84,
+      "amountAdjustments": 0.0,
+      "recordsCount": 3
+    },
+    {
       "id": 220599,
       "name": "Marcelo Crivella",
       "stateCode": "RJ",
@@ -52,60 +72,40 @@
       "name": "Carol Dartora",
       "stateCode": "PR",
       "party": "PT",
-      "amountNet": 11725.47,
-      "amountGross": 11725.47,
+      "amountNet": 11766.75,
+      "amountGross": 11766.75,
       "amountAdjustments": 0.0,
-      "recordsCount": 20
+      "recordsCount": 22
     },
     {
-      "id": 220557,
-      "name": "Daniela Reinehr",
-      "stateCode": "SC",
-      "party": "PL",
-      "amountNet": 8536.93,
-      "amountGross": 8536.93,
-      "amountAdjustments": 0.0,
-      "recordsCount": 7
-    },
-    {
-      "id": 220671,
-      "name": "Dilvanda Faro",
-      "stateCode": "PA",
+      "id": 160535,
+      "name": "Marcon",
+      "stateCode": "RS",
       "party": "PT",
-      "amountNet": 8499.51,
-      "amountGross": 8499.51,
+      "amountNet": 11289.36,
+      "amountGross": 11289.36,
       "amountAdjustments": 0.0,
-      "recordsCount": 1
+      "recordsCount": 8
     },
     {
-      "id": 220676,
-      "name": "Andreia Siqueira",
-      "stateCode": "PA",
-      "party": "MDB",
-      "amountNet": 8000.98,
-      "amountGross": 8000.98,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 205865,
-      "name": "Reinhold Stephanes",
-      "stateCode": "PR",
-      "party": "PSD",
-      "amountNet": 8000.0,
-      "amountGross": 8000.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 231911,
-      "name": "Lenir de Assis",
+      "id": 224333,
+      "name": "Welter",
       "stateCode": "PR",
       "party": "PT",
-      "amountNet": 7605.38,
-      "amountGross": 7605.38,
+      "amountNet": 10419.05,
+      "amountGross": 10419.05,
       "amountAdjustments": 0.0,
-      "recordsCount": 7
+      "recordsCount": 13
+    },
+    {
+      "id": 204406,
+      "name": "Pedro Westphalen",
+      "stateCode": "RS",
+      "party": "PP",
+      "amountNet": 10023.77,
+      "amountGross": 10023.77,
+      "amountAdjustments": 0.0,
+      "recordsCount": 10
     }
   ],
   "bottom": [
@@ -124,10 +124,20 @@
       "name": "Luisa Canziani",
       "stateCode": "PR",
       "party": "PSD",
-      "amountNet": 25.6,
-      "amountGross": 25.6,
+      "amountNet": 37.6,
+      "amountGross": 37.6,
       "amountAdjustments": 0.0,
-      "recordsCount": 2
+      "recordsCount": 3
+    },
+    {
+      "id": 74161,
+      "name": "Reginaldo Lopes",
+      "stateCode": "MG",
+      "party": "PT",
+      "amountNet": 53.44,
+      "amountGross": 53.44,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
     },
     {
       "id": 73433,
@@ -160,16 +170,6 @@
       "recordsCount": 4
     },
     {
-      "id": 178970,
-      "name": "João Daniel",
-      "stateCode": "SE",
-      "party": "PT",
-      "amountNet": 88.67,
-      "amountGross": 88.67,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 213762,
       "name": "Carla Dickson",
       "stateCode": "RN",
@@ -190,16 +190,6 @@
       "recordsCount": 1
     },
     {
-      "id": 220598,
-      "name": "Tarcísio Motta",
-      "stateCode": "RJ",
-      "party": "PSOL",
-      "amountNet": 100.04,
-      "amountGross": 100.04,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 141458,
       "name": "João Carlos Bacelar",
       "stateCode": "BA",
@@ -208,6 +198,16 @@
       "amountGross": 103.34,
       "amountAdjustments": 0.0,
       "recordsCount": 1
+    },
+    {
+      "id": 220598,
+      "name": "Tarcísio Motta",
+      "stateCode": "RJ",
+      "party": "PSOL",
+      "amountNet": 118.09,
+      "amountGross": 118.09,
+      "amountAdjustments": 0.0,
+      "recordsCount": 3
     }
   ]
 }
