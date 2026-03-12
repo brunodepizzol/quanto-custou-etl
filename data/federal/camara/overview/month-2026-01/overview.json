@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-01",
-    "generatedAt": "2026-03-11T05:00:40.966854Z",
+    "generatedAt": "2026-03-12T06:41:43.847721Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 15376852.3,
-    "amountGross": 15377029.06,
-    "amountAdjustments": -176.76,
-    "recordsCount": 8748,
+    "amountNet": 15767749.0,
+    "amountGross": 15819666.44,
+    "amountAdjustments": -51917.44,
+    "recordsCount": 9072,
     "entitiesCount": 513,
-    "entitiesWithSpending": 493,
-    "entitiesWithoutSpending": 20
+    "entitiesWithSpending": 497,
+    "entitiesWithoutSpending": 16
   },
   "highlights": {
     "topSpender": {
@@ -22,45 +22,45 @@
       "stateCode": "AC",
       "party": "UNIÃO",
       "photoUrl": null,
-      "amountNet": 85962.68,
-      "amountGross": 85962.68,
+      "amountNet": 87440.03,
+      "amountGross": 87440.03,
       "amountAdjustments": 0.0
     },
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 7446106.29,
-        "amountGross": 7446106.29,
+        "amountNet": 7487141.87,
+        "amountGross": 7487141.87,
         "amountAdjustments": 0.0
       },
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 3514765.39,
-        "amountGross": 3514942.15,
-        "amountAdjustments": -176.76
+        "amountNet": 3835914.28,
+        "amountGross": 3887831.72,
+        "amountAdjustments": -51917.44
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 2754306.85,
-        "amountGross": 2754306.85,
+        "amountNet": 2774625.32,
+        "amountGross": 2774625.32,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 1305036.82,
-        "amountGross": 1305036.82,
+        "amountNet": 1310919.56,
+        "amountGross": 1310919.56,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 178708.17,
-        "amountGross": 178708.17,
+        "amountNet": 179538.57,
+        "amountGross": 179538.57,
         "amountAdjustments": 0.0
       },
       {
         "category": "CORREIOS_TELEFONIA",
-        "amountNet": 147539.28,
-        "amountGross": 147539.28,
+        "amountNet": 149219.9,
+        "amountGross": 149219.9,
         "amountAdjustments": 0.0
       },
       {
@@ -85,109 +85,105 @@
     "topStates": [
       {
         "stateCode": "SP",
-        "amountNet": 2049986.79,
-        "amountGross": 2049986.79,
-        "amountAdjustments": 0.0
+        "amountNet": 2080830.98,
+        "amountGross": 2085887.61,
+        "amountAdjustments": -5056.63
       },
       {
         "stateCode": "MG",
-        "amountNet": 1551477.9,
-        "amountGross": 1551477.9,
-        "amountAdjustments": 0.0
+        "amountNet": 1608778.89,
+        "amountGross": 1613140.37,
+        "amountAdjustments": -4361.48
       },
       {
         "stateCode": "BA",
-        "amountNet": 1222340.65,
-        "amountGross": 1222340.65,
-        "amountAdjustments": 0.0
+        "amountNet": 1249864.42,
+        "amountGross": 1255533.25,
+        "amountAdjustments": -5668.83
       },
       {
         "stateCode": "RJ",
-        "amountNet": 1140380.3,
-        "amountGross": 1140557.06,
-        "amountAdjustments": -176.76
+        "amountNet": 1208446.07,
+        "amountGross": 1217422.07,
+        "amountAdjustments": -8976.0
       },
       {
         "stateCode": "RS",
-        "amountNet": 925103.62,
-        "amountGross": 925103.62,
+        "amountNet": 946343.95,
+        "amountGross": 946343.95,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PR",
-        "amountNet": 892968.16,
-        "amountGross": 892968.16,
+        "amountNet": 921098.29,
+        "amountGross": 921098.29,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PE",
-        "amountNet": 767650.86,
-        "amountGross": 767650.86,
-        "amountAdjustments": 0.0
+        "amountNet": 806489.19,
+        "amountGross": 810008.9,
+        "amountAdjustments": -3519.71
       },
       {
         "stateCode": "CE",
-        "amountNet": 666936.06,
-        "amountGross": 666936.06,
-        "amountAdjustments": 0.0
+        "amountNet": 685902.53,
+        "amountGross": 689832.84,
+        "amountAdjustments": -3930.31
       },
       {
         "stateCode": "GO",
-        "amountNet": 530484.32,
-        "amountGross": 530484.32,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "PB",
-        "amountNet": 464051.92,
-        "amountGross": 464051.92,
+        "amountNet": 530805.77,
+        "amountGross": 530805.77,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "SC",
-        "amountNet": 453303.24,
-        "amountGross": 453303.24,
+        "amountNet": 465770.58,
+        "amountGross": 465770.58,
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "AC",
-        "amountNet": 392772.61,
-        "amountGross": 392772.61,
-        "amountAdjustments": 0.0
+        "stateCode": "PB",
+        "amountNet": 456388.65,
+        "amountGross": 467546.25,
+        "amountAdjustments": -11157.6
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 418002.71,
+        "amountGross": 420194.5,
+        "amountAdjustments": -2191.79
       }
     ],
     "concentrationTop10": {
-      "amountNet": 730544.88,
-      "percent": 4.75
+      "amountNet": 733365.84,
+      "percent": 4.65
     },
     "averages": {
-      "perEntityWithSpending": 31190.37,
-      "perRecord": 1757.76
+      "perEntityWithSpending": 31725.85,
+      "perRecord": 1738.07
     },
     "dailyHighlight": {
-      "referenceDate": "2026-03-06",
+      "referenceDate": "2026-03-09",
       "entity": {
-        "id": 141456,
-        "name": "Jilmar Tatto",
-        "stateCode": "SP",
-        "party": "PT",
+        "id": 178946,
+        "name": "Soraya Santos",
+        "stateCode": "RJ",
+        "party": "PL",
         "photoUrl": null,
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 12400.0,
-      "topAmountNet": 12400.0,
-      "totalAmountNet": 19900.0,
-      "previousTotalAmountNet": 10000.0,
-      "deltaTotalAmountNet": 9900.0,
-      "deltaPercentTotalAmountNet": 99.0,
+      "amountNet": 18000.0,
+      "topAmountNet": 18000.0,
+      "totalAmountNet": 20150.0,
+      "previousTotalAmountNet": 19900.0,
+      "deltaTotalAmountNet": 250.0,
+      "deltaPercentTotalAmountNet": 1.26,
       "deltaDirection": "up",
       "trend7d": [
-        {
-          "date": "2026-02-27",
-          "amountNet": 15537.75
-        },
         {
           "date": "2026-02-28",
           "amountNet": 12404.0
@@ -206,16 +202,20 @@
         },
         {
           "date": "2026-03-05",
-          "amountNet": 10000.0
+          "amountNet": 11785.58
         },
         {
           "date": "2026-03-06",
           "amountNet": 19900.0
+        },
+        {
+          "date": "2026-03-09",
+          "amountNet": 20150.0
         }
       ],
       "category": "DIVULGACAO",
       "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-      "supplier": "PRESTAÇÃO DE SERVIÇOS DE DESIGN SGA LTDA"
+      "supplier": "PBecker Comunicação e Marketing LTDA"
     }
   }
 }

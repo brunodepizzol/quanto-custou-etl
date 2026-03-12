@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-03-11T11:01:10.450276Z",
+    "generatedAt": "2026-03-12T06:41:44.028590Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -22,10 +22,10 @@
       "name": "Antônia Lúcia",
       "stateCode": "AC",
       "party": "REPUBLICANOS",
-      "amountNet": 128829.22,
-      "amountGross": 128829.22,
-      "amountAdjustments": 0.0,
-      "recordsCount": 11
+      "amountNet": 130336.6,
+      "amountGross": 131015.49,
+      "amountAdjustments": -678.89,
+      "recordsCount": 13
     },
     {
       "id": 230768,
@@ -38,6 +38,16 @@
       "recordsCount": 26
     },
     {
+      "id": 74090,
+      "name": "Átila Lins",
+      "stateCode": "AM",
+      "party": "PSD",
+      "amountNet": 120885.37,
+      "amountGross": 120885.37,
+      "amountAdjustments": 0.0,
+      "recordsCount": 12
+    },
+    {
       "id": 220676,
       "name": "Andreia Siqueira",
       "stateCode": "PA",
@@ -46,16 +56,6 @@
       "amountGross": 119751.08,
       "amountAdjustments": 0.0,
       "recordsCount": 9
-    },
-    {
-      "id": 74090,
-      "name": "Átila Lins",
-      "stateCode": "AM",
-      "party": "PSD",
-      "amountNet": 119541.76,
-      "amountGross": 119541.76,
-      "amountAdjustments": 0.0,
-      "recordsCount": 11
     },
     {
       "id": 220551,
@@ -78,6 +78,16 @@
       "recordsCount": 70
     },
     {
+      "id": 204426,
+      "name": "Carlos Veras",
+      "stateCode": "PE",
+      "party": "PT",
+      "amountNet": 109530.76,
+      "amountGross": 109530.76,
+      "amountAdjustments": 0.0,
+      "recordsCount": 151
+    },
+    {
       "id": 220538,
       "name": "Albuquerque",
       "stateCode": "RR",
@@ -86,16 +96,6 @@
       "amountGross": 109514.21,
       "amountAdjustments": 0.0,
       "recordsCount": 24
-    },
-    {
-      "id": 204426,
-      "name": "Carlos Veras",
-      "stateCode": "PE",
-      "party": "PT",
-      "amountNet": 109030.76,
-      "amountGross": 109030.76,
-      "amountAdjustments": 0.0,
-      "recordsCount": 150
     },
     {
       "id": 74044,
@@ -110,16 +110,6 @@
   ],
   "bottom": [
     {
-      "id": 215043,
-      "name": "Josivaldo JP",
-      "stateCode": "MA",
-      "party": "PSD",
-      "amountNet": 234.52,
-      "amountGross": 234.52,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 204459,
       "name": "Daniela do Waguinho",
       "stateCode": "RJ",
@@ -128,36 +118,6 @@
       "amountGross": 250.13,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 204495,
-      "name": "Airton Faleiro",
-      "stateCode": "PA",
-      "party": "PT",
-      "amountNet": 300.05,
-      "amountGross": 300.05,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 227991,
-      "name": "Dr Flávio",
-      "stateCode": "RJ",
-      "party": "PL",
-      "amountNet": 347.2,
-      "amountGross": 347.2,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 220675,
-      "name": "Antônio Doido",
-      "stateCode": "PA",
-      "party": "MDB",
-      "amountNet": 420.0,
-      "amountGross": 420.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 2
     },
     {
       "id": 220630,
@@ -170,16 +130,6 @@
       "recordsCount": 9
     },
     {
-      "id": 178946,
-      "name": "Soraya Santos",
-      "stateCode": "RJ",
-      "party": "PL",
-      "amountNet": 1023.24,
-      "amountGross": 1200.0,
-      "amountAdjustments": -176.76,
-      "recordsCount": 4
-    },
-    {
       "id": 204520,
       "name": "Junio Amaral",
       "stateCode": "MG",
@@ -188,6 +138,26 @@
       "amountGross": 1428.03,
       "amountAdjustments": 0.0,
       "recordsCount": 1
+    },
+    {
+      "id": 215043,
+      "name": "Josivaldo JP",
+      "stateCode": "MA",
+      "party": "PSD",
+      "amountNet": 1560.21,
+      "amountGross": 1560.21,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
+    },
+    {
+      "id": 227991,
+      "name": "Dr Flávio",
+      "stateCode": "RJ",
+      "party": "PL",
+      "amountNet": 1637.09,
+      "amountGross": 1637.09,
+      "amountAdjustments": 0.0,
+      "recordsCount": 6
     },
     {
       "id": 160161,
@@ -208,6 +178,36 @@
       "amountGross": 3051.69,
       "amountAdjustments": 0.0,
       "recordsCount": 25
+    },
+    {
+      "id": 178983,
+      "name": "Marcio Alvino",
+      "stateCode": "SP",
+      "party": "PL",
+      "amountNet": 3813.2,
+      "amountGross": 3813.2,
+      "amountAdjustments": 0.0,
+      "recordsCount": 9
+    },
+    {
+      "id": 204391,
+      "name": "José Nelto",
+      "stateCode": "GO",
+      "party": "UNIÃO",
+      "amountNet": 4696.91,
+      "amountGross": 4696.91,
+      "amountAdjustments": 0.0,
+      "recordsCount": 8
+    },
+    {
+      "id": 204497,
+      "name": "Júnior Ferrari",
+      "stateCode": "PA",
+      "party": "PSD",
+      "amountNet": 4711.12,
+      "amountGross": 4711.12,
+      "amountAdjustments": 0.0,
+      "recordsCount": 14
     }
   ]
 }
