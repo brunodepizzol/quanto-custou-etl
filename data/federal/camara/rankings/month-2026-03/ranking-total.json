@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-03",
-    "generatedAt": "2026-03-11T11:01:10.287152Z",
+    "generatedAt": "2026-03-12T07:56:23.148033Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -12,10 +12,10 @@
       "name": "Pastor Eurico",
       "stateCode": "PE",
       "party": "PL",
-      "amountNet": 67226.71,
-      "amountGross": 67226.71,
+      "amountNet": 67777.81,
+      "amountGross": 67777.81,
       "amountAdjustments": 0.0,
-      "recordsCount": 4
+      "recordsCount": 9
     },
     {
       "id": 74454,
@@ -48,6 +48,16 @@
       "recordsCount": 2
     },
     {
+      "id": 205865,
+      "name": "Reinhold Stephanes",
+      "stateCode": "PR",
+      "party": "PSD",
+      "amountNet": 34341.88,
+      "amountGross": 34341.88,
+      "amountAdjustments": 0.0,
+      "recordsCount": 3
+    },
+    {
       "id": 62881,
       "name": "Danilo Forte",
       "stateCode": "CE",
@@ -68,14 +78,24 @@
       "recordsCount": 2
     },
     {
+      "id": 220646,
+      "name": "Felipe Becari",
+      "stateCode": "SP",
+      "party": "UNIÃO",
+      "amountNet": 23600.0,
+      "amountGross": 23600.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 4
+    },
+    {
       "id": 220704,
       "name": "Carol Dartora",
       "stateCode": "PR",
       "party": "PT",
-      "amountNet": 11766.75,
-      "amountGross": 11766.75,
+      "amountNet": 11916.75,
+      "amountGross": 11916.75,
       "amountAdjustments": 0.0,
-      "recordsCount": 22
+      "recordsCount": 23
     },
     {
       "id": 160535,
@@ -86,26 +106,6 @@
       "amountGross": 11289.36,
       "amountAdjustments": 0.0,
       "recordsCount": 8
-    },
-    {
-      "id": 224333,
-      "name": "Welter",
-      "stateCode": "PR",
-      "party": "PT",
-      "amountNet": 10419.05,
-      "amountGross": 10419.05,
-      "amountAdjustments": 0.0,
-      "recordsCount": 13
-    },
-    {
-      "id": 204406,
-      "name": "Pedro Westphalen",
-      "stateCode": "RS",
-      "party": "PP",
-      "amountNet": 10023.77,
-      "amountGross": 10023.77,
-      "amountAdjustments": 0.0,
-      "recordsCount": 10
     }
   ],
   "bottom": [
@@ -120,22 +120,12 @@
       "recordsCount": 1
     },
     {
-      "id": 204410,
-      "name": "Luisa Canziani",
-      "stateCode": "PR",
-      "party": "PSD",
-      "amountNet": 37.6,
-      "amountGross": 37.6,
-      "amountAdjustments": 0.0,
-      "recordsCount": 3
-    },
-    {
-      "id": 74161,
-      "name": "Reginaldo Lopes",
-      "stateCode": "MG",
-      "party": "PT",
-      "amountNet": 53.44,
-      "amountGross": 53.44,
+      "id": 205550,
+      "name": "Jorge Braz",
+      "stateCode": "RJ",
+      "party": "REPUBLICANOS",
+      "amountNet": 40.4,
+      "amountGross": 40.4,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -170,16 +160,6 @@
       "recordsCount": 4
     },
     {
-      "id": 213762,
-      "name": "Carla Dickson",
-      "stateCode": "RN",
-      "party": "UNIÃO",
-      "amountNet": 90.0,
-      "amountGross": 90.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 171786,
       "name": "Miguel Ângelo",
       "stateCode": "MG",
@@ -200,14 +180,34 @@
       "recordsCount": 1
     },
     {
-      "id": 220598,
-      "name": "Tarcísio Motta",
-      "stateCode": "RJ",
-      "party": "PSOL",
-      "amountNet": 118.09,
-      "amountGross": 118.09,
+      "id": 204410,
+      "name": "Luisa Canziani",
+      "stateCode": "PR",
+      "party": "PSD",
+      "amountNet": 119.4,
+      "amountGross": 119.4,
       "amountAdjustments": 0.0,
-      "recordsCount": 3
+      "recordsCount": 10
+    },
+    {
+      "id": 204396,
+      "name": "Vermelho",
+      "stateCode": "PR",
+      "party": "PP",
+      "amountNet": 130.0,
+      "amountGross": 130.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 204512,
+      "name": "Delegado Marcelo Freitas",
+      "stateCode": "MG",
+      "party": "UNIÃO",
+      "amountNet": 138.26,
+      "amountGross": 138.26,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
     }
   ]
 }
