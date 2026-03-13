@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-01",
-    "generatedAt": "2026-03-12T06:41:43.847721Z",
+    "generatedAt": "2026-03-13T05:01:41.531134Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 15767749.0,
-    "amountGross": 15819666.44,
-    "amountAdjustments": -51917.44,
-    "recordsCount": 9072,
+    "amountNet": 16074581.6,
+    "amountGross": 16133754.87,
+    "amountAdjustments": -59173.27,
+    "recordsCount": 9436,
     "entitiesCount": 513,
-    "entitiesWithSpending": 497,
-    "entitiesWithoutSpending": 16
+    "entitiesWithSpending": 498,
+    "entitiesWithoutSpending": 15
   },
   "highlights": {
     "topSpender": {
@@ -29,44 +29,44 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 7487141.87,
-        "amountGross": 7487141.87,
+        "amountNet": 7501942.36,
+        "amountGross": 7501942.36,
         "amountAdjustments": 0.0
       },
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 3835914.28,
-        "amountGross": 3887831.72,
-        "amountAdjustments": -51917.44
+        "amountNet": 4105847.59,
+        "amountGross": 4165020.86,
+        "amountAdjustments": -59173.27
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 2774625.32,
-        "amountGross": 2774625.32,
+        "amountNet": 2786709.47,
+        "amountGross": 2786709.47,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 1310919.56,
-        "amountGross": 1310919.56,
+        "amountNet": 1317392.7,
+        "amountGross": 1317392.7,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 179538.57,
-        "amountGross": 179538.57,
+        "amountNet": 180453.92,
+        "amountGross": 180453.92,
         "amountAdjustments": 0.0
       },
       {
         "category": "CORREIOS_TELEFONIA",
-        "amountNet": 149219.9,
-        "amountGross": 149219.9,
+        "amountNet": 151803.16,
+        "amountGross": 151803.16,
         "amountAdjustments": 0.0
       },
       {
         "category": "ALIMENTACAO",
-        "amountNet": 23389.5,
-        "amountGross": 23389.5,
+        "amountNet": 23432.4,
+        "amountGross": 23432.4,
         "amountAdjustments": 0.0
       },
       {
@@ -85,50 +85,50 @@
     "topStates": [
       {
         "stateCode": "SP",
-        "amountNet": 2080830.98,
-        "amountGross": 2085887.61,
-        "amountAdjustments": -5056.63
+        "amountNet": 2146362.52,
+        "amountGross": 2152590.75,
+        "amountAdjustments": -6228.23
       },
       {
         "stateCode": "MG",
-        "amountNet": 1608778.89,
-        "amountGross": 1613140.37,
+        "amountNet": 1619428.7,
+        "amountGross": 1623790.18,
         "amountAdjustments": -4361.48
       },
       {
         "stateCode": "BA",
-        "amountNet": 1249864.42,
-        "amountGross": 1255533.25,
-        "amountAdjustments": -5668.83
+        "amountNet": 1277387.11,
+        "amountGross": 1287022.43,
+        "amountAdjustments": -9635.32
       },
       {
         "stateCode": "RJ",
-        "amountNet": 1208446.07,
-        "amountGross": 1217422.07,
+        "amountNet": 1258639.71,
+        "amountGross": 1267615.71,
         "amountAdjustments": -8976.0
       },
       {
         "stateCode": "RS",
-        "amountNet": 946343.95,
-        "amountGross": 946343.95,
+        "amountNet": 946924.1,
+        "amountGross": 946924.1,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PR",
-        "amountNet": 921098.29,
-        "amountGross": 921098.29,
+        "amountNet": 932451.2,
+        "amountGross": 932451.2,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PE",
-        "amountNet": 806489.19,
-        "amountGross": 810008.9,
+        "amountNet": 818154.84,
+        "amountGross": 821674.55,
         "amountAdjustments": -3519.71
       },
       {
         "stateCode": "CE",
-        "amountNet": 685902.53,
-        "amountGross": 689832.84,
+        "amountNet": 696816.25,
+        "amountGross": 700746.56,
         "amountAdjustments": -3930.31
       },
       {
@@ -145,49 +145,45 @@
       },
       {
         "stateCode": "PB",
-        "amountNet": 456388.65,
-        "amountGross": 467546.25,
+        "amountNet": 460371.67,
+        "amountGross": 471529.27,
         "amountAdjustments": -11157.6
       },
       {
         "stateCode": "PA",
-        "amountNet": 418002.71,
-        "amountGross": 420194.5,
+        "amountNet": 425724.87,
+        "amountGross": 427916.66,
         "amountAdjustments": -2191.79
       }
     ],
     "concentrationTop10": {
-      "amountNet": 733365.84,
-      "percent": 4.65
+      "amountNet": 738766.31,
+      "percent": 4.6
     },
     "averages": {
-      "perEntityWithSpending": 31725.85,
-      "perRecord": 1738.07
+      "perEntityWithSpending": 32278.28,
+      "perRecord": 1703.54
     },
     "dailyHighlight": {
-      "referenceDate": "2026-03-09",
+      "referenceDate": "2026-03-10",
       "entity": {
-        "id": 178946,
-        "name": "Soraya Santos",
-        "stateCode": "RJ",
-        "party": "PL",
+        "id": 226837,
+        "name": "Saulo Pedroso",
+        "stateCode": "SP",
+        "party": "PSD",
         "photoUrl": null,
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 18000.0,
-      "topAmountNet": 18000.0,
-      "totalAmountNet": 20150.0,
-      "previousTotalAmountNet": 19900.0,
-      "deltaTotalAmountNet": 250.0,
-      "deltaPercentTotalAmountNet": 1.26,
-      "deltaDirection": "up",
+      "amountNet": 980.0,
+      "topAmountNet": 980.0,
+      "totalAmountNet": 980.0,
+      "previousTotalAmountNet": 20150.0,
+      "deltaTotalAmountNet": -19170.0,
+      "deltaPercentTotalAmountNet": -95.14,
+      "deltaDirection": "down",
       "trend7d": [
-        {
-          "date": "2026-02-28",
-          "amountNet": 12404.0
-        },
         {
           "date": "2026-03-02",
           "amountNet": 47262.41
@@ -198,11 +194,11 @@
         },
         {
           "date": "2026-03-04",
-          "amountNet": 1564.0
+          "amountNet": 2714.0
         },
         {
           "date": "2026-03-05",
-          "amountNet": 11785.58
+          "amountNet": 12785.58
         },
         {
           "date": "2026-03-06",
@@ -211,11 +207,15 @@
         {
           "date": "2026-03-09",
           "amountNet": 20150.0
+        },
+        {
+          "date": "2026-03-10",
+          "amountNet": 980.0
         }
       ],
-      "category": "DIVULGACAO",
-      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-      "supplier": "PBecker Comunicação e Marketing LTDA"
+      "category": "ESCRITORIO",
+      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "supplier": "TOP TEC EQUIPAMENTOS DE INFORMATICA LTDA ME"
     }
   }
 }
