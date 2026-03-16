@@ -4,7 +4,9 @@ import os
 from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Any
 
+JsonDict = dict[str, Any]
 
 def parse_iso_utc(value):
     s = str(value or "").strip()
@@ -16,6 +18,13 @@ def parse_iso_utc(value):
         return None
 
 
+def has_invalid_iso(value):
+    s = str(value or "").strip()
+    if not s:
+        return False
+    return parse_iso_utc(s) is None
+
+
 def aggregate_items(raw_items, max_items=300, now_utc=None):
     now = now_utc or datetime.now(timezone.utc)
     filtered = []
@@ -23,6 +32,8 @@ def aggregate_items(raw_items, max_items=300, now_utc=None):
         if not isinstance(item, dict):
             continue
         if item.get("enabled") is False:
+            continue
+        if has_invalid_iso(item.get("generatedAt")) or has_invalid_iso(item.get("freshUntil")):
             continue
         quality = float(item.get("qualityScore", 0.0) or 0.0)
         if quality < 0.6:
@@ -32,7 +43,7 @@ def aggregate_items(raw_items, max_items=300, now_utc=None):
             continue
         filtered.append(dict(item))
 
-    dedup = {}
+    dedup: dict[str, JsonDict] = {}
     for item in filtered:
         key = f"{str(item.get('sourceId') or '')}::{str(item.get('id') or '')}"
         prev = dedup.get(key)
@@ -87,6 +98,7 @@ def build_catalog_index_feed(data_dir: Path) -> None:
     dropped_disabled = 0
     dropped_low_quality = 0
     dropped_expired = 0
+    dropped_invalid_timestamp = 0
     now_utc = datetime.now(timezone.utc)
 
     for fp in insights_files:
@@ -138,6 +150,9 @@ def build_catalog_index_feed(data_dir: Path) -> None:
             if raw.get("enabled") is False:
                 dropped_disabled += 1
                 continue
+            if has_invalid_iso(raw.get("generatedAt")) or has_invalid_iso(raw.get("freshUntil")):
+                dropped_invalid_timestamp += 1
+                continue
             quality = float(raw.get("qualityScore", 0.0) or 0.0)
             if quality < 0.6:
                 dropped_low_quality += 1
@@ -159,19 +174,26 @@ def build_catalog_index_feed(data_dir: Path) -> None:
             obj["scoreFinal"] = round(float(score), 6)
             candidates.append(obj)
 
-    before_filters = len(candidates) + dropped_non_object + dropped_disabled + dropped_low_quality + dropped_expired
+    before_filters = (
+        len(candidates)
+        + dropped_non_object
+        + dropped_disabled
+        + dropped_low_quality
+        + dropped_expired
+        + dropped_invalid_timestamp
+    )
     print(f"[aggregate] candidate insights: {len(candidates)}")
     print(f"[aggregate] dropped non-object: {dropped_non_object}")
     print(f"[aggregate] dropped disabled: {dropped_disabled}")
     print(f"[aggregate] dropped low-quality: {dropped_low_quality}")
     print(f"[aggregate] dropped expired: {dropped_expired}")
+    print(f"[aggregate] dropped invalid timestamp: {dropped_invalid_timestamp}")
 
     feed_sorted, dedup_removed = aggregate_items(candidates, max_items=0, now_utc=now_utc)
     if max_items > 0 and len(feed_sorted) > max_items:
         print(f"[aggregate] truncating feed: {len(feed_sorted)} -> {max_items}")
         feed_sorted = feed_sorted[:max_items]
 
-    # Diversity rule: avoid long same-level streaks.
     feed_items = []
     rest = list(feed_sorted)
     last_level = ""
@@ -207,7 +229,14 @@ def build_catalog_index_feed(data_dir: Path) -> None:
     top_ids = [f"{str(x.get('sourceId') or '')}::{str(x.get('id') or '')}" for x in feed_items[:10]]
     print(f"[aggregate] top10 ids: {top_ids}")
 
-    total_dropped = dropped_non_object + dropped_disabled + dropped_low_quality + dropped_expired + max(dedup_removed, 0)
+    total_dropped = (
+        dropped_non_object
+        + dropped_disabled
+        + dropped_low_quality
+        + dropped_expired
+        + dropped_invalid_timestamp
+        + max(dedup_removed, 0)
+    )
     drop_rate = (float(total_dropped) / float(before_filters)) if before_filters else 0.0
     print(f"[aggregate] drop rate: {drop_rate:.4f} ({total_dropped}/{before_filters})")
     if drop_rate > max_drop_rate:
@@ -218,15 +247,15 @@ def build_catalog_index_feed(data_dir: Path) -> None:
 
     now = datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
     (out_root / "catalog.json").write_text(
-        json.dumps({"meta": {"generatedAt": now, "schemaVersion": "1.0.0"}, "datasets": [datasets[k] for k in sorted(datasets.keys())]}, ensure_ascii=False, indent=2),
+        json.dumps({"meta": {"generatedAt": now, "schemaVersion": required_schema}, "datasets": [datasets[k] for k in sorted(datasets.keys())]}, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
     (out_root / "home-insights-index.json").write_text(
-        json.dumps({"meta": {"generatedAt": now, "schemaVersion": "1.0.0"}, "items": [index_items[k] for k in sorted(index_items.keys())]}, ensure_ascii=False, indent=2),
+        json.dumps({"meta": {"generatedAt": now, "schemaVersion": required_schema}, "items": [index_items[k] for k in sorted(index_items.keys())]}, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
     (out_root / "home-insights-feed.json").write_text(
-        json.dumps({"meta": {"generatedAt": now, "schemaVersion": "1.0.0"}, "items": feed_items}, ensure_ascii=False, indent=2),
+        json.dumps({"meta": {"generatedAt": now, "schemaVersion": required_schema}, "items": feed_items}, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
 

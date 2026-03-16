@@ -36,7 +36,7 @@ jobs:
       matrix:
         target:
           - id: federal-camara-deputados
-            script: scripts/federal/deputados/generate_camara_rankings.py
+            module: federal.deputados.process
             category_map: mapping/federal/deputados/category_map.json
             mandate_start_year: "2023"
     steps:
@@ -80,6 +80,7 @@ jobs:
           PY
 
       - name: Compute target year/month (scheduled)
+        id: schedule_target
         if: github.event_name == 'schedule'
         env:
           CRON_EXPR: ${{ github.event.schedule }}
@@ -87,6 +88,8 @@ jobs:
           python - << 'PY'
           from datetime import datetime, timezone
           import os
+          from pathlib import Path
+
           now = datetime.now(timezone.utc)
           y = now.year
           m = now.month
@@ -95,8 +98,12 @@ jobs:
             months = f"1-{m}"
           else:
             months = str(m)
-          with open("env.txt", "w", encoding="utf-8") as f:
-            f.write(f"YEAR={y}\nMONTHS={months}\n")
+          github_output = os.environ.get("GITHUB_OUTPUT")
+          if not github_output:
+            raise SystemExit("GITHUB_OUTPUT is required")
+          with Path(github_output).open("a", encoding="utf-8") as f:
+            f.write(f"year={y}\n")
+            f.write(f"months={months}\n")
           PY
 
       - name: Generate data (manual)
@@ -108,24 +115,27 @@ jobs:
           MANDATE_START_YEAR: ${{ github.event.inputs.mandate_start_year }}
           OUT_DIR: out/${{ matrix.target.id }}/data
           CATEGORY_MAP: ${{ matrix.target.category_map }}
-        run: python ${{ matrix.target.script }}
+          PYTHONPATH: scripts
+        run: python -m ${{ matrix.target.module }}
 
       - name: Generate data (scheduled)
         if: github.event_name == 'schedule'
         env:
           MODE: "single"
+          YEAR: ${{ steps.schedule_target.outputs.year }}
+          MONTHS: ${{ steps.schedule_target.outputs.months }}
           OUT_DIR: out/${{ matrix.target.id }}/data
           CATEGORY_MAP: ${{ matrix.target.category_map }}
           MANDATE_START_YEAR: ${{ matrix.target.mandate_start_year }}
-        run: |
-          cat env.txt >> $GITHUB_ENV
-          python ${{ matrix.target.script }}
+          PYTHONPATH: scripts
+        run: python -m ${{ matrix.target.module }}
 
       - name: Validate contract
         env:
           MODE: "validate"
           OUT_DIR: out/${{ matrix.target.id }}/data
-        run: python ${{ matrix.target.script }}
+          PYTHONPATH: scripts
+        run: python -m ${{ matrix.target.module }}
 
       - name: Upload ETL artifact
         uses: actions/upload-artifact@v4

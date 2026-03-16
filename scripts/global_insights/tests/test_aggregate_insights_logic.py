@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta, timezone
 
-from aggregate_insights_feed import aggregate_items
+from ..aggregate_insights_feed import aggregate_items
 
 
 def now_iso():
@@ -54,6 +54,15 @@ def main():
             "scoreFinal": 99.0,
             "freshUntil": add_hours(base, 12),
         },
+        {
+            "sourceId": "estadual/al",
+            "id": "invalid-timestamp",
+            "enabled": True,
+            "qualityScore": 0.9,
+            "scoreFinal": 50.0,
+            "generatedAt": "not-a-date",
+            "freshUntil": add_hours(base, 12),
+        },
     ]
 
     out, _dedup_removed = aggregate_items(fixture, max_items=2)
@@ -62,6 +71,7 @@ def main():
     assert "federal/camara::dup-1" in ids, "dedupe nao preservou item com maior score"
     assert "federal/senado::expired-1" not in ids, "item expirado nao foi removido"
     assert "municipal/prefeitura::low-quality" not in ids, "item de baixa qualidade nao foi removido"
+    assert "estadual/al::invalid-timestamp" not in ids, "item com timestamp invalido nao foi removido"
     assert out[0]["scoreFinal"] >= out[1]["scoreFinal"], "ordenacao por scoreFinal invalida"
     print(f"OK: test_aggregate_insights_logic ({len(out)} itens, now={now_iso()})")
 
