@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 141458,
+    "generatedAt": "2026-03-17T02:25:05.045491Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 141458,
+    "name": "João Carlos Bacelar",
+    "stateCode": "BA",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/141458.jpg",
+    "slug": "joão-carlos-bacelar"
+  },
+  "mandateTotals": {
+    "amountNet": 401468.17,
+    "amountGross": 447627.19,
+    "amountAdjustments": -46159.02,
+    "recordsCount": 409,
+    "byCategoryNet": {
+      "ALIMENTACAO": 9993.83,
+      "COMBUSTIVEL": 42896.19,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6707.76,
+      "DESLOCAMENTO": 85680.52,
+      "DIVULGACAO": 239726.0,
+      "ESCRITORIO": 16463.87,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 9993.83,
+      "COMBUSTIVEL": 42896.19,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6707.76,
+      "DESLOCAMENTO": 131839.54,
+      "DIVULGACAO": 239726.0,
+      "ESCRITORIO": 16463.87,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -46159.02,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 401468.17
+  },
+  "monthTotals": {
+    "2023-01": 486.43,
+    "2023-02": 53379.41,
+    "2023-03": 14244.02,
+    "2023-04": 17272.2,
+    "2023-05": 14309.64,
+    "2023-06": 18679.38,
+    "2023-07": 66765.88,
+    "2023-08": 63069.11,
+    "2023-09": 14382.31,
+    "2023-10": 57385.41,
+    "2023-11": 62531.92,
+    "2023-12": 18962.46
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 239726.0,
+    "percent": 59.71
+  }
+}

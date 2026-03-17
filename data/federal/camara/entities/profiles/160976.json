@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 160976,
+    "generatedAt": "2026-03-17T02:25:05.054434Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 160976,
+    "name": "Tiririca",
+    "stateCode": "SP",
+    "party": "PSD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160976.jpg",
+    "slug": "tiririca"
+  },
+  "mandateTotals": {
+    "amountNet": 467394.81,
+    "amountGross": 484644.63,
+    "amountAdjustments": -17249.82,
+    "recordsCount": 242,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 3747.97,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 5677.75,
+      "DESLOCAMENTO": 295393.59,
+      "DIVULGACAO": 162000.0,
+      "ESCRITORIO": 575.5,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 3747.97,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 5677.75,
+      "DESLOCAMENTO": 312643.41,
+      "DIVULGACAO": 162000.0,
+      "ESCRITORIO": 575.5,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -17249.82,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 467394.81
+  },
+  "monthTotals": {
+    "2023-01": 3467.58,
+    "2023-02": 43576.55,
+    "2023-03": 71591.58,
+    "2023-04": 34125.8,
+    "2023-05": 46363.45,
+    "2023-06": 36183.5,
+    "2023-07": 33721.39,
+    "2023-08": 51380.09,
+    "2023-09": 41808.4,
+    "2023-10": 41307.19,
+    "2023-11": 24856.54,
+    "2023-12": 39012.74
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 295393.59,
+    "percent": 63.2
+  }
+}

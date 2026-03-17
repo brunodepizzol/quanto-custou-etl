@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220669,
+    "generatedAt": "2026-03-17T02:25:05.113502Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220669,
+    "name": "Lula da Fonte",
+    "stateCode": "PE",
+    "party": "PP",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220669.jpg",
+    "slug": "lula-da-fonte"
+  },
+  "mandateTotals": {
+    "amountNet": 501827.73,
+    "amountGross": 597459.55,
+    "amountAdjustments": -95631.82,
+    "recordsCount": 672,
+    "byCategoryNet": {
+      "ALIMENTACAO": 263.37,
+      "COMBUSTIVEL": 34152.95,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 819.55,
+      "DESLOCAMENTO": 259526.98,
+      "DIVULGACAO": 133373.54,
+      "ESCRITORIO": 71606.34,
+      "HOSPEDAGEM": 2085.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 263.37,
+      "COMBUSTIVEL": 34152.95,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 819.55,
+      "DESLOCAMENTO": 355158.8,
+      "DIVULGACAO": 133373.54,
+      "ESCRITORIO": 71606.34,
+      "HOSPEDAGEM": 2085.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -95631.82,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 501827.73
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 22720.77,
+    "2023-03": 30641.78,
+    "2023-04": 33719.7,
+    "2023-05": 41981.64,
+    "2023-06": 45113.47,
+    "2023-07": 52142.14,
+    "2023-08": 55253.33,
+    "2023-09": 57090.2,
+    "2023-10": 55754.57,
+    "2023-11": 47505.6,
+    "2023-12": 59904.53
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 259526.98,
+    "percent": 51.72
+  }
+}

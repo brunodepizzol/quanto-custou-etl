@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 178857,
+    "generatedAt": "2026-03-17T02:25:05.057000Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 178857,
+    "name": "Jorge Solla",
+    "stateCode": "BA",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/178857.jpg",
+    "slug": "jorge-solla"
+  },
+  "mandateTotals": {
+    "amountNet": 523375.48,
+    "amountGross": 531830.83,
+    "amountAdjustments": -8455.35,
+    "recordsCount": 1422,
+    "byCategoryNet": {
+      "ALIMENTACAO": 9289.47,
+      "COMBUSTIVEL": 90960.95,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 8248.08,
+      "DESLOCAMENTO": 288077.62,
+      "DIVULGACAO": 9644.0,
+      "ESCRITORIO": 110434.68,
+      "HOSPEDAGEM": 6720.68,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 9289.47,
+      "COMBUSTIVEL": 90960.95,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 8248.08,
+      "DESLOCAMENTO": 296532.97,
+      "DIVULGACAO": 9644.0,
+      "ESCRITORIO": 110434.68,
+      "HOSPEDAGEM": 6720.68,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -8455.35,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 523375.48
+  },
+  "monthTotals": {
+    "2023-01": 12316.43,
+    "2023-02": 43496.08,
+    "2023-03": 49625.18,
+    "2023-04": 37780.29,
+    "2023-05": 57025.57,
+    "2023-06": 43834.04,
+    "2023-07": 36686.89,
+    "2023-08": 47958.87,
+    "2023-09": 50024.75,
+    "2023-10": 49791.38,
+    "2023-11": 51716.72,
+    "2023-12": 43119.28
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 288077.62,
+    "percent": 55.04
+  }
+}

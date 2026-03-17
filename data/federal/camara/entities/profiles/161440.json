@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 161440,
+    "generatedAt": "2026-03-17T02:25:05.054586Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 161440,
+    "name": "Pezenti",
+    "stateCode": "SC",
+    "party": "MDB",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/161440.jpg",
+    "slug": "pezenti"
+  },
+  "mandateTotals": {
+    "amountNet": 296889.06,
+    "amountGross": 297802.72,
+    "amountAdjustments": -913.66,
+    "recordsCount": 280,
+    "byCategoryNet": {
+      "ALIMENTACAO": 873.95,
+      "COMBUSTIVEL": 37025.03,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 3345.28,
+      "DESLOCAMENTO": 116135.36,
+      "DIVULGACAO": 45072.86,
+      "ESCRITORIO": 77249.86,
+      "HOSPEDAGEM": 17186.72,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 873.95,
+      "COMBUSTIVEL": 37025.03,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 3345.28,
+      "DESLOCAMENTO": 117049.02,
+      "DIVULGACAO": 45072.86,
+      "ESCRITORIO": 77249.86,
+      "HOSPEDAGEM": 17186.72,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -913.66,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 296889.06
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 24577.7,
+    "2023-03": 32537.17,
+    "2023-04": 24844.33,
+    "2023-05": 16337.4,
+    "2023-06": 26797.41,
+    "2023-07": 22205.48,
+    "2023-08": 44304.04,
+    "2023-09": 25583.32,
+    "2023-10": 24964.75,
+    "2023-11": 28321.23,
+    "2023-12": 26416.23
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 116135.36,
+    "percent": 39.12
+  }
+}

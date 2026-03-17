@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 171623,
+    "generatedAt": "2026-03-17T02:25:05.055677Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 171623,
+    "name": "Fabio Reis",
+    "stateCode": "SE",
+    "party": "PSD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/171623.jpg",
+    "slug": "fabio-reis"
+  },
+  "mandateTotals": {
+    "amountNet": 461003.19,
+    "amountGross": 490831.79,
+    "amountAdjustments": -29828.6,
+    "recordsCount": 384,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 48438.12,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 17935.22,
+      "DESLOCAMENTO": 200873.72,
+      "DIVULGACAO": 117452.61,
+      "ESCRITORIO": 76303.52,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 48438.12,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 17935.22,
+      "DESLOCAMENTO": 230702.32,
+      "DIVULGACAO": 117452.61,
+      "ESCRITORIO": 76303.52,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -29828.6,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 461003.19
+  },
+  "monthTotals": {
+    "2023-01": 289.28,
+    "2023-02": 54671.25,
+    "2023-03": 40422.09,
+    "2023-04": 33080.7,
+    "2023-05": 35205.47,
+    "2023-06": 33310.96,
+    "2023-07": 28189.07,
+    "2023-08": 33446.59,
+    "2023-09": 32716.86,
+    "2023-10": 33996.03,
+    "2023-11": 25865.23,
+    "2023-12": 109809.66
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 200873.72,
+    "percent": 43.57
+  }
+}

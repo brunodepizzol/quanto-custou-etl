@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 74537,
+    "generatedAt": "2026-03-17T02:25:05.038587Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 74537,
+    "name": "Claudio Cajado",
+    "stateCode": "BA",
+    "party": "PP",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74537.jpg",
+    "slug": "claudio-cajado"
+  },
+  "mandateTotals": {
+    "amountNet": 445832.44,
+    "amountGross": 526445.69,
+    "amountAdjustments": -80613.25,
+    "recordsCount": 540,
+    "byCategoryNet": {
+      "ALIMENTACAO": 5115.54,
+      "COMBUSTIVEL": 68007.79,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 17566.86,
+      "DESLOCAMENTO": 251947.65,
+      "DIVULGACAO": 71000.0,
+      "ESCRITORIO": 26135.0,
+      "HOSPEDAGEM": 6059.6,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 5115.54,
+      "COMBUSTIVEL": 68007.79,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 17566.86,
+      "DESLOCAMENTO": 332560.9,
+      "DIVULGACAO": 71000.0,
+      "ESCRITORIO": 26135.0,
+      "HOSPEDAGEM": 6059.6,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -80613.25,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 445832.44
+  },
+  "monthTotals": {
+    "2023-01": 582.15,
+    "2023-02": 46105.16,
+    "2023-03": 62719.19,
+    "2023-04": 53784.45,
+    "2023-05": 37618.59,
+    "2023-06": 34027.21,
+    "2023-07": 28659.86,
+    "2023-08": 39776.78,
+    "2023-09": 27700.0,
+    "2023-10": 23659.11,
+    "2023-11": 30301.89,
+    "2023-12": 60898.05
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 251947.65,
+    "percent": 56.51
+  }
+}

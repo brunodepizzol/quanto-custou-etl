@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204515,
+    "generatedAt": "2026-03-17T02:25:05.087324Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204515,
+    "name": "André Janones",
+    "stateCode": "MG",
+    "party": "AVANTE",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204515.jpg",
+    "slug": "andré-janones"
+  },
+  "mandateTotals": {
+    "amountNet": 459661.76,
+    "amountGross": 461472.16,
+    "amountAdjustments": -1810.4,
+    "recordsCount": 355,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 55876.29,
+      "CONSULTORIA_SERVICOS": 15000.0,
+      "CORREIOS_TELEFONIA": 1547.75,
+      "DESLOCAMENTO": 121923.48,
+      "DIVULGACAO": 248559.76,
+      "ESCRITORIO": 11024.3,
+      "HOSPEDAGEM": 5730.18,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 55876.29,
+      "CONSULTORIA_SERVICOS": 15000.0,
+      "CORREIOS_TELEFONIA": 1547.75,
+      "DESLOCAMENTO": 123733.88,
+      "DIVULGACAO": 248559.76,
+      "ESCRITORIO": 11024.3,
+      "HOSPEDAGEM": 5730.18,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -1810.4,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 459661.76
+  },
+  "monthTotals": {
+    "2023-01": 20704.3,
+    "2023-02": 20657.54,
+    "2023-03": 31891.79,
+    "2023-04": 24102.42,
+    "2023-05": 22350.96,
+    "2023-06": 84418.95,
+    "2023-07": 45897.39,
+    "2023-08": 31996.95,
+    "2023-09": 82316.96,
+    "2023-10": 34167.67,
+    "2023-11": 29222.61,
+    "2023-12": 31934.22
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 248559.76,
+    "percent": 54.07
+  }
+}

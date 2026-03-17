@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 178970,
+    "generatedAt": "2026-03-17T02:25:05.061680Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 178970,
+    "name": "João Daniel",
+    "stateCode": "SE",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/178970.jpg",
+    "slug": "joão-daniel"
+  },
+  "mandateTotals": {
+    "amountNet": 501356.92,
+    "amountGross": 518557.15,
+    "amountAdjustments": -17200.23,
+    "recordsCount": 182,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 86203.62,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2656.61,
+      "DESLOCAMENTO": 222183.66,
+      "DIVULGACAO": 78500.0,
+      "ESCRITORIO": 111813.03,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 86203.62,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2656.61,
+      "DESLOCAMENTO": 239383.89,
+      "DIVULGACAO": 78500.0,
+      "ESCRITORIO": 111813.03,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -17200.23,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 501356.92
+  },
+  "monthTotals": {
+    "2023-01": 302.71,
+    "2023-02": 49948.01,
+    "2023-03": 55094.47,
+    "2023-04": 46944.19,
+    "2023-05": 50690.29,
+    "2023-06": 36876.45,
+    "2023-07": 33857.87,
+    "2023-08": 43047.37,
+    "2023-09": 41501.76,
+    "2023-10": 40239.58,
+    "2023-11": 50024.94,
+    "2023-12": 52829.28
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 222183.66,
+    "percent": 44.32
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204560,
+    "generatedAt": "2026-03-17T02:25:05.090477Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204560,
+    "name": "Adolfo Viana",
+    "stateCode": "BA",
+    "party": "PSDB",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204560.jpg",
+    "slug": "adolfo-viana"
+  },
+  "mandateTotals": {
+    "amountNet": 422034.49,
+    "amountGross": 434013.45,
+    "amountAdjustments": -11978.96,
+    "recordsCount": 218,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 6965.26,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 10121.61,
+      "DESLOCAMENTO": 295063.22,
+      "DIVULGACAO": 100500.0,
+      "ESCRITORIO": 9384.4,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 6965.26,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 10121.61,
+      "DESLOCAMENTO": 307042.18,
+      "DIVULGACAO": 100500.0,
+      "ESCRITORIO": 9384.4,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -11978.96,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 422034.49
+  },
+  "monthTotals": {
+    "2023-01": 468.66,
+    "2023-02": 30401.36,
+    "2023-03": 62583.18,
+    "2023-04": 22269.28,
+    "2023-05": 55166.61,
+    "2023-06": 26726.72,
+    "2023-07": 32847.22,
+    "2023-08": 37968.43,
+    "2023-09": 31469.09,
+    "2023-10": 58116.2,
+    "2023-11": 37668.38,
+    "2023-12": 26349.36
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 295063.22,
+    "percent": 69.91
+  }
+}

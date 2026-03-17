@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 160665,
+    "generatedAt": "2026-03-17T02:25:05.053643Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 160665,
+    "name": "Augusto Coutinho",
+    "stateCode": "PE",
+    "party": "REPUBLICANOS",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160665.jpg",
+    "slug": "augusto-coutinho"
+  },
+  "mandateTotals": {
+    "amountNet": 548916.2,
+    "amountGross": 562319.36,
+    "amountAdjustments": -13403.16,
+    "recordsCount": 476,
+    "byCategoryNet": {
+      "ALIMENTACAO": 256.59,
+      "COMBUSTIVEL": 30876.35,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 9107.43,
+      "DESLOCAMENTO": 227696.84,
+      "DIVULGACAO": 77215.26,
+      "ESCRITORIO": 198471.88,
+      "HOSPEDAGEM": 5291.85,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 256.59,
+      "COMBUSTIVEL": 30876.35,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 9107.43,
+      "DESLOCAMENTO": 241100.0,
+      "DIVULGACAO": 77215.26,
+      "ESCRITORIO": 198471.88,
+      "HOSPEDAGEM": 5291.85,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -13403.16,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 548916.2
+  },
+  "monthTotals": {
+    "2023-01": 12723.18,
+    "2023-02": 45088.73,
+    "2023-03": 44986.74,
+    "2023-04": 51004.94,
+    "2023-05": 46866.83,
+    "2023-06": 38810.71,
+    "2023-07": 46742.52,
+    "2023-08": 46909.93,
+    "2023-09": 42741.41,
+    "2023-10": 38777.84,
+    "2023-11": 49110.76,
+    "2023-12": 85152.61
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 227696.84,
+    "percent": 41.48
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 122158,
+    "generatedAt": "2026-03-17T02:25:05.042413Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 122158,
+    "name": "Pedro Paulo",
+    "stateCode": "RJ",
+    "party": "PSD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/122158.jpg",
+    "slug": "pedro-paulo"
+  },
+  "mandateTotals": {
+    "amountNet": 431829.0,
+    "amountGross": 487619.7,
+    "amountAdjustments": -55790.7,
+    "recordsCount": 192,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 1985.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1542.28,
+      "DESLOCAMENTO": 233391.02,
+      "DIVULGACAO": 12699.5,
+      "ESCRITORIO": 182211.2,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 1985.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1542.28,
+      "DESLOCAMENTO": 289181.72,
+      "DIVULGACAO": 12699.5,
+      "ESCRITORIO": 182211.2,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -55790.7,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 431829.0
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 47240.33,
+    "2023-03": 46032.66,
+    "2023-04": 39149.28,
+    "2023-05": 38207.19,
+    "2023-06": 30890.17,
+    "2023-07": 32498.83,
+    "2023-08": 41737.67,
+    "2023-09": 52617.99,
+    "2023-10": 48183.23,
+    "2023-11": 29254.12,
+    "2023-12": 26017.53
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 233391.02,
+    "percent": 54.05
+  }
+}

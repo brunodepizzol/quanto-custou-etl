@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 74160,
+    "generatedAt": "2026-03-17T02:25:05.035424Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 74160,
+    "name": "Patrus Ananias",
+    "stateCode": "MG",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74160.jpg",
+    "slug": "patrus-ananias"
+  },
+  "mandateTotals": {
+    "amountNet": 409247.87,
+    "amountGross": 411784.03,
+    "amountAdjustments": -2536.16,
+    "recordsCount": 1105,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 33172.33,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6472.3,
+      "DESLOCAMENTO": 70146.48,
+      "DIVULGACAO": 127210.0,
+      "ESCRITORIO": 157063.26,
+      "HOSPEDAGEM": 15183.5,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 33172.33,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6472.3,
+      "DESLOCAMENTO": 72682.64,
+      "DIVULGACAO": 127210.0,
+      "ESCRITORIO": 157063.26,
+      "HOSPEDAGEM": 15183.5,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -2536.16,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 409247.87
+  },
+  "monthTotals": {
+    "2023-01": 8044.28,
+    "2023-02": 41274.12,
+    "2023-03": 33383.68,
+    "2023-04": 39250.97,
+    "2023-05": 30231.03,
+    "2023-06": 32754.67,
+    "2023-07": 35565.72,
+    "2023-08": 37585.97,
+    "2023-09": 36689.06,
+    "2023-10": 41334.25,
+    "2023-11": 38872.0,
+    "2023-12": 34262.12
+  },
+  "topCategory": {
+    "category": "ESCRITORIO",
+    "amountNet": 157063.26,
+    "percent": 38.38
+  }
+}

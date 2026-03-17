@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 160510,
+    "generatedAt": "2026-03-17T02:25:05.048384Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 160510,
+    "name": "Luis Tibé",
+    "stateCode": "MG",
+    "party": "AVANTE",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160510.jpg",
+    "slug": "luis-tibé"
+  },
+  "mandateTotals": {
+    "amountNet": 283602.55,
+    "amountGross": 298873.66,
+    "amountAdjustments": -15271.11,
+    "recordsCount": 313,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 15811.63,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 24128.91,
+      "DESLOCAMENTO": 110097.71,
+      "DIVULGACAO": 46180.0,
+      "ESCRITORIO": 87234.3,
+      "HOSPEDAGEM": 150.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 15811.63,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 24128.91,
+      "DESLOCAMENTO": 125368.82,
+      "DIVULGACAO": 46180.0,
+      "ESCRITORIO": 87234.3,
+      "HOSPEDAGEM": 150.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -15271.11,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 283602.55
+  },
+  "monthTotals": {
+    "2023-01": 7765.54,
+    "2023-02": 20702.27,
+    "2023-03": 27802.5,
+    "2023-04": 19625.28,
+    "2023-05": 21336.88,
+    "2023-06": 24091.8,
+    "2023-07": 20414.34,
+    "2023-08": 28329.07,
+    "2023-09": 31508.69,
+    "2023-10": 22326.87,
+    "2023-11": 28378.92,
+    "2023-12": 31320.39
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 110097.71,
+    "percent": 38.82
+  }
+}

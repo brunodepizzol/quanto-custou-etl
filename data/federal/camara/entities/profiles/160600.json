@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 160600,
+    "generatedAt": "2026-03-17T02:25:05.051994Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 160600,
+    "name": "Arthur Oliveira Maia",
+    "stateCode": "BA",
+    "party": "UNIÃO",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160600.jpg",
+    "slug": "arthur-oliveira-maia"
+  },
+  "mandateTotals": {
+    "amountNet": 524503.64,
+    "amountGross": 533749.83,
+    "amountAdjustments": -9246.19,
+    "recordsCount": 368,
+    "byCategoryNet": {
+      "ALIMENTACAO": 1170.5,
+      "COMBUSTIVEL": 58719.43,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 15747.43,
+      "DESLOCAMENTO": 265514.04,
+      "DIVULGACAO": 78900.0,
+      "ESCRITORIO": 81080.4,
+      "HOSPEDAGEM": 23371.84,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 1170.5,
+      "COMBUSTIVEL": 58719.43,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 15747.43,
+      "DESLOCAMENTO": 274760.23,
+      "DIVULGACAO": 78900.0,
+      "ESCRITORIO": 81080.4,
+      "HOSPEDAGEM": 23371.84,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -9246.19,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 524503.64
+  },
+  "monthTotals": {
+    "2023-01": 18125.14,
+    "2023-02": 32227.96,
+    "2023-03": 45326.81,
+    "2023-04": 37626.34,
+    "2023-05": 68384.72,
+    "2023-06": 42792.66,
+    "2023-07": 45430.55,
+    "2023-08": 36103.08,
+    "2023-09": 52008.22,
+    "2023-10": 59744.61,
+    "2023-11": 30763.77,
+    "2023-12": 55969.78
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 265514.04,
+    "percent": 50.62
+  }
+}

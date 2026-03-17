@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 123756,
+    "generatedAt": "2026-03-17T02:25:05.042854Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 123756,
+    "name": "Antônia Lúcia",
+    "stateCode": "AC",
+    "party": "REPUBLICANOS",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/123756.jpg",
+    "slug": "antônia-lúcia"
+  },
+  "mandateTotals": {
+    "amountNet": 543586.21,
+    "amountGross": 577347.84,
+    "amountAdjustments": -33761.63,
+    "recordsCount": 184,
+    "byCategoryNet": {
+      "ALIMENTACAO": 89.8,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 3246.35,
+      "DESLOCAMENTO": 290509.86,
+      "DIVULGACAO": 245399.0,
+      "ESCRITORIO": 4341.2,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 89.8,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 3246.35,
+      "DESLOCAMENTO": 324271.49,
+      "DIVULGACAO": 245399.0,
+      "ESCRITORIO": 4341.2,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -33761.63,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 543586.21
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 8229.06,
+    "2023-03": 44600.78,
+    "2023-04": 123484.61,
+    "2023-05": 39285.24,
+    "2023-06": 39953.78,
+    "2023-07": 86003.51,
+    "2023-08": 73212.6,
+    "2023-09": 32359.59,
+    "2023-10": 29989.31,
+    "2023-11": 39130.38,
+    "2023-12": 27337.35
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 290509.86,
+    "percent": 53.44
+  }
+}

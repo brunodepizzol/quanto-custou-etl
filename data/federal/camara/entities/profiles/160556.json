@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 160556,
+    "generatedAt": "2026-03-17T02:25:05.050307Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 160556,
+    "name": "Padre João",
+    "stateCode": "MG",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160556.jpg",
+    "slug": "padre-joão"
+  },
+  "mandateTotals": {
+    "amountNet": 453628.65,
+    "amountGross": 472125.69,
+    "amountAdjustments": -18497.04,
+    "recordsCount": 747,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 59374.94,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 5526.14,
+      "DESLOCAMENTO": 176475.94,
+      "DIVULGACAO": 118358.26,
+      "ESCRITORIO": 84172.98,
+      "HOSPEDAGEM": 9720.39,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 59374.94,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 5526.14,
+      "DESLOCAMENTO": 194972.98,
+      "DIVULGACAO": 118358.26,
+      "ESCRITORIO": 84172.98,
+      "HOSPEDAGEM": 9720.39,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -18497.04,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 453628.65
+  },
+  "monthTotals": {
+    "2023-01": 5986.09,
+    "2023-02": 26380.29,
+    "2023-03": 42343.82,
+    "2023-04": 29148.73,
+    "2023-05": 28099.57,
+    "2023-06": 21619.38,
+    "2023-07": 30397.84,
+    "2023-08": 26095.45,
+    "2023-09": 39034.8,
+    "2023-10": 30407.41,
+    "2023-11": 64891.14,
+    "2023-12": 109224.13
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 176475.94,
+    "percent": 38.9
+  }
+}

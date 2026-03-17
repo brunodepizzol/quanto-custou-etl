@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220558,
+    "generatedAt": "2026-03-17T02:25:05.098337Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220558,
+    "name": "Zé Trovão",
+    "stateCode": "SC",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220558.jpg",
+    "slug": "zé-trovão"
+  },
+  "mandateTotals": {
+    "amountNet": 547330.96,
+    "amountGross": 561414.4,
+    "amountAdjustments": -14083.44,
+    "recordsCount": 547,
+    "byCategoryNet": {
+      "ALIMENTACAO": 6975.07,
+      "COMBUSTIVEL": 46686.96,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1655.39,
+      "DESLOCAMENTO": 146113.23,
+      "DIVULGACAO": 151054.0,
+      "ESCRITORIO": 184045.52,
+      "HOSPEDAGEM": 10800.79,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 6975.07,
+      "COMBUSTIVEL": 46686.96,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1655.39,
+      "DESLOCAMENTO": 160196.67,
+      "DIVULGACAO": 151054.0,
+      "ESCRITORIO": 184045.52,
+      "HOSPEDAGEM": 10800.79,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -14083.44,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 547330.96
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 42626.45,
+    "2023-03": 40265.14,
+    "2023-04": 82985.44,
+    "2023-05": 58207.93,
+    "2023-06": 58368.36,
+    "2023-07": 50572.73,
+    "2023-08": 53569.55,
+    "2023-09": 38241.14,
+    "2023-10": 41908.23,
+    "2023-11": 32761.99,
+    "2023-12": 47824.0
+  },
+  "topCategory": {
+    "category": "ESCRITORIO",
+    "amountNet": 184045.52,
+    "percent": 33.63
+  }
+}

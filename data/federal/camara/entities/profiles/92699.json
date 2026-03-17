@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 92699,
+    "generatedAt": "2026-03-17T02:25:05.040994Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 92699,
+    "name": "Fernando Monteiro",
+    "stateCode": "PE",
+    "party": "PSD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/92699.jpg",
+    "slug": "fernando-monteiro"
+  },
+  "mandateTotals": {
+    "amountNet": 500941.2,
+    "amountGross": 530624.71,
+    "amountAdjustments": -29683.51,
+    "recordsCount": 470,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 47526.69,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 13628.77,
+      "DESLOCAMENTO": 249536.63,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 169673.07,
+      "HOSPEDAGEM": 20576.04,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 47526.69,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 13628.77,
+      "DESLOCAMENTO": 279220.14,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 169673.07,
+      "HOSPEDAGEM": 20576.04,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -29683.51,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 500941.2
+  },
+  "monthTotals": {
+    "2023-01": 26902.93,
+    "2023-02": 50375.65,
+    "2023-03": 58182.03,
+    "2023-04": 45971.72,
+    "2023-05": 40454.19,
+    "2023-06": 43089.02,
+    "2023-07": 34625.19,
+    "2023-08": 54136.39,
+    "2023-09": 31686.45,
+    "2023-10": 42178.97,
+    "2023-11": 44981.92,
+    "2023-12": 28356.74
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 249536.63,
+    "percent": 49.81
+  }
+}

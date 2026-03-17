@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204455,
+    "generatedAt": "2026-03-17T02:25:05.082053Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204455,
+    "name": "Luiz Lima",
+    "stateCode": "RJ",
+    "party": "NOVO",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204455.jpg",
+    "slug": "luiz-lima"
+  },
+  "mandateTotals": {
+    "amountNet": 509603.52,
+    "amountGross": 515902.93,
+    "amountAdjustments": -6299.41,
+    "recordsCount": 382,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 25519.46,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2596.2,
+      "DESLOCAMENTO": 165738.22,
+      "DIVULGACAO": 195567.3,
+      "ESCRITORIO": 119882.34,
+      "HOSPEDAGEM": 300.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 25519.46,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2596.2,
+      "DESLOCAMENTO": 172037.63,
+      "DIVULGACAO": 195567.3,
+      "ESCRITORIO": 119882.34,
+      "HOSPEDAGEM": 300.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -6299.41,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 509603.52
+  },
+  "monthTotals": {
+    "2023-01": 19627.87,
+    "2023-02": 45929.25,
+    "2023-03": 51067.47,
+    "2023-04": 40094.17,
+    "2023-05": 36067.72,
+    "2023-06": 26464.63,
+    "2023-07": 25545.64,
+    "2023-08": 38113.97,
+    "2023-09": 40524.69,
+    "2023-10": 37923.65,
+    "2023-11": 76167.12,
+    "2023-12": 72077.34
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 195567.3,
+    "percent": 38.38
+  }
+}

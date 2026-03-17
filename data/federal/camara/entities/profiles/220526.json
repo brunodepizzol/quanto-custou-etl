@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220526,
+    "generatedAt": "2026-03-17T02:25:05.093384Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220526,
+    "name": "Gilvan da Federal",
+    "stateCode": "ES",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220526.jpg",
+    "slug": "gilvan-da-federal"
+  },
+  "mandateTotals": {
+    "amountNet": 405463.01,
+    "amountGross": 422753.18,
+    "amountAdjustments": -17290.17,
+    "recordsCount": 488,
+    "byCategoryNet": {
+      "ALIMENTACAO": 156.74,
+      "COMBUSTIVEL": 31973.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 3665.85,
+      "DESLOCAMENTO": 162094.19,
+      "DIVULGACAO": 146870.0,
+      "ESCRITORIO": 41083.54,
+      "HOSPEDAGEM": 19619.69,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 156.74,
+      "COMBUSTIVEL": 31973.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 3665.85,
+      "DESLOCAMENTO": 179384.36,
+      "DIVULGACAO": 146870.0,
+      "ESCRITORIO": 41083.54,
+      "HOSPEDAGEM": 19619.69,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -17290.17,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 405463.01
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 8784.74,
+    "2023-03": 7154.85,
+    "2023-04": 12033.62,
+    "2023-05": 20490.26,
+    "2023-06": 64552.98,
+    "2023-07": 29560.54,
+    "2023-08": 44417.54,
+    "2023-09": 83917.62,
+    "2023-10": 35825.36,
+    "2023-11": 52040.81,
+    "2023-12": 46684.69
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 162094.19,
+    "percent": 39.98
+  }
+}

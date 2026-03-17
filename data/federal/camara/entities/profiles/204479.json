@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204479,
+    "generatedAt": "2026-03-17T02:25:05.083773Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204479,
+    "name": "Nicoletti",
+    "stateCode": "RR",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204479.jpg",
+    "slug": "nicoletti"
+  },
+  "mandateTotals": {
+    "amountNet": 583008.53,
+    "amountGross": 597772.79,
+    "amountAdjustments": -14764.26,
+    "recordsCount": 518,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 51076.41,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 5317.5,
+      "DESLOCAMENTO": 215222.11,
+      "DIVULGACAO": 297788.8,
+      "ESCRITORIO": 8612.65,
+      "HOSPEDAGEM": 4991.06,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 51076.41,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 5317.5,
+      "DESLOCAMENTO": 229986.37,
+      "DIVULGACAO": 297788.8,
+      "ESCRITORIO": 8612.65,
+      "HOSPEDAGEM": 4991.06,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -14764.26,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 583008.53
+  },
+  "monthTotals": {
+    "2023-01": 20584.57,
+    "2023-02": 56262.15,
+    "2023-03": 52795.66,
+    "2023-04": 48277.53,
+    "2023-05": 50910.98,
+    "2023-06": 53263.22,
+    "2023-07": 53372.67,
+    "2023-08": 74290.39,
+    "2023-09": 56316.55,
+    "2023-10": 39092.35,
+    "2023-11": 49458.86,
+    "2023-12": 28383.6
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 297788.8,
+    "percent": 51.08
+  }
+}

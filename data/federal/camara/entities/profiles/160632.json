@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 160632,
+    "generatedAt": "2026-03-17T02:25:05.052864Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 160632,
+    "name": "Zé Silva",
+    "stateCode": "MG",
+    "party": "SOLIDARIEDADE",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160632.jpg",
+    "slug": "zé-silva"
+  },
+  "mandateTotals": {
+    "amountNet": 473809.42,
+    "amountGross": 486750.29,
+    "amountAdjustments": -12940.87,
+    "recordsCount": 426,
+    "byCategoryNet": {
+      "ALIMENTACAO": 1594.11,
+      "COMBUSTIVEL": 62985.93,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 8213.03,
+      "DESLOCAMENTO": 118200.36,
+      "DIVULGACAO": 266472.26,
+      "ESCRITORIO": 14383.73,
+      "HOSPEDAGEM": 1960.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 1594.11,
+      "COMBUSTIVEL": 62985.93,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 8213.03,
+      "DESLOCAMENTO": 131141.23,
+      "DIVULGACAO": 266472.26,
+      "ESCRITORIO": 14383.73,
+      "HOSPEDAGEM": 1960.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -12940.87,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 473809.42
+  },
+  "monthTotals": {
+    "2023-01": 19223.67,
+    "2023-02": 29128.73,
+    "2023-03": 37430.39,
+    "2023-04": 27018.35,
+    "2023-05": 35170.63,
+    "2023-06": 38698.43,
+    "2023-07": 24161.3,
+    "2023-08": 33110.7,
+    "2023-09": 35069.23,
+    "2023-10": 33901.04,
+    "2023-11": 46090.12,
+    "2023-12": 114806.83
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 266472.26,
+    "percent": 56.24
+  }
+}

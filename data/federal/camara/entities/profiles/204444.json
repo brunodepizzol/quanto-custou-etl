@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204444,
+    "generatedAt": "2026-03-17T02:25:05.081263Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204444,
+    "name": "Helio Lopes",
+    "stateCode": "RJ",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204444.jpg",
+    "slug": "helio-lopes"
+  },
+  "mandateTotals": {
+    "amountNet": 311432.23,
+    "amountGross": 316342.5,
+    "amountAdjustments": -4910.27,
+    "recordsCount": 292,
+    "byCategoryNet": {
+      "ALIMENTACAO": 4164.22,
+      "COMBUSTIVEL": 13468.27,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 4851.13,
+      "DESLOCAMENTO": 239162.7,
+      "DIVULGACAO": 34600.0,
+      "ESCRITORIO": 2038.8,
+      "HOSPEDAGEM": 13147.11,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 4164.22,
+      "COMBUSTIVEL": 13468.27,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 4851.13,
+      "DESLOCAMENTO": 244072.97,
+      "DIVULGACAO": 34600.0,
+      "ESCRITORIO": 2038.8,
+      "HOSPEDAGEM": 13147.11,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -4910.27,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 311432.23
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 26368.87,
+    "2023-03": 20501.8,
+    "2023-04": 25346.55,
+    "2023-05": 26256.27,
+    "2023-06": 13347.18,
+    "2023-07": 35327.87,
+    "2023-08": 40283.35,
+    "2023-09": 33917.55,
+    "2023-10": 24521.09,
+    "2023-11": 28086.92,
+    "2023-12": 37474.78
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 239162.7,
+    "percent": 76.79
+  }
+}

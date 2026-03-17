@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204473,
+    "generatedAt": "2026-03-17T02:25:05.083379Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204473,
+    "name": "General Girão",
+    "stateCode": "RN",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204473.jpg",
+    "slug": "general-girão"
+  },
+  "mandateTotals": {
+    "amountNet": 590048.97,
+    "amountGross": 607032.08,
+    "amountAdjustments": -16983.11,
+    "recordsCount": 646,
+    "byCategoryNet": {
+      "ALIMENTACAO": 3806.17,
+      "COMBUSTIVEL": 34213.22,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6097.48,
+      "DESLOCAMENTO": 185109.15,
+      "DIVULGACAO": 189780.0,
+      "ESCRITORIO": 165927.08,
+      "HOSPEDAGEM": 5115.87,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 3806.17,
+      "COMBUSTIVEL": 34213.22,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6097.48,
+      "DESLOCAMENTO": 202092.26,
+      "DIVULGACAO": 189780.0,
+      "ESCRITORIO": 165927.08,
+      "HOSPEDAGEM": 5115.87,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -16983.11,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 590048.97
+  },
+  "monthTotals": {
+    "2023-01": 1062.29,
+    "2023-02": 60435.62,
+    "2023-03": 48048.21,
+    "2023-04": 51575.22,
+    "2023-05": 55218.49,
+    "2023-06": 43112.23,
+    "2023-07": 56488.59,
+    "2023-08": 57054.83,
+    "2023-09": 51320.5,
+    "2023-10": 62811.96,
+    "2023-11": 48825.18,
+    "2023-12": 54095.85
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 189780.0,
+    "percent": 32.16
+  }
+}

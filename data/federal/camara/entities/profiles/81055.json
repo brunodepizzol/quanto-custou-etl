@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 81055,
+    "generatedAt": "2026-03-17T02:25:05.040405Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 81055,
+    "name": "Márcio Jerry",
+    "stateCode": "MA",
+    "party": "PCdoB",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/81055.jpg",
+    "slug": "márcio-jerry"
+  },
+  "mandateTotals": {
+    "amountNet": 501870.66,
+    "amountGross": 527174.4,
+    "amountAdjustments": -25303.74,
+    "recordsCount": 836,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 35796.15,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 9425.36,
+      "DESLOCAMENTO": 185523.66,
+      "DIVULGACAO": 118909.0,
+      "ESCRITORIO": 144939.71,
+      "HOSPEDAGEM": 7276.78,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 35796.15,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 9425.36,
+      "DESLOCAMENTO": 210827.4,
+      "DIVULGACAO": 118909.0,
+      "ESCRITORIO": 144939.71,
+      "HOSPEDAGEM": 7276.78,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -25303.74,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 501870.66
+  },
+  "monthTotals": {
+    "2023-01": 9353.7,
+    "2023-02": 36773.17,
+    "2023-03": 51729.57,
+    "2023-04": 46295.23,
+    "2023-05": 55747.97,
+    "2023-06": 49415.68,
+    "2023-07": 32539.75,
+    "2023-08": 41779.86,
+    "2023-09": 35091.93,
+    "2023-10": 37523.02,
+    "2023-11": 58573.52,
+    "2023-12": 47047.26
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 185523.66,
+    "percent": 36.97
+  }
+}

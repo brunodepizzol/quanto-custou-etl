@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204518,
+    "generatedAt": "2026-03-17T02:25:05.087652Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204518,
+    "name": "Dr. Frederico",
+    "stateCode": "MG",
+    "party": "PRD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204518.jpg",
+    "slug": "dr-frederico"
+  },
+  "mandateTotals": {
+    "amountNet": 484281.83,
+    "amountGross": 498019.04,
+    "amountAdjustments": -13737.21,
+    "recordsCount": 258,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 50095.21,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 5740.58,
+      "DESLOCAMENTO": 177621.94,
+      "DIVULGACAO": 172500.0,
+      "ESCRITORIO": 76857.2,
+      "HOSPEDAGEM": 1466.9,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 50095.21,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 5740.58,
+      "DESLOCAMENTO": 191359.15,
+      "DIVULGACAO": 172500.0,
+      "ESCRITORIO": 76857.2,
+      "HOSPEDAGEM": 1466.9,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -13737.21,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 484281.83
+  },
+  "monthTotals": {
+    "2023-01": 4317.17,
+    "2023-02": 32862.48,
+    "2023-03": 42390.34,
+    "2023-04": 32917.76,
+    "2023-05": 36976.04,
+    "2023-06": 50362.94,
+    "2023-07": 36113.82,
+    "2023-08": 53033.3,
+    "2023-09": 47325.92,
+    "2023-10": 53599.22,
+    "2023-11": 44696.9,
+    "2023-12": 49685.94
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 177621.94,
+    "percent": 36.68
+  }
+}

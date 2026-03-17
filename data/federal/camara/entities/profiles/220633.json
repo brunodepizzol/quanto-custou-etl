@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220633,
+    "generatedAt": "2026-03-17T02:25:05.108772Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220633,
+    "name": "Ricardo Salles",
+    "stateCode": "SP",
+    "party": "NOVO",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220633.jpg",
+    "slug": "ricardo-salles"
+  },
+  "mandateTotals": {
+    "amountNet": 499228.69,
+    "amountGross": 523369.82,
+    "amountAdjustments": -24141.13,
+    "recordsCount": 369,
+    "byCategoryNet": {
+      "ALIMENTACAO": 48.99,
+      "COMBUSTIVEL": 31895.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 5883.57,
+      "DESLOCAMENTO": 208432.05,
+      "DIVULGACAO": 206519.2,
+      "ESCRITORIO": 43803.86,
+      "HOSPEDAGEM": 2646.02,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 48.99,
+      "COMBUSTIVEL": 31895.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 5883.57,
+      "DESLOCAMENTO": 232573.18,
+      "DIVULGACAO": 206519.2,
+      "ESCRITORIO": 43803.86,
+      "HOSPEDAGEM": 2646.02,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -24141.13,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 499228.69
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 28405.29,
+    "2023-03": 56821.48,
+    "2023-04": 37469.74,
+    "2023-05": 50965.47,
+    "2023-06": 43010.25,
+    "2023-07": 37008.11,
+    "2023-08": 48127.87,
+    "2023-09": 45963.4,
+    "2023-10": 40061.23,
+    "2023-11": 45702.03,
+    "2023-12": 65693.82
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 208432.05,
+    "percent": 41.75
+  }
+}

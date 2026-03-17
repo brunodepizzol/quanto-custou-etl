@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 74554,
+    "generatedAt": "2026-03-17T02:25:05.038880Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 74554,
+    "name": "José Rocha",
+    "stateCode": "BA",
+    "party": "UNIÃO",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74554.jpg",
+    "slug": "josé-rocha"
+  },
+  "mandateTotals": {
+    "amountNet": 538913.66,
+    "amountGross": 558837.39,
+    "amountAdjustments": -19923.73,
+    "recordsCount": 470,
+    "byCategoryNet": {
+      "ALIMENTACAO": 60.0,
+      "COMBUSTIVEL": 94807.38,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 9832.16,
+      "DESLOCAMENTO": 240083.05,
+      "DIVULGACAO": 181559.03,
+      "ESCRITORIO": 10311.19,
+      "HOSPEDAGEM": 2260.85,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 60.0,
+      "COMBUSTIVEL": 94807.38,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 9832.16,
+      "DESLOCAMENTO": 260006.78,
+      "DIVULGACAO": 181559.03,
+      "ESCRITORIO": 10311.19,
+      "HOSPEDAGEM": 2260.85,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -19923.73,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 538913.66
+  },
+  "monthTotals": {
+    "2023-01": 22572.37,
+    "2023-02": 24111.94,
+    "2023-03": 72291.49,
+    "2023-04": 40136.33,
+    "2023-05": 68270.87,
+    "2023-06": 38588.3,
+    "2023-07": 48915.34,
+    "2023-08": 48636.64,
+    "2023-09": 49203.75,
+    "2023-10": 53869.24,
+    "2023-11": 45736.39,
+    "2023-12": 26581.0
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 240083.05,
+    "percent": 44.55
+  }
+}

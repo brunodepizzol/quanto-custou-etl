@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 160527,
+    "generatedAt": "2026-03-17T02:25:05.049063Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 160527,
+    "name": "Aguinaldo Ribeiro",
+    "stateCode": "PB",
+    "party": "PP",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160527.jpg",
+    "slug": "aguinaldo-ribeiro"
+  },
+  "mandateTotals": {
+    "amountNet": 501497.65,
+    "amountGross": 537820.15,
+    "amountAdjustments": -36322.5,
+    "recordsCount": 552,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 50816.34,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 11215.12,
+      "DESLOCAMENTO": 298895.34,
+      "DIVULGACAO": 133500.0,
+      "ESCRITORIO": 7070.85,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 50816.34,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 11215.12,
+      "DESLOCAMENTO": 335217.84,
+      "DIVULGACAO": 133500.0,
+      "ESCRITORIO": 7070.85,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -36322.5,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 501497.65
+  },
+  "monthTotals": {
+    "2023-01": 6435.8,
+    "2023-02": 39881.52,
+    "2023-03": 58604.83,
+    "2023-04": 36382.27,
+    "2023-05": 28107.67,
+    "2023-06": 28050.75,
+    "2023-07": 56369.52,
+    "2023-08": 50538.57,
+    "2023-09": 46523.23,
+    "2023-10": 55673.45,
+    "2023-11": 46954.84,
+    "2023-12": 47975.2
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 298895.34,
+    "percent": 59.6
+  }
+}

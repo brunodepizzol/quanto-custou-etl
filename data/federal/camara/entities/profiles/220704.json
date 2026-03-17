@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220704,
+    "generatedAt": "2026-03-17T02:25:05.118536Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220704,
+    "name": "Carol Dartora",
+    "stateCode": "PR",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
+    "slug": "carol-dartora"
+  },
+  "mandateTotals": {
+    "amountNet": 470323.29,
+    "amountGross": 477038.53,
+    "amountAdjustments": -6715.24,
+    "recordsCount": 780,
+    "byCategoryNet": {
+      "ALIMENTACAO": 325.19,
+      "COMBUSTIVEL": 17380.02,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 701.49,
+      "DESLOCAMENTO": 160752.94,
+      "DIVULGACAO": 150000.0,
+      "ESCRITORIO": 137434.98,
+      "HOSPEDAGEM": 3728.67,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 325.19,
+      "COMBUSTIVEL": 17380.02,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 701.49,
+      "DESLOCAMENTO": 167468.18,
+      "DIVULGACAO": 150000.0,
+      "ESCRITORIO": 137434.98,
+      "HOSPEDAGEM": 3728.67,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -6715.24,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 470323.29
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 26505.81,
+    "2023-03": 35319.97,
+    "2023-04": 41973.48,
+    "2023-05": 44464.31,
+    "2023-06": 44260.65,
+    "2023-07": 45191.71,
+    "2023-08": 47674.95,
+    "2023-09": 48630.86,
+    "2023-10": 40487.17,
+    "2023-11": 48213.67,
+    "2023-12": 47600.71
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 160752.94,
+    "percent": 34.18
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220561,
+    "generatedAt": "2026-03-17T02:25:05.098908Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220561,
+    "name": "Delegada Katarina",
+    "stateCode": "SE",
+    "party": "PSD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220561.jpg",
+    "slug": "delegada-katarina"
+  },
+  "mandateTotals": {
+    "amountNet": 534342.54,
+    "amountGross": 547961.94,
+    "amountAdjustments": -13619.4,
+    "recordsCount": 694,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 86142.91,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6338.17,
+      "DESLOCAMENTO": 271517.78,
+      "DIVULGACAO": 129040.8,
+      "ESCRITORIO": 11768.7,
+      "HOSPEDAGEM": 29534.18,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 86142.91,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6338.17,
+      "DESLOCAMENTO": 285137.18,
+      "DIVULGACAO": 129040.8,
+      "ESCRITORIO": 11768.7,
+      "HOSPEDAGEM": 29534.18,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -13619.4,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 534342.54
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 30725.43,
+    "2023-03": 59316.49,
+    "2023-04": 41664.53,
+    "2023-05": 61658.39,
+    "2023-06": 45840.72,
+    "2023-07": 43748.08,
+    "2023-08": 71965.9,
+    "2023-09": 42991.57,
+    "2023-10": 48324.08,
+    "2023-11": 45716.51,
+    "2023-12": 42390.84
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 271517.78,
+    "percent": 50.81
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204520,
+    "generatedAt": "2026-03-17T02:25:05.087817Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204520,
+    "name": "Junio Amaral",
+    "stateCode": "MG",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204520.jpg",
+    "slug": "junio-amaral"
+  },
+  "mandateTotals": {
+    "amountNet": 307197.59,
+    "amountGross": 313857.53,
+    "amountAdjustments": -6659.94,
+    "recordsCount": 564,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 53613.7,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1223.03,
+      "DESLOCAMENTO": 180771.1,
+      "DIVULGACAO": 46850.0,
+      "ESCRITORIO": 19284.52,
+      "HOSPEDAGEM": 5455.24,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 53613.7,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1223.03,
+      "DESLOCAMENTO": 187431.04,
+      "DIVULGACAO": 46850.0,
+      "ESCRITORIO": 19284.52,
+      "HOSPEDAGEM": 5455.24,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -6659.94,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 307197.59
+  },
+  "monthTotals": {
+    "2023-01": 233.8,
+    "2023-02": 22091.32,
+    "2023-03": 24232.1,
+    "2023-04": 32137.65,
+    "2023-05": 20980.29,
+    "2023-06": 24216.23,
+    "2023-07": 24619.45,
+    "2023-08": 21002.07,
+    "2023-09": 27052.06,
+    "2023-10": 31633.25,
+    "2023-11": 35116.53,
+    "2023-12": 43882.84
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 180771.1,
+    "percent": 58.85
+  }
+}

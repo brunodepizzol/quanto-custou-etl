@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 74041,
+    "generatedAt": "2026-03-17T02:25:05.033436Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 74041,
+    "name": "Luiz Couto",
+    "stateCode": "PB",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74041.jpg",
+    "slug": "luiz-couto"
+  },
+  "mandateTotals": {
+    "amountNet": 545800.94,
+    "amountGross": 556636.55,
+    "amountAdjustments": -10835.61,
+    "recordsCount": 387,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 64471.45,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 4853.93,
+      "DESLOCAMENTO": 285256.62,
+      "DIVULGACAO": 93426.6,
+      "ESCRITORIO": 95775.14,
+      "HOSPEDAGEM": 2017.2,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 64471.45,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 4853.93,
+      "DESLOCAMENTO": 296092.23,
+      "DIVULGACAO": 93426.6,
+      "ESCRITORIO": 95775.14,
+      "HOSPEDAGEM": 2017.2,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -10835.61,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 545800.94
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 44795.35,
+    "2023-03": 60582.57,
+    "2023-04": 49106.58,
+    "2023-05": 55655.64,
+    "2023-06": 50196.16,
+    "2023-07": 39003.75,
+    "2023-08": 50401.01,
+    "2023-09": 48549.39,
+    "2023-10": 55858.86,
+    "2023-11": 55231.99,
+    "2023-12": 36419.64
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 285256.62,
+    "percent": 52.26
+  }
+}

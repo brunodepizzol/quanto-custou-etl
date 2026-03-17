@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204517,
+    "generatedAt": "2026-03-17T02:25:05.087490Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204517,
+    "name": "Zé Vitor",
+    "stateCode": "MG",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204517.jpg",
+    "slug": "zé-vitor"
+  },
+  "mandateTotals": {
+    "amountNet": 466452.93,
+    "amountGross": 477252.69,
+    "amountAdjustments": -10799.76,
+    "recordsCount": 440,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 80733.26,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": 37426.61,
+      "DIVULGACAO": 341711.0,
+      "ESCRITORIO": 4005.76,
+      "HOSPEDAGEM": 2576.3,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 80733.26,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": 48226.37,
+      "DIVULGACAO": 341711.0,
+      "ESCRITORIO": 4005.76,
+      "HOSPEDAGEM": 2576.3,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -10799.76,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 466452.93
+  },
+  "monthTotals": {
+    "2023-01": 34.58,
+    "2023-02": 34579.91,
+    "2023-03": 38093.07,
+    "2023-04": 46664.29,
+    "2023-05": 51111.02,
+    "2023-06": 43694.96,
+    "2023-07": 39435.04,
+    "2023-08": 63756.12,
+    "2023-09": 48860.83,
+    "2023-10": 41410.7,
+    "2023-11": 37507.98,
+    "2023-12": 21304.43
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 341711.0,
+    "percent": 73.26
+  }
+}

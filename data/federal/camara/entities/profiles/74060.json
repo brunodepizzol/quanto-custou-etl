@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 74060,
+    "generatedAt": "2026-03-17T02:25:05.034006Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 74060,
+    "name": "Daniel Almeida",
+    "stateCode": "BA",
+    "party": "PCdoB",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74060.jpg",
+    "slug": "daniel-almeida"
+  },
+  "mandateTotals": {
+    "amountNet": 544523.07,
+    "amountGross": 569303.54,
+    "amountAdjustments": -24780.47,
+    "recordsCount": 291,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 60156.1,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 10931.64,
+      "DESLOCAMENTO": 136682.5,
+      "DIVULGACAO": 291541.0,
+      "ESCRITORIO": 45211.83,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 60156.1,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 10931.64,
+      "DESLOCAMENTO": 161462.97,
+      "DIVULGACAO": 291541.0,
+      "ESCRITORIO": 45211.83,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -24780.47,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 544523.07
+  },
+  "monthTotals": {
+    "2023-01": 8915.87,
+    "2023-02": 52992.18,
+    "2023-03": 65624.81,
+    "2023-04": 43475.2,
+    "2023-05": 58007.17,
+    "2023-06": 46827.54,
+    "2023-07": 51541.61,
+    "2023-08": 51959.28,
+    "2023-09": 52893.86,
+    "2023-10": 47239.98,
+    "2023-11": 50457.84,
+    "2023-12": 14587.73
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 291541.0,
+    "percent": 53.54
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220552,
+    "generatedAt": "2026-03-17T02:25:05.097334Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220552,
+    "name": "Zucco",
+    "stateCode": "RS",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220552.jpg",
+    "slug": "zucco"
+  },
+  "mandateTotals": {
+    "amountNet": 278089.53,
+    "amountGross": 291464.69,
+    "amountAdjustments": -13375.16,
+    "recordsCount": 446,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 47767.76,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": 124678.03,
+      "DIVULGACAO": 37542.95,
+      "ESCRITORIO": 62495.68,
+      "HOSPEDAGEM": 5605.11,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 47767.76,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": 138053.19,
+      "DIVULGACAO": 37542.95,
+      "ESCRITORIO": 62495.68,
+      "HOSPEDAGEM": 5605.11,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -13375.16,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 278089.53
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 20419.2,
+    "2023-03": 26551.91,
+    "2023-04": 5229.96,
+    "2023-05": 25036.81,
+    "2023-06": 34767.9,
+    "2023-07": 17763.61,
+    "2023-08": 27029.38,
+    "2023-09": 30683.12,
+    "2023-10": 33888.08,
+    "2023-11": 28700.63,
+    "2023-12": 28018.93
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 124678.03,
+    "percent": 44.83
+  }
+}

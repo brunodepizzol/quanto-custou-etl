@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220612,
+    "generatedAt": "2026-03-17T02:25:05.105898Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220612,
+    "name": "Bebeto",
+    "stateCode": "RJ",
+    "party": "PP",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220612.jpg",
+    "slug": "bebeto"
+  },
+  "mandateTotals": {
+    "amountNet": 476599.31,
+    "amountGross": 477674.26,
+    "amountAdjustments": -1074.95,
+    "recordsCount": 326,
+    "byCategoryNet": {
+      "ALIMENTACAO": 814.06,
+      "COMBUSTIVEL": 31726.69,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1350.48,
+      "DESLOCAMENTO": 176771.34,
+      "DIVULGACAO": 164642.65,
+      "ESCRITORIO": 101294.09,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 814.06,
+      "COMBUSTIVEL": 31726.69,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1350.48,
+      "DESLOCAMENTO": 177846.29,
+      "DIVULGACAO": 164642.65,
+      "ESCRITORIO": 101294.09,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -1074.95,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 476599.31
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 29237.91,
+    "2023-03": 42784.67,
+    "2023-04": 35773.79,
+    "2023-05": 33551.41,
+    "2023-06": 31549.6,
+    "2023-07": 33030.44,
+    "2023-08": 34327.25,
+    "2023-09": 44955.6,
+    "2023-10": 29419.0,
+    "2023-11": 29407.13,
+    "2023-12": 132562.51
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 176771.34,
+    "percent": 37.09
+  }
+}

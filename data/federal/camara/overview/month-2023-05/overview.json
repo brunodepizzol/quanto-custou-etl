@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2023-05",
+    "generatedAt": "2026-03-17T01:46:29.723771Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 18885385.21,
+    "amountGross": 19492723.51,
+    "amountAdjustments": -607338.3,
+    "recordsCount": 18933,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 466,
+    "entitiesWithoutSpending": 47
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 220700,
+      "name": "Florentino Neto",
+      "stateCode": "PI",
+      "party": "PT",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220700.jpg",
+      "amountNet": 116087.39,
+      "amountGross": 117453.76,
+      "amountAdjustments": -1366.37
+    },
+    "topCategories": [
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 7501901.31,
+        "amountGross": 8109239.61,
+        "amountAdjustments": -607338.3
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 6632070.42,
+        "amountGross": 6632070.42,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2569710.01,
+        "amountGross": 2569710.01,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1633828.84,
+        "amountGross": 1633828.84,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 227564.01,
+        "amountGross": 227564.01,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 223198.82,
+        "amountGross": 223198.82,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 80511.8,
+        "amountGross": 80511.8,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 16600.0,
+        "amountGross": 16600.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2272836.71,
+        "amountGross": 2342648.34,
+        "amountAdjustments": -69811.63
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 1911059.23,
+        "amountGross": 1965590.97,
+        "amountAdjustments": -54531.74
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1584843.24,
+        "amountGross": 1650610.68,
+        "amountAdjustments": -65767.44
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1526553.43,
+        "amountGross": 1598020.81,
+        "amountAdjustments": -71467.38
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1196516.21,
+        "amountGross": 1215471.12,
+        "amountAdjustments": -18954.91
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1079468.75,
+        "amountGross": 1095118.13,
+        "amountAdjustments": -15649.38
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 973664.35,
+        "amountGross": 1023368.12,
+        "amountAdjustments": -49703.77
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 817141.57,
+        "amountGross": 839596.38,
+        "amountAdjustments": -22454.81
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 727938.65,
+        "amountGross": 747547.07,
+        "amountAdjustments": -19608.42
+      },
+      {
+        "stateCode": "PI",
+        "amountNet": 597455.36,
+        "amountGross": 601166.51,
+        "amountAdjustments": -3711.15
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 566201.03,
+        "amountGross": 566201.03,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 552674.34,
+        "amountGross": 595216.32,
+        "amountAdjustments": -42541.98
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 875540.89,
+      "percent": 4.64
+    },
+    "averages": {
+      "perEntityWithSpending": 40526.58,
+      "perRecord": 997.49
+    },
+    "dailyTotals": {
+      "referenceDate": "2023-08-28",
+      "amountNet": 30000.0,
+      "previousAmountNet": 2300.0,
+      "deltaAmountNet": 27700.0,
+      "deltaPercent": 1204.35,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2023-08-08",
+          "amountNet": 12000.0
+        },
+        {
+          "date": "2023-08-10",
+          "amountNet": 21912.11
+        },
+        {
+          "date": "2023-08-15",
+          "amountNet": 12079.8
+        },
+        {
+          "date": "2023-08-17",
+          "amountNet": 7000.0
+        },
+        {
+          "date": "2023-08-23",
+          "amountNet": 12000.0
+        },
+        {
+          "date": "2023-08-24",
+          "amountNet": 2300.0
+        },
+        {
+          "date": "2023-08-28",
+          "amountNet": 30000.0
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2023-08-28",
+      "entity": {
+        "id": 204539,
+        "name": "Hercílio Coelho Diniz",
+        "stateCode": "MG",
+        "party": "MDB",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204539.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 30000.0,
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "FRAMIN AGENCIA DECOMUNICAÇÃO LTDA",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3268/2023/7598619.pdf"
+    }
+  }
+}

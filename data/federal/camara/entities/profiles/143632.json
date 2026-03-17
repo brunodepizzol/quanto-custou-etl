@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 143632,
+    "generatedAt": "2026-03-17T02:25:05.047313Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 143632,
+    "name": "Domingos Neto",
+    "stateCode": "CE",
+    "party": "PSD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/143632.jpg",
+    "slug": "domingos-neto"
+  },
+  "mandateTotals": {
+    "amountNet": 525542.78,
+    "amountGross": 544989.69,
+    "amountAdjustments": -19446.91,
+    "recordsCount": 161,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 13000.0,
+      "CORREIOS_TELEFONIA": 1440.26,
+      "DESLOCAMENTO": 275249.65,
+      "DIVULGACAO": 207050.0,
+      "ESCRITORIO": 28802.87,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 13000.0,
+      "CORREIOS_TELEFONIA": 1440.26,
+      "DESLOCAMENTO": 294696.56,
+      "DIVULGACAO": 207050.0,
+      "ESCRITORIO": 28802.87,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -19446.91,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 525542.78
+  },
+  "monthTotals": {
+    "2023-01": 15734.13,
+    "2023-02": 38819.23,
+    "2023-03": 41937.14,
+    "2023-04": 50088.68,
+    "2023-05": 62692.9,
+    "2023-06": 45086.8,
+    "2023-07": 48430.01,
+    "2023-08": 50273.54,
+    "2023-09": 53382.88,
+    "2023-10": 58517.87,
+    "2023-11": 45720.11,
+    "2023-12": 14859.49
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 275249.65,
+    "percent": 52.37
+  }
+}

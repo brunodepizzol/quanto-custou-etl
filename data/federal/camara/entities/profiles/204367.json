@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204367,
+    "generatedAt": "2026-03-17T02:25:05.066399Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204367,
+    "name": "Daniel Freitas",
+    "stateCode": "SC",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204367.jpg",
+    "slug": "daniel-freitas"
+  },
+  "mandateTotals": {
+    "amountNet": 515852.64,
+    "amountGross": 609024.97,
+    "amountAdjustments": -93172.33,
+    "recordsCount": 652,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 51754.89,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2009.49,
+      "DESLOCAMENTO": 284030.56,
+      "DIVULGACAO": 30590.0,
+      "ESCRITORIO": 108846.97,
+      "HOSPEDAGEM": 38620.73,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 51754.89,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2009.49,
+      "DESLOCAMENTO": 377202.89,
+      "DIVULGACAO": 30590.0,
+      "ESCRITORIO": 108846.97,
+      "HOSPEDAGEM": 38620.73,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -93172.33,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 515852.64
+  },
+  "monthTotals": {
+    "2023-01": 6664.99,
+    "2023-02": 35852.64,
+    "2023-03": 63502.66,
+    "2023-04": 36980.9,
+    "2023-05": 36101.3,
+    "2023-06": 43245.97,
+    "2023-07": 51831.72,
+    "2023-08": 76501.68,
+    "2023-09": 63176.97,
+    "2023-10": 49457.13,
+    "2023-11": 36342.93,
+    "2023-12": 16193.75
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 284030.56,
+    "percent": 55.06
+  }
+}

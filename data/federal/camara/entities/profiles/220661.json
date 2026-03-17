@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220661,
+    "generatedAt": "2026-03-17T02:25:05.112207Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220661,
+    "name": "Matheus Noronha",
+    "stateCode": "CE",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220661.jpg",
+    "slug": "matheus-noronha"
+  },
+  "mandateTotals": {
+    "amountNet": 299121.74,
+    "amountGross": 320764.84,
+    "amountAdjustments": -21643.1,
+    "recordsCount": 213,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 13239.31,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": 161014.15,
+      "DIVULGACAO": 77400.0,
+      "ESCRITORIO": 47468.28,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 13239.31,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": 182657.25,
+      "DIVULGACAO": 77400.0,
+      "ESCRITORIO": 47468.28,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -21643.1,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 299121.74
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 23843.67,
+    "2023-03": 19110.13,
+    "2023-04": 25278.0,
+    "2023-05": 26126.91,
+    "2023-06": 22829.38,
+    "2023-07": 17042.06,
+    "2023-08": 25762.09,
+    "2023-09": 21242.84,
+    "2023-10": 31823.83,
+    "2023-11": 42868.58,
+    "2023-12": 43194.25
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 161014.15,
+    "percent": 53.83
+  }
+}

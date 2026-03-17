@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 160541,
+    "generatedAt": "2026-03-17T02:25:05.049538Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 160541,
+    "name": "Arthur Lira",
+    "stateCode": "AL",
+    "party": "PP",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160541.jpg",
+    "slug": "arthur-lira"
+  },
+  "mandateTotals": {
+    "amountNet": 109541.74,
+    "amountGross": 110909.25,
+    "amountAdjustments": -1367.51,
+    "recordsCount": 148,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 23567.32,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2586.76,
+      "DESLOCAMENTO": 80387.66,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 3000.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 23567.32,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2586.76,
+      "DESLOCAMENTO": 81755.17,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 3000.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -1367.51,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 109541.74
+  },
+  "monthTotals": {
+    "2023-01": 232.86,
+    "2023-02": 19242.18,
+    "2023-03": 26549.3,
+    "2023-04": 17611.22,
+    "2023-05": 22014.13,
+    "2023-06": 1629.64,
+    "2023-07": 2183.04,
+    "2023-08": 3333.6,
+    "2023-09": 3502.89,
+    "2023-10": 3673.89,
+    "2023-11": 4554.32,
+    "2023-12": 5014.67
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 80387.66,
+    "percent": 73.39
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204511,
+    "generatedAt": "2026-03-17T02:25:05.086897Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204511,
+    "name": "David Soares",
+    "stateCode": "SP",
+    "party": "UNIÃO",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204511.jpg",
+    "slug": "david-soares"
+  },
+  "mandateTotals": {
+    "amountNet": 490314.12,
+    "amountGross": 539018.05,
+    "amountAdjustments": -48703.93,
+    "recordsCount": 507,
+    "byCategoryNet": {
+      "ALIMENTACAO": 5084.91,
+      "COMBUSTIVEL": 18079.36,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 10641.05,
+      "DESLOCAMENTO": 284759.64,
+      "DIVULGACAO": 119089.4,
+      "ESCRITORIO": 46787.45,
+      "HOSPEDAGEM": 5872.31,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 5084.91,
+      "COMBUSTIVEL": 18079.36,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 10641.05,
+      "DESLOCAMENTO": 333463.57,
+      "DIVULGACAO": 119089.4,
+      "ESCRITORIO": 46787.45,
+      "HOSPEDAGEM": 5872.31,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -48703.93,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 490314.12
+  },
+  "monthTotals": {
+    "2023-01": 113.69,
+    "2023-02": 27559.91,
+    "2023-03": 37387.9,
+    "2023-04": 38280.19,
+    "2023-05": 35374.35,
+    "2023-06": 53319.0,
+    "2023-07": 29787.18,
+    "2023-08": 33411.29,
+    "2023-09": 38259.78,
+    "2023-10": 70207.66,
+    "2023-11": 69790.61,
+    "2023-12": 56822.56
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 284759.64,
+    "percent": 58.08
+  }
+}

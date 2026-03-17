@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 171617,
+    "generatedAt": "2026-03-17T02:25:05.055524Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 171617,
+    "name": "Paulão",
+    "stateCode": "AL",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/171617.jpg",
+    "slug": "paulão"
+  },
+  "mandateTotals": {
+    "amountNet": 367932.05,
+    "amountGross": 377634.16,
+    "amountAdjustments": -9702.11,
+    "recordsCount": 227,
+    "byCategoryNet": {
+      "ALIMENTACAO": 1192.41,
+      "COMBUSTIVEL": 8582.35,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6189.74,
+      "DESLOCAMENTO": 230564.62,
+      "DIVULGACAO": 87000.0,
+      "ESCRITORIO": 34402.93,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 1192.41,
+      "COMBUSTIVEL": 8582.35,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6189.74,
+      "DESLOCAMENTO": 240266.73,
+      "DIVULGACAO": 87000.0,
+      "ESCRITORIO": 34402.93,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -9702.11,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 367932.05
+  },
+  "monthTotals": {
+    "2023-01": 13963.77,
+    "2023-02": 29562.08,
+    "2023-03": 39215.18,
+    "2023-04": 28139.67,
+    "2023-05": 41717.97,
+    "2023-06": 22976.59,
+    "2023-07": 26514.79,
+    "2023-08": 29629.05,
+    "2023-09": 41315.53,
+    "2023-10": 25651.22,
+    "2023-11": 28081.23,
+    "2023-12": 41164.97
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 230564.62,
+    "percent": 62.67
+  }
+}

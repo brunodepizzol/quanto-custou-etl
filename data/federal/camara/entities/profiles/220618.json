@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220618,
+    "generatedAt": "2026-03-17T02:25:05.106794Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220618,
+    "name": "Sargento Portugal",
+    "stateCode": "RJ",
+    "party": "PODE",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220618.jpg",
+    "slug": "sargento-portugal"
+  },
+  "mandateTotals": {
+    "amountNet": 357983.7,
+    "amountGross": 361582.49,
+    "amountAdjustments": -3598.79,
+    "recordsCount": 363,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 13135.75,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2102.3,
+      "DESLOCAMENTO": 200467.08,
+      "DIVULGACAO": 102630.0,
+      "ESCRITORIO": 39648.57,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 13135.75,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2102.3,
+      "DESLOCAMENTO": 204065.87,
+      "DIVULGACAO": 102630.0,
+      "ESCRITORIO": 39648.57,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -3598.79,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 357983.7
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 27374.91,
+    "2023-03": 37320.76,
+    "2023-04": 32104.18,
+    "2023-05": 33587.84,
+    "2023-06": 19743.28,
+    "2023-07": 25994.91,
+    "2023-08": 31653.33,
+    "2023-09": 43589.51,
+    "2023-10": 33189.93,
+    "2023-11": 36030.26,
+    "2023-12": 37394.79
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 200467.08,
+    "percent": 56.0
+  }
+}

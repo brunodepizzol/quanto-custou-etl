@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 178933,
+    "generatedAt": "2026-03-17T02:25:05.059913Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 178933,
+    "name": "Sergio Souza",
+    "stateCode": "PR",
+    "party": "MDB",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/178933.jpg",
+    "slug": "sergio-souza"
+  },
+  "mandateTotals": {
+    "amountNet": 496969.07,
+    "amountGross": 519699.78,
+    "amountAdjustments": -22730.71,
+    "recordsCount": 817,
+    "byCategoryNet": {
+      "ALIMENTACAO": 503.26,
+      "COMBUSTIVEL": 56375.79,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 10542.45,
+      "DESLOCAMENTO": 218441.98,
+      "DIVULGACAO": 84798.72,
+      "ESCRITORIO": 106867.52,
+      "HOSPEDAGEM": 19439.35,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 503.26,
+      "COMBUSTIVEL": 56375.79,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 10542.45,
+      "DESLOCAMENTO": 241172.69,
+      "DIVULGACAO": 84798.72,
+      "ESCRITORIO": 106867.52,
+      "HOSPEDAGEM": 19439.35,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -22730.71,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 496969.07
+  },
+  "monthTotals": {
+    "2023-01": 13392.9,
+    "2023-02": 48278.81,
+    "2023-03": 40844.01,
+    "2023-04": 40280.73,
+    "2023-05": 43120.89,
+    "2023-06": 33714.65,
+    "2023-07": 28566.29,
+    "2023-08": 43785.24,
+    "2023-09": 39669.35,
+    "2023-10": 30547.79,
+    "2023-11": 32418.82,
+    "2023-12": 102349.59
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 218441.98,
+    "percent": 43.95
+  }
+}

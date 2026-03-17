@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204460,
+    "generatedAt": "2026-03-17T02:25:05.082711Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204460,
+    "name": "Carlos Jordy",
+    "stateCode": "RJ",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204460.jpg",
+    "slug": "carlos-jordy"
+  },
+  "mandateTotals": {
+    "amountNet": 475307.83,
+    "amountGross": 478081.37,
+    "amountAdjustments": -2773.54,
+    "recordsCount": 498,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 46954.66,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 4625.18,
+      "DESLOCAMENTO": 205082.17,
+      "DIVULGACAO": 130700.0,
+      "ESCRITORIO": 87945.82,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 46954.66,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 4625.18,
+      "DESLOCAMENTO": 207855.71,
+      "DIVULGACAO": 130700.0,
+      "ESCRITORIO": 87945.82,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -2773.54,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 475307.83
+  },
+  "monthTotals": {
+    "2023-01": 553.65,
+    "2023-02": 28961.3,
+    "2023-03": 34500.77,
+    "2023-04": 38431.15,
+    "2023-05": 41121.74,
+    "2023-06": 36089.21,
+    "2023-07": 31606.34,
+    "2023-08": 40105.2,
+    "2023-09": 39765.28,
+    "2023-10": 37003.22,
+    "2023-11": 63205.04,
+    "2023-12": 83964.93
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 205082.17,
+    "percent": 43.15
+  }
+}

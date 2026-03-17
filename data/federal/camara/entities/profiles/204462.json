@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204462,
+    "generatedAt": "2026-03-17T02:25:05.082868Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204462,
+    "name": "Chris Tonietto",
+    "stateCode": "RJ",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204462.jpg",
+    "slug": "chris-tonietto"
+  },
+  "mandateTotals": {
+    "amountNet": 303899.32,
+    "amountGross": 305338.63,
+    "amountAdjustments": -1439.31,
+    "recordsCount": 594,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 9364.12,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1675.94,
+      "DESLOCAMENTO": 226053.21,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 60083.55,
+      "HOSPEDAGEM": 6722.5,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 9364.12,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1675.94,
+      "DESLOCAMENTO": 227492.52,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 60083.55,
+      "HOSPEDAGEM": 6722.5,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -1439.31,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 303899.32
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 15820.43,
+    "2023-03": 24832.25,
+    "2023-04": 5120.7,
+    "2023-05": 4708.28,
+    "2023-06": 9051.74,
+    "2023-07": 19977.96,
+    "2023-08": 19907.26,
+    "2023-09": 26295.19,
+    "2023-10": 50588.12,
+    "2023-11": 23730.44,
+    "2023-12": 103866.95
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 226053.21,
+    "percent": 74.38
+  }
+}

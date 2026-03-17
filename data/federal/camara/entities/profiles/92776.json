@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 92776,
+    "generatedAt": "2026-03-17T02:25:05.041150Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 92776,
+    "name": "Stefano Aguiar",
+    "stateCode": "MG",
+    "party": "PSD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/92776.jpg",
+    "slug": "stefano-aguiar"
+  },
+  "mandateTotals": {
+    "amountNet": 508448.61,
+    "amountGross": 508738.61,
+    "amountAdjustments": -290.0,
+    "recordsCount": 361,
+    "byCategoryNet": {
+      "ALIMENTACAO": 585.76,
+      "COMBUSTIVEL": 27362.54,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 13175.29,
+      "DESLOCAMENTO": 195442.53,
+      "DIVULGACAO": 80500.0,
+      "ESCRITORIO": 187937.79,
+      "HOSPEDAGEM": 3444.7,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 585.76,
+      "COMBUSTIVEL": 27362.54,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 13175.29,
+      "DESLOCAMENTO": 195732.53,
+      "DIVULGACAO": 80500.0,
+      "ESCRITORIO": 187937.79,
+      "HOSPEDAGEM": 3444.7,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -290.0,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 508448.61
+  },
+  "monthTotals": {
+    "2023-01": 12548.19,
+    "2023-02": 49741.48,
+    "2023-03": 61836.06,
+    "2023-04": 39590.45,
+    "2023-05": 38068.08,
+    "2023-06": 39767.76,
+    "2023-07": 49309.88,
+    "2023-08": 48008.32,
+    "2023-09": 44357.11,
+    "2023-10": 43728.55,
+    "2023-11": 40637.78,
+    "2023-12": 40854.95
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 195442.53,
+    "percent": 38.44
+  }
+}

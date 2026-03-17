@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220586,
+    "generatedAt": "2026-03-17T02:25:05.102346Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220586,
+    "name": "Rafael Brito",
+    "stateCode": "AL",
+    "party": "MDB",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220586.jpg",
+    "slug": "rafael-brito"
+  },
+  "mandateTotals": {
+    "amountNet": 513126.46,
+    "amountGross": 597481.41,
+    "amountAdjustments": -84354.95,
+    "recordsCount": 451,
+    "byCategoryNet": {
+      "ALIMENTACAO": 872.29,
+      "COMBUSTIVEL": 24968.24,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1209.9,
+      "DESLOCAMENTO": 204794.9,
+      "DIVULGACAO": 233658.97,
+      "ESCRITORIO": 42852.4,
+      "HOSPEDAGEM": 4769.76,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 872.29,
+      "COMBUSTIVEL": 24968.24,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1209.9,
+      "DESLOCAMENTO": 289149.85,
+      "DIVULGACAO": 233658.97,
+      "ESCRITORIO": 42852.4,
+      "HOSPEDAGEM": 4769.76,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -84354.95,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 513126.46
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 71514.98,
+    "2023-03": 63776.47,
+    "2023-04": 51539.2,
+    "2023-05": 34460.77,
+    "2023-06": 47309.38,
+    "2023-07": 34944.14,
+    "2023-08": 59261.66,
+    "2023-09": 32940.58,
+    "2023-10": 38721.94,
+    "2023-11": 44908.17,
+    "2023-12": 33749.17
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 233658.97,
+    "percent": 45.54
+  }
+}

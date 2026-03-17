@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 160553,
+    "generatedAt": "2026-03-17T02:25:05.050154Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 160553,
+    "name": "Antonio Brito",
+    "stateCode": "BA",
+    "party": "PSD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160553.jpg",
+    "slug": "antonio-brito"
+  },
+  "mandateTotals": {
+    "amountNet": 525044.42,
+    "amountGross": 617203.42,
+    "amountAdjustments": -92159.0,
+    "recordsCount": 636,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 35931.64,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 28800.95,
+      "DESLOCAMENTO": 307292.21,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 153019.62,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 35931.64,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 28800.95,
+      "DESLOCAMENTO": 399451.21,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 153019.62,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -92159.0,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 525044.42
+  },
+  "monthTotals": {
+    "2023-01": 10659.28,
+    "2023-02": 41321.0,
+    "2023-03": 46597.73,
+    "2023-04": 36993.73,
+    "2023-05": 47113.0,
+    "2023-06": 42767.71,
+    "2023-07": 57318.34,
+    "2023-08": 57196.11,
+    "2023-09": 45932.12,
+    "2023-10": 56327.14,
+    "2023-11": 36064.38,
+    "2023-12": 46753.88
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 307292.21,
+    "percent": 58.53
+  }
+}

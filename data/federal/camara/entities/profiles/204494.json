@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204494,
+    "generatedAt": "2026-03-17T02:25:05.085433Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204494,
+    "name": "Fred Costa",
+    "stateCode": "MG",
+    "party": "PRD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204494.jpg",
+    "slug": "fred-costa"
+  },
+  "mandateTotals": {
+    "amountNet": 416833.58,
+    "amountGross": 451612.62,
+    "amountAdjustments": -34779.04,
+    "recordsCount": 561,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 44126.64,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 4561.31,
+      "DESLOCAMENTO": 216971.21,
+      "DIVULGACAO": 64262.5,
+      "ESCRITORIO": 85612.42,
+      "HOSPEDAGEM": 1299.5,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 44126.64,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 4561.31,
+      "DESLOCAMENTO": 251750.25,
+      "DIVULGACAO": 64262.5,
+      "ESCRITORIO": 85612.42,
+      "HOSPEDAGEM": 1299.5,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -34779.04,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 416833.58
+  },
+  "monthTotals": {
+    "2023-01": 934.53,
+    "2023-02": 41231.14,
+    "2023-03": 35079.86,
+    "2023-04": 27589.97,
+    "2023-05": 26622.73,
+    "2023-06": 32651.86,
+    "2023-07": 48751.71,
+    "2023-08": 45655.43,
+    "2023-09": 43614.06,
+    "2023-10": 40462.86,
+    "2023-11": 44709.45,
+    "2023-12": 29529.98
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 216971.21,
+    "percent": 52.05
+  }
+}

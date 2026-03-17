@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220667,
+    "generatedAt": "2026-03-17T02:25:05.113181Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220667,
+    "name": "Pedro Campos",
+    "stateCode": "PE",
+    "party": "PSB",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220667.jpg",
+    "slug": "pedro-campos"
+  },
+  "mandateTotals": {
+    "amountNet": 416436.63,
+    "amountGross": 447328.96,
+    "amountAdjustments": -30892.33,
+    "recordsCount": 561,
+    "byCategoryNet": {
+      "ALIMENTACAO": 1367.44,
+      "COMBUSTIVEL": 37828.23,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2079.95,
+      "DESLOCAMENTO": 241851.55,
+      "DIVULGACAO": 38982.07,
+      "ESCRITORIO": 75977.74,
+      "HOSPEDAGEM": 18349.65,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 1367.44,
+      "COMBUSTIVEL": 37828.23,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2079.95,
+      "DESLOCAMENTO": 272743.88,
+      "DIVULGACAO": 38982.07,
+      "ESCRITORIO": 75977.74,
+      "HOSPEDAGEM": 18349.65,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -30892.33,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 416436.63
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 28415.88,
+    "2023-03": 41099.43,
+    "2023-04": 33825.08,
+    "2023-05": 29134.59,
+    "2023-06": 37436.5,
+    "2023-07": 32264.82,
+    "2023-08": 30085.12,
+    "2023-09": 34801.67,
+    "2023-10": 37627.96,
+    "2023-11": 40701.27,
+    "2023-12": 71044.31
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 241851.55,
+    "percent": 58.08
+  }
+}

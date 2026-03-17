@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 160535,
+    "generatedAt": "2026-03-17T02:25:05.049230Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 160535,
+    "name": "Marcon",
+    "stateCode": "RS",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160535.jpg",
+    "slug": "marcon"
+  },
+  "mandateTotals": {
+    "amountNet": 412340.99,
+    "amountGross": 480916.37,
+    "amountAdjustments": -68575.38,
+    "recordsCount": 943,
+    "byCategoryNet": {
+      "ALIMENTACAO": 4251.25,
+      "COMBUSTIVEL": 77190.29,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 18582.84,
+      "DESLOCAMENTO": 103650.06,
+      "DIVULGACAO": 123275.94,
+      "ESCRITORIO": 68490.11,
+      "HOSPEDAGEM": 16900.5,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 4251.25,
+      "COMBUSTIVEL": 77190.29,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 18582.84,
+      "DESLOCAMENTO": 172225.44,
+      "DIVULGACAO": 123275.94,
+      "ESCRITORIO": 68490.11,
+      "HOSPEDAGEM": 16900.5,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -68575.38,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 412340.99
+  },
+  "monthTotals": {
+    "2023-01": 1378.37,
+    "2023-02": 50946.99,
+    "2023-03": 36982.83,
+    "2023-04": 21502.81,
+    "2023-05": 37812.87,
+    "2023-06": 25575.02,
+    "2023-07": 43865.23,
+    "2023-08": 23375.54,
+    "2023-09": 42767.64,
+    "2023-10": 25362.75,
+    "2023-11": 46534.53,
+    "2023-12": 56236.41
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 123275.94,
+    "percent": 29.9
+  }
+}

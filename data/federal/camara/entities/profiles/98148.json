@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 98148,
+    "generatedAt": "2026-03-17T02:25:05.041447Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 98148,
+    "name": "Cobalchini",
+    "stateCode": "SC",
+    "party": "MDB",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/98148.jpg",
+    "slug": "cobalchini"
+  },
+  "mandateTotals": {
+    "amountNet": 406939.79,
+    "amountGross": 423124.91,
+    "amountAdjustments": -16185.12,
+    "recordsCount": 879,
+    "byCategoryNet": {
+      "ALIMENTACAO": 7405.06,
+      "COMBUSTIVEL": 54072.54,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 504.38,
+      "DESLOCAMENTO": 205899.97,
+      "DIVULGACAO": 108667.97,
+      "ESCRITORIO": 20471.07,
+      "HOSPEDAGEM": 9918.8,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 7405.06,
+      "COMBUSTIVEL": 54072.54,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 504.38,
+      "DESLOCAMENTO": 222085.09,
+      "DIVULGACAO": 108667.97,
+      "ESCRITORIO": 20471.07,
+      "HOSPEDAGEM": 9918.8,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -16185.12,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 406939.79
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 33415.16,
+    "2023-03": 24367.8,
+    "2023-04": 25261.76,
+    "2023-05": 32286.08,
+    "2023-06": 21455.19,
+    "2023-07": 36037.06,
+    "2023-08": 23697.91,
+    "2023-09": 40174.88,
+    "2023-10": 31844.54,
+    "2023-11": 28970.61,
+    "2023-12": 109428.8
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 205899.97,
+    "percent": 50.6
+  }
+}

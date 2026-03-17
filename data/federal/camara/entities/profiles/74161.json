@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 74161,
+    "generatedAt": "2026-03-17T02:25:05.035571Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 74161,
+    "name": "Reginaldo Lopes",
+    "stateCode": "MG",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74161.jpg",
+    "slug": "reginaldo-lopes"
+  },
+  "mandateTotals": {
+    "amountNet": 435072.24,
+    "amountGross": 468497.98,
+    "amountAdjustments": -33425.74,
+    "recordsCount": 515,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 18296.1,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 11919.56,
+      "DESLOCAMENTO": 301518.95,
+      "DIVULGACAO": 6800.0,
+      "ESCRITORIO": 96537.63,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 18296.1,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 11919.56,
+      "DESLOCAMENTO": 334944.69,
+      "DIVULGACAO": 6800.0,
+      "ESCRITORIO": 96537.63,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -33425.74,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 435072.24
+  },
+  "monthTotals": {
+    "2023-01": 1332.13,
+    "2023-02": 34198.77,
+    "2023-03": 61856.02,
+    "2023-04": 33863.01,
+    "2023-05": 44408.33,
+    "2023-06": 47159.64,
+    "2023-07": 33847.61,
+    "2023-08": 38114.9,
+    "2023-09": 28645.74,
+    "2023-10": 42313.34,
+    "2023-11": 43067.85,
+    "2023-12": 26264.9
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 301518.95,
+    "percent": 69.3
+  }
+}

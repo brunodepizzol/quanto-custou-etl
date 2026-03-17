@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 98615,
+    "generatedAt": "2026-03-17T02:25:05.041591Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 98615,
+    "name": "Ismael",
+    "stateCode": "SC",
+    "party": "PSD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/98615.jpg",
+    "slug": "ismael"
+  },
+  "mandateTotals": {
+    "amountNet": 349801.52,
+    "amountGross": 357350.42,
+    "amountAdjustments": -7548.9,
+    "recordsCount": 531,
+    "byCategoryNet": {
+      "ALIMENTACAO": 1110.58,
+      "COMBUSTIVEL": 49176.18,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1260.64,
+      "DESLOCAMENTO": 187576.15,
+      "DIVULGACAO": 58878.8,
+      "ESCRITORIO": 30720.48,
+      "HOSPEDAGEM": 21078.69,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 1110.58,
+      "COMBUSTIVEL": 49176.18,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1260.64,
+      "DESLOCAMENTO": 195125.05,
+      "DIVULGACAO": 58878.8,
+      "ESCRITORIO": 30720.48,
+      "HOSPEDAGEM": 21078.69,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -7548.9,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 349801.52
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 22538.19,
+    "2023-03": 35969.76,
+    "2023-04": 21889.94,
+    "2023-05": 23418.89,
+    "2023-06": 30789.34,
+    "2023-07": 26874.92,
+    "2023-08": 36913.82,
+    "2023-09": 41996.89,
+    "2023-10": 38279.25,
+    "2023-11": 37705.48,
+    "2023-12": 33425.04
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 187576.15,
+    "percent": 53.62
+  }
+}

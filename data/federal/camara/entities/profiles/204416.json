@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204416,
+    "generatedAt": "2026-03-17T02:25:05.079692Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204416,
+    "name": "Sanderson",
+    "stateCode": "RS",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204416.jpg",
+    "slug": "sanderson"
+  },
+  "mandateTotals": {
+    "amountNet": 547854.7,
+    "amountGross": 563019.11,
+    "amountAdjustments": -15164.41,
+    "recordsCount": 563,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 45213.71,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6465.15,
+      "DESLOCAMENTO": 200694.06,
+      "DIVULGACAO": 227514.28,
+      "ESCRITORIO": 40741.16,
+      "HOSPEDAGEM": 27226.34,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 45213.71,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6465.15,
+      "DESLOCAMENTO": 215858.47,
+      "DIVULGACAO": 227514.28,
+      "ESCRITORIO": 40741.16,
+      "HOSPEDAGEM": 27226.34,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -15164.41,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 547854.7
+  },
+  "monthTotals": {
+    "2023-01": 15849.29,
+    "2023-02": 37928.04,
+    "2023-03": 34935.86,
+    "2023-04": 46215.88,
+    "2023-05": 53986.37,
+    "2023-06": 65244.13,
+    "2023-07": 65637.77,
+    "2023-08": 55654.05,
+    "2023-09": 58394.06,
+    "2023-10": 44263.83,
+    "2023-11": 37826.84,
+    "2023-12": 31918.58
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 227514.28,
+    "percent": 41.53
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 141450,
+    "generatedAt": "2026-03-17T02:25:05.045112Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 141450,
+    "name": "Hugo Leal",
+    "stateCode": "RJ",
+    "party": "PSD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/141450.jpg",
+    "slug": "hugo-leal"
+  },
+  "mandateTotals": {
+    "amountNet": 127405.12,
+    "amountGross": 129214.63,
+    "amountAdjustments": -1809.51,
+    "recordsCount": 151,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 7419.78,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2001.71,
+      "DESLOCAMENTO": 105085.02,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 9385.92,
+      "HOSPEDAGEM": 3512.69,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 7419.78,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2001.71,
+      "DESLOCAMENTO": 106894.53,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 9385.92,
+      "HOSPEDAGEM": 3512.69,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -1809.51,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 127405.12
+  },
+  "monthTotals": {
+    "2023-01": 3049.11,
+    "2023-02": 29996.93,
+    "2023-03": 36858.09,
+    "2023-04": 10009.06,
+    "2023-05": 0.0,
+    "2023-06": 0.0,
+    "2023-07": 7192.47,
+    "2023-08": 0.0,
+    "2023-09": 0.0,
+    "2023-10": 2406.86,
+    "2023-11": 6332.3,
+    "2023-12": 31560.3
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 105085.02,
+    "percent": 82.48
+  }
+}

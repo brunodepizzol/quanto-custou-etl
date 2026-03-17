@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204406,
+    "generatedAt": "2026-03-17T02:25:05.078553Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204406,
+    "name": "Pedro Westphalen",
+    "stateCode": "RS",
+    "party": "PP",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204406.jpg",
+    "slug": "pedro-westphalen"
+  },
+  "mandateTotals": {
+    "amountNet": 580179.88,
+    "amountGross": 621843.37,
+    "amountAdjustments": -41663.49,
+    "recordsCount": 753,
+    "byCategoryNet": {
+      "ALIMENTACAO": 2564.9,
+      "COMBUSTIVEL": 44195.7,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 9431.25,
+      "DESLOCAMENTO": 266149.49,
+      "DIVULGACAO": 130973.0,
+      "ESCRITORIO": 96836.84,
+      "HOSPEDAGEM": 30028.7,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 2564.9,
+      "COMBUSTIVEL": 44195.7,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 9431.25,
+      "DESLOCAMENTO": 307812.98,
+      "DIVULGACAO": 130973.0,
+      "ESCRITORIO": 96836.84,
+      "HOSPEDAGEM": 30028.7,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -41663.49,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 580179.88
+  },
+  "monthTotals": {
+    "2023-01": 12745.52,
+    "2023-02": 35656.94,
+    "2023-03": 56713.96,
+    "2023-04": 42652.76,
+    "2023-05": 51372.07,
+    "2023-06": 54917.66,
+    "2023-07": 39029.07,
+    "2023-08": 57674.93,
+    "2023-09": 59141.29,
+    "2023-10": 53323.87,
+    "2023-11": 66323.02,
+    "2023-12": 50628.79
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 266149.49,
+    "percent": 45.87
+  }
+}

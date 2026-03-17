@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 74079,
+    "generatedAt": "2026-03-17T02:25:05.034449Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 74079,
+    "name": "José Priante",
+    "stateCode": "PA",
+    "party": "MDB",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74079.jpg",
+    "slug": "josé-priante"
+  },
+  "mandateTotals": {
+    "amountNet": 401887.39,
+    "amountGross": 408525.72,
+    "amountAdjustments": -6638.33,
+    "recordsCount": 204,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 3440.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1629.5,
+      "DESLOCAMENTO": 344935.3,
+      "DIVULGACAO": 45000.0,
+      "ESCRITORIO": 6315.59,
+      "HOSPEDAGEM": 567.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 3440.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1629.5,
+      "DESLOCAMENTO": 351573.63,
+      "DIVULGACAO": 45000.0,
+      "ESCRITORIO": 6315.59,
+      "HOSPEDAGEM": 567.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -6638.33,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 401887.39
+  },
+  "monthTotals": {
+    "2023-01": 9990.0,
+    "2023-02": 20433.88,
+    "2023-03": 58896.3,
+    "2023-04": 36701.77,
+    "2023-05": 39512.02,
+    "2023-06": 39914.56,
+    "2023-07": 21625.15,
+    "2023-08": 61866.38,
+    "2023-09": 36655.37,
+    "2023-10": 38092.92,
+    "2023-11": 17369.43,
+    "2023-12": 20829.61
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 344935.3,
+    "percent": 85.83
+  }
+}

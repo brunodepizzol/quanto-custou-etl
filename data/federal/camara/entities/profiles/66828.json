@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 66828,
+    "generatedAt": "2026-03-17T02:25:05.030841Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 66828,
+    "name": "Fausto Pinato",
+    "stateCode": "SP",
+    "party": "PP",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/66828.jpg",
+    "slug": "fausto-pinato"
+  },
+  "mandateTotals": {
+    "amountNet": 432816.45,
+    "amountGross": 441777.91,
+    "amountAdjustments": -8961.46,
+    "recordsCount": 333,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 94597.98,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 15559.7,
+      "DESLOCAMENTO": 208346.37,
+      "DIVULGACAO": 81399.98,
+      "ESCRITORIO": 30171.42,
+      "HOSPEDAGEM": 2741.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 94597.98,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 15559.7,
+      "DESLOCAMENTO": 217307.83,
+      "DIVULGACAO": 81399.98,
+      "ESCRITORIO": 30171.42,
+      "HOSPEDAGEM": 2741.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -8961.46,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 432816.45
+  },
+  "monthTotals": {
+    "2023-01": 3099.38,
+    "2023-02": 27581.23,
+    "2023-03": 55952.3,
+    "2023-04": 33962.74,
+    "2023-05": 46011.99,
+    "2023-06": 36949.63,
+    "2023-07": 32774.81,
+    "2023-08": 32717.52,
+    "2023-09": 35209.86,
+    "2023-10": 52224.94,
+    "2023-11": 43001.47,
+    "2023-12": 33330.58
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 208346.37,
+    "percent": 48.14
+  }
+}

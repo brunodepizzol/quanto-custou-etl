@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 223128,
+    "generatedAt": "2026-03-17T02:25:05.120849Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 223128,
+    "name": "Rodrigo Estacho",
+    "stateCode": "PR",
+    "party": "PSD",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/223128.jpg",
+    "slug": "rodrigo-estacho"
+  },
+  "mandateTotals": {
+    "amountNet": 382057.14,
+    "amountGross": 383719.23,
+    "amountAdjustments": -1662.09,
+    "recordsCount": 757,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 81313.98,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2702.8,
+      "DESLOCAMENTO": 161411.93,
+      "DIVULGACAO": 44307.94,
+      "ESCRITORIO": 78441.67,
+      "HOSPEDAGEM": 13878.82,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 81313.98,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2702.8,
+      "DESLOCAMENTO": 163074.02,
+      "DIVULGACAO": 44307.94,
+      "ESCRITORIO": 78441.67,
+      "HOSPEDAGEM": 13878.82,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -1662.09,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 382057.14
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 4384.86,
+    "2023-03": 38628.07,
+    "2023-04": 32541.28,
+    "2023-05": 33783.32,
+    "2023-06": 34649.09,
+    "2023-07": 45055.2,
+    "2023-08": 45050.92,
+    "2023-09": 35947.29,
+    "2023-10": 44139.25,
+    "2023-11": 34221.76,
+    "2023-12": 33656.1
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 161411.93,
+    "percent": 42.25
+  }
+}

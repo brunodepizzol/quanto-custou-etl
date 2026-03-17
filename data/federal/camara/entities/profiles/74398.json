@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 74398,
+    "generatedAt": "2026-03-17T02:25:05.037626Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 74398,
+    "name": "Maria do Rosário",
+    "stateCode": "RS",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74398.jpg",
+    "slug": "maria-do-rosário"
+  },
+  "mandateTotals": {
+    "amountNet": 565400.3,
+    "amountGross": 575058.39,
+    "amountAdjustments": -9658.09,
+    "recordsCount": 1429,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 69925.12,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 14634.59,
+      "DESLOCAMENTO": 148663.64,
+      "DIVULGACAO": 119417.72,
+      "ESCRITORIO": 207088.75,
+      "HOSPEDAGEM": 5670.48,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 69925.12,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 14634.59,
+      "DESLOCAMENTO": 158321.73,
+      "DIVULGACAO": 119417.72,
+      "ESCRITORIO": 207088.75,
+      "HOSPEDAGEM": 5670.48,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -9658.09,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 565400.3
+  },
+  "monthTotals": {
+    "2023-01": 13126.85,
+    "2023-02": 54435.52,
+    "2023-03": 75765.93,
+    "2023-04": 51647.65,
+    "2023-05": 48931.67,
+    "2023-06": 74332.1,
+    "2023-07": 51716.35,
+    "2023-08": 54082.23,
+    "2023-09": 52174.32,
+    "2023-10": 37310.13,
+    "2023-11": 37447.54,
+    "2023-12": 14430.01
+  },
+  "topCategory": {
+    "category": "ESCRITORIO",
+    "amountNet": 207088.75,
+    "percent": 36.63
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220631,
+    "generatedAt": "2026-03-17T02:25:05.108453Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220631,
+    "name": "Samuel Viana",
+    "stateCode": "MG",
+    "party": "REPUBLICANOS",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220631.jpg",
+    "slug": "samuel-viana"
+  },
+  "mandateTotals": {
+    "amountNet": 487297.51,
+    "amountGross": 499509.26,
+    "amountAdjustments": -12211.75,
+    "recordsCount": 1010,
+    "byCategoryNet": {
+      "ALIMENTACAO": 5602.71,
+      "COMBUSTIVEL": 75320.12,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2668.5,
+      "DESLOCAMENTO": 266778.5,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 123139.98,
+      "HOSPEDAGEM": 13787.7,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 5602.71,
+      "COMBUSTIVEL": 75320.12,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2668.5,
+      "DESLOCAMENTO": 278990.25,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 123139.98,
+      "HOSPEDAGEM": 13787.7,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -12211.75,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 487297.51
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 43705.2,
+    "2023-03": 39740.79,
+    "2023-04": 46750.34,
+    "2023-05": 50193.58,
+    "2023-06": 47935.5,
+    "2023-07": 52515.64,
+    "2023-08": 49694.27,
+    "2023-09": 55637.87,
+    "2023-10": 44774.06,
+    "2023-11": 36805.71,
+    "2023-12": 19544.55
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 266778.5,
+    "percent": 54.75
+  }
+}

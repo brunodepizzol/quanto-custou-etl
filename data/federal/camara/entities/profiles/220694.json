@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220694,
+    "generatedAt": "2026-03-17T02:25:05.116999Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220694,
+    "name": "Ricardo Maia",
+    "stateCode": "BA",
+    "party": "MDB",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220694.jpg",
+    "slug": "ricardo-maia"
+  },
+  "mandateTotals": {
+    "amountNet": 496884.06,
+    "amountGross": 502441.79,
+    "amountAdjustments": -5557.73,
+    "recordsCount": 291,
+    "byCategoryNet": {
+      "ALIMENTACAO": 1042.0,
+      "COMBUSTIVEL": 41639.94,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1072.9,
+      "DESLOCAMENTO": 185449.44,
+      "DIVULGACAO": 170100.0,
+      "ESCRITORIO": 97579.78,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 1042.0,
+      "COMBUSTIVEL": 41639.94,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1072.9,
+      "DESLOCAMENTO": 191007.17,
+      "DIVULGACAO": 170100.0,
+      "ESCRITORIO": 97579.78,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -5557.73,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 496884.06
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 13883.73,
+    "2023-03": 36518.45,
+    "2023-04": 22659.45,
+    "2023-05": 48601.55,
+    "2023-06": 74458.0,
+    "2023-07": 46288.14,
+    "2023-08": 40299.87,
+    "2023-09": 72968.94,
+    "2023-10": 57753.52,
+    "2023-11": 32961.35,
+    "2023-12": 50491.06
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 185449.44,
+    "percent": 37.32
+  }
+}

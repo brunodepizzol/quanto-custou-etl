@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 160604,
+    "generatedAt": "2026-03-17T02:25:05.052395Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 160604,
+    "name": "Pedro Uczai",
+    "stateCode": "SC",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160604.jpg",
+    "slug": "pedro-uczai"
+  },
+  "mandateTotals": {
+    "amountNet": 532391.42,
+    "amountGross": 540481.27,
+    "amountAdjustments": -8089.85,
+    "recordsCount": 1160,
+    "byCategoryNet": {
+      "ALIMENTACAO": 17110.47,
+      "COMBUSTIVEL": 91360.42,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 9572.37,
+      "DESLOCAMENTO": 275669.95,
+      "DIVULGACAO": 30723.32,
+      "ESCRITORIO": 84777.83,
+      "HOSPEDAGEM": 23177.06,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 17110.47,
+      "COMBUSTIVEL": 91360.42,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 9572.37,
+      "DESLOCAMENTO": 283759.8,
+      "DIVULGACAO": 30723.32,
+      "ESCRITORIO": 84777.83,
+      "HOSPEDAGEM": 23177.06,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -8089.85,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 532391.42
+  },
+  "monthTotals": {
+    "2023-01": 1395.66,
+    "2023-02": 45995.19,
+    "2023-03": 49484.93,
+    "2023-04": 43543.47,
+    "2023-05": 55927.94,
+    "2023-06": 48403.92,
+    "2023-07": 49592.31,
+    "2023-08": 61190.97,
+    "2023-09": 65526.8,
+    "2023-10": 52273.62,
+    "2023-11": 23391.0,
+    "2023-12": 35665.61
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 275669.95,
+    "percent": 51.78
+  }
+}

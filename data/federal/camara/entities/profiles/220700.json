@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220700,
+    "generatedAt": "2026-03-17T02:25:05.117885Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220700,
+    "name": "Florentino Neto",
+    "stateCode": "PI",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220700.jpg",
+    "slug": "florentino-neto"
+  },
+  "mandateTotals": {
+    "amountNet": 508531.67,
+    "amountGross": 517659.69,
+    "amountAdjustments": -9128.02,
+    "recordsCount": 194,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2363.88,
+      "DESLOCAMENTO": 277074.52,
+      "DIVULGACAO": 177800.0,
+      "ESCRITORIO": 51293.27,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 2363.88,
+      "DESLOCAMENTO": 286202.54,
+      "DIVULGACAO": 177800.0,
+      "ESCRITORIO": 51293.27,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -9128.02,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 508531.67
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 26806.36,
+    "2023-03": 37325.16,
+    "2023-04": 29935.71,
+    "2023-05": 116087.39,
+    "2023-06": 43710.76,
+    "2023-07": 23608.39,
+    "2023-08": 41329.68,
+    "2023-09": 40632.94,
+    "2023-10": 50288.93,
+    "2023-11": 50281.81,
+    "2023-12": 48524.54
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 277074.52,
+    "percent": 54.49
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204559,
+    "generatedAt": "2026-03-17T02:25:05.090309Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204559,
+    "name": "Zé Neto",
+    "stateCode": "BA",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204559.jpg",
+    "slug": "zé-neto"
+  },
+  "mandateTotals": {
+    "amountNet": 535766.88,
+    "amountGross": 556074.56,
+    "amountAdjustments": -20307.68,
+    "recordsCount": 403,
+    "byCategoryNet": {
+      "ALIMENTACAO": 926.76,
+      "COMBUSTIVEL": 94963.31,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 14142.19,
+      "DESLOCAMENTO": 124070.52,
+      "DIVULGACAO": 207670.78,
+      "ESCRITORIO": 93633.32,
+      "HOSPEDAGEM": 360.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 926.76,
+      "COMBUSTIVEL": 94963.31,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 14142.19,
+      "DESLOCAMENTO": 144378.2,
+      "DIVULGACAO": 207670.78,
+      "ESCRITORIO": 93633.32,
+      "HOSPEDAGEM": 360.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -20307.68,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 535766.88
+  },
+  "monthTotals": {
+    "2023-01": 26423.99,
+    "2023-02": 59881.78,
+    "2023-03": 54234.17,
+    "2023-04": 45909.84,
+    "2023-05": 45772.19,
+    "2023-06": 40971.93,
+    "2023-07": 56773.99,
+    "2023-08": 49565.74,
+    "2023-09": 43354.61,
+    "2023-10": 42144.57,
+    "2023-11": 53899.68,
+    "2023-12": 16834.39
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 207670.78,
+    "percent": 38.76
+  }
+}

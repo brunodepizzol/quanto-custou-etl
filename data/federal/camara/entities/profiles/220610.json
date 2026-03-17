@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220610,
+    "generatedAt": "2026-03-17T02:25:05.105575Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220610,
+    "name": "Dr. Fernando Máximo",
+    "stateCode": "RO",
+    "party": "UNIÃO",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220610.jpg",
+    "slug": "dr-fernando-máximo"
+  },
+  "mandateTotals": {
+    "amountNet": 574514.8,
+    "amountGross": 601695.61,
+    "amountAdjustments": -27180.81,
+    "recordsCount": 565,
+    "byCategoryNet": {
+      "ALIMENTACAO": 6446.64,
+      "COMBUSTIVEL": 40155.62,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1040.43,
+      "DESLOCAMENTO": 205195.04,
+      "DIVULGACAO": 272931.5,
+      "ESCRITORIO": 40147.57,
+      "HOSPEDAGEM": 8598.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 6446.64,
+      "COMBUSTIVEL": 40155.62,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 1040.43,
+      "DESLOCAMENTO": 232375.85,
+      "DIVULGACAO": 272931.5,
+      "ESCRITORIO": 40147.57,
+      "HOSPEDAGEM": 8598.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -27180.81,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 574514.8
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 33130.31,
+    "2023-03": 50378.49,
+    "2023-04": 45439.75,
+    "2023-05": 59558.47,
+    "2023-06": 41500.74,
+    "2023-07": 49888.19,
+    "2023-08": 56736.19,
+    "2023-09": 59218.29,
+    "2023-10": 68596.86,
+    "2023-11": 68431.6,
+    "2023-12": 41635.91
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 272931.5,
+    "percent": 47.51
+  }
+}

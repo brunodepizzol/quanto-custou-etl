@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 74283,
+    "generatedAt": "2026-03-17T02:25:05.036445Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 74283,
+    "name": "Vicentinho",
+    "stateCode": "SP",
+    "party": "PT",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74283.jpg",
+    "slug": "vicentinho"
+  },
+  "mandateTotals": {
+    "amountNet": 378822.69,
+    "amountGross": 380538.98,
+    "amountAdjustments": -1716.29,
+    "recordsCount": 462,
+    "byCategoryNet": {
+      "ALIMENTACAO": 2282.17,
+      "COMBUSTIVEL": 42412.24,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 4797.29,
+      "DESLOCAMENTO": 170016.82,
+      "DIVULGACAO": 105994.71,
+      "ESCRITORIO": 51660.86,
+      "HOSPEDAGEM": 1658.6,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 2282.17,
+      "COMBUSTIVEL": 42412.24,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 4797.29,
+      "DESLOCAMENTO": 171733.11,
+      "DIVULGACAO": 105994.71,
+      "ESCRITORIO": 51660.86,
+      "HOSPEDAGEM": 1658.6,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -1716.29,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 378822.69
+  },
+  "monthTotals": {
+    "2023-01": 107.24,
+    "2023-02": 17955.96,
+    "2023-03": 41137.04,
+    "2023-04": 28731.63,
+    "2023-05": 27986.5,
+    "2023-06": 26384.36,
+    "2023-07": 31054.41,
+    "2023-08": 30016.06,
+    "2023-09": 28460.32,
+    "2023-10": 37431.17,
+    "2023-11": 69071.95,
+    "2023-12": 40486.05
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 170016.82,
+    "percent": 44.88
+  }
+}

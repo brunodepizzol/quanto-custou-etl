@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 178985,
+    "generatedAt": "2026-03-17T02:25:05.062381Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 178985,
+    "name": "Miguel Lombardi",
+    "stateCode": "SP",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/178985.jpg",
+    "slug": "miguel-lombardi"
+  },
+  "mandateTotals": {
+    "amountNet": 330971.87,
+    "amountGross": 330996.12,
+    "amountAdjustments": -24.25,
+    "recordsCount": 486,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 45120.7,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 10714.75,
+      "DESLOCAMENTO": 86175.43,
+      "DIVULGACAO": 132105.5,
+      "ESCRITORIO": 55709.49,
+      "HOSPEDAGEM": 1146.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 45120.7,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 10714.75,
+      "DESLOCAMENTO": 86199.68,
+      "DIVULGACAO": 132105.5,
+      "ESCRITORIO": 55709.49,
+      "HOSPEDAGEM": 1146.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -24.25,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 330971.87
+  },
+  "monthTotals": {
+    "2023-01": 5255.57,
+    "2023-02": 18481.69,
+    "2023-03": 27755.35,
+    "2023-04": 21636.32,
+    "2023-05": 35385.88,
+    "2023-06": 26244.81,
+    "2023-07": 27606.88,
+    "2023-08": 22874.45,
+    "2023-09": 26480.68,
+    "2023-10": 25778.31,
+    "2023-11": 23870.69,
+    "2023-12": 69601.24
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 132105.5,
+    "percent": 39.91
+  }
+}

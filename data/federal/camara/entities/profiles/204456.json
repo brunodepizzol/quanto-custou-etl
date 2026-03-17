@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204456,
+    "generatedAt": "2026-03-17T02:25:05.082228Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204456,
+    "name": "Gutemberg Reis",
+    "stateCode": "RJ",
+    "party": "MDB",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204456.jpg",
+    "slug": "gutemberg-reis"
+  },
+  "mandateTotals": {
+    "amountNet": 442769.61,
+    "amountGross": 484485.34,
+    "amountAdjustments": -41715.73,
+    "recordsCount": 709,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 58606.88,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 17158.18,
+      "DESLOCAMENTO": 276630.44,
+      "DIVULGACAO": 38000.0,
+      "ESCRITORIO": 49849.31,
+      "HOSPEDAGEM": 2524.8,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 58606.88,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 17158.18,
+      "DESLOCAMENTO": 318346.17,
+      "DIVULGACAO": 38000.0,
+      "ESCRITORIO": 49849.31,
+      "HOSPEDAGEM": 2524.8,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -41715.73,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 442769.61
+  },
+  "monthTotals": {
+    "2023-01": 9332.86,
+    "2023-02": 34702.37,
+    "2023-03": 53481.48,
+    "2023-04": 35985.77,
+    "2023-05": 34366.23,
+    "2023-06": 37722.13,
+    "2023-07": 31149.32,
+    "2023-08": 36742.83,
+    "2023-09": 54367.44,
+    "2023-10": 43072.73,
+    "2023-11": 37625.37,
+    "2023-12": 34221.08
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 276630.44,
+    "percent": 62.48
+  }
+}

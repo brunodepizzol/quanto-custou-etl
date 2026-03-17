@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 205550,
+    "generatedAt": "2026-03-17T02:25:05.091728Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 205550,
+    "name": "Jorge Braz",
+    "stateCode": "RJ",
+    "party": "REPUBLICANOS",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/205550.jpg",
+    "slug": "jorge-braz"
+  },
+  "mandateTotals": {
+    "amountNet": 461378.69,
+    "amountGross": 477628.32,
+    "amountAdjustments": -16249.63,
+    "recordsCount": 301,
+    "byCategoryNet": {
+      "ALIMENTACAO": 3530.1,
+      "COMBUSTIVEL": 14150.46,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 3217.57,
+      "DESLOCAMENTO": 157018.67,
+      "DIVULGACAO": 216000.0,
+      "ESCRITORIO": 64848.29,
+      "HOSPEDAGEM": 2613.6,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 3530.1,
+      "COMBUSTIVEL": 14150.46,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 3217.57,
+      "DESLOCAMENTO": 173268.3,
+      "DIVULGACAO": 216000.0,
+      "ESCRITORIO": 64848.29,
+      "HOSPEDAGEM": 2613.6,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -16249.63,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 461378.69
+  },
+  "monthTotals": {
+    "2023-01": 18000.0,
+    "2023-02": 45252.63,
+    "2023-03": 40868.54,
+    "2023-04": 39086.97,
+    "2023-05": 39253.93,
+    "2023-06": 40042.59,
+    "2023-07": 39108.84,
+    "2023-08": 38955.29,
+    "2023-09": 38615.13,
+    "2023-10": 42614.19,
+    "2023-11": 37990.22,
+    "2023-12": 41590.36
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 216000.0,
+    "percent": 46.82
+  }
+}

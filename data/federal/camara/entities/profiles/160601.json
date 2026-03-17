@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 160601,
+    "generatedAt": "2026-03-17T02:25:05.052169Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 160601,
+    "name": "Pr. Marco Feliciano",
+    "stateCode": "SP",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160601.jpg",
+    "slug": "pr-marco-feliciano"
+  },
+  "mandateTotals": {
+    "amountNet": 489698.42,
+    "amountGross": 498164.26,
+    "amountAdjustments": -8465.84,
+    "recordsCount": 181,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 20034.52,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 4878.57,
+      "DESLOCAMENTO": 231158.63,
+      "DIVULGACAO": 226900.0,
+      "ESCRITORIO": 6726.7,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 20034.52,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 4878.57,
+      "DESLOCAMENTO": 239624.47,
+      "DIVULGACAO": 226900.0,
+      "ESCRITORIO": 6726.7,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -8465.84,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 489698.42
+  },
+  "monthTotals": {
+    "2023-01": 456.53,
+    "2023-02": 23263.22,
+    "2023-03": 30257.83,
+    "2023-04": 23397.03,
+    "2023-05": 26201.9,
+    "2023-06": 12341.9,
+    "2023-07": 18563.4,
+    "2023-08": 164053.53,
+    "2023-09": 38189.96,
+    "2023-10": 17805.44,
+    "2023-11": 26028.75,
+    "2023-12": 109138.93
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 231158.63,
+    "percent": 47.2
+  }
+}

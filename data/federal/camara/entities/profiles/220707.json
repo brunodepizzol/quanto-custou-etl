@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 220707,
+    "generatedAt": "2026-03-17T02:25:05.118865Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 220707,
+    "name": "Amanda Gentil",
+    "stateCode": "MA",
+    "party": "PP",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220707.jpg",
+    "slug": "amanda-gentil"
+  },
+  "mandateTotals": {
+    "amountNet": 532273.12,
+    "amountGross": 550092.8,
+    "amountAdjustments": -17819.68,
+    "recordsCount": 168,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 16844.83,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 3271.94,
+      "DESLOCAMENTO": 83813.86,
+      "DIVULGACAO": 373290.8,
+      "ESCRITORIO": 55051.69,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 16844.83,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 3271.94,
+      "DESLOCAMENTO": 101633.54,
+      "DIVULGACAO": 373290.8,
+      "ESCRITORIO": 55051.69,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -17819.68,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 532273.12
+  },
+  "monthTotals": {
+    "2023-01": 0.0,
+    "2023-02": 25001.76,
+    "2023-03": 29709.6,
+    "2023-04": 18140.04,
+    "2023-05": 23896.98,
+    "2023-06": 22877.98,
+    "2023-07": 15326.38,
+    "2023-08": 30131.29,
+    "2023-09": 23385.21,
+    "2023-10": 36392.1,
+    "2023-11": 50453.14,
+    "2023-12": 256958.64
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 373290.8,
+    "percent": 70.13
+  }
+}

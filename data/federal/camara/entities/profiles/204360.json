@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204360,
+    "generatedAt": "2026-03-17T02:25:05.065598Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204360,
+    "name": "Silvia Cristina",
+    "stateCode": "RO",
+    "party": "PP",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204360.jpg",
+    "slug": "silvia-cristina"
+  },
+  "mandateTotals": {
+    "amountNet": 593465.51,
+    "amountGross": 617561.47,
+    "amountAdjustments": -24095.96,
+    "recordsCount": 580,
+    "byCategoryNet": {
+      "ALIMENTACAO": 1024.87,
+      "COMBUSTIVEL": 59217.34,
+      "CONSULTORIA_SERVICOS": 6000.0,
+      "CORREIOS_TELEFONIA": 2575.04,
+      "DESLOCAMENTO": 119423.02,
+      "DIVULGACAO": 346794.24,
+      "ESCRITORIO": 51864.5,
+      "HOSPEDAGEM": 6566.5,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 1024.87,
+      "COMBUSTIVEL": 59217.34,
+      "CONSULTORIA_SERVICOS": 6000.0,
+      "CORREIOS_TELEFONIA": 2575.04,
+      "DESLOCAMENTO": 143518.98,
+      "DIVULGACAO": 346794.24,
+      "ESCRITORIO": 51864.5,
+      "HOSPEDAGEM": 6566.5,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -24095.96,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 593465.51
+  },
+  "monthTotals": {
+    "2023-01": 15475.0,
+    "2023-02": 20502.41,
+    "2023-03": 90882.85,
+    "2023-04": 37681.0,
+    "2023-05": 66518.12,
+    "2023-06": 62817.79,
+    "2023-07": 55160.88,
+    "2023-08": 60921.89,
+    "2023-09": 56241.89,
+    "2023-10": 61080.01,
+    "2023-11": 44697.74,
+    "2023-12": 21485.93
+  },
+  "topCategory": {
+    "category": "DIVULGACAO",
+    "amountNet": 346794.24,
+    "percent": 58.44
+  }
+}

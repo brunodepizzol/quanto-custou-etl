@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204472,
+    "generatedAt": "2026-03-17T02:25:05.083212Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204472,
+    "name": "José Medeiros",
+    "stateCode": "MT",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204472.jpg",
+    "slug": "josé-medeiros"
+  },
+  "mandateTotals": {
+    "amountNet": 545652.52,
+    "amountGross": 553930.76,
+    "amountAdjustments": -8278.24,
+    "recordsCount": 1120,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 64688.19,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 7804.39,
+      "DESLOCAMENTO": 267835.25,
+      "DIVULGACAO": 99900.0,
+      "ESCRITORIO": 64695.25,
+      "HOSPEDAGEM": 40729.44,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 64688.19,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 7804.39,
+      "DESLOCAMENTO": 276113.49,
+      "DIVULGACAO": 99900.0,
+      "ESCRITORIO": 64695.25,
+      "HOSPEDAGEM": 40729.44,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -8278.24,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 545652.52
+  },
+  "monthTotals": {
+    "2023-01": 18288.51,
+    "2023-02": 43254.93,
+    "2023-03": 58783.91,
+    "2023-04": 44435.79,
+    "2023-05": 53443.12,
+    "2023-06": 45485.86,
+    "2023-07": 53749.7,
+    "2023-08": 46328.0,
+    "2023-09": 55996.22,
+    "2023-10": 44224.73,
+    "2023-11": 49403.52,
+    "2023-12": 32258.23
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 267835.25,
+    "percent": 49.09
+  }
+}

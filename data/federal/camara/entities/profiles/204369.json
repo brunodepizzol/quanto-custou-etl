@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 204369,
+    "generatedAt": "2026-03-17T02:25:05.066721Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 204369,
+    "name": "Caroline de Toni",
+    "stateCode": "SC",
+    "party": "PL",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204369.jpg",
+    "slug": "caroline-de-toni"
+  },
+  "mandateTotals": {
+    "amountNet": 134216.78,
+    "amountGross": 154438.36,
+    "amountAdjustments": -20221.58,
+    "recordsCount": 222,
+    "byCategoryNet": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 13836.67,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 683.81,
+      "DESLOCAMENTO": 100648.85,
+      "DIVULGACAO": 11308.68,
+      "ESCRITORIO": 1542.5,
+      "HOSPEDAGEM": 6196.27,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 13836.67,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 683.81,
+      "DESLOCAMENTO": 120870.43,
+      "DIVULGACAO": 11308.68,
+      "ESCRITORIO": 1542.5,
+      "HOSPEDAGEM": 6196.27,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -20221.58,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 134216.78
+  },
+  "monthTotals": {
+    "2023-01": 54.99,
+    "2023-02": 11297.45,
+    "2023-03": 24951.47,
+    "2023-04": 15314.5,
+    "2023-05": 12470.1,
+    "2023-06": 11304.84,
+    "2023-07": 8091.37,
+    "2023-08": 16906.2,
+    "2023-09": 13737.11,
+    "2023-10": 8501.78,
+    "2023-11": 9073.5,
+    "2023-12": 2513.47
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 100648.85,
+    "percent": 74.99
+  }
+}

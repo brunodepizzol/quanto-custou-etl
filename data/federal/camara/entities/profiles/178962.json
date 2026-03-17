@@ -1,0 +1,78 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "entity-profile",
+    "entityId": 178962,
+    "generatedAt": "2026-03-17T02:25:05.061027Z",
+    "schemaVersion": "1.0.0"
+  },
+  "entity": {
+    "id": 178962,
+    "name": "Carlos Gomes",
+    "stateCode": "RS",
+    "party": "REPUBLICANOS",
+    "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/178962.jpg",
+    "slug": "carlos-gomes"
+  },
+  "mandateTotals": {
+    "amountNet": 254347.75,
+    "amountGross": 277733.71,
+    "amountAdjustments": -23385.96,
+    "recordsCount": 504,
+    "byCategoryNet": {
+      "ALIMENTACAO": 3050.08,
+      "COMBUSTIVEL": 33410.64,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6999.73,
+      "DESLOCAMENTO": 121971.15,
+      "DIVULGACAO": 2399.9,
+      "ESCRITORIO": 76034.52,
+      "HOSPEDAGEM": 10481.73,
+      "OUTROS": 0.0
+    },
+    "byCategoryGross": {
+      "ALIMENTACAO": 3050.08,
+      "COMBUSTIVEL": 33410.64,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 6999.73,
+      "DESLOCAMENTO": 145357.11,
+      "DIVULGACAO": 2399.9,
+      "ESCRITORIO": 76034.52,
+      "HOSPEDAGEM": 10481.73,
+      "OUTROS": 0.0
+    },
+    "byCategoryAdjustments": {
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 0.0,
+      "CONSULTORIA_SERVICOS": 0.0,
+      "CORREIOS_TELEFONIA": 0.0,
+      "DESLOCAMENTO": -23385.96,
+      "DIVULGACAO": 0.0,
+      "ESCRITORIO": 0.0,
+      "HOSPEDAGEM": 0.0,
+      "OUTROS": 0.0
+    }
+  },
+  "yearTotals": {
+    "2023": 254347.75
+  },
+  "monthTotals": {
+    "2023-01": 1598.08,
+    "2023-02": 24417.26,
+    "2023-03": 31239.36,
+    "2023-04": 19255.59,
+    "2023-05": 31460.9,
+    "2023-06": 31481.15,
+    "2023-07": 19776.04,
+    "2023-08": 23582.0,
+    "2023-09": 28336.45,
+    "2023-10": 31676.94,
+    "2023-11": 7490.65,
+    "2023-12": 4033.33
+  },
+  "topCategory": {
+    "category": "DESLOCAMENTO",
+    "amountNet": 121971.15,
+    "percent": 47.95
+  }
+}
