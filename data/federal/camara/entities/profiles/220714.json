@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220714,
-    "generatedAt": "2026-03-17T02:25:05.119529Z",
+    "generatedAt": "2026-03-17T05:08:51.411791Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "adail-filho"
   },
   "mandateTotals": {
-    "amountNet": 560994.45,
-    "amountGross": 571182.06,
+    "amountNet": 562748.98,
+    "amountGross": 572936.59,
     "amountAdjustments": -10187.61,
-    "recordsCount": 235,
+    "recordsCount": 241,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 38141.26,
+      "COMBUSTIVEL": 39895.79,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 586.82,
       "DESLOCAMENTO": 99471.17,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 38141.26,
+      "COMBUSTIVEL": 39895.79,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 586.82,
       "DESLOCAMENTO": 109658.78,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 560994.45
+    "2023": 560994.45,
+    "2026": 1754.53
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 48425.38,
     "2023-10": 54800.73,
     "2023-11": 49100.87,
-    "2023-12": 47330.66
+    "2023-12": 47330.66,
+    "2026-03": 1754.53
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 421850.0,
-    "percent": 75.2
+    "percent": 74.96
   }
 }

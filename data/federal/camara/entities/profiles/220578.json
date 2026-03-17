@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220578,
-    "generatedAt": "2026-03-17T02:25:05.101293Z",
+    "generatedAt": "2026-03-17T05:08:51.380509Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "josenildo"
   },
   "mandateTotals": {
-    "amountNet": 525951.21,
-    "amountGross": 541114.04,
+    "amountNet": 527208.43,
+    "amountGross": 542371.26,
     "amountAdjustments": -15162.83,
-    "recordsCount": 385,
+    "recordsCount": 391,
     "byCategoryNet": {
       "ALIMENTACAO": 5026.27,
-      "COMBUSTIVEL": 22420.02,
+      "COMBUSTIVEL": 23677.24,
       "CONSULTORIA_SERVICOS": 9145.61,
       "CORREIOS_TELEFONIA": 7419.45,
       "DESLOCAMENTO": 227425.15,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 5026.27,
-      "COMBUSTIVEL": 22420.02,
+      "COMBUSTIVEL": 23677.24,
       "CONSULTORIA_SERVICOS": 9145.61,
       "CORREIOS_TELEFONIA": 7419.45,
       "DESLOCAMENTO": 242587.98,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 525951.21
+    "2023": 525951.21,
+    "2026": 1257.22
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 47969.36,
     "2023-10": 58360.14,
     "2023-11": 42530.56,
-    "2023-12": 17326.18
+    "2023-12": 17326.18,
+    "2026-03": 1257.22
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 233305.4,
-    "percent": 44.36
+    "percent": 44.25
   }
 }

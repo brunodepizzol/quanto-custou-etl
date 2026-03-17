@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 221148,
-    "generatedAt": "2026-03-17T02:25:05.119842Z",
+    "generatedAt": "2026-03-17T05:08:51.412366Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "alfredinho"
   },
   "mandateTotals": {
-    "amountNet": 459830.49,
-    "amountGross": 468609.19,
+    "amountNet": 460010.41,
+    "amountGross": 468789.11,
     "amountAdjustments": -8778.7,
-    "recordsCount": 255,
+    "recordsCount": 256,
     "byCategoryNet": {
       "ALIMENTACAO": 1953.92,
-      "COMBUSTIVEL": 17354.21,
+      "COMBUSTIVEL": 17534.13,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3008.36,
       "DESLOCAMENTO": 90534.0,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1953.92,
-      "COMBUSTIVEL": 17354.21,
+      "COMBUSTIVEL": 17534.13,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3008.36,
       "DESLOCAMENTO": 99312.7,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 459830.49
+    "2023": 459830.49,
+    "2026": 179.92
   },
   "monthTotals": {
     "2023-01": 18000.0,
@@ -68,11 +69,12 @@
     "2023-09": 38647.25,
     "2023-10": 80527.44,
     "2023-11": 33898.89,
-    "2023-12": 81292.29
+    "2023-12": 81292.29,
+    "2026-03": 179.92
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 308485.7,
-    "percent": 67.09
+    "percent": 67.06
   }
 }

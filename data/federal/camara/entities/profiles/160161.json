@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160161,
-    "generatedAt": "2026-03-17T02:25:05.048234Z",
+    "generatedAt": "2026-03-17T05:08:51.301180Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,16 +15,16 @@
     "slug": "marcelo-queiroz"
   },
   "mandateTotals": {
-    "amountNet": 481520.98,
-    "amountGross": 505704.11,
+    "amountNet": 484453.73,
+    "amountGross": 508636.86,
     "amountAdjustments": -24183.13,
-    "recordsCount": 272,
+    "recordsCount": 275,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 20845.28,
+      "COMBUSTIVEL": 21385.51,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 97242.96,
+      "DESLOCAMENTO": 99635.48,
       "DIVULGACAO": 361803.1,
       "ESCRITORIO": 1629.64,
       "HOSPEDAGEM": 0.0,
@@ -32,10 +32,10 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 20845.28,
+      "COMBUSTIVEL": 21385.51,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 121426.09,
+      "DESLOCAMENTO": 123818.61,
       "DIVULGACAO": 361803.1,
       "ESCRITORIO": 1629.64,
       "HOSPEDAGEM": 0.0,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 481520.98
+    "2023": 481520.98,
+    "2026": 2932.75
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 56987.89,
     "2023-10": 66737.68,
     "2023-11": 51007.21,
-    "2023-12": 13092.75
+    "2023-12": 13092.75,
+    "2026-03": 2932.75
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 361803.1,
-    "percent": 75.14
+    "percent": 74.68
   }
 }

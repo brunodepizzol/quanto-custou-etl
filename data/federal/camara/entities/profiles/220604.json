@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220604,
-    "generatedAt": "2026-03-17T02:25:05.104577Z",
+    "generatedAt": "2026-03-17T05:08:51.386040Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "marcos-tavares"
   },
   "mandateTotals": {
-    "amountNet": 414475.6,
-    "amountGross": 429333.8,
+    "amountNet": 415072.1,
+    "amountGross": 429930.3,
     "amountAdjustments": -14858.2,
-    "recordsCount": 634,
+    "recordsCount": 636,
     "byCategoryNet": {
       "ALIMENTACAO": 1091.66,
-      "COMBUSTIVEL": 19240.44,
+      "COMBUSTIVEL": 19558.44,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1072.9,
       "DESLOCAMENTO": 281141.8,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 111928.8,
+      "ESCRITORIO": 112207.3,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1091.66,
-      "COMBUSTIVEL": 19240.44,
+      "COMBUSTIVEL": 19558.44,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1072.9,
       "DESLOCAMENTO": 296000.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 111928.8,
+      "ESCRITORIO": 112207.3,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 414475.6
+    "2023": 414475.6,
+    "2026": 596.5
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 57501.63,
     "2023-10": 49592.93,
     "2023-11": 40768.41,
-    "2023-12": 57619.94
+    "2023-12": 57619.94,
+    "2026-03": 596.5
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 281141.8,
-    "percent": 67.83
+    "percent": 67.73
   }
 }

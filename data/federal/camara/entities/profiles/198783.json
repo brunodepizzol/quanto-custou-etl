@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 198783,
-    "generatedAt": "2026-03-17T02:25:05.064787Z",
+    "generatedAt": "2026-03-17T05:08:51.333390Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "emanuel-pinheiro-neto"
   },
   "mandateTotals": {
-    "amountNet": 433799.02,
-    "amountGross": 465066.09,
+    "amountNet": 435058.67,
+    "amountGross": 466325.74,
     "amountAdjustments": -31267.07,
-    "recordsCount": 582,
+    "recordsCount": 591,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 49155.84,
+      "COMBUSTIVEL": 50415.49,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1218.18,
       "DESLOCAMENTO": 180905.1,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 49155.84,
+      "COMBUSTIVEL": 50415.49,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1218.18,
       "DESLOCAMENTO": 212172.17,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 433799.02
+    "2023": 433799.02,
+    "2026": 1259.65
   },
   "monthTotals": {
     "2023-01": 9454.23,
@@ -68,11 +69,12 @@
     "2023-09": 39062.6,
     "2023-10": 31538.68,
     "2023-11": 36382.69,
-    "2023-12": 36963.04
+    "2023-12": 36963.04,
+    "2026-03": 1259.65
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 185144.9,
-    "percent": 42.68
+    "percent": 42.56
   }
 }

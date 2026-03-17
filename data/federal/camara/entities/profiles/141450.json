@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141450,
-    "generatedAt": "2026-03-17T02:25:05.045112Z",
+    "generatedAt": "2026-03-17T05:08:51.294654Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "hugo-leal"
   },
   "mandateTotals": {
-    "amountNet": 127405.12,
-    "amountGross": 129214.63,
+    "amountNet": 128472.9,
+    "amountGross": 130282.41,
     "amountAdjustments": -1809.51,
-    "recordsCount": 151,
+    "recordsCount": 159,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 7419.78,
+      "COMBUSTIVEL": 7867.5,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2001.71,
       "DESLOCAMENTO": 105085.02,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 9385.92,
-      "HOSPEDAGEM": 3512.69,
+      "ESCRITORIO": 9762.38,
+      "HOSPEDAGEM": 3756.29,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 7419.78,
+      "COMBUSTIVEL": 7867.5,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2001.71,
       "DESLOCAMENTO": 106894.53,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 9385.92,
-      "HOSPEDAGEM": 3512.69,
+      "ESCRITORIO": 9762.38,
+      "HOSPEDAGEM": 3756.29,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 127405.12
+    "2023": 127405.12,
+    "2026": 1067.78
   },
   "monthTotals": {
     "2023-01": 3049.11,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 2406.86,
     "2023-11": 6332.3,
-    "2023-12": 31560.3
+    "2023-12": 31560.3,
+    "2026-03": 1067.78
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 105085.02,
-    "percent": 82.48
+    "percent": 81.8
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 231911,
-    "generatedAt": "2026-03-17T02:25:05.123243Z",
+    "generatedAt": "2026-03-17T05:08:51.418159Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "lenir-de-assis"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 11167.17,
+    "amountGross": 11167.17,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 29,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 205.76,
+      "COMBUSTIVEL": 3203.05,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": 7558.44,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "ESCRITORIO": 199.92,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 205.76,
+      "COMBUSTIVEL": 3203.05,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": 7558.44,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "ESCRITORIO": 199.92,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 0.0
+    "2023": 0.0,
+    "2026": 11167.17
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 0.0,
     "2023-11": 0.0,
-    "2023-12": 0.0
+    "2023-12": 0.0,
+    "2026-03": 11167.17
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DESLOCAMENTO",
+    "amountNet": 7558.44,
+    "percent": 67.68
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160610,
-    "generatedAt": "2026-03-17T02:25:05.052551Z",
+    "generatedAt": "2026-03-17T05:08:51.310053Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "valmir-assunção"
   },
   "mandateTotals": {
-    "amountNet": 519704.5,
-    "amountGross": 532161.33,
+    "amountNet": 520549.29,
+    "amountGross": 533006.12,
     "amountAdjustments": -12456.83,
-    "recordsCount": 434,
+    "recordsCount": 439,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 33073.84,
+      "COMBUSTIVEL": 33918.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 19372.18,
       "DESLOCAMENTO": 297324.18,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 33073.84,
+      "COMBUSTIVEL": 33918.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 19372.18,
       "DESLOCAMENTO": 309781.01,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 519704.5
+    "2023": 519704.5,
+    "2026": 844.79
   },
   "monthTotals": {
     "2023-01": 223.67,
@@ -68,11 +69,12 @@
     "2023-09": 50504.61,
     "2023-10": 61649.38,
     "2023-11": 59673.11,
-    "2023-12": 47432.26
+    "2023-12": 47432.26,
+    "2026-03": 844.79
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 297324.18,
-    "percent": 57.21
+    "percent": 57.12
   }
 }

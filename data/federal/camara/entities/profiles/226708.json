@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 226708,
-    "generatedAt": "2026-03-17T02:25:05.121808Z",
+    "generatedAt": "2026-03-17T05:08:51.415557Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "allan-garcês"
   },
   "mandateTotals": {
-    "amountNet": 170192.68,
-    "amountGross": 172104.95,
+    "amountNet": 170555.05,
+    "amountGross": 172467.32,
     "amountAdjustments": -1912.27,
-    "recordsCount": 145,
+    "recordsCount": 147,
     "byCategoryNet": {
       "ALIMENTACAO": 2536.93,
-      "COMBUSTIVEL": 10508.21,
+      "COMBUSTIVEL": 10870.58,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3198.31,
       "DESLOCAMENTO": 63020.88,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 2536.93,
-      "COMBUSTIVEL": 10508.21,
+      "COMBUSTIVEL": 10870.58,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3198.31,
       "DESLOCAMENTO": 64933.15,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 170192.68
+    "2023": 170192.68,
+    "2026": 362.37
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 26101.82,
     "2023-10": 39348.61,
     "2023-11": 57950.86,
-    "2023-12": 46791.39
+    "2023-12": 46791.39,
+    "2026-03": 362.37
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 88401.74,
-    "percent": 51.94
+    "percent": 51.83
   }
 }

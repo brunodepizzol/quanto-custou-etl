@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 205865,
-    "generatedAt": "2026-03-17T02:25:05.091892Z",
+    "generatedAt": "2026-03-17T05:08:51.364601Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "reinhold-stephanes"
   },
   "mandateTotals": {
-    "amountNet": 371005.82,
-    "amountGross": 379445.12,
+    "amountNet": 406101.69,
+    "amountGross": 414540.99,
     "amountAdjustments": -8439.3,
-    "recordsCount": 342,
+    "recordsCount": 347,
     "byCategoryNet": {
       "ALIMENTACAO": 423.02,
-      "COMBUSTIVEL": 16322.99,
+      "COMBUSTIVEL": 16622.99,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6244.01,
       "DESLOCAMENTO": 69645.5,
-      "DIVULGACAO": 265000.0,
-      "ESCRITORIO": 12755.3,
-      "HOSPEDAGEM": 615.0,
+      "DIVULGACAO": 298000.0,
+      "ESCRITORIO": 13209.29,
+      "HOSPEDAGEM": 1956.88,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 423.02,
-      "COMBUSTIVEL": 16322.99,
+      "COMBUSTIVEL": 16622.99,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6244.01,
       "DESLOCAMENTO": 78084.8,
-      "DIVULGACAO": 265000.0,
-      "ESCRITORIO": 12755.3,
-      "HOSPEDAGEM": 615.0,
+      "DIVULGACAO": 298000.0,
+      "ESCRITORIO": 13209.29,
+      "HOSPEDAGEM": 1956.88,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 371005.82
+    "2023": 371005.82,
+    "2026": 35095.87
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 38304.18,
     "2023-10": 49011.03,
     "2023-11": 51316.52,
-    "2023-12": 75980.59
+    "2023-12": 75980.59,
+    "2026-03": 35095.87
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 265000.0,
-    "percent": 71.43
+    "amountNet": 298000.0,
+    "percent": 73.38
   }
 }

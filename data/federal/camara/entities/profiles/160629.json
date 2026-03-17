@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160629,
-    "generatedAt": "2026-03-17T02:25:05.052712Z",
+    "generatedAt": "2026-03-17T05:08:51.310365Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "romero-rodrigues"
   },
   "mandateTotals": {
-    "amountNet": 387434.25,
-    "amountGross": 409169.08,
+    "amountNet": 389638.73,
+    "amountGross": 411373.56,
     "amountAdjustments": -21734.83,
-    "recordsCount": 139,
+    "recordsCount": 140,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 34360.34,
+      "COMBUSTIVEL": 36564.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 95086.54,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 34360.34,
+      "COMBUSTIVEL": 36564.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 116821.37,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 387434.25
+    "2023": 387434.25,
+    "2026": 2204.48
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 34735.01,
     "2023-10": 35802.48,
     "2023-11": 37289.2,
-    "2023-12": 34066.28
+    "2023-12": 34066.28,
+    "2026-03": 2204.48
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 221950.0,
-    "percent": 57.29
+    "percent": 56.96
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178983,
-    "generatedAt": "2026-03-17T02:25:05.062216Z",
+    "generatedAt": "2026-03-17T05:08:51.328894Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,10 +15,10 @@
     "slug": "marcio-alvino"
   },
   "mandateTotals": {
-    "amountNet": 47288.33,
-    "amountGross": 85622.11,
+    "amountNet": 47906.63,
+    "amountGross": 86240.41,
     "amountAdjustments": -38333.78,
-    "recordsCount": 192,
+    "recordsCount": 193,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 0.0,
@@ -26,7 +26,7 @@
       "CORREIOS_TELEFONIA": 2461.63,
       "DESLOCAMENTO": 27833.96,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 16992.74,
+      "ESCRITORIO": 17611.04,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -37,7 +37,7 @@
       "CORREIOS_TELEFONIA": 2461.63,
       "DESLOCAMENTO": 66167.74,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 16992.74,
+      "ESCRITORIO": 17611.04,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 47288.33
+    "2023": 47288.33,
+    "2026": 618.3
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 4858.76,
     "2023-10": 2175.18,
     "2023-11": 2786.82,
-    "2023-12": 2699.71
+    "2023-12": 2699.71,
+    "2026-03": 618.3
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 27833.96,
-    "percent": 58.86
+    "percent": 58.1
   }
 }

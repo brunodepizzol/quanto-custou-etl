@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204494,
-    "generatedAt": "2026-03-17T02:25:05.085433Z",
+    "generatedAt": "2026-03-17T05:08:51.353481Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "fred-costa"
   },
   "mandateTotals": {
-    "amountNet": 416833.58,
-    "amountGross": 451612.62,
+    "amountNet": 424050.32,
+    "amountGross": 458829.36,
     "amountAdjustments": -34779.04,
-    "recordsCount": 561,
+    "recordsCount": 583,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 44126.64,
+      "COMBUSTIVEL": 47871.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4561.31,
       "DESLOCAMENTO": 216971.21,
-      "DIVULGACAO": 64262.5,
-      "ESCRITORIO": 85612.42,
-      "HOSPEDAGEM": 1299.5,
+      "DIVULGACAO": 65262.5,
+      "ESCRITORIO": 87869.65,
+      "HOSPEDAGEM": 1514.02,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 44126.64,
+      "COMBUSTIVEL": 47871.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4561.31,
       "DESLOCAMENTO": 251750.25,
-      "DIVULGACAO": 64262.5,
-      "ESCRITORIO": 85612.42,
-      "HOSPEDAGEM": 1299.5,
+      "DIVULGACAO": 65262.5,
+      "ESCRITORIO": 87869.65,
+      "HOSPEDAGEM": 1514.02,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 416833.58
+    "2023": 416833.58,
+    "2026": 7216.74
   },
   "monthTotals": {
     "2023-01": 934.53,
@@ -68,11 +69,12 @@
     "2023-09": 43614.06,
     "2023-10": 40462.86,
     "2023-11": 44709.45,
-    "2023-12": 29529.98
+    "2023-12": 29529.98,
+    "2026-03": 7216.74
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 216971.21,
-    "percent": 52.05
+    "percent": 51.17
   }
 }

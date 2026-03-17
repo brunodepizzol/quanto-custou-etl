@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220564,
-    "generatedAt": "2026-03-17T02:25:05.099259Z",
+    "generatedAt": "2026-03-17T05:08:51.377076Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "yandra-moura"
   },
   "mandateTotals": {
-    "amountNet": 492020.35,
-    "amountGross": 515862.94,
+    "amountNet": 495818.05,
+    "amountGross": 519660.64,
     "amountAdjustments": -23842.59,
-    "recordsCount": 237,
+    "recordsCount": 239,
     "byCategoryNet": {
       "ALIMENTACAO": 230.49,
-      "COMBUSTIVEL": 36132.71,
+      "COMBUSTIVEL": 36232.71,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1572.57,
       "DESLOCAMENTO": 242741.53,
       "DIVULGACAO": 201438.26,
-      "ESCRITORIO": 9459.7,
+      "ESCRITORIO": 13157.4,
       "HOSPEDAGEM": 445.09,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 230.49,
-      "COMBUSTIVEL": 36132.71,
+      "COMBUSTIVEL": 36232.71,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1572.57,
       "DESLOCAMENTO": 266584.12,
       "DIVULGACAO": 201438.26,
-      "ESCRITORIO": 9459.7,
+      "ESCRITORIO": 13157.4,
       "HOSPEDAGEM": 445.09,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 492020.35
+    "2023": 492020.35,
+    "2026": 3797.7
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 57992.22,
     "2023-10": 61057.59,
     "2023-11": 48265.09,
-    "2023-12": 8908.76
+    "2023-12": 8908.76,
+    "2026-03": 3797.7
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 242741.53,
-    "percent": 49.34
+    "percent": 48.96
   }
 }

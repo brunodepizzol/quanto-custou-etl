@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74574,
-    "generatedAt": "2026-03-17T02:25:05.039029Z",
+    "generatedAt": "2026-03-17T05:08:51.283077Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "paulo-magalhães"
   },
   "mandateTotals": {
-    "amountNet": 468026.33,
-    "amountGross": 484747.69,
+    "amountNet": 469194.86,
+    "amountGross": 485916.22,
     "amountAdjustments": -16721.36,
-    "recordsCount": 386,
+    "recordsCount": 391,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 93242.88,
+      "COMBUSTIVEL": 94411.41,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9000.34,
       "DESLOCAMENTO": 223354.97,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 93242.88,
+      "COMBUSTIVEL": 94411.41,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9000.34,
       "DESLOCAMENTO": 240076.33,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 468026.33
+    "2023": 468026.33,
+    "2026": 1168.53
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 33685.77,
     "2023-10": 63022.35,
     "2023-11": 29023.09,
-    "2023-12": 27644.56
+    "2023-12": 27644.56,
+    "2026-03": 1168.53
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 223354.97,
-    "percent": 47.72
+    "percent": 47.6
   }
 }

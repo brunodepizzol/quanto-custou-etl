@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220526,
-    "generatedAt": "2026-03-17T02:25:05.093384Z",
+    "generatedAt": "2026-03-17T05:08:51.367156Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "gilvan-da-federal"
   },
   "mandateTotals": {
-    "amountNet": 405463.01,
-    "amountGross": 422753.18,
+    "amountNet": 408878.43,
+    "amountGross": 426168.6,
     "amountAdjustments": -17290.17,
-    "recordsCount": 488,
+    "recordsCount": 495,
     "byCategoryNet": {
       "ALIMENTACAO": 156.74,
-      "COMBUSTIVEL": 31973.0,
+      "COMBUSTIVEL": 33140.37,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3665.85,
       "DESLOCAMENTO": 162094.19,
       "DIVULGACAO": 146870.0,
       "ESCRITORIO": 41083.54,
-      "HOSPEDAGEM": 19619.69,
+      "HOSPEDAGEM": 21867.74,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 156.74,
-      "COMBUSTIVEL": 31973.0,
+      "COMBUSTIVEL": 33140.37,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3665.85,
       "DESLOCAMENTO": 179384.36,
       "DIVULGACAO": 146870.0,
       "ESCRITORIO": 41083.54,
-      "HOSPEDAGEM": 19619.69,
+      "HOSPEDAGEM": 21867.74,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 405463.01
+    "2023": 405463.01,
+    "2026": 3415.42
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 83917.62,
     "2023-10": 35825.36,
     "2023-11": 52040.81,
-    "2023-12": 46684.69
+    "2023-12": 46684.69,
+    "2026-03": 3415.42
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 162094.19,
-    "percent": 39.98
+    "percent": 39.64
   }
 }

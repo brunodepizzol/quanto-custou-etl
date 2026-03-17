@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204525,
-    "generatedAt": "2026-03-17T02:25:05.088157Z",
+    "generatedAt": "2026-03-17T05:08:51.358202Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "rosana-valle"
   },
   "mandateTotals": {
-    "amountNet": 508790.83,
-    "amountGross": 508982.18,
+    "amountNet": 510467.97,
+    "amountGross": 510659.32,
     "amountAdjustments": -191.35,
-    "recordsCount": 627,
+    "recordsCount": 634,
     "byCategoryNet": {
       "ALIMENTACAO": 546.28,
-      "COMBUSTIVEL": 48004.18,
+      "COMBUSTIVEL": 49051.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6441.99,
       "DESLOCAMENTO": 156341.05,
       "DIVULGACAO": 147069.19,
-      "ESCRITORIO": 148376.79,
+      "ESCRITORIO": 149006.29,
       "HOSPEDAGEM": 2011.35,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 546.28,
-      "COMBUSTIVEL": 48004.18,
+      "COMBUSTIVEL": 49051.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6441.99,
       "DESLOCAMENTO": 156532.4,
       "DIVULGACAO": 147069.19,
-      "ESCRITORIO": 148376.79,
+      "ESCRITORIO": 149006.29,
       "HOSPEDAGEM": 2011.35,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 508790.83
+    "2023": 508790.83,
+    "2026": 1677.14
   },
   "monthTotals": {
     "2023-01": 2406.44,
@@ -68,11 +69,12 @@
     "2023-09": 47961.62,
     "2023-10": 54620.43,
     "2023-11": 79276.98,
-    "2023-12": 26015.83
+    "2023-12": 26015.83,
+    "2026-03": 1677.14
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 156341.05,
-    "percent": 30.73
+    "percent": 30.63
   }
 }

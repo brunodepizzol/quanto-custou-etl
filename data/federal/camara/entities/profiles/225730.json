@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 225730,
-    "generatedAt": "2026-03-17T02:25:05.121472Z",
+    "generatedAt": "2026-03-17T05:08:51.414961Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "enfermeira-ana-paula"
   },
   "mandateTotals": {
-    "amountNet": 192780.18,
-    "amountGross": 201441.05,
+    "amountNet": 192993.75,
+    "amountGross": 201654.62,
     "amountAdjustments": -8660.87,
-    "recordsCount": 156,
+    "recordsCount": 157,
     "byCategoryNet": {
       "ALIMENTACAO": 971.79,
-      "COMBUSTIVEL": 21368.54,
+      "COMBUSTIVEL": 21582.11,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 77543.35,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 971.79,
-      "COMBUSTIVEL": 21368.54,
+      "COMBUSTIVEL": 21582.11,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 86204.22,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 192780.18
+    "2023": 192780.18,
+    "2026": 213.57
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 36678.15,
     "2023-10": 0.0,
     "2023-11": 0.0,
-    "2023-12": 0.0
+    "2023-12": 0.0,
+    "2026-03": 213.57
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 77543.35,
-    "percent": 40.22
+    "percent": 40.18
   }
 }

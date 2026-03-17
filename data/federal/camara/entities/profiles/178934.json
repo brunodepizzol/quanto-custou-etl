@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178934,
-    "generatedAt": "2026-03-17T02:25:05.060067Z",
+    "generatedAt": "2026-03-17T05:08:51.325116Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "toninho-wandscheer"
   },
   "mandateTotals": {
-    "amountNet": 486535.74,
-    "amountGross": 505295.34,
+    "amountNet": 487559.9,
+    "amountGross": 506319.5,
     "amountAdjustments": -18759.6,
-    "recordsCount": 352,
+    "recordsCount": 354,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 20652.56,
+      "COMBUSTIVEL": 21046.72,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3669.92,
       "DESLOCAMENTO": 169469.69,
       "DIVULGACAO": 220000.0,
       "ESCRITORIO": 71507.55,
-      "HOSPEDAGEM": 1236.02,
+      "HOSPEDAGEM": 1866.02,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 20652.56,
+      "COMBUSTIVEL": 21046.72,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3669.92,
       "DESLOCAMENTO": 188229.29,
       "DIVULGACAO": 220000.0,
       "ESCRITORIO": 71507.55,
-      "HOSPEDAGEM": 1236.02,
+      "HOSPEDAGEM": 1866.02,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 486535.74
+    "2023": 486535.74,
+    "2026": 1024.16
   },
   "monthTotals": {
     "2023-01": 1073.6,
@@ -68,11 +69,12 @@
     "2023-09": 49513.02,
     "2023-10": 44659.37,
     "2023-11": 40894.39,
-    "2023-12": 35866.36
+    "2023-12": 35866.36,
+    "2026-03": 1024.16
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 220000.0,
-    "percent": 45.22
+    "percent": 45.12
   }
 }

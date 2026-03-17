@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220669,
-    "generatedAt": "2026-03-17T02:25:05.113502Z",
+    "generatedAt": "2026-03-17T05:08:51.401233Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "lula-da-fonte"
   },
   "mandateTotals": {
-    "amountNet": 501827.73,
-    "amountGross": 597459.55,
+    "amountNet": 504798.58,
+    "amountGross": 600430.4,
     "amountAdjustments": -95631.82,
-    "recordsCount": 672,
+    "recordsCount": 684,
     "byCategoryNet": {
       "ALIMENTACAO": 263.37,
-      "COMBUSTIVEL": 34152.95,
+      "COMBUSTIVEL": 37123.8,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 819.55,
       "DESLOCAMENTO": 259526.98,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 263.37,
-      "COMBUSTIVEL": 34152.95,
+      "COMBUSTIVEL": 37123.8,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 819.55,
       "DESLOCAMENTO": 355158.8,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 501827.73
+    "2023": 501827.73,
+    "2026": 2970.85
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 57090.2,
     "2023-10": 55754.57,
     "2023-11": 47505.6,
-    "2023-12": 59904.53
+    "2023-12": 59904.53,
+    "2026-03": 2970.85
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 259526.98,
-    "percent": 51.72
+    "percent": 51.41
   }
 }

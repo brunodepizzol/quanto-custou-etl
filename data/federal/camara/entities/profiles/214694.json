@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 214694,
-    "generatedAt": "2026-03-17T02:25:05.092878Z",
+    "generatedAt": "2026-03-17T05:08:51.366304Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "jorge-goetten"
   },
   "mandateTotals": {
-    "amountNet": 464944.61,
-    "amountGross": 487425.69,
+    "amountNet": 466867.75,
+    "amountGross": 489348.83,
     "amountAdjustments": -22481.08,
-    "recordsCount": 441,
+    "recordsCount": 448,
     "byCategoryNet": {
       "ALIMENTACAO": 235.62,
-      "COMBUSTIVEL": 57453.66,
+      "COMBUSTIVEL": 58909.32,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1176.95,
       "DESLOCAMENTO": 203382.09,
       "DIVULGACAO": 97839.99,
-      "ESCRITORIO": 103540.3,
+      "ESCRITORIO": 104007.78,
       "HOSPEDAGEM": 1316.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 235.62,
-      "COMBUSTIVEL": 57453.66,
+      "COMBUSTIVEL": 58909.32,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1176.95,
       "DESLOCAMENTO": 225863.17,
       "DIVULGACAO": 97839.99,
-      "ESCRITORIO": 103540.3,
+      "ESCRITORIO": 104007.78,
       "HOSPEDAGEM": 1316.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 464944.61
+    "2023": 464944.61,
+    "2026": 1923.14
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 58282.57,
     "2023-10": 48155.39,
     "2023-11": 45376.92,
-    "2023-12": 36638.94
+    "2023-12": 36638.94,
+    "2026-03": 1923.14
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 203382.09,
-    "percent": 43.74
+    "percent": 43.56
   }
 }

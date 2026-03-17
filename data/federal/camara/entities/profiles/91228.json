@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 91228,
-    "generatedAt": "2026-03-17T02:25:05.040700Z",
+    "generatedAt": "2026-03-17T05:08:51.286123Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "waldemar-oliveira"
   },
   "mandateTotals": {
-    "amountNet": 538817.35,
-    "amountGross": 584357.73,
+    "amountNet": 539070.0,
+    "amountGross": 584610.38,
     "amountAdjustments": -45540.38,
-    "recordsCount": 491,
+    "recordsCount": 492,
     "byCategoryNet": {
       "ALIMENTACAO": 1658.64,
-      "COMBUSTIVEL": 40117.04,
+      "COMBUSTIVEL": 40369.69,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 616.11,
       "DESLOCAMENTO": 223718.19,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1658.64,
-      "COMBUSTIVEL": 40117.04,
+      "COMBUSTIVEL": 40369.69,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 616.11,
       "DESLOCAMENTO": 269258.57,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 538817.35
+    "2023": 538817.35,
+    "2026": 252.65
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 42480.33,
     "2023-10": 39363.26,
     "2023-11": 45550.46,
-    "2023-12": 64585.29
+    "2023-12": 64585.29,
+    "2026-03": 252.65
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 233550.0,
-    "percent": 43.34
+    "percent": 43.32
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220667,
-    "generatedAt": "2026-03-17T02:25:05.113181Z",
+    "generatedAt": "2026-03-17T05:08:51.400708Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "pedro-campos"
   },
   "mandateTotals": {
-    "amountNet": 416436.63,
-    "amountGross": 447328.96,
+    "amountNet": 419574.17,
+    "amountGross": 450466.5,
     "amountAdjustments": -30892.33,
-    "recordsCount": 561,
+    "recordsCount": 569,
     "byCategoryNet": {
       "ALIMENTACAO": 1367.44,
-      "COMBUSTIVEL": 37828.23,
+      "COMBUSTIVEL": 38929.86,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2079.95,
       "DESLOCAMENTO": 241851.55,
       "DIVULGACAO": 38982.07,
-      "ESCRITORIO": 75977.74,
+      "ESCRITORIO": 78013.65,
       "HOSPEDAGEM": 18349.65,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1367.44,
-      "COMBUSTIVEL": 37828.23,
+      "COMBUSTIVEL": 38929.86,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2079.95,
       "DESLOCAMENTO": 272743.88,
       "DIVULGACAO": 38982.07,
-      "ESCRITORIO": 75977.74,
+      "ESCRITORIO": 78013.65,
       "HOSPEDAGEM": 18349.65,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 416436.63
+    "2023": 416436.63,
+    "2026": 3137.54
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 34801.67,
     "2023-10": 37627.96,
     "2023-11": 40701.27,
-    "2023-12": 71044.31
+    "2023-12": 71044.31,
+    "2026-03": 3137.54
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 241851.55,
-    "percent": 58.08
+    "percent": 57.64
   }
 }

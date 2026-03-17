@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160599,
-    "generatedAt": "2026-03-17T02:25:05.051843Z",
+    "generatedAt": "2026-03-17T05:08:51.308801Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "dimas-fabiano"
   },
   "mandateTotals": {
-    "amountNet": 464038.59,
-    "amountGross": 469461.62,
+    "amountNet": 470310.34,
+    "amountGross": 475733.37,
     "amountAdjustments": -5423.03,
-    "recordsCount": 1083,
+    "recordsCount": 1132,
     "byCategoryNet": {
       "ALIMENTACAO": 11134.54,
-      "COMBUSTIVEL": 53302.45,
+      "COMBUSTIVEL": 56112.81,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9285.72,
       "DESLOCAMENTO": 218289.54,
       "DIVULGACAO": 132631.24,
-      "ESCRITORIO": 21182.87,
-      "HOSPEDAGEM": 18212.23,
+      "ESCRITORIO": 21409.52,
+      "HOSPEDAGEM": 21446.97,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 11134.54,
-      "COMBUSTIVEL": 53302.45,
+      "COMBUSTIVEL": 56112.81,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9285.72,
       "DESLOCAMENTO": 223712.57,
       "DIVULGACAO": 132631.24,
-      "ESCRITORIO": 21182.87,
-      "HOSPEDAGEM": 18212.23,
+      "ESCRITORIO": 21409.52,
+      "HOSPEDAGEM": 21446.97,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 464038.59
+    "2023": 464038.59,
+    "2026": 6271.75
   },
   "monthTotals": {
     "2023-01": 13949.77,
@@ -68,11 +69,12 @@
     "2023-09": 36049.07,
     "2023-10": 55732.33,
     "2023-11": 45170.69,
-    "2023-12": 96369.11
+    "2023-12": 96369.11,
+    "2026-03": 6271.75
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 218289.54,
-    "percent": 47.04
+    "percent": 46.41
   }
 }

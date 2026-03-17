@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178933,
-    "generatedAt": "2026-03-17T02:25:05.059913Z",
+    "generatedAt": "2026-03-17T05:08:51.324850Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "sergio-souza"
   },
   "mandateTotals": {
-    "amountNet": 496969.07,
-    "amountGross": 519699.78,
+    "amountNet": 497355.7,
+    "amountGross": 520086.41,
     "amountAdjustments": -22730.71,
-    "recordsCount": 817,
+    "recordsCount": 818,
     "byCategoryNet": {
       "ALIMENTACAO": 503.26,
-      "COMBUSTIVEL": 56375.79,
+      "COMBUSTIVEL": 56762.42,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 10542.45,
       "DESLOCAMENTO": 218441.98,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 503.26,
-      "COMBUSTIVEL": 56375.79,
+      "COMBUSTIVEL": 56762.42,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 10542.45,
       "DESLOCAMENTO": 241172.69,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 496969.07
+    "2023": 496969.07,
+    "2026": 386.63
   },
   "monthTotals": {
     "2023-01": 13392.9,
@@ -68,11 +69,12 @@
     "2023-09": 39669.35,
     "2023-10": 30547.79,
     "2023-11": 32418.82,
-    "2023-12": 102349.59
+    "2023-12": 102349.59,
+    "2026-03": 386.63
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 218441.98,
-    "percent": 43.95
+    "percent": 43.92
   }
 }

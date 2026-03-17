@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220670,
-    "generatedAt": "2026-03-17T02:25:05.113659Z",
+    "generatedAt": "2026-03-17T05:08:51.401512Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "iza-arruda"
   },
   "mandateTotals": {
-    "amountNet": 490795.48,
-    "amountGross": 572580.25,
+    "amountNet": 492355.81,
+    "amountGross": 574140.58,
     "amountAdjustments": -81784.77,
-    "recordsCount": 471,
+    "recordsCount": 475,
     "byCategoryNet": {
       "ALIMENTACAO": 3855.43,
-      "COMBUSTIVEL": 63174.17,
+      "COMBUSTIVEL": 63656.5,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4866.31,
       "DESLOCAMENTO": 219561.94,
       "DIVULGACAO": 191925.88,
       "ESCRITORIO": 2470.9,
-      "HOSPEDAGEM": 4940.85,
+      "HOSPEDAGEM": 6018.85,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 3855.43,
-      "COMBUSTIVEL": 63174.17,
+      "COMBUSTIVEL": 63656.5,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4866.31,
       "DESLOCAMENTO": 301346.71,
       "DIVULGACAO": 191925.88,
       "ESCRITORIO": 2470.9,
-      "HOSPEDAGEM": 4940.85,
+      "HOSPEDAGEM": 6018.85,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 490795.48
+    "2023": 490795.48,
+    "2026": 1560.33
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 43170.8,
     "2023-10": 41724.24,
     "2023-11": 54926.09,
-    "2023-12": 149650.56
+    "2023-12": 149650.56,
+    "2026-03": 1560.33
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 219561.94,
-    "percent": 44.74
+    "percent": 44.59
   }
 }

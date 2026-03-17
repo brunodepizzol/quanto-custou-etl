@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 198197,
-    "generatedAt": "2026-03-17T02:25:05.064630Z",
+    "generatedAt": "2026-03-17T05:08:51.333053Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "greyce-elias"
   },
   "mandateTotals": {
-    "amountNet": 240722.54,
-    "amountGross": 250946.63,
+    "amountNet": 242927.54,
+    "amountGross": 253151.63,
     "amountAdjustments": -10224.09,
-    "recordsCount": 639,
+    "recordsCount": 650,
     "byCategoryNet": {
       "ALIMENTACAO": 100.0,
-      "COMBUSTIVEL": 50411.87,
+      "COMBUSTIVEL": 52386.42,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9043.53,
       "DESLOCAMENTO": 99394.63,
       "DIVULGACAO": 12208.0,
-      "ESCRITORIO": 65054.68,
-      "HOSPEDAGEM": 4509.83,
+      "ESCRITORIO": 65165.13,
+      "HOSPEDAGEM": 4629.83,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 100.0,
-      "COMBUSTIVEL": 50411.87,
+      "COMBUSTIVEL": 52386.42,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9043.53,
       "DESLOCAMENTO": 109618.72,
       "DIVULGACAO": 12208.0,
-      "ESCRITORIO": 65054.68,
-      "HOSPEDAGEM": 4509.83,
+      "ESCRITORIO": 65165.13,
+      "HOSPEDAGEM": 4629.83,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 240722.54
+    "2023": 240722.54,
+    "2026": 2205.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 18177.73,
     "2023-10": 21234.67,
     "2023-11": 32467.52,
-    "2023-12": 30920.49
+    "2023-12": 30920.49,
+    "2026-03": 2205.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 99394.63,
-    "percent": 41.29
+    "percent": 40.92
   }
 }

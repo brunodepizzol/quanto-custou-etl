@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 222429,
-    "generatedAt": "2026-03-17T02:25:05.120532Z",
+    "generatedAt": "2026-03-17T05:08:51.413528Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "luis-carlos-gomes"
   },
   "mandateTotals": {
-    "amountNet": 450840.17,
-    "amountGross": 470250.49,
+    "amountNet": 451302.4,
+    "amountGross": 470712.72,
     "amountAdjustments": -19410.32,
-    "recordsCount": 224,
+    "recordsCount": 227,
     "byCategoryNet": {
-      "ALIMENTACAO": 810.66,
-      "COMBUSTIVEL": 13343.31,
+      "ALIMENTACAO": 912.89,
+      "COMBUSTIVEL": 13703.31,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2145.8,
       "DESLOCAMENTO": 180461.61,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 810.66,
-      "COMBUSTIVEL": 13343.31,
+      "ALIMENTACAO": 912.89,
+      "COMBUSTIVEL": 13703.31,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2145.8,
       "DESLOCAMENTO": 199871.93,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 450840.17
+    "2023": 450840.17,
+    "2026": 462.23
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 62413.52,
     "2023-10": 46604.73,
     "2023-11": 32195.09,
-    "2023-12": 36979.64
+    "2023-12": 36979.64,
+    "2026-03": 462.23
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 241076.0,
-    "percent": 53.47
+    "percent": 53.42
   }
 }

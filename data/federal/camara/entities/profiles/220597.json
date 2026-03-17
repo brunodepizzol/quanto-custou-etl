@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220597,
-    "generatedAt": "2026-03-17T02:25:05.103736Z",
+    "generatedAt": "2026-03-17T05:08:51.384624Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "thiago-flores"
   },
   "mandateTotals": {
-    "amountNet": 491455.15,
-    "amountGross": 506032.47,
+    "amountNet": 494877.04,
+    "amountGross": 509454.36,
     "amountAdjustments": -14577.32,
-    "recordsCount": 406,
+    "recordsCount": 414,
     "byCategoryNet": {
       "ALIMENTACAO": 158.0,
-      "COMBUSTIVEL": 49339.66,
+      "COMBUSTIVEL": 50732.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 11201.73,
       "DESLOCAMENTO": 223470.62,
       "DIVULGACAO": 137935.94,
       "ESCRITORIO": 65616.96,
-      "HOSPEDAGEM": 3732.24,
+      "HOSPEDAGEM": 5761.16,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 158.0,
-      "COMBUSTIVEL": 49339.66,
+      "COMBUSTIVEL": 50732.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 11201.73,
       "DESLOCAMENTO": 238047.94,
       "DIVULGACAO": 137935.94,
       "ESCRITORIO": 65616.96,
-      "HOSPEDAGEM": 3732.24,
+      "HOSPEDAGEM": 5761.16,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 491455.15
+    "2023": 491455.15,
+    "2026": 3421.89
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 43357.37,
     "2023-10": 64943.01,
     "2023-11": 33888.53,
-    "2023-12": 49072.54
+    "2023-12": 49072.54,
+    "2026-03": 3421.89
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 223470.62,
-    "percent": 45.47
+    "percent": 45.16
   }
 }

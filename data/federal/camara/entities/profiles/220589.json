@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220589,
-    "generatedAt": "2026-03-17T02:25:05.102739Z",
+    "generatedAt": "2026-03-17T05:08:51.382802Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "eduardo-velloso"
   },
   "mandateTotals": {
-    "amountNet": 573578.64,
-    "amountGross": 600206.31,
+    "amountNet": 577312.16,
+    "amountGross": 603939.83,
     "amountAdjustments": -26627.67,
-    "recordsCount": 349,
+    "recordsCount": 361,
     "byCategoryNet": {
       "ALIMENTACAO": 1011.17,
-      "COMBUSTIVEL": 42755.29,
+      "COMBUSTIVEL": 46488.81,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6983.39,
       "DESLOCAMENTO": 285726.27,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1011.17,
-      "COMBUSTIVEL": 42755.29,
+      "COMBUSTIVEL": 46488.81,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6983.39,
       "DESLOCAMENTO": 312353.94,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 573578.64
+    "2023": 573578.64,
+    "2026": 3733.52
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 57450.23,
     "2023-10": 131081.85,
     "2023-11": 116299.72,
-    "2023-12": 21287.81
+    "2023-12": 21287.81,
+    "2026-03": 3733.52
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 285726.27,
-    "percent": 49.81
+    "percent": 49.49
   }
 }

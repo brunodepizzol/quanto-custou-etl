@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141398,
-    "generatedAt": "2026-03-17T02:25:05.044377Z",
+    "generatedAt": "2026-03-17T05:08:51.293116Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "carlos-zarattini"
   },
   "mandateTotals": {
-    "amountNet": 515006.76,
-    "amountGross": 539756.62,
+    "amountNet": 515897.89,
+    "amountGross": 540647.75,
     "amountAdjustments": -24749.86,
-    "recordsCount": 853,
+    "recordsCount": 860,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 41555.73,
+      "COMBUSTIVEL": 42257.81,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 20095.5,
       "DESLOCAMENTO": 89012.81,
       "DIVULGACAO": 225315.11,
-      "ESCRITORIO": 135245.43,
+      "ESCRITORIO": 135434.48,
       "HOSPEDAGEM": 3782.18,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 41555.73,
+      "COMBUSTIVEL": 42257.81,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 20095.5,
       "DESLOCAMENTO": 113762.67,
       "DIVULGACAO": 225315.11,
-      "ESCRITORIO": 135245.43,
+      "ESCRITORIO": 135434.48,
       "HOSPEDAGEM": 3782.18,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 515006.76
+    "2023": 515006.76,
+    "2026": 891.13
   },
   "monthTotals": {
     "2023-01": 8594.03,
@@ -68,11 +69,12 @@
     "2023-09": 35944.44,
     "2023-10": 43527.16,
     "2023-11": 37436.37,
-    "2023-12": 101036.69
+    "2023-12": 101036.69,
+    "2026-03": 891.13
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 225315.11,
-    "percent": 43.75
+    "percent": 43.67
   }
 }

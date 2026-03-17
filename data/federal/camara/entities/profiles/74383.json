@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74383,
-    "generatedAt": "2026-03-17T02:25:05.037480Z",
+    "generatedAt": "2026-03-17T05:08:51.280090Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,19 +15,19 @@
     "slug": "giacobo"
   },
   "mandateTotals": {
-    "amountNet": 516901.71,
-    "amountGross": 528120.72,
+    "amountNet": 551409.29,
+    "amountGross": 562628.3,
     "amountAdjustments": -11219.01,
-    "recordsCount": 126,
+    "recordsCount": 128,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 102789.61,
-      "DIVULGACAO": 393736.7,
+      "DIVULGACAO": 427209.5,
       "ESCRITORIO": 3067.5,
-      "HOSPEDAGEM": 17307.9,
+      "HOSPEDAGEM": 18342.68,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
@@ -36,9 +36,9 @@
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 114008.62,
-      "DIVULGACAO": 393736.7,
+      "DIVULGACAO": 427209.5,
       "ESCRITORIO": 3067.5,
-      "HOSPEDAGEM": 17307.9,
+      "HOSPEDAGEM": 18342.68,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 516901.71
+    "2023": 516901.71,
+    "2026": 34507.58
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 42025.51,
     "2023-10": 49541.55,
     "2023-11": 54468.17,
-    "2023-12": 65246.78
+    "2023-12": 65246.78,
+    "2026-03": 34507.58
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 393736.7,
-    "percent": 76.17
+    "amountNet": 427209.5,
+    "percent": 77.48
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 107970,
-    "generatedAt": "2026-03-17T02:25:05.041954Z",
+    "generatedAt": "2026-03-17T05:08:51.288518Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "ana-paula-leão"
   },
   "mandateTotals": {
-    "amountNet": 454980.6,
-    "amountGross": 461546.63,
+    "amountNet": 455908.81,
+    "amountGross": 462474.84,
     "amountAdjustments": -6566.03,
-    "recordsCount": 650,
+    "recordsCount": 655,
     "byCategoryNet": {
-      "ALIMENTACAO": 12317.41,
-      "COMBUSTIVEL": 38817.0,
+      "ALIMENTACAO": 12471.95,
+      "COMBUSTIVEL": 39590.67,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 17119.93,
       "DESLOCAMENTO": 106608.4,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 12317.41,
-      "COMBUSTIVEL": 38817.0,
+      "ALIMENTACAO": 12471.95,
+      "COMBUSTIVEL": 39590.67,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 17119.93,
       "DESLOCAMENTO": 113174.43,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 454980.6
+    "2023": 454980.6,
+    "2026": 928.21
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 67580.27,
     "2023-10": 41996.28,
     "2023-11": 44738.96,
-    "2023-12": 2632.87
+    "2023-12": 2632.87,
+    "2026-03": 928.21
   },
   "topCategory": {
     "category": "ESCRITORIO",
     "amountNet": 151014.51,
-    "percent": 33.19
+    "percent": 33.12
   }
 }

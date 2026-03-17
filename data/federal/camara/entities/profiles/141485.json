@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141485,
-    "generatedAt": "2026-03-17T02:25:05.046091Z",
+    "generatedAt": "2026-03-17T05:08:51.296498Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "luiz-carlos-busato"
   },
   "mandateTotals": {
-    "amountNet": 484997.94,
-    "amountGross": 561636.56,
+    "amountNet": 486673.79,
+    "amountGross": 563312.41,
     "amountAdjustments": -76638.62,
-    "recordsCount": 444,
+    "recordsCount": 453,
     "byCategoryNet": {
-      "ALIMENTACAO": 7533.04,
-      "COMBUSTIVEL": 25193.09,
+      "ALIMENTACAO": 7793.27,
+      "COMBUSTIVEL": 26608.71,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4052.95,
       "DESLOCAMENTO": 80735.81,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 7533.04,
-      "COMBUSTIVEL": 25193.09,
+      "ALIMENTACAO": 7793.27,
+      "COMBUSTIVEL": 26608.71,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4052.95,
       "DESLOCAMENTO": 157374.43,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 484997.94
+    "2023": 484997.94,
+    "2026": 1675.85
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 91658.53,
     "2023-10": 31192.9,
     "2023-11": 28225.14,
-    "2023-12": 148345.67
+    "2023-12": 148345.67,
+    "2026-03": 1675.85
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 358055.65,
-    "percent": 73.83
+    "percent": 73.57
   }
 }

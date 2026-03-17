@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220613,
-    "generatedAt": "2026-03-17T02:25:05.106052Z",
+    "generatedAt": "2026-03-17T05:08:51.388644Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "roberto-monteiro-pai"
   },
   "mandateTotals": {
-    "amountNet": 417842.54,
-    "amountGross": 431195.17,
+    "amountNet": 418290.54,
+    "amountGross": 431643.17,
     "amountAdjustments": -13352.63,
-    "recordsCount": 630,
+    "recordsCount": 634,
     "byCategoryNet": {
-      "ALIMENTACAO": 20129.37,
-      "COMBUSTIVEL": 17097.22,
+      "ALIMENTACAO": 20436.4,
+      "COMBUSTIVEL": 17238.19,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2138.1,
       "DESLOCAMENTO": 180908.95,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 20129.37,
-      "COMBUSTIVEL": 17097.22,
+      "ALIMENTACAO": 20436.4,
+      "COMBUSTIVEL": 17238.19,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2138.1,
       "DESLOCAMENTO": 194261.58,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 417842.54
+    "2023": 417842.54,
+    "2026": 448.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 37809.39,
     "2023-10": 27576.1,
     "2023-11": 41300.22,
-    "2023-12": 149091.61
+    "2023-12": 149091.61,
+    "2026-03": 448.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 180908.95,
-    "percent": 43.3
+    "percent": 43.25
   }
 }

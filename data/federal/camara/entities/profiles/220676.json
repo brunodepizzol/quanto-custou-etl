@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220676,
-    "generatedAt": "2026-03-17T02:25:05.114719Z",
+    "generatedAt": "2026-03-17T05:08:51.403273Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "andreia-siqueira"
   },
   "mandateTotals": {
-    "amountNet": 131779.23,
-    "amountGross": 156744.95,
+    "amountNet": 139780.21,
+    "amountGross": 164745.93,
     "amountAdjustments": -24965.72,
-    "recordsCount": 250,
+    "recordsCount": 251,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 19678.91,
+      "COMBUSTIVEL": 27679.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 77055.02,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 19678.91,
+      "COMBUSTIVEL": 27679.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 102020.74,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 131779.23
+    "2023": 131779.23,
+    "2026": 8000.98
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 16261.88,
     "2023-10": 11132.0,
     "2023-11": 3400.12,
-    "2023-12": 12234.59
+    "2023-12": 12234.59,
+    "2026-03": 8000.98
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 77055.02,
-    "percent": 58.47
+    "percent": 55.13
   }
 }

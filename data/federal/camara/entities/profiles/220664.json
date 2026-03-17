@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220664,
-    "generatedAt": "2026-03-17T02:25:05.112684Z",
+    "generatedAt": "2026-03-17T05:08:51.399886Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "guilherme-uchoa"
   },
   "mandateTotals": {
-    "amountNet": 510281.47,
-    "amountGross": 549734.76,
+    "amountNet": 511069.62,
+    "amountGross": 550522.91,
     "amountAdjustments": -39453.29,
-    "recordsCount": 346,
+    "recordsCount": 349,
     "byCategoryNet": {
       "ALIMENTACAO": 525.17,
-      "COMBUSTIVEL": 47880.67,
+      "COMBUSTIVEL": 48668.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 223428.81,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 525.17,
-      "COMBUSTIVEL": 47880.67,
+      "COMBUSTIVEL": 48668.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 262882.1,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 510281.47
+    "2023": 510281.47,
+    "2026": 788.15
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 46135.64,
     "2023-10": 48304.13,
     "2023-11": 27899.14,
-    "2023-12": 112494.53
+    "2023-12": 112494.53,
+    "2026-03": 788.15
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 235560.0,
-    "percent": 46.16
+    "percent": 46.09
   }
 }

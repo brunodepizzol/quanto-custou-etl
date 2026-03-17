@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220533,
-    "generatedAt": "2026-03-17T02:25:05.094382Z",
+    "generatedAt": "2026-03-17T05:08:51.368919Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "prof-reginaldo-veras"
   },
   "mandateTotals": {
-    "amountNet": 147137.82,
-    "amountGross": 147137.82,
+    "amountNet": 147978.73,
+    "amountGross": 147978.73,
     "amountAdjustments": 0.0,
-    "recordsCount": 245,
+    "recordsCount": 249,
     "byCategoryNet": {
       "ALIMENTACAO": 7971.44,
-      "COMBUSTIVEL": 19008.33,
+      "COMBUSTIVEL": 19849.24,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3307.56,
       "DESLOCAMENTO": 62582.5,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 7971.44,
-      "COMBUSTIVEL": 19008.33,
+      "COMBUSTIVEL": 19849.24,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3307.56,
       "DESLOCAMENTO": 62582.5,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 147137.82
+    "2023": 147137.82,
+    "2026": 840.91
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 18008.52,
     "2023-10": 22912.91,
     "2023-11": 22164.15,
-    "2023-12": 21013.78
+    "2023-12": 21013.78,
+    "2026-03": 840.91
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 62582.5,
-    "percent": 42.53
+    "percent": 42.29
   }
 }

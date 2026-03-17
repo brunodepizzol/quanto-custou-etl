@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 157130,
-    "generatedAt": "2026-03-17T02:25:05.048056Z",
+    "generatedAt": "2026-03-17T05:08:51.300803Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "túlio-gadêlha"
   },
   "mandateTotals": {
-    "amountNet": 398140.61,
-    "amountGross": 400246.9,
+    "amountNet": 398431.15,
+    "amountGross": 400537.44,
     "amountAdjustments": -2106.29,
-    "recordsCount": 479,
+    "recordsCount": 480,
     "byCategoryNet": {
       "ALIMENTACAO": 92.73,
-      "COMBUSTIVEL": 20197.91,
+      "COMBUSTIVEL": 20488.45,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 8237.37,
       "DESLOCAMENTO": 125421.44,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 92.73,
-      "COMBUSTIVEL": 20197.91,
+      "COMBUSTIVEL": 20488.45,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 8237.37,
       "DESLOCAMENTO": 127527.73,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 398140.61
+    "2023": 398140.61,
+    "2026": 290.54
   },
   "monthTotals": {
     "2023-01": 7436.62,
@@ -68,11 +69,12 @@
     "2023-09": 31564.25,
     "2023-10": 42387.03,
     "2023-11": 52152.34,
-    "2023-12": 38479.61
+    "2023-12": 38479.61,
+    "2026-03": 290.54
   },
   "topCategory": {
     "category": "ESCRITORIO",
     "amountNet": 135483.01,
-    "percent": 34.03
+    "percent": 34.0
   }
 }

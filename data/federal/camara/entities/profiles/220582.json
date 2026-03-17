@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220582,
-    "generatedAt": "2026-03-17T02:25:05.101631Z",
+    "generatedAt": "2026-03-17T05:08:51.381085Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "daniel-barbosa"
   },
   "mandateTotals": {
-    "amountNet": 514071.67,
-    "amountGross": 515452.96,
+    "amountNet": 515119.08,
+    "amountGross": 516500.37,
     "amountAdjustments": -1381.29,
-    "recordsCount": 224,
+    "recordsCount": 228,
     "byCategoryNet": {
       "ALIMENTACAO": 691.76,
-      "COMBUSTIVEL": 33029.13,
+      "COMBUSTIVEL": 34076.54,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 90985.88,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 691.76,
-      "COMBUSTIVEL": 33029.13,
+      "COMBUSTIVEL": 34076.54,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 92367.17,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 514071.67
+    "2023": 514071.67,
+    "2026": 1047.41
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 54336.53,
     "2023-10": 46035.45,
     "2023-11": 59113.6,
-    "2023-12": 5302.92
+    "2023-12": 5302.92,
+    "2026-03": 1047.41
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 387000.0,
-    "percent": 75.28
+    "percent": 75.13
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220691,
-    "generatedAt": "2026-03-17T02:25:05.116526Z",
+    "generatedAt": "2026-03-17T05:08:51.406483Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "diego-coronel"
   },
   "mandateTotals": {
-    "amountNet": 356942.2,
-    "amountGross": 414639.89,
+    "amountNet": 358558.46,
+    "amountGross": 416256.15,
     "amountAdjustments": -57697.69,
-    "recordsCount": 453,
+    "recordsCount": 458,
     "byCategoryNet": {
       "ALIMENTACAO": 703.34,
-      "COMBUSTIVEL": 57406.55,
+      "COMBUSTIVEL": 58609.1,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2450.03,
       "DESLOCAMENTO": 178437.38,
       "DIVULGACAO": 108000.0,
       "ESCRITORIO": 9268.9,
-      "HOSPEDAGEM": 676.0,
+      "HOSPEDAGEM": 1089.71,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 703.34,
-      "COMBUSTIVEL": 57406.55,
+      "COMBUSTIVEL": 58609.1,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2450.03,
       "DESLOCAMENTO": 236135.07,
       "DIVULGACAO": 108000.0,
       "ESCRITORIO": 9268.9,
-      "HOSPEDAGEM": 676.0,
+      "HOSPEDAGEM": 1089.71,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 356942.2
+    "2023": 356942.2,
+    "2026": 1616.26
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 45372.24,
     "2023-10": 43613.16,
     "2023-11": 43168.41,
-    "2023-12": 67983.07
+    "2023-12": 67983.07,
+    "2026-03": 1616.26
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 178437.38,
-    "percent": 49.99
+    "percent": 49.77
   }
 }

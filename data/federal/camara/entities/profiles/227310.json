@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 227310,
-    "generatedAt": "2026-03-17T02:25:05.122141Z",
+    "generatedAt": "2026-03-17T05:08:51.416189Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,27 +15,27 @@
     "slug": "silvio-antonio"
   },
   "mandateTotals": {
-    "amountNet": 32201.09,
-    "amountGross": 35170.89,
+    "amountNet": 33348.58,
+    "amountGross": 36318.38,
     "amountAdjustments": -2969.8,
-    "recordsCount": 12,
+    "recordsCount": 19,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 337.83,
+      "COMBUSTIVEL": 52.11,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 10201.09,
+      "DESLOCAMENTO": 10958.64,
       "DIVULGACAO": 22000.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 337.83,
+      "COMBUSTIVEL": 52.11,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 13170.89,
+      "DESLOCAMENTO": 13928.44,
       "DIVULGACAO": 22000.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 32201.09
+    "2023": 32201.09,
+    "2026": 1147.49
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 0.0,
     "2023-11": 0.0,
-    "2023-12": 32201.09
+    "2023-12": 32201.09,
+    "2026-03": 1147.49
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 22000.0,
-    "percent": 68.32
+    "percent": 65.97
   }
 }

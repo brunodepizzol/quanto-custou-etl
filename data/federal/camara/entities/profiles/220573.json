@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220573,
-    "generatedAt": "2026-03-17T02:25:05.100782Z",
+    "generatedAt": "2026-03-17T05:08:51.379633Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "dorinaldo-malafaia"
   },
   "mandateTotals": {
-    "amountNet": 538537.39,
-    "amountGross": 548622.63,
+    "amountNet": 539047.7,
+    "amountGross": 549132.94,
     "amountAdjustments": -10085.24,
-    "recordsCount": 308,
+    "recordsCount": 311,
     "byCategoryNet": {
-      "ALIMENTACAO": 3424.65,
-      "COMBUSTIVEL": 14875.29,
+      "ALIMENTACAO": 3526.88,
+      "COMBUSTIVEL": 15283.37,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 149825.65,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 3424.65,
-      "COMBUSTIVEL": 14875.29,
+      "ALIMENTACAO": 3526.88,
+      "COMBUSTIVEL": 15283.37,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 159910.89,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 538537.39
+    "2023": 538537.39,
+    "2026": 510.31
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 82661.29,
     "2023-10": 82001.07,
     "2023-11": 79012.65,
-    "2023-12": 98618.38
+    "2023-12": 98618.38,
+    "2026-03": 510.31
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 362611.31,
-    "percent": 67.33
+    "percent": 67.27
   }
 }

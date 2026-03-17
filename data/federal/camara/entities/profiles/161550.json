@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 161550,
-    "generatedAt": "2026-03-17T02:25:05.054739Z",
+    "generatedAt": "2026-03-17T05:08:51.314492Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "emidinho-madeira"
   },
   "mandateTotals": {
-    "amountNet": 447415.52,
-    "amountGross": 454091.21,
+    "amountNet": 447748.24,
+    "amountGross": 454423.93,
     "amountAdjustments": -6675.69,
-    "recordsCount": 551,
+    "recordsCount": 556,
     "byCategoryNet": {
-      "ALIMENTACAO": 3667.51,
+      "ALIMENTACAO": 3900.23,
       "COMBUSTIVEL": 40230.43,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4661.06,
       "DESLOCAMENTO": 110854.67,
       "DIVULGACAO": 186982.66,
-      "ESCRITORIO": 100655.19,
+      "ESCRITORIO": 100755.19,
       "HOSPEDAGEM": 364.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 3667.51,
+      "ALIMENTACAO": 3900.23,
       "COMBUSTIVEL": 40230.43,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4661.06,
       "DESLOCAMENTO": 117530.36,
       "DIVULGACAO": 186982.66,
-      "ESCRITORIO": 100655.19,
+      "ESCRITORIO": 100755.19,
       "HOSPEDAGEM": 364.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 447415.52
+    "2023": 447415.52,
+    "2026": 332.72
   },
   "monthTotals": {
     "2023-01": 3951.12,
@@ -68,11 +69,12 @@
     "2023-09": 35174.1,
     "2023-10": 31697.19,
     "2023-11": 51851.89,
-    "2023-12": 83224.7
+    "2023-12": 83224.7,
+    "2026-03": 332.72
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 186982.66,
-    "percent": 41.79
+    "percent": 41.76
   }
 }

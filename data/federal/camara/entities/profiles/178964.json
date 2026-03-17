@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178964,
-    "generatedAt": "2026-03-17T02:25:05.061355Z",
+    "generatedAt": "2026-03-17T05:08:51.327497Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,12 +15,12 @@
     "slug": "heitor-schuch"
   },
   "mandateTotals": {
-    "amountNet": 519216.15,
-    "amountGross": 530167.92,
+    "amountNet": 519411.75,
+    "amountGross": 530363.52,
     "amountAdjustments": -10951.77,
-    "recordsCount": 899,
+    "recordsCount": 903,
     "byCategoryNet": {
-      "ALIMENTACAO": 5623.61,
+      "ALIMENTACAO": 5819.21,
       "COMBUSTIVEL": 30084.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 15961.23,
@@ -31,7 +31,7 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 5623.61,
+      "ALIMENTACAO": 5819.21,
       "COMBUSTIVEL": 30084.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 15961.23,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 519216.15
+    "2023": 519216.15,
+    "2026": 195.6
   },
   "monthTotals": {
     "2023-01": 7671.27,
@@ -68,11 +69,12 @@
     "2023-09": 66951.22,
     "2023-10": 48451.23,
     "2023-11": 59887.85,
-    "2023-12": 34518.7
+    "2023-12": 34518.7,
+    "2026-03": 195.6
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 192701.23,
-    "percent": 37.11
+    "percent": 37.1
   }
 }

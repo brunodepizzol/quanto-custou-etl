@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220645,
-    "generatedAt": "2026-03-17T02:25:05.109925Z",
+    "generatedAt": "2026-03-17T05:08:51.395296Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "erika-hilton"
   },
   "mandateTotals": {
-    "amountNet": 414937.09,
-    "amountGross": 474257.12,
+    "amountNet": 415337.09,
+    "amountGross": 474657.12,
     "amountAdjustments": -59320.03,
-    "recordsCount": 747,
+    "recordsCount": 749,
     "byCategoryNet": {
       "ALIMENTACAO": 1654.19,
-      "COMBUSTIVEL": 7191.93,
+      "COMBUSTIVEL": 7591.93,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 258208.49,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1654.19,
-      "COMBUSTIVEL": 7191.93,
+      "COMBUSTIVEL": 7591.93,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 317528.52,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 414937.09
+    "2023": 414937.09,
+    "2026": 400.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 80972.74,
     "2023-10": 54420.05,
     "2023-11": 47689.99,
-    "2023-12": 8686.59
+    "2023-12": 8686.59,
+    "2026-03": 400.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 258208.49,
-    "percent": 62.23
+    "percent": 62.17
   }
 }

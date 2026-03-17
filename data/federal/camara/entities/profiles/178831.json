@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178831,
-    "generatedAt": "2026-03-17T02:25:05.056385Z",
+    "generatedAt": "2026-03-17T05:08:51.317731Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "andré-abdon"
   },
   "mandateTotals": {
-    "amountNet": 44.09,
-    "amountGross": 44.09,
+    "amountNet": 2061.41,
+    "amountGross": 2061.41,
     "amountAdjustments": 0.0,
-    "recordsCount": 1,
+    "recordsCount": 7,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 1947.32,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 44.09,
       "DESLOCAMENTO": 0.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "ESCRITORIO": 70.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 1947.32,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 44.09,
       "DESLOCAMENTO": 0.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "ESCRITORIO": 70.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 44.09
+    "2023": 44.09,
+    "2026": 2017.32
   },
   "monthTotals": {
     "2023-01": 44.09,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 0.0,
     "2023-11": 0.0,
-    "2023-12": 0.0
+    "2023-12": 0.0,
+    "2026-03": 2017.32
   },
   "topCategory": {
-    "category": "CORREIOS_TELEFONIA",
-    "amountNet": 44.09,
-    "percent": 100.0
+    "category": "COMBUSTIVEL",
+    "amountNet": 1947.32,
+    "percent": 94.47
   }
 }

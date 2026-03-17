@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220536,
-    "generatedAt": "2026-03-17T02:25:05.094780Z",
+    "generatedAt": "2026-03-17T05:08:51.369491Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "zé-haroldo-cathedral"
   },
   "mandateTotals": {
-    "amountNet": 601500.91,
-    "amountGross": 622136.15,
+    "amountNet": 601797.23,
+    "amountGross": 622432.47,
     "amountAdjustments": -20635.24,
-    "recordsCount": 251,
+    "recordsCount": 252,
     "byCategoryNet": {
       "ALIMENTACAO": 312.6,
-      "COMBUSTIVEL": 15632.87,
+      "COMBUSTIVEL": 15929.19,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 831.06,
       "DESLOCAMENTO": 211770.87,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 312.6,
-      "COMBUSTIVEL": 15632.87,
+      "COMBUSTIVEL": 15929.19,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 831.06,
       "DESLOCAMENTO": 232406.11,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 601500.91
+    "2023": 601500.91,
+    "2026": 296.32
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 53804.98,
     "2023-10": 54106.24,
     "2023-11": 49983.96,
-    "2023-12": 53936.11
+    "2023-12": 53936.11,
+    "2026-03": 296.32
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 285700.0,
-    "percent": 47.5
+    "percent": 47.47
   }
 }

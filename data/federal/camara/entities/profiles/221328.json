@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 221328,
-    "generatedAt": "2026-03-17T02:25:05.120001Z",
+    "generatedAt": "2026-03-17T05:08:51.412666Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "adilson-barroso"
   },
   "mandateTotals": {
-    "amountNet": 464051.63,
-    "amountGross": 468291.22,
+    "amountNet": 466102.05,
+    "amountGross": 470341.64,
     "amountAdjustments": -4239.59,
-    "recordsCount": 510,
+    "recordsCount": 521,
     "byCategoryNet": {
-      "ALIMENTACAO": 5593.34,
-      "COMBUSTIVEL": 33505.39,
+      "ALIMENTACAO": 5994.06,
+      "COMBUSTIVEL": 35155.09,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1373.51,
       "DESLOCAMENTO": 199704.45,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 5593.34,
-      "COMBUSTIVEL": 33505.39,
+      "ALIMENTACAO": 5994.06,
+      "COMBUSTIVEL": 35155.09,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1373.51,
       "DESLOCAMENTO": 203944.04,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 464051.63
+    "2023": 464051.63,
+    "2026": 2050.42
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 56134.42,
     "2023-10": 39519.15,
     "2023-11": 44006.31,
-    "2023-12": 105089.25
+    "2023-12": 105089.25,
+    "2026-03": 2050.42
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 199704.45,
-    "percent": 43.03
+    "percent": 42.85
   }
 }

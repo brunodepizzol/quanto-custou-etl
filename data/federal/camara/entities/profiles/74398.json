@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74398,
-    "generatedAt": "2026-03-17T02:25:05.037626Z",
+    "generatedAt": "2026-03-17T05:08:51.280394Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,16 +15,16 @@
     "slug": "maria-do-rosário"
   },
   "mandateTotals": {
-    "amountNet": 565400.3,
-    "amountGross": 575058.39,
+    "amountNet": 566759.22,
+    "amountGross": 576417.31,
     "amountAdjustments": -9658.09,
-    "recordsCount": 1429,
+    "recordsCount": 1435,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 69925.12,
+      "COMBUSTIVEL": 71105.14,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 14634.59,
-      "DESLOCAMENTO": 148663.64,
+      "DESLOCAMENTO": 148842.54,
       "DIVULGACAO": 119417.72,
       "ESCRITORIO": 207088.75,
       "HOSPEDAGEM": 5670.48,
@@ -32,10 +32,10 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 69925.12,
+      "COMBUSTIVEL": 71105.14,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 14634.59,
-      "DESLOCAMENTO": 158321.73,
+      "DESLOCAMENTO": 158500.63,
       "DIVULGACAO": 119417.72,
       "ESCRITORIO": 207088.75,
       "HOSPEDAGEM": 5670.48,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 565400.3
+    "2023": 565400.3,
+    "2026": 1358.92
   },
   "monthTotals": {
     "2023-01": 13126.85,
@@ -68,11 +69,12 @@
     "2023-09": 52174.32,
     "2023-10": 37310.13,
     "2023-11": 37447.54,
-    "2023-12": 14430.01
+    "2023-12": 14430.01,
+    "2026-03": 1358.92
   },
   "topCategory": {
     "category": "ESCRITORIO",
     "amountNet": 207088.75,
-    "percent": 36.63
+    "percent": 36.54
   }
 }

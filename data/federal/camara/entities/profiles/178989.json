@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178989,
-    "generatedAt": "2026-03-17T02:25:05.062845Z",
+    "generatedAt": "2026-03-17T05:08:51.330222Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "renata-abreu"
   },
   "mandateTotals": {
-    "amountNet": 504783.88,
-    "amountGross": 527501.96,
+    "amountNet": 505216.92,
+    "amountGross": 527935.0,
     "amountAdjustments": -22718.08,
-    "recordsCount": 275,
+    "recordsCount": 278,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 27649.64,
+      "COMBUSTIVEL": 28082.68,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 12123.46,
       "DESLOCAMENTO": 93070.17,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 27649.64,
+      "COMBUSTIVEL": 28082.68,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 12123.46,
       "DESLOCAMENTO": 115788.25,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 504783.88
+    "2023": 504783.88,
+    "2026": 433.04
   },
   "monthTotals": {
     "2023-01": 869.87,
@@ -68,11 +69,12 @@
     "2023-09": 38660.56,
     "2023-10": 47666.66,
     "2023-11": 77214.23,
-    "2023-12": 28734.46
+    "2023-12": 28734.46,
+    "2026-03": 433.04
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 335674.38,
-    "percent": 66.5
+    "percent": 66.44
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220626,
-    "generatedAt": "2026-03-17T02:25:05.107796Z",
+    "generatedAt": "2026-03-17T05:08:51.391600Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "rafael-simoes"
   },
   "mandateTotals": {
-    "amountNet": 484330.72,
-    "amountGross": 489536.74,
+    "amountNet": 485058.17,
+    "amountGross": 490264.19,
     "amountAdjustments": -5206.02,
-    "recordsCount": 418,
+    "recordsCount": 420,
     "byCategoryNet": {
       "ALIMENTACAO": 282.08,
-      "COMBUSTIVEL": 82192.25,
+      "COMBUSTIVEL": 82343.7,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6579.22,
       "DESLOCAMENTO": 112940.74,
       "DIVULGACAO": 155000.0,
-      "ESCRITORIO": 112913.4,
+      "ESCRITORIO": 113489.4,
       "HOSPEDAGEM": 14423.03,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 282.08,
-      "COMBUSTIVEL": 82192.25,
+      "COMBUSTIVEL": 82343.7,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6579.22,
       "DESLOCAMENTO": 118146.76,
       "DIVULGACAO": 155000.0,
-      "ESCRITORIO": 112913.4,
+      "ESCRITORIO": 113489.4,
       "HOSPEDAGEM": 14423.03,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 484330.72
+    "2023": 484330.72,
+    "2026": 727.45
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 41302.55,
     "2023-10": 48648.04,
     "2023-11": 37333.58,
-    "2023-12": 18014.09
+    "2023-12": 18014.09,
+    "2026-03": 727.45
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 155000.0,
-    "percent": 32.0
+    "percent": 31.95
   }
 }

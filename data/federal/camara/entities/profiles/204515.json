@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204515,
-    "generatedAt": "2026-03-17T02:25:05.087324Z",
+    "generatedAt": "2026-03-17T05:08:51.356657Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,12 +15,12 @@
     "slug": "andré-janones"
   },
   "mandateTotals": {
-    "amountNet": 459661.76,
-    "amountGross": 461472.16,
+    "amountNet": 459696.32,
+    "amountGross": 461506.72,
     "amountAdjustments": -1810.4,
-    "recordsCount": 355,
+    "recordsCount": 356,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
+      "ALIMENTACAO": 34.56,
       "COMBUSTIVEL": 55876.29,
       "CONSULTORIA_SERVICOS": 15000.0,
       "CORREIOS_TELEFONIA": 1547.75,
@@ -31,7 +31,7 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
+      "ALIMENTACAO": 34.56,
       "COMBUSTIVEL": 55876.29,
       "CONSULTORIA_SERVICOS": 15000.0,
       "CORREIOS_TELEFONIA": 1547.75,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 459661.76
+    "2023": 459661.76,
+    "2026": 34.56
   },
   "monthTotals": {
     "2023-01": 20704.3,
@@ -68,7 +69,8 @@
     "2023-09": 82316.96,
     "2023-10": 34167.67,
     "2023-11": 29222.61,
-    "2023-12": 31934.22
+    "2023-12": 31934.22,
+    "2026-03": 34.56
   },
   "topCategory": {
     "category": "DIVULGACAO",

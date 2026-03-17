@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 66385,
-    "generatedAt": "2026-03-17T02:25:05.030667Z",
+    "generatedAt": "2026-03-17T05:08:51.267054Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "julio-arcoverde"
   },
   "mandateTotals": {
-    "amountNet": 553746.57,
-    "amountGross": 579863.7,
+    "amountNet": 554046.57,
+    "amountGross": 580163.7,
     "amountAdjustments": -26117.13,
-    "recordsCount": 381,
+    "recordsCount": 382,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 49680.73,
+      "COMBUSTIVEL": 49980.73,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 245647.25,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 49680.73,
+      "COMBUSTIVEL": 49980.73,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 271764.38,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 553746.57
+    "2023": 553746.57,
+    "2026": 300.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 53334.98,
     "2023-10": 46220.87,
     "2023-11": 41007.14,
-    "2023-12": 39119.61
+    "2023-12": 39119.61,
+    "2026-03": 300.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 245647.25,
-    "percent": 44.36
+    "percent": 44.34
   }
 }

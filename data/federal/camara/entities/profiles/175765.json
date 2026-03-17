@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 175765,
-    "generatedAt": "2026-03-17T02:25:05.056056Z",
+    "generatedAt": "2026-03-17T05:08:51.317097Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "ribamar-silva"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 2068.4,
+    "amountGross": 2068.4,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 8,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 218.45,
+      "COMBUSTIVEL": 1849.95,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 218.45,
+      "COMBUSTIVEL": 1849.95,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 0.0
+    "2023": 0.0,
+    "2026": 2068.4
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 0.0,
     "2023-11": 0.0,
-    "2023-12": 0.0
+    "2023-12": 0.0,
+    "2026-03": 2068.4
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "COMBUSTIVEL",
+    "amountNet": 1849.95,
+    "percent": 89.44
   }
 }

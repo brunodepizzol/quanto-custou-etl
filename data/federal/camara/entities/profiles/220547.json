@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220547,
-    "generatedAt": "2026-03-17T02:25:05.096494Z",
+    "generatedAt": "2026-03-17T05:08:51.372452Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "marcos-pollon"
   },
   "mandateTotals": {
-    "amountNet": 491252.85,
-    "amountGross": 499894.3,
+    "amountNet": 493082.17,
+    "amountGross": 501723.62,
     "amountAdjustments": -8641.45,
-    "recordsCount": 325,
+    "recordsCount": 331,
     "byCategoryNet": {
       "ALIMENTACAO": 267.8,
-      "COMBUSTIVEL": 37518.25,
+      "COMBUSTIVEL": 39347.57,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4020.39,
       "DESLOCAMENTO": 135754.57,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 267.8,
-      "COMBUSTIVEL": 37518.25,
+      "COMBUSTIVEL": 39347.57,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4020.39,
       "DESLOCAMENTO": 144396.02,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 491252.85
+    "2023": 491252.85,
+    "2026": 1829.32
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 94653.76,
     "2023-10": 72091.59,
     "2023-11": 51933.4,
-    "2023-12": 67281.84
+    "2023-12": 67281.84,
+    "2026-03": 1829.32
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 279029.4,
-    "percent": 56.8
+    "percent": 56.59
   }
 }

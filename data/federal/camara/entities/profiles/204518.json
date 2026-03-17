@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204518,
-    "generatedAt": "2026-03-17T02:25:05.087652Z",
+    "generatedAt": "2026-03-17T05:08:51.357330Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "dr-frederico"
   },
   "mandateTotals": {
-    "amountNet": 484281.83,
-    "amountGross": 498019.04,
+    "amountNet": 484561.89,
+    "amountGross": 498299.1,
     "amountAdjustments": -13737.21,
-    "recordsCount": 258,
+    "recordsCount": 259,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 50095.21,
+      "COMBUSTIVEL": 50375.27,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5740.58,
       "DESLOCAMENTO": 177621.94,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 50095.21,
+      "COMBUSTIVEL": 50375.27,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5740.58,
       "DESLOCAMENTO": 191359.15,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 484281.83
+    "2023": 484281.83,
+    "2026": 280.06
   },
   "monthTotals": {
     "2023-01": 4317.17,
@@ -68,11 +69,12 @@
     "2023-09": 47325.92,
     "2023-10": 53599.22,
     "2023-11": 44696.9,
-    "2023-12": 49685.94
+    "2023-12": 49685.94,
+    "2026-03": 280.06
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 177621.94,
-    "percent": 36.68
+    "percent": 36.66
   }
 }

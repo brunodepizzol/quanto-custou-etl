@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160673,
-    "generatedAt": "2026-03-17T02:25:05.053949Z",
+    "generatedAt": "2026-03-17T05:08:51.312915Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "giovani-cherini"
   },
   "mandateTotals": {
-    "amountNet": 548766.79,
-    "amountGross": 551122.23,
+    "amountNet": 549416.19,
+    "amountGross": 551771.63,
     "amountAdjustments": -2355.44,
-    "recordsCount": 790,
+    "recordsCount": 794,
     "byCategoryNet": {
-      "ALIMENTACAO": 5044.85,
-      "COMBUSTIVEL": 46725.99,
+      "ALIMENTACAO": 5099.85,
+      "COMBUSTIVEL": 47320.39,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 16639.64,
       "DESLOCAMENTO": 145289.8,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 5044.85,
-      "COMBUSTIVEL": 46725.99,
+      "ALIMENTACAO": 5099.85,
+      "COMBUSTIVEL": 47320.39,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 16639.64,
       "DESLOCAMENTO": 147645.24,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 548766.79
+    "2023": 548766.79,
+    "2026": 649.4
   },
   "monthTotals": {
     "2023-01": 12759.0,
@@ -68,11 +69,12 @@
     "2023-09": 44807.86,
     "2023-10": 39902.8,
     "2023-11": 40856.19,
-    "2023-12": 39947.77
+    "2023-12": 39947.77,
+    "2026-03": 649.4
   },
   "topCategory": {
     "category": "ESCRITORIO",
     "amountNet": 168698.18,
-    "percent": 30.74
+    "percent": 30.7
   }
 }

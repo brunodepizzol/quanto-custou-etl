@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178871,
-    "generatedAt": "2026-03-17T02:25:05.057643Z",
+    "generatedAt": "2026-03-17T05:08:51.320328Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "evair-vieira-de-melo"
   },
   "mandateTotals": {
-    "amountNet": 506291.97,
-    "amountGross": 531904.78,
+    "amountNet": 507874.16,
+    "amountGross": 533486.97,
     "amountAdjustments": -25612.81,
-    "recordsCount": 335,
+    "recordsCount": 346,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 70221.68,
+      "COMBUSTIVEL": 70887.27,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 14887.95,
       "DESLOCAMENTO": 185530.14,
       "DIVULGACAO": 217485.0,
-      "ESCRITORIO": 13251.97,
-      "HOSPEDAGEM": 4915.23,
+      "ESCRITORIO": 13325.57,
+      "HOSPEDAGEM": 5758.23,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 70221.68,
+      "COMBUSTIVEL": 70887.27,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 14887.95,
       "DESLOCAMENTO": 211142.95,
       "DIVULGACAO": 217485.0,
-      "ESCRITORIO": 13251.97,
-      "HOSPEDAGEM": 4915.23,
+      "ESCRITORIO": 13325.57,
+      "HOSPEDAGEM": 5758.23,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 506291.97
+    "2023": 506291.97,
+    "2026": 1582.19
   },
   "monthTotals": {
     "2023-01": 13703.9,
@@ -68,11 +69,12 @@
     "2023-09": 34191.12,
     "2023-10": 42228.56,
     "2023-11": 66909.67,
-    "2023-12": 73687.26
+    "2023-12": 73687.26,
+    "2026-03": 1582.19
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 217485.0,
-    "percent": 42.96
+    "percent": 42.82
   }
 }

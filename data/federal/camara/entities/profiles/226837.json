@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 226837,
-    "generatedAt": "2026-03-17T02:25:05.121970Z",
+    "generatedAt": "2026-03-17T05:08:51.415911Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "saulo-pedroso"
   },
   "mandateTotals": {
-    "amountNet": 96625.67,
-    "amountGross": 99934.86,
+    "amountNet": 97547.53,
+    "amountGross": 100856.72,
     "amountAdjustments": -3309.19,
-    "recordsCount": 82,
+    "recordsCount": 86,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 8870.96,
+      "ALIMENTACAO": 154.0,
+      "COMBUSTIVEL": 9638.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 37872.74,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 8870.96,
+      "ALIMENTACAO": 154.0,
+      "COMBUSTIVEL": 9638.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 41181.93,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 96625.67
+    "2023": 96625.67,
+    "2026": 921.86
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 35154.6,
     "2023-11": 31024.82,
-    "2023-12": 30446.25
+    "2023-12": 30446.25,
+    "2026-03": 921.86
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 37872.74,
-    "percent": 39.2
+    "percent": 38.82
   }
 }

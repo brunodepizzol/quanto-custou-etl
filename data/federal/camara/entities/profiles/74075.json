@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74075,
-    "generatedAt": "2026-03-17T02:25:05.034299Z",
+    "generatedAt": "2026-03-17T05:08:51.273962Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "elcione-barbalho"
   },
   "mandateTotals": {
-    "amountNet": 443341.83,
-    "amountGross": 467614.24,
+    "amountNet": 446065.28,
+    "amountGross": 470337.69,
     "amountAdjustments": -24272.41,
-    "recordsCount": 341,
+    "recordsCount": 343,
     "byCategoryNet": {
-      "ALIMENTACAO": 3053.61,
-      "COMBUSTIVEL": 10861.61,
+      "ALIMENTACAO": 3069.59,
+      "COMBUSTIVEL": 13569.08,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 24117.5,
       "DESLOCAMENTO": 226614.7,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 3053.61,
-      "COMBUSTIVEL": 10861.61,
+      "ALIMENTACAO": 3069.59,
+      "COMBUSTIVEL": 13569.08,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 24117.5,
       "DESLOCAMENTO": 250887.11,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 443341.83
+    "2023": 443341.83,
+    "2026": 2723.45
   },
   "monthTotals": {
     "2023-01": 16878.43,
@@ -68,11 +69,12 @@
     "2023-09": 22421.64,
     "2023-10": 15162.45,
     "2023-11": 19564.89,
-    "2023-12": 97536.4
+    "2023-12": 97536.4,
+    "2026-03": 2723.45
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 226614.7,
-    "percent": 51.12
+    "percent": 50.8
   }
 }

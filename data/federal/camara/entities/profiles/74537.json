@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74537,
-    "generatedAt": "2026-03-17T02:25:05.038587Z",
+    "generatedAt": "2026-03-17T05:08:51.282202Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "claudio-cajado"
   },
   "mandateTotals": {
-    "amountNet": 445832.44,
-    "amountGross": 526445.69,
+    "amountNet": 447877.09,
+    "amountGross": 528490.34,
     "amountAdjustments": -80613.25,
-    "recordsCount": 540,
+    "recordsCount": 553,
     "byCategoryNet": {
-      "ALIMENTACAO": 5115.54,
-      "COMBUSTIVEL": 68007.79,
+      "ALIMENTACAO": 5676.39,
+      "COMBUSTIVEL": 69241.6,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 17566.86,
       "DESLOCAMENTO": 251947.65,
       "DIVULGACAO": 71000.0,
       "ESCRITORIO": 26135.0,
-      "HOSPEDAGEM": 6059.6,
+      "HOSPEDAGEM": 6309.59,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 5115.54,
-      "COMBUSTIVEL": 68007.79,
+      "ALIMENTACAO": 5676.39,
+      "COMBUSTIVEL": 69241.6,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 17566.86,
       "DESLOCAMENTO": 332560.9,
       "DIVULGACAO": 71000.0,
       "ESCRITORIO": 26135.0,
-      "HOSPEDAGEM": 6059.6,
+      "HOSPEDAGEM": 6309.59,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 445832.44
+    "2023": 445832.44,
+    "2026": 2044.65
   },
   "monthTotals": {
     "2023-01": 582.15,
@@ -68,11 +69,12 @@
     "2023-09": 27700.0,
     "2023-10": 23659.11,
     "2023-11": 30301.89,
-    "2023-12": 60898.05
+    "2023-12": 60898.05,
+    "2026-03": 2044.65
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 251947.65,
-    "percent": 56.51
+    "percent": 56.25
   }
 }

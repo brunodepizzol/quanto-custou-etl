@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204427,
-    "generatedAt": "2026-03-17T02:25:05.080594Z",
+    "generatedAt": "2026-03-17T05:08:51.344892Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "fernando-rodolfo"
   },
   "mandateTotals": {
-    "amountNet": 550523.31,
-    "amountGross": 563019.3,
+    "amountNet": 550803.31,
+    "amountGross": 563299.3,
     "amountAdjustments": -12495.99,
-    "recordsCount": 428,
+    "recordsCount": 430,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 33448.16,
+      "COMBUSTIVEL": 33728.16,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 193.01,
       "DESLOCAMENTO": 233377.41,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 33448.16,
+      "COMBUSTIVEL": 33728.16,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 193.01,
       "DESLOCAMENTO": 245873.4,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 550523.31
+    "2023": 550523.31,
+    "2026": 280.0
   },
   "monthTotals": {
     "2023-01": 10000.0,
@@ -68,11 +69,12 @@
     "2023-09": 69026.8,
     "2023-10": 46068.38,
     "2023-11": 51257.44,
-    "2023-12": 29444.31
+    "2023-12": 29444.31,
+    "2026-03": 280.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 233377.41,
-    "percent": 42.39
+    "percent": 42.37
   }
 }

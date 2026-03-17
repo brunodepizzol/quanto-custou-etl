@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204497,
-    "generatedAt": "2026-03-17T02:25:05.085914Z",
+    "generatedAt": "2026-03-17T05:08:51.354329Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "júnior-ferrari"
   },
   "mandateTotals": {
-    "amountNet": 335349.49,
-    "amountGross": 339981.61,
+    "amountNet": 335877.68,
+    "amountGross": 340509.8,
     "amountAdjustments": -4632.12,
-    "recordsCount": 237,
+    "recordsCount": 239,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 34294.54,
+      "COMBUSTIVEL": 34822.73,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1293.38,
       "DESLOCAMENTO": 77332.29,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 34294.54,
+      "COMBUSTIVEL": 34822.73,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1293.38,
       "DESLOCAMENTO": 81964.41,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 335349.49
+    "2023": 335349.49,
+    "2026": 528.19
   },
   "monthTotals": {
     "2023-01": 116.43,
@@ -68,11 +69,12 @@
     "2023-09": 16117.57,
     "2023-10": 66001.55,
     "2023-11": 73475.72,
-    "2023-12": 61802.78
+    "2023-12": 61802.78,
+    "2026-03": 528.19
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 222429.28,
-    "percent": 66.33
+    "percent": 66.22
   }
 }

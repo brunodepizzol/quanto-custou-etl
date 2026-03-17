@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 233594,
-    "generatedAt": "2026-03-17T02:25:05.123404Z",
+    "generatedAt": "2026-03-17T05:08:51.418456Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "rafael-fera"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 1251.23,
+    "amountGross": 1251.23,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 10,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 90.99,
+      "COMBUSTIVEL": 775.24,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "ESCRITORIO": 165.0,
+      "HOSPEDAGEM": 220.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 90.99,
+      "COMBUSTIVEL": 775.24,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "ESCRITORIO": 165.0,
+      "HOSPEDAGEM": 220.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 0.0
+    "2023": 0.0,
+    "2026": 1251.23
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 0.0,
     "2023-11": 0.0,
-    "2023-12": 0.0
+    "2023-12": 0.0,
+    "2026-03": 1251.23
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "COMBUSTIVEL",
+    "amountNet": 775.24,
+    "percent": 61.96
   }
 }

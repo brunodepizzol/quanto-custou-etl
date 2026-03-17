@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220616,
-    "generatedAt": "2026-03-17T02:25:05.106472Z",
+    "generatedAt": "2026-03-17T05:08:51.389200Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "luciano-vieira"
   },
   "mandateTotals": {
-    "amountNet": 436903.51,
-    "amountGross": 463265.68,
+    "amountNet": 438003.51,
+    "amountGross": 464365.68,
     "amountAdjustments": -26362.17,
-    "recordsCount": 289,
+    "recordsCount": 293,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 30269.11,
+      "COMBUSTIVEL": 31369.11,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 161260.01,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 30269.11,
+      "COMBUSTIVEL": 31369.11,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 187622.18,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 436903.51
+    "2023": 436903.51,
+    "2026": 1100.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 53594.58,
     "2023-10": 50049.49,
     "2023-11": 38733.1,
-    "2023-12": 50302.44
+    "2023-12": 50302.44,
+    "2026-03": 1100.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 163750.0,
-    "percent": 37.48
+    "percent": 37.39
   }
 }

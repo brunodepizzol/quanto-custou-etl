@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 98148,
-    "generatedAt": "2026-03-17T02:25:05.041447Z",
+    "generatedAt": "2026-03-17T05:08:51.287652Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "cobalchini"
   },
   "mandateTotals": {
-    "amountNet": 406939.79,
-    "amountGross": 423124.91,
+    "amountNet": 419133.43,
+    "amountGross": 435318.55,
     "amountAdjustments": -16185.12,
-    "recordsCount": 879,
+    "recordsCount": 892,
     "byCategoryNet": {
       "ALIMENTACAO": 7405.06,
-      "COMBUSTIVEL": 54072.54,
+      "COMBUSTIVEL": 55376.19,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 504.38,
       "DESLOCAMENTO": 205899.97,
-      "DIVULGACAO": 108667.97,
-      "ESCRITORIO": 20471.07,
+      "DIVULGACAO": 115517.97,
+      "ESCRITORIO": 24511.06,
       "HOSPEDAGEM": 9918.8,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 7405.06,
-      "COMBUSTIVEL": 54072.54,
+      "COMBUSTIVEL": 55376.19,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 504.38,
       "DESLOCAMENTO": 222085.09,
-      "DIVULGACAO": 108667.97,
-      "ESCRITORIO": 20471.07,
+      "DIVULGACAO": 115517.97,
+      "ESCRITORIO": 24511.06,
       "HOSPEDAGEM": 9918.8,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 406939.79
+    "2023": 406939.79,
+    "2026": 12193.64
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 40174.88,
     "2023-10": 31844.54,
     "2023-11": 28970.61,
-    "2023-12": 109428.8
+    "2023-12": 109428.8,
+    "2026-03": 12193.64
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 205899.97,
-    "percent": 50.6
+    "percent": 49.13
   }
 }

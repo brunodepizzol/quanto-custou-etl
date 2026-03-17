@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 230767,
-    "generatedAt": "2026-03-17T02:25:05.122758Z",
+    "generatedAt": "2026-03-17T05:08:51.417310Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "rodrigo-da-zaeli"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 8225.24,
+    "amountGross": 8225.24,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 27,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 6513.24,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 1712.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 6513.24,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 1712.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 0.0
+    "2023": 0.0,
+    "2026": 8225.24
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 0.0,
     "2023-11": 0.0,
-    "2023-12": 0.0
+    "2023-12": 0.0,
+    "2026-03": 8225.24
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "COMBUSTIVEL",
+    "amountNet": 6513.24,
+    "percent": 79.19
   }
 }

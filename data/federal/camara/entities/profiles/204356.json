@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204356,
-    "generatedAt": "2026-03-17T02:25:05.065284Z",
+    "generatedAt": "2026-03-17T05:08:51.334300Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "amaro-neto"
   },
   "mandateTotals": {
-    "amountNet": 475652.06,
-    "amountGross": 480910.68,
+    "amountNet": 480157.74,
+    "amountGross": 485416.36,
     "amountAdjustments": -5258.62,
-    "recordsCount": 274,
+    "recordsCount": 283,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 17956.9,
+      "COMBUSTIVEL": 19043.57,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 141319.19,
       "DIVULGACAO": 281700.0,
-      "ESCRITORIO": 34675.97,
+      "ESCRITORIO": 38094.98,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 17956.9,
+      "COMBUSTIVEL": 19043.57,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 146577.81,
       "DIVULGACAO": 281700.0,
-      "ESCRITORIO": 34675.97,
+      "ESCRITORIO": 38094.98,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 475652.06
+    "2023": 475652.06,
+    "2026": 4505.68
   },
   "monthTotals": {
     "2023-01": 3849.23,
@@ -68,11 +69,12 @@
     "2023-09": 45922.73,
     "2023-10": 49475.87,
     "2023-11": 51347.11,
-    "2023-12": 77117.88
+    "2023-12": 77117.88,
+    "2026-03": 4505.68
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 281700.0,
-    "percent": 59.22
+    "percent": 58.67
   }
 }

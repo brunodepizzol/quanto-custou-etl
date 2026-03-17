@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204360,
-    "generatedAt": "2026-03-17T02:25:05.065598Z",
+    "generatedAt": "2026-03-17T05:08:51.334931Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,16 +15,16 @@
     "slug": "silvia-cristina"
   },
   "mandateTotals": {
-    "amountNet": 593465.51,
-    "amountGross": 617561.47,
+    "amountNet": 594869.1,
+    "amountGross": 618965.06,
     "amountAdjustments": -24095.96,
-    "recordsCount": 580,
+    "recordsCount": 586,
     "byCategoryNet": {
       "ALIMENTACAO": 1024.87,
-      "COMBUSTIVEL": 59217.34,
+      "COMBUSTIVEL": 60190.73,
       "CONSULTORIA_SERVICOS": 6000.0,
       "CORREIOS_TELEFONIA": 2575.04,
-      "DESLOCAMENTO": 119423.02,
+      "DESLOCAMENTO": 119853.22,
       "DIVULGACAO": 346794.24,
       "ESCRITORIO": 51864.5,
       "HOSPEDAGEM": 6566.5,
@@ -32,10 +32,10 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1024.87,
-      "COMBUSTIVEL": 59217.34,
+      "COMBUSTIVEL": 60190.73,
       "CONSULTORIA_SERVICOS": 6000.0,
       "CORREIOS_TELEFONIA": 2575.04,
-      "DESLOCAMENTO": 143518.98,
+      "DESLOCAMENTO": 143949.18,
       "DIVULGACAO": 346794.24,
       "ESCRITORIO": 51864.5,
       "HOSPEDAGEM": 6566.5,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 593465.51
+    "2023": 593465.51,
+    "2026": 1403.59
   },
   "monthTotals": {
     "2023-01": 15475.0,
@@ -68,11 +69,12 @@
     "2023-09": 56241.89,
     "2023-10": 61080.01,
     "2023-11": 44697.74,
-    "2023-12": 21485.93
+    "2023-12": 21485.93,
+    "2026-03": 1403.59
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 346794.24,
-    "percent": 58.44
+    "percent": 58.3
   }
 }

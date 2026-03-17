@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 213762,
-    "generatedAt": "2026-03-17T02:25:05.092724Z",
+    "generatedAt": "2026-03-17T05:08:51.366020Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "carla-dickson"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 640.0,
+    "amountGross": 640.0,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 5,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 640.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 640.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 0.0
+    "2023": 0.0,
+    "2026": 640.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 0.0,
     "2023-11": 0.0,
-    "2023-12": 0.0
+    "2023-12": 0.0,
+    "2026-03": 640.0
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "COMBUSTIVEL",
+    "amountNet": 640.0,
+    "percent": 100.0
   }
 }

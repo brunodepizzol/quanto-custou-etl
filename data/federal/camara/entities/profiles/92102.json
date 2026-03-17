@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 92102,
-    "generatedAt": "2026-03-17T02:25:05.040847Z",
+    "generatedAt": "2026-03-17T05:08:51.286428Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "leur-lomanto-júnior"
   },
   "mandateTotals": {
-    "amountNet": 508014.31,
-    "amountGross": 511358.58,
+    "amountNet": 508750.64,
+    "amountGross": 512094.91,
     "amountAdjustments": -3344.27,
-    "recordsCount": 261,
+    "recordsCount": 264,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 33186.5,
+      "COMBUSTIVEL": 33922.83,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6840.4,
       "DESLOCAMENTO": 294461.64,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 33186.5,
+      "COMBUSTIVEL": 33922.83,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6840.4,
       "DESLOCAMENTO": 297805.91,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 508014.31
+    "2023": 508014.31,
+    "2026": 736.33
   },
   "monthTotals": {
     "2023-01": 26713.98,
@@ -68,11 +69,12 @@
     "2023-09": 64470.29,
     "2023-10": 60209.95,
     "2023-11": 39666.63,
-    "2023-12": 48125.18
+    "2023-12": 48125.18,
+    "2026-03": 736.33
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 294461.64,
-    "percent": 57.96
+    "percent": 57.88
   }
 }

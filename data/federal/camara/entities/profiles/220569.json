@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220569,
-    "generatedAt": "2026-03-17T02:25:05.100094Z",
+    "generatedAt": "2026-03-17T05:08:51.378518Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "silvye-alves"
   },
   "mandateTotals": {
-    "amountNet": 250396.29,
-    "amountGross": 250396.29,
+    "amountNet": 252692.68,
+    "amountGross": 252692.68,
     "amountAdjustments": 0.0,
-    "recordsCount": 214,
+    "recordsCount": 224,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 29923.5,
+      "COMBUSTIVEL": 32064.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1086.56,
       "DESLOCAMENTO": 75900.0,
       "DIVULGACAO": 23608.5,
       "ESCRITORIO": 118860.73,
-      "HOSPEDAGEM": 1017.0,
+      "HOSPEDAGEM": 1172.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 29923.5,
+      "COMBUSTIVEL": 32064.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1086.56,
       "DESLOCAMENTO": 75900.0,
       "DIVULGACAO": 23608.5,
       "ESCRITORIO": 118860.73,
-      "HOSPEDAGEM": 1017.0,
+      "HOSPEDAGEM": 1172.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 250396.29
+    "2023": 250396.29,
+    "2026": 2296.39
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 20708.27,
     "2023-10": 39394.85,
     "2023-11": 36725.3,
-    "2023-12": 35982.54
+    "2023-12": 35982.54,
+    "2026-03": 2296.39
   },
   "topCategory": {
     "category": "ESCRITORIO",
     "amountNet": 118860.73,
-    "percent": 47.47
+    "percent": 47.04
   }
 }

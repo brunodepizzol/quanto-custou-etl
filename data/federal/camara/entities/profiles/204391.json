@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204391,
-    "generatedAt": "2026-03-17T02:25:05.077566Z",
+    "generatedAt": "2026-03-17T05:08:51.339614Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "josé-nelto"
   },
   "mandateTotals": {
-    "amountNet": 464091.7,
-    "amountGross": 464091.7,
+    "amountNet": 464489.72,
+    "amountGross": 464489.72,
     "amountAdjustments": 0.0,
-    "recordsCount": 173,
+    "recordsCount": 174,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 44237.64,
+      "COMBUSTIVEL": 44635.66,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 9132.75,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 44237.64,
+      "COMBUSTIVEL": 44635.66,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 9132.75,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 464091.7
+    "2023": 464091.7,
+    "2026": 398.02
   },
   "monthTotals": {
     "2023-01": 13000.0,
@@ -68,11 +69,12 @@
     "2023-09": 56041.44,
     "2023-10": 42363.81,
     "2023-11": 25390.21,
-    "2023-12": 38656.72
+    "2023-12": 38656.72,
+    "2026-03": 398.02
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 405100.0,
-    "percent": 87.29
+    "percent": 87.21
   }
 }

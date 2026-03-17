@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220687,
-    "generatedAt": "2026-03-17T02:25:05.116024Z",
+    "generatedAt": "2026-03-17T05:08:51.405587Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "márcio-honaiser"
   },
   "mandateTotals": {
-    "amountNet": 459798.42,
-    "amountGross": 477695.77,
+    "amountNet": 460091.57,
+    "amountGross": 477988.92,
     "amountAdjustments": -17897.35,
-    "recordsCount": 362,
+    "recordsCount": 363,
     "byCategoryNet": {
       "ALIMENTACAO": 345.17,
-      "COMBUSTIVEL": 48054.69,
+      "COMBUSTIVEL": 48347.84,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 80928.75,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 345.17,
-      "COMBUSTIVEL": 48054.69,
+      "COMBUSTIVEL": 48347.84,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 98826.1,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 459798.42
+    "2023": 459798.42,
+    "2026": 293.15
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 33244.11,
     "2023-10": 39253.58,
     "2023-11": 93190.49,
-    "2023-12": 38610.39
+    "2023-12": 38610.39,
+    "2026-03": 293.15
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 303226.87,
-    "percent": 65.95
+    "percent": 65.91
   }
 }

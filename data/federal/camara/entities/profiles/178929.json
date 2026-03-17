@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178929,
-    "generatedAt": "2026-03-17T02:25:05.059598Z",
+    "generatedAt": "2026-03-17T05:08:51.324234Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,27 +15,27 @@
     "slug": "diego-garcia"
   },
   "mandateTotals": {
-    "amountNet": 523928.77,
-    "amountGross": 547936.78,
+    "amountNet": 531934.98,
+    "amountGross": 555942.99,
     "amountAdjustments": -24008.01,
-    "recordsCount": 1290,
+    "recordsCount": 1299,
     "byCategoryNet": {
-      "ALIMENTACAO": 4799.25,
-      "COMBUSTIVEL": 62586.33,
+      "ALIMENTACAO": 4879.05,
+      "COMBUSTIVEL": 64805.35,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 17989.73,
-      "DESLOCAMENTO": 241089.99,
+      "DESLOCAMENTO": 246797.38,
       "DIVULGACAO": 126697.66,
       "ESCRITORIO": 60286.78,
       "HOSPEDAGEM": 10479.03,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 4799.25,
-      "COMBUSTIVEL": 62586.33,
+      "ALIMENTACAO": 4879.05,
+      "COMBUSTIVEL": 64805.35,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 17989.73,
-      "DESLOCAMENTO": 265098.0,
+      "DESLOCAMENTO": 270805.39,
       "DIVULGACAO": 126697.66,
       "ESCRITORIO": 60286.78,
       "HOSPEDAGEM": 10479.03,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 523928.77
+    "2023": 523928.77,
+    "2026": 8006.21
   },
   "monthTotals": {
     "2023-01": 1396.94,
@@ -68,11 +69,12 @@
     "2023-09": 78688.77,
     "2023-10": 51148.31,
     "2023-11": 61424.67,
-    "2023-12": 28059.62
+    "2023-12": 28059.62,
+    "2026-03": 8006.21
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 241089.99,
-    "percent": 46.02
+    "amountNet": 246797.38,
+    "percent": 46.4
   }
 }

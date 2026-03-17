@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220701,
-    "generatedAt": "2026-03-17T02:25:05.118045Z",
+    "generatedAt": "2026-03-17T05:08:51.409164Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "delegado-matheus-laiola"
   },
   "mandateTotals": {
-    "amountNet": 517892.41,
-    "amountGross": 527364.32,
+    "amountNet": 527760.41,
+    "amountGross": 537232.32,
     "amountAdjustments": -9471.91,
-    "recordsCount": 285,
+    "recordsCount": 294,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 37616.33,
+      "COMBUSTIVEL": 39484.33,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 136772.88,
       "DIVULGACAO": 270256.11,
-      "ESCRITORIO": 73247.09,
+      "ESCRITORIO": 81247.09,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 37616.33,
+      "COMBUSTIVEL": 39484.33,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 146244.79,
       "DIVULGACAO": 270256.11,
-      "ESCRITORIO": 73247.09,
+      "ESCRITORIO": 81247.09,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 517892.41
+    "2023": 517892.41,
+    "2026": 9868.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 61390.13,
     "2023-10": 46564.45,
     "2023-11": 60466.19,
-    "2023-12": 50613.0
+    "2023-12": 50613.0,
+    "2026-03": 9868.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 270256.11,
-    "percent": 52.18
+    "percent": 51.21
   }
 }

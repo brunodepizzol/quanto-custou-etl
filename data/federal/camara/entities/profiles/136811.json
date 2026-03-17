@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 136811,
-    "generatedAt": "2026-03-17T02:25:05.043606Z",
+    "generatedAt": "2026-03-17T05:08:51.291679Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "afonso-hamm"
   },
   "mandateTotals": {
-    "amountNet": 541673.03,
-    "amountGross": 549557.45,
+    "amountNet": 546722.69,
+    "amountGross": 554607.11,
     "amountAdjustments": -7884.42,
-    "recordsCount": 848,
+    "recordsCount": 869,
     "byCategoryNet": {
-      "ALIMENTACAO": 4946.71,
-      "COMBUSTIVEL": 52393.99,
+      "ALIMENTACAO": 5108.33,
+      "COMBUSTIVEL": 54375.13,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7969.17,
       "DESLOCAMENTO": 229935.05,
-      "DIVULGACAO": 153488.0,
-      "ESCRITORIO": 79705.73,
-      "HOSPEDAGEM": 13234.38,
+      "DIVULGACAO": 155088.0,
+      "ESCRITORIO": 80012.63,
+      "HOSPEDAGEM": 14234.38,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 4946.71,
-      "COMBUSTIVEL": 52393.99,
+      "ALIMENTACAO": 5108.33,
+      "COMBUSTIVEL": 54375.13,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7969.17,
       "DESLOCAMENTO": 237819.47,
-      "DIVULGACAO": 153488.0,
-      "ESCRITORIO": 79705.73,
-      "HOSPEDAGEM": 13234.38,
+      "DIVULGACAO": 155088.0,
+      "ESCRITORIO": 80012.63,
+      "HOSPEDAGEM": 14234.38,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 541673.03
+    "2023": 541673.03,
+    "2026": 5049.66
   },
   "monthTotals": {
     "2023-01": 9526.14,
@@ -68,11 +69,12 @@
     "2023-09": 48677.14,
     "2023-10": 52406.23,
     "2023-11": 51005.91,
-    "2023-12": 46929.11
+    "2023-12": 46929.11,
+    "2026-03": 5049.66
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 229935.05,
-    "percent": 42.45
+    "percent": 42.06
   }
 }

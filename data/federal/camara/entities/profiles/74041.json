@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74041,
-    "generatedAt": "2026-03-17T02:25:05.033436Z",
+    "generatedAt": "2026-03-17T05:08:51.272233Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "luiz-couto"
   },
   "mandateTotals": {
-    "amountNet": 545800.94,
-    "amountGross": 556636.55,
+    "amountNet": 549212.53,
+    "amountGross": 560048.14,
     "amountAdjustments": -10835.61,
-    "recordsCount": 387,
+    "recordsCount": 393,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 64471.45,
+      "COMBUSTIVEL": 65120.07,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4853.93,
       "DESLOCAMENTO": 285256.62,
       "DIVULGACAO": 93426.6,
-      "ESCRITORIO": 95775.14,
+      "ESCRITORIO": 98538.11,
       "HOSPEDAGEM": 2017.2,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 64471.45,
+      "COMBUSTIVEL": 65120.07,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4853.93,
       "DESLOCAMENTO": 296092.23,
       "DIVULGACAO": 93426.6,
-      "ESCRITORIO": 95775.14,
+      "ESCRITORIO": 98538.11,
       "HOSPEDAGEM": 2017.2,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 545800.94
+    "2023": 545800.94,
+    "2026": 3411.59
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 48549.39,
     "2023-10": 55858.86,
     "2023-11": 55231.99,
-    "2023-12": 36419.64
+    "2023-12": 36419.64,
+    "2026-03": 3411.59
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 285256.62,
-    "percent": 52.26
+    "percent": 51.94
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 80815,
-    "generatedAt": "2026-03-17T02:25:05.040257Z",
+    "generatedAt": "2026-03-17T05:08:51.285305Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "leo-prates"
   },
   "mandateTotals": {
-    "amountNet": 498592.69,
-    "amountGross": 516107.26,
+    "amountNet": 502043.29,
+    "amountGross": 519557.86,
     "amountAdjustments": -17514.57,
-    "recordsCount": 354,
+    "recordsCount": 363,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 29348.45,
+      "COMBUSTIVEL": 31492.97,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 207120.92,
       "DIVULGACAO": 165422.0,
-      "ESCRITORIO": 96421.83,
+      "ESCRITORIO": 97727.91,
       "HOSPEDAGEM": 279.49,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 29348.45,
+      "COMBUSTIVEL": 31492.97,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 224635.49,
       "DIVULGACAO": 165422.0,
-      "ESCRITORIO": 96421.83,
+      "ESCRITORIO": 97727.91,
       "HOSPEDAGEM": 279.49,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 498592.69
+    "2023": 498592.69,
+    "2026": 3450.6
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 48393.29,
     "2023-10": 48803.4,
     "2023-11": 53449.55,
-    "2023-12": 36035.48
+    "2023-12": 36035.48,
+    "2026-03": 3450.6
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 207120.92,
-    "percent": 41.54
+    "percent": 41.26
   }
 }

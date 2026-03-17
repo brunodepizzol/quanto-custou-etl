@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204364,
-    "generatedAt": "2026-03-17T02:25:05.066069Z",
+    "generatedAt": "2026-03-17T05:08:51.335882Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "eli-borges"
   },
   "mandateTotals": {
-    "amountNet": 469126.86,
-    "amountGross": 469126.86,
+    "amountNet": 476804.28,
+    "amountGross": 476804.28,
     "amountAdjustments": 0.0,
-    "recordsCount": 482,
+    "recordsCount": 507,
     "byCategoryNet": {
       "ALIMENTACAO": 651.67,
-      "COMBUSTIVEL": 82548.73,
+      "COMBUSTIVEL": 88250.54,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2004.38,
       "DESLOCAMENTO": 140627.28,
       "DIVULGACAO": 180320.0,
-      "ESCRITORIO": 61182.8,
-      "HOSPEDAGEM": 1792.0,
+      "ESCRITORIO": 61275.41,
+      "HOSPEDAGEM": 3675.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 651.67,
-      "COMBUSTIVEL": 82548.73,
+      "COMBUSTIVEL": 88250.54,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2004.38,
       "DESLOCAMENTO": 140627.28,
       "DIVULGACAO": 180320.0,
-      "ESCRITORIO": 61182.8,
-      "HOSPEDAGEM": 1792.0,
+      "ESCRITORIO": 61275.41,
+      "HOSPEDAGEM": 3675.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 469126.86
+    "2023": 469126.86,
+    "2026": 7677.42
   },
   "monthTotals": {
     "2023-01": 3509.46,
@@ -68,11 +69,12 @@
     "2023-09": 63813.72,
     "2023-10": 49258.06,
     "2023-11": 29111.8,
-    "2023-12": 58590.53
+    "2023-12": 58590.53,
+    "2026-03": 7677.42
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 180320.0,
-    "percent": 38.44
+    "percent": 37.82
   }
 }

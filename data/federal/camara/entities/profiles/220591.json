@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220591,
-    "generatedAt": "2026-03-17T02:25:05.103063Z",
+    "generatedAt": "2026-03-17T05:08:51.383476Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "meire-serafim"
   },
   "mandateTotals": {
-    "amountNet": 560487.15,
-    "amountGross": 603806.08,
+    "amountNet": 561570.77,
+    "amountGross": 604889.7,
     "amountAdjustments": -43318.93,
-    "recordsCount": 494,
+    "recordsCount": 501,
     "byCategoryNet": {
-      "ALIMENTACAO": 9863.83,
-      "COMBUSTIVEL": 61211.34,
+      "ALIMENTACAO": 10051.13,
+      "COMBUSTIVEL": 62107.66,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1296.33,
       "DESLOCAMENTO": 151286.28,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 9863.83,
-      "COMBUSTIVEL": 61211.34,
+      "ALIMENTACAO": 10051.13,
+      "COMBUSTIVEL": 62107.66,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1296.33,
       "DESLOCAMENTO": 194605.21,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 560487.15
+    "2023": 560487.15,
+    "2026": 1083.62
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 37073.56,
     "2023-10": 49775.25,
     "2023-11": 52550.95,
-    "2023-12": 182624.95
+    "2023-12": 182624.95,
+    "2026-03": 1083.62
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 294026.3,
-    "percent": 52.46
+    "percent": 52.36
   }
 }

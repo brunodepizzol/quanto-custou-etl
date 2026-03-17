@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 156190,
-    "generatedAt": "2026-03-17T02:25:05.047908Z",
+    "generatedAt": "2026-03-17T05:08:51.300492Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "marcel-van-hattem"
   },
   "mandateTotals": {
-    "amountNet": 252554.23,
-    "amountGross": 296888.11,
+    "amountNet": 253419.97,
+    "amountGross": 297753.85,
     "amountAdjustments": -44333.88,
-    "recordsCount": 480,
+    "recordsCount": 483,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 16427.54,
+      "COMBUSTIVEL": 16723.28,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 416.71,
       "DESLOCAMENTO": 144443.69,
-      "DIVULGACAO": 34428.55,
+      "DIVULGACAO": 34998.55,
       "ESCRITORIO": 49787.25,
       "HOSPEDAGEM": 7050.49,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 16427.54,
+      "COMBUSTIVEL": 16723.28,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 416.71,
       "DESLOCAMENTO": 188777.57,
-      "DIVULGACAO": 34428.55,
+      "DIVULGACAO": 34998.55,
       "ESCRITORIO": 49787.25,
       "HOSPEDAGEM": 7050.49,
       "OUTROS": 0.0
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 252554.23
+    "2023": 252554.23,
+    "2026": 865.74
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 22593.82,
     "2023-10": 22420.24,
     "2023-11": 19128.3,
-    "2023-12": 16641.87
+    "2023-12": 16641.87,
+    "2026-03": 865.74
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 144443.69,
-    "percent": 57.19
+    "percent": 57.0
   }
 }

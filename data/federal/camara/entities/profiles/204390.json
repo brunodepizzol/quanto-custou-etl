@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204390,
-    "generatedAt": "2026-03-17T02:25:05.077408Z",
+    "generatedAt": "2026-03-17T05:08:51.339309Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "professor-alcides"
   },
   "mandateTotals": {
-    "amountNet": 473183.55,
-    "amountGross": 473183.55,
+    "amountNet": 478518.97,
+    "amountGross": 478518.97,
     "amountAdjustments": 0.0,
-    "recordsCount": 56,
+    "recordsCount": 58,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 46345.85,
+      "COMBUSTIVEL": 51681.27,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 119900.0,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 46345.85,
+      "COMBUSTIVEL": 51681.27,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 119900.0,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 473183.55
+    "2023": 473183.55,
+    "2026": 5335.42
   },
   "monthTotals": {
     "2023-01": 35000.0,
@@ -68,11 +69,12 @@
     "2023-09": 30180.02,
     "2023-10": 26990.0,
     "2023-11": 26990.0,
-    "2023-12": 2700.0
+    "2023-12": 2700.0,
+    "2026-03": 5335.42
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 165000.0,
-    "percent": 34.87
+    "percent": 34.48
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 73692,
-    "generatedAt": "2026-03-17T02:25:05.032410Z",
+    "generatedAt": "2026-03-17T05:08:51.270205Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "osmar-terra"
   },
   "mandateTotals": {
-    "amountNet": 524723.61,
-    "amountGross": 525645.2,
+    "amountNet": 529257.94,
+    "amountGross": 530179.53,
     "amountAdjustments": -921.59,
-    "recordsCount": 591,
+    "recordsCount": 611,
     "byCategoryNet": {
-      "ALIMENTACAO": 6052.13,
-      "COMBUSTIVEL": 32244.27,
+      "ALIMENTACAO": 6991.47,
+      "COMBUSTIVEL": 34324.26,
       "CONSULTORIA_SERVICOS": 8000.0,
       "CORREIOS_TELEFONIA": 10251.9,
       "DESLOCAMENTO": 222538.72,
       "DIVULGACAO": 156300.0,
       "ESCRITORIO": 51585.9,
-      "HOSPEDAGEM": 37750.69,
+      "HOSPEDAGEM": 39265.69,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 6052.13,
-      "COMBUSTIVEL": 32244.27,
+      "ALIMENTACAO": 6991.47,
+      "COMBUSTIVEL": 34324.26,
       "CONSULTORIA_SERVICOS": 8000.0,
       "CORREIOS_TELEFONIA": 10251.9,
       "DESLOCAMENTO": 223460.31,
       "DIVULGACAO": 156300.0,
       "ESCRITORIO": 51585.9,
-      "HOSPEDAGEM": 37750.69,
+      "HOSPEDAGEM": 39265.69,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 524723.61
+    "2023": 524723.61,
+    "2026": 4534.33
   },
   "monthTotals": {
     "2023-01": 11771.47,
@@ -68,11 +69,12 @@
     "2023-09": 43830.88,
     "2023-10": 54144.89,
     "2023-11": 44551.25,
-    "2023-12": 88355.07
+    "2023-12": 88355.07,
+    "2026-03": 4534.33
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 222538.72,
-    "percent": 42.41
+    "percent": 42.05
   }
 }

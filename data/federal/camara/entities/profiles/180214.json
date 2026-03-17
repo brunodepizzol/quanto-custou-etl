@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 180214,
-    "generatedAt": "2026-03-17T02:25:05.064111Z",
+    "generatedAt": "2026-03-17T05:08:51.332117Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,10 +15,10 @@
     "slug": "pastor-diniz"
   },
   "mandateTotals": {
-    "amountNet": 530385.17,
-    "amountGross": 550291.06,
+    "amountNet": 530731.97,
+    "amountGross": 550637.86,
     "amountAdjustments": -19905.89,
-    "recordsCount": 255,
+    "recordsCount": 256,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 84658.62,
@@ -26,7 +26,7 @@
       "CORREIOS_TELEFONIA": 6437.4,
       "DESLOCAMENTO": 204069.09,
       "DIVULGACAO": 135878.0,
-      "ESCRITORIO": 93042.61,
+      "ESCRITORIO": 93389.41,
       "HOSPEDAGEM": 6299.45,
       "OUTROS": 0.0
     },
@@ -37,7 +37,7 @@
       "CORREIOS_TELEFONIA": 6437.4,
       "DESLOCAMENTO": 223974.98,
       "DIVULGACAO": 135878.0,
-      "ESCRITORIO": 93042.61,
+      "ESCRITORIO": 93389.41,
       "HOSPEDAGEM": 6299.45,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 530385.17
+    "2023": 530385.17,
+    "2026": 346.8
   },
   "monthTotals": {
     "2023-01": 3212.61,
@@ -68,11 +69,12 @@
     "2023-09": 36875.94,
     "2023-10": 63702.27,
     "2023-11": 33161.19,
-    "2023-12": 59942.23
+    "2023-12": 59942.23,
+    "2026-03": 346.8
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 204069.09,
-    "percent": 38.48
+    "percent": 38.45
   }
 }

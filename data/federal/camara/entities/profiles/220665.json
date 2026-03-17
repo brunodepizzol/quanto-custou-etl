@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220665,
-    "generatedAt": "2026-03-17T02:25:05.112842Z",
+    "generatedAt": "2026-03-17T05:08:51.400150Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "clarissa-tércio"
   },
   "mandateTotals": {
-    "amountNet": 281100.75,
-    "amountGross": 318018.11,
+    "amountNet": 283197.93,
+    "amountGross": 320115.29,
     "amountAdjustments": -36917.36,
-    "recordsCount": 252,
+    "recordsCount": 254,
     "byCategoryNet": {
       "ALIMENTACAO": 1918.22,
-      "COMBUSTIVEL": 66834.46,
+      "COMBUSTIVEL": 67431.64,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2703.45,
       "DESLOCAMENTO": 126930.82,
-      "DIVULGACAO": 9381.89,
+      "DIVULGACAO": 10881.89,
       "ESCRITORIO": 64274.93,
       "HOSPEDAGEM": 9056.98,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1918.22,
-      "COMBUSTIVEL": 66834.46,
+      "COMBUSTIVEL": 67431.64,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2703.45,
       "DESLOCAMENTO": 163848.18,
-      "DIVULGACAO": 9381.89,
+      "DIVULGACAO": 10881.89,
       "ESCRITORIO": 64274.93,
       "HOSPEDAGEM": 9056.98,
       "OUTROS": 0.0
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 281100.75
+    "2023": 281100.75,
+    "2026": 2097.18
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 32650.78,
     "2023-10": 38849.67,
     "2023-11": 33143.88,
-    "2023-12": 36759.0
+    "2023-12": 36759.0,
+    "2026-03": 2097.18
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 126930.82,
-    "percent": 45.15
+    "percent": 44.82
   }
 }

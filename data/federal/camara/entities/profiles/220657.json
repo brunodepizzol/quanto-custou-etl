@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220657,
-    "generatedAt": "2026-03-17T02:25:05.111859Z",
+    "generatedAt": "2026-03-17T05:08:51.398531Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "andré-fernandes"
   },
   "mandateTotals": {
-    "amountNet": 309814.89,
-    "amountGross": 316679.79,
+    "amountNet": 311631.25,
+    "amountGross": 318496.15,
     "amountAdjustments": -6864.9,
-    "recordsCount": 230,
+    "recordsCount": 235,
     "byCategoryNet": {
       "ALIMENTACAO": 1147.14,
-      "COMBUSTIVEL": 8125.4,
+      "COMBUSTIVEL": 9941.76,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3615.41,
       "DESLOCAMENTO": 210656.41,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1147.14,
-      "COMBUSTIVEL": 8125.4,
+      "COMBUSTIVEL": 9941.76,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3615.41,
       "DESLOCAMENTO": 217521.31,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 309814.89
+    "2023": 309814.89,
+    "2026": 1816.36
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 30833.78,
     "2023-10": 30513.47,
     "2023-11": 28025.34,
-    "2023-12": 26507.66
+    "2023-12": 26507.66,
+    "2026-03": 1816.36
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 210656.41,
-    "percent": 67.99
+    "percent": 67.6
   }
 }

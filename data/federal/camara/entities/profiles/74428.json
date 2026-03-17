@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74428,
-    "generatedAt": "2026-03-17T02:25:05.037910Z",
+    "generatedAt": "2026-03-17T05:08:51.280964Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "mendonça-filho"
   },
   "mandateTotals": {
-    "amountNet": 513641.71,
-    "amountGross": 519061.54,
+    "amountNet": 516651.95,
+    "amountGross": 522071.78,
     "amountAdjustments": -5419.83,
-    "recordsCount": 347,
+    "recordsCount": 349,
     "byCategoryNet": {
       "ALIMENTACAO": 562.67,
-      "COMBUSTIVEL": 28620.3,
+      "COMBUSTIVEL": 28900.54,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1698.28,
       "DESLOCAMENTO": 244151.04,
       "DIVULGACAO": 129150.0,
       "ESCRITORIO": 102865.72,
-      "HOSPEDAGEM": 6593.7,
+      "HOSPEDAGEM": 9323.7,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 562.67,
-      "COMBUSTIVEL": 28620.3,
+      "COMBUSTIVEL": 28900.54,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1698.28,
       "DESLOCAMENTO": 249570.87,
       "DIVULGACAO": 129150.0,
       "ESCRITORIO": 102865.72,
-      "HOSPEDAGEM": 6593.7,
+      "HOSPEDAGEM": 9323.7,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 513641.71
+    "2023": 513641.71,
+    "2026": 3010.24
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 43286.69,
     "2023-10": 54563.97,
     "2023-11": 89123.4,
-    "2023-12": 70062.84
+    "2023-12": 70062.84,
+    "2026-03": 3010.24
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 244151.04,
-    "percent": 47.53
+    "percent": 47.26
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 162067,
-    "generatedAt": "2026-03-17T02:25:05.054892Z",
+    "generatedAt": "2026-03-17T05:08:51.314790Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,19 +15,19 @@
     "slug": "kiko-celeguim"
   },
   "mandateTotals": {
-    "amountNet": 516288.69,
-    "amountGross": 528278.77,
+    "amountNet": 523351.66,
+    "amountGross": 535341.74,
     "amountAdjustments": -11990.08,
-    "recordsCount": 393,
+    "recordsCount": 398,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 36268.76,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 716.91,
       "DESLOCAMENTO": 223257.38,
-      "DIVULGACAO": 56820.0,
+      "DIVULGACAO": 62320.0,
       "ESCRITORIO": 189099.57,
-      "HOSPEDAGEM": 10126.07,
+      "HOSPEDAGEM": 11689.04,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
@@ -36,9 +36,9 @@
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 716.91,
       "DESLOCAMENTO": 235247.46,
-      "DIVULGACAO": 56820.0,
+      "DIVULGACAO": 62320.0,
       "ESCRITORIO": 189099.57,
-      "HOSPEDAGEM": 10126.07,
+      "HOSPEDAGEM": 11689.04,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 516288.69
+    "2023": 516288.69,
+    "2026": 7062.97
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 46306.54,
     "2023-10": 45649.89,
     "2023-11": 65917.18,
-    "2023-12": 48023.86
+    "2023-12": 48023.86,
+    "2026-03": 7062.97
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 223257.38,
-    "percent": 43.24
+    "percent": 42.66
   }
 }

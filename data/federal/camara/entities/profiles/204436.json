@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204436,
-    "generatedAt": "2026-03-17T02:25:05.080926Z",
+    "generatedAt": "2026-03-17T05:08:51.345476Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "isnaldo-bulhões-jr"
   },
   "mandateTotals": {
-    "amountNet": 342906.14,
-    "amountGross": 357564.18,
+    "amountNet": 343462.45,
+    "amountGross": 358120.49,
     "amountAdjustments": -14658.04,
-    "recordsCount": 393,
+    "recordsCount": 395,
     "byCategoryNet": {
       "ALIMENTACAO": 211.0,
-      "COMBUSTIVEL": 37819.07,
+      "COMBUSTIVEL": 38375.38,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1367.44,
       "DESLOCAMENTO": 299608.13,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 211.0,
-      "COMBUSTIVEL": 37819.07,
+      "COMBUSTIVEL": 38375.38,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1367.44,
       "DESLOCAMENTO": 314266.17,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 342906.14
+    "2023": 342906.14,
+    "2026": 556.31
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 25619.48,
     "2023-10": 37227.34,
     "2023-11": 22877.99,
-    "2023-12": 36724.54
+    "2023-12": 36724.54,
+    "2026-03": 556.31
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 299608.13,
-    "percent": 87.37
+    "percent": 87.23
   }
 }

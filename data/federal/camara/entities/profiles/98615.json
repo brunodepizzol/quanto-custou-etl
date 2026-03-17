@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 98615,
-    "generatedAt": "2026-03-17T02:25:05.041591Z",
+    "generatedAt": "2026-03-17T05:08:51.287935Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "ismael"
   },
   "mandateTotals": {
-    "amountNet": 349801.52,
-    "amountGross": 357350.42,
+    "amountNet": 357176.53,
+    "amountGross": 364725.43,
     "amountAdjustments": -7548.9,
-    "recordsCount": 531,
+    "recordsCount": 545,
     "byCategoryNet": {
       "ALIMENTACAO": 1110.58,
-      "COMBUSTIVEL": 49176.18,
+      "COMBUSTIVEL": 51851.19,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1260.64,
       "DESLOCAMENTO": 187576.15,
-      "DIVULGACAO": 58878.8,
+      "DIVULGACAO": 63578.8,
       "ESCRITORIO": 30720.48,
       "HOSPEDAGEM": 21078.69,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1110.58,
-      "COMBUSTIVEL": 49176.18,
+      "COMBUSTIVEL": 51851.19,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1260.64,
       "DESLOCAMENTO": 195125.05,
-      "DIVULGACAO": 58878.8,
+      "DIVULGACAO": 63578.8,
       "ESCRITORIO": 30720.48,
       "HOSPEDAGEM": 21078.69,
       "OUTROS": 0.0
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 349801.52
+    "2023": 349801.52,
+    "2026": 7375.01
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 41996.89,
     "2023-10": 38279.25,
     "2023-11": 37705.48,
-    "2023-12": 33425.04
+    "2023-12": 33425.04,
+    "2026-03": 7375.01
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 187576.15,
-    "percent": 53.62
+    "percent": 52.52
   }
 }

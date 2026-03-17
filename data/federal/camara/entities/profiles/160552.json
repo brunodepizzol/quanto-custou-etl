@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160552,
-    "generatedAt": "2026-03-17T02:25:05.049993Z",
+    "generatedAt": "2026-03-17T05:08:51.304737Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "danrlei-de-deus-hinterholz"
   },
   "mandateTotals": {
-    "amountNet": 73237.53,
-    "amountGross": 74984.8,
+    "amountNet": 75528.85,
+    "amountGross": 77276.12,
     "amountAdjustments": -1747.27,
-    "recordsCount": 100,
+    "recordsCount": 108,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 6839.09,
+      "COMBUSTIVEL": 9130.41,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2567.38,
       "DESLOCAMENTO": 56492.66,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 6839.09,
+      "COMBUSTIVEL": 9130.41,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2567.38,
       "DESLOCAMENTO": 58239.93,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 73237.53
+    "2023": 73237.53,
+    "2026": 2291.32
   },
   "monthTotals": {
     "2023-01": 17152.39,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 0.0,
     "2023-11": 19832.74,
-    "2023-12": 4863.81
+    "2023-12": 4863.81,
+    "2026-03": 2291.32
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 56492.66,
-    "percent": 77.14
+    "percent": 74.8
   }
 }

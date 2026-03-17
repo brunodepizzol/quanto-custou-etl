@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74044,
-    "generatedAt": "2026-03-17T02:25:05.033721Z",
+    "generatedAt": "2026-03-17T05:08:51.272826Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "wilson-santiago"
   },
   "mandateTotals": {
-    "amountNet": 588154.99,
-    "amountGross": 594100.52,
+    "amountNet": 589085.03,
+    "amountGross": 595030.56,
     "amountAdjustments": -5945.53,
-    "recordsCount": 493,
+    "recordsCount": 497,
     "byCategoryNet": {
       "ALIMENTACAO": 5463.42,
-      "COMBUSTIVEL": 38529.07,
+      "COMBUSTIVEL": 39009.11,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 576.45,
       "DESLOCAMENTO": 70718.07,
       "DIVULGACAO": 402990.0,
       "ESCRITORIO": 39334.09,
-      "HOSPEDAGEM": 30543.89,
+      "HOSPEDAGEM": 30993.89,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 5463.42,
-      "COMBUSTIVEL": 38529.07,
+      "COMBUSTIVEL": 39009.11,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 576.45,
       "DESLOCAMENTO": 76663.6,
       "DIVULGACAO": 402990.0,
       "ESCRITORIO": 39334.09,
-      "HOSPEDAGEM": 30543.89,
+      "HOSPEDAGEM": 30993.89,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 588154.99
+    "2023": 588154.99,
+    "2026": 930.04
   },
   "monthTotals": {
     "2023-01": 3300.0,
@@ -68,11 +69,12 @@
     "2023-09": 58928.53,
     "2023-10": 87572.69,
     "2023-11": 54525.07,
-    "2023-12": 27242.72
+    "2023-12": 27242.72,
+    "2026-03": 930.04
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 402990.0,
-    "percent": 68.52
+    "percent": 68.41
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220530,
-    "generatedAt": "2026-03-17T02:25:05.094033Z",
+    "generatedAt": "2026-03-17T05:08:51.368336Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "messias-donato"
   },
   "mandateTotals": {
-    "amountNet": 484403.53,
-    "amountGross": 499133.34,
+    "amountNet": 487528.27,
+    "amountGross": 502258.08,
     "amountAdjustments": -14729.81,
-    "recordsCount": 296,
+    "recordsCount": 304,
     "byCategoryNet": {
       "ALIMENTACAO": 78.73,
-      "COMBUSTIVEL": 17875.97,
+      "COMBUSTIVEL": 19500.71,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 146625.06,
-      "DIVULGACAO": 229298.16,
+      "DIVULGACAO": 230798.16,
       "ESCRITORIO": 88630.36,
       "HOSPEDAGEM": 1895.25,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 78.73,
-      "COMBUSTIVEL": 17875.97,
+      "COMBUSTIVEL": 19500.71,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 161354.87,
-      "DIVULGACAO": 229298.16,
+      "DIVULGACAO": 230798.16,
       "ESCRITORIO": 88630.36,
       "HOSPEDAGEM": 1895.25,
       "OUTROS": 0.0
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 484403.53
+    "2023": 484403.53,
+    "2026": 3124.74
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 34452.19,
     "2023-10": 51862.04,
     "2023-11": 49581.84,
-    "2023-12": 69193.85
+    "2023-12": 69193.85,
+    "2026-03": 3124.74
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 229298.16,
+    "amountNet": 230798.16,
     "percent": 47.34
   }
 }

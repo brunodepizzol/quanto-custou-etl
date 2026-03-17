@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74848,
-    "generatedAt": "2026-03-17T02:25:05.039659Z",
+    "generatedAt": "2026-03-17T05:08:51.284218Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "jandira-feghali"
   },
   "mandateTotals": {
-    "amountNet": 395859.06,
-    "amountGross": 431736.04,
+    "amountNet": 396359.11,
+    "amountGross": 432236.09,
     "amountAdjustments": -35876.98,
-    "recordsCount": 342,
+    "recordsCount": 344,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 19241.43,
+      "COMBUSTIVEL": 19741.48,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6101.94,
       "DESLOCAMENTO": 144574.84,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 19241.43,
+      "COMBUSTIVEL": 19741.48,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6101.94,
       "DESLOCAMENTO": 180451.82,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 395859.06
+    "2023": 395859.06,
+    "2026": 500.05
   },
   "monthTotals": {
     "2023-01": 9790.43,
@@ -68,11 +69,12 @@
     "2023-09": 32439.89,
     "2023-10": 48647.6,
     "2023-11": 23766.19,
-    "2023-12": 33498.72
+    "2023-12": 33498.72,
+    "2026-03": 500.05
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 144574.84,
-    "percent": 36.52
+    "percent": 36.48
   }
 }

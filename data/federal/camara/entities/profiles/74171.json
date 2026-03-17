@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74171,
-    "generatedAt": "2026-03-17T02:25:05.035713Z",
+    "generatedAt": "2026-03-17T05:08:51.276636Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "chico-alencar"
   },
   "mandateTotals": {
-    "amountNet": 448423.76,
-    "amountGross": 451369.92,
+    "amountNet": 448910.18,
+    "amountGross": 451856.34,
     "amountAdjustments": -2946.16,
-    "recordsCount": 509,
+    "recordsCount": 516,
     "byCategoryNet": {
-      "ALIMENTACAO": 3855.2,
-      "COMBUSTIVEL": 11403.07,
+      "ALIMENTACAO": 3990.28,
+      "COMBUSTIVEL": 11754.41,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 701.39,
       "DESLOCAMENTO": 132629.88,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 3855.2,
-      "COMBUSTIVEL": 11403.07,
+      "ALIMENTACAO": 3990.28,
+      "COMBUSTIVEL": 11754.41,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 701.39,
       "DESLOCAMENTO": 135576.04,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 448423.76
+    "2023": 448423.76,
+    "2026": 486.42
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 40277.32,
     "2023-10": 50899.62,
     "2023-11": 65904.48,
-    "2023-12": 72067.47
+    "2023-12": 72067.47,
+    "2026-03": 486.42
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 213818.6,
-    "percent": 47.68
+    "percent": 47.63
   }
 }

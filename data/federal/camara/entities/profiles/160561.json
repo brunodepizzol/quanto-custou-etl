@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160561,
-    "generatedAt": "2026-03-17T02:25:05.050764Z",
+    "generatedAt": "2026-03-17T05:08:51.306467Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "missionário-josé-olimpio"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 1026.17,
+    "amountGross": 1026.17,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 5,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 800.57,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "ESCRITORIO": 225.6,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 800.57,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "ESCRITORIO": 225.6,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 0.0
+    "2023": 0.0,
+    "2026": 1026.17
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 0.0,
     "2023-11": 0.0,
-    "2023-12": 0.0
+    "2023-12": 0.0,
+    "2026-03": 1026.17
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "COMBUSTIVEL",
+    "amountNet": 800.57,
+    "percent": 78.02
   }
 }

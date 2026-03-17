@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74858,
-    "generatedAt": "2026-03-17T02:25:05.039955Z",
+    "generatedAt": "2026-03-17T05:08:51.284786Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "lindbergh-farias"
   },
   "mandateTotals": {
-    "amountNet": 464693.04,
-    "amountGross": 488274.84,
+    "amountNet": 464938.04,
+    "amountGross": 488519.84,
     "amountAdjustments": -23581.8,
-    "recordsCount": 508,
+    "recordsCount": 509,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 31404.53,
+      "COMBUSTIVEL": 31649.53,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1231.88,
       "DESLOCAMENTO": 322274.79,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 31404.53,
+      "COMBUSTIVEL": 31649.53,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1231.88,
       "DESLOCAMENTO": 345856.59,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 464693.04
+    "2023": 464693.04,
+    "2026": 245.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 54213.77,
     "2023-10": 52906.9,
     "2023-11": 40971.43,
-    "2023-12": 46187.13
+    "2023-12": 46187.13,
+    "2026-03": 245.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 322274.79,
-    "percent": 69.35
+    "percent": 69.32
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 223128,
-    "generatedAt": "2026-03-17T02:25:05.120849Z",
+    "generatedAt": "2026-03-17T05:08:51.414099Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "rodrigo-estacho"
   },
   "mandateTotals": {
-    "amountNet": 382057.14,
-    "amountGross": 383719.23,
+    "amountNet": 389129.33,
+    "amountGross": 390791.42,
     "amountAdjustments": -1662.09,
-    "recordsCount": 757,
+    "recordsCount": 783,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 81313.98,
+      "COMBUSTIVEL": 86300.4,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2702.8,
       "DESLOCAMENTO": 161411.93,
       "DIVULGACAO": 44307.94,
-      "ESCRITORIO": 78441.67,
-      "HOSPEDAGEM": 13878.82,
+      "ESCRITORIO": 78465.57,
+      "HOSPEDAGEM": 15940.69,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 81313.98,
+      "COMBUSTIVEL": 86300.4,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2702.8,
       "DESLOCAMENTO": 163074.02,
       "DIVULGACAO": 44307.94,
-      "ESCRITORIO": 78441.67,
-      "HOSPEDAGEM": 13878.82,
+      "ESCRITORIO": 78465.57,
+      "HOSPEDAGEM": 15940.69,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 382057.14
+    "2023": 382057.14,
+    "2026": 7072.19
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 35947.29,
     "2023-10": 44139.25,
     "2023-11": 34221.76,
-    "2023-12": 33656.1
+    "2023-12": 33656.1,
+    "2026-03": 7072.19
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 161411.93,
-    "percent": 42.25
+    "percent": 41.48
   }
 }

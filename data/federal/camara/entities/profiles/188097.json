@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 188097,
-    "generatedAt": "2026-03-17T02:25:05.064303Z",
+    "generatedAt": "2026-03-17T05:08:51.332443Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "merlong-solano"
   },
   "mandateTotals": {
-    "amountNet": 539745.46,
-    "amountGross": 543580.16,
+    "amountNet": 543334.36,
+    "amountGross": 547169.06,
     "amountAdjustments": -3834.7,
-    "recordsCount": 596,
+    "recordsCount": 615,
     "byCategoryNet": {
-      "ALIMENTACAO": 7528.5,
-      "COMBUSTIVEL": 48872.4,
+      "ALIMENTACAO": 7623.16,
+      "COMBUSTIVEL": 52366.64,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 10085.14,
       "DESLOCAMENTO": 182566.19,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 7528.5,
-      "COMBUSTIVEL": 48872.4,
+      "ALIMENTACAO": 7623.16,
+      "COMBUSTIVEL": 52366.64,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 10085.14,
       "DESLOCAMENTO": 186400.89,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 539745.46
+    "2023": 539745.46,
+    "2026": 3588.9
   },
   "monthTotals": {
     "2023-01": 1035.8,
@@ -68,11 +69,12 @@
     "2023-09": 30666.84,
     "2023-10": 39099.93,
     "2023-11": 61292.05,
-    "2023-12": 32867.48
+    "2023-12": 32867.48,
+    "2026-03": 3588.9
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 216879.02,
-    "percent": 40.18
+    "percent": 39.92
   }
 }

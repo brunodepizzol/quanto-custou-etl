@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220557,
-    "generatedAt": "2026-03-17T02:25:05.098167Z",
+    "generatedAt": "2026-03-17T05:08:51.375286Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "daniela-reinehr"
   },
   "mandateTotals": {
-    "amountNet": 489286.54,
-    "amountGross": 502231.63,
+    "amountNet": 509803.57,
+    "amountGross": 522748.66,
     "amountAdjustments": -12945.09,
-    "recordsCount": 639,
+    "recordsCount": 663,
     "byCategoryNet": {
       "ALIMENTACAO": 4986.81,
-      "COMBUSTIVEL": 35829.54,
+      "COMBUSTIVEL": 38886.81,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 695.21,
       "DESLOCAMENTO": 282856.35,
-      "DIVULGACAO": 116210.91,
+      "DIVULGACAO": 130760.91,
       "ESCRITORIO": 33482.04,
-      "HOSPEDAGEM": 15225.68,
+      "HOSPEDAGEM": 18135.44,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 4986.81,
-      "COMBUSTIVEL": 35829.54,
+      "COMBUSTIVEL": 38886.81,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 695.21,
       "DESLOCAMENTO": 295801.44,
-      "DIVULGACAO": 116210.91,
+      "DIVULGACAO": 130760.91,
       "ESCRITORIO": 33482.04,
-      "HOSPEDAGEM": 15225.68,
+      "HOSPEDAGEM": 18135.44,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 489286.54
+    "2023": 489286.54,
+    "2026": 20517.03
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 51432.71,
     "2023-10": 43425.39,
     "2023-11": 91659.24,
-    "2023-12": 103157.85
+    "2023-12": 103157.85,
+    "2026-03": 20517.03
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 282856.35,
-    "percent": 57.81
+    "percent": 55.48
   }
 }

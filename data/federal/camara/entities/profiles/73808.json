@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 73808,
-    "generatedAt": "2026-03-17T02:25:05.033292Z",
+    "generatedAt": "2026-03-17T05:08:51.271949Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "sérgio-brito"
   },
   "mandateTotals": {
-    "amountNet": 30070.05,
-    "amountGross": 30217.6,
+    "amountNet": 31827.54,
+    "amountGross": 31975.09,
     "amountAdjustments": -147.55,
-    "recordsCount": 33,
+    "recordsCount": 41,
     "byCategoryNet": {
-      "ALIMENTACAO": 127.0,
-      "COMBUSTIVEL": 2451.77,
+      "ALIMENTACAO": 325.99,
+      "COMBUSTIVEL": 3530.27,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 862.56,
       "DESLOCAMENTO": 18848.04,
       "DIVULGACAO": 7000.0,
       "ESCRITORIO": 780.68,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 480.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 127.0,
-      "COMBUSTIVEL": 2451.77,
+      "ALIMENTACAO": 325.99,
+      "COMBUSTIVEL": 3530.27,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 862.56,
       "DESLOCAMENTO": 18995.59,
       "DIVULGACAO": 7000.0,
       "ESCRITORIO": 780.68,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 480.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 30070.05
+    "2023": 30070.05,
+    "2026": 1757.49
   },
   "monthTotals": {
     "2023-01": 116.43,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 0.0,
     "2023-11": 21771.03,
-    "2023-12": 643.74
+    "2023-12": 643.74,
+    "2026-03": 1757.49
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 18848.04,
-    "percent": 62.68
+    "percent": 59.22
   }
 }

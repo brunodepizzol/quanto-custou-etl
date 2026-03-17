@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220654,
-    "generatedAt": "2026-03-17T02:25:05.111545Z",
+    "generatedAt": "2026-03-17T05:08:51.397981Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "delegado-paulo-bilynskyj"
   },
   "mandateTotals": {
-    "amountNet": 364773.31,
-    "amountGross": 365451.28,
+    "amountNet": 366200.76,
+    "amountGross": 366878.73,
     "amountAdjustments": -677.97,
-    "recordsCount": 416,
+    "recordsCount": 421,
     "byCategoryNet": {
       "ALIMENTACAO": 2569.79,
-      "COMBUSTIVEL": 24460.0,
+      "COMBUSTIVEL": 25887.45,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1577.44,
       "DESLOCAMENTO": 110841.41,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 2569.79,
-      "COMBUSTIVEL": 24460.0,
+      "COMBUSTIVEL": 25887.45,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1577.44,
       "DESLOCAMENTO": 111519.38,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 364773.31
+    "2023": 364773.31,
+    "2026": 1427.45
   },
   "monthTotals": {
     "2023-01": 50.0,
@@ -68,11 +69,12 @@
     "2023-09": 35822.96,
     "2023-10": 53411.24,
     "2023-11": 27551.09,
-    "2023-12": 30342.34
+    "2023-12": 30342.34,
+    "2026-03": 1427.45
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 124420.0,
-    "percent": 34.11
+    "percent": 33.98
   }
 }

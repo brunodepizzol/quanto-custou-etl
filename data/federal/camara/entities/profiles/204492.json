@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204492,
-    "generatedAt": "2026-03-17T02:25:05.085262Z",
+    "generatedAt": "2026-03-17T05:08:51.353182Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,17 +15,17 @@
     "slug": "paulo-guedes"
   },
   "mandateTotals": {
-    "amountNet": 491048.19,
-    "amountGross": 500301.96,
+    "amountNet": 494048.19,
+    "amountGross": 503301.96,
     "amountAdjustments": -9253.77,
-    "recordsCount": 338,
+    "recordsCount": 339,
     "byCategoryNet": {
       "ALIMENTACAO": 158.0,
       "COMBUSTIVEL": 37349.27,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1293.38,
       "DESLOCAMENTO": 189943.06,
-      "DIVULGACAO": 187159.99,
+      "DIVULGACAO": 190159.99,
       "ESCRITORIO": 72783.98,
       "HOSPEDAGEM": 2360.51,
       "OUTROS": 0.0
@@ -36,7 +36,7 @@
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1293.38,
       "DESLOCAMENTO": 199196.83,
-      "DIVULGACAO": 187159.99,
+      "DIVULGACAO": 190159.99,
       "ESCRITORIO": 72783.98,
       "HOSPEDAGEM": 2360.51,
       "OUTROS": 0.0
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 491048.19
+    "2023": 491048.19,
+    "2026": 3000.0
   },
   "monthTotals": {
     "2023-01": 10293.43,
@@ -68,11 +69,12 @@
     "2023-09": 59926.91,
     "2023-10": 45982.65,
     "2023-11": 30810.61,
-    "2023-12": 31729.14
+    "2023-12": 31729.14,
+    "2026-03": 3000.0
   },
   "topCategory": {
-    "category": "DESLOCAMENTO",
-    "amountNet": 189943.06,
-    "percent": 38.68
+    "category": "DIVULGACAO",
+    "amountNet": 190159.99,
+    "percent": 38.49
   }
 }

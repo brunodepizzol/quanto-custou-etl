@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160548,
-    "generatedAt": "2026-03-17T02:25:05.049840Z",
+    "generatedAt": "2026-03-17T05:08:51.304429Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "jonas-donizette"
   },
   "mandateTotals": {
-    "amountNet": 532000.94,
-    "amountGross": 538991.91,
+    "amountNet": 533914.05,
+    "amountGross": 540905.02,
     "amountAdjustments": -6990.97,
-    "recordsCount": 672,
+    "recordsCount": 679,
     "byCategoryNet": {
       "ALIMENTACAO": 419.48,
-      "COMBUSTIVEL": 46162.78,
+      "COMBUSTIVEL": 47062.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6705.28,
       "DESLOCAMENTO": 262191.72,
-      "DIVULGACAO": 167437.54,
-      "ESCRITORIO": 17615.6,
+      "DIVULGACAO": 168237.54,
+      "ESCRITORIO": 17828.6,
       "HOSPEDAGEM": 31468.54,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 419.48,
-      "COMBUSTIVEL": 46162.78,
+      "COMBUSTIVEL": 47062.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6705.28,
       "DESLOCAMENTO": 269182.69,
-      "DIVULGACAO": 167437.54,
-      "ESCRITORIO": 17615.6,
+      "DIVULGACAO": 168237.54,
+      "ESCRITORIO": 17828.6,
       "HOSPEDAGEM": 31468.54,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 532000.94
+    "2023": 532000.94,
+    "2026": 1913.11
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 31099.06,
     "2023-10": 36862.64,
     "2023-11": 98550.26,
-    "2023-12": 125357.68
+    "2023-12": 125357.68,
+    "2026-03": 1913.11
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 262191.72,
-    "percent": 49.28
+    "percent": 49.11
   }
 }

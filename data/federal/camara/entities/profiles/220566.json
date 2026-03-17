@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220566,
-    "generatedAt": "2026-03-17T02:25:05.099592Z",
+    "generatedAt": "2026-03-17T05:08:51.377660Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,10 +15,10 @@
     "slug": "lêda-borges"
   },
   "mandateTotals": {
-    "amountNet": 444791.97,
-    "amountGross": 444791.97,
+    "amountNet": 445621.97,
+    "amountGross": 445621.97,
     "amountAdjustments": 0.0,
-    "recordsCount": 277,
+    "recordsCount": 278,
     "byCategoryNet": {
       "ALIMENTACAO": 3943.73,
       "COMBUSTIVEL": 34586.17,
@@ -27,7 +27,7 @@
       "DESLOCAMENTO": 138054.27,
       "DIVULGACAO": 221069.0,
       "ESCRITORIO": 45470.93,
-      "HOSPEDAGEM": 1238.0,
+      "HOSPEDAGEM": 2068.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
@@ -38,7 +38,7 @@
       "DESLOCAMENTO": 138054.27,
       "DIVULGACAO": 221069.0,
       "ESCRITORIO": 45470.93,
-      "HOSPEDAGEM": 1238.0,
+      "HOSPEDAGEM": 2068.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 444791.97
+    "2023": 444791.97,
+    "2026": 830.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 50680.61,
     "2023-10": 39760.86,
     "2023-11": 69066.91,
-    "2023-12": 60708.89
+    "2023-12": 60708.89,
+    "2026-03": 830.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 221069.0,
-    "percent": 49.7
+    "percent": 49.61
   }
 }

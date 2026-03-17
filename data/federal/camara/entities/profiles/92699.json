@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 92699,
-    "generatedAt": "2026-03-17T02:25:05.040994Z",
+    "generatedAt": "2026-03-17T05:08:51.286710Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "fernando-monteiro"
   },
   "mandateTotals": {
-    "amountNet": 500941.2,
-    "amountGross": 530624.71,
+    "amountNet": 503149.4,
+    "amountGross": 532832.91,
     "amountAdjustments": -29683.51,
-    "recordsCount": 470,
+    "recordsCount": 476,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 47526.69,
+      "COMBUSTIVEL": 48909.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 13628.77,
       "DESLOCAMENTO": 249536.63,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 169673.07,
-      "HOSPEDAGEM": 20576.04,
+      "HOSPEDAGEM": 21401.04,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 47526.69,
+      "COMBUSTIVEL": 48909.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 13628.77,
       "DESLOCAMENTO": 279220.14,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 169673.07,
-      "HOSPEDAGEM": 20576.04,
+      "HOSPEDAGEM": 21401.04,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 500941.2
+    "2023": 500941.2,
+    "2026": 2208.2
   },
   "monthTotals": {
     "2023-01": 26902.93,
@@ -68,11 +69,12 @@
     "2023-09": 31686.45,
     "2023-10": 42178.97,
     "2023-11": 44981.92,
-    "2023-12": 28356.74
+    "2023-12": 28356.74,
+    "2026-03": 2208.2
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 249536.63,
-    "percent": 49.81
+    "percent": 49.59
   }
 }

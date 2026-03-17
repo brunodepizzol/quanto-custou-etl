@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141470,
-    "generatedAt": "2026-03-17T02:25:05.045941Z",
+    "generatedAt": "2026-03-17T05:08:51.296129Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "josé-guimarães"
   },
   "mandateTotals": {
-    "amountNet": 545548.19,
-    "amountGross": 572387.37,
+    "amountNet": 551150.39,
+    "amountGross": 577989.57,
     "amountAdjustments": -26839.18,
-    "recordsCount": 609,
+    "recordsCount": 612,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 60493.09,
+      "COMBUSTIVEL": 61095.29,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2378.9,
       "DESLOCAMENTO": 216544.06,
-      "DIVULGACAO": 107009.74,
+      "DIVULGACAO": 112009.74,
       "ESCRITORIO": 147014.57,
       "HOSPEDAGEM": 12107.83,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 60493.09,
+      "COMBUSTIVEL": 61095.29,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2378.9,
       "DESLOCAMENTO": 243383.24,
-      "DIVULGACAO": 107009.74,
+      "DIVULGACAO": 112009.74,
       "ESCRITORIO": 147014.57,
       "HOSPEDAGEM": 12107.83,
       "OUTROS": 0.0
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 545548.19
+    "2023": 545548.19,
+    "2026": 5602.2
   },
   "monthTotals": {
     "2023-01": 1075.76,
@@ -68,11 +69,12 @@
     "2023-09": 44901.17,
     "2023-10": 53518.62,
     "2023-11": 76087.11,
-    "2023-12": 87040.03
+    "2023-12": 87040.03,
+    "2026-03": 5602.2
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 216544.06,
-    "percent": 39.69
+    "percent": 39.29
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160559,
-    "generatedAt": "2026-03-17T02:25:05.050611Z",
+    "generatedAt": "2026-03-17T05:08:51.306123Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "alceu-moreira"
   },
   "mandateTotals": {
-    "amountNet": 526602.77,
-    "amountGross": 554209.84,
+    "amountNet": 532546.5,
+    "amountGross": 560153.57,
     "amountAdjustments": -27607.07,
-    "recordsCount": 905,
+    "recordsCount": 915,
     "byCategoryNet": {
-      "ALIMENTACAO": 2899.1,
-      "COMBUSTIVEL": 83430.36,
+      "ALIMENTACAO": 3091.1,
+      "COMBUSTIVEL": 84419.09,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 15126.35,
       "DESLOCAMENTO": 163878.45,
-      "DIVULGACAO": 144781.07,
+      "DIVULGACAO": 148731.07,
       "ESCRITORIO": 103326.55,
-      "HOSPEDAGEM": 13160.89,
+      "HOSPEDAGEM": 13973.89,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 2899.1,
-      "COMBUSTIVEL": 83430.36,
+      "ALIMENTACAO": 3091.1,
+      "COMBUSTIVEL": 84419.09,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 15126.35,
       "DESLOCAMENTO": 191485.52,
-      "DIVULGACAO": 144781.07,
+      "DIVULGACAO": 148731.07,
       "ESCRITORIO": 103326.55,
-      "HOSPEDAGEM": 13160.89,
+      "HOSPEDAGEM": 13973.89,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 526602.77
+    "2023": 526602.77,
+    "2026": 5943.73
   },
   "monthTotals": {
     "2023-01": 3728.47,
@@ -68,11 +69,12 @@
     "2023-09": 45275.17,
     "2023-10": 54550.55,
     "2023-11": 58102.09,
-    "2023-12": 54528.51
+    "2023-12": 54528.51,
+    "2026-03": 5943.73
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 163878.45,
-    "percent": 31.12
+    "percent": 30.77
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160518,
-    "generatedAt": "2026-03-17T02:25:05.048907Z",
+    "generatedAt": "2026-03-17T05:08:51.302493Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "weliton-prado"
   },
   "mandateTotals": {
-    "amountNet": 466426.33,
-    "amountGross": 476987.01,
+    "amountNet": 467247.07,
+    "amountGross": 477807.75,
     "amountAdjustments": -10560.68,
-    "recordsCount": 191,
+    "recordsCount": 195,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 10333.4,
+      "COMBUSTIVEL": 11079.14,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4088.07,
       "DESLOCAMENTO": 108059.04,
       "DIVULGACAO": 340157.35,
-      "ESCRITORIO": 2607.25,
+      "ESCRITORIO": 2682.25,
       "HOSPEDAGEM": 1181.22,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 10333.4,
+      "COMBUSTIVEL": 11079.14,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4088.07,
       "DESLOCAMENTO": 118619.72,
       "DIVULGACAO": 340157.35,
-      "ESCRITORIO": 2607.25,
+      "ESCRITORIO": 2682.25,
       "HOSPEDAGEM": 1181.22,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 466426.33
+    "2023": 466426.33,
+    "2026": 820.74
   },
   "monthTotals": {
     "2023-01": 7631.07,
@@ -68,11 +69,12 @@
     "2023-09": 52526.13,
     "2023-10": 14586.97,
     "2023-11": 12630.1,
-    "2023-12": 117447.39
+    "2023-12": 117447.39,
+    "2026-03": 820.74
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 340157.35,
-    "percent": 72.93
+    "percent": 72.8
   }
 }

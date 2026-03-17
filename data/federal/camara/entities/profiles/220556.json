@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220556,
-    "generatedAt": "2026-03-17T02:25:05.097992Z",
+    "generatedAt": "2026-03-17T05:08:51.375008Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "ana-paula-lima"
   },
   "mandateTotals": {
-    "amountNet": 518554.89,
-    "amountGross": 521256.24,
+    "amountNet": 520033.49,
+    "amountGross": 522734.84,
     "amountAdjustments": -2701.35,
-    "recordsCount": 454,
+    "recordsCount": 460,
     "byCategoryNet": {
       "ALIMENTACAO": 966.6,
-      "COMBUSTIVEL": 35069.73,
+      "COMBUSTIVEL": 36548.33,
       "CONSULTORIA_SERVICOS": 9100.0,
       "CORREIOS_TELEFONIA": 6044.32,
       "DESLOCAMENTO": 104225.09,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 966.6,
-      "COMBUSTIVEL": 35069.73,
+      "COMBUSTIVEL": 36548.33,
       "CONSULTORIA_SERVICOS": 9100.0,
       "CORREIOS_TELEFONIA": 6044.32,
       "DESLOCAMENTO": 106926.44,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 518554.89
+    "2023": 518554.89,
+    "2026": 1478.6
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 41696.72,
     "2023-10": 55350.11,
     "2023-11": 47876.85,
-    "2023-12": 186535.34
+    "2023-12": 186535.34,
+    "2026-03": 1478.6
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 315605.5,
-    "percent": 60.86
+    "percent": 60.69
   }
 }

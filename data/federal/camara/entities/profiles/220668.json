@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220668,
-    "generatedAt": "2026-03-17T02:25:05.113343Z",
+    "generatedAt": "2026-03-17T05:08:51.400971Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "maria-arraes"
   },
   "mandateTotals": {
-    "amountNet": 508273.44,
-    "amountGross": 529862.89,
+    "amountNet": 511106.18,
+    "amountGross": 532695.63,
     "amountAdjustments": -21589.45,
-    "recordsCount": 433,
+    "recordsCount": 443,
     "byCategoryNet": {
       "ALIMENTACAO": 492.44,
-      "COMBUSTIVEL": 60494.92,
+      "COMBUSTIVEL": 63327.66,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5884.75,
       "DESLOCAMENTO": 120424.52,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 492.44,
-      "COMBUSTIVEL": 60494.92,
+      "COMBUSTIVEL": 63327.66,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5884.75,
       "DESLOCAMENTO": 142013.97,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 508273.44
+    "2023": 508273.44,
+    "2026": 2832.74
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 52157.09,
     "2023-10": 84464.79,
     "2023-11": 84428.41,
-    "2023-12": 59872.38
+    "2023-12": 59872.38,
+    "2026-03": 2832.74
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 270071.01,
-    "percent": 53.13
+    "percent": 52.84
   }
 }

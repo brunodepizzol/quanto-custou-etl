@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204524,
-    "generatedAt": "2026-03-17T02:25:05.087981Z",
+    "generatedAt": "2026-03-17T05:08:51.357921Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "pinheirinho"
   },
   "mandateTotals": {
-    "amountNet": 451105.5,
-    "amountGross": 485584.06,
+    "amountNet": 462755.5,
+    "amountGross": 497234.06,
     "amountAdjustments": -34478.56,
-    "recordsCount": 565,
+    "recordsCount": 570,
     "byCategoryNet": {
       "ALIMENTACAO": 984.29,
-      "COMBUSTIVEL": 49506.92,
+      "COMBUSTIVEL": 50106.92,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 224665.95,
+      "DESLOCAMENTO": 235655.95,
       "DIVULGACAO": 154900.0,
-      "ESCRITORIO": 19052.84,
+      "ESCRITORIO": 19112.84,
       "HOSPEDAGEM": 1995.5,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 984.29,
-      "COMBUSTIVEL": 49506.92,
+      "COMBUSTIVEL": 50106.92,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 259144.51,
+      "DESLOCAMENTO": 270134.51,
       "DIVULGACAO": 154900.0,
-      "ESCRITORIO": 19052.84,
+      "ESCRITORIO": 19112.84,
       "HOSPEDAGEM": 1995.5,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 451105.5
+    "2023": 451105.5,
+    "2026": 11650.0
   },
   "monthTotals": {
     "2023-01": 19130.0,
@@ -68,11 +69,12 @@
     "2023-09": 27223.4,
     "2023-10": 37366.14,
     "2023-11": 33466.34,
-    "2023-12": 66390.55
+    "2023-12": 66390.55,
+    "2026-03": 11650.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 224665.95,
-    "percent": 49.8
+    "amountNet": 235655.95,
+    "percent": 50.92
   }
 }

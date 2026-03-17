@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 69871,
-    "generatedAt": "2026-03-17T02:25:05.031002Z",
+    "generatedAt": "2026-03-17T05:08:51.267716Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "bacelar"
   },
   "mandateTotals": {
-    "amountNet": 529747.13,
-    "amountGross": 533706.4,
+    "amountNet": 530131.72,
+    "amountGross": 534090.99,
     "amountAdjustments": -3959.27,
-    "recordsCount": 263,
+    "recordsCount": 264,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 26324.75,
+      "COMBUSTIVEL": 26709.34,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6436.42,
       "DESLOCAMENTO": 243430.22,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 26324.75,
+      "COMBUSTIVEL": 26709.34,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6436.42,
       "DESLOCAMENTO": 247389.49,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 529747.13
+    "2023": 529747.13,
+    "2026": 384.59
   },
   "monthTotals": {
     "2023-01": 13137.22,
@@ -68,11 +69,12 @@
     "2023-09": 51875.59,
     "2023-10": 54710.58,
     "2023-11": 53731.3,
-    "2023-12": 13031.97
+    "2023-12": 13031.97,
+    "2026-03": 384.59
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 243430.22,
-    "percent": 45.95
+    "percent": 45.92
   }
 }

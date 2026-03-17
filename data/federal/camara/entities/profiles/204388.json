@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204388,
-    "generatedAt": "2026-03-17T02:25:05.077242Z",
+    "generatedAt": "2026-03-17T05:08:51.339028Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "bibo-nunes"
   },
   "mandateTotals": {
-    "amountNet": 564358.03,
-    "amountGross": 584226.12,
+    "amountNet": 573861.93,
+    "amountGross": 593730.02,
     "amountAdjustments": -19868.09,
-    "recordsCount": 826,
+    "recordsCount": 854,
     "byCategoryNet": {
-      "ALIMENTACAO": 14254.52,
-      "COMBUSTIVEL": 51352.1,
+      "ALIMENTACAO": 14909.47,
+      "COMBUSTIVEL": 53034.05,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3360.77,
       "DESLOCAMENTO": 209430.87,
-      "DIVULGACAO": 174561.41,
+      "DIVULGACAO": 178311.41,
       "ESCRITORIO": 108131.16,
-      "HOSPEDAGEM": 3267.2,
+      "HOSPEDAGEM": 6684.2,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 14254.52,
-      "COMBUSTIVEL": 51352.1,
+      "ALIMENTACAO": 14909.47,
+      "COMBUSTIVEL": 53034.05,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3360.77,
       "DESLOCAMENTO": 229298.96,
-      "DIVULGACAO": 174561.41,
+      "DIVULGACAO": 178311.41,
       "ESCRITORIO": 108131.16,
-      "HOSPEDAGEM": 3267.2,
+      "HOSPEDAGEM": 6684.2,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 564358.03
+    "2023": 564358.03,
+    "2026": 9503.9
   },
   "monthTotals": {
     "2023-01": 18617.9,
@@ -68,11 +69,12 @@
     "2023-09": 40258.35,
     "2023-10": 42140.35,
     "2023-11": 37224.74,
-    "2023-12": 79362.05
+    "2023-12": 79362.05,
+    "2026-03": 9503.9
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 209430.87,
-    "percent": 37.11
+    "percent": 36.49
   }
 }

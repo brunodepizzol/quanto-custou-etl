@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220625,
-    "generatedAt": "2026-03-17T02:25:05.107630Z",
+    "generatedAt": "2026-03-17T05:08:51.391286Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "delegada-ione"
   },
   "mandateTotals": {
-    "amountNet": 452349.0,
-    "amountGross": 459955.82,
+    "amountNet": 455162.73,
+    "amountGross": 462769.55,
     "amountAdjustments": -7606.82,
-    "recordsCount": 653,
+    "recordsCount": 666,
     "byCategoryNet": {
       "ALIMENTACAO": 3109.54,
-      "COMBUSTIVEL": 48067.23,
+      "COMBUSTIVEL": 50880.96,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1944.21,
       "DESLOCAMENTO": 186266.66,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 3109.54,
-      "COMBUSTIVEL": 48067.23,
+      "COMBUSTIVEL": 50880.96,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1944.21,
       "DESLOCAMENTO": 193873.48,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 452349.0
+    "2023": 452349.0,
+    "2026": 2813.73
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 33810.42,
     "2023-10": 40687.36,
     "2023-11": 78537.41,
-    "2023-12": 80237.6
+    "2023-12": 80237.6,
+    "2026-03": 2813.73
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 186266.66,
-    "percent": 41.18
+    "percent": 40.92
   }
 }

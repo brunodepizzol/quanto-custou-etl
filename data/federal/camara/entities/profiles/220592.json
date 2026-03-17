@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220592,
-    "generatedAt": "2026-03-17T02:25:05.103252Z",
+    "generatedAt": "2026-03-17T05:08:51.383765Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "zezinho-barbary"
   },
   "mandateTotals": {
-    "amountNet": 550622.14,
-    "amountGross": 579677.4,
+    "amountNet": 556673.54,
+    "amountGross": 585728.8,
     "amountAdjustments": -29055.26,
-    "recordsCount": 279,
+    "recordsCount": 283,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 41953.36,
+      "COMBUSTIVEL": 47154.36,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2090.65,
       "DESLOCAMENTO": 109417.17,
       "DIVULGACAO": 391000.0,
       "ESCRITORIO": 1000.0,
-      "HOSPEDAGEM": 5160.96,
+      "HOSPEDAGEM": 6011.36,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 41953.36,
+      "COMBUSTIVEL": 47154.36,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2090.65,
       "DESLOCAMENTO": 138472.43,
       "DIVULGACAO": 391000.0,
       "ESCRITORIO": 1000.0,
-      "HOSPEDAGEM": 5160.96,
+      "HOSPEDAGEM": 6011.36,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 550622.14
+    "2023": 550622.14,
+    "2026": 6051.4
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 88584.41,
     "2023-10": 34375.6,
     "2023-11": 49755.06,
-    "2023-12": 64559.3
+    "2023-12": 64559.3,
+    "2026-03": 6051.4
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 391000.0,
-    "percent": 71.01
+    "percent": 70.24
   }
 }

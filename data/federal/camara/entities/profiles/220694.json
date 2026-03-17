@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220694,
-    "generatedAt": "2026-03-17T02:25:05.116999Z",
+    "generatedAt": "2026-03-17T05:08:51.407338Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "ricardo-maia"
   },
   "mandateTotals": {
-    "amountNet": 496884.06,
-    "amountGross": 502441.79,
+    "amountNet": 498420.71,
+    "amountGross": 503978.44,
     "amountAdjustments": -5557.73,
-    "recordsCount": 291,
+    "recordsCount": 299,
     "byCategoryNet": {
-      "ALIMENTACAO": 1042.0,
-      "COMBUSTIVEL": 41639.94,
+      "ALIMENTACAO": 1100.82,
+      "COMBUSTIVEL": 43117.77,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1072.9,
       "DESLOCAMENTO": 185449.44,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 1042.0,
-      "COMBUSTIVEL": 41639.94,
+      "ALIMENTACAO": 1100.82,
+      "COMBUSTIVEL": 43117.77,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1072.9,
       "DESLOCAMENTO": 191007.17,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 496884.06
+    "2023": 496884.06,
+    "2026": 1536.65
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 72968.94,
     "2023-10": 57753.52,
     "2023-11": 32961.35,
-    "2023-12": 50491.06
+    "2023-12": 50491.06,
+    "2026-03": 1536.65
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 185449.44,
-    "percent": 37.32
+    "percent": 37.21
   }
 }

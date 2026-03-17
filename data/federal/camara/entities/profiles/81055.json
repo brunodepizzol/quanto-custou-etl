@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 81055,
-    "generatedAt": "2026-03-17T02:25:05.040405Z",
+    "generatedAt": "2026-03-17T05:08:51.285595Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "márcio-jerry"
   },
   "mandateTotals": {
-    "amountNet": 501870.66,
-    "amountGross": 527174.4,
+    "amountNet": 502020.66,
+    "amountGross": 527324.4,
     "amountAdjustments": -25303.74,
-    "recordsCount": 836,
+    "recordsCount": 837,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 35796.15,
+      "COMBUSTIVEL": 35946.15,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9425.36,
       "DESLOCAMENTO": 185523.66,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 35796.15,
+      "COMBUSTIVEL": 35946.15,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9425.36,
       "DESLOCAMENTO": 210827.4,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 501870.66
+    "2023": 501870.66,
+    "2026": 150.0
   },
   "monthTotals": {
     "2023-01": 9353.7,
@@ -68,11 +69,12 @@
     "2023-09": 35091.93,
     "2023-10": 37523.02,
     "2023-11": 58573.52,
-    "2023-12": 47047.26
+    "2023-12": 47047.26,
+    "2026-03": 150.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 185523.66,
-    "percent": 36.97
+    "percent": 36.96
   }
 }

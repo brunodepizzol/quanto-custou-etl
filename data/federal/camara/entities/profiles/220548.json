@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220548,
-    "generatedAt": "2026-03-17T02:25:05.096657Z",
+    "generatedAt": "2026-03-17T05:08:51.372733Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "camila-jara"
   },
   "mandateTotals": {
-    "amountNet": 513822.43,
-    "amountGross": 525759.18,
+    "amountNet": 516325.21,
+    "amountGross": 528261.96,
     "amountAdjustments": -11936.75,
-    "recordsCount": 397,
+    "recordsCount": 410,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 37957.95,
+      "COMBUSTIVEL": 40460.73,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2710.53,
       "DESLOCAMENTO": 105923.77,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 37957.95,
+      "COMBUSTIVEL": 40460.73,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2710.53,
       "DESLOCAMENTO": 117860.52,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 513822.43
+    "2023": 513822.43,
+    "2026": 2502.78
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 41393.99,
     "2023-10": 47217.74,
     "2023-11": 54748.18,
-    "2023-12": 33363.5
+    "2023-12": 33363.5,
+    "2026-03": 2502.78
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 192217.35,
-    "percent": 37.41
+    "percent": 37.23
   }
 }

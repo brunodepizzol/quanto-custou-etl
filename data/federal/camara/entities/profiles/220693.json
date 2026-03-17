@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220693,
-    "generatedAt": "2026-03-17T02:25:05.116843Z",
+    "generatedAt": "2026-03-17T05:08:51.407059Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "roberta-roma"
   },
   "mandateTotals": {
-    "amountNet": 462315.08,
-    "amountGross": 497775.25,
+    "amountNet": 468721.73,
+    "amountGross": 504181.9,
     "amountAdjustments": -35460.17,
-    "recordsCount": 394,
+    "recordsCount": 400,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 64844.08,
+      "COMBUSTIVEL": 66190.73,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1044.45,
       "DESLOCAMENTO": 191175.87,
-      "DIVULGACAO": 161410.97,
+      "DIVULGACAO": 166470.97,
       "ESCRITORIO": 43839.71,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 64844.08,
+      "COMBUSTIVEL": 66190.73,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1044.45,
       "DESLOCAMENTO": 226636.04,
-      "DIVULGACAO": 161410.97,
+      "DIVULGACAO": 166470.97,
       "ESCRITORIO": 43839.71,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 462315.08
+    "2023": 462315.08,
+    "2026": 6406.65
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 45957.72,
     "2023-10": 41947.44,
     "2023-11": 44080.63,
-    "2023-12": 39936.54
+    "2023-12": 39936.54,
+    "2026-03": 6406.65
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 191175.87,
-    "percent": 41.35
+    "percent": 40.79
   }
 }

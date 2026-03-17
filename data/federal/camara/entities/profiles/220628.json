@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220628,
-    "generatedAt": "2026-03-17T02:25:05.107955Z",
+    "generatedAt": "2026-03-17T05:08:51.391883Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "mauricio-do-vôlei"
   },
   "mandateTotals": {
-    "amountNet": 461000.63,
-    "amountGross": 472898.25,
+    "amountNet": 463796.55,
+    "amountGross": 475694.17,
     "amountAdjustments": -11897.62,
-    "recordsCount": 412,
+    "recordsCount": 424,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 56759.39,
+      "COMBUSTIVEL": 59555.31,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 154026.81,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 56759.39,
+      "COMBUSTIVEL": 59555.31,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 165924.43,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 461000.63
+    "2023": 461000.63,
+    "2026": 2795.92
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 47123.96,
     "2023-10": 48416.76,
     "2023-11": 45420.15,
-    "2023-12": 28523.9
+    "2023-12": 28523.9,
+    "2026-03": 2795.92
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 247162.08,
-    "percent": 53.61
+    "percent": 53.29
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220702,
-    "generatedAt": "2026-03-17T02:25:05.118219Z",
+    "generatedAt": "2026-03-17T05:08:51.409479Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "geraldo-mendes"
   },
   "mandateTotals": {
-    "amountNet": 520730.64,
-    "amountGross": 551503.25,
+    "amountNet": 522276.4,
+    "amountGross": 553049.01,
     "amountAdjustments": -30772.61,
-    "recordsCount": 476,
+    "recordsCount": 480,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 23153.88,
+      "COMBUSTIVEL": 24355.64,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 225.96,
       "DESLOCAMENTO": 175362.99,
       "DIVULGACAO": 209941.38,
       "ESCRITORIO": 107246.65,
-      "HOSPEDAGEM": 4799.78,
+      "HOSPEDAGEM": 5143.78,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 23153.88,
+      "COMBUSTIVEL": 24355.64,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 225.96,
       "DESLOCAMENTO": 206135.6,
       "DIVULGACAO": 209941.38,
       "ESCRITORIO": 107246.65,
-      "HOSPEDAGEM": 4799.78,
+      "HOSPEDAGEM": 5143.78,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 520730.64
+    "2023": 520730.64,
+    "2026": 1545.76
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 67121.31,
     "2023-10": 76438.45,
     "2023-11": 27562.91,
-    "2023-12": 9970.2
+    "2023-12": 9970.2,
+    "2026-03": 1545.76
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 209941.38,
-    "percent": 40.32
+    "percent": 40.2
   }
 }

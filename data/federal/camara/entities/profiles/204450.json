@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204450,
-    "generatedAt": "2026-03-17T02:25:05.081730Z",
+    "generatedAt": "2026-03-17T05:08:51.346896Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "doutor-luizinho"
   },
   "mandateTotals": {
-    "amountNet": 53109.84,
-    "amountGross": 76696.84,
+    "amountNet": 53717.61,
+    "amountGross": 77304.61,
     "amountAdjustments": -23587.0,
-    "recordsCount": 88,
+    "recordsCount": 89,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 8876.09,
+      "COMBUSTIVEL": 9483.86,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3874.02,
       "DESLOCAMENTO": 26835.51,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 8876.09,
+      "COMBUSTIVEL": 9483.86,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3874.02,
       "DESLOCAMENTO": 50422.51,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 53109.84
+    "2023": 53109.84,
+    "2026": 607.77
   },
   "monthTotals": {
     "2023-01": 235.8,
@@ -68,11 +69,12 @@
     "2023-09": 6699.72,
     "2023-10": 15504.27,
     "2023-11": 21119.58,
-    "2023-12": 18563.22
+    "2023-12": 18563.22,
+    "2026-03": 607.77
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 26835.51,
-    "percent": 50.53
+    "percent": 49.96
   }
 }

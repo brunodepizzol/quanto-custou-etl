@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178992,
-    "generatedAt": "2026-03-17T02:25:05.062996Z",
+    "generatedAt": "2026-03-17T05:08:51.330549Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "vitor-lippi"
   },
   "mandateTotals": {
-    "amountNet": 469044.02,
-    "amountGross": 473510.88,
+    "amountNet": 470872.8,
+    "amountGross": 475339.66,
     "amountAdjustments": -4466.86,
-    "recordsCount": 1042,
+    "recordsCount": 1053,
     "byCategoryNet": {
       "ALIMENTACAO": 2928.4,
-      "COMBUSTIVEL": 59485.59,
+      "COMBUSTIVEL": 60236.37,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9777.32,
       "DESLOCAMENTO": 69147.73,
-      "DIVULGACAO": 112175.54,
-      "ESCRITORIO": 211484.58,
+      "DIVULGACAO": 113000.54,
+      "ESCRITORIO": 211737.58,
       "HOSPEDAGEM": 4044.86,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 2928.4,
-      "COMBUSTIVEL": 59485.59,
+      "COMBUSTIVEL": 60236.37,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9777.32,
       "DESLOCAMENTO": 73614.59,
-      "DIVULGACAO": 112175.54,
-      "ESCRITORIO": 211484.58,
+      "DIVULGACAO": 113000.54,
+      "ESCRITORIO": 211737.58,
       "HOSPEDAGEM": 4044.86,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 469044.02
+    "2023": 469044.02,
+    "2026": 1828.78
   },
   "monthTotals": {
     "2023-01": 13075.8,
@@ -68,11 +69,12 @@
     "2023-09": 43910.75,
     "2023-10": 37008.84,
     "2023-11": 37547.05,
-    "2023-12": 49308.0
+    "2023-12": 49308.0,
+    "2026-03": 1828.78
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 211484.58,
-    "percent": 45.09
+    "amountNet": 211737.58,
+    "percent": 44.97
   }
 }

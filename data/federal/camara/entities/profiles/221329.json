@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 221329,
-    "generatedAt": "2026-03-17T02:25:05.120180Z",
+    "generatedAt": "2026-03-17T05:08:51.412947Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "ricardo-abrão"
   },
   "mandateTotals": {
-    "amountNet": 216884.39,
-    "amountGross": 222921.87,
+    "amountNet": 217184.39,
+    "amountGross": 223221.87,
     "amountAdjustments": -6037.48,
-    "recordsCount": 121,
+    "recordsCount": 122,
     "byCategoryNet": {
       "ALIMENTACAO": 200.77,
-      "COMBUSTIVEL": 10061.64,
+      "COMBUSTIVEL": 10361.64,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 246.87,
       "DESLOCAMENTO": 103991.31,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 200.77,
-      "COMBUSTIVEL": 10061.64,
+      "COMBUSTIVEL": 10361.64,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 246.87,
       "DESLOCAMENTO": 110028.79,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 216884.39
+    "2023": 216884.39,
+    "2026": 300.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 23671.77,
     "2023-11": 25035.15,
-    "2023-12": 38705.83
+    "2023-12": 38705.83,
+    "2026-03": 300.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 103991.31,
-    "percent": 47.95
+    "percent": 47.88
   }
 }

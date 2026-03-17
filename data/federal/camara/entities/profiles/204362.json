@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204362,
-    "generatedAt": "2026-03-17T02:25:05.065912Z",
+    "generatedAt": "2026-03-17T05:08:51.335573Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "ricardo-guidi"
   },
   "mandateTotals": {
-    "amountNet": 193758.05,
-    "amountGross": 198977.29,
+    "amountNet": 196787.25,
+    "amountGross": 202006.49,
     "amountAdjustments": -5219.24,
-    "recordsCount": 386,
+    "recordsCount": 402,
     "byCategoryNet": {
-      "ALIMENTACAO": 6079.49,
-      "COMBUSTIVEL": 27357.72,
+      "ALIMENTACAO": 6615.75,
+      "COMBUSTIVEL": 29179.36,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 3129.26,
+      "CORREIOS_TELEFONIA": 3444.26,
       "DESLOCAMENTO": 85141.9,
       "DIVULGACAO": 28750.0,
-      "ESCRITORIO": 31858.69,
+      "ESCRITORIO": 32214.99,
       "HOSPEDAGEM": 11440.99,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 6079.49,
-      "COMBUSTIVEL": 27357.72,
+      "ALIMENTACAO": 6615.75,
+      "COMBUSTIVEL": 29179.36,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 3129.26,
+      "CORREIOS_TELEFONIA": 3444.26,
       "DESLOCAMENTO": 90361.14,
       "DIVULGACAO": 28750.0,
-      "ESCRITORIO": 31858.69,
+      "ESCRITORIO": 32214.99,
       "HOSPEDAGEM": 11440.99,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 193758.05
+    "2023": 193758.05,
+    "2026": 3029.2
   },
   "monthTotals": {
     "2023-01": 5882.45,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 0.0,
     "2023-11": 3685.07,
-    "2023-12": 0.0
+    "2023-12": 0.0,
+    "2026-03": 3029.2
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 85141.9,
-    "percent": 43.94
+    "percent": 43.27
   }
 }

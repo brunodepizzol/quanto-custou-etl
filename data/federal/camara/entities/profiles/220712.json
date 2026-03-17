@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220712,
-    "generatedAt": "2026-03-17T02:25:05.119204Z",
+    "generatedAt": "2026-03-17T05:08:51.411205Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "fausto-jr"
   },
   "mandateTotals": {
-    "amountNet": 550104.44,
-    "amountGross": 579033.46,
+    "amountNet": 551783.95,
+    "amountGross": 580712.97,
     "amountAdjustments": -28929.02,
-    "recordsCount": 339,
+    "recordsCount": 346,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 55902.73,
+      "COMBUSTIVEL": 57582.24,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7016.19,
       "DESLOCAMENTO": 243006.37,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 55902.73,
+      "COMBUSTIVEL": 57582.24,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7016.19,
       "DESLOCAMENTO": 271935.39,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 550104.44
+    "2023": 550104.44,
+    "2026": 1679.51
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 55157.36,
     "2023-10": 51681.56,
     "2023-11": 54926.44,
-    "2023-12": 57250.33
+    "2023-12": 57250.33,
+    "2026-03": 1679.51
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 243006.37,
-    "percent": 44.17
+    "percent": 44.04
   }
 }

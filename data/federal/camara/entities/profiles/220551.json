@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220551,
-    "generatedAt": "2026-03-17T02:25:05.097166Z",
+    "generatedAt": "2026-03-17T05:08:51.373583Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "franciane-bayer"
   },
   "mandateTotals": {
-    "amountNet": 528379.57,
-    "amountGross": 538174.23,
+    "amountNet": 533775.53,
+    "amountGross": 543570.19,
     "amountAdjustments": -9794.66,
-    "recordsCount": 884,
+    "recordsCount": 888,
     "byCategoryNet": {
       "ALIMENTACAO": 5674.94,
-      "COMBUSTIVEL": 48544.64,
+      "COMBUSTIVEL": 48959.8,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3700.27,
       "DESLOCAMENTO": 162543.09,
       "DIVULGACAO": 138365.63,
-      "ESCRITORIO": 150430.46,
+      "ESCRITORIO": 155411.26,
       "HOSPEDAGEM": 19120.54,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 5674.94,
-      "COMBUSTIVEL": 48544.64,
+      "COMBUSTIVEL": 48959.8,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3700.27,
       "DESLOCAMENTO": 172337.75,
       "DIVULGACAO": 138365.63,
-      "ESCRITORIO": 150430.46,
+      "ESCRITORIO": 155411.26,
       "HOSPEDAGEM": 19120.54,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 528379.57
+    "2023": 528379.57,
+    "2026": 5395.96
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 56138.13,
     "2023-10": 70008.38,
     "2023-11": 53536.05,
-    "2023-12": 23622.41
+    "2023-12": 23622.41,
+    "2026-03": 5395.96
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 162543.09,
-    "percent": 30.76
+    "percent": 30.45
   }
 }

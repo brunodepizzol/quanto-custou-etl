@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 133810,
-    "generatedAt": "2026-03-17T02:25:05.043459Z",
+    "generatedAt": "2026-03-17T05:08:51.291369Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "marcelo-moraes"
   },
   "mandateTotals": {
-    "amountNet": 268469.31,
-    "amountGross": 295378.64,
+    "amountNet": 271341.54,
+    "amountGross": 298250.87,
     "amountAdjustments": -26909.33,
-    "recordsCount": 384,
+    "recordsCount": 398,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 39309.59,
+      "COMBUSTIVEL": 42181.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6437.78,
       "DESLOCAMENTO": 164741.08,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 39309.59,
+      "COMBUSTIVEL": 42181.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6437.78,
       "DESLOCAMENTO": 191650.41,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 268469.31
+    "2023": 268469.31,
+    "2026": 2872.23
   },
   "monthTotals": {
     "2023-01": 1760.0,
@@ -68,11 +69,12 @@
     "2023-09": 32700.09,
     "2023-10": 27218.03,
     "2023-11": 19175.67,
-    "2023-12": 26996.79
+    "2023-12": 26996.79,
+    "2026-03": 2872.23
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 164741.08,
-    "percent": 61.36
+    "percent": 60.71
   }
 }

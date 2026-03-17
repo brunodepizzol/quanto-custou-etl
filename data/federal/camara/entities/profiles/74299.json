@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74299,
-    "generatedAt": "2026-03-17T02:25:05.036587Z",
+    "generatedAt": "2026-03-17T05:08:51.278343Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "leônidas-cristino"
   },
   "mandateTotals": {
-    "amountNet": 311165.22,
-    "amountGross": 332698.66,
+    "amountNet": 312702.93,
+    "amountGross": 334236.37,
     "amountAdjustments": -21533.44,
-    "recordsCount": 423,
+    "recordsCount": 439,
     "byCategoryNet": {
-      "ALIMENTACAO": 6697.81,
-      "COMBUSTIVEL": 23074.89,
+      "ALIMENTACAO": 7565.44,
+      "COMBUSTIVEL": 23744.97,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 8190.07,
       "DESLOCAMENTO": 132432.56,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 6697.81,
-      "COMBUSTIVEL": 23074.89,
+      "ALIMENTACAO": 7565.44,
+      "COMBUSTIVEL": 23744.97,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 8190.07,
       "DESLOCAMENTO": 153966.0,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 311165.22
+    "2023": 311165.22,
+    "2026": 1537.71
   },
   "monthTotals": {
     "2023-01": 239.51,
@@ -68,11 +69,12 @@
     "2023-09": 40615.98,
     "2023-10": 45067.67,
     "2023-11": 5207.15,
-    "2023-12": 912.11
+    "2023-12": 912.11,
+    "2026-03": 1537.71
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 132432.56,
-    "percent": 42.56
+    "percent": 42.35
   }
 }

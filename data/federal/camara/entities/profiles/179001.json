@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 179001,
-    "generatedAt": "2026-03-17T02:25:05.063949Z",
+    "generatedAt": "2026-03-17T05:08:51.331804Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "márcio-biolchi"
   },
   "mandateTotals": {
-    "amountNet": 499780.72,
-    "amountGross": 536862.78,
+    "amountNet": 503616.86,
+    "amountGross": 540698.92,
     "amountAdjustments": -37082.06,
-    "recordsCount": 1132,
+    "recordsCount": 1152,
     "byCategoryNet": {
-      "ALIMENTACAO": 20506.27,
-      "COMBUSTIVEL": 54422.72,
+      "ALIMENTACAO": 20961.97,
+      "COMBUSTIVEL": 56318.28,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 8331.13,
       "DESLOCAMENTO": 207125.94,
       "DIVULGACAO": 105029.5,
-      "ESCRITORIO": 88502.85,
-      "HOSPEDAGEM": 15862.31,
+      "ESCRITORIO": 89617.73,
+      "HOSPEDAGEM": 16232.31,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 20506.27,
-      "COMBUSTIVEL": 54422.72,
+      "ALIMENTACAO": 20961.97,
+      "COMBUSTIVEL": 56318.28,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 8331.13,
       "DESLOCAMENTO": 244208.0,
       "DIVULGACAO": 105029.5,
-      "ESCRITORIO": 88502.85,
-      "HOSPEDAGEM": 15862.31,
+      "ESCRITORIO": 89617.73,
+      "HOSPEDAGEM": 16232.31,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 499780.72
+    "2023": 499780.72,
+    "2026": 3836.14
   },
   "monthTotals": {
     "2023-01": 12389.49,
@@ -68,11 +69,12 @@
     "2023-09": 50614.9,
     "2023-10": 52609.81,
     "2023-11": 41129.33,
-    "2023-12": 43607.92
+    "2023-12": 43607.92,
+    "2026-03": 3836.14
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 207125.94,
-    "percent": 41.44
+    "percent": 41.13
   }
 }

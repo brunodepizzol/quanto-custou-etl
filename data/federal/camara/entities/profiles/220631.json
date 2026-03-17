@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220631,
-    "generatedAt": "2026-03-17T02:25:05.108453Z",
+    "generatedAt": "2026-03-17T05:08:51.392736Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "samuel-viana"
   },
   "mandateTotals": {
-    "amountNet": 487297.51,
-    "amountGross": 499509.26,
+    "amountNet": 489473.28,
+    "amountGross": 501685.03,
     "amountAdjustments": -12211.75,
-    "recordsCount": 1010,
+    "recordsCount": 1035,
     "byCategoryNet": {
-      "ALIMENTACAO": 5602.71,
-      "COMBUSTIVEL": 75320.12,
+      "ALIMENTACAO": 5974.74,
+      "COMBUSTIVEL": 76985.56,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2668.5,
       "DESLOCAMENTO": 266778.5,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 123139.98,
+      "ESCRITORIO": 123278.28,
       "HOSPEDAGEM": 13787.7,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 5602.71,
-      "COMBUSTIVEL": 75320.12,
+      "ALIMENTACAO": 5974.74,
+      "COMBUSTIVEL": 76985.56,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2668.5,
       "DESLOCAMENTO": 278990.25,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 123139.98,
+      "ESCRITORIO": 123278.28,
       "HOSPEDAGEM": 13787.7,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 487297.51
+    "2023": 487297.51,
+    "2026": 2175.77
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 55637.87,
     "2023-10": 44774.06,
     "2023-11": 36805.71,
-    "2023-12": 19544.55
+    "2023-12": 19544.55,
+    "2026-03": 2175.77
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 266778.5,
-    "percent": 54.75
+    "percent": 54.5
   }
 }

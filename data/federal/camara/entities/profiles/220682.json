@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220682,
-    "generatedAt": "2026-03-17T02:25:05.115224Z",
+    "generatedAt": "2026-03-17T05:08:51.404138Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "tadeu-veneri"
   },
   "mandateTotals": {
-    "amountNet": 409705.52,
-    "amountGross": 411865.34,
+    "amountNet": 411648.95,
+    "amountGross": 413808.77,
     "amountAdjustments": -2159.82,
-    "recordsCount": 968,
+    "recordsCount": 978,
     "byCategoryNet": {
-      "ALIMENTACAO": 5865.63,
-      "COMBUSTIVEL": 81188.3,
+      "ALIMENTACAO": 5966.59,
+      "COMBUSTIVEL": 83030.77,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1482.0,
       "DESLOCAMENTO": 187491.5,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 5865.63,
-      "COMBUSTIVEL": 81188.3,
+      "ALIMENTACAO": 5966.59,
+      "COMBUSTIVEL": 83030.77,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1482.0,
       "DESLOCAMENTO": 189651.32,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 409705.52
+    "2023": 409705.52,
+    "2026": 1943.43
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 40575.44,
     "2023-10": 41397.73,
     "2023-11": 47849.09,
-    "2023-12": 39751.12
+    "2023-12": 39751.12,
+    "2026-03": 1943.43
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 187491.5,
-    "percent": 45.76
+    "percent": 45.55
   }
 }

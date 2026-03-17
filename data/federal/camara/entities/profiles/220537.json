@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220537,
-    "generatedAt": "2026-03-17T02:25:05.094957Z",
+    "generatedAt": "2026-03-17T05:08:51.369772Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "helena-lima"
   },
   "mandateTotals": {
-    "amountNet": 594566.58,
-    "amountGross": 601977.42,
+    "amountNet": 598895.58,
+    "amountGross": 606306.42,
     "amountAdjustments": -7410.84,
-    "recordsCount": 380,
+    "recordsCount": 389,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 36091.56,
+      "COMBUSTIVEL": 40220.66,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4830.11,
       "DESLOCAMENTO": 111764.44,
       "DIVULGACAO": 356485.93,
-      "ESCRITORIO": 81080.54,
+      "ESCRITORIO": 81280.44,
       "HOSPEDAGEM": 4314.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 36091.56,
+      "COMBUSTIVEL": 40220.66,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4830.11,
       "DESLOCAMENTO": 119175.28,
       "DIVULGACAO": 356485.93,
-      "ESCRITORIO": 81080.54,
+      "ESCRITORIO": 81280.44,
       "HOSPEDAGEM": 4314.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 594566.58
+    "2023": 594566.58,
+    "2026": 4329.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 66198.37,
     "2023-10": 78403.73,
     "2023-11": 58065.86,
-    "2023-12": 41203.83
+    "2023-12": 41203.83,
+    "2026-03": 4329.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 356485.93,
-    "percent": 59.96
+    "percent": 59.52
   }
 }

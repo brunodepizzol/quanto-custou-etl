@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 150418,
-    "generatedAt": "2026-03-17T02:25:05.047611Z",
+    "generatedAt": "2026-03-17T05:08:51.299853Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "márcio-marinho"
   },
   "mandateTotals": {
-    "amountNet": 491985.67,
-    "amountGross": 496445.33,
+    "amountNet": 492155.67,
+    "amountGross": 496615.33,
     "amountAdjustments": -4459.66,
-    "recordsCount": 296,
+    "recordsCount": 297,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 33654.53,
+      "COMBUSTIVEL": 33824.53,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 12369.2,
       "DESLOCAMENTO": 152736.65,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 33654.53,
+      "COMBUSTIVEL": 33824.53,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 12369.2,
       "DESLOCAMENTO": 157196.31,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 491985.67
+    "2023": 491985.67,
+    "2026": 170.0
   },
   "monthTotals": {
     "2023-01": 1753.49,
@@ -68,11 +69,12 @@
     "2023-09": 27160.61,
     "2023-10": 92098.89,
     "2023-11": 21282.99,
-    "2023-12": 55398.48
+    "2023-12": 55398.48,
+    "2026-03": 170.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 167500.0,
-    "percent": 34.05
+    "percent": 34.03
   }
 }

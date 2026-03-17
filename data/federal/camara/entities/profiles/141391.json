@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141391,
-    "generatedAt": "2026-03-17T02:25:05.044216Z",
+    "generatedAt": "2026-03-17T05:08:51.292838Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "arnaldo-jardim"
   },
   "mandateTotals": {
-    "amountNet": 412034.15,
-    "amountGross": 414583.01,
+    "amountNet": 412234.15,
+    "amountGross": 414783.01,
     "amountAdjustments": -2548.86,
-    "recordsCount": 518,
+    "recordsCount": 519,
     "byCategoryNet": {
       "ALIMENTACAO": 226.0,
-      "COMBUSTIVEL": 27071.2,
+      "COMBUSTIVEL": 27271.2,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9615.37,
       "DESLOCAMENTO": 85120.8,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 226.0,
-      "COMBUSTIVEL": 27071.2,
+      "COMBUSTIVEL": 27271.2,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9615.37,
       "DESLOCAMENTO": 87669.66,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 412034.15
+    "2023": 412034.15,
+    "2026": 200.0
   },
   "monthTotals": {
     "2023-01": 27664.43,
@@ -68,11 +69,12 @@
     "2023-09": 38314.56,
     "2023-10": 45261.32,
     "2023-11": 42695.51,
-    "2023-12": 56128.44
+    "2023-12": 56128.44,
+    "2026-03": 200.0
   },
   "topCategory": {
     "category": "ESCRITORIO",
     "amountNet": 198988.89,
-    "percent": 48.29
+    "percent": 48.27
   }
 }

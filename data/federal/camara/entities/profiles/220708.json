@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220708,
-    "generatedAt": "2026-03-17T02:25:05.119023Z",
+    "generatedAt": "2026-03-17T05:08:51.410921Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "gabriel-nunes"
   },
   "mandateTotals": {
-    "amountNet": 511776.81,
-    "amountGross": 558350.34,
+    "amountNet": 514462.01,
+    "amountGross": 561035.54,
     "amountAdjustments": -46573.53,
-    "recordsCount": 598,
+    "recordsCount": 609,
     "byCategoryNet": {
       "ALIMENTACAO": 841.83,
-      "COMBUSTIVEL": 65860.56,
+      "COMBUSTIVEL": 67924.26,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7803.37,
       "DESLOCAMENTO": 70356.67,
       "DIVULGACAO": 265350.0,
-      "ESCRITORIO": 96096.9,
-      "HOSPEDAGEM": 5467.48,
+      "ESCRITORIO": 96418.4,
+      "HOSPEDAGEM": 5767.48,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 841.83,
-      "COMBUSTIVEL": 65860.56,
+      "COMBUSTIVEL": 67924.26,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7803.37,
       "DESLOCAMENTO": 116930.2,
       "DIVULGACAO": 265350.0,
-      "ESCRITORIO": 96096.9,
-      "HOSPEDAGEM": 5467.48,
+      "ESCRITORIO": 96418.4,
+      "HOSPEDAGEM": 5767.48,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 511776.81
+    "2023": 511776.81,
+    "2026": 2685.2
   },
   "monthTotals": {
     "2023-01": 1426.36,
@@ -68,11 +69,12 @@
     "2023-09": 34503.48,
     "2023-10": 47733.02,
     "2023-11": 45023.59,
-    "2023-12": 44873.22
+    "2023-12": 44873.22,
+    "2026-03": 2685.2
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 265350.0,
-    "percent": 51.85
+    "percent": 51.58
   }
 }

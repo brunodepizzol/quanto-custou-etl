@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 62881,
-    "generatedAt": "2026-03-17T02:25:05.030376Z",
+    "generatedAt": "2026-03-17T05:08:51.266638Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "danilo-forte"
   },
   "mandateTotals": {
-    "amountNet": 536564.48,
-    "amountGross": 568425.58,
+    "amountNet": 568427.64,
+    "amountGross": 600288.74,
     "amountAdjustments": -31861.1,
-    "recordsCount": 506,
+    "recordsCount": 510,
     "byCategoryNet": {
       "ALIMENTACAO": 10378.46,
-      "COMBUSTIVEL": 22239.73,
+      "COMBUSTIVEL": 22420.05,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3780.22,
       "DESLOCAMENTO": 85177.34,
-      "DIVULGACAO": 267561.06,
-      "ESCRITORIO": 116479.06,
-      "HOSPEDAGEM": 30948.61,
+      "DIVULGACAO": 298061.06,
+      "ESCRITORIO": 116875.66,
+      "HOSPEDAGEM": 31734.85,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 10378.46,
-      "COMBUSTIVEL": 22239.73,
+      "COMBUSTIVEL": 22420.05,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3780.22,
       "DESLOCAMENTO": 117038.44,
-      "DIVULGACAO": 267561.06,
-      "ESCRITORIO": 116479.06,
-      "HOSPEDAGEM": 30948.61,
+      "DIVULGACAO": 298061.06,
+      "ESCRITORIO": 116875.66,
+      "HOSPEDAGEM": 31734.85,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 536564.48
+    "2023": 536564.48,
+    "2026": 31863.16
   },
   "monthTotals": {
     "2023-01": 8205.52,
@@ -68,11 +69,12 @@
     "2023-09": 42442.07,
     "2023-10": 36190.75,
     "2023-11": 36838.99,
-    "2023-12": 118002.09
+    "2023-12": 118002.09,
+    "2026-03": 31863.16
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 267561.06,
-    "percent": 49.87
+    "amountNet": 298061.06,
+    "percent": 52.44
   }
 }

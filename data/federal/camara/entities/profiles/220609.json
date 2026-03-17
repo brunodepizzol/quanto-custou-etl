@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220609,
-    "generatedAt": "2026-03-17T02:25:05.105409Z",
+    "generatedAt": "2026-03-17T05:08:51.387496Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "maurício-carvalho"
   },
   "mandateTotals": {
-    "amountNet": 447411.92,
-    "amountGross": 487053.67,
+    "amountNet": 448032.9,
+    "amountGross": 487674.65,
     "amountAdjustments": -39641.75,
-    "recordsCount": 323,
+    "recordsCount": 325,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 34180.1,
+      "COMBUSTIVEL": 34801.08,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 12278.46,
       "DESLOCAMENTO": 213173.94,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 34180.1,
+      "COMBUSTIVEL": 34801.08,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 12278.46,
       "DESLOCAMENTO": 252815.69,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 447411.92
+    "2023": 447411.92,
+    "2026": 620.98
   },
   "monthTotals": {
     "2023-01": 2966.24,
@@ -68,11 +69,12 @@
     "2023-09": 46358.57,
     "2023-10": 34706.92,
     "2023-11": 69534.54,
-    "2023-12": 65993.04
+    "2023-12": 65993.04,
+    "2026-03": 620.98
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 213173.94,
-    "percent": 47.65
+    "percent": 47.58
   }
 }

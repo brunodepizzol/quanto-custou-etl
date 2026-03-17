@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220696,
-    "generatedAt": "2026-03-17T02:25:05.117333Z",
+    "generatedAt": "2026-03-17T05:08:51.407949Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "ivoneide-caetano"
   },
   "mandateTotals": {
-    "amountNet": 501890.74,
-    "amountGross": 512294.71,
+    "amountNet": 502824.74,
+    "amountGross": 513228.71,
     "amountAdjustments": -10403.97,
-    "recordsCount": 460,
+    "recordsCount": 462,
     "byCategoryNet": {
       "ALIMENTACAO": 1143.89,
-      "COMBUSTIVEL": 42079.51,
+      "COMBUSTIVEL": 42315.11,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6656.72,
       "DESLOCAMENTO": 199844.05,
       "DIVULGACAO": 201135.03,
-      "ESCRITORIO": 48831.54,
+      "ESCRITORIO": 49529.94,
       "HOSPEDAGEM": 2200.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1143.89,
-      "COMBUSTIVEL": 42079.51,
+      "COMBUSTIVEL": 42315.11,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6656.72,
       "DESLOCAMENTO": 210248.02,
       "DIVULGACAO": 201135.03,
-      "ESCRITORIO": 48831.54,
+      "ESCRITORIO": 49529.94,
       "HOSPEDAGEM": 2200.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 501890.74
+    "2023": 501890.74,
+    "2026": 934.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 52098.8,
     "2023-10": 51717.16,
     "2023-11": 35831.24,
-    "2023-12": 50488.22
+    "2023-12": 50488.22,
+    "2026-03": 934.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 201135.03,
-    "percent": 40.08
+    "percent": 40.0
   }
 }

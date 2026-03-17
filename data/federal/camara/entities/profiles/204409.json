@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204409,
-    "generatedAt": "2026-03-17T02:25:05.079026Z",
+    "generatedAt": "2026-03-17T05:08:51.342205Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "daniel-trzeciak"
   },
   "mandateTotals": {
-    "amountNet": 477780.19,
-    "amountGross": 478008.44,
+    "amountNet": 483809.69,
+    "amountGross": 484037.94,
     "amountAdjustments": -228.25,
-    "recordsCount": 441,
+    "recordsCount": 460,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 86758.53,
+      "COMBUSTIVEL": 88907.33,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1051.89,
-      "DESLOCAMENTO": 188680.5,
+      "DESLOCAMENTO": 189226.56,
       "DIVULGACAO": 17993.86,
-      "ESCRITORIO": 170042.79,
-      "HOSPEDAGEM": 13252.62,
+      "ESCRITORIO": 171991.43,
+      "HOSPEDAGEM": 14638.62,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 86758.53,
+      "COMBUSTIVEL": 88907.33,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1051.89,
-      "DESLOCAMENTO": 188908.75,
+      "DESLOCAMENTO": 189454.81,
       "DIVULGACAO": 17993.86,
-      "ESCRITORIO": 170042.79,
-      "HOSPEDAGEM": 13252.62,
+      "ESCRITORIO": 171991.43,
+      "HOSPEDAGEM": 14638.62,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 477780.19
+    "2023": 477780.19,
+    "2026": 6029.5
   },
   "monthTotals": {
     "2023-01": 1303.86,
@@ -68,11 +69,12 @@
     "2023-09": 50418.32,
     "2023-10": 43949.6,
     "2023-11": 46608.98,
-    "2023-12": 57080.62
+    "2023-12": 57080.62,
+    "2026-03": 6029.5
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 188680.5,
-    "percent": 39.49
+    "amountNet": 189226.56,
+    "percent": 39.11
   }
 }

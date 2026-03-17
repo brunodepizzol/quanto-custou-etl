@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204404,
-    "generatedAt": "2026-03-17T02:25:05.078389Z",
+    "generatedAt": "2026-03-17T05:08:51.341055Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "lucas-redecker"
   },
   "mandateTotals": {
-    "amountNet": 428682.03,
-    "amountGross": 444529.11,
+    "amountNet": 432478.48,
+    "amountGross": 448325.56,
     "amountAdjustments": -15847.08,
-    "recordsCount": 834,
+    "recordsCount": 853,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 70899.44,
+      "COMBUSTIVEL": 73997.7,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 8416.93,
       "DESLOCAMENTO": 216600.81,
       "DIVULGACAO": 1165.06,
-      "ESCRITORIO": 121253.55,
-      "HOSPEDAGEM": 10346.24,
+      "ESCRITORIO": 121723.74,
+      "HOSPEDAGEM": 10574.24,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 70899.44,
+      "COMBUSTIVEL": 73997.7,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 8416.93,
       "DESLOCAMENTO": 232447.89,
       "DIVULGACAO": 1165.06,
-      "ESCRITORIO": 121253.55,
-      "HOSPEDAGEM": 10346.24,
+      "ESCRITORIO": 121723.74,
+      "HOSPEDAGEM": 10574.24,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 428682.03
+    "2023": 428682.03,
+    "2026": 3796.45
   },
   "monthTotals": {
     "2023-01": 6660.04,
@@ -68,11 +69,12 @@
     "2023-09": 46734.04,
     "2023-10": 20561.87,
     "2023-11": 41546.24,
-    "2023-12": 26043.92
+    "2023-12": 26043.92,
+    "2026-03": 3796.45
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 216600.81,
-    "percent": 50.53
+    "percent": 50.08
   }
 }

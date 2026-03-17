@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204571,
-    "generatedAt": "2026-03-17T02:25:05.091045Z",
+    "generatedAt": "2026-03-17T05:08:51.363105Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "alex-santana"
   },
   "mandateTotals": {
-    "amountNet": 406960.23,
-    "amountGross": 406960.23,
+    "amountNet": 407420.25,
+    "amountGross": 407420.25,
     "amountAdjustments": 0.0,
-    "recordsCount": 240,
+    "recordsCount": 242,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 30982.1,
+      "COMBUSTIVEL": 31442.12,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 218451.73,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 30982.1,
+      "COMBUSTIVEL": 31442.12,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 218451.73,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 406960.23
+    "2023": 406960.23,
+    "2026": 460.02
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 38476.84,
     "2023-10": 24985.72,
     "2023-11": 26248.11,
-    "2023-12": 47968.46
+    "2023-12": 47968.46,
+    "2026-03": 460.02
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 218451.73,
-    "percent": 53.68
+    "percent": 53.62
   }
 }

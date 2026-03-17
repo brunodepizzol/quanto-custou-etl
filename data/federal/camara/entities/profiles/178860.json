@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178860,
-    "generatedAt": "2026-03-17T02:25:05.057337Z",
+    "generatedAt": "2026-03-17T05:08:51.319694Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "paulo-azi"
   },
   "mandateTotals": {
-    "amountNet": 531099.76,
-    "amountGross": 534157.27,
+    "amountNet": 532795.39,
+    "amountGross": 535852.9,
     "amountAdjustments": -3057.51,
-    "recordsCount": 306,
+    "recordsCount": 313,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 29067.8,
+      "COMBUSTIVEL": 30590.23,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 13308.7,
       "DESLOCAMENTO": 264020.52,
       "DIVULGACAO": 213500.0,
-      "ESCRITORIO": 11202.74,
+      "ESCRITORIO": 11375.94,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 29067.8,
+      "COMBUSTIVEL": 30590.23,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 13308.7,
       "DESLOCAMENTO": 267078.03,
       "DIVULGACAO": 213500.0,
-      "ESCRITORIO": 11202.74,
+      "ESCRITORIO": 11375.94,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 531099.76
+    "2023": 531099.76,
+    "2026": 1695.63
   },
   "monthTotals": {
     "2023-01": 15700.1,
@@ -68,11 +69,12 @@
     "2023-09": 44720.84,
     "2023-10": 43428.54,
     "2023-11": 44056.6,
-    "2023-12": 46608.07
+    "2023-12": 46608.07,
+    "2026-03": 1695.63
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 264020.52,
-    "percent": 49.71
+    "percent": 49.55
   }
 }

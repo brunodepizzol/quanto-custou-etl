@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 226179,
-    "generatedAt": "2026-03-17T02:25:05.121640Z",
+    "generatedAt": "2026-03-17T05:08:51.415240Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "gisela-simona"
   },
   "mandateTotals": {
-    "amountNet": 209875.49,
-    "amountGross": 212226.89,
+    "amountNet": 212378.02,
+    "amountGross": 214729.42,
     "amountAdjustments": -2351.4,
-    "recordsCount": 163,
+    "recordsCount": 178,
     "byCategoryNet": {
       "ALIMENTACAO": 1391.7,
-      "COMBUSTIVEL": 11466.9,
+      "COMBUSTIVEL": 12454.23,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 60779.75,
       "DIVULGACAO": 117067.84,
-      "ESCRITORIO": 14810.7,
-      "HOSPEDAGEM": 4358.6,
+      "ESCRITORIO": 15263.9,
+      "HOSPEDAGEM": 5420.6,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1391.7,
-      "COMBUSTIVEL": 11466.9,
+      "COMBUSTIVEL": 12454.23,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 63131.15,
       "DIVULGACAO": 117067.84,
-      "ESCRITORIO": 14810.7,
-      "HOSPEDAGEM": 4358.6,
+      "ESCRITORIO": 15263.9,
+      "HOSPEDAGEM": 5420.6,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 209875.49
+    "2023": 209875.49,
+    "2026": 2502.53
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 43463.34,
     "2023-10": 39000.11,
     "2023-11": 34187.54,
-    "2023-12": 23060.71
+    "2023-12": 23060.71,
+    "2026-03": 2502.53
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 117067.84,
-    "percent": 55.78
+    "percent": 55.12
   }
 }

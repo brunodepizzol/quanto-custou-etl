@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160640,
-    "generatedAt": "2026-03-17T02:25:05.053186Z",
+    "generatedAt": "2026-03-17T05:08:51.311350Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "eros-biondini"
   },
   "mandateTotals": {
-    "amountNet": 351424.82,
-    "amountGross": 374870.53,
+    "amountNet": 353106.05,
+    "amountGross": 376551.76,
     "amountAdjustments": -23445.71,
-    "recordsCount": 402,
+    "recordsCount": 405,
     "byCategoryNet": {
       "ALIMENTACAO": 371.6,
-      "COMBUSTIVEL": 50845.68,
+      "COMBUSTIVEL": 52526.91,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3947.37,
       "DESLOCAMENTO": 170425.35,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 371.6,
-      "COMBUSTIVEL": 50845.68,
+      "COMBUSTIVEL": 52526.91,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3947.37,
       "DESLOCAMENTO": 193871.06,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 351424.82
+    "2023": 351424.82,
+    "2026": 1681.23
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 34207.88,
     "2023-10": 25443.12,
     "2023-11": 33024.5,
-    "2023-12": 34174.37
+    "2023-12": 34174.37,
+    "2026-03": 1681.23
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 170425.35,
-    "percent": 48.5
+    "percent": 48.26
   }
 }

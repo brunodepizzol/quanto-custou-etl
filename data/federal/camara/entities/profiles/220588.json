@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220588,
-    "generatedAt": "2026-03-17T02:25:05.102572Z",
+    "generatedAt": "2026-03-17T05:08:51.382520Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "roberto-duarte"
   },
   "mandateTotals": {
-    "amountNet": 419649.43,
-    "amountGross": 433746.24,
+    "amountNet": 420982.61,
+    "amountGross": 435079.42,
     "amountAdjustments": -14096.81,
-    "recordsCount": 396,
+    "recordsCount": 401,
     "byCategoryNet": {
       "ALIMENTACAO": 551.41,
-      "COMBUSTIVEL": 53111.52,
+      "COMBUSTIVEL": 54304.7,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3636.08,
       "DESLOCAMENTO": 177898.68,
       "DIVULGACAO": 110102.0,
-      "ESCRITORIO": 64535.74,
+      "ESCRITORIO": 64675.74,
       "HOSPEDAGEM": 9814.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 551.41,
-      "COMBUSTIVEL": 53111.52,
+      "COMBUSTIVEL": 54304.7,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3636.08,
       "DESLOCAMENTO": 191995.49,
       "DIVULGACAO": 110102.0,
-      "ESCRITORIO": 64535.74,
+      "ESCRITORIO": 64675.74,
       "HOSPEDAGEM": 9814.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 419649.43
+    "2023": 419649.43,
+    "2026": 1333.18
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 42687.04,
     "2023-10": 42119.96,
     "2023-11": 45338.96,
-    "2023-12": 58671.76
+    "2023-12": 58671.76,
+    "2026-03": 1333.18
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 177898.68,
-    "percent": 42.39
+    "percent": 42.26
   }
 }

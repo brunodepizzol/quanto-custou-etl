@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220646,
-    "generatedAt": "2026-03-17T02:25:05.110165Z",
+    "generatedAt": "2026-03-17T05:08:51.395602Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "felipe-becari"
   },
   "mandateTotals": {
-    "amountNet": 486379.01,
-    "amountGross": 492468.75,
+    "amountNet": 510129.01,
+    "amountGross": 516218.75,
     "amountAdjustments": -6089.74,
-    "recordsCount": 253,
+    "recordsCount": 258,
     "byCategoryNet": {
       "ALIMENTACAO": 583.63,
-      "COMBUSTIVEL": 10567.48,
+      "COMBUSTIVEL": 11067.48,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1809.41,
       "DESLOCAMENTO": 136690.78,
-      "DIVULGACAO": 333169.0,
+      "DIVULGACAO": 356419.0,
       "ESCRITORIO": 2988.06,
       "HOSPEDAGEM": 570.65,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 583.63,
-      "COMBUSTIVEL": 10567.48,
+      "COMBUSTIVEL": 11067.48,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1809.41,
       "DESLOCAMENTO": 142780.52,
-      "DIVULGACAO": 333169.0,
+      "DIVULGACAO": 356419.0,
       "ESCRITORIO": 2988.06,
       "HOSPEDAGEM": 570.65,
       "OUTROS": 0.0
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 486379.01
+    "2023": 486379.01,
+    "2026": 23750.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 45575.07,
     "2023-10": 42875.88,
     "2023-11": 43481.29,
-    "2023-12": 96455.0
+    "2023-12": 96455.0,
+    "2026-03": 23750.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 333169.0,
-    "percent": 68.5
+    "amountNet": 356419.0,
+    "percent": 69.87
   }
 }

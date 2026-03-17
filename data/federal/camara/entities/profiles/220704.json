@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220704,
-    "generatedAt": "2026-03-17T02:25:05.118536Z",
+    "generatedAt": "2026-03-17T05:08:51.410050Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "carol-dartora"
   },
   "mandateTotals": {
-    "amountNet": 470323.29,
-    "amountGross": 477038.53,
+    "amountNet": 482240.04,
+    "amountGross": 488955.28,
     "amountAdjustments": -6715.24,
-    "recordsCount": 780,
+    "recordsCount": 803,
     "byCategoryNet": {
       "ALIMENTACAO": 325.19,
-      "COMBUSTIVEL": 17380.02,
+      "COMBUSTIVEL": 18342.39,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 701.49,
-      "DESLOCAMENTO": 160752.94,
+      "DESLOCAMENTO": 160794.22,
       "DIVULGACAO": 150000.0,
-      "ESCRITORIO": 137434.98,
-      "HOSPEDAGEM": 3728.67,
+      "ESCRITORIO": 144918.98,
+      "HOSPEDAGEM": 7157.77,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 325.19,
-      "COMBUSTIVEL": 17380.02,
+      "COMBUSTIVEL": 18342.39,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 701.49,
-      "DESLOCAMENTO": 167468.18,
+      "DESLOCAMENTO": 167509.46,
       "DIVULGACAO": 150000.0,
-      "ESCRITORIO": 137434.98,
-      "HOSPEDAGEM": 3728.67,
+      "ESCRITORIO": 144918.98,
+      "HOSPEDAGEM": 7157.77,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 470323.29
+    "2023": 470323.29,
+    "2026": 11916.75
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 48630.86,
     "2023-10": 40487.17,
     "2023-11": 48213.67,
-    "2023-12": 47600.71
+    "2023-12": 47600.71,
+    "2026-03": 11916.75
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 160752.94,
-    "percent": 34.18
+    "amountNet": 160794.22,
+    "percent": 33.34
   }
 }

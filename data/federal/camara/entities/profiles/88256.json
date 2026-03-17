@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 88256,
-    "generatedAt": "2026-03-17T02:25:05.040553Z",
+    "generatedAt": "2026-03-17T05:08:51.285861Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "clodoaldo-magalhães"
   },
   "mandateTotals": {
-    "amountNet": 479945.08,
-    "amountGross": 487243.78,
+    "amountNet": 482794.62,
+    "amountGross": 490093.32,
     "amountAdjustments": -7298.7,
-    "recordsCount": 273,
+    "recordsCount": 283,
     "byCategoryNet": {
       "ALIMENTACAO": 527.43,
-      "COMBUSTIVEL": 35264.22,
+      "COMBUSTIVEL": 38113.76,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 196317.63,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 527.43,
-      "COMBUSTIVEL": 35264.22,
+      "COMBUSTIVEL": 38113.76,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 203616.33,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 479945.08
+    "2023": 479945.08,
+    "2026": 2849.54
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 35652.47,
     "2023-10": 39361.68,
     "2023-11": 19611.72,
-    "2023-12": 45041.08
+    "2023-12": 45041.08,
+    "2026-03": 2849.54
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 211834.05,
-    "percent": 44.14
+    "percent": 43.88
   }
 }

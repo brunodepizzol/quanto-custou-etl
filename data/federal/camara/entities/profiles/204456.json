@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204456,
-    "generatedAt": "2026-03-17T02:25:05.082228Z",
+    "generatedAt": "2026-03-17T05:08:51.347802Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "gutemberg-reis"
   },
   "mandateTotals": {
-    "amountNet": 442769.61,
-    "amountGross": 484485.34,
+    "amountNet": 444158.91,
+    "amountGross": 485874.64,
     "amountAdjustments": -41715.73,
-    "recordsCount": 709,
+    "recordsCount": 711,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 58606.88,
+      "COMBUSTIVEL": 58736.88,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 17158.18,
       "DESLOCAMENTO": 276630.44,
       "DIVULGACAO": 38000.0,
-      "ESCRITORIO": 49849.31,
+      "ESCRITORIO": 51108.61,
       "HOSPEDAGEM": 2524.8,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 58606.88,
+      "COMBUSTIVEL": 58736.88,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 17158.18,
       "DESLOCAMENTO": 318346.17,
       "DIVULGACAO": 38000.0,
-      "ESCRITORIO": 49849.31,
+      "ESCRITORIO": 51108.61,
       "HOSPEDAGEM": 2524.8,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 442769.61
+    "2023": 442769.61,
+    "2026": 1389.3
   },
   "monthTotals": {
     "2023-01": 9332.86,
@@ -68,11 +69,12 @@
     "2023-09": 54367.44,
     "2023-10": 43072.73,
     "2023-11": 37625.37,
-    "2023-12": 34221.08
+    "2023-12": 34221.08,
+    "2026-03": 1389.3
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 276630.44,
-    "percent": 62.48
+    "percent": 62.28
   }
 }

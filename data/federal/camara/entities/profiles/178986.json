@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178986,
-    "generatedAt": "2026-03-17T02:25:05.062537Z",
+    "generatedAt": "2026-03-17T05:08:51.329538Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "nilto-tatto"
   },
   "mandateTotals": {
-    "amountNet": 479105.63,
-    "amountGross": 486493.95,
+    "amountNet": 482944.95,
+    "amountGross": 490333.27,
     "amountAdjustments": -7388.32,
-    "recordsCount": 681,
+    "recordsCount": 693,
     "byCategoryNet": {
       "ALIMENTACAO": 2364.13,
-      "COMBUSTIVEL": 30589.54,
+      "COMBUSTIVEL": 30982.98,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9307.02,
       "DESLOCAMENTO": 122794.89,
       "DIVULGACAO": 220926.6,
-      "ESCRITORIO": 85487.95,
-      "HOSPEDAGEM": 7635.5,
+      "ESCRITORIO": 85792.83,
+      "HOSPEDAGEM": 10776.5,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 2364.13,
-      "COMBUSTIVEL": 30589.54,
+      "COMBUSTIVEL": 30982.98,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9307.02,
       "DESLOCAMENTO": 130183.21,
       "DIVULGACAO": 220926.6,
-      "ESCRITORIO": 85487.95,
-      "HOSPEDAGEM": 7635.5,
+      "ESCRITORIO": 85792.83,
+      "HOSPEDAGEM": 10776.5,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 479105.63
+    "2023": 479105.63,
+    "2026": 3839.32
   },
   "monthTotals": {
     "2023-01": 1761.69,
@@ -68,11 +69,12 @@
     "2023-09": 36935.79,
     "2023-10": 47063.6,
     "2023-11": 56169.18,
-    "2023-12": 39744.32
+    "2023-12": 39744.32,
+    "2026-03": 3839.32
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 220926.6,
-    "percent": 46.11
+    "percent": 45.75
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220685,
-    "generatedAt": "2026-03-17T02:25:05.115705Z",
+    "generatedAt": "2026-03-17T05:08:51.405006Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,15 +15,15 @@
     "slug": "paulo-litro"
   },
   "mandateTotals": {
-    "amountNet": 538685.47,
-    "amountGross": 550493.07,
+    "amountNet": 543211.98,
+    "amountGross": 555019.58,
     "amountAdjustments": -11807.6,
-    "recordsCount": 538,
+    "recordsCount": 550,
     "byCategoryNet": {
       "ALIMENTACAO": 235.77,
-      "COMBUSTIVEL": 50787.51,
+      "COMBUSTIVEL": 55078.5,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 4237.27,
+      "CORREIOS_TELEFONIA": 4472.79,
       "DESLOCAMENTO": 216590.39,
       "DIVULGACAO": 241402.0,
       "ESCRITORIO": 18004.96,
@@ -32,9 +32,9 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 235.77,
-      "COMBUSTIVEL": 50787.51,
+      "COMBUSTIVEL": 55078.5,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 4237.27,
+      "CORREIOS_TELEFONIA": 4472.79,
       "DESLOCAMENTO": 228397.99,
       "DIVULGACAO": 241402.0,
       "ESCRITORIO": 18004.96,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 538685.47
+    "2023": 538685.47,
+    "2026": 4526.51
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 51263.8,
     "2023-10": 42119.27,
     "2023-11": 70935.81,
-    "2023-12": 34098.28
+    "2023-12": 34098.28,
+    "2026-03": 4526.51
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 241402.0,
-    "percent": 44.81
+    "percent": 44.44
   }
 }

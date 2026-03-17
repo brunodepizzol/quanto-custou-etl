@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 72442,
-    "generatedAt": "2026-03-17T02:25:05.031179Z",
+    "generatedAt": "2026-03-17T05:08:51.268020Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "felipe-carreras"
   },
   "mandateTotals": {
-    "amountNet": 306633.28,
-    "amountGross": 367894.12,
+    "amountNet": 311311.11,
+    "amountGross": 372571.95,
     "amountAdjustments": -61260.84,
-    "recordsCount": 371,
+    "recordsCount": 385,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 22069.4,
+      "COMBUSTIVEL": 25143.44,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 273780.67,
-      "DIVULGACAO": 94.8,
+      "DIVULGACAO": 394.8,
       "ESCRITORIO": 523.9,
-      "HOSPEDAGEM": 10164.51,
+      "HOSPEDAGEM": 11468.3,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 22069.4,
+      "COMBUSTIVEL": 25143.44,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 335041.51,
-      "DIVULGACAO": 94.8,
+      "DIVULGACAO": 394.8,
       "ESCRITORIO": 523.9,
-      "HOSPEDAGEM": 10164.51,
+      "HOSPEDAGEM": 11468.3,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 306633.28
+    "2023": 306633.28,
+    "2026": 4677.83
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 23369.53,
     "2023-10": 21240.28,
     "2023-11": 38982.04,
-    "2023-12": 30199.05
+    "2023-12": 30199.05,
+    "2026-03": 4677.83
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 273780.67,
-    "percent": 89.29
+    "percent": 87.94
   }
 }

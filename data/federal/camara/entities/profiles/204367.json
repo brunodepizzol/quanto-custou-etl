@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204367,
-    "generatedAt": "2026-03-17T02:25:05.066399Z",
+    "generatedAt": "2026-03-17T05:08:51.336509Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "daniel-freitas"
   },
   "mandateTotals": {
-    "amountNet": 515852.64,
-    "amountGross": 609024.97,
+    "amountNet": 516102.64,
+    "amountGross": 609274.97,
     "amountAdjustments": -93172.33,
-    "recordsCount": 652,
+    "recordsCount": 653,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 51754.89,
+      "COMBUSTIVEL": 52004.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2009.49,
       "DESLOCAMENTO": 284030.56,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 51754.89,
+      "COMBUSTIVEL": 52004.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2009.49,
       "DESLOCAMENTO": 377202.89,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 515852.64
+    "2023": 515852.64,
+    "2026": 250.0
   },
   "monthTotals": {
     "2023-01": 6664.99,
@@ -68,11 +69,12 @@
     "2023-09": 63176.97,
     "2023-10": 49457.13,
     "2023-11": 36342.93,
-    "2023-12": 16193.75
+    "2023-12": 16193.75,
+    "2026-03": 250.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 284030.56,
-    "percent": 55.06
+    "percent": 55.03
   }
 }

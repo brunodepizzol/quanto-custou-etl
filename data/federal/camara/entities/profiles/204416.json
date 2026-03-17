@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204416,
-    "generatedAt": "2026-03-17T02:25:05.079692Z",
+    "generatedAt": "2026-03-17T05:08:51.343354Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "sanderson"
   },
   "mandateTotals": {
-    "amountNet": 547854.7,
-    "amountGross": 563019.11,
+    "amountNet": 550580.2,
+    "amountGross": 565744.61,
     "amountAdjustments": -15164.41,
-    "recordsCount": 563,
+    "recordsCount": 572,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 45213.71,
+      "COMBUSTIVEL": 46829.36,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6465.15,
-      "DESLOCAMENTO": 200694.06,
-      "DIVULGACAO": 227514.28,
+      "DESLOCAMENTO": 200894.91,
+      "DIVULGACAO": 227814.28,
       "ESCRITORIO": 40741.16,
-      "HOSPEDAGEM": 27226.34,
+      "HOSPEDAGEM": 27835.34,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 45213.71,
+      "COMBUSTIVEL": 46829.36,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6465.15,
-      "DESLOCAMENTO": 215858.47,
-      "DIVULGACAO": 227514.28,
+      "DESLOCAMENTO": 216059.32,
+      "DIVULGACAO": 227814.28,
       "ESCRITORIO": 40741.16,
-      "HOSPEDAGEM": 27226.34,
+      "HOSPEDAGEM": 27835.34,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 547854.7
+    "2023": 547854.7,
+    "2026": 2725.5
   },
   "monthTotals": {
     "2023-01": 15849.29,
@@ -68,11 +69,12 @@
     "2023-09": 58394.06,
     "2023-10": 44263.83,
     "2023-11": 37826.84,
-    "2023-12": 31918.58
+    "2023-12": 31918.58,
+    "2026-03": 2725.5
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 227514.28,
-    "percent": 41.53
+    "amountNet": 227814.28,
+    "percent": 41.38
   }
 }

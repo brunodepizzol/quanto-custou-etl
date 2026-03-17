@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 209189,
-    "generatedAt": "2026-03-17T02:25:05.092237Z",
+    "generatedAt": "2026-03-17T05:08:51.365167Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "joseildo-ramos"
   },
   "mandateTotals": {
-    "amountNet": 498964.89,
-    "amountGross": 509146.35,
+    "amountNet": 501579.73,
+    "amountGross": 511761.19,
     "amountAdjustments": -10181.46,
-    "recordsCount": 525,
+    "recordsCount": 534,
     "byCategoryNet": {
-      "ALIMENTACAO": 5966.88,
-      "COMBUSTIVEL": 62867.43,
+      "ALIMENTACAO": 6068.9,
+      "COMBUSTIVEL": 63762.15,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1515.89,
       "DESLOCAMENTO": 190283.12,
       "DIVULGACAO": 110850.0,
-      "ESCRITORIO": 122895.97,
-      "HOSPEDAGEM": 4585.6,
+      "ESCRITORIO": 124079.37,
+      "HOSPEDAGEM": 5020.3,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 5966.88,
-      "COMBUSTIVEL": 62867.43,
+      "ALIMENTACAO": 6068.9,
+      "COMBUSTIVEL": 63762.15,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1515.89,
       "DESLOCAMENTO": 200464.58,
       "DIVULGACAO": 110850.0,
-      "ESCRITORIO": 122895.97,
-      "HOSPEDAGEM": 4585.6,
+      "ESCRITORIO": 124079.37,
+      "HOSPEDAGEM": 5020.3,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 498964.89
+    "2023": 498964.89,
+    "2026": 2614.84
   },
   "monthTotals": {
     "2023-01": 15971.93,
@@ -68,11 +69,12 @@
     "2023-09": 37572.25,
     "2023-10": 51308.05,
     "2023-11": 39898.56,
-    "2023-12": 21385.7
+    "2023-12": 21385.7,
+    "2026-03": 2614.84
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 190283.12,
-    "percent": 38.14
+    "percent": 37.94
   }
 }

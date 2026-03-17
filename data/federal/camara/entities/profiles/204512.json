@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204512,
-    "generatedAt": "2026-03-17T02:25:05.087150Z",
+    "generatedAt": "2026-03-17T05:08:51.356358Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,16 +15,16 @@
     "slug": "delegado-marcelo-freitas"
   },
   "mandateTotals": {
-    "amountNet": 447244.67,
-    "amountGross": 450609.62,
+    "amountNet": 447896.2,
+    "amountGross": 451261.15,
     "amountAdjustments": -3364.95,
-    "recordsCount": 368,
+    "recordsCount": 371,
     "byCategoryNet": {
       "ALIMENTACAO": 118.63,
-      "COMBUSTIVEL": 26235.87,
+      "COMBUSTIVEL": 26637.41,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1939.15,
-      "DESLOCAMENTO": 234765.92,
+      "DESLOCAMENTO": 235015.91,
       "DIVULGACAO": 92266.6,
       "ESCRITORIO": 72514.06,
       "HOSPEDAGEM": 19404.44,
@@ -32,10 +32,10 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 118.63,
-      "COMBUSTIVEL": 26235.87,
+      "COMBUSTIVEL": 26637.41,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1939.15,
-      "DESLOCAMENTO": 238130.87,
+      "DESLOCAMENTO": 238380.86,
       "DIVULGACAO": 92266.6,
       "ESCRITORIO": 72514.06,
       "HOSPEDAGEM": 19404.44,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 447244.67
+    "2023": 447244.67,
+    "2026": 651.53
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 45475.96,
     "2023-10": 28353.52,
     "2023-11": 65930.26,
-    "2023-12": 114647.73
+    "2023-12": 114647.73,
+    "2026-03": 651.53
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 234765.92,
-    "percent": 52.49
+    "amountNet": 235015.91,
+    "percent": 52.47
   }
 }

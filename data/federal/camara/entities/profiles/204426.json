@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204426,
-    "generatedAt": "2026-03-17T02:25:05.080433Z",
+    "generatedAt": "2026-03-17T05:08:51.344609Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "carlos-veras"
   },
   "mandateTotals": {
-    "amountNet": 559315.61,
-    "amountGross": 582575.29,
+    "amountNet": 566560.4,
+    "amountGross": 589820.08,
     "amountAdjustments": -23259.68,
-    "recordsCount": 912,
+    "recordsCount": 935,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 87467.56,
+      "COMBUSTIVEL": 90940.15,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9137.95,
       "DESLOCAMENTO": 124912.26,
-      "DIVULGACAO": 211385.0,
-      "ESCRITORIO": 100933.54,
-      "HOSPEDAGEM": 25479.3,
+      "DIVULGACAO": 211915.0,
+      "ESCRITORIO": 102535.74,
+      "HOSPEDAGEM": 27119.3,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 87467.56,
+      "COMBUSTIVEL": 90940.15,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 9137.95,
       "DESLOCAMENTO": 148171.94,
-      "DIVULGACAO": 211385.0,
-      "ESCRITORIO": 100933.54,
-      "HOSPEDAGEM": 25479.3,
+      "DIVULGACAO": 211915.0,
+      "ESCRITORIO": 102535.74,
+      "HOSPEDAGEM": 27119.3,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 559315.61
+    "2023": 559315.61,
+    "2026": 7244.79
   },
   "monthTotals": {
     "2023-01": 4107.3,
@@ -68,11 +69,12 @@
     "2023-09": 32155.38,
     "2023-10": 43065.93,
     "2023-11": 38923.36,
-    "2023-12": 180067.82
+    "2023-12": 180067.82,
+    "2026-03": 7244.79
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 211385.0,
-    "percent": 37.79
+    "amountNet": 211915.0,
+    "percent": 37.4
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220620,
-    "generatedAt": "2026-03-17T02:25:05.106951Z",
+    "generatedAt": "2026-03-17T05:08:51.390120Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "rosângela-reis"
   },
   "mandateTotals": {
-    "amountNet": 503048.09,
-    "amountGross": 507237.06,
+    "amountNet": 506338.29,
+    "amountGross": 510527.26,
     "amountAdjustments": -4188.97,
-    "recordsCount": 258,
+    "recordsCount": 261,
     "byCategoryNet": {
-      "ALIMENTACAO": 648.45,
-      "COMBUSTIVEL": 39895.67,
+      "ALIMENTACAO": 738.65,
+      "COMBUSTIVEL": 43095.67,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5391.87,
       "DESLOCAMENTO": 198051.07,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 648.45,
-      "COMBUSTIVEL": 39895.67,
+      "ALIMENTACAO": 738.65,
+      "COMBUSTIVEL": 43095.67,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5391.87,
       "DESLOCAMENTO": 202240.04,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 503048.09
+    "2023": 503048.09,
+    "2026": 3290.2
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 41174.4,
     "2023-10": 45653.64,
     "2023-11": 26099.49,
-    "2023-12": 26291.14
+    "2023-12": 26291.14,
+    "2026-03": 3290.2
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 198051.07,
-    "percent": 39.37
+    "percent": 39.11
   }
 }

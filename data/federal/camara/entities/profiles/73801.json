@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 73801,
-    "generatedAt": "2026-03-17T02:25:05.033123Z",
+    "generatedAt": "2026-03-17T05:08:51.271661Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "renildo-calheiros"
   },
   "mandateTotals": {
-    "amountNet": 393980.18,
-    "amountGross": 411525.89,
+    "amountNet": 394221.96,
+    "amountGross": 411767.67,
     "amountAdjustments": -17545.71,
-    "recordsCount": 312,
+    "recordsCount": 313,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 37150.16,
+      "COMBUSTIVEL": 37391.94,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 10750.28,
       "DESLOCAMENTO": 196613.03,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 37150.16,
+      "COMBUSTIVEL": 37391.94,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 10750.28,
       "DESLOCAMENTO": 214158.74,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 393980.18
+    "2023": 393980.18,
+    "2026": 241.78
   },
   "monthTotals": {
     "2023-01": 10276.81,
@@ -68,11 +69,12 @@
     "2023-09": 44989.22,
     "2023-10": 37422.79,
     "2023-11": 36195.43,
-    "2023-12": 31174.06
+    "2023-12": 31174.06,
+    "2026-03": 241.78
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 196613.03,
-    "percent": 49.9
+    "percent": 49.87
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220581,
-    "generatedAt": "2026-03-17T02:25:05.101463Z",
+    "generatedAt": "2026-03-17T05:08:51.380793Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "luciano-amaral"
   },
   "mandateTotals": {
-    "amountNet": 553103.39,
-    "amountGross": 579020.78,
+    "amountNet": 554489.23,
+    "amountGross": 580406.62,
     "amountAdjustments": -25917.39,
-    "recordsCount": 322,
+    "recordsCount": 327,
     "byCategoryNet": {
       "ALIMENTACAO": 1587.51,
-      "COMBUSTIVEL": 69890.0,
+      "COMBUSTIVEL": 71275.84,
       "CONSULTORIA_SERVICOS": 3600.0,
       "CORREIOS_TELEFONIA": 3910.04,
       "DESLOCAMENTO": 239006.12,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1587.51,
-      "COMBUSTIVEL": 69890.0,
+      "COMBUSTIVEL": 71275.84,
       "CONSULTORIA_SERVICOS": 3600.0,
       "CORREIOS_TELEFONIA": 3910.04,
       "DESLOCAMENTO": 264923.51,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 553103.39
+    "2023": 553103.39,
+    "2026": 1385.84
   },
   "monthTotals": {
     "2023-01": 3755.86,
@@ -68,11 +69,12 @@
     "2023-09": 48130.84,
     "2023-10": 52187.16,
     "2023-11": 55913.89,
-    "2023-12": 63702.12
+    "2023-12": 63702.12,
+    "2026-03": 1385.84
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 239006.12,
-    "percent": 43.21
+    "percent": 43.1
   }
 }

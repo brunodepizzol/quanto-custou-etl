@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141458,
-    "generatedAt": "2026-03-17T02:25:05.045491Z",
+    "generatedAt": "2026-03-17T05:08:51.295211Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "joão-carlos-bacelar"
   },
   "mandateTotals": {
-    "amountNet": 401468.17,
-    "amountGross": 447627.19,
+    "amountNet": 402604.32,
+    "amountGross": 448763.34,
     "amountAdjustments": -46159.02,
-    "recordsCount": 409,
+    "recordsCount": 414,
     "byCategoryNet": {
-      "ALIMENTACAO": 9993.83,
-      "COMBUSTIVEL": 42896.19,
+      "ALIMENTACAO": 10634.37,
+      "COMBUSTIVEL": 43391.8,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6707.76,
       "DESLOCAMENTO": 85680.52,
@@ -31,8 +31,8 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 9993.83,
-      "COMBUSTIVEL": 42896.19,
+      "ALIMENTACAO": 10634.37,
+      "COMBUSTIVEL": 43391.8,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6707.76,
       "DESLOCAMENTO": 131839.54,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 401468.17
+    "2023": 401468.17,
+    "2026": 1136.15
   },
   "monthTotals": {
     "2023-01": 486.43,
@@ -68,11 +69,12 @@
     "2023-09": 14382.31,
     "2023-10": 57385.41,
     "2023-11": 62531.92,
-    "2023-12": 18962.46
+    "2023-12": 18962.46,
+    "2026-03": 1136.15
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 239726.0,
-    "percent": 59.71
+    "percent": 59.54
   }
 }

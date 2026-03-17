@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204473,
-    "generatedAt": "2026-03-17T02:25:05.083379Z",
+    "generatedAt": "2026-03-17T05:08:51.349853Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "general-girão"
   },
   "mandateTotals": {
-    "amountNet": 590048.97,
-    "amountGross": 607032.08,
+    "amountNet": 591245.3,
+    "amountGross": 608228.41,
     "amountAdjustments": -16983.11,
-    "recordsCount": 646,
+    "recordsCount": 652,
     "byCategoryNet": {
-      "ALIMENTACAO": 3806.17,
-      "COMBUSTIVEL": 34213.22,
+      "ALIMENTACAO": 3965.87,
+      "COMBUSTIVEL": 35004.86,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6097.48,
       "DESLOCAMENTO": 185109.15,
       "DIVULGACAO": 189780.0,
-      "ESCRITORIO": 165927.08,
-      "HOSPEDAGEM": 5115.87,
+      "ESCRITORIO": 166002.07,
+      "HOSPEDAGEM": 5285.87,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 3806.17,
-      "COMBUSTIVEL": 34213.22,
+      "ALIMENTACAO": 3965.87,
+      "COMBUSTIVEL": 35004.86,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6097.48,
       "DESLOCAMENTO": 202092.26,
       "DIVULGACAO": 189780.0,
-      "ESCRITORIO": 165927.08,
-      "HOSPEDAGEM": 5115.87,
+      "ESCRITORIO": 166002.07,
+      "HOSPEDAGEM": 5285.87,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 590048.97
+    "2023": 590048.97,
+    "2026": 1196.33
   },
   "monthTotals": {
     "2023-01": 1062.29,
@@ -68,11 +69,12 @@
     "2023-09": 51320.5,
     "2023-10": 62811.96,
     "2023-11": 48825.18,
-    "2023-12": 54095.85
+    "2023-12": 54095.85,
+    "2026-03": 1196.33
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 189780.0,
-    "percent": 32.16
+    "percent": 32.1
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160592,
-    "generatedAt": "2026-03-17T02:25:05.051538Z",
+    "generatedAt": "2026-03-17T05:08:51.308092Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,10 +15,10 @@
     "slug": "zeca-dirceu"
   },
   "mandateTotals": {
-    "amountNet": 471866.12,
-    "amountGross": 486938.89,
+    "amountNet": 472424.12,
+    "amountGross": 487496.89,
     "amountAdjustments": -15072.77,
-    "recordsCount": 434,
+    "recordsCount": 436,
     "byCategoryNet": {
       "ALIMENTACAO": 590.09,
       "COMBUSTIVEL": 32666.18,
@@ -27,7 +27,7 @@
       "DESLOCAMENTO": 124021.92,
       "DIVULGACAO": 265842.84,
       "ESCRITORIO": 36885.36,
-      "HOSPEDAGEM": 5222.6,
+      "HOSPEDAGEM": 5780.6,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
@@ -38,7 +38,7 @@
       "DESLOCAMENTO": 139094.69,
       "DIVULGACAO": 265842.84,
       "ESCRITORIO": 36885.36,
-      "HOSPEDAGEM": 5222.6,
+      "HOSPEDAGEM": 5780.6,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 471866.12
+    "2023": 471866.12,
+    "2026": 558.0
   },
   "monthTotals": {
     "2023-01": 7247.09,
@@ -68,11 +69,12 @@
     "2023-09": 32283.06,
     "2023-10": 26092.74,
     "2023-11": 43724.17,
-    "2023-12": 33513.58
+    "2023-12": 33513.58,
+    "2026-03": 558.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 265842.84,
-    "percent": 56.34
+    "percent": 56.27
   }
 }

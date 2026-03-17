@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204449,
-    "generatedAt": "2026-03-17T02:25:05.081580Z",
+    "generatedAt": "2026-03-17T05:08:51.346620Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "nelson-barbudo"
   },
   "mandateTotals": {
-    "amountNet": 23500.0,
-    "amountGross": 23500.0,
+    "amountNet": 25510.55,
+    "amountGross": 25510.55,
     "amountAdjustments": 0.0,
-    "recordsCount": 1,
+    "recordsCount": 6,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 1110.55,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 23500.0,
+      "DIVULGACAO": 24400.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 1110.55,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 23500.0,
+      "DIVULGACAO": 24400.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 23500.0
+    "2023": 23500.0,
+    "2026": 2010.55
   },
   "monthTotals": {
     "2023-01": 23500.0,
@@ -68,11 +69,12 @@
     "2023-09": 0.0,
     "2023-10": 0.0,
     "2023-11": 0.0,
-    "2023-12": 0.0
+    "2023-12": 0.0,
+    "2026-03": 2010.55
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 23500.0,
-    "percent": 100.0
+    "amountNet": 24400.0,
+    "percent": 95.65
   }
 }

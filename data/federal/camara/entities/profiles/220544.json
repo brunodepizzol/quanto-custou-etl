@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220544,
-    "generatedAt": "2026-03-17T02:25:05.095970Z",
+    "generatedAt": "2026-03-17T05:08:51.371595Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "antonio-andrade"
   },
   "mandateTotals": {
-    "amountNet": 513484.82,
-    "amountGross": 516939.23,
+    "amountNet": 514021.86,
+    "amountGross": 517476.27,
     "amountAdjustments": -3454.41,
-    "recordsCount": 278,
+    "recordsCount": 280,
     "byCategoryNet": {
       "ALIMENTACAO": 960.81,
-      "COMBUSTIVEL": 73054.02,
+      "COMBUSTIVEL": 73591.06,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 141004.91,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 960.81,
-      "COMBUSTIVEL": 73054.02,
+      "COMBUSTIVEL": 73591.06,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 144459.32,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 513484.82
+    "2023": 513484.82,
+    "2026": 537.04
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 43498.17,
     "2023-10": 47702.94,
     "2023-11": 44118.41,
-    "2023-12": 29232.62
+    "2023-12": 29232.62,
+    "2026-03": 537.04
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 199080.0,
-    "percent": 38.77
+    "percent": 38.73
   }
 }

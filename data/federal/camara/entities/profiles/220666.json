@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220666,
-    "generatedAt": "2026-03-17T02:25:05.113007Z",
+    "generatedAt": "2026-03-17T05:08:51.400431Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "coronel-meira"
   },
   "mandateTotals": {
-    "amountNet": 538461.12,
-    "amountGross": 545971.95,
+    "amountNet": 539742.25,
+    "amountGross": 547253.08,
     "amountAdjustments": -7510.83,
-    "recordsCount": 640,
+    "recordsCount": 645,
     "byCategoryNet": {
       "ALIMENTACAO": 3130.81,
-      "COMBUSTIVEL": 20479.6,
+      "COMBUSTIVEL": 21760.73,
       "CONSULTORIA_SERVICOS": 19000.0,
       "CORREIOS_TELEFONIA": 6920.51,
       "DESLOCAMENTO": 127663.57,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 3130.81,
-      "COMBUSTIVEL": 20479.6,
+      "COMBUSTIVEL": 21760.73,
       "CONSULTORIA_SERVICOS": 19000.0,
       "CORREIOS_TELEFONIA": 6920.51,
       "DESLOCAMENTO": 135174.4,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 538461.12
+    "2023": 538461.12,
+    "2026": 1281.13
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 45608.55,
     "2023-10": 48624.28,
     "2023-11": 47613.74,
-    "2023-12": 85450.04
+    "2023-12": 85450.04,
+    "2026-03": 1281.13
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 238750.0,
-    "percent": 44.34
+    "percent": 44.23
   }
 }

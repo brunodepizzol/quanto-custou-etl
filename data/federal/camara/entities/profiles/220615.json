@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220615,
-    "generatedAt": "2026-03-17T02:25:05.106299Z",
+    "generatedAt": "2026-03-17T05:08:51.388924Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "pastor-henrique-vieira"
   },
   "mandateTotals": {
-    "amountNet": 473201.94,
-    "amountGross": 498410.04,
+    "amountNet": 476429.79,
+    "amountGross": 501637.89,
     "amountAdjustments": -25208.1,
-    "recordsCount": 517,
+    "recordsCount": 524,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 15786.52,
+      "COMBUSTIVEL": 17090.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1772.14,
       "DESLOCAMENTO": 236390.07,
       "DIVULGACAO": 190454.9,
-      "ESCRITORIO": 25174.67,
+      "ESCRITORIO": 27098.41,
       "HOSPEDAGEM": 3623.64,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 15786.52,
+      "COMBUSTIVEL": 17090.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1772.14,
       "DESLOCAMENTO": 261598.17,
       "DIVULGACAO": 190454.9,
-      "ESCRITORIO": 25174.67,
+      "ESCRITORIO": 27098.41,
       "HOSPEDAGEM": 3623.64,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 473201.94
+    "2023": 473201.94,
+    "2026": 3227.85
   },
   "monthTotals": {
     "2023-01": 1060.1,
@@ -68,11 +69,12 @@
     "2023-09": 58448.99,
     "2023-10": 42539.19,
     "2023-11": 45050.9,
-    "2023-12": 46207.78
+    "2023-12": 46207.78,
+    "2026-03": 3227.85
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 236390.07,
-    "percent": 49.96
+    "percent": 49.62
   }
 }

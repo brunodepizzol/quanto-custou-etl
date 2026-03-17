@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204480,
-    "generatedAt": "2026-03-17T02:25:05.083934Z",
+    "generatedAt": "2026-03-17T05:08:51.350800Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "rogério-correia"
   },
   "mandateTotals": {
-    "amountNet": 483226.18,
-    "amountGross": 490603.48,
+    "amountNet": 484197.84,
+    "amountGross": 491575.14,
     "amountAdjustments": -7377.3,
-    "recordsCount": 793,
+    "recordsCount": 796,
     "byCategoryNet": {
       "ALIMENTACAO": 2948.28,
-      "COMBUSTIVEL": 65786.98,
+      "COMBUSTIVEL": 66095.64,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 13617.03,
       "DESLOCAMENTO": 147706.62,
       "DIVULGACAO": 143680.8,
       "ESCRITORIO": 108528.47,
-      "HOSPEDAGEM": 958.0,
+      "HOSPEDAGEM": 1621.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 2948.28,
-      "COMBUSTIVEL": 65786.98,
+      "COMBUSTIVEL": 66095.64,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 13617.03,
       "DESLOCAMENTO": 155083.92,
       "DIVULGACAO": 143680.8,
       "ESCRITORIO": 108528.47,
-      "HOSPEDAGEM": 958.0,
+      "HOSPEDAGEM": 1621.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 483226.18
+    "2023": 483226.18,
+    "2026": 971.66
   },
   "monthTotals": {
     "2023-01": 1015.65,
@@ -68,11 +69,12 @@
     "2023-09": 44400.17,
     "2023-10": 40973.47,
     "2023-11": 45594.57,
-    "2023-12": 40336.53
+    "2023-12": 40336.53,
+    "2026-03": 971.66
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 147706.62,
-    "percent": 30.57
+    "percent": 30.51
   }
 }

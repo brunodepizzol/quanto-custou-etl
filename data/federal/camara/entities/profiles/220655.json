@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220655,
-    "generatedAt": "2026-03-17T02:25:05.111700Z",
+    "generatedAt": "2026-03-17T05:08:51.398241Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "mario-frias"
   },
   "mandateTotals": {
-    "amountNet": 449805.49,
-    "amountGross": 464495.51,
+    "amountNet": 450917.5,
+    "amountGross": 465607.52,
     "amountAdjustments": -14690.02,
-    "recordsCount": 370,
+    "recordsCount": 375,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 43025.58,
+      "COMBUSTIVEL": 44137.59,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 169887.95,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 43025.58,
+      "COMBUSTIVEL": 44137.59,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 184577.97,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 449805.49
+    "2023": 449805.49,
+    "2026": 1112.01
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 48365.23,
     "2023-10": 42784.27,
     "2023-11": 35177.5,
-    "2023-12": 13954.67
+    "2023-12": 13954.67,
+    "2026-03": 1112.01
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 169887.95,
-    "percent": 37.77
+    "percent": 37.68
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204351,
-    "generatedAt": "2026-03-17T02:25:05.064945Z",
+    "generatedAt": "2026-03-17T05:08:51.333696Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "dr-luiz-ovando"
   },
   "mandateTotals": {
-    "amountNet": 528035.59,
-    "amountGross": 530383.51,
+    "amountNet": 530502.64,
+    "amountGross": 532850.56,
     "amountAdjustments": -2347.92,
-    "recordsCount": 666,
+    "recordsCount": 681,
     "byCategoryNet": {
-      "ALIMENTACAO": 395.81,
-      "COMBUSTIVEL": 54756.45,
+      "ALIMENTACAO": 458.35,
+      "COMBUSTIVEL": 56754.37,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5540.42,
       "DESLOCAMENTO": 184452.02,
       "DIVULGACAO": 203951.63,
-      "ESCRITORIO": 74388.46,
+      "ESCRITORIO": 74795.05,
       "HOSPEDAGEM": 4550.8,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 395.81,
-      "COMBUSTIVEL": 54756.45,
+      "ALIMENTACAO": 458.35,
+      "COMBUSTIVEL": 56754.37,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5540.42,
       "DESLOCAMENTO": 186799.94,
       "DIVULGACAO": 203951.63,
-      "ESCRITORIO": 74388.46,
+      "ESCRITORIO": 74795.05,
       "HOSPEDAGEM": 4550.8,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 528035.59
+    "2023": 528035.59,
+    "2026": 2467.05
   },
   "monthTotals": {
     "2023-01": 11849.06,
@@ -68,11 +69,12 @@
     "2023-09": 41924.34,
     "2023-10": 44935.48,
     "2023-11": 71650.37,
-    "2023-12": 70122.61
+    "2023-12": 70122.61,
+    "2026-03": 2467.05
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 203951.63,
-    "percent": 38.62
+    "percent": 38.44
   }
 }

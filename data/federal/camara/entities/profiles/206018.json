@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 206018,
-    "generatedAt": "2026-03-17T02:25:05.092055Z",
+    "generatedAt": "2026-03-17T05:08:51.364881Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,10 +15,10 @@
     "slug": "célia-xakriabá"
   },
   "mandateTotals": {
-    "amountNet": 484307.07,
-    "amountGross": 494160.09,
+    "amountNet": 486895.78,
+    "amountGross": 496748.8,
     "amountAdjustments": -9853.02,
-    "recordsCount": 582,
+    "recordsCount": 599,
     "byCategoryNet": {
       "ALIMENTACAO": 566.61,
       "COMBUSTIVEL": 46310.52,
@@ -26,8 +26,8 @@
       "CORREIOS_TELEFONIA": 2558.11,
       "DESLOCAMENTO": 260489.48,
       "DIVULGACAO": 133523.68,
-      "ESCRITORIO": 13782.33,
-      "HOSPEDAGEM": 27076.34,
+      "ESCRITORIO": 14373.04,
+      "HOSPEDAGEM": 29074.34,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
@@ -37,8 +37,8 @@
       "CORREIOS_TELEFONIA": 2558.11,
       "DESLOCAMENTO": 270342.5,
       "DIVULGACAO": 133523.68,
-      "ESCRITORIO": 13782.33,
-      "HOSPEDAGEM": 27076.34,
+      "ESCRITORIO": 14373.04,
+      "HOSPEDAGEM": 29074.34,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 484307.07
+    "2023": 484307.07,
+    "2026": 2588.71
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 36693.77,
     "2023-10": 61160.42,
     "2023-11": 41830.42,
-    "2023-12": 37824.18
+    "2023-12": 37824.18,
+    "2026-03": 2588.71
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 260489.48,
-    "percent": 53.79
+    "percent": 53.5
   }
 }

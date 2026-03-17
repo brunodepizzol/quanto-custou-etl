@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178993,
-    "generatedAt": "2026-03-17T02:25:05.063449Z",
+    "generatedAt": "2026-03-17T05:08:51.330861Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "carlos-henrique-gaguim"
   },
   "mandateTotals": {
-    "amountNet": 500745.01,
-    "amountGross": 513834.0,
+    "amountNet": 504953.57,
+    "amountGross": 518042.56,
     "amountAdjustments": -13088.99,
-    "recordsCount": 481,
+    "recordsCount": 493,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 83725.84,
+      "COMBUSTIVEL": 87934.4,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 20895.0,
       "DESLOCAMENTO": 179545.04,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 83725.84,
+      "COMBUSTIVEL": 87934.4,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 20895.0,
       "DESLOCAMENTO": 192634.03,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 500745.01
+    "2023": 500745.01,
+    "2026": 4208.56
   },
   "monthTotals": {
     "2023-01": 1162.79,
@@ -68,11 +69,12 @@
     "2023-09": 40559.29,
     "2023-10": 52687.59,
     "2023-11": 64626.77,
-    "2023-12": 43387.41
+    "2023-12": 43387.41,
+    "2026-03": 4208.56
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 179545.04,
-    "percent": 35.86
+    "percent": 35.56
   }
 }

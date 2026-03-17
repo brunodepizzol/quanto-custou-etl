@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220672,
-    "generatedAt": "2026-03-17T02:25:05.114061Z",
+    "generatedAt": "2026-03-17T05:08:51.402041Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "henderson-pinto"
   },
   "mandateTotals": {
-    "amountNet": 553834.45,
-    "amountGross": 558368.32,
+    "amountNet": 555994.93,
+    "amountGross": 560528.8,
     "amountAdjustments": -4533.87,
-    "recordsCount": 348,
+    "recordsCount": 354,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 36566.5,
+      "COMBUSTIVEL": 37902.48,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6541.45,
       "DESLOCAMENTO": 240337.24,
       "DIVULGACAO": 220169.0,
-      "ESCRITORIO": 40735.55,
+      "ESCRITORIO": 41560.05,
       "HOSPEDAGEM": 9484.71,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 36566.5,
+      "COMBUSTIVEL": 37902.48,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6541.45,
       "DESLOCAMENTO": 244871.11,
       "DIVULGACAO": 220169.0,
-      "ESCRITORIO": 40735.55,
+      "ESCRITORIO": 41560.05,
       "HOSPEDAGEM": 9484.71,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 553834.45
+    "2023": 553834.45,
+    "2026": 2160.48
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 38233.55,
     "2023-10": 38559.82,
     "2023-11": 86888.95,
-    "2023-12": 111487.06
+    "2023-12": 111487.06,
+    "2026-03": 2160.48
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 240337.24,
-    "percent": 43.4
+    "percent": 43.23
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178829,
-    "generatedAt": "2026-03-17T02:25:05.056227Z",
+    "generatedAt": "2026-03-17T05:08:51.317415Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "capitão-augusto"
   },
   "mandateTotals": {
-    "amountNet": 534583.0,
-    "amountGross": 541269.87,
+    "amountNet": 535952.52,
+    "amountGross": 542639.39,
     "amountAdjustments": -6686.87,
-    "recordsCount": 745,
+    "recordsCount": 751,
     "byCategoryNet": {
       "ALIMENTACAO": 7507.07,
-      "COMBUSTIVEL": 56312.35,
+      "COMBUSTIVEL": 57681.87,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 13155.55,
       "DESLOCAMENTO": 134689.78,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 7507.07,
-      "COMBUSTIVEL": 56312.35,
+      "COMBUSTIVEL": 57681.87,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 13155.55,
       "DESLOCAMENTO": 141376.65,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 534583.0
+    "2023": 534583.0,
+    "2026": 1369.52
   },
   "monthTotals": {
     "2023-01": 6637.9,
@@ -68,11 +69,12 @@
     "2023-09": 44905.55,
     "2023-10": 53065.68,
     "2023-11": 48506.45,
-    "2023-12": 55906.7
+    "2023-12": 55906.7,
+    "2026-03": 1369.52
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 232163.89,
-    "percent": 43.43
+    "percent": 43.32
   }
 }

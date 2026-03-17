@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74376,
-    "generatedAt": "2026-03-17T02:25:05.037336Z",
+    "generatedAt": "2026-03-17T05:08:51.279806Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,10 +15,10 @@
     "slug": "vander-loubet"
   },
   "mandateTotals": {
-    "amountNet": 542666.51,
-    "amountGross": 556567.86,
+    "amountNet": 543503.92,
+    "amountGross": 557405.27,
     "amountAdjustments": -13901.35,
-    "recordsCount": 546,
+    "recordsCount": 548,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 34963.4,
@@ -26,7 +26,7 @@
       "CORREIOS_TELEFONIA": 8841.07,
       "DESLOCAMENTO": 227338.67,
       "DIVULGACAO": 198610.0,
-      "ESCRITORIO": 50665.18,
+      "ESCRITORIO": 51502.59,
       "HOSPEDAGEM": 22248.19,
       "OUTROS": 0.0
     },
@@ -37,7 +37,7 @@
       "CORREIOS_TELEFONIA": 8841.07,
       "DESLOCAMENTO": 241240.02,
       "DIVULGACAO": 198610.0,
-      "ESCRITORIO": 50665.18,
+      "ESCRITORIO": 51502.59,
       "HOSPEDAGEM": 22248.19,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 542666.51
+    "2023": 542666.51,
+    "2026": 837.41
   },
   "monthTotals": {
     "2023-01": 1263.35,
@@ -68,11 +69,12 @@
     "2023-09": 62199.72,
     "2023-10": 49377.69,
     "2023-11": 37148.27,
-    "2023-12": 38131.98
+    "2023-12": 38131.98,
+    "2026-03": 837.41
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 227338.67,
-    "percent": 41.89
+    "percent": 41.83
   }
 }

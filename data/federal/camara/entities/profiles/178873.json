@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178873,
-    "generatedAt": "2026-03-17T02:25:05.057796Z",
+    "generatedAt": "2026-03-17T05:08:51.320661Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "helder-salomão"
   },
   "mandateTotals": {
-    "amountNet": 297749.59,
-    "amountGross": 300092.27,
+    "amountNet": 297960.75,
+    "amountGross": 300303.43,
     "amountAdjustments": -2342.68,
-    "recordsCount": 626,
+    "recordsCount": 627,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 31311.7,
+      "COMBUSTIVEL": 31522.86,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 14834.06,
       "DESLOCAMENTO": 96291.81,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 31311.7,
+      "COMBUSTIVEL": 31522.86,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 14834.06,
       "DESLOCAMENTO": 98634.49,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 297749.59
+    "2023": 297749.59,
+    "2026": 211.16
   },
   "monthTotals": {
     "2023-01": 5500.0,
@@ -68,11 +69,12 @@
     "2023-09": 21954.14,
     "2023-10": 31705.1,
     "2023-11": 48709.28,
-    "2023-12": 26598.3
+    "2023-12": 26598.3,
+    "2026-03": 211.16
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 96291.81,
-    "percent": 32.34
+    "percent": 32.32
   }
 }

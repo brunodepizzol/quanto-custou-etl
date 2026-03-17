@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160642,
-    "generatedAt": "2026-03-17T02:25:05.053491Z",
+    "generatedAt": "2026-03-17T05:08:51.311967Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "pastor-eurico"
   },
   "mandateTotals": {
-    "amountNet": 502906.57,
-    "amountGross": 507517.1,
+    "amountNet": 577710.31,
+    "amountGross": 582320.84,
     "amountAdjustments": -4610.53,
-    "recordsCount": 507,
+    "recordsCount": 525,
     "byCategoryNet": {
-      "ALIMENTACAO": 15620.01,
-      "COMBUSTIVEL": 75190.9,
+      "ALIMENTACAO": 16533.91,
+      "COMBUSTIVEL": 82480.74,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2820.78,
       "DESLOCAMENTO": 309412.1,
-      "DIVULGACAO": 80000.0,
+      "DIVULGACAO": 146600.0,
       "ESCRITORIO": 2199.43,
       "HOSPEDAGEM": 17663.35,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 15620.01,
-      "COMBUSTIVEL": 75190.9,
+      "ALIMENTACAO": 16533.91,
+      "COMBUSTIVEL": 82480.74,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2820.78,
       "DESLOCAMENTO": 314022.63,
-      "DIVULGACAO": 80000.0,
+      "DIVULGACAO": 146600.0,
       "ESCRITORIO": 2199.43,
       "HOSPEDAGEM": 17663.35,
       "OUTROS": 0.0
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 502906.57
+    "2023": 502906.57,
+    "2026": 74803.74
   },
   "monthTotals": {
     "2023-01": 115.5,
@@ -68,11 +69,12 @@
     "2023-09": 37163.76,
     "2023-10": 31192.4,
     "2023-11": 65929.49,
-    "2023-12": 123519.71
+    "2023-12": 123519.71,
+    "2026-03": 74803.74
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 309412.1,
-    "percent": 61.52
+    "percent": 53.56
   }
 }

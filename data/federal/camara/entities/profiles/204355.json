@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204355,
-    "generatedAt": "2026-03-17T02:25:05.065107Z",
+    "generatedAt": "2026-03-17T05:08:51.333989Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "da-vitoria"
   },
   "mandateTotals": {
-    "amountNet": 453342.26,
-    "amountGross": 465454.04,
+    "amountNet": 454192.45,
+    "amountGross": 466304.23,
     "amountAdjustments": -12111.78,
-    "recordsCount": 373,
+    "recordsCount": 375,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 64116.16,
+      "COMBUSTIVEL": 64376.35,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7672.23,
       "DESLOCAMENTO": 126745.68,
       "DIVULGACAO": 50000.0,
-      "ESCRITORIO": 204346.19,
+      "ESCRITORIO": 204936.19,
       "HOSPEDAGEM": 462.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 64116.16,
+      "COMBUSTIVEL": 64376.35,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7672.23,
       "DESLOCAMENTO": 138857.46,
       "DIVULGACAO": 50000.0,
-      "ESCRITORIO": 204346.19,
+      "ESCRITORIO": 204936.19,
       "HOSPEDAGEM": 462.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 453342.26
+    "2023": 453342.26,
+    "2026": 850.19
   },
   "monthTotals": {
     "2023-01": 11363.33,
@@ -68,11 +69,12 @@
     "2023-09": 37002.63,
     "2023-10": 43903.85,
     "2023-11": 46964.0,
-    "2023-12": 45101.01
+    "2023-12": 45101.01,
+    "2026-03": 850.19
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 204346.19,
-    "percent": 45.08
+    "amountNet": 204936.19,
+    "percent": 45.12
   }
 }

@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2026-03",
+    "generatedAt": "2026-03-17T05:08:50.917586Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 1298183.7,
+    "amountGross": 1298183.7,
+    "amountAdjustments": 0.0,
+    "recordsCount": 2663,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 363,
+    "entitiesWithoutSpending": 150
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 160642,
+      "name": "Pastor Eurico",
+      "stateCode": "PE",
+      "party": "PL",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160642.jpg",
+      "amountNet": 74803.74,
+      "amountGross": 74803.74,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 522111.99,
+        "amountGross": 522111.99,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 462013.72,
+        "amountGross": 462013.72,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 162641.28,
+        "amountGross": 162641.28,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 80762.81,
+        "amountGross": 80762.81,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 51706.63,
+        "amountGross": 51706.63,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 17004.86,
+        "amountGross": 17004.86,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 1942.41,
+        "amountGross": 1942.41,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "PR",
+        "amountNet": 168799.71,
+        "amountGross": 168799.71,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 140322.35,
+        "amountGross": 140322.35,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 124494.12,
+        "amountGross": 124494.12,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 122093.48,
+        "amountGross": 122093.48,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 102460.17,
+        "amountGross": 102460.17,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SP",
+        "amountNet": 96503.07,
+        "amountGross": 96503.07,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 91922.83,
+        "amountGross": 91922.83,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 75681.34,
+        "amountGross": 75681.34,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 57599.23,
+        "amountGross": 57599.23,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "AC",
+        "amountNet": 57200.92,
+        "amountGross": 57200.92,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 55740.18,
+        "amountGross": 55740.18,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 25968.16,
+        "amountGross": 25968.16,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 383996.44,
+      "percent": 29.58
+    },
+    "averages": {
+      "perEntityWithSpending": 3576.26,
+      "perRecord": 487.49
+    },
+    "dailyTotals": {
+      "referenceDate": "2026-03-16",
+      "amountNet": 2394.06,
+      "previousAmountNet": 2008.46,
+      "deltaAmountNet": 385.6,
+      "deltaPercent": 19.2,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2026-03-10",
+          "amountNet": 105543.42
+        },
+        {
+          "date": "2026-03-11",
+          "amountNet": 42595.13
+        },
+        {
+          "date": "2026-03-12",
+          "amountNet": 21392.38
+        },
+        {
+          "date": "2026-03-13",
+          "amountNet": 7253.98
+        },
+        {
+          "date": "2026-03-14",
+          "amountNet": 4972.46
+        },
+        {
+          "date": "2026-03-15",
+          "amountNet": 2008.46
+        },
+        {
+          "date": "2026-03-16",
+          "amountNet": 2394.06
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2026-03-16",
+      "entity": {
+        "id": 178876,
+        "name": "Célio Silveira",
+        "stateCode": "GO",
+        "party": "MDB",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/178876.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 630.14,
+      "category": "COMBUSTIVEL",
+      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "supplier": "AUTO POSTO TRES BOIADEIROS LTDA",
+      "documentType": "Nota Fiscal Eletrônica",
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8066284"
+    }
+  }
+}

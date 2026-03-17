@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220675,
-    "generatedAt": "2026-03-17T02:25:05.114562Z",
+    "generatedAt": "2026-03-17T05:08:51.402993Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "antônio-doido"
   },
   "mandateTotals": {
-    "amountNet": 538093.59,
-    "amountGross": 579449.47,
+    "amountNet": 538754.54,
+    "amountGross": 580110.42,
     "amountAdjustments": -41355.88,
-    "recordsCount": 349,
+    "recordsCount": 352,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 70531.75,
+      "COMBUSTIVEL": 71192.7,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7024.74,
       "DESLOCAMENTO": 242600.6,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 70531.75,
+      "COMBUSTIVEL": 71192.7,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7024.74,
       "DESLOCAMENTO": 283956.48,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 538093.59
+    "2023": 538093.59,
+    "2026": 660.95
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 29412.71,
     "2023-10": 94498.5,
     "2023-11": 111253.6,
-    "2023-12": 51028.17
+    "2023-12": 51028.17,
+    "2026-03": 660.95
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 242600.6,
-    "percent": 45.09
+    "percent": 45.03
   }
 }

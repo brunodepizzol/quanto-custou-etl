@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160674,
-    "generatedAt": "2026-03-17T02:25:05.054101Z",
+    "generatedAt": "2026-03-17T05:08:51.313224Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "hugo-motta"
   },
   "mandateTotals": {
-    "amountNet": 540433.76,
-    "amountGross": 546902.45,
+    "amountNet": 542247.36,
+    "amountGross": 548716.05,
     "amountAdjustments": -6468.69,
-    "recordsCount": 447,
+    "recordsCount": 451,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 52580.53,
+      "COMBUSTIVEL": 52780.53,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 9283.23,
+      "CORREIOS_TELEFONIA": 9859.23,
       "DESLOCAMENTO": 197261.3,
-      "DIVULGACAO": 276250.0,
-      "ESCRITORIO": 64.5,
+      "DIVULGACAO": 277050.0,
+      "ESCRITORIO": 302.1,
       "HOSPEDAGEM": 4994.2,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 52580.53,
+      "COMBUSTIVEL": 52780.53,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 9283.23,
+      "CORREIOS_TELEFONIA": 9859.23,
       "DESLOCAMENTO": 203729.99,
-      "DIVULGACAO": 276250.0,
-      "ESCRITORIO": 64.5,
+      "DIVULGACAO": 277050.0,
+      "ESCRITORIO": 302.1,
       "HOSPEDAGEM": 4994.2,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 540433.76
+    "2023": 540433.76,
+    "2026": 1813.6
   },
   "monthTotals": {
     "2023-01": 32280.03,
@@ -68,11 +69,12 @@
     "2023-09": 46455.2,
     "2023-10": 49788.81,
     "2023-11": 54005.59,
-    "2023-12": 36868.43
+    "2023-12": 36868.43,
+    "2026-03": 1813.6
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 276250.0,
-    "percent": 51.12
+    "amountNet": 277050.0,
+    "percent": 51.09
   }
 }

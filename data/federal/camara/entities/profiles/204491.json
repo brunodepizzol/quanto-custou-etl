@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204491,
-    "generatedAt": "2026-03-17T02:25:05.085083Z",
+    "generatedAt": "2026-03-17T05:08:51.352900Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "gilberto-abramo"
   },
   "mandateTotals": {
-    "amountNet": 465616.17,
-    "amountGross": 482822.56,
+    "amountNet": 465978.49,
+    "amountGross": 483184.88,
     "amountAdjustments": -17206.39,
-    "recordsCount": 202,
+    "recordsCount": 203,
     "byCategoryNet": {
       "ALIMENTACAO": 1067.1,
-      "COMBUSTIVEL": 14822.79,
+      "COMBUSTIVEL": 15185.11,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4728.94,
       "DESLOCAMENTO": 173493.51,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1067.1,
-      "COMBUSTIVEL": 14822.79,
+      "COMBUSTIVEL": 15185.11,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4728.94,
       "DESLOCAMENTO": 190699.9,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 465616.17
+    "2023": 465616.17,
+    "2026": 362.32
   },
   "monthTotals": {
     "2023-01": 783.17,
@@ -68,11 +69,12 @@
     "2023-09": 51271.43,
     "2023-10": 25506.82,
     "2023-11": 66899.18,
-    "2023-12": 102657.96
+    "2023-12": 102657.96,
+    "2026-03": 362.32
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 254669.33,
-    "percent": 54.7
+    "percent": 54.65
   }
 }

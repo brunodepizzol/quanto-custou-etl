@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204462,
-    "generatedAt": "2026-03-17T02:25:05.082868Z",
+    "generatedAt": "2026-03-17T05:08:51.348967Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "chris-tonietto"
   },
   "mandateTotals": {
-    "amountNet": 303899.32,
-    "amountGross": 305338.63,
+    "amountNet": 305658.2,
+    "amountGross": 307097.51,
     "amountAdjustments": -1439.31,
-    "recordsCount": 594,
+    "recordsCount": 611,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 9364.12,
+      "COMBUSTIVEL": 10634.78,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1675.94,
       "DESLOCAMENTO": 226053.21,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 60083.55,
+      "ESCRITORIO": 60571.77,
       "HOSPEDAGEM": 6722.5,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 9364.12,
+      "COMBUSTIVEL": 10634.78,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1675.94,
       "DESLOCAMENTO": 227492.52,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 60083.55,
+      "ESCRITORIO": 60571.77,
       "HOSPEDAGEM": 6722.5,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 303899.32
+    "2023": 303899.32,
+    "2026": 1758.88
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 26295.19,
     "2023-10": 50588.12,
     "2023-11": 23730.44,
-    "2023-12": 103866.95
+    "2023-12": 103866.95,
+    "2026-03": 1758.88
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 226053.21,
-    "percent": 74.38
+    "percent": 73.96
   }
 }

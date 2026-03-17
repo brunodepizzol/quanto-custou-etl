@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 205550,
-    "generatedAt": "2026-03-17T02:25:05.091728Z",
+    "generatedAt": "2026-03-17T05:08:51.364302Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "jorge-braz"
   },
   "mandateTotals": {
-    "amountNet": 461378.69,
-    "amountGross": 477628.32,
+    "amountNet": 461801.62,
+    "amountGross": 478051.25,
     "amountAdjustments": -16249.63,
-    "recordsCount": 301,
+    "recordsCount": 305,
     "byCategoryNet": {
-      "ALIMENTACAO": 3530.1,
-      "COMBUSTIVEL": 14150.46,
+      "ALIMENTACAO": 3682.09,
+      "COMBUSTIVEL": 14381.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3217.57,
       "DESLOCAMENTO": 157018.67,
       "DIVULGACAO": 216000.0,
-      "ESCRITORIO": 64848.29,
+      "ESCRITORIO": 64888.69,
       "HOSPEDAGEM": 2613.6,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 3530.1,
-      "COMBUSTIVEL": 14150.46,
+      "ALIMENTACAO": 3682.09,
+      "COMBUSTIVEL": 14381.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3217.57,
       "DESLOCAMENTO": 173268.3,
       "DIVULGACAO": 216000.0,
-      "ESCRITORIO": 64848.29,
+      "ESCRITORIO": 64888.69,
       "HOSPEDAGEM": 2613.6,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 461378.69
+    "2023": 461378.69,
+    "2026": 422.93
   },
   "monthTotals": {
     "2023-01": 18000.0,
@@ -68,11 +69,12 @@
     "2023-09": 38615.13,
     "2023-10": 42614.19,
     "2023-11": 37990.22,
-    "2023-12": 41590.36
+    "2023-12": 41590.36,
+    "2026-03": 422.93
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 216000.0,
-    "percent": 46.82
+    "percent": 46.77
   }
 }

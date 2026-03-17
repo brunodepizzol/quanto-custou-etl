@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220673,
-    "generatedAt": "2026-03-17T02:25:05.114237Z",
+    "generatedAt": "2026-03-17T05:08:51.402301Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "delegado-caveira"
   },
   "mandateTotals": {
-    "amountNet": 184868.97,
-    "amountGross": 189123.83,
+    "amountNet": 186388.39,
+    "amountGross": 190643.25,
     "amountAdjustments": -4254.86,
-    "recordsCount": 164,
+    "recordsCount": 166,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 28631.55,
+      "COMBUSTIVEL": 29090.97,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 43722.93,
       "DIVULGACAO": 106700.0,
       "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 5814.49,
+      "HOSPEDAGEM": 6874.49,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 28631.55,
+      "COMBUSTIVEL": 29090.97,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 47977.79,
       "DIVULGACAO": 106700.0,
       "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 5814.49,
+      "HOSPEDAGEM": 6874.49,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 184868.97
+    "2023": 184868.97,
+    "2026": 1519.42
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 15995.79,
     "2023-10": 30119.68,
     "2023-11": 10463.5,
-    "2023-12": 56024.69
+    "2023-12": 56024.69,
+    "2026-03": 1519.42
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 106700.0,
-    "percent": 57.72
+    "percent": 57.25
   }
 }

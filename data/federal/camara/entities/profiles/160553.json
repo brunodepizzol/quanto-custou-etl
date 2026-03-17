@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160553,
-    "generatedAt": "2026-03-17T02:25:05.050154Z",
+    "generatedAt": "2026-03-17T05:08:51.305102Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "antonio-brito"
   },
   "mandateTotals": {
-    "amountNet": 525044.42,
-    "amountGross": 617203.42,
+    "amountNet": 527684.99,
+    "amountGross": 619843.99,
     "amountAdjustments": -92159.0,
-    "recordsCount": 636,
+    "recordsCount": 645,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 35931.64,
+      "COMBUSTIVEL": 38572.21,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 28800.95,
       "DESLOCAMENTO": 307292.21,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 35931.64,
+      "COMBUSTIVEL": 38572.21,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 28800.95,
       "DESLOCAMENTO": 399451.21,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 525044.42
+    "2023": 525044.42,
+    "2026": 2640.57
   },
   "monthTotals": {
     "2023-01": 10659.28,
@@ -68,11 +69,12 @@
     "2023-09": 45932.12,
     "2023-10": 56327.14,
     "2023-11": 36064.38,
-    "2023-12": 46753.88
+    "2023-12": 46753.88,
+    "2026-03": 2640.57
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 307292.21,
-    "percent": 58.53
+    "percent": 58.23
   }
 }

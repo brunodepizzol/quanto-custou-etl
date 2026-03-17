@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74160,
-    "generatedAt": "2026-03-17T02:25:05.035424Z",
+    "generatedAt": "2026-03-17T05:08:51.276055Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "patrus-ananias"
   },
   "mandateTotals": {
-    "amountNet": 409247.87,
-    "amountGross": 411784.03,
+    "amountNet": 415065.95,
+    "amountGross": 417602.11,
     "amountAdjustments": -2536.16,
-    "recordsCount": 1105,
+    "recordsCount": 1143,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 33172.33,
+      "COMBUSTIVEL": 37812.51,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6472.3,
       "DESLOCAMENTO": 70146.48,
       "DIVULGACAO": 127210.0,
-      "ESCRITORIO": 157063.26,
-      "HOSPEDAGEM": 15183.5,
+      "ESCRITORIO": 157848.48,
+      "HOSPEDAGEM": 15576.18,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 33172.33,
+      "COMBUSTIVEL": 37812.51,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6472.3,
       "DESLOCAMENTO": 72682.64,
       "DIVULGACAO": 127210.0,
-      "ESCRITORIO": 157063.26,
-      "HOSPEDAGEM": 15183.5,
+      "ESCRITORIO": 157848.48,
+      "HOSPEDAGEM": 15576.18,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 409247.87
+    "2023": 409247.87,
+    "2026": 5818.08
   },
   "monthTotals": {
     "2023-01": 8044.28,
@@ -68,11 +69,12 @@
     "2023-09": 36689.06,
     "2023-10": 41334.25,
     "2023-11": 38872.0,
-    "2023-12": 34262.12
+    "2023-12": 34262.12,
+    "2026-03": 5818.08
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 157063.26,
-    "percent": 38.38
+    "amountNet": 157848.48,
+    "percent": 38.03
   }
 }

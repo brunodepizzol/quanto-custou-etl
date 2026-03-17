@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 92776,
-    "generatedAt": "2026-03-17T02:25:05.041150Z",
+    "generatedAt": "2026-03-17T05:08:51.286997Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "stefano-aguiar"
   },
   "mandateTotals": {
-    "amountNet": 508448.61,
-    "amountGross": 508738.61,
+    "amountNet": 509271.36,
+    "amountGross": 509561.36,
     "amountAdjustments": -290.0,
-    "recordsCount": 361,
+    "recordsCount": 366,
     "byCategoryNet": {
       "ALIMENTACAO": 585.76,
-      "COMBUSTIVEL": 27362.54,
+      "COMBUSTIVEL": 27660.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 13175.29,
       "DESLOCAMENTO": 195442.53,
       "DIVULGACAO": 80500.0,
-      "ESCRITORIO": 187937.79,
+      "ESCRITORIO": 188462.26,
       "HOSPEDAGEM": 3444.7,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 585.76,
-      "COMBUSTIVEL": 27362.54,
+      "COMBUSTIVEL": 27660.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 13175.29,
       "DESLOCAMENTO": 195732.53,
       "DIVULGACAO": 80500.0,
-      "ESCRITORIO": 187937.79,
+      "ESCRITORIO": 188462.26,
       "HOSPEDAGEM": 3444.7,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 508448.61
+    "2023": 508448.61,
+    "2026": 822.75
   },
   "monthTotals": {
     "2023-01": 12548.19,
@@ -68,11 +69,12 @@
     "2023-09": 44357.11,
     "2023-10": 43728.55,
     "2023-11": 40637.78,
-    "2023-12": 40854.95
+    "2023-12": 40854.95,
+    "2026-03": 822.75
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 195442.53,
-    "percent": 38.44
+    "percent": 38.38
   }
 }

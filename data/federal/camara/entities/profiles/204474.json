@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204474,
-    "generatedAt": "2026-03-17T02:25:05.083611Z",
+    "generatedAt": "2026-03-17T05:08:51.350143Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "juarez-costa"
   },
   "mandateTotals": {
-    "amountNet": 341282.81,
-    "amountGross": 346284.9,
+    "amountNet": 342856.05,
+    "amountGross": 347858.14,
     "amountAdjustments": -5002.09,
-    "recordsCount": 233,
+    "recordsCount": 236,
     "byCategoryNet": {
       "ALIMENTACAO": 1364.19,
-      "COMBUSTIVEL": 22037.76,
+      "COMBUSTIVEL": 22464.8,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1781.88,
       "DESLOCAMENTO": 126645.77,
       "DIVULGACAO": 140719.4,
-      "ESCRITORIO": 42189.09,
+      "ESCRITORIO": 43335.29,
       "HOSPEDAGEM": 6544.72,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1364.19,
-      "COMBUSTIVEL": 22037.76,
+      "COMBUSTIVEL": 22464.8,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1781.88,
       "DESLOCAMENTO": 131647.86,
       "DIVULGACAO": 140719.4,
-      "ESCRITORIO": 42189.09,
+      "ESCRITORIO": 43335.29,
       "HOSPEDAGEM": 6544.72,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 341282.81
+    "2023": 341282.81,
+    "2026": 1573.24
   },
   "monthTotals": {
     "2023-01": 23861.25,
@@ -68,11 +69,12 @@
     "2023-09": 1439.98,
     "2023-10": 46523.9,
     "2023-11": 45263.5,
-    "2023-12": 39254.82
+    "2023-12": 39254.82,
+    "2026-03": 1573.24
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 140719.4,
-    "percent": 41.23
+    "percent": 41.04
   }
 }

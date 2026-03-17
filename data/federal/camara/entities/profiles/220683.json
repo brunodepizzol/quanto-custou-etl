@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220683,
-    "generatedAt": "2026-03-17T02:25:05.115386Z",
+    "generatedAt": "2026-03-17T05:08:51.404440Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "beto-richa"
   },
   "mandateTotals": {
-    "amountNet": 481627.19,
-    "amountGross": 489740.81,
+    "amountNet": 488620.66,
+    "amountGross": 496734.28,
     "amountAdjustments": -8113.62,
-    "recordsCount": 556,
+    "recordsCount": 586,
     "byCategoryNet": {
       "ALIMENTACAO": 5555.73,
-      "COMBUSTIVEL": 37991.81,
+      "COMBUSTIVEL": 41681.6,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 704.26,
       "DESLOCAMENTO": 117740.86,
       "DIVULGACAO": 234670.0,
-      "ESCRITORIO": 71702.29,
-      "HOSPEDAGEM": 13262.24,
+      "ESCRITORIO": 72461.84,
+      "HOSPEDAGEM": 15806.37,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 5555.73,
-      "COMBUSTIVEL": 37991.81,
+      "COMBUSTIVEL": 41681.6,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 704.26,
       "DESLOCAMENTO": 125854.48,
       "DIVULGACAO": 234670.0,
-      "ESCRITORIO": 71702.29,
-      "HOSPEDAGEM": 13262.24,
+      "ESCRITORIO": 72461.84,
+      "HOSPEDAGEM": 15806.37,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 481627.19
+    "2023": 481627.19,
+    "2026": 6993.47
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 65870.35,
     "2023-10": 62946.69,
     "2023-11": 55626.96,
-    "2023-12": 38915.44
+    "2023-12": 38915.44,
+    "2026-03": 6993.47
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 234670.0,
-    "percent": 48.72
+    "percent": 48.03
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220605,
-    "generatedAt": "2026-03-17T02:25:05.104741Z",
+    "generatedAt": "2026-03-17T05:08:51.386320Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "bandeira-de-mello"
   },
   "mandateTotals": {
-    "amountNet": 395707.75,
-    "amountGross": 404625.13,
+    "amountNet": 398129.47,
+    "amountGross": 407046.85,
     "amountAdjustments": -8917.38,
-    "recordsCount": 621,
+    "recordsCount": 639,
     "byCategoryNet": {
-      "ALIMENTACAO": 10296.2,
-      "COMBUSTIVEL": 14925.58,
+      "ALIMENTACAO": 10520.3,
+      "COMBUSTIVEL": 16051.08,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 2223.24,
+      "CORREIOS_TELEFONIA": 2559.24,
       "DESLOCAMENTO": 145122.63,
       "DIVULGACAO": 101514.39,
-      "ESCRITORIO": 85776.05,
+      "ESCRITORIO": 86512.17,
       "HOSPEDAGEM": 35849.66,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 10296.2,
-      "COMBUSTIVEL": 14925.58,
+      "ALIMENTACAO": 10520.3,
+      "COMBUSTIVEL": 16051.08,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 2223.24,
+      "CORREIOS_TELEFONIA": 2559.24,
       "DESLOCAMENTO": 154040.01,
       "DIVULGACAO": 101514.39,
-      "ESCRITORIO": 85776.05,
+      "ESCRITORIO": 86512.17,
       "HOSPEDAGEM": 35849.66,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 395707.75
+    "2023": 395707.75,
+    "2026": 2421.72
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 40646.04,
     "2023-10": 28594.92,
     "2023-11": 34608.19,
-    "2023-12": 37774.78
+    "2023-12": 37774.78,
+    "2026-03": 2421.72
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 145122.63,
-    "percent": 36.67
+    "percent": 36.45
   }
 }

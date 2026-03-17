@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74270,
-    "generatedAt": "2026-03-17T02:25:05.036153Z",
+    "generatedAt": "2026-03-17T05:08:51.277503Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "gilberto-nascimento"
   },
   "mandateTotals": {
-    "amountNet": 398511.26,
-    "amountGross": 410330.85,
+    "amountNet": 398661.26,
+    "amountGross": 410480.85,
     "amountAdjustments": -11819.59,
-    "recordsCount": 160,
+    "recordsCount": 161,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 64715.0,
+      "COMBUSTIVEL": 64865.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4803.2,
       "DESLOCAMENTO": 166812.61,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 64715.0,
+      "COMBUSTIVEL": 64865.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4803.2,
       "DESLOCAMENTO": 178632.2,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 398511.26
+    "2023": 398511.26,
+    "2026": 150.0
   },
   "monthTotals": {
     "2023-01": 116.43,
@@ -68,11 +69,12 @@
     "2023-09": 38165.77,
     "2023-10": 33541.38,
     "2023-11": 35069.06,
-    "2023-12": 37675.76
+    "2023-12": 37675.76,
+    "2026-03": 150.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 166812.61,
-    "percent": 41.86
+    "percent": 41.84
   }
 }

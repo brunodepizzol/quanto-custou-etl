@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220611,
-    "generatedAt": "2026-03-17T02:25:05.105739Z",
+    "generatedAt": "2026-03-17T05:08:51.388066Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "general-pazuello"
   },
   "mandateTotals": {
-    "amountNet": 464045.9,
-    "amountGross": 491157.59,
+    "amountNet": 466980.01,
+    "amountGross": 494091.7,
     "amountAdjustments": -27111.69,
-    "recordsCount": 446,
+    "recordsCount": 458,
     "byCategoryNet": {
-      "ALIMENTACAO": 4365.81,
-      "COMBUSTIVEL": 37781.54,
+      "ALIMENTACAO": 4473.51,
+      "COMBUSTIVEL": 40160.65,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1790.2,
       "DESLOCAMENTO": 143331.12,
       "DIVULGACAO": 175900.0,
-      "ESCRITORIO": 97277.04,
+      "ESCRITORIO": 97724.34,
       "HOSPEDAGEM": 3600.19,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 4365.81,
-      "COMBUSTIVEL": 37781.54,
+      "ALIMENTACAO": 4473.51,
+      "COMBUSTIVEL": 40160.65,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1790.2,
       "DESLOCAMENTO": 170442.81,
       "DIVULGACAO": 175900.0,
-      "ESCRITORIO": 97277.04,
+      "ESCRITORIO": 97724.34,
       "HOSPEDAGEM": 3600.19,
       "OUTROS": 0.0
     },
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 464045.9
+    "2023": 464045.9,
+    "2026": 2934.11
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -68,11 +69,12 @@
     "2023-09": 28764.91,
     "2023-10": 35593.98,
     "2023-11": 38518.77,
-    "2023-12": 42267.6
+    "2023-12": 42267.6,
+    "2026-03": 2934.11
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 175900.0,
-    "percent": 37.91
+    "percent": 37.67
   }
 }

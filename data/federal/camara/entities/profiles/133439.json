@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 133439,
-    "generatedAt": "2026-03-17T02:25:05.043309Z",
+    "generatedAt": "2026-03-17T05:08:51.291087Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "andré-figueiredo"
   },
   "mandateTotals": {
-    "amountNet": 501519.85,
-    "amountGross": 537695.87,
+    "amountNet": 504489.44,
+    "amountGross": 540665.46,
     "amountAdjustments": -36176.02,
-    "recordsCount": 334,
+    "recordsCount": 343,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 21443.77,
+      "COMBUSTIVEL": 22853.36,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7588.54,
       "DESLOCAMENTO": 265146.03,
       "DIVULGACAO": 123100.0,
       "ESCRITORIO": 83700.96,
-      "HOSPEDAGEM": 540.55,
+      "HOSPEDAGEM": 2100.55,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 21443.77,
+      "COMBUSTIVEL": 22853.36,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7588.54,
       "DESLOCAMENTO": 301322.05,
       "DIVULGACAO": 123100.0,
       "ESCRITORIO": 83700.96,
-      "HOSPEDAGEM": 540.55,
+      "HOSPEDAGEM": 2100.55,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 501519.85
+    "2023": 501519.85,
+    "2026": 2969.59
   },
   "monthTotals": {
     "2023-01": 9116.43,
@@ -68,11 +69,12 @@
     "2023-09": 38731.56,
     "2023-10": 41125.16,
     "2023-11": 29021.51,
-    "2023-12": 28919.29
+    "2023-12": 28919.29,
+    "2026-03": 2969.59
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 265146.03,
-    "percent": 52.87
+    "percent": 52.56
   }
 }

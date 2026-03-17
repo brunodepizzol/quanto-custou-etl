@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160600,
-    "generatedAt": "2026-03-17T02:25:05.051994Z",
+    "generatedAt": "2026-03-17T05:08:51.309107Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "arthur-oliveira-maia"
   },
   "mandateTotals": {
-    "amountNet": 524503.64,
-    "amountGross": 533749.83,
+    "amountNet": 529514.1,
+    "amountGross": 538760.29,
     "amountAdjustments": -9246.19,
-    "recordsCount": 368,
+    "recordsCount": 378,
     "byCategoryNet": {
       "ALIMENTACAO": 1170.5,
-      "COMBUSTIVEL": 58719.43,
+      "COMBUSTIVEL": 61301.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 15747.43,
       "DESLOCAMENTO": 265514.04,
       "DIVULGACAO": 78900.0,
       "ESCRITORIO": 81080.4,
-      "HOSPEDAGEM": 23371.84,
+      "HOSPEDAGEM": 25799.84,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1170.5,
-      "COMBUSTIVEL": 58719.43,
+      "COMBUSTIVEL": 61301.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 15747.43,
       "DESLOCAMENTO": 274760.23,
       "DIVULGACAO": 78900.0,
       "ESCRITORIO": 81080.4,
-      "HOSPEDAGEM": 23371.84,
+      "HOSPEDAGEM": 25799.84,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 524503.64
+    "2023": 524503.64,
+    "2026": 5010.46
   },
   "monthTotals": {
     "2023-01": 18125.14,
@@ -68,11 +69,12 @@
     "2023-09": 52008.22,
     "2023-10": 59744.61,
     "2023-11": 30763.77,
-    "2023-12": 55969.78
+    "2023-12": 55969.78,
+    "2026-03": 5010.46
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 265514.04,
-    "percent": 50.62
+    "percent": 50.14
   }
 }

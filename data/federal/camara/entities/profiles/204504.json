@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204504,
-    "generatedAt": "2026-03-17T02:25:05.086416Z",
+    "generatedAt": "2026-03-17T05:08:51.355206Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "cezinha-de-madureira"
   },
   "mandateTotals": {
-    "amountNet": 517958.74,
-    "amountGross": 544760.12,
+    "amountNet": 519621.35,
+    "amountGross": 546422.73,
     "amountAdjustments": -26801.38,
-    "recordsCount": 338,
+    "recordsCount": 344,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 41598.68,
+      "COMBUSTIVEL": 43261.29,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 26612.52,
       "DESLOCAMENTO": 238382.45,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 41598.68,
+      "COMBUSTIVEL": 43261.29,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 26612.52,
       "DESLOCAMENTO": 265183.83,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 517958.74
+    "2023": 517958.74,
+    "2026": 1662.61
   },
   "monthTotals": {
     "2023-01": 7860.67,
@@ -68,11 +69,12 @@
     "2023-09": 50623.81,
     "2023-10": 55538.72,
     "2023-11": 83868.19,
-    "2023-12": 62214.96
+    "2023-12": 62214.96,
+    "2026-03": 1662.61
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 238382.45,
-    "percent": 46.02
+    "percent": 45.88
   }
 }

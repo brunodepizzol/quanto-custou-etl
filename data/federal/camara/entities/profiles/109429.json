@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 109429,
-    "generatedAt": "2026-03-17T02:25:05.042103Z",
+    "generatedAt": "2026-03-17T05:08:51.288805Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "benes-leocádio"
   },
   "mandateTotals": {
-    "amountNet": 444629.78,
-    "amountGross": 447424.29,
+    "amountNet": 447264.29,
+    "amountGross": 450058.8,
     "amountAdjustments": -2794.51,
-    "recordsCount": 444,
+    "recordsCount": 453,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 45533.12,
+      "COMBUSTIVEL": 48167.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3068.37,
       "DESLOCAMENTO": 199591.76,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 45533.12,
+      "COMBUSTIVEL": 48167.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3068.37,
       "DESLOCAMENTO": 202386.27,
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 444629.78
+    "2023": 444629.78,
+    "2026": 2634.51
   },
   "monthTotals": {
     "2023-01": 7467.0,
@@ -68,11 +69,12 @@
     "2023-09": 40440.99,
     "2023-10": 30988.61,
     "2023-11": 41728.93,
-    "2023-12": 42669.83
+    "2023-12": 42669.83,
+    "2026-03": 2634.51
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 199591.76,
-    "percent": 44.89
+    "percent": 44.63
   }
 }

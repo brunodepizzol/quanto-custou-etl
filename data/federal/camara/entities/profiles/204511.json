@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204511,
-    "generatedAt": "2026-03-17T02:25:05.086897Z",
+    "generatedAt": "2026-03-17T05:08:51.356074Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "david-soares"
   },
   "mandateTotals": {
-    "amountNet": 490314.12,
-    "amountGross": 539018.05,
+    "amountNet": 495270.87,
+    "amountGross": 543974.8,
     "amountAdjustments": -48703.93,
-    "recordsCount": 507,
+    "recordsCount": 513,
     "byCategoryNet": {
-      "ALIMENTACAO": 5084.91,
-      "COMBUSTIVEL": 18079.36,
+      "ALIMENTACAO": 5341.51,
+      "COMBUSTIVEL": 18529.51,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 10641.05,
       "DESLOCAMENTO": 284759.64,
-      "DIVULGACAO": 119089.4,
+      "DIVULGACAO": 123339.4,
       "ESCRITORIO": 46787.45,
       "HOSPEDAGEM": 5872.31,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 5084.91,
-      "COMBUSTIVEL": 18079.36,
+      "ALIMENTACAO": 5341.51,
+      "COMBUSTIVEL": 18529.51,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 10641.05,
       "DESLOCAMENTO": 333463.57,
-      "DIVULGACAO": 119089.4,
+      "DIVULGACAO": 123339.4,
       "ESCRITORIO": 46787.45,
       "HOSPEDAGEM": 5872.31,
       "OUTROS": 0.0
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 490314.12
+    "2023": 490314.12,
+    "2026": 4956.75
   },
   "monthTotals": {
     "2023-01": 113.69,
@@ -68,11 +69,12 @@
     "2023-09": 38259.78,
     "2023-10": 70207.66,
     "2023-11": 69790.61,
-    "2023-12": 56822.56
+    "2023-12": 56822.56,
+    "2026-03": 4956.75
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 284759.64,
-    "percent": 58.08
+    "percent": 57.5
   }
 }

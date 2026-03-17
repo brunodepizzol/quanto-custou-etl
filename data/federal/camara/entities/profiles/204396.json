@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204396,
-    "generatedAt": "2026-03-17T02:25:05.078050Z",
+    "generatedAt": "2026-03-17T05:08:51.340493Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "vermelho"
   },
   "mandateTotals": {
-    "amountNet": 533638.38,
-    "amountGross": 563582.25,
+    "amountNet": 535360.46,
+    "amountGross": 565304.33,
     "amountAdjustments": -29943.87,
-    "recordsCount": 393,
+    "recordsCount": 400,
     "byCategoryNet": {
-      "ALIMENTACAO": 166.74,
-      "COMBUSTIVEL": 33218.78,
+      "ALIMENTACAO": 268.97,
+      "COMBUSTIVEL": 34708.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4083.99,
       "DESLOCAMENTO": 81694.05,
       "DIVULGACAO": 365900.0,
       "ESCRITORIO": 46694.82,
-      "HOSPEDAGEM": 1880.0,
+      "HOSPEDAGEM": 2010.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 166.74,
-      "COMBUSTIVEL": 33218.78,
+      "ALIMENTACAO": 268.97,
+      "COMBUSTIVEL": 34708.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4083.99,
       "DESLOCAMENTO": 111637.92,
       "DIVULGACAO": 365900.0,
       "ESCRITORIO": 46694.82,
-      "HOSPEDAGEM": 1880.0,
+      "HOSPEDAGEM": 2010.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,8 @@
     }
   },
   "yearTotals": {
-    "2023": 533638.38
+    "2023": 533638.38,
+    "2026": 1722.08
   },
   "monthTotals": {
     "2023-01": 26032.86,
@@ -68,11 +69,12 @@
     "2023-09": 40840.21,
     "2023-10": 58215.26,
     "2023-11": 59221.63,
-    "2023-12": 75313.36
+    "2023-12": 75313.36,
+    "2026-03": 1722.08
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 365900.0,
-    "percent": 68.57
+    "percent": 68.35
   }
 }
