@@ -19,7 +19,8 @@
     },
     "person.day": {
       "tag": "INSIGHT DO DIA",
-      "variationTemplate": "Fornecedor: {supplier}"
+      "variationTemplate": "Fornecedor: {supplier}",
+      "contextTemplate": "Maior despesa líquida no dia {referenceDateBr}."
     },
     "comparison.day": {
       "tag": "INSIGHT DO DIA"
@@ -91,9 +92,9 @@
     },
     "federal-deputies-rolling7d-trend": {
       "useTemplate": "timeline.rolling7d",
-      "tag": "MÉDIA POR LANÇAMENTO",
-      "title": "Valor médio por lançamento",
-      "context": "Mostra o valor médio de cada lançamento de despesa no período."
+      "tag": "TENDÊNCIA 7 DIAS",
+      "title": "Tendência dos últimos 7 dias",
+      "context": "Mostra a evolução dos totais diários nos últimos 7 dias com dados disponíveis."
     }
   }
 }

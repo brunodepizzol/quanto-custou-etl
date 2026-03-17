@@ -20,6 +20,9 @@ on:
       - main
     paths:
       - "data/**/insights/home-insights.json"
+      - "scripts/global_insights/**"
+      - ".github/workflows/aggregate-insights.yml"
+      - "requirements.txt"
   workflow_run:
     workflows:
       - Build ETL Camara
@@ -51,13 +54,19 @@ jobs:
           ref: main
 
       - name: Test aggregator logic (fixture)
-        run: python scripts/test_aggregate_insights_logic.py
+        env:
+          PYTHONPATH: scripts
+        run: python -m global_insights.tests.test_aggregate_insights_logic
 
       - name: Build catalog/index/feed
-        run: python scripts/aggregate_insights_feed.py --data-dir data
+        env:
+          PYTHONPATH: scripts
+        run: python -m global_insights.aggregate_insights_feed --data-dir data
 
       - name: Validate aggregated feed
-        run: python scripts/validate_global_insights_feed.py --data-dir data
+        env:
+          PYTHONPATH: scripts
+        run: python -m global_insights.validate_global_insights_feed --data-dir data
 
       - name: Monitor feed emptiness
         run: |
