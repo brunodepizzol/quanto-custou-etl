@@ -44,15 +44,16 @@ jobs:
           if not maps:
               raise SystemExit("No category_map.json found under mapping/")
 
-          script = "scripts/federal/deputados/generate_camara_rankings.py"
-          if not Path(script).exists():
-              raise SystemExit(f"Required script not found: {script}")
+          module = "federal.deputados.process"
+          if not Path("scripts/federal/deputados/process.py").exists():
+              raise SystemExit("Required module entrypoint not found: scripts/federal/deputados/process.py")
           for p in maps:
               env = os.environ.copy()
               env["MODE"] = "validate-mapping"
               env["CATEGORY_MAP"] = str(p.as_posix())
+              env["PYTHONPATH"] = "scripts"
               print(f"Validating {p}")
-              subprocess.run([sys.executable, script], check=True, env=env)
+              subprocess.run([sys.executable, "-m", module], check=True, env=env)
 
           print(f"OK: {len(maps)} mapping file(s) valid")
           PY

@@ -1,0 +1,92 @@
+name: CI ETL Camara
+
+on:
+  pull_request:
+    paths:
+      - "scripts/federal/deputados/**"
+      - "scripts/global_insights/**"
+      - "requirements.txt"
+      - ".github/workflows/ci-etl-camara.yml"
+  push:
+    branches:
+      - main
+    paths:
+      - "scripts/federal/deputados/**"
+      - "scripts/global_insights/**"
+      - "requirements.txt"
+      - ".github/workflows/ci-etl-camara.yml"
+
+concurrency:
+  group: ci-etl-camara-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install mypy types-requests
+
+      - name: Run mypy
+        env:
+          MYPYPATH: scripts
+        run: |
+          python -m mypy \
+            scripts/federal/deputados/camara_common.py \
+            scripts/federal/deputados/camara_source.py \
+            scripts/federal/deputados/camara_domain.py \
+            scripts/federal/deputados/camara_contracts.py \
+            scripts/federal/deputados/camara_insights.py \
+            scripts/federal/deputados/camara_validate.py \
+            scripts/federal/deputados/process.py \
+            scripts/federal/deputados/tests/test_camara_contract_logic.py \
+            scripts/federal/deputados/tests/test_camara_etl_integration.py
+
+      - name: Compile ETL modules
+        run: |
+          python -m py_compile \
+            scripts/federal/deputados/camara_common.py \
+            scripts/federal/deputados/camara_source.py \
+            scripts/federal/deputados/camara_domain.py \
+            scripts/federal/deputados/camara_contracts.py \
+            scripts/federal/deputados/camara_insights.py \
+            scripts/federal/deputados/camara_validate.py \
+            scripts/federal/deputados/process.py \
+            scripts/federal/deputados/tests/test_camara_contract_logic.py \
+            scripts/federal/deputados/tests/test_camara_etl_integration.py \
+            scripts/global_insights/aggregate_insights_feed.py \
+            scripts/global_insights/validate_global_insights_feed.py \
+            scripts/global_insights/tests/test_aggregate_insights_logic.py
+
+      - name: Validate mapping mode bootstrap
+        env:
+          MODE: validate-mapping
+          CATEGORY_MAP: mapping/federal/deputados/category_map.json
+          PYTHONPATH: scripts
+        run: python -m federal.deputados.process
+
+      - name: Run Camara contract tests
+        env:
+          PYTHONPATH: scripts
+        run: python -m federal.deputados.tests.test_camara_contract_logic
+
+      - name: Run Camara integration test
+        env:
+          PYTHONPATH: scripts
+        run: python -m federal.deputados.tests.test_camara_etl_integration
+
+      - name: Run global aggregator logic test
+        env:
+          PYTHONPATH: scripts
+        run: python -m global_insights.tests.test_aggregate_insights_logic
