@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-03-17T09:13:03.898504Z",
+    "generatedAt": "2026-03-17T09:49:09.870124Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
@@ -16,18 +16,18 @@
       "enabled": true,
       "priority": 100,
       "weight": 1.0,
-      "generatedAt": "2026-03-17T09:12:38.691164Z",
-      "freshUntil": "2026-03-18T09:12:38.691164Z",
+      "generatedAt": "2026-03-17T09:48:45.965840Z",
+      "freshUntil": "2026-03-18T09:48:45.965840Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 682868753.56,
+        "amount": 713872332.79,
         "currency": "BRL"
       },
       "tags": [
         "Dados federais"
       ],
-      "referenceDate": "605545 lançamentos no período",
-      "variationText": "Base: 513 • Com gasto: 510 • Sem gasto: 3",
+      "referenceDate": "627976 lançamentos no período",
+      "variationText": "Base: 513 • Com gasto: 512 • Sem gasto: 1",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -47,8 +47,8 @@
       "enabled": true,
       "priority": 95,
       "weight": 0.95,
-      "generatedAt": "2026-03-17T09:12:38.691164Z",
-      "freshUntil": "2026-03-18T09:12:38.691164Z",
+      "generatedAt": "2026-03-17T09:48:45.965840Z",
+      "freshUntil": "2026-03-18T09:48:45.965840Z",
       "qualityScore": 1.0,
       "entity": {
         "id": 73486,
@@ -59,11 +59,11 @@
         "subtitle": "Deputado federal • PDT/RS"
       },
       "value": {
-        "amount": 1916003.88,
+        "amount": 1992267.15,
         "currency": "BRL"
       },
       "referenceDate": "Deputado com maior gasto no mandato",
-      "variationText": "Base: 513 • Com gasto: 510",
+      "variationText": "Base: 513 • Com gasto: 512",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -83,27 +83,27 @@
       "enabled": true,
       "priority": 92,
       "weight": 0.9,
-      "generatedAt": "2026-03-17T09:12:38.691164Z",
-      "freshUntil": "2026-03-18T09:12:38.691164Z",
+      "generatedAt": "2026-03-17T09:48:45.965840Z",
+      "freshUntil": "2026-03-18T09:48:45.965840Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 18076552.1,
+        "amount": 18996447.88,
         "currency": "BRL"
       },
       "right": {
-        "amount": 682868753.56,
+        "amount": 713872332.79,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -664792201.46,
-        "percent": 2.65,
+        "amount": -694875884.91,
+        "percent": 2.66,
         "direction": "up"
       },
       "tags": [
         "Top 10 deputados"
       ],
-      "referenceDate": "510 deputados com gasto no período",
-      "variationText": "Montante Top 10: R$ 18.076.552,10",
+      "referenceDate": "512 deputados com gasto no período",
+      "variationText": "Montante Top 10: R$ 18.996.447,88",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -123,18 +123,18 @@
       "enabled": true,
       "priority": 90,
       "weight": 0.88,
-      "generatedAt": "2026-03-17T09:12:38.691164Z",
-      "freshUntil": "2026-03-18T09:12:38.691164Z",
+      "generatedAt": "2026-03-17T09:48:45.965840Z",
+      "freshUntil": "2026-03-18T09:48:45.965840Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 28400.0,
+        "amount": 2394.06,
         "currency": "BRL"
       },
       "tags": [
         "Movimento do dia"
       ],
-      "referenceDate": "2026-03-12",
-      "variationText": "Base: 513 • Com gasto: 510",
+      "referenceDate": "2026-03-16",
+      "variationText": "Base: 513 • Com gasto: 512",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -149,28 +149,28 @@
       "period": "day",
       "tag": "MAIOR GASTO DO DIA",
       "title": "Maior gasto no dia mais recente",
-      "context": "Maior despesa líquida no dia 12/03/2026.",
+      "context": "Maior despesa líquida no dia 16/03/2026.",
       "source": "Nível federal • Deputados federais",
       "enabled": true,
       "priority": 89,
       "weight": 0.86,
-      "generatedAt": "2026-03-17T09:12:38.691164Z",
-      "freshUntil": "2026-03-18T09:12:38.691164Z",
+      "generatedAt": "2026-03-17T09:48:45.965840Z",
+      "freshUntil": "2026-03-18T09:48:45.965840Z",
       "qualityScore": 1.0,
       "entity": {
-        "id": 204508,
-        "name": "Igor Timo",
-        "party": "PSD",
-        "stateCode": "MG",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204508.jpg",
-        "subtitle": "Deputado federal • PSD/MG"
+        "id": 178876,
+        "name": "Célio Silveira",
+        "party": "MDB",
+        "stateCode": "GO",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/178876.jpg",
+        "subtitle": "Deputado federal • MDB/GO"
       },
       "value": {
-        "amount": 28400.0,
+        "amount": 630.14,
         "currency": "BRL"
       },
-      "referenceDate": "2026-03-12",
-      "variationText": "Fornecedor: VISAO CONSULTORIA E MARKETING LTDA",
+      "referenceDate": "2026-03-16",
+      "variationText": "Fornecedor: AUTO POSTO TRES BOIADEIROS LTDA",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -190,27 +190,27 @@
       "enabled": true,
       "priority": 85,
       "weight": 0.82,
-      "generatedAt": "2026-03-17T09:12:38.691164Z",
-      "freshUntil": "2026-03-18T09:12:38.691164Z",
+      "generatedAt": "2026-03-17T09:48:45.965840Z",
+      "freshUntil": "2026-03-18T09:48:45.965840Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 28400.0,
+        "amount": 2394.06,
         "currency": "BRL"
       },
       "right": {
-        "amount": 28366.7,
+        "amount": 2008.46,
         "currency": "BRL"
       },
       "delta": {
-        "amount": 33.3,
-        "percent": 0.12,
+        "amount": 385.6,
+        "percent": 19.2,
         "direction": "up"
       },
       "tags": [
         "Variação diária"
       ],
-      "referenceDate": "2026-03-12",
-      "variationText": "Dia anterior: R$ 28.366,70",
+      "referenceDate": "2026-03-16",
+      "variationText": "Dia anterior: R$ 2.008,46",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -230,18 +230,18 @@
       "enabled": true,
       "priority": 82,
       "weight": 0.78,
-      "generatedAt": "2026-03-17T09:12:38.691164Z",
-      "freshUntil": "2026-03-18T09:12:38.691164Z",
+      "generatedAt": "2026-03-17T09:48:45.965840Z",
+      "freshUntil": "2026-03-18T09:48:45.965840Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 266970140.02,
+        "amount": 281405769.38,
         "currency": "BRL"
       },
       "tags": [
         "DIVULGACAO"
       ],
       "referenceDate": "Participação no total do mandato",
-      "variationText": "Participação: 39,1%",
+      "variationText": "Participação: 39,4%",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -261,17 +261,17 @@
       "enabled": true,
       "priority": 80,
       "weight": 0.76,
-      "generatedAt": "2026-03-17T09:12:38.691164Z",
-      "freshUntil": "2026-03-18T09:12:38.691164Z",
+      "generatedAt": "2026-03-17T09:48:45.965840Z",
+      "freshUntil": "2026-03-18T09:48:45.965840Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 84176048.39,
+        "amount": 88061991.52,
         "currency": "BRL"
       },
       "tags": [
         "SP"
       ],
-      "referenceDate": "510 deputados com gasto no período",
+      "referenceDate": "512 deputados com gasto no período",
       "variationText": "Participação: 12,3%",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
@@ -292,18 +292,18 @@
       "enabled": true,
       "priority": 78,
       "weight": 0.72,
-      "generatedAt": "2026-03-17T09:12:38.691164Z",
-      "freshUntil": "2026-03-18T09:12:38.691164Z",
+      "generatedAt": "2026-03-17T09:48:45.965840Z",
+      "freshUntil": "2026-03-18T09:48:45.965840Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 1338958.34,
+        "amount": 1394281.9,
         "currency": "BRL"
       },
       "tags": [
         "Média por agente"
       ],
-      "referenceDate": "510 deputados com gasto no período",
-      "variationText": "Montante: R$ 682.868.753,56",
+      "referenceDate": "512 deputados com gasto no período",
+      "variationText": "Montante: R$ 713.872.332,79",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -323,27 +323,27 @@
       "enabled": true,
       "priority": 74,
       "weight": 0.68,
-      "generatedAt": "2026-03-17T09:12:38.691164Z",
-      "freshUntil": "2026-03-18T09:12:38.691164Z",
+      "generatedAt": "2026-03-17T09:48:45.965840Z",
+      "freshUntil": "2026-03-18T09:48:45.965840Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 28400.0,
+        "amount": 630.14,
         "currency": "BRL"
       },
       "right": {
-        "amount": 28400.0,
+        "amount": 2394.06,
         "currency": "BRL"
       },
       "delta": {
-        "amount": 0.0,
-        "percent": 100.0,
-        "direction": "flat"
+        "amount": -1763.92,
+        "percent": 26.32,
+        "direction": "down"
       },
       "tags": [
         "Peso do maior gasto no dia"
       ],
-      "referenceDate": "2026-03-12",
-      "variationText": "Valor líder: R$ 28.400,00",
+      "referenceDate": "2026-03-16",
+      "variationText": "Valor líder: R$ 630,14",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -363,51 +363,51 @@
       "enabled": true,
       "priority": 72,
       "weight": 0.66,
-      "generatedAt": "2026-03-17T09:12:38.691164Z",
-      "freshUntil": "2026-03-18T09:12:38.691164Z",
+      "generatedAt": "2026-03-17T09:48:45.965840Z",
+      "freshUntil": "2026-03-18T09:48:45.965840Z",
       "qualityScore": 1.0,
       "tags": [
         "Totais diários"
       ],
       "series": [
         {
-          "date": "2026-02-23",
-          "amount": 71900.0,
+          "date": "2026-03-10",
+          "amount": 105843.42,
           "currency": "BRL"
         },
         {
-          "date": "2026-02-24",
-          "amount": 7700.0,
-          "currency": "BRL"
-        },
-        {
-          "date": "2026-02-26",
-          "amount": 18000.0,
-          "currency": "BRL"
-        },
-        {
-          "date": "2026-02-27",
-          "amount": 6500.0,
-          "currency": "BRL"
-        },
-        {
-          "date": "2026-03-03",
-          "amount": 69000.0,
-          "currency": "BRL"
-        },
-        {
-          "date": "2026-03-06",
-          "amount": 28366.7,
+          "date": "2026-03-11",
+          "amount": 42595.13,
           "currency": "BRL"
         },
         {
           "date": "2026-03-12",
-          "amount": 28400.0,
+          "amount": 21592.38,
+          "currency": "BRL"
+        },
+        {
+          "date": "2026-03-13",
+          "amount": 7253.98,
+          "currency": "BRL"
+        },
+        {
+          "date": "2026-03-14",
+          "amount": 4972.46,
+          "currency": "BRL"
+        },
+        {
+          "date": "2026-03-15",
+          "amount": 2008.46,
+          "currency": "BRL"
+        },
+        {
+          "date": "2026-03-16",
+          "amount": 2394.06,
           "currency": "BRL"
         }
       ],
-      "referenceDate": "2026-03-12",
-      "variationText": "Janela 7d: R$ 229.866,70",
+      "referenceDate": "2026-03-16",
+      "variationText": "Janela 7d: R$ 186.659,89",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
