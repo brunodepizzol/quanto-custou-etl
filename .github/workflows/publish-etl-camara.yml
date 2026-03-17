@@ -1,4 +1,4 @@
-name: Build ETL Camara
+name: Publish ETL Camara
 
 on:
   workflow_dispatch:
@@ -21,7 +21,7 @@ on:
     - cron: "40 3 * * 0"
 
 concurrency:
-  group: etl-camara-rankings-${{ github.ref }}
+  group: publish-etl-camara-${{ github.ref }}
   cancel-in-progress: false
 
 permissions:

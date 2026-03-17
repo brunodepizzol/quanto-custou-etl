@@ -1,4 +1,4 @@
-name: Aggregate Insights Feed
+name: Publish Global Insights Feed
 
 on:
   workflow_dispatch:
@@ -21,16 +21,16 @@ on:
     paths:
       - "data/**/insights/home-insights.json"
       - "scripts/global_insights/**"
-      - ".github/workflows/aggregate-insights.yml"
+      - ".github/workflows/publish-global-insights-feed.yml"
       - "requirements.txt"
   workflow_run:
     workflows:
-      - Build ETL Camara
+      - Publish ETL Camara
     types:
       - completed
 
 concurrency:
-  group: aggregate-insights-${{ github.ref }}
+  group: publish-global-insights-feed-${{ github.ref }}
   cancel-in-progress: true
 
 permissions:

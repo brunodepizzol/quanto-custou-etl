@@ -1,4 +1,4 @@
-name: CI ETL Camara
+name: Validate ETL Camara
 
 on:
   pull_request:
@@ -6,7 +6,7 @@ on:
       - "scripts/federal/deputados/**"
       - "scripts/global_insights/**"
       - "requirements.txt"
-      - ".github/workflows/ci-etl-camara.yml"
+      - ".github/workflows/validate-etl-camara.yml"
   push:
     branches:
       - main
@@ -14,10 +14,10 @@ on:
       - "scripts/federal/deputados/**"
       - "scripts/global_insights/**"
       - "requirements.txt"
-      - ".github/workflows/ci-etl-camara.yml"
+      - ".github/workflows/validate-etl-camara.yml"
 
 concurrency:
-  group: ci-etl-camara-${{ github.ref }}
+  group: validate-etl-camara-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:

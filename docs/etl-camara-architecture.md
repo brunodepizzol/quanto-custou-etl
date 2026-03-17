@@ -77,7 +77,7 @@ Published contracts must expose only canonical keys such as:
 - Global feed logic:
   - `scripts/global_insights/tests/test_aggregate_insights_logic.py`
 - CI workflow:
-  - `.github/workflows/ci-etl-camara.yml`
+  - `.github/workflows/validate-etl-camara.yml`
 
 ## Rule for next levels
 

@@ -6,14 +6,14 @@ Generate and publish the JSON files consumed by the site in `data/`, with a stab
 
 ## Workflows
 
-- `Build ETL <Agency>`: generates and publishes data for one agency.
-- `Aggregate Insights Feed`: consolidates global insights.
+- `Publish ETL <Agency>`: generates and publishes data for one agency.
+- `Publish Global Insights Feed`: consolidates and publishes global insights.
 - `Validate Category Mappings`: validates mappings.
 
 ## Current flow
 
-1. `Build ETL Camara` publishes `data/federal/camara/...`.
-2. `Aggregate Insights Feed` updates:
+1. `Publish ETL Camara` publishes `data/federal/camara/...`.
+2. `Publish Global Insights Feed` updates:
    - `data/catalog.json`
    - `data/home-insights-index.json`
    - `data/home-insights-feed.json`
@@ -29,7 +29,7 @@ When the global feed is invalid in production:
    - `data/catalog.json`
    - `data/home-insights-index.json`
    - `data/home-insights-feed.json`
-2. Run `Aggregate Insights Feed` manually.
+2. Run `Publish Global Insights Feed` manually.
 3. Confirm in logs:
    - `Validate aggregated feed` passed
    - counters (`datasets`, `candidate insights`, `feed insights`) were emitted
@@ -49,7 +49,7 @@ Standard process to include a new level (for example: state, municipal):
    - `id`
    - `generatedAt`
    - `freshUntil`
-4. Create `Build ETL <Agency>` workflow following current standard (concurrency, timeout, commit only when `data` changes).
+4. Create `Publish ETL <Agency>` workflow following current standard (concurrency, timeout, commit only when `data` changes).
 5. Validate locally:
    - `MODE=validate-mapping`
    - `MODE=validate`
