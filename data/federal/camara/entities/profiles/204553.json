@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204553,
-    "generatedAt": "2026-03-17T09:12:39.096187Z",
+    "generatedAt": "2026-03-17T09:48:46.452588Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "pastor-sargento-isidório"
   },
   "mandateTotals": {
-    "amountNet": 620034.63,
-    "amountGross": 694695.56,
+    "amountNet": 623086.32,
+    "amountGross": 697747.25,
     "amountAdjustments": -74660.93,
-    "recordsCount": 470,
+    "recordsCount": 495,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 152615.08,
+      "COMBUSTIVEL": 155666.77,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 22332.49,
       "DESLOCAMENTO": 408853.46,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 152615.08,
+      "COMBUSTIVEL": 155666.77,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 22332.49,
       "DESLOCAMENTO": 483514.39,
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 278188.8,
     "2024": 225857.44,
-    "2025": 115988.39
+    "2025": 115988.39,
+    "2026": 3051.69
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 2885.16,
     "2025-10": 2598.1,
     "2025-11": 585.67,
-    "2025-12": -1179.04
+    "2025-12": -1179.04,
+    "2026-01": 2651.69,
+    "2026-02": 400.0,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 408853.46,
-    "percent": 65.94
+    "percent": 65.62
   }
 }

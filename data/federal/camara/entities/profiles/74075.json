@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74075,
-    "generatedAt": "2026-03-17T09:12:39.028638Z",
+    "generatedAt": "2026-03-17T09:48:46.357106Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "elcione-barbalho"
   },
   "mandateTotals": {
-    "amountNet": 1019727.54,
-    "amountGross": 1176856.16,
+    "amountNet": 1027371.6,
+    "amountGross": 1184500.22,
     "amountAdjustments": -157128.62,
-    "recordsCount": 1080,
+    "recordsCount": 1097,
     "byCategoryNet": {
-      "ALIMENTACAO": 14496.97,
-      "COMBUSTIVEL": 41473.21,
+      "ALIMENTACAO": 14874.37,
+      "COMBUSTIVEL": 45480.68,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 28707.69,
-      "DESLOCAMENTO": 575607.8,
+      "CORREIOS_TELEFONIA": 29140.29,
+      "DESLOCAMENTO": 577274.39,
       "DIVULGACAO": 307838.0,
-      "ESCRITORIO": 48037.68,
+      "ESCRITORIO": 49197.68,
       "HOSPEDAGEM": 3566.19,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 14496.97,
-      "COMBUSTIVEL": 41473.21,
+      "ALIMENTACAO": 14874.37,
+      "COMBUSTIVEL": 45480.68,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 28707.69,
-      "DESLOCAMENTO": 732736.42,
+      "CORREIOS_TELEFONIA": 29140.29,
+      "DESLOCAMENTO": 734403.01,
       "DIVULGACAO": 307838.0,
-      "ESCRITORIO": 48037.68,
+      "ESCRITORIO": 49197.68,
       "HOSPEDAGEM": 3566.19,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 443341.83,
     "2024": 320983.8,
-    "2025": 255401.91
+    "2025": 255401.91,
+    "2026": 7644.06
   },
   "monthTotals": {
     "2023-01": 16878.43,
@@ -94,11 +95,14 @@
     "2025-09": 20546.66,
     "2025-10": 49806.76,
     "2025-11": 10874.61,
-    "2025-12": 49484.61
+    "2025-12": 49484.61,
+    "2026-01": 3346.89,
+    "2026-02": 1573.72,
+    "2026-03": 2723.45
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 575607.8,
-    "percent": 56.45
+    "amountNet": 577274.39,
+    "percent": 56.19
   }
 }

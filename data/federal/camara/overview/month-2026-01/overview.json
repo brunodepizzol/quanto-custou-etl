@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2026-01",
+    "generatedAt": "2026-03-17T09:38:29.072954Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 16191759.76,
+    "amountGross": 16250933.03,
+    "amountAdjustments": -59173.27,
+    "recordsCount": 9519,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 497,
+    "entitiesWithoutSpending": 16
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 220590,
+      "name": "Coronel Ulysses",
+      "stateCode": "AC",
+      "party": "UNIÃO",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220590.jpg",
+      "amountNet": 92440.03,
+      "amountGross": 92440.03,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 7517742.36,
+        "amountGross": 7517742.36,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 4172353.08,
+        "amountGross": 4231526.35,
+        "amountAdjustments": -59173.27
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2808726.56,
+        "amountGross": 2808726.56,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1326761.97,
+        "amountGross": 1326761.97,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 181461.92,
+        "amountGross": 181461.92,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 154171.14,
+        "amountGross": 154171.14,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 23542.73,
+        "amountGross": 23542.73,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 7000.0,
+        "amountGross": 7000.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2139510.7,
+        "amountGross": 2145738.93,
+        "amountAdjustments": -6228.23
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 1639428.74,
+        "amountGross": 1643790.22,
+        "amountAdjustments": -4361.48
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1291036.05,
+        "amountGross": 1300671.37,
+        "amountAdjustments": -9635.32
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1273554.66,
+        "amountGross": 1282530.66,
+        "amountAdjustments": -8976.0
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 955837.62,
+        "amountGross": 955837.62,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 935522.06,
+        "amountGross": 935522.06,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 835167.76,
+        "amountGross": 838687.47,
+        "amountAdjustments": -3519.71
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 696816.25,
+        "amountGross": 700746.56,
+        "amountAdjustments": -3930.31
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 536165.61,
+        "amountGross": 536165.61,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 466778.58,
+        "amountGross": 466778.58,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 460371.67,
+        "amountGross": 471529.27,
+        "amountAdjustments": -11157.6
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 426164.86,
+        "amountGross": 428356.65,
+        "amountAdjustments": -2191.79
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 746607.27,
+      "percent": 4.61
+    },
+    "averages": {
+      "perEntityWithSpending": 32578.99,
+      "perRecord": 1700.99
+    },
+    "dailyTotals": {
+      "referenceDate": "2026-03-10",
+      "amountNet": 980.0,
+      "previousAmountNet": 20150.0,
+      "deltaAmountNet": -19170.0,
+      "deltaPercent": -95.14,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2026-03-02",
+          "amountNet": 56632.41
+        },
+        {
+          "date": "2026-03-03",
+          "amountNet": 21764.47
+        },
+        {
+          "date": "2026-03-04",
+          "amountNet": 2714.0
+        },
+        {
+          "date": "2026-03-05",
+          "amountNet": 12785.58
+        },
+        {
+          "date": "2026-03-06",
+          "amountNet": 19900.0
+        },
+        {
+          "date": "2026-03-09",
+          "amountNet": 20150.0
+        },
+        {
+          "date": "2026-03-10",
+          "amountNet": 980.0
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2026-03-10",
+      "entity": {
+        "id": 226837,
+        "name": "Saulo Pedroso",
+        "stateCode": "SP",
+        "party": "PSD",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/226837.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 980.0,
+      "category": "ESCRITORIO",
+      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "supplier": "TOP TEC EQUIPAMENTOS DE INFORMATICA LTDA ME",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3748/2026/8061846.pdf"
+    }
+  }
+}

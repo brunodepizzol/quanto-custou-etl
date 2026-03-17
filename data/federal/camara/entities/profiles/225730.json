@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 225730,
-    "generatedAt": "2026-03-17T09:12:39.139887Z",
+    "generatedAt": "2026-03-17T09:48:46.514770Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "enfermeira-ana-paula"
   },
   "mandateTotals": {
-    "amountNet": 697264.31,
-    "amountGross": 723326.19,
+    "amountNet": 743646.24,
+    "amountGross": 769708.12,
     "amountAdjustments": -26061.88,
-    "recordsCount": 456,
+    "recordsCount": 474,
     "byCategoryNet": {
-      "ALIMENTACAO": 2679.33,
-      "COMBUSTIVEL": 65295.25,
+      "ALIMENTACAO": 2776.35,
+      "COMBUSTIVEL": 68280.16,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 300965.95,
-      "DIVULGACAO": 290062.2,
-      "ESCRITORIO": 33867.14,
+      "DESLOCAMENTO": 313465.95,
+      "DIVULGACAO": 319562.2,
+      "ESCRITORIO": 35167.14,
       "HOSPEDAGEM": 4394.44,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 2679.33,
-      "COMBUSTIVEL": 65295.25,
+      "ALIMENTACAO": 2776.35,
+      "COMBUSTIVEL": 68280.16,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 327027.83,
-      "DIVULGACAO": 290062.2,
-      "ESCRITORIO": 33867.14,
+      "DESLOCAMENTO": 339527.83,
+      "DIVULGACAO": 319562.2,
+      "ESCRITORIO": 35167.14,
       "HOSPEDAGEM": 4394.44,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 192780.18,
     "2024": 0.0,
-    "2025": 504484.13
+    "2025": 504484.13,
+    "2026": 46381.93
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 28783.73,
     "2025-10": 56184.55,
     "2025-11": 40223.73,
-    "2025-12": 39821.05
+    "2025-12": 39821.05,
+    "2026-01": 22268.61,
+    "2026-02": 23899.75,
+    "2026-03": 213.57
   },
   "topCategory": {
-    "category": "DESLOCAMENTO",
-    "amountNet": 300965.95,
-    "percent": 43.16
+    "category": "DIVULGACAO",
+    "amountNet": 319562.2,
+    "percent": 42.97
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220648,
-    "generatedAt": "2026-03-17T09:12:39.124404Z",
+    "generatedAt": "2026-03-17T09:48:46.492939Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "marangoni"
   },
   "mandateTotals": {
-    "amountNet": 1528696.27,
-    "amountGross": 1704957.09,
+    "amountNet": 1591751.27,
+    "amountGross": 1768012.09,
     "amountAdjustments": -176260.82,
-    "recordsCount": 1527,
+    "recordsCount": 1555,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 265612.41,
+      "COMBUSTIVEL": 280931.61,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 11534.75,
-      "DESLOCAMENTO": 356720.45,
-      "DIVULGACAO": 751846.96,
-      "ESCRITORIO": 138006.16,
+      "DESLOCAMENTO": 384720.45,
+      "DIVULGACAO": 763182.26,
+      "ESCRITORIO": 146406.66,
       "HOSPEDAGEM": 4975.54,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 265612.41,
+      "COMBUSTIVEL": 280931.61,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 11534.75,
-      "DESLOCAMENTO": 532981.27,
-      "DIVULGACAO": 751846.96,
-      "ESCRITORIO": 138006.16,
+      "DESLOCAMENTO": 560981.27,
+      "DIVULGACAO": 763182.26,
+      "ESCRITORIO": 146406.66,
       "HOSPEDAGEM": 4975.54,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 507314.71,
     "2024": 523978.95,
-    "2025": 497402.61
+    "2025": 497402.61,
+    "2026": 63055.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 44277.9,
     "2025-10": 37584.68,
     "2025-11": 45788.22,
-    "2025-12": 49424.8
+    "2025-12": 49424.8,
+    "2026-01": 28642.17,
+    "2026-02": 29072.4,
+    "2026-03": 5340.43
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 751846.96,
-    "percent": 49.18
+    "amountNet": 763182.26,
+    "percent": 47.95
   }
 }

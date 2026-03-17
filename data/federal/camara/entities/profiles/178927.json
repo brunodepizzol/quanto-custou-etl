@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178927,
-    "generatedAt": "2026-03-17T09:12:39.066760Z",
+    "generatedAt": "2026-03-17T09:48:46.410761Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "aliel-machado"
   },
   "mandateTotals": {
-    "amountNet": 1596101.85,
-    "amountGross": 1615842.99,
+    "amountNet": 1656409.51,
+    "amountGross": 1676150.65,
     "amountAdjustments": -19741.14,
-    "recordsCount": 1588,
+    "recordsCount": 1642,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 141320.27,
+      "COMBUSTIVEL": 148452.23,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 714500.61,
-      "DIVULGACAO": 501782.34,
-      "ESCRITORIO": 209147.02,
-      "HOSPEDAGEM": 29351.61,
+      "DESLOCAMENTO": 725581.31,
+      "DIVULGACAO": 530482.34,
+      "ESCRITORIO": 222047.02,
+      "HOSPEDAGEM": 29846.61,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 141320.27,
+      "COMBUSTIVEL": 148452.23,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 734241.75,
-      "DIVULGACAO": 501782.34,
-      "ESCRITORIO": 209147.02,
-      "HOSPEDAGEM": 29351.61,
+      "DESLOCAMENTO": 745322.45,
+      "DIVULGACAO": 530482.34,
+      "ESCRITORIO": 222047.02,
+      "HOSPEDAGEM": 29846.61,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 540805.15,
     "2024": 530189.06,
-    "2025": 525107.64
+    "2025": 525107.64,
+    "2026": 60307.66
   },
   "monthTotals": {
     "2023-01": 3020.0,
@@ -94,11 +95,14 @@
     "2025-09": 42075.39,
     "2025-10": 39150.19,
     "2025-11": 30083.39,
-    "2025-12": 13767.53
+    "2025-12": 13767.53,
+    "2026-01": 33803.44,
+    "2026-02": 25269.33,
+    "2026-03": 1234.89
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 714500.61,
-    "percent": 44.77
+    "amountNet": 725581.31,
+    "percent": 43.8
   }
 }

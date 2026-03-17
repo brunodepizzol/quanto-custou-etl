@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 234673,
-    "generatedAt": "2026-03-17T09:12:39.143375Z",
+    "generatedAt": "2026-03-17T09:48:46.519762Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "vanderlan-alves"
   },
   "mandateTotals": {
-    "amountNet": 39005.2,
-    "amountGross": 39005.2,
+    "amountNet": 100628.52,
+    "amountGross": 100628.52,
     "amountAdjustments": 0.0,
-    "recordsCount": 26,
+    "recordsCount": 83,
     "byCategoryNet": {
-      "ALIMENTACAO": 80.0,
-      "COMBUSTIVEL": 4508.53,
+      "ALIMENTACAO": 194.6,
+      "COMBUSTIVEL": 14844.65,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 10400.0,
-      "DIVULGACAO": 24016.67,
-      "ESCRITORIO": 0.0,
+      "DESLOCAMENTO": 31200.0,
+      "DIVULGACAO": 54116.67,
+      "ESCRITORIO": 272.6,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 80.0,
-      "COMBUSTIVEL": 4508.53,
+      "ALIMENTACAO": 194.6,
+      "COMBUSTIVEL": 14844.65,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 10400.0,
-      "DIVULGACAO": 24016.67,
-      "ESCRITORIO": 0.0,
+      "DESLOCAMENTO": 31200.0,
+      "DIVULGACAO": 54116.67,
+      "ESCRITORIO": 272.6,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 0.0,
     "2024": 0.0,
-    "2025": 39005.2
+    "2025": 39005.2,
+    "2026": 61623.32
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 0.0,
     "2025-10": 0.0,
     "2025-11": 0.0,
-    "2025-12": 39005.2
+    "2025-12": 39005.2,
+    "2026-01": 34625.44,
+    "2026-02": 26657.99,
+    "2026-03": 339.89
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 24016.67,
-    "percent": 61.57
+    "amountNet": 54116.67,
+    "percent": 53.78
   }
 }

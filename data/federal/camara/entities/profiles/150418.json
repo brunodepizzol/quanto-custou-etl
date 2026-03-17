@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 150418,
-    "generatedAt": "2026-03-17T09:12:39.049174Z",
+    "generatedAt": "2026-03-17T09:48:46.385645Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "márcio-marinho"
   },
   "mandateTotals": {
-    "amountNet": 1500112.39,
-    "amountGross": 1532402.98,
+    "amountNet": 1524729.19,
+    "amountGross": 1557019.78,
     "amountAdjustments": -32290.59,
-    "recordsCount": 880,
+    "recordsCount": 909,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 105596.2,
+      "COMBUSTIVEL": 111660.42,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 19323.46,
       "DESLOCAMENTO": 558781.1,
       "DIVULGACAO": 417650.0,
-      "ESCRITORIO": 384531.37,
-      "HOSPEDAGEM": 14230.26,
+      "ESCRITORIO": 402718.95,
+      "HOSPEDAGEM": 14595.26,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 105596.2,
+      "COMBUSTIVEL": 111660.42,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 19323.46,
       "DESLOCAMENTO": 591071.69,
       "DIVULGACAO": 417650.0,
-      "ESCRITORIO": 384531.37,
-      "HOSPEDAGEM": 14230.26,
+      "ESCRITORIO": 402718.95,
+      "HOSPEDAGEM": 14595.26,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 491985.67,
     "2024": 500698.74,
-    "2025": 507427.98
+    "2025": 507427.98,
+    "2026": 24616.8
   },
   "monthTotals": {
     "2023-01": 1753.49,
@@ -94,11 +95,14 @@
     "2025-09": 32101.74,
     "2025-10": 70724.32,
     "2025-11": 18920.31,
-    "2025-12": 47282.55
+    "2025-12": 47282.55,
+    "2026-01": 14554.48,
+    "2026-02": 9892.32,
+    "2026-03": 170.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 558781.1,
-    "percent": 37.25
+    "percent": 36.65
   }
 }

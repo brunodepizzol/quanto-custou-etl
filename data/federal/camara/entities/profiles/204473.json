@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204473,
-    "generatedAt": "2026-03-17T09:12:39.087002Z",
+    "generatedAt": "2026-03-17T09:48:46.439436Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "general-girão"
   },
   "mandateTotals": {
-    "amountNet": 1781831.31,
-    "amountGross": 1849592.48,
+    "amountNet": 1845392.38,
+    "amountGross": 1913153.55,
     "amountAdjustments": -67761.17,
-    "recordsCount": 2020,
+    "recordsCount": 2072,
     "byCategoryNet": {
-      "ALIMENTACAO": 9740.41,
-      "COMBUSTIVEL": 100844.23,
+      "ALIMENTACAO": 10122.03,
+      "COMBUSTIVEL": 103314.78,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 14223.9,
+      "CORREIOS_TELEFONIA": 15760.14,
       "DESLOCAMENTO": 538090.65,
-      "DIVULGACAO": 536895.0,
-      "ESCRITORIO": 557046.34,
-      "HOSPEDAGEM": 24990.78,
+      "DIVULGACAO": 566095.0,
+      "ESCRITORIO": 586849.0,
+      "HOSPEDAGEM": 25160.78,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 9740.41,
-      "COMBUSTIVEL": 100844.23,
+      "ALIMENTACAO": 10122.03,
+      "COMBUSTIVEL": 103314.78,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 14223.9,
+      "CORREIOS_TELEFONIA": 15760.14,
       "DESLOCAMENTO": 605851.82,
-      "DIVULGACAO": 536895.0,
-      "ESCRITORIO": 557046.34,
-      "HOSPEDAGEM": 24990.78,
+      "DIVULGACAO": 566095.0,
+      "ESCRITORIO": 586849.0,
+      "HOSPEDAGEM": 25160.78,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 590048.97,
     "2024": 600795.27,
-    "2025": 590987.07
+    "2025": 590987.07,
+    "2026": 63561.07
   },
   "monthTotals": {
     "2023-01": 1062.29,
@@ -94,11 +95,14 @@
     "2025-09": 49533.7,
     "2025-10": 42610.48,
     "2025-11": 43351.82,
-    "2025-12": 52563.4
+    "2025-12": 52563.4,
+    "2026-01": 30627.63,
+    "2026-02": 31737.11,
+    "2026-03": 1196.33
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 557046.34,
-    "percent": 31.26
+    "amountNet": 586849.0,
+    "percent": 31.8
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204374,
-    "generatedAt": "2026-03-17T09:12:39.077336Z",
+    "generatedAt": "2026-03-17T09:48:46.425723Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "bia-kicis"
   },
   "mandateTotals": {
-    "amountNet": 1175283.93,
-    "amountGross": 1178175.41,
+    "amountNet": 1236682.29,
+    "amountGross": 1239573.77,
     "amountAdjustments": -2891.48,
-    "recordsCount": 944,
+    "recordsCount": 997,
     "byCategoryNet": {
       "ALIMENTACAO": 74.0,
-      "COMBUSTIVEL": 98031.31,
+      "COMBUSTIVEL": 106085.75,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 203718.13,
-      "DIVULGACAO": 519000.0,
-      "ESCRITORIO": 354460.49,
+      "DESLOCAMENTO": 214318.13,
+      "DIVULGACAO": 543000.0,
+      "ESCRITORIO": 373204.41,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 74.0,
-      "COMBUSTIVEL": 98031.31,
+      "COMBUSTIVEL": 106085.75,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 206609.61,
-      "DIVULGACAO": 519000.0,
-      "ESCRITORIO": 354460.49,
+      "DESLOCAMENTO": 217209.61,
+      "DIVULGACAO": 543000.0,
+      "ESCRITORIO": 373204.41,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 355112.03,
     "2024": 404175.86,
-    "2025": 415996.04
+    "2025": 415996.04,
+    "2026": 61398.36
   },
   "monthTotals": {
     "2023-01": 3635.33,
@@ -94,11 +95,14 @@
     "2025-09": 34206.41,
     "2025-10": 34820.69,
     "2025-11": 36598.06,
-    "2025-12": 34916.29
+    "2025-12": 34916.29,
+    "2026-01": 33085.13,
+    "2026-02": 20675.17,
+    "2026-03": 7638.06
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 519000.0,
-    "percent": 44.16
+    "amountNet": 543000.0,
+    "percent": 43.91
   }
 }

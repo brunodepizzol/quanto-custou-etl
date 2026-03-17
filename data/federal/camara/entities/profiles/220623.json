@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220623,
-    "generatedAt": "2026-03-17T09:12:39.120020Z",
+    "generatedAt": "2026-03-17T09:48:46.486557Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "duda-salabert"
   },
   "mandateTotals": {
-    "amountNet": 1342939.37,
-    "amountGross": 1362355.76,
+    "amountNet": 1375624.78,
+    "amountGross": 1395041.17,
     "amountAdjustments": -19416.39,
-    "recordsCount": 1171,
+    "recordsCount": 1181,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 72705.17,
+      "COMBUSTIVEL": 74020.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 758.64,
-      "DESLOCAMENTO": 686045.43,
-      "DIVULGACAO": 286877.74,
-      "ESCRITORIO": 286742.66,
-      "HOSPEDAGEM": 9809.73,
+      "DESLOCAMENTO": 699313.02,
+      "DIVULGACAO": 295877.74,
+      "ESCRITORIO": 294364.06,
+      "HOSPEDAGEM": 11290.43,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 72705.17,
+      "COMBUSTIVEL": 74020.89,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 758.64,
-      "DESLOCAMENTO": 705461.82,
-      "DIVULGACAO": 286877.74,
-      "ESCRITORIO": 286742.66,
-      "HOSPEDAGEM": 9809.73,
+      "DESLOCAMENTO": 718729.41,
+      "DIVULGACAO": 295877.74,
+      "ESCRITORIO": 294364.06,
+      "HOSPEDAGEM": 11290.43,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 463076.66,
     "2024": 438423.62,
-    "2025": 441439.09
+    "2025": 441439.09,
+    "2026": 32685.41
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 34589.46,
     "2025-10": 51618.1,
     "2025-11": 23920.22,
-    "2025-12": 9795.86
+    "2025-12": 9795.86,
+    "2026-01": 21992.1,
+    "2026-02": 10693.31,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 686045.43,
-    "percent": 51.09
+    "amountNet": 699313.02,
+    "percent": 50.84
   }
 }

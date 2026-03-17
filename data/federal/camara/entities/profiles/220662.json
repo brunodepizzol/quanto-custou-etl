@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220662,
-    "generatedAt": "2026-03-17T09:12:39.127116Z",
+    "generatedAt": "2026-03-17T09:48:46.496666Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,17 +15,17 @@
     "slug": "lucas-ramos"
   },
   "mandateTotals": {
-    "amountNet": 1737357.51,
-    "amountGross": 1750883.33,
+    "amountNet": 1837243.46,
+    "amountGross": 1850769.28,
     "amountAdjustments": -13525.82,
-    "recordsCount": 681,
+    "recordsCount": 699,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5192.78,
-      "DESLOCAMENTO": 682508.37,
-      "DIVULGACAO": 780434.4,
+      "DESLOCAMENTO": 718394.32,
+      "DIVULGACAO": 844434.4,
       "ESCRITORIO": 247520.24,
       "HOSPEDAGEM": 21701.72,
       "OUTROS": 0.0
@@ -35,8 +35,8 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5192.78,
-      "DESLOCAMENTO": 696034.19,
-      "DIVULGACAO": 780434.4,
+      "DESLOCAMENTO": 731920.14,
+      "DIVULGACAO": 844434.4,
       "ESCRITORIO": 247520.24,
       "HOSPEDAGEM": 21701.72,
       "OUTROS": 0.0
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 561812.5,
     "2024": 621927.55,
-    "2025": 553617.46
+    "2025": 553617.46,
+    "2026": 99885.95
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 53115.61,
     "2025-10": 65982.47,
     "2025-11": 46322.13,
-    "2025-12": 27764.68
+    "2025-12": 27764.68,
+    "2026-01": 52500.61,
+    "2026-02": 47385.34,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 780434.4,
-    "percent": 44.92
+    "amountNet": 844434.4,
+    "percent": 45.96
   }
 }

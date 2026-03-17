@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 222565,
-    "generatedAt": "2026-03-17T09:12:39.138992Z",
+    "generatedAt": "2026-03-17T09:48:46.513475Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "soldado-noelio"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 17197.1,
+    "amountGross": 17197.1,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 25,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 3370.81,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "DESLOCAMENTO": 6500.0,
+      "DIVULGACAO": 6070.0,
+      "ESCRITORIO": 1256.29,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 3370.81,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "DESLOCAMENTO": 6500.0,
+      "DIVULGACAO": 6070.0,
+      "ESCRITORIO": 1256.29,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 0.0,
     "2024": 0.0,
-    "2025": 0.0
+    "2025": 0.0,
+    "2026": 17197.1
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 0.0,
     "2025-10": 0.0,
     "2025-11": 0.0,
-    "2025-12": 0.0
+    "2025-12": 0.0,
+    "2026-01": 0.0,
+    "2026-02": 14400.89,
+    "2026-03": 2796.21
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DESLOCAMENTO",
+    "amountNet": 6500.0,
+    "percent": 37.8
   }
 }

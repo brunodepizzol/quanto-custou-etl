@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220612,
-    "generatedAt": "2026-03-17T09:12:39.118086Z",
+    "generatedAt": "2026-03-17T09:48:46.483825Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "bebeto"
   },
   "mandateTotals": {
-    "amountNet": 1514806.48,
-    "amountGross": 1519976.99,
+    "amountNet": 1579105.18,
+    "amountGross": 1584275.69,
     "amountAdjustments": -5170.51,
-    "recordsCount": 868,
+    "recordsCount": 922,
     "byCategoryNet": {
       "ALIMENTACAO": 814.06,
-      "COMBUSTIVEL": 112953.35,
+      "COMBUSTIVEL": 123647.17,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 3653.79,
-      "DESLOCAMENTO": 574320.29,
-      "DIVULGACAO": 456262.65,
-      "ESCRITORIO": 362048.44,
+      "CORREIOS_TELEFONIA": 3848.37,
+      "DESLOCAMENTO": 587020.29,
+      "DIVULGACAO": 468762.65,
+      "ESCRITORIO": 390258.74,
       "HOSPEDAGEM": 4753.9,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 814.06,
-      "COMBUSTIVEL": 112953.35,
+      "COMBUSTIVEL": 123647.17,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 3653.79,
-      "DESLOCAMENTO": 579490.8,
-      "DIVULGACAO": 456262.65,
-      "ESCRITORIO": 362048.44,
+      "CORREIOS_TELEFONIA": 3848.37,
+      "DESLOCAMENTO": 592190.8,
+      "DIVULGACAO": 468762.65,
+      "ESCRITORIO": 390258.74,
       "HOSPEDAGEM": 4753.9,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 476599.31,
     "2024": 514710.4,
-    "2025": 523496.77
+    "2025": 523496.77,
+    "2026": 64298.7
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 38131.77,
     "2025-10": 39031.51,
     "2025-11": 45637.04,
-    "2025-12": 67249.43
+    "2025-12": 67249.43,
+    "2026-01": 42835.7,
+    "2026-02": 19293.61,
+    "2026-03": 2169.39
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 574320.29,
-    "percent": 37.91
+    "amountNet": 587020.29,
+    "percent": 37.17
   }
 }

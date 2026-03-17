@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204524,
-    "generatedAt": "2026-03-17T09:12:39.093390Z",
+    "generatedAt": "2026-03-17T09:48:46.448559Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "pinheirinho"
   },
   "mandateTotals": {
-    "amountNet": 1290622.78,
-    "amountGross": 1375162.27,
+    "amountNet": 1362367.63,
+    "amountGross": 1446907.12,
     "amountAdjustments": -84539.49,
-    "recordsCount": 1534,
+    "recordsCount": 1597,
     "byCategoryNet": {
       "ALIMENTACAO": 3316.95,
-      "COMBUSTIVEL": 160482.54,
+      "COMBUSTIVEL": 169627.8,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 1152.0,
-      "DESLOCAMENTO": 583859.13,
-      "DIVULGACAO": 483399.4,
-      "ESCRITORIO": 46098.52,
+      "CORREIOS_TELEFONIA": 2304.0,
+      "DESLOCAMENTO": 626296.72,
+      "DIVULGACAO": 501399.4,
+      "ESCRITORIO": 47108.52,
       "HOSPEDAGEM": 12314.24,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 3316.95,
-      "COMBUSTIVEL": 160482.54,
+      "COMBUSTIVEL": 169627.8,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 1152.0,
-      "DESLOCAMENTO": 668398.62,
-      "DIVULGACAO": 483399.4,
-      "ESCRITORIO": 46098.52,
+      "CORREIOS_TELEFONIA": 2304.0,
+      "DESLOCAMENTO": 710836.21,
+      "DIVULGACAO": 501399.4,
+      "ESCRITORIO": 47108.52,
       "HOSPEDAGEM": 12314.24,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 451105.5,
     "2024": 453001.36,
-    "2025": 386515.92
+    "2025": 386515.92,
+    "2026": 71744.85
   },
   "monthTotals": {
     "2023-01": 19130.0,
@@ -94,11 +95,14 @@
     "2025-09": 28117.23,
     "2025-10": 33504.66,
     "2025-11": 29358.88,
-    "2025-12": 34782.69
+    "2025-12": 34782.69,
+    "2026-01": 29898.83,
+    "2026-02": 30196.02,
+    "2026-03": 11650.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 583859.13,
-    "percent": 45.24
+    "amountNet": 626296.72,
+    "percent": 45.97
   }
 }

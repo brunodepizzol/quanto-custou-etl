@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 215043,
-    "generatedAt": "2026-03-17T09:12:39.100433Z",
+    "generatedAt": "2026-03-17T09:48:46.458638Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,16 +15,16 @@
     "slug": "josivaldo-jp"
   },
   "mandateTotals": {
-    "amountNet": 1556399.36,
-    "amountGross": 1588435.51,
+    "amountNet": 1560435.11,
+    "amountGross": 1592471.26,
     "amountAdjustments": -32036.15,
-    "recordsCount": 856,
+    "recordsCount": 862,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 73763.43,
+      "COMBUSTIVEL": 75147.8,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4242.32,
-      "DESLOCAMENTO": 392366.34,
+      "DESLOCAMENTO": 395017.72,
       "DIVULGACAO": 962475.0,
       "ESCRITORIO": 112339.57,
       "HOSPEDAGEM": 11212.7,
@@ -32,10 +32,10 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 73763.43,
+      "COMBUSTIVEL": 75147.8,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4242.32,
-      "DESLOCAMENTO": 424402.49,
+      "DESLOCAMENTO": 427053.87,
       "DIVULGACAO": 962475.0,
       "ESCRITORIO": 112339.57,
       "HOSPEDAGEM": 11212.7,
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 541137.99,
     "2024": 514956.14,
-    "2025": 500305.23
+    "2025": 500305.23,
+    "2026": 4035.75
   },
   "monthTotals": {
     "2023-01": 116.43,
@@ -94,11 +95,14 @@
     "2025-09": 49962.03,
     "2025-10": 20256.45,
     "2025-11": 13673.51,
-    "2025-12": 3664.69
+    "2025-12": 3664.69,
+    "2026-01": 1325.69,
+    "2026-02": 1810.21,
+    "2026-03": 899.85
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 962475.0,
-    "percent": 61.84
+    "percent": 61.68
   }
 }

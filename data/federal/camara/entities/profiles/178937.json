@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178937,
-    "generatedAt": "2026-03-17T09:12:39.067902Z",
+    "generatedAt": "2026-03-17T09:48:46.412458Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,17 +15,17 @@
     "slug": "altineu-côrtes"
   },
   "mandateTotals": {
-    "amountNet": 1217910.67,
-    "amountGross": 1483958.35,
+    "amountNet": 1267020.39,
+    "amountGross": 1533068.07,
     "amountAdjustments": -266047.68,
-    "recordsCount": 651,
+    "recordsCount": 657,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 546070.87,
-      "DIVULGACAO": 671300.0,
+      "DESLOCAMENTO": 553580.59,
+      "DIVULGACAO": 712900.0,
       "ESCRITORIO": 539.8,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -35,8 +35,8 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 812118.55,
-      "DIVULGACAO": 671300.0,
+      "DESLOCAMENTO": 819628.27,
+      "DIVULGACAO": 712900.0,
       "ESCRITORIO": 539.8,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 356951.66,
     "2024": 434531.04,
-    "2025": 426427.97
+    "2025": 426427.97,
+    "2026": 49109.72
   },
   "monthTotals": {
     "2023-01": 14500.0,
@@ -94,11 +95,14 @@
     "2025-09": 36595.69,
     "2025-10": 44978.73,
     "2025-11": 36360.41,
-    "2025-12": 35129.25
+    "2025-12": 35129.25,
+    "2026-01": 28309.72,
+    "2026-02": 20800.0,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 671300.0,
-    "percent": 55.12
+    "amountNet": 712900.0,
+    "percent": 56.27
   }
 }

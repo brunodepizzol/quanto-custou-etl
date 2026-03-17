@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204361,
-    "generatedAt": "2026-03-17T09:12:39.075404Z",
+    "generatedAt": "2026-03-17T09:48:46.423221Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "carlos-chiodini"
   },
   "mandateTotals": {
-    "amountNet": 725434.19,
-    "amountGross": 741845.72,
+    "amountNet": 738549.73,
+    "amountGross": 754961.26,
     "amountAdjustments": -16411.53,
-    "recordsCount": 1246,
+    "recordsCount": 1286,
     "byCategoryNet": {
       "ALIMENTACAO": 6249.69,
-      "COMBUSTIVEL": 121720.98,
+      "COMBUSTIVEL": 126405.06,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4764.22,
-      "DESLOCAMENTO": 436285.45,
+      "DESLOCAMENTO": 443249.75,
       "DIVULGACAO": 134290.0,
-      "ESCRITORIO": 4377.57,
-      "HOSPEDAGEM": 17746.28,
+      "ESCRITORIO": 5188.28,
+      "HOSPEDAGEM": 18402.73,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 6249.69,
-      "COMBUSTIVEL": 121720.98,
+      "COMBUSTIVEL": 126405.06,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4764.22,
-      "DESLOCAMENTO": 452696.98,
+      "DESLOCAMENTO": 459661.28,
       "DIVULGACAO": 134290.0,
-      "ESCRITORIO": 4377.57,
-      "HOSPEDAGEM": 17746.28,
+      "ESCRITORIO": 5188.28,
+      "HOSPEDAGEM": 18402.73,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 385774.21,
     "2024": 272443.19,
-    "2025": 67216.79
+    "2025": 67216.79,
+    "2026": 13115.54
   },
   "monthTotals": {
     "2023-01": 832.86,
@@ -94,11 +95,14 @@
     "2025-09": 0.0,
     "2025-10": 0.0,
     "2025-11": 0.0,
-    "2025-12": 0.0
+    "2025-12": 0.0,
+    "2026-01": 0.0,
+    "2026-02": 12255.34,
+    "2026-03": 860.2
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 436285.45,
-    "percent": 60.14
+    "amountNet": 443249.75,
+    "percent": 60.02
   }
 }

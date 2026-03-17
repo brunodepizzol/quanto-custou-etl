@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 235088,
-    "generatedAt": "2026-03-17T09:12:39.143798Z",
+    "generatedAt": "2026-03-17T09:48:46.520437Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "ribeiro-neto"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 36941.95,
+    "amountGross": 36941.95,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 23,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 245.52,
+      "COMBUSTIVEL": 4277.5,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
+      "DESLOCAMENTO": 7668.93,
+      "DIVULGACAO": 24750.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 245.52,
+      "COMBUSTIVEL": 4277.5,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
+      "DESLOCAMENTO": 7668.93,
+      "DIVULGACAO": 24750.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 0.0,
     "2024": 0.0,
-    "2025": 0.0
+    "2025": 0.0,
+    "2026": 36941.95
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 0.0,
     "2025-10": 0.0,
     "2025-11": 0.0,
-    "2025-12": 0.0
+    "2025-12": 0.0,
+    "2026-01": 0.0,
+    "2026-02": 29853.24,
+    "2026-03": 7088.71
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DIVULGACAO",
+    "amountNet": 24750.0,
+    "percent": 67.0
   }
 }

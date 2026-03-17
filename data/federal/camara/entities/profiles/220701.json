@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220701,
-    "generatedAt": "2026-03-17T09:12:39.135164Z",
+    "generatedAt": "2026-03-17T09:48:46.508187Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "delegado-matheus-laiola"
   },
   "mandateTotals": {
-    "amountNet": 1543736.54,
-    "amountGross": 1595694.88,
+    "amountNet": 1605704.06,
+    "amountGross": 1657662.4,
     "amountAdjustments": -51958.34,
-    "recordsCount": 921,
+    "recordsCount": 968,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 109308.82,
+      "COMBUSTIVEL": 117550.86,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 374485.98,
-      "DIVULGACAO": 613177.53,
-      "ESCRITORIO": 443429.32,
-      "HOSPEDAGEM": 3334.89,
+      "DIVULGACAO": 628032.83,
+      "ESCRITORIO": 481895.5,
+      "HOSPEDAGEM": 3738.89,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 109308.82,
+      "COMBUSTIVEL": 117550.86,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 426444.32,
-      "DIVULGACAO": 613177.53,
-      "ESCRITORIO": 443429.32,
-      "HOSPEDAGEM": 3334.89,
+      "DIVULGACAO": 628032.83,
+      "ESCRITORIO": 481895.5,
+      "HOSPEDAGEM": 3738.89,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 517892.41,
     "2024": 542639.44,
-    "2025": 483204.69
+    "2025": 483204.69,
+    "2026": 61967.52
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 28760.6,
     "2025-10": 32926.43,
     "2025-11": 32751.48,
-    "2025-12": 31792.94
+    "2025-12": 31792.94,
+    "2026-01": 31947.36,
+    "2026-02": 20152.16,
+    "2026-03": 9868.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 613177.53,
-    "percent": 39.72
+    "amountNet": 628032.83,
+    "percent": 39.11
   }
 }

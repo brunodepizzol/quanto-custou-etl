@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220670,
-    "generatedAt": "2026-03-17T09:12:39.128933Z",
+    "generatedAt": "2026-03-17T09:48:46.499402Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "iza-arruda"
   },
   "mandateTotals": {
-    "amountNet": 1553474.62,
-    "amountGross": 1707548.23,
+    "amountNet": 1617172.14,
+    "amountGross": 1771245.75,
     "amountAdjustments": -154073.61,
-    "recordsCount": 1026,
+    "recordsCount": 1043,
     "byCategoryNet": {
       "ALIMENTACAO": 6575.89,
-      "COMBUSTIVEL": 250708.01,
+      "COMBUSTIVEL": 264717.48,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4984.03,
-      "DESLOCAMENTO": 717127.5,
-      "DIVULGACAO": 543021.68,
-      "ESCRITORIO": 12655.77,
-      "HOSPEDAGEM": 18401.74,
+      "DESLOCAMENTO": 745426.75,
+      "DIVULGACAO": 561732.48,
+      "ESCRITORIO": 14255.77,
+      "HOSPEDAGEM": 19479.74,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 6575.89,
-      "COMBUSTIVEL": 250708.01,
+      "COMBUSTIVEL": 264717.48,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4984.03,
-      "DESLOCAMENTO": 871201.11,
-      "DIVULGACAO": 543021.68,
-      "ESCRITORIO": 12655.77,
-      "HOSPEDAGEM": 18401.74,
+      "DESLOCAMENTO": 899500.36,
+      "DIVULGACAO": 561732.48,
+      "ESCRITORIO": 14255.77,
+      "HOSPEDAGEM": 19479.74,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 490795.48,
     "2024": 530006.1,
-    "2025": 532673.04
+    "2025": 532673.04,
+    "2026": 63697.52
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 47032.3,
     "2025-10": 81200.43,
     "2025-11": 52974.6,
-    "2025-12": 40729.55
+    "2025-12": 40729.55,
+    "2026-01": 20035.87,
+    "2026-02": 42101.32,
+    "2026-03": 1560.33
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 717127.5,
-    "percent": 46.16
+    "amountNet": 745426.75,
+    "percent": 46.09
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 209787,
-    "generatedAt": "2026-03-17T09:12:39.099518Z",
+    "generatedAt": "2026-03-17T09:48:46.457301Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "nikolas-ferreira"
   },
   "mandateTotals": {
-    "amountNet": 1086581.71,
-    "amountGross": 1115109.08,
+    "amountNet": 1148707.3,
+    "amountGross": 1177234.67,
     "amountAdjustments": -28527.37,
-    "recordsCount": 1075,
+    "recordsCount": 1123,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 73582.46,
+      "COMBUSTIVEL": 78460.65,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4241.08,
-      "DESLOCAMENTO": 600671.76,
-      "DIVULGACAO": 111850.0,
-      "ESCRITORIO": 294099.26,
-      "HOSPEDAGEM": 2137.15,
+      "DESLOCAMENTO": 631309.69,
+      "DIVULGACAO": 115450.0,
+      "ESCRITORIO": 316628.73,
+      "HOSPEDAGEM": 2617.15,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 73582.46,
+      "COMBUSTIVEL": 78460.65,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4241.08,
-      "DESLOCAMENTO": 629199.13,
-      "DIVULGACAO": 111850.0,
-      "ESCRITORIO": 294099.26,
-      "HOSPEDAGEM": 2137.15,
+      "DESLOCAMENTO": 659837.06,
+      "DIVULGACAO": 115450.0,
+      "ESCRITORIO": 316628.73,
+      "HOSPEDAGEM": 2617.15,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 239697.88,
     "2024": 413138.67,
-    "2025": 433745.16
+    "2025": 433745.16,
+    "2026": 62125.59
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 43225.12,
     "2025-10": 40717.13,
     "2025-11": 42643.83,
-    "2025-12": 30217.27
+    "2025-12": 30217.27,
+    "2026-01": 26970.88,
+    "2026-02": 32830.5,
+    "2026-03": 2324.21
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 600671.76,
-    "percent": 55.28
+    "amountNet": 631309.69,
+    "percent": 54.96
   }
 }

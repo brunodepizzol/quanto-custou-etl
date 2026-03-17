@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141555,
-    "generatedAt": "2026-03-17T09:12:39.048253Z",
+    "generatedAt": "2026-03-17T09:48:46.384335Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "vinicius-carvalho"
   },
   "mandateTotals": {
-    "amountNet": 1428248.25,
-    "amountGross": 1445746.93,
+    "amountNet": 1453001.72,
+    "amountGross": 1470500.4,
     "amountAdjustments": -17498.68,
-    "recordsCount": 1730,
+    "recordsCount": 1762,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 153048.27,
+      "COMBUSTIVEL": 155001.98,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 10517.61,
+      "CORREIOS_TELEFONIA": 10873.51,
       "DESLOCAMENTO": 560906.63,
-      "DIVULGACAO": 173892.64,
-      "ESCRITORIO": 486910.19,
-      "HOSPEDAGEM": 42972.91,
+      "DIVULGACAO": 175663.47,
+      "ESCRITORIO": 506592.27,
+      "HOSPEDAGEM": 43963.86,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 153048.27,
+      "COMBUSTIVEL": 155001.98,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 10517.61,
+      "CORREIOS_TELEFONIA": 10873.51,
       "DESLOCAMENTO": 578405.31,
-      "DIVULGACAO": 173892.64,
-      "ESCRITORIO": 486910.19,
-      "HOSPEDAGEM": 42972.91,
+      "DIVULGACAO": 175663.47,
+      "ESCRITORIO": 506592.27,
+      "HOSPEDAGEM": 43963.86,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 487120.94,
     "2024": 472665.51,
-    "2025": 468461.8
+    "2025": 468461.8,
+    "2026": 24753.47
   },
   "monthTotals": {
     "2023-01": 10791.81,
@@ -94,11 +95,14 @@
     "2025-09": 32156.82,
     "2025-10": 75579.05,
     "2025-11": 61939.37,
-    "2025-12": 17780.0
+    "2025-12": 17780.0,
+    "2026-01": 16224.93,
+    "2026-02": 8090.54,
+    "2026-03": 438.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 560906.63,
-    "percent": 39.27
+    "percent": 38.6
   }
 }

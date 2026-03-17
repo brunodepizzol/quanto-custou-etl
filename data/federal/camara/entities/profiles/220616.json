@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220616,
-    "generatedAt": "2026-03-17T09:12:39.118776Z",
+    "generatedAt": "2026-03-17T09:48:46.484813Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "luciano-vieira"
   },
   "mandateTotals": {
-    "amountNet": 1345111.52,
-    "amountGross": 1449767.44,
+    "amountNet": 1374584.17,
+    "amountGross": 1479240.09,
     "amountAdjustments": -104655.92,
-    "recordsCount": 1037,
+    "recordsCount": 1052,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 88128.3,
+      "COMBUSTIVEL": 90972.05,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 508883.07,
+      "DESLOCAMENTO": 512049.67,
       "DIVULGACAO": 390520.29,
-      "ESCRITORIO": 357579.86,
+      "ESCRITORIO": 381042.16,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 88128.3,
+      "COMBUSTIVEL": 90972.05,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 613538.99,
+      "DESLOCAMENTO": 616705.59,
       "DIVULGACAO": 390520.29,
-      "ESCRITORIO": 357579.86,
+      "ESCRITORIO": 381042.16,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 436903.51,
     "2024": 485631.37,
-    "2025": 422576.64
+    "2025": 422576.64,
+    "2026": 29472.65
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 32456.84,
     "2025-10": 28521.04,
     "2025-11": 19244.12,
-    "2025-12": 11184.85
+    "2025-12": 11184.85,
+    "2026-01": 16955.55,
+    "2026-02": 11417.1,
+    "2026-03": 1100.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 508883.07,
-    "percent": 37.83
+    "amountNet": 512049.67,
+    "percent": 37.25
   }
 }

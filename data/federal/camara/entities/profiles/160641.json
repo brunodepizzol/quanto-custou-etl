@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160641,
-    "generatedAt": "2026-03-17T09:12:39.057627Z",
+    "generatedAt": "2026-03-17T09:48:46.397888Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "professora-marcivania"
   },
   "mandateTotals": {
-    "amountNet": 227321.74,
-    "amountGross": 242225.81,
+    "amountNet": 307598.36,
+    "amountGross": 322502.43,
     "amountAdjustments": -14904.07,
-    "recordsCount": 47,
+    "recordsCount": 53,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 11096.38,
+      "COMBUSTIVEL": 11601.37,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 117.9,
-      "DESLOCAMENTO": 38867.46,
-      "DIVULGACAO": 176000.0,
+      "DESLOCAMENTO": 46639.09,
+      "DIVULGACAO": 248000.0,
       "ESCRITORIO": 680.0,
       "HOSPEDAGEM": 560.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 11096.38,
+      "COMBUSTIVEL": 11601.37,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 117.9,
-      "DESLOCAMENTO": 53771.53,
-      "DIVULGACAO": 176000.0,
+      "DESLOCAMENTO": 61543.16,
+      "DIVULGACAO": 248000.0,
       "ESCRITORIO": 680.0,
       "HOSPEDAGEM": 560.0,
       "OUTROS": 0.0
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 117.9,
     "2024": 0.0,
-    "2025": 227203.84
+    "2025": 227203.84,
+    "2026": 80276.62
   },
   "monthTotals": {
     "2023-01": 117.9,
@@ -94,11 +95,14 @@
     "2025-09": 44484.39,
     "2025-10": 44506.98,
     "2025-11": 45062.97,
-    "2025-12": 48601.03
+    "2025-12": 48601.03,
+    "2026-01": 44026.62,
+    "2026-02": 36250.0,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 176000.0,
-    "percent": 77.42
+    "amountNet": 248000.0,
+    "percent": 80.62
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204494,
-    "generatedAt": "2026-03-17T09:12:39.089856Z",
+    "generatedAt": "2026-03-17T09:48:46.443530Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "fred-costa"
   },
   "mandateTotals": {
-    "amountNet": 1264257.14,
-    "amountGross": 1308376.87,
+    "amountNet": 1342389.72,
+    "amountGross": 1386509.45,
     "amountAdjustments": -44119.73,
-    "recordsCount": 1664,
+    "recordsCount": 1759,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 177612.81,
+      "COMBUSTIVEL": 189301.64,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 17038.76,
-      "DESLOCAMENTO": 593910.97,
-      "DIVULGACAO": 191090.19,
-      "ESCRITORIO": 275917.15,
-      "HOSPEDAGEM": 8687.26,
+      "CORREIOS_TELEFONIA": 18368.76,
+      "DESLOCAMENTO": 625433.99,
+      "DIVULGACAO": 202910.19,
+      "ESCRITORIO": 297473.36,
+      "HOSPEDAGEM": 8901.78,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 177612.81,
+      "COMBUSTIVEL": 189301.64,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 17038.76,
-      "DESLOCAMENTO": 638030.7,
-      "DIVULGACAO": 191090.19,
-      "ESCRITORIO": 275917.15,
-      "HOSPEDAGEM": 8687.26,
+      "CORREIOS_TELEFONIA": 18368.76,
+      "DESLOCAMENTO": 669553.72,
+      "DIVULGACAO": 202910.19,
+      "ESCRITORIO": 297473.36,
+      "HOSPEDAGEM": 8901.78,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 416833.58,
     "2024": 362971.91,
-    "2025": 484451.65
+    "2025": 484451.65,
+    "2026": 78132.58
   },
   "monthTotals": {
     "2023-01": 934.53,
@@ -94,11 +95,14 @@
     "2025-09": 46291.46,
     "2025-10": 48175.51,
     "2025-11": 38004.78,
-    "2025-12": 11524.24
+    "2025-12": 11524.24,
+    "2026-01": 39538.63,
+    "2026-02": 31377.21,
+    "2026-03": 7216.74
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 593910.97,
-    "percent": 46.98
+    "amountNet": 625433.99,
+    "percent": 46.59
   }
 }

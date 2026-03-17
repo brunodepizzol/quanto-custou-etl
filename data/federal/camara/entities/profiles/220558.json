@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220558,
-    "generatedAt": "2026-03-17T09:12:39.107711Z",
+    "generatedAt": "2026-03-17T09:48:46.468939Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "zé-trovão"
   },
   "mandateTotals": {
-    "amountNet": 1652332.33,
-    "amountGross": 1804570.46,
+    "amountNet": 1734010.22,
+    "amountGross": 1886248.35,
     "amountAdjustments": -152238.13,
-    "recordsCount": 1717,
+    "recordsCount": 1796,
     "byCategoryNet": {
       "ALIMENTACAO": 12007.0,
-      "COMBUSTIVEL": 177875.47,
+      "COMBUSTIVEL": 186982.84,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 14730.97,
-      "DESLOCAMENTO": 393731.13,
-      "DIVULGACAO": 391154.0,
-      "ESCRITORIO": 641465.01,
+      "CORREIOS_TELEFONIA": 15932.89,
+      "DESLOCAMENTO": 411720.89,
+      "DIVULGACAO": 412854.0,
+      "ESCRITORIO": 673143.85,
       "HOSPEDAGEM": 21368.75,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 12007.0,
-      "COMBUSTIVEL": 177875.47,
+      "COMBUSTIVEL": 186982.84,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 14730.97,
-      "DESLOCAMENTO": 545969.26,
-      "DIVULGACAO": 391154.0,
-      "ESCRITORIO": 641465.01,
+      "CORREIOS_TELEFONIA": 15932.89,
+      "DESLOCAMENTO": 563959.02,
+      "DIVULGACAO": 412854.0,
+      "ESCRITORIO": 673143.85,
       "HOSPEDAGEM": 21368.75,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 547330.96,
     "2024": 550479.5,
-    "2025": 554521.87
+    "2025": 554521.87,
+    "2026": 81677.89
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 49331.8,
     "2025-10": 43333.3,
     "2025-11": 34533.91,
-    "2025-12": 45526.88
+    "2025-12": 45526.88,
+    "2026-01": 40391.65,
+    "2026-02": 32254.36,
+    "2026-03": 9031.88
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 641465.01,
+    "amountNet": 673143.85,
     "percent": 38.82
   }
 }

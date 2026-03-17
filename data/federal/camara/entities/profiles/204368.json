@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204368,
-    "generatedAt": "2026-03-17T09:12:39.076550Z",
+    "generatedAt": "2026-03-17T09:48:46.424755Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "fabio-schiochet"
   },
   "mandateTotals": {
-    "amountNet": 1510886.46,
-    "amountGross": 1592795.93,
+    "amountNet": 1536826.48,
+    "amountGross": 1618735.95,
     "amountAdjustments": -81909.47,
-    "recordsCount": 1877,
+    "recordsCount": 1925,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 224135.39,
+      "COMBUSTIVEL": 233862.31,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4194.18,
-      "DESLOCAMENTO": 852468.7,
+      "DESLOCAMENTO": 865468.7,
       "DIVULGACAO": 273350.0,
-      "ESCRITORIO": 10628.0,
-      "HOSPEDAGEM": 146110.19,
+      "ESCRITORIO": 10978.0,
+      "HOSPEDAGEM": 148973.29,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 224135.39,
+      "COMBUSTIVEL": 233862.31,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4194.18,
-      "DESLOCAMENTO": 934378.17,
+      "DESLOCAMENTO": 947378.17,
       "DIVULGACAO": 273350.0,
-      "ESCRITORIO": 10628.0,
-      "HOSPEDAGEM": 146110.19,
+      "ESCRITORIO": 10978.0,
+      "HOSPEDAGEM": 148973.29,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 440706.01,
     "2024": 536711.6,
-    "2025": 533468.85
+    "2025": 533468.85,
+    "2026": 25940.02
   },
   "monthTotals": {
     "2023-01": 699.29,
@@ -94,11 +95,14 @@
     "2025-09": 46107.22,
     "2025-10": 49320.41,
     "2025-11": 42598.26,
-    "2025-12": 71250.33
+    "2025-12": 71250.33,
+    "2026-01": 23044.41,
+    "2026-02": 2895.61,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 852468.7,
-    "percent": 56.42
+    "amountNet": 865468.7,
+    "percent": 56.32
   }
 }

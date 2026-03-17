@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220658,
-    "generatedAt": "2026-03-17T09:12:39.126635Z",
+    "generatedAt": "2026-03-17T09:48:46.495978Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "luiz-gastão"
   },
   "mandateTotals": {
-    "amountNet": 1690122.09,
-    "amountGross": 1744913.39,
+    "amountNet": 1769054.73,
+    "amountGross": 1823846.03,
     "amountAdjustments": -54791.3,
-    "recordsCount": 696,
+    "recordsCount": 721,
     "byCategoryNet": {
       "ALIMENTACAO": 86.54,
-      "COMBUSTIVEL": 10987.6,
+      "COMBUSTIVEL": 11465.86,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 5877.94,
-      "DESLOCAMENTO": 503538.82,
-      "DIVULGACAO": 996170.4,
-      "ESCRITORIO": 171906.99,
+      "CORREIOS_TELEFONIA": 6319.72,
+      "DESLOCAMENTO": 504006.11,
+      "DIVULGACAO": 1061450.65,
+      "ESCRITORIO": 184172.05,
       "HOSPEDAGEM": 1553.8,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 86.54,
-      "COMBUSTIVEL": 10987.6,
+      "COMBUSTIVEL": 11465.86,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 5877.94,
-      "DESLOCAMENTO": 558330.12,
-      "DIVULGACAO": 996170.4,
-      "ESCRITORIO": 171906.99,
+      "CORREIOS_TELEFONIA": 6319.72,
+      "DESLOCAMENTO": 558797.41,
+      "DIVULGACAO": 1061450.65,
+      "ESCRITORIO": 184172.05,
       "HOSPEDAGEM": 1553.8,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 546074.56,
     "2024": 583575.43,
-    "2025": 560472.1
+    "2025": 560472.1,
+    "2026": 78932.64
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 49198.58,
     "2025-10": 89161.62,
     "2025-11": 47893.69,
-    "2025-12": 24442.4
+    "2025-12": 24442.4,
+    "2026-01": 39964.55,
+    "2026-02": 36738.79,
+    "2026-03": 2229.3
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 996170.4,
-    "percent": 58.94
+    "amountNet": 1061450.65,
+    "percent": 60.0
   }
 }

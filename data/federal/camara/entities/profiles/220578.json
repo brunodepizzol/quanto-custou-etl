@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220578,
-    "generatedAt": "2026-03-17T09:12:39.111743Z",
+    "generatedAt": "2026-03-17T09:48:46.474725Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "josenildo"
   },
   "mandateTotals": {
-    "amountNet": 1686665.6,
-    "amountGross": 1747769.29,
+    "amountNet": 1752947.79,
+    "amountGross": 1814051.48,
     "amountAdjustments": -61103.69,
-    "recordsCount": 995,
+    "recordsCount": 1036,
     "byCategoryNet": {
-      "ALIMENTACAO": 8276.57,
-      "COMBUSTIVEL": 90599.25,
+      "ALIMENTACAO": 8505.57,
+      "COMBUSTIVEL": 98472.54,
       "CONSULTORIA_SERVICOS": 9145.61,
-      "CORREIOS_TELEFONIA": 10114.06,
-      "DESLOCAMENTO": 597599.51,
-      "DIVULGACAO": 805721.29,
+      "CORREIOS_TELEFONIA": 10293.96,
+      "DESLOCAMENTO": 624599.51,
+      "DIVULGACAO": 836721.29,
       "ESCRITORIO": 163630.76,
       "HOSPEDAGEM": 1578.55,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 8276.57,
-      "COMBUSTIVEL": 90599.25,
+      "ALIMENTACAO": 8505.57,
+      "COMBUSTIVEL": 98472.54,
       "CONSULTORIA_SERVICOS": 9145.61,
-      "CORREIOS_TELEFONIA": 10114.06,
-      "DESLOCAMENTO": 658703.2,
-      "DIVULGACAO": 805721.29,
+      "CORREIOS_TELEFONIA": 10293.96,
+      "DESLOCAMENTO": 685703.2,
+      "DIVULGACAO": 836721.29,
       "ESCRITORIO": 163630.76,
       "HOSPEDAGEM": 1578.55,
       "OUTROS": 0.0
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 525951.21,
     "2024": 545397.98,
-    "2025": 615316.41
+    "2025": 615316.41,
+    "2026": 66282.19
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 60604.59,
     "2025-10": 72161.48,
     "2025-11": 46155.37,
-    "2025-12": 44456.44
+    "2025-12": 44456.44,
+    "2026-01": 49597.37,
+    "2026-02": 15427.6,
+    "2026-03": 1257.22
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 805721.29,
-    "percent": 47.77
+    "amountNet": 836721.29,
+    "percent": 47.73
   }
 }

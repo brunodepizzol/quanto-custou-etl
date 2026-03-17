@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220615,
-    "generatedAt": "2026-03-17T09:12:39.118544Z",
+    "generatedAt": "2026-03-17T09:48:46.484490Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "pastor-henrique-vieira"
   },
   "mandateTotals": {
-    "amountNet": 1470105.81,
-    "amountGross": 1541850.69,
+    "amountNet": 1532500.12,
+    "amountGross": 1604245.0,
     "amountAdjustments": -71744.88,
-    "recordsCount": 1241,
+    "recordsCount": 1285,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 63371.0,
+      "COMBUSTIVEL": 68718.93,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 8208.82,
-      "DESLOCAMENTO": 691307.27,
-      "DIVULGACAO": 573434.91,
-      "ESCRITORIO": 124161.62,
+      "CORREIOS_TELEFONIA": 8728.36,
+      "DESLOCAMENTO": 714307.27,
+      "DIVULGACAO": 595434.91,
+      "ESCRITORIO": 135688.46,
       "HOSPEDAGEM": 9622.19,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 63371.0,
+      "COMBUSTIVEL": 68718.93,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 8208.82,
-      "DESLOCAMENTO": 763052.15,
-      "DIVULGACAO": 573434.91,
-      "ESCRITORIO": 124161.62,
+      "CORREIOS_TELEFONIA": 8728.36,
+      "DESLOCAMENTO": 786052.15,
+      "DIVULGACAO": 595434.91,
+      "ESCRITORIO": 135688.46,
       "HOSPEDAGEM": 9622.19,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 473201.94,
     "2024": 497562.49,
-    "2025": 499341.38
+    "2025": 499341.38,
+    "2026": 62394.31
   },
   "monthTotals": {
     "2023-01": 1060.1,
@@ -94,11 +95,14 @@
     "2025-09": 45358.91,
     "2025-10": 44426.68,
     "2025-11": 44828.4,
-    "2025-12": 31283.07
+    "2025-12": 31283.07,
+    "2026-01": 29139.09,
+    "2026-02": 30027.37,
+    "2026-03": 3227.85
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 691307.27,
-    "percent": 47.02
+    "amountNet": 714307.27,
+    "percent": 46.61
   }
 }

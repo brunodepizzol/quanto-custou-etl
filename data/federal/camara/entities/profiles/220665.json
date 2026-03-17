@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220665,
-    "generatedAt": "2026-03-17T09:12:39.127793Z",
+    "generatedAt": "2026-03-17T09:48:46.497667Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "clarissa-tércio"
   },
   "mandateTotals": {
-    "amountNet": 1155787.96,
-    "amountGross": 1267517.98,
+    "amountNet": 1255077.06,
+    "amountGross": 1366807.08,
     "amountAdjustments": -111730.02,
-    "recordsCount": 819,
+    "recordsCount": 864,
     "byCategoryNet": {
       "ALIMENTACAO": 2447.93,
-      "COMBUSTIVEL": 135906.04,
+      "COMBUSTIVEL": 141810.66,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 8913.77,
-      "DESLOCAMENTO": 365463.13,
-      "DIVULGACAO": 371523.38,
-      "ESCRITORIO": 255468.56,
+      "CORREIOS_TELEFONIA": 9535.63,
+      "DESLOCAMENTO": 387552.53,
+      "DIVULGACAO": 421915.73,
+      "ESCRITORIO": 275749.43,
       "HOSPEDAGEM": 16065.15,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 2447.93,
-      "COMBUSTIVEL": 135906.04,
+      "COMBUSTIVEL": 141810.66,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 8913.77,
-      "DESLOCAMENTO": 477193.15,
-      "DIVULGACAO": 371523.38,
-      "ESCRITORIO": 255468.56,
+      "CORREIOS_TELEFONIA": 9535.63,
+      "DESLOCAMENTO": 499282.55,
+      "DIVULGACAO": 421915.73,
+      "ESCRITORIO": 275749.43,
       "HOSPEDAGEM": 16065.15,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 281100.75,
     "2024": 345108.24,
-    "2025": 529578.97
+    "2025": 529578.97,
+    "2026": 99289.1
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 46898.78,
     "2025-10": 51094.87,
     "2025-11": 39149.08,
-    "2025-12": 64672.57
+    "2025-12": 64672.57,
+    "2026-01": 46721.35,
+    "2026-02": 50470.57,
+    "2026-03": 2097.18
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 371523.38,
-    "percent": 32.14
+    "amountNet": 421915.73,
+    "percent": 33.62
   }
 }

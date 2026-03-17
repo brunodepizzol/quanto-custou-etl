@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220590,
-    "generatedAt": "2026-03-17T09:12:39.113805Z",
+    "generatedAt": "2026-03-17T09:48:46.477814Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "coronel-ulysses"
   },
   "mandateTotals": {
-    "amountNet": 1806956.53,
-    "amountGross": 1853627.69,
+    "amountNet": 1930343.56,
+    "amountGross": 1977014.72,
     "amountAdjustments": -46671.16,
-    "recordsCount": 842,
+    "recordsCount": 865,
     "byCategoryNet": {
       "ALIMENTACAO": 71.32,
-      "COMBUSTIVEL": 244243.92,
+      "COMBUSTIVEL": 262243.92,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1508.72,
-      "DESLOCAMENTO": 396155.23,
-      "DIVULGACAO": 1025042.07,
-      "ESCRITORIO": 81496.54,
-      "HOSPEDAGEM": 58438.73,
+      "DESLOCAMENTO": 451745.26,
+      "DIVULGACAO": 1055542.07,
+      "ESCRITORIO": 99443.54,
+      "HOSPEDAGEM": 59788.73,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 71.32,
-      "COMBUSTIVEL": 244243.92,
+      "COMBUSTIVEL": 262243.92,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1508.72,
-      "DESLOCAMENTO": 442826.39,
-      "DIVULGACAO": 1025042.07,
-      "ESCRITORIO": 81496.54,
-      "HOSPEDAGEM": 58438.73,
+      "DESLOCAMENTO": 498416.42,
+      "DIVULGACAO": 1055542.07,
+      "ESCRITORIO": 99443.54,
+      "HOSPEDAGEM": 59788.73,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 602214.27,
     "2024": 597642.93,
-    "2025": 607099.33
+    "2025": 607099.33,
+    "2026": 123387.03
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 63831.76,
     "2025-10": 53969.77,
     "2025-11": 40853.11,
-    "2025-12": 54833.29
+    "2025-12": 54833.29,
+    "2026-01": 92440.03,
+    "2026-02": 30947.0,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 1025042.07,
-    "percent": 56.73
+    "amountNet": 1055542.07,
+    "percent": 54.68
   }
 }

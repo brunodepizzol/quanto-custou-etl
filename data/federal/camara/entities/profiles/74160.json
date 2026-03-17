@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74160,
-    "generatedAt": "2026-03-17T09:12:39.030349Z",
+    "generatedAt": "2026-03-17T09:48:46.359374Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "patrus-ananias"
   },
   "mandateTotals": {
-    "amountNet": 1369734.58,
-    "amountGross": 1382719.54,
+    "amountNet": 1440754.32,
+    "amountGross": 1453739.28,
     "amountAdjustments": -12984.96,
-    "recordsCount": 3718,
+    "recordsCount": 3847,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 179861.29,
+      "COMBUSTIVEL": 191492.39,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 14248.52,
-      "DESLOCAMENTO": 211558.98,
-      "DIVULGACAO": 411005.23,
-      "ESCRITORIO": 482467.59,
-      "HOSPEDAGEM": 70592.97,
+      "CORREIOS_TELEFONIA": 14928.51,
+      "DESLOCAMENTO": 212870.83,
+      "DIVULGACAO": 439777.23,
+      "ESCRITORIO": 509759.71,
+      "HOSPEDAGEM": 71925.65,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 179861.29,
+      "COMBUSTIVEL": 191492.39,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 14248.52,
-      "DESLOCAMENTO": 224543.94,
-      "DIVULGACAO": 411005.23,
-      "ESCRITORIO": 482467.59,
-      "HOSPEDAGEM": 70592.97,
+      "CORREIOS_TELEFONIA": 14928.51,
+      "DESLOCAMENTO": 225855.79,
+      "DIVULGACAO": 439777.23,
+      "ESCRITORIO": 509759.71,
+      "HOSPEDAGEM": 71925.65,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 409247.87,
     "2024": 459089.19,
-    "2025": 501397.52
+    "2025": 501397.52,
+    "2026": 71019.74
   },
   "monthTotals": {
     "2023-01": 8044.28,
@@ -94,11 +95,14 @@
     "2025-09": 53142.8,
     "2025-10": 41082.54,
     "2025-11": 47318.31,
-    "2025-12": 10443.15
+    "2025-12": 10443.15,
+    "2026-01": 28390.43,
+    "2026-02": 36811.23,
+    "2026-03": 5818.08
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 482467.59,
-    "percent": 35.22
+    "amountNet": 509759.71,
+    "percent": 35.38
   }
 }

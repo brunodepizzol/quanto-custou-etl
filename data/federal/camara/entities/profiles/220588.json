@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220588,
-    "generatedAt": "2026-03-17T09:12:39.113355Z",
+    "generatedAt": "2026-03-17T09:48:46.477066Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "roberto-duarte"
   },
   "mandateTotals": {
-    "amountNet": 1591448.72,
-    "amountGross": 1629072.98,
+    "amountNet": 1682158.7,
+    "amountGross": 1719782.96,
     "amountAdjustments": -37624.26,
-    "recordsCount": 1312,
+    "recordsCount": 1380,
     "byCategoryNet": {
       "ALIMENTACAO": 551.41,
-      "COMBUSTIVEL": 181691.53,
+      "COMBUSTIVEL": 192162.53,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 14568.97,
-      "DESLOCAMENTO": 581637.69,
-      "DIVULGACAO": 571545.1,
-      "ESCRITORIO": 195379.04,
-      "HOSPEDAGEM": 46074.98,
+      "CORREIOS_TELEFONIA": 15020.52,
+      "DESLOCAMENTO": 603211.49,
+      "DIVULGACAO": 614365.1,
+      "ESCRITORIO": 206572.66,
+      "HOSPEDAGEM": 50274.99,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 551.41,
-      "COMBUSTIVEL": 181691.53,
+      "COMBUSTIVEL": 192162.53,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 14568.97,
-      "DESLOCAMENTO": 619261.95,
-      "DIVULGACAO": 571545.1,
-      "ESCRITORIO": 195379.04,
-      "HOSPEDAGEM": 46074.98,
+      "CORREIOS_TELEFONIA": 15020.52,
+      "DESLOCAMENTO": 640835.75,
+      "DIVULGACAO": 614365.1,
+      "ESCRITORIO": 206572.66,
+      "HOSPEDAGEM": 50274.99,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 419649.43,
     "2024": 568839.67,
-    "2025": 602959.62
+    "2025": 602959.62,
+    "2026": 90709.98
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 43294.84,
     "2025-10": 63457.12,
     "2025-11": 56254.85,
-    "2025-12": 16075.23
+    "2025-12": 16075.23,
+    "2026-01": 49467.91,
+    "2026-02": 39908.89,
+    "2026-03": 1333.18
   },
   "topCategory": {
-    "category": "DESLOCAMENTO",
-    "amountNet": 581637.69,
-    "percent": 36.55
+    "category": "DIVULGACAO",
+    "amountNet": 614365.1,
+    "percent": 36.52
   }
 }

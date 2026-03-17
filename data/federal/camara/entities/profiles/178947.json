@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178947,
-    "generatedAt": "2026-03-17T09:12:39.068593Z",
+    "generatedAt": "2026-03-17T09:48:46.413465Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "sóstenes-cavalcante"
   },
   "mandateTotals": {
-    "amountNet": 1465363.54,
-    "amountGross": 1545460.99,
+    "amountNet": 1520776.91,
+    "amountGross": 1600874.36,
     "amountAdjustments": -80097.45,
-    "recordsCount": 1325,
+    "recordsCount": 1361,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 127873.44,
+      "COMBUSTIVEL": 132844.36,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 773804.76,
-      "DIVULGACAO": 531897.84,
-      "ESCRITORIO": 31787.5,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 785918.11,
+      "DIVULGACAO": 566897.84,
+      "ESCRITORIO": 34166.6,
+      "HOSPEDAGEM": 950.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 127873.44,
+      "COMBUSTIVEL": 132844.36,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 853902.21,
-      "DIVULGACAO": 531897.84,
-      "ESCRITORIO": 31787.5,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 866015.56,
+      "DIVULGACAO": 566897.84,
+      "ESCRITORIO": 34166.6,
+      "HOSPEDAGEM": 950.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 469940.53,
     "2024": 497030.82,
-    "2025": 498392.19
+    "2025": 498392.19,
+    "2026": 55413.37
   },
   "monthTotals": {
     "2023-01": 5000.0,
@@ -94,11 +95,14 @@
     "2025-09": 43778.93,
     "2025-10": 47552.69,
     "2025-11": 39339.25,
-    "2025-12": 27023.34
+    "2025-12": 27023.34,
+    "2026-01": 23370.22,
+    "2026-02": 25010.23,
+    "2026-03": 7032.92
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 773804.76,
-    "percent": 52.81
+    "amountNet": 785918.11,
+    "percent": 51.68
   }
 }

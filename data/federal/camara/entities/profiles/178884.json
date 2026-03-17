@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178884,
-    "generatedAt": "2026-03-17T09:12:39.064858Z",
+    "generatedAt": "2026-03-17T09:48:46.408353Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "hildo-rocha"
   },
   "mandateTotals": {
-    "amountNet": 607705.45,
-    "amountGross": 652464.55,
+    "amountNet": 680223.4,
+    "amountGross": 724982.5,
     "amountAdjustments": -44759.1,
-    "recordsCount": 456,
+    "recordsCount": 495,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 40362.23,
+      "COMBUSTIVEL": 45056.29,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 376.45,
-      "DESLOCAMENTO": 205081.48,
-      "DIVULGACAO": 304000.0,
+      "DESLOCAMENTO": 221562.37,
+      "DIVULGACAO": 348100.0,
       "ESCRITORIO": 3295.3,
-      "HOSPEDAGEM": 54589.99,
+      "HOSPEDAGEM": 61832.99,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 40362.23,
+      "COMBUSTIVEL": 45056.29,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 376.45,
-      "DESLOCAMENTO": 249840.58,
-      "DIVULGACAO": 304000.0,
+      "DESLOCAMENTO": 266321.47,
+      "DIVULGACAO": 348100.0,
       "ESCRITORIO": 3295.3,
-      "HOSPEDAGEM": 54589.99,
+      "HOSPEDAGEM": 61832.99,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 376.45,
     "2024": 169385.37,
-    "2025": 437943.63
+    "2025": 437943.63,
+    "2026": 72517.95
   },
   "monthTotals": {
     "2023-01": 376.45,
@@ -94,11 +95,14 @@
     "2025-09": 36721.81,
     "2025-10": 48794.32,
     "2025-11": 36013.32,
-    "2025-12": 41134.46
+    "2025-12": 41134.46,
+    "2026-01": 38152.21,
+    "2026-02": 33965.74,
+    "2026-03": 400.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 304000.0,
-    "percent": 50.02
+    "amountNet": 348100.0,
+    "percent": 51.17
   }
 }

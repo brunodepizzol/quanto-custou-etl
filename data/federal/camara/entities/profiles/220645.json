@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220645,
-    "generatedAt": "2026-03-17T09:12:39.123714Z",
+    "generatedAt": "2026-03-17T09:48:46.491866Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "erika-hilton"
   },
   "mandateTotals": {
-    "amountNet": 1322061.84,
-    "amountGross": 1394781.34,
+    "amountNet": 1358783.07,
+    "amountGross": 1431502.57,
     "amountAdjustments": -72719.5,
-    "recordsCount": 1824,
+    "recordsCount": 1877,
     "byCategoryNet": {
       "ALIMENTACAO": 2506.38,
-      "COMBUSTIVEL": 32677.2,
+      "COMBUSTIVEL": 36667.34,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 769924.25,
-      "DIVULGACAO": 248900.05,
-      "ESCRITORIO": 250285.22,
-      "HOSPEDAGEM": 17768.74,
+      "DESLOCAMENTO": 773831.54,
+      "DIVULGACAO": 257684.05,
+      "ESCRITORIO": 268275.02,
+      "HOSPEDAGEM": 19818.74,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 2506.38,
-      "COMBUSTIVEL": 32677.2,
+      "COMBUSTIVEL": 36667.34,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 842643.75,
-      "DIVULGACAO": 248900.05,
-      "ESCRITORIO": 250285.22,
-      "HOSPEDAGEM": 17768.74,
+      "DESLOCAMENTO": 846551.04,
+      "DIVULGACAO": 257684.05,
+      "ESCRITORIO": 268275.02,
+      "HOSPEDAGEM": 19818.74,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 414937.09,
     "2024": 459657.55,
-    "2025": 447467.2
+    "2025": 447467.2,
+    "2026": 36721.23
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 44790.18,
     "2025-10": 44400.02,
     "2025-11": 15066.11,
-    "2025-12": 23592.42
+    "2025-12": 23592.42,
+    "2026-01": 21648.91,
+    "2026-02": 14672.32,
+    "2026-03": 400.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 769924.25,
-    "percent": 58.24
+    "amountNet": 773831.54,
+    "percent": 56.95
   }
 }

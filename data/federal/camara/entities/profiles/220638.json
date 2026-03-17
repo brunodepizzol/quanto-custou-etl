@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220638,
-    "generatedAt": "2026-03-17T09:12:39.122554Z",
+    "generatedAt": "2026-03-17T09:48:46.490207Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "antonio-carlos-rodrigues"
   },
   "mandateTotals": {
-    "amountNet": 1214575.11,
-    "amountGross": 1286975.66,
-    "amountAdjustments": -72400.55,
-    "recordsCount": 852,
+    "amountNet": 1244258.51,
+    "amountGross": 1317277.48,
+    "amountAdjustments": -73018.97,
+    "recordsCount": 870,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 137364.74,
+      "COMBUSTIVEL": 142205.01,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 16181.85,
-      "DESLOCAMENTO": 399958.13,
-      "DIVULGACAO": 594388.1,
-      "ESCRITORIO": 57581.66,
-      "HOSPEDAGEM": 9100.63,
+      "CORREIOS_TELEFONIA": 17292.5,
+      "DESLOCAMENTO": 408939.71,
+      "DIVULGACAO": 605888.1,
+      "ESCRITORIO": 59864.56,
+      "HOSPEDAGEM": 10068.63,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 137364.74,
+      "COMBUSTIVEL": 142205.01,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 16181.85,
-      "DESLOCAMENTO": 472358.68,
-      "DIVULGACAO": 594388.1,
-      "ESCRITORIO": 57581.66,
-      "HOSPEDAGEM": 9100.63,
+      "CORREIOS_TELEFONIA": 17292.5,
+      "DESLOCAMENTO": 481958.68,
+      "DIVULGACAO": 605888.1,
+      "ESCRITORIO": 59864.56,
+      "HOSPEDAGEM": 10068.63,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -72400.55,
+      "DESLOCAMENTO": -73018.97,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 419190.8,
     "2024": 400750.4,
-    "2025": 394633.91
+    "2025": 394633.91,
+    "2026": 29683.4
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 39005.28,
     "2025-10": 74844.02,
     "2025-11": 33507.84,
-    "2025-12": 33061.67
+    "2025-12": 33061.67,
+    "2026-01": 22982.92,
+    "2026-02": 6511.11,
+    "2026-03": 189.37
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 594388.1,
-    "percent": 48.94
+    "amountNet": 605888.1,
+    "percent": 48.69
   }
 }

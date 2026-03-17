@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74478,
-    "generatedAt": "2026-03-17T09:12:39.034995Z",
+    "generatedAt": "2026-03-17T09:48:46.365605Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "luciano-bivar"
   },
   "mandateTotals": {
-    "amountNet": 1189019.28,
-    "amountGross": 1266067.91,
+    "amountNet": 1217485.52,
+    "amountGross": 1294534.15,
     "amountAdjustments": -77048.63,
-    "recordsCount": 674,
+    "recordsCount": 683,
     "byCategoryNet": {
-      "ALIMENTACAO": 1033.22,
+      "ALIMENTACAO": 1165.01,
       "COMBUSTIVEL": 28913.52,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6142.4,
-      "DESLOCAMENTO": 618051.16,
-      "DIVULGACAO": 481866.0,
-      "ESCRITORIO": 49866.3,
+      "DESLOCAMENTO": 624865.61,
+      "DIVULGACAO": 501866.0,
+      "ESCRITORIO": 51386.3,
       "HOSPEDAGEM": 3146.68,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 1033.22,
+      "ALIMENTACAO": 1165.01,
       "COMBUSTIVEL": 28913.52,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6142.4,
-      "DESLOCAMENTO": 695099.79,
-      "DIVULGACAO": 481866.0,
-      "ESCRITORIO": 49866.3,
+      "DESLOCAMENTO": 701914.24,
+      "DIVULGACAO": 501866.0,
+      "ESCRITORIO": 51386.3,
       "HOSPEDAGEM": 3146.68,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 278819.2,
     "2024": 403924.41,
-    "2025": 506275.67
+    "2025": 506275.67,
+    "2026": 28466.24
   },
   "monthTotals": {
     "2023-01": 6208.05,
@@ -94,11 +95,14 @@
     "2025-09": 40953.11,
     "2025-10": 87334.88,
     "2025-11": 49112.04,
-    "2025-12": 36841.59
+    "2025-12": 36841.59,
+    "2026-01": 23184.45,
+    "2026-02": 5281.79,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 618051.16,
-    "percent": 51.98
+    "amountNet": 624865.61,
+    "percent": 51.32
   }
 }

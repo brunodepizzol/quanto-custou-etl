@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 73604,
-    "generatedAt": "2026-03-17T09:12:39.025474Z",
+    "generatedAt": "2026-03-17T09:48:46.352786Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "rui-falcão"
   },
   "mandateTotals": {
-    "amountNet": 1299802.58,
-    "amountGross": 1325284.15,
+    "amountNet": 1346256.3,
+    "amountGross": 1371737.87,
     "amountAdjustments": -25481.57,
-    "recordsCount": 986,
+    "recordsCount": 1021,
     "byCategoryNet": {
       "ALIMENTACAO": 4756.55,
-      "COMBUSTIVEL": 68208.29,
+      "COMBUSTIVEL": 72212.12,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 10346.12,
-      "DESLOCAMENTO": 498165.29,
-      "DIVULGACAO": 469096.15,
-      "ESCRITORIO": 236346.73,
-      "HOSPEDAGEM": 12883.45,
+      "DESLOCAMENTO": 501065.29,
+      "DIVULGACAO": 491596.15,
+      "ESCRITORIO": 252751.92,
+      "HOSPEDAGEM": 13528.15,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 4756.55,
-      "COMBUSTIVEL": 68208.29,
+      "COMBUSTIVEL": 72212.12,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 10346.12,
-      "DESLOCAMENTO": 523646.86,
-      "DIVULGACAO": 469096.15,
-      "ESCRITORIO": 236346.73,
-      "HOSPEDAGEM": 12883.45,
+      "DESLOCAMENTO": 526546.86,
+      "DIVULGACAO": 491596.15,
+      "ESCRITORIO": 252751.92,
+      "HOSPEDAGEM": 13528.15,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 499683.04,
     "2024": 315113.12,
-    "2025": 485006.42
+    "2025": 485006.42,
+    "2026": 46453.72
   },
   "monthTotals": {
     "2023-01": 4165.27,
@@ -94,11 +95,14 @@
     "2025-09": 32469.91,
     "2025-10": 43079.05,
     "2025-11": 46592.3,
-    "2025-12": 26407.74
+    "2025-12": 26407.74,
+    "2026-01": 32473.13,
+    "2026-02": 13751.65,
+    "2026-03": 228.94
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 498165.29,
-    "percent": 38.33
+    "amountNet": 501065.29,
+    "percent": 37.22
   }
 }

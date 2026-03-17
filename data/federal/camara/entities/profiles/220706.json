@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220706,
-    "generatedAt": "2026-03-17T09:12:39.136168Z",
+    "generatedAt": "2026-03-17T09:48:46.509500Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "padovani"
   },
   "mandateTotals": {
-    "amountNet": 1431049.51,
-    "amountGross": 1471788.51,
+    "amountNet": 1447848.01,
+    "amountGross": 1488587.01,
     "amountAdjustments": -40739.0,
-    "recordsCount": 1736,
+    "recordsCount": 1760,
     "byCategoryNet": {
       "ALIMENTACAO": 35090.59,
-      "COMBUSTIVEL": 204316.07,
+      "COMBUSTIVEL": 209899.16,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 41560.27,
-      "DESLOCAMENTO": 722765.06,
-      "DIVULGACAO": 391055.16,
-      "ESCRITORIO": 15097.1,
+      "DESLOCAMENTO": 724880.47,
+      "DIVULGACAO": 399555.16,
+      "ESCRITORIO": 15697.1,
       "HOSPEDAGEM": 21165.26,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 35090.59,
-      "COMBUSTIVEL": 204316.07,
+      "COMBUSTIVEL": 209899.16,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 41560.27,
-      "DESLOCAMENTO": 763504.06,
-      "DIVULGACAO": 391055.16,
-      "ESCRITORIO": 15097.1,
+      "DESLOCAMENTO": 765619.47,
+      "DIVULGACAO": 399555.16,
+      "ESCRITORIO": 15697.1,
       "HOSPEDAGEM": 21165.26,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 444235.69,
     "2024": 519476.67,
-    "2025": 467337.15
+    "2025": 467337.15,
+    "2026": 16798.5
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 46657.75,
     "2025-10": 49728.4,
     "2025-11": 23537.71,
-    "2025-12": 2923.19
+    "2025-12": 2923.19,
+    "2026-01": 15400.97,
+    "2026-02": 949.86,
+    "2026-03": 447.67
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 722765.06,
-    "percent": 50.51
+    "amountNet": 724880.47,
+    "percent": 50.07
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 73808,
-    "generatedAt": "2026-03-17T09:12:39.027063Z",
+    "generatedAt": "2026-03-17T09:48:46.354976Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "sérgio-brito"
   },
   "mandateTotals": {
-    "amountNet": 88522.46,
-    "amountGross": 88670.01,
+    "amountNet": 140993.5,
+    "amountGross": 141141.05,
     "amountAdjustments": -147.55,
-    "recordsCount": 89,
+    "recordsCount": 128,
     "byCategoryNet": {
-      "ALIMENTACAO": 538.83,
-      "COMBUSTIVEL": 5324.72,
+      "ALIMENTACAO": 952.48,
+      "COMBUSTIVEL": 12089.51,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 862.56,
-      "DESLOCAMENTO": 32743.84,
-      "DIVULGACAO": 35000.0,
-      "ESCRITORIO": 10672.05,
-      "HOSPEDAGEM": 3380.46,
+      "CORREIOS_TELEFONIA": 982.56,
+      "DESLOCAMENTO": 35360.03,
+      "DIVULGACAO": 61600.0,
+      "ESCRITORIO": 26148.46,
+      "HOSPEDAGEM": 3860.46,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 538.83,
-      "COMBUSTIVEL": 5324.72,
+      "ALIMENTACAO": 952.48,
+      "COMBUSTIVEL": 12089.51,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 862.56,
-      "DESLOCAMENTO": 32891.39,
-      "DIVULGACAO": 35000.0,
-      "ESCRITORIO": 10672.05,
-      "HOSPEDAGEM": 3380.46,
+      "CORREIOS_TELEFONIA": 982.56,
+      "DESLOCAMENTO": 35507.58,
+      "DIVULGACAO": 61600.0,
+      "ESCRITORIO": 26148.46,
+      "HOSPEDAGEM": 3860.46,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 30070.05,
     "2024": 8192.5,
-    "2025": 50259.91
+    "2025": 50259.91,
+    "2026": 52471.04
   },
   "monthTotals": {
     "2023-01": 116.43,
@@ -94,11 +95,14 @@
     "2025-09": 0.0,
     "2025-10": 0.0,
     "2025-11": 25017.03,
-    "2025-12": 25242.88
+    "2025-12": 25242.88,
+    "2026-01": 25274.91,
+    "2026-02": 25438.64,
+    "2026-03": 1757.49
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 35000.0,
-    "percent": 39.54
+    "amountNet": 61600.0,
+    "percent": 43.69
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220569,
-    "generatedAt": "2026-03-17T09:12:39.110133Z",
+    "generatedAt": "2026-03-17T09:48:46.472408Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "silvye-alves"
   },
   "mandateTotals": {
-    "amountNet": 1159311.31,
-    "amountGross": 1161427.12,
+    "amountNet": 1205401.62,
+    "amountGross": 1207517.43,
     "amountAdjustments": -2115.81,
-    "recordsCount": 769,
+    "recordsCount": 799,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 116135.55,
+      "COMBUSTIVEL": 121525.46,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1436.91,
-      "DESLOCAMENTO": 378588.58,
-      "DIVULGACAO": 270718.5,
-      "ESCRITORIO": 387524.77,
-      "HOSPEDAGEM": 4907.0,
+      "DESLOCAMENTO": 403988.58,
+      "DIVULGACAO": 276818.5,
+      "ESCRITORIO": 396570.17,
+      "HOSPEDAGEM": 5062.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 116135.55,
+      "COMBUSTIVEL": 121525.46,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1436.91,
-      "DESLOCAMENTO": 380704.39,
-      "DIVULGACAO": 270718.5,
-      "ESCRITORIO": 387524.77,
-      "HOSPEDAGEM": 4907.0,
+      "DESLOCAMENTO": 406104.39,
+      "DIVULGACAO": 276818.5,
+      "ESCRITORIO": 396570.17,
+      "HOSPEDAGEM": 5062.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 250396.29,
     "2024": 431110.7,
-    "2025": 477804.32
+    "2025": 477804.32,
+    "2026": 46090.31
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 48116.65,
     "2025-10": 42437.17,
     "2025-11": 37170.25,
-    "2025-12": 92295.51
+    "2025-12": 92295.51,
+    "2026-01": 18556.41,
+    "2026-02": 25237.51,
+    "2026-03": 2296.39
   },
   "topCategory": {
-    "category": "ESCRITORIO",
-    "amountNet": 387524.77,
-    "percent": 33.43
+    "category": "DESLOCAMENTO",
+    "amountNet": 403988.58,
+    "percent": 33.51
   }
 }

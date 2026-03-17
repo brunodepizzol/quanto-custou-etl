@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74400,
-    "generatedAt": "2026-03-17T09:12:39.033974Z",
+    "generatedAt": "2026-03-17T09:48:46.364299Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "paulo-pimenta"
   },
   "mandateTotals": {
-    "amountNet": 519228.27,
-    "amountGross": 519228.27,
+    "amountNet": 584183.68,
+    "amountGross": 584183.68,
     "amountAdjustments": 0.0,
-    "recordsCount": 160,
+    "recordsCount": 168,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 28935.18,
+      "COMBUSTIVEL": 30585.17,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6660.8,
       "DESLOCAMENTO": 44683.25,
-      "DIVULGACAO": 383600.0,
-      "ESCRITORIO": 52793.04,
+      "DIVULGACAO": 443600.0,
+      "ESCRITORIO": 56098.46,
       "HOSPEDAGEM": 2556.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 28935.18,
+      "COMBUSTIVEL": 30585.17,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 6660.8,
       "DESLOCAMENTO": 44683.25,
-      "DIVULGACAO": 383600.0,
-      "ESCRITORIO": 52793.04,
+      "DIVULGACAO": 443600.0,
+      "ESCRITORIO": 56098.46,
       "HOSPEDAGEM": 2556.0,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 0.0,
     "2024": 0.0,
-    "2025": 519228.27
+    "2025": 519228.27,
+    "2026": 64955.41
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 54401.64,
     "2025-10": 51768.17,
     "2025-11": 47153.26,
-    "2025-12": 4362.42
+    "2025-12": 4362.42,
+    "2026-01": 30955.41,
+    "2026-02": 24000.0,
+    "2026-03": 10000.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 383600.0,
-    "percent": 73.88
+    "amountNet": 443600.0,
+    "percent": 75.94
   }
 }

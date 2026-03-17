@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220630,
-    "generatedAt": "2026-03-17T09:12:39.121421Z",
+    "generatedAt": "2026-03-17T09:48:46.488550Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "pedro-aihara"
   },
   "mandateTotals": {
-    "amountNet": 1334179.03,
-    "amountGross": 1378637.51,
+    "amountNet": 1335823.42,
+    "amountGross": 1380281.9,
     "amountAdjustments": -44458.48,
-    "recordsCount": 2322,
+    "recordsCount": 2334,
     "byCategoryNet": {
       "ALIMENTACAO": 22925.6,
-      "COMBUSTIVEL": 125581.45,
+      "COMBUSTIVEL": 126922.76,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 8459.49,
       "DESLOCAMENTO": 542527.34,
       "DIVULGACAO": 144484.39,
-      "ESCRITORIO": 452708.13,
+      "ESCRITORIO": 453011.21,
       "HOSPEDAGEM": 37492.63,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 22925.6,
-      "COMBUSTIVEL": 125581.45,
+      "COMBUSTIVEL": 126922.76,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 8459.49,
       "DESLOCAMENTO": 586985.82,
       "DIVULGACAO": 144484.39,
-      "ESCRITORIO": 452708.13,
+      "ESCRITORIO": 453011.21,
       "HOSPEDAGEM": 37492.63,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 436348.11,
     "2024": 486091.19,
-    "2025": 411739.73
+    "2025": 411739.73,
+    "2026": 1644.39
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 34294.74,
     "2025-10": 35390.79,
     "2025-11": 0.0,
-    "2025-12": 0.0
+    "2025-12": 0.0,
+    "2026-01": 0.0,
+    "2026-02": 350.0,
+    "2026-03": 1294.39
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 542527.34,
-    "percent": 40.66
+    "percent": 40.61
   }
 }

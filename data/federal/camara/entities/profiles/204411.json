@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204411,
-    "generatedAt": "2026-03-17T09:12:39.081349Z",
+    "generatedAt": "2026-03-17T09:48:46.431407Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "filipe-barros"
   },
   "mandateTotals": {
-    "amountNet": 1532329.75,
-    "amountGross": 1552459.62,
+    "amountNet": 1585401.04,
+    "amountGross": 1605530.91,
     "amountAdjustments": -20129.87,
-    "recordsCount": 1651,
+    "recordsCount": 1706,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 66447.55,
+      "COMBUSTIVEL": 69181.45,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 19925.02,
-      "DESLOCAMENTO": 638169.3,
+      "CORREIOS_TELEFONIA": 21297.02,
+      "DESLOCAMENTO": 642463.59,
       "DIVULGACAO": 126602.71,
-      "ESCRITORIO": 502390.3,
-      "HOSPEDAGEM": 178794.87,
+      "ESCRITORIO": 527514.67,
+      "HOSPEDAGEM": 198341.6,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 66447.55,
+      "COMBUSTIVEL": 69181.45,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 19925.02,
-      "DESLOCAMENTO": 658299.17,
+      "CORREIOS_TELEFONIA": 21297.02,
+      "DESLOCAMENTO": 662593.46,
       "DIVULGACAO": 126602.71,
-      "ESCRITORIO": 502390.3,
-      "HOSPEDAGEM": 178794.87,
+      "ESCRITORIO": 527514.67,
+      "HOSPEDAGEM": 198341.6,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 538816.03,
     "2024": 482454.54,
-    "2025": 511059.18
+    "2025": 511059.18,
+    "2026": 53071.29
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 40384.85,
     "2025-10": 76278.41,
     "2025-11": 36310.85,
-    "2025-12": 27632.0
+    "2025-12": 27632.0,
+    "2026-01": 17532.04,
+    "2026-02": 29630.96,
+    "2026-03": 5908.29
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 638169.3,
-    "percent": 41.65
+    "amountNet": 642463.59,
+    "percent": 40.52
   }
 }

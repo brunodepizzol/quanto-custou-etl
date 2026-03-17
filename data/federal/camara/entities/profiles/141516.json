@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141516,
-    "generatedAt": "2026-03-17T09:12:39.047318Z",
+    "generatedAt": "2026-03-17T09:48:46.382996Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "paulo-abi-ackel"
   },
   "mandateTotals": {
-    "amountNet": 1314113.8,
-    "amountGross": 1489771.31,
+    "amountNet": 1338957.94,
+    "amountGross": 1514615.45,
     "amountAdjustments": -175657.51,
-    "recordsCount": 2074,
+    "recordsCount": 2131,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 209634.97,
+      "COMBUSTIVEL": 220397.82,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 33449.04,
-      "DESLOCAMENTO": 687114.17,
+      "CORREIOS_TELEFONIA": 33796.68,
+      "DESLOCAMENTO": 696660.53,
       "DIVULGACAO": 203713.5,
-      "ESCRITORIO": 144859.83,
-      "HOSPEDAGEM": 35342.29,
+      "ESCRITORIO": 148705.12,
+      "HOSPEDAGEM": 35684.29,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 209634.97,
+      "COMBUSTIVEL": 220397.82,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 33449.04,
-      "DESLOCAMENTO": 862771.68,
+      "CORREIOS_TELEFONIA": 33796.68,
+      "DESLOCAMENTO": 872318.04,
       "DIVULGACAO": 203713.5,
-      "ESCRITORIO": 144859.83,
-      "HOSPEDAGEM": 35342.29,
+      "ESCRITORIO": 148705.12,
+      "HOSPEDAGEM": 35684.29,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 343264.22,
     "2024": 500393.64,
-    "2025": 470455.94
+    "2025": 470455.94,
+    "2026": 24844.14
   },
   "monthTotals": {
     "2023-01": 6205.08,
@@ -94,11 +95,14 @@
     "2025-09": 33062.6,
     "2025-10": 47873.15,
     "2025-11": 29446.02,
-    "2025-12": 59052.3
+    "2025-12": 59052.3,
+    "2026-01": 11210.39,
+    "2026-02": 10956.41,
+    "2026-03": 2677.34
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 687114.17,
-    "percent": 52.29
+    "amountNet": 696660.53,
+    "percent": 52.03
   }
 }

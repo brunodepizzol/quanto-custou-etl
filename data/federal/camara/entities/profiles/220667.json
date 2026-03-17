@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220667,
-    "generatedAt": "2026-03-17T09:12:39.128246Z",
+    "generatedAt": "2026-03-17T09:48:46.498389Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "pedro-campos"
   },
   "mandateTotals": {
-    "amountNet": 1544961.47,
-    "amountGross": 1646204.79,
+    "amountNet": 1603263.54,
+    "amountGross": 1704506.86,
     "amountAdjustments": -101243.32,
-    "recordsCount": 1781,
+    "recordsCount": 1846,
     "byCategoryNet": {
       "ALIMENTACAO": 1651.03,
-      "COMBUSTIVEL": 124701.82,
+      "COMBUSTIVEL": 131141.21,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2079.95,
-      "DESLOCAMENTO": 808309.57,
-      "DIVULGACAO": 293383.2,
-      "ESCRITORIO": 267100.93,
-      "HOSPEDAGEM": 47734.97,
+      "DESLOCAMENTO": 824327.98,
+      "DIVULGACAO": 312383.2,
+      "ESCRITORIO": 282320.2,
+      "HOSPEDAGEM": 49359.97,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1651.03,
-      "COMBUSTIVEL": 124701.82,
+      "COMBUSTIVEL": 131141.21,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2079.95,
-      "DESLOCAMENTO": 909552.89,
-      "DIVULGACAO": 293383.2,
-      "ESCRITORIO": 267100.93,
-      "HOSPEDAGEM": 47734.97,
+      "DESLOCAMENTO": 925571.3,
+      "DIVULGACAO": 312383.2,
+      "ESCRITORIO": 282320.2,
+      "HOSPEDAGEM": 49359.97,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 416436.63,
     "2024": 550990.81,
-    "2025": 577534.03
+    "2025": 577534.03,
+    "2026": 58302.07
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 35598.33,
     "2025-10": 53810.77,
     "2025-11": 39963.91,
-    "2025-12": 29316.11
+    "2025-12": 29316.11,
+    "2026-01": 32050.65,
+    "2026-02": 23113.88,
+    "2026-03": 3137.54
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 808309.57,
-    "percent": 52.32
+    "amountNet": 824327.98,
+    "percent": 51.42
   }
 }

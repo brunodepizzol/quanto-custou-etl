@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220700,
-    "generatedAt": "2026-03-17T09:12:39.134926Z",
+    "generatedAt": "2026-03-17T09:48:46.507777Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "florentino-neto"
   },
   "mandateTotals": {
-    "amountNet": 1513788.4,
-    "amountGross": 1542539.6,
+    "amountNet": 1539210.51,
+    "amountGross": 1567961.71,
     "amountAdjustments": -28751.2,
-    "recordsCount": 558,
+    "recordsCount": 566,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 45329.84,
+      "COMBUSTIVEL": 61904.8,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2573.24,
-      "DESLOCAMENTO": 873075.68,
-      "DIVULGACAO": 418100.0,
-      "ESCRITORIO": 174020.84,
+      "DESLOCAMENTO": 875276.52,
+      "DIVULGACAO": 424100.0,
+      "ESCRITORIO": 174667.15,
       "HOSPEDAGEM": 688.8,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 45329.84,
+      "COMBUSTIVEL": 61904.8,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2573.24,
-      "DESLOCAMENTO": 901826.88,
-      "DIVULGACAO": 418100.0,
-      "ESCRITORIO": 174020.84,
+      "DESLOCAMENTO": 904027.72,
+      "DIVULGACAO": 424100.0,
+      "ESCRITORIO": 174667.15,
       "HOSPEDAGEM": 688.8,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 508531.67,
     "2024": 468693.95,
-    "2025": 536562.78
+    "2025": 536562.78,
+    "2026": 25422.11
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 48674.35,
     "2025-10": 22034.4,
     "2025-11": 33665.97,
-    "2025-12": 46782.23
+    "2025-12": 46782.23,
+    "2026-01": 13698.88,
+    "2026-02": 11723.23,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 873075.68,
-    "percent": 57.67
+    "amountNet": 875276.52,
+    "percent": 56.87
   }
 }

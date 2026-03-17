@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204416,
-    "generatedAt": "2026-03-17T09:12:39.081805Z",
+    "generatedAt": "2026-03-17T09:48:46.432054Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "sanderson"
   },
   "mandateTotals": {
-    "amountNet": 1660455.85,
-    "amountGross": 1701591.88,
+    "amountNet": 1696811.8,
+    "amountGross": 1737947.83,
     "amountAdjustments": -41136.03,
-    "recordsCount": 1957,
+    "recordsCount": 2032,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 195813.58,
+      "COMBUSTIVEL": 210153.36,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 8692.2,
-      "DESLOCAMENTO": 687949.36,
-      "DIVULGACAO": 542250.06,
-      "ESCRITORIO": 97777.19,
-      "HOSPEDAGEM": 127973.46,
+      "DESLOCAMENTO": 701211.13,
+      "DIVULGACAO": 547750.06,
+      "ESCRITORIO": 98776.59,
+      "HOSPEDAGEM": 130228.46,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 195813.58,
+      "COMBUSTIVEL": 210153.36,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 8692.2,
-      "DESLOCAMENTO": 729085.39,
-      "DIVULGACAO": 542250.06,
-      "ESCRITORIO": 97777.19,
-      "HOSPEDAGEM": 127973.46,
+      "DESLOCAMENTO": 742347.16,
+      "DIVULGACAO": 547750.06,
+      "ESCRITORIO": 98776.59,
+      "HOSPEDAGEM": 130228.46,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 547854.7,
     "2024": 553940.2,
-    "2025": 558660.95
+    "2025": 558660.95,
+    "2026": 36355.95
   },
   "monthTotals": {
     "2023-01": 15849.29,
@@ -94,11 +95,14 @@
     "2025-09": 55891.47,
     "2025-10": 56879.9,
     "2025-11": 49159.96,
-    "2025-12": 34427.13
+    "2025-12": 34427.13,
+    "2026-01": 14428.65,
+    "2026-02": 19201.8,
+    "2026-03": 2725.5
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 687949.36,
-    "percent": 41.43
+    "amountNet": 701211.13,
+    "percent": 41.33
   }
 }

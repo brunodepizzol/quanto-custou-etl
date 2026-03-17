@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220655,
-    "generatedAt": "2026-03-17T09:12:39.126166Z",
+    "generatedAt": "2026-03-17T09:48:46.495307Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "mario-frias"
   },
   "mandateTotals": {
-    "amountNet": 1383889.55,
-    "amountGross": 1443783.69,
-    "amountAdjustments": -59894.14,
-    "recordsCount": 1053,
+    "amountNet": 1444045.01,
+    "amountGross": 1506154.69,
+    "amountAdjustments": -62109.68,
+    "recordsCount": 1084,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 135905.33,
+      "COMBUSTIVEL": 141068.78,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 385337.57,
-      "DIVULGACAO": 404743.91,
-      "ESCRITORIO": 430854.08,
-      "HOSPEDAGEM": 27048.66,
+      "DESLOCAMENTO": 388931.03,
+      "DIVULGACAO": 424743.91,
+      "ESCRITORIO": 461615.08,
+      "HOSPEDAGEM": 27686.21,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 135905.33,
+      "COMBUSTIVEL": 141068.78,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 445231.71,
-      "DIVULGACAO": 404743.91,
-      "ESCRITORIO": 430854.08,
-      "HOSPEDAGEM": 27048.66,
+      "DESLOCAMENTO": 451040.71,
+      "DIVULGACAO": 424743.91,
+      "ESCRITORIO": 461615.08,
+      "HOSPEDAGEM": 27686.21,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -59894.14,
+      "DESLOCAMENTO": -62109.68,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 449805.49,
     "2024": 464745.19,
-    "2025": 469338.87
+    "2025": 469338.87,
+    "2026": 60155.46
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 34847.35,
     "2025-10": 36697.06,
     "2025-11": 33357.76,
-    "2025-12": 31767.73
+    "2025-12": 31767.73,
+    "2026-01": 30936.52,
+    "2026-02": 28106.93,
+    "2026-03": 1112.01
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 430854.08,
-    "percent": 31.13
+    "amountNet": 461615.08,
+    "percent": 31.97
   }
 }

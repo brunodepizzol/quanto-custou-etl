@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204570,
-    "generatedAt": "2026-03-17T09:12:39.097361Z",
+    "generatedAt": "2026-03-17T09:48:46.454248Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "pastor-gil"
   },
   "mandateTotals": {
-    "amountNet": 1362772.61,
-    "amountGross": 1483218.17,
+    "amountNet": 1424438.34,
+    "amountGross": 1544883.9,
     "amountAdjustments": -120445.56,
-    "recordsCount": 722,
+    "recordsCount": 748,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 77527.94,
+      "COMBUSTIVEL": 82693.67,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5422.52,
-      "DESLOCAMENTO": 182287.65,
-      "DIVULGACAO": 1094830.0,
+      "DESLOCAMENTO": 195287.65,
+      "DIVULGACAO": 1138330.0,
       "ESCRITORIO": 2704.5,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 77527.94,
+      "COMBUSTIVEL": 82693.67,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5422.52,
-      "DESLOCAMENTO": 302733.21,
-      "DIVULGACAO": 1094830.0,
+      "DESLOCAMENTO": 315733.21,
+      "DIVULGACAO": 1138330.0,
       "ESCRITORIO": 2704.5,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 523154.53,
     "2024": 382799.12,
-    "2025": 456818.96
+    "2025": 456818.96,
+    "2026": 61665.73
   },
   "monthTotals": {
     "2023-01": 18768.66,
@@ -94,11 +95,14 @@
     "2025-09": 33297.28,
     "2025-10": 46645.36,
     "2025-11": 49480.13,
-    "2025-12": 98237.37
+    "2025-12": 98237.37,
+    "2026-01": 46245.56,
+    "2026-02": 15420.17,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 1094830.0,
-    "percent": 80.34
+    "amountNet": 1138330.0,
+    "percent": 79.91
   }
 }

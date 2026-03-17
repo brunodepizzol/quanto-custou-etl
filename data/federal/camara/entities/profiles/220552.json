@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220552,
-    "generatedAt": "2026-03-17T09:12:39.106323Z",
+    "generatedAt": "2026-03-17T09:48:46.466939Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "zucco"
   },
   "mandateTotals": {
-    "amountNet": 1149061.93,
-    "amountGross": 1270845.16,
+    "amountNet": 1186558.68,
+    "amountGross": 1308341.91,
     "amountAdjustments": -121783.23,
-    "recordsCount": 1473,
+    "recordsCount": 1522,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 135096.67,
+      "COMBUSTIVEL": 141112.57,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 562556.61,
-      "DIVULGACAO": 165523.0,
-      "ESCRITORIO": 278238.69,
+      "DESLOCAMENTO": 569443.51,
+      "DIVULGACAO": 170523.0,
+      "ESCRITORIO": 297832.64,
       "HOSPEDAGEM": 7646.96,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 135096.67,
+      "COMBUSTIVEL": 141112.57,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 684339.84,
-      "DIVULGACAO": 165523.0,
-      "ESCRITORIO": 278238.69,
+      "DESLOCAMENTO": 691226.74,
+      "DIVULGACAO": 170523.0,
+      "ESCRITORIO": 297832.64,
       "HOSPEDAGEM": 7646.96,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 278089.53,
     "2024": 408741.08,
-    "2025": 462231.32
+    "2025": 462231.32,
+    "2026": 37496.75
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 30631.82,
     "2025-10": 29599.05,
     "2025-11": 22452.2,
-    "2025-12": 25280.16
+    "2025-12": 25280.16,
+    "2026-01": 16592.62,
+    "2026-02": 16293.91,
+    "2026-03": 4610.22
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 562556.61,
-    "percent": 48.96
+    "amountNet": 569443.51,
+    "percent": 47.99
   }
 }

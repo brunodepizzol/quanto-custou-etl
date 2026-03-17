@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220545,
-    "generatedAt": "2026-03-17T09:12:39.104694Z",
+    "generatedAt": "2026-03-17T09:48:46.464644Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "filipe-martins"
   },
   "mandateTotals": {
-    "amountNet": 1553786.03,
-    "amountGross": 1606508.12,
+    "amountNet": 1601500.72,
+    "amountGross": 1654222.81,
     "amountAdjustments": -52722.09,
-    "recordsCount": 907,
+    "recordsCount": 968,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 136201.67,
+      "COMBUSTIVEL": 152444.7,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1590.61,
-      "DESLOCAMENTO": 395063.95,
-      "DIVULGACAO": 718589.17,
-      "ESCRITORIO": 282967.42,
-      "HOSPEDAGEM": 19373.21,
+      "DESLOCAMENTO": 407544.39,
+      "DIVULGACAO": 722089.17,
+      "ESCRITORIO": 298040.64,
+      "HOSPEDAGEM": 19791.21,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 136201.67,
+      "COMBUSTIVEL": 152444.7,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1590.61,
-      "DESLOCAMENTO": 447786.04,
-      "DIVULGACAO": 718589.17,
-      "ESCRITORIO": 282967.42,
-      "HOSPEDAGEM": 19373.21,
+      "DESLOCAMENTO": 460266.48,
+      "DIVULGACAO": 722089.17,
+      "ESCRITORIO": 298040.64,
+      "HOSPEDAGEM": 19791.21,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 514672.64,
     "2024": 509465.1,
-    "2025": 529648.29
+    "2025": 529648.29,
+    "2026": 47714.69
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 34749.22,
     "2025-10": 60117.77,
     "2025-11": 57851.85,
-    "2025-12": 40885.15
+    "2025-12": 40885.15,
+    "2026-01": 32502.37,
+    "2026-02": 15212.32,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 718589.17,
-    "percent": 46.25
+    "amountNet": 722089.17,
+    "percent": 45.09
   }
 }

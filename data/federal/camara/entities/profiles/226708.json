@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 226708,
-    "generatedAt": "2026-03-17T09:12:39.140353Z",
+    "generatedAt": "2026-03-17T09:48:46.515446Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "allan-garcês"
   },
   "mandateTotals": {
-    "amountNet": 1208622.26,
-    "amountGross": 1256422.91,
+    "amountNet": 1292380.92,
+    "amountGross": 1340181.57,
     "amountAdjustments": -47800.65,
-    "recordsCount": 817,
+    "recordsCount": 863,
     "byCategoryNet": {
       "ALIMENTACAO": 2536.93,
-      "COMBUSTIVEL": 74498.46,
+      "COMBUSTIVEL": 80019.18,
       "CONSULTORIA_SERVICOS": 597.0,
       "CORREIOS_TELEFONIA": 3841.84,
-      "DESLOCAMENTO": 351569.05,
-      "DIVULGACAO": 710091.88,
-      "ESCRITORIO": 34039.88,
-      "HOSPEDAGEM": 31447.22,
+      "DESLOCAMENTO": 371569.05,
+      "DIVULGACAO": 759945.71,
+      "ESCRITORIO": 40039.88,
+      "HOSPEDAGEM": 33831.33,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 2536.93,
-      "COMBUSTIVEL": 74498.46,
+      "COMBUSTIVEL": 80019.18,
       "CONSULTORIA_SERVICOS": 597.0,
       "CORREIOS_TELEFONIA": 3841.84,
-      "DESLOCAMENTO": 399369.7,
-      "DIVULGACAO": 710091.88,
-      "ESCRITORIO": 34039.88,
-      "HOSPEDAGEM": 31447.22,
+      "DESLOCAMENTO": 419369.7,
+      "DIVULGACAO": 759945.71,
+      "ESCRITORIO": 40039.88,
+      "HOSPEDAGEM": 33831.33,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 170192.68,
     "2024": 524912.94,
-    "2025": 513516.64
+    "2025": 513516.64,
+    "2026": 83758.66
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 50973.18,
     "2025-10": 47048.0,
     "2025-11": 36488.61,
-    "2025-12": 12043.36
+    "2025-12": 12043.36,
+    "2026-01": 39844.21,
+    "2026-02": 43552.08,
+    "2026-03": 362.37
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 710091.88,
-    "percent": 58.75
+    "amountNet": 759945.71,
+    "percent": 58.8
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204474,
-    "generatedAt": "2026-03-17T09:12:39.087234Z",
+    "generatedAt": "2026-03-17T09:48:46.439771Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "juarez-costa"
   },
   "mandateTotals": {
-    "amountNet": 1145695.36,
-    "amountGross": 1155252.4,
+    "amountNet": 1218858.62,
+    "amountGross": 1228415.66,
     "amountAdjustments": -9557.04,
-    "recordsCount": 760,
+    "recordsCount": 785,
     "byCategoryNet": {
       "ALIMENTACAO": 1657.09,
-      "COMBUSTIVEL": 76568.19,
+      "COMBUSTIVEL": 80003.55,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5482.4,
-      "DESLOCAMENTO": 408613.49,
-      "DIVULGACAO": 517669.4,
-      "ESCRITORIO": 108731.66,
-      "HOSPEDAGEM": 26973.13,
+      "DESLOCAMENTO": 430613.49,
+      "DIVULGACAO": 555169.4,
+      "ESCRITORIO": 117624.76,
+      "HOSPEDAGEM": 28307.93,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1657.09,
-      "COMBUSTIVEL": 76568.19,
+      "COMBUSTIVEL": 80003.55,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5482.4,
-      "DESLOCAMENTO": 418170.53,
-      "DIVULGACAO": 517669.4,
-      "ESCRITORIO": 108731.66,
-      "HOSPEDAGEM": 26973.13,
+      "DESLOCAMENTO": 440170.53,
+      "DIVULGACAO": 555169.4,
+      "ESCRITORIO": 117624.76,
+      "HOSPEDAGEM": 28307.93,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 341282.81,
     "2024": 288606.96,
-    "2025": 515805.59
+    "2025": 515805.59,
+    "2026": 73163.26
   },
   "monthTotals": {
     "2023-01": 23861.25,
@@ -94,11 +95,14 @@
     "2025-09": 42485.76,
     "2025-10": 45807.56,
     "2025-11": 42814.78,
-    "2025-12": 39425.52
+    "2025-12": 39425.52,
+    "2026-01": 33559.82,
+    "2026-02": 38030.2,
+    "2026-03": 1573.24
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 517669.4,
-    "percent": 45.18
+    "amountNet": 555169.4,
+    "percent": 45.55
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74585,
-    "generatedAt": "2026-03-17T09:12:39.036175Z",
+    "generatedAt": "2026-03-17T09:48:46.367178Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "lincoln-portela"
   },
   "mandateTotals": {
-    "amountNet": 1454569.37,
-    "amountGross": 1459767.73,
+    "amountNet": 1518841.92,
+    "amountGross": 1524040.28,
     "amountAdjustments": -5198.36,
-    "recordsCount": 1533,
+    "recordsCount": 1576,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 96958.37,
+      "COMBUSTIVEL": 98117.65,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 6466.03,
-      "DESLOCAMENTO": 607949.14,
+      "CORREIOS_TELEFONIA": 6724.03,
+      "DESLOCAMENTO": 645732.49,
       "DIVULGACAO": 310801.69,
-      "ESCRITORIO": 423065.1,
-      "HOSPEDAGEM": 9329.04,
+      "ESCRITORIO": 446861.02,
+      "HOSPEDAGEM": 10605.04,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 96958.37,
+      "COMBUSTIVEL": 98117.65,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 6466.03,
-      "DESLOCAMENTO": 613147.5,
+      "CORREIOS_TELEFONIA": 6724.03,
+      "DESLOCAMENTO": 650930.85,
       "DIVULGACAO": 310801.69,
-      "ESCRITORIO": 423065.1,
-      "HOSPEDAGEM": 9329.04,
+      "ESCRITORIO": 446861.02,
+      "HOSPEDAGEM": 10605.04,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 454335.58,
     "2024": 501801.06,
-    "2025": 498432.73
+    "2025": 498432.73,
+    "2026": 64272.55
   },
   "monthTotals": {
     "2023-01": 573.67,
@@ -94,11 +95,14 @@
     "2025-09": 39009.1,
     "2025-10": 60551.06,
     "2025-11": 32233.09,
-    "2025-12": 28475.95
+    "2025-12": 28475.95,
+    "2026-01": 28940.61,
+    "2026-02": 35331.94,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 607949.14,
-    "percent": 41.8
+    "amountNet": 645732.49,
+    "percent": 42.51
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204369,
-    "generatedAt": "2026-03-17T09:12:39.076781Z",
+    "generatedAt": "2026-03-17T09:48:46.425126Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "caroline-de-toni"
   },
   "mandateTotals": {
-    "amountNet": 663401.75,
-    "amountGross": 729670.76,
+    "amountNet": 675036.3,
+    "amountGross": 741305.31,
     "amountAdjustments": -66269.01,
-    "recordsCount": 994,
+    "recordsCount": 1017,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 68457.64,
+      "COMBUSTIVEL": 72408.93,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 3274.15,
-      "DESLOCAMENTO": 486075.99,
-      "DIVULGACAO": 56421.87,
-      "ESCRITORIO": 10192.1,
-      "HOSPEDAGEM": 38980.0,
+      "CORREIOS_TELEFONIA": 3411.41,
+      "DESLOCAMENTO": 487790.62,
+      "DIVULGACAO": 59116.24,
+      "ESCRITORIO": 12931.1,
+      "HOSPEDAGEM": 39378.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 68457.64,
+      "COMBUSTIVEL": 72408.93,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 3274.15,
-      "DESLOCAMENTO": 552345.0,
-      "DIVULGACAO": 56421.87,
-      "ESCRITORIO": 10192.1,
-      "HOSPEDAGEM": 38980.0,
+      "CORREIOS_TELEFONIA": 3411.41,
+      "DESLOCAMENTO": 554059.63,
+      "DIVULGACAO": 59116.24,
+      "ESCRITORIO": 12931.1,
+      "HOSPEDAGEM": 39378.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 134216.78,
     "2024": 184532.38,
-    "2025": 344652.59
+    "2025": 344652.59,
+    "2026": 11634.55
   },
   "monthTotals": {
     "2023-01": 54.99,
@@ -94,11 +95,14 @@
     "2025-09": 31835.82,
     "2025-10": 22379.3,
     "2025-11": 11010.22,
-    "2025-12": 19083.78
+    "2025-12": 19083.78,
+    "2026-01": 7156.89,
+    "2026-02": 3464.66,
+    "2026-03": 1013.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 486075.99,
-    "percent": 73.27
+    "amountNet": 487790.62,
+    "percent": 72.26
   }
 }

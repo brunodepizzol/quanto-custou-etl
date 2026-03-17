@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 80815,
-    "generatedAt": "2026-03-17T09:12:39.037781Z",
+    "generatedAt": "2026-03-17T09:48:46.369420Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "leo-prates"
   },
   "mandateTotals": {
-    "amountNet": 1540138.0,
-    "amountGross": 1639344.77,
-    "amountAdjustments": -99206.77,
-    "recordsCount": 1042,
+    "amountNet": 1616214.47,
+    "amountGross": 1723081.92,
+    "amountAdjustments": -106867.45,
+    "recordsCount": 1089,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 100034.5,
+      "COMBUSTIVEL": 106608.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 589076.56,
-      "DIVULGACAO": 543322.0,
-      "ESCRITORIO": 307425.45,
+      "DESLOCAMENTO": 609089.63,
+      "DIVULGACAO": 575322.0,
+      "ESCRITORIO": 324914.72,
       "HOSPEDAGEM": 279.49,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 100034.5,
+      "COMBUSTIVEL": 106608.63,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 688283.33,
-      "DIVULGACAO": 543322.0,
-      "ESCRITORIO": 307425.45,
+      "DESLOCAMENTO": 715957.08,
+      "DIVULGACAO": 575322.0,
+      "ESCRITORIO": 324914.72,
       "HOSPEDAGEM": 279.49,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -99206.77,
+      "DESLOCAMENTO": -106867.45,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 498592.69,
     "2024": 518119.11,
-    "2025": 523426.2
+    "2025": 523426.2,
+    "2026": 76076.47
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 49105.98,
     "2025-10": 44453.02,
     "2025-11": 50294.57,
-    "2025-12": 41743.97
+    "2025-12": 41743.97,
+    "2026-01": 34072.55,
+    "2026-02": 38553.32,
+    "2026-03": 3450.6
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 589076.56,
-    "percent": 38.25
+    "amountNet": 609089.63,
+    "percent": 37.69
   }
 }

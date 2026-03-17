@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74374,
-    "generatedAt": "2026-03-17T09:12:39.033081Z",
+    "generatedAt": "2026-03-17T09:48:46.363058Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "geraldo-resende"
   },
   "mandateTotals": {
-    "amountNet": 1670081.15,
-    "amountGross": 1697135.89,
+    "amountNet": 1761784.24,
+    "amountGross": 1788838.98,
     "amountAdjustments": -27054.74,
-    "recordsCount": 551,
+    "recordsCount": 579,
     "byCategoryNet": {
       "ALIMENTACAO": 1789.33,
-      "COMBUSTIVEL": 222727.35,
+      "COMBUSTIVEL": 233624.12,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1488.08,
-      "DESLOCAMENTO": 333881.78,
-      "DIVULGACAO": 881064.26,
-      "ESCRITORIO": 228583.95,
-      "HOSPEDAGEM": 546.4,
+      "DESLOCAMENTO": 340681.78,
+      "DIVULGACAO": 932569.26,
+      "ESCRITORIO": 250005.27,
+      "HOSPEDAGEM": 1626.4,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1789.33,
-      "COMBUSTIVEL": 222727.35,
+      "COMBUSTIVEL": 233624.12,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1488.08,
-      "DESLOCAMENTO": 360936.52,
-      "DIVULGACAO": 881064.26,
-      "ESCRITORIO": 228583.95,
-      "HOSPEDAGEM": 546.4,
+      "DESLOCAMENTO": 367736.52,
+      "DIVULGACAO": 932569.26,
+      "ESCRITORIO": 250005.27,
+      "HOSPEDAGEM": 1626.4,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 524343.8,
     "2024": 574031.55,
-    "2025": 571705.8
+    "2025": 571705.8,
+    "2026": 91703.09
   },
   "monthTotals": {
     "2023-01": 1716.46,
@@ -94,11 +95,14 @@
     "2025-09": 49049.45,
     "2025-10": 39318.46,
     "2025-11": 41731.73,
-    "2025-12": 12.59
+    "2025-12": 12.59,
+    "2026-01": 44328.72,
+    "2026-02": 46656.37,
+    "2026-03": 718.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 881064.26,
-    "percent": 52.76
+    "amountNet": 932569.26,
+    "percent": 52.93
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 143084,
-    "generatedAt": "2026-03-17T09:12:39.048480Z",
+    "generatedAt": "2026-03-17T09:48:46.384664Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "tiago-dimas"
   },
   "mandateTotals": {
-    "amountNet": 187929.45,
-    "amountGross": 220236.27,
+    "amountNet": 224793.43,
+    "amountGross": 257100.25,
     "amountAdjustments": -32306.82,
-    "recordsCount": 225,
+    "recordsCount": 298,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 30903.31,
+      "COMBUSTIVEL": 47212.03,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 2463.24,
+      "CORREIOS_TELEFONIA": 2712.0,
       "DESLOCAMENTO": -5070.52,
-      "DIVULGACAO": 136049.92,
-      "ESCRITORIO": 3922.1,
-      "HOSPEDAGEM": 19661.4,
+      "DIVULGACAO": 153549.92,
+      "ESCRITORIO": 4461.6,
+      "HOSPEDAGEM": 21928.4,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 30903.31,
+      "COMBUSTIVEL": 47212.03,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 2463.24,
+      "CORREIOS_TELEFONIA": 2712.0,
       "DESLOCAMENTO": 27236.3,
-      "DIVULGACAO": 136049.92,
-      "ESCRITORIO": 3922.1,
-      "HOSPEDAGEM": 19661.4,
+      "DIVULGACAO": 153549.92,
+      "ESCRITORIO": 4461.6,
+      "HOSPEDAGEM": 21928.4,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 0.0,
     "2024": 0.0,
-    "2025": 187929.45
+    "2025": 187929.45,
+    "2026": 36863.98
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 26528.07,
     "2025-10": 54322.27,
     "2025-11": 53907.1,
-    "2025-12": 45036.24
+    "2025-12": 45036.24,
+    "2026-01": 13234.53,
+    "2026-02": 21155.37,
+    "2026-03": 2474.08
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 136049.92,
-    "percent": 72.39
+    "amountNet": 153549.92,
+    "percent": 68.31
   }
 }

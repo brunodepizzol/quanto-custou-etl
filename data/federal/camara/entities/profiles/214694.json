@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 214694,
-    "generatedAt": "2026-03-17T09:12:39.100210Z",
+    "generatedAt": "2026-03-17T09:48:46.458314Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "jorge-goetten"
   },
   "mandateTotals": {
-    "amountNet": 1291597.35,
-    "amountGross": 1362861.01,
+    "amountNet": 1361934.17,
+    "amountGross": 1433197.83,
     "amountAdjustments": -71263.66,
-    "recordsCount": 1297,
+    "recordsCount": 1357,
     "byCategoryNet": {
       "ALIMENTACAO": 642.32,
-      "COMBUSTIVEL": 195005.88,
+      "COMBUSTIVEL": 207047.22,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1281.63,
-      "DESLOCAMENTO": 500712.18,
-      "DIVULGACAO": 328983.66,
-      "ESCRITORIO": 239938.25,
-      "HOSPEDAGEM": 25033.43,
+      "DESLOCAMENTO": 513312.18,
+      "DIVULGACAO": 353983.66,
+      "ESCRITORIO": 259603.73,
+      "HOSPEDAGEM": 26063.43,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 642.32,
-      "COMBUSTIVEL": 195005.88,
+      "COMBUSTIVEL": 207047.22,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1281.63,
-      "DESLOCAMENTO": 571975.84,
-      "DIVULGACAO": 328983.66,
-      "ESCRITORIO": 239938.25,
-      "HOSPEDAGEM": 25033.43,
+      "DESLOCAMENTO": 584575.84,
+      "DIVULGACAO": 353983.66,
+      "ESCRITORIO": 259603.73,
+      "HOSPEDAGEM": 26063.43,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 464944.61,
     "2024": 491194.11,
-    "2025": 335458.63
+    "2025": 335458.63,
+    "2026": 70336.82
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 57171.85,
     "2025-10": 42108.97,
     "2025-11": 59432.77,
-    "2025-12": 36645.19
+    "2025-12": 36645.19,
+    "2026-01": 34828.21,
+    "2026-02": 33585.47,
+    "2026-03": 1923.14
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 500712.18,
-    "percent": 38.77
+    "amountNet": 513312.18,
+    "percent": 37.69
   }
 }

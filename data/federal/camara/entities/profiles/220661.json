@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220661,
-    "generatedAt": "2026-03-17T09:12:39.126873Z",
+    "generatedAt": "2026-03-17T09:48:46.496337Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,17 +15,17 @@
     "slug": "matheus-noronha"
   },
   "mandateTotals": {
-    "amountNet": 1396036.11,
-    "amountGross": 1450657.5,
+    "amountNet": 1445508.03,
+    "amountGross": 1500129.42,
     "amountAdjustments": -54621.39,
-    "recordsCount": 739,
+    "recordsCount": 754,
     "byCategoryNet": {
       "ALIMENTACAO": 463.6,
       "COMBUSTIVEL": 138845.58,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 397.32,
-      "DESLOCAMENTO": 588731.76,
-      "DIVULGACAO": 577697.1,
+      "DESLOCAMENTO": 592353.68,
+      "DIVULGACAO": 623547.1,
       "ESCRITORIO": 70268.28,
       "HOSPEDAGEM": 19632.47,
       "OUTROS": 0.0
@@ -35,8 +35,8 @@
       "COMBUSTIVEL": 138845.58,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 397.32,
-      "DESLOCAMENTO": 643353.15,
-      "DIVULGACAO": 577697.1,
+      "DESLOCAMENTO": 646975.07,
+      "DIVULGACAO": 623547.1,
       "ESCRITORIO": 70268.28,
       "HOSPEDAGEM": 19632.47,
       "OUTROS": 0.0
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 299121.74,
     "2024": 571773.19,
-    "2025": 525141.18
+    "2025": 525141.18,
+    "2026": 49471.92
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 39401.04,
     "2025-10": 58127.87,
     "2025-11": 19361.92,
-    "2025-12": 22323.55
+    "2025-12": 22323.55,
+    "2026-01": 26971.92,
+    "2026-02": 22500.0,
+    "2026-03": 0.0
   },
   "topCategory": {
-    "category": "DESLOCAMENTO",
-    "amountNet": 588731.76,
-    "percent": 42.17
+    "category": "DIVULGACAO",
+    "amountNet": 623547.1,
+    "percent": 43.14
   }
 }

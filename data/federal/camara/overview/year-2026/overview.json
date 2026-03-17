@@ -3,76 +3,76 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "year-2026",
-    "generatedAt": "2026-03-17T05:08:50.965923Z",
+    "generatedAt": "2026-03-17T09:48:45.607941Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 1298183.7,
-    "amountGross": 1298183.7,
-    "amountAdjustments": 0.0,
-    "recordsCount": 2663,
+    "amountNet": 31003579.23,
+    "amountGross": 31062752.5,
+    "amountAdjustments": -59173.27,
+    "recordsCount": 22431,
     "entitiesCount": 513,
-    "entitiesWithSpending": 363,
-    "entitiesWithoutSpending": 150
+    "entitiesWithSpending": 506,
+    "entitiesWithoutSpending": 7
   },
   "highlights": {
     "topSpender": {
-      "id": 160642,
-      "name": "Pastor Eurico",
-      "stateCode": "PE",
-      "party": "PL",
-      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160642.jpg",
-      "amountNet": 74803.74,
-      "amountGross": 74803.74,
+      "id": 74454,
+      "name": "Eunício Oliveira",
+      "stateCode": "CE",
+      "party": "MDB",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74454.jpg",
+      "amountNet": 140213.0,
+      "amountGross": 140213.0,
       "amountAdjustments": 0.0
     },
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 522111.99,
-        "amountGross": 522111.99,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "COMBUSTIVEL",
-        "amountNet": 462013.72,
-        "amountGross": 462013.72,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "ESCRITORIO",
-        "amountNet": 162641.28,
-        "amountGross": 162641.28,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "HOSPEDAGEM",
-        "amountNet": 80762.81,
-        "amountGross": 80762.81,
+        "amountNet": 14435629.36,
+        "amountGross": 14435629.36,
         "amountAdjustments": 0.0
       },
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 51706.63,
-        "amountGross": 51706.63,
+        "amountNet": 7174625.11,
+        "amountGross": 7233798.38,
+        "amountAdjustments": -59173.27
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 5252585.64,
+        "amountGross": 5252585.64,
         "amountAdjustments": 0.0
       },
       {
-        "category": "ALIMENTACAO",
-        "amountNet": 17004.86,
-        "amountGross": 17004.86,
+        "category": "COMBUSTIVEL",
+        "amountNet": 3295282.16,
+        "amountGross": 3295282.16,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 493035.26,
+        "amountGross": 493035.26,
         "amountAdjustments": 0.0
       },
       {
         "category": "CORREIOS_TELEFONIA",
-        "amountNet": 1942.41,
-        "amountGross": 1942.41,
+        "amountNet": 259800.19,
+        "amountGross": 259800.19,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 85621.51,
+        "amountGross": 85621.51,
         "amountAdjustments": 0.0
       },
       {
         "category": "CONSULTORIA_SERVICOS",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
+        "amountNet": 7000.0,
+        "amountGross": 7000.0,
         "amountAdjustments": 0.0
       },
       {
@@ -84,85 +84,85 @@
     ],
     "topStates": [
       {
-        "stateCode": "PR",
-        "amountNet": 168799.71,
-        "amountGross": 168799.71,
-        "amountAdjustments": 0.0
+        "stateCode": "SP",
+        "amountNet": 3885943.13,
+        "amountGross": 3892171.36,
+        "amountAdjustments": -6228.23
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 3048670.49,
+        "amountGross": 3053031.97,
+        "amountAdjustments": -4361.48
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 2465684.48,
+        "amountGross": 2475319.8,
+        "amountAdjustments": -9635.32
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 2416119.34,
+        "amountGross": 2425095.34,
+        "amountAdjustments": -8976.0
       },
       {
         "stateCode": "RS",
-        "amountNet": 140322.35,
-        "amountGross": 140322.35,
+        "amountNet": 2003618.63,
+        "amountGross": 2003618.63,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1987776.93,
+        "amountGross": 1987776.93,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PE",
-        "amountNet": 124494.12,
-        "amountGross": 124494.12,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "MG",
-        "amountNet": 122093.48,
-        "amountGross": 122093.48,
-        "amountAdjustments": 0.0
+        "amountNet": 1687336.42,
+        "amountGross": 1690856.13,
+        "amountAdjustments": -3519.71
       },
       {
         "stateCode": "CE",
-        "amountNet": 102460.17,
-        "amountGross": 102460.17,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "SP",
-        "amountNet": 96503.07,
-        "amountGross": 96503.07,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "RJ",
-        "amountNet": 91922.83,
-        "amountGross": 91922.83,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "SC",
-        "amountNet": 75681.34,
-        "amountGross": 75681.34,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "BA",
-        "amountNet": 57599.23,
-        "amountGross": 57599.23,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "AC",
-        "amountNet": 57200.92,
-        "amountGross": 57200.92,
-        "amountAdjustments": 0.0
+        "amountNet": 1281089.01,
+        "amountGross": 1285019.32,
+        "amountAdjustments": -3930.31
       },
       {
         "stateCode": "GO",
-        "amountNet": 55740.18,
-        "amountGross": 55740.18,
+        "amountNet": 991310.44,
+        "amountGross": 991310.44,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 925046.45,
+        "amountGross": 936204.05,
+        "amountAdjustments": -11157.6
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 900870.17,
+        "amountGross": 900870.17,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PA",
-        "amountNet": 25968.16,
-        "amountGross": 25968.16,
-        "amountAdjustments": 0.0
+        "amountNet": 799546.78,
+        "amountGross": 801738.57,
+        "amountAdjustments": -2191.79
       }
     ],
     "concentrationTop10": {
-      "amountNet": 383996.44,
-      "percent": 29.58
+      "amountNet": 1283669.85,
+      "percent": 4.14
     },
     "averages": {
-      "perEntityWithSpending": 3576.26,
-      "perRecord": 487.49
+      "perEntityWithSpending": 61271.9,
+      "perRecord": 1382.18
     },
     "dailyTotals": {
       "referenceDate": "2026-03-16",
@@ -174,7 +174,7 @@
       "trend7d": [
         {
           "date": "2026-03-10",
-          "amountNet": 105543.42
+          "amountNet": 105843.42
         },
         {
           "date": "2026-03-11",
@@ -182,7 +182,7 @@
         },
         {
           "date": "2026-03-12",
-          "amountNet": 21392.38
+          "amountNet": 21592.38
         },
         {
           "date": "2026-03-13",

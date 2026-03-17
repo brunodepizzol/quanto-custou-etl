@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141391,
-    "generatedAt": "2026-03-17T09:12:39.043915Z",
+    "generatedAt": "2026-03-17T09:48:46.378108Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "arnaldo-jardim"
   },
   "mandateTotals": {
-    "amountNet": 1407001.04,
-    "amountGross": 1424265.93,
+    "amountNet": 1451281.07,
+    "amountGross": 1468545.96,
     "amountAdjustments": -17264.89,
-    "recordsCount": 1655,
+    "recordsCount": 1672,
     "byCategoryNet": {
       "ALIMENTACAO": 731.8,
-      "COMBUSTIVEL": 89946.22,
+      "COMBUSTIVEL": 90346.22,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 21551.52,
-      "DESLOCAMENTO": 349530.29,
-      "DIVULGACAO": 297961.36,
-      "ESCRITORIO": 641994.88,
+      "CORREIOS_TELEFONIA": 21971.52,
+      "DESLOCAMENTO": 351362.73,
+      "DIVULGACAO": 306279.34,
+      "ESCRITORIO": 675304.49,
       "HOSPEDAGEM": 5284.97,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 731.8,
-      "COMBUSTIVEL": 89946.22,
+      "COMBUSTIVEL": 90346.22,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 21551.52,
-      "DESLOCAMENTO": 366795.18,
-      "DIVULGACAO": 297961.36,
-      "ESCRITORIO": 641994.88,
+      "CORREIOS_TELEFONIA": 21971.52,
+      "DESLOCAMENTO": 368627.62,
+      "DIVULGACAO": 306279.34,
+      "ESCRITORIO": 675304.49,
       "HOSPEDAGEM": 5284.97,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 412034.15,
     "2024": 504240.43,
-    "2025": 490726.46
+    "2025": 490726.46,
+    "2026": 44280.03
   },
   "monthTotals": {
     "2023-01": 27664.43,
@@ -94,11 +95,14 @@
     "2025-09": 37527.0,
     "2025-10": 42824.92,
     "2025-11": 25148.94,
-    "2025-12": 8022.27
+    "2025-12": 8022.27,
+    "2026-01": 27766.45,
+    "2026-02": 16313.58,
+    "2026-03": 200.0
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 641994.88,
-    "percent": 45.63
+    "amountNet": 675304.49,
+    "percent": 46.53
   }
 }

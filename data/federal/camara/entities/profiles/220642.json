@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220642,
-    "generatedAt": "2026-03-17T09:12:39.123264Z",
+    "generatedAt": "2026-03-17T09:48:46.491209Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "delegado-bruno-lima"
   },
   "mandateTotals": {
-    "amountNet": 644958.3,
-    "amountGross": 660363.78,
+    "amountNet": 744384.52,
+    "amountGross": 759790.0,
     "amountAdjustments": -15405.48,
-    "recordsCount": 360,
+    "recordsCount": 393,
     "byCategoryNet": {
       "ALIMENTACAO": 35.8,
-      "COMBUSTIVEL": 62671.26,
+      "COMBUSTIVEL": 70991.26,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1394.31,
-      "DESLOCAMENTO": 250818.84,
-      "DIVULGACAO": 157049.4,
-      "ESCRITORIO": 156880.91,
-      "HOSPEDAGEM": 16107.78,
+      "DESLOCAMENTO": 282881.95,
+      "DIVULGACAO": 192049.4,
+      "ESCRITORIO": 180149.22,
+      "HOSPEDAGEM": 16882.58,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 35.8,
-      "COMBUSTIVEL": 62671.26,
+      "COMBUSTIVEL": 70991.26,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1394.31,
-      "DESLOCAMENTO": 266224.32,
-      "DIVULGACAO": 157049.4,
-      "ESCRITORIO": 156880.91,
-      "HOSPEDAGEM": 16107.78,
+      "DESLOCAMENTO": 298287.43,
+      "DIVULGACAO": 192049.4,
+      "ESCRITORIO": 180149.22,
+      "HOSPEDAGEM": 16882.58,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 3126.95,
     "2024": 126543.06,
-    "2025": 515288.29
+    "2025": 515288.29,
+    "2026": 99426.22
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 48952.35,
     "2025-10": 47054.16,
     "2025-11": 34499.79,
-    "2025-12": 24120.64
+    "2025-12": 24120.64,
+    "2026-01": 56687.22,
+    "2026-02": 41181.54,
+    "2026-03": 1557.46
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 250818.84,
-    "percent": 38.89
+    "amountNet": 282881.95,
+    "percent": 38.0
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220603,
-    "generatedAt": "2026-03-17T09:12:39.115967Z",
+    "generatedAt": "2026-03-17T09:48:46.480815Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "dani-cunha"
   },
   "mandateTotals": {
-    "amountNet": 1495819.34,
-    "amountGross": 1667614.88,
+    "amountNet": 1571080.99,
+    "amountGross": 1742876.53,
     "amountAdjustments": -171795.54,
-    "recordsCount": 2298,
+    "recordsCount": 2421,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 269928.15,
+      "COMBUSTIVEL": 292738.56,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 14096.86,
-      "DESLOCAMENTO": 469824.96,
-      "DIVULGACAO": 358188.59,
-      "ESCRITORIO": 373608.35,
+      "DESLOCAMENTO": 488638.31,
+      "DIVULGACAO": 376188.59,
+      "ESCRITORIO": 389246.24,
       "HOSPEDAGEM": 10172.43,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 269928.15,
+      "COMBUSTIVEL": 292738.56,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 14096.86,
-      "DESLOCAMENTO": 641620.5,
-      "DIVULGACAO": 358188.59,
-      "ESCRITORIO": 373608.35,
+      "DESLOCAMENTO": 660433.85,
+      "DIVULGACAO": 376188.59,
+      "ESCRITORIO": 389246.24,
       "HOSPEDAGEM": 10172.43,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 489275.08,
     "2024": 507886.27,
-    "2025": 498657.99
+    "2025": 498657.99,
+    "2026": 75261.65
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 40803.15,
     "2025-10": 40320.93,
     "2025-11": 31568.61,
-    "2025-12": 42533.39
+    "2025-12": 42533.39,
+    "2026-01": 45716.41,
+    "2026-02": 25518.83,
+    "2026-03": 4026.41
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 469824.96,
-    "percent": 31.41
+    "amountNet": 488638.31,
+    "percent": 31.1
   }
 }

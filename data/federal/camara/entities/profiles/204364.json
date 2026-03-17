@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204364,
-    "generatedAt": "2026-03-17T09:12:39.075847Z",
+    "generatedAt": "2026-03-17T09:48:46.423844Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "eli-borges"
   },
   "mandateTotals": {
-    "amountNet": 1291974.8,
-    "amountGross": 1291974.8,
+    "amountNet": 1370353.86,
+    "amountGross": 1370353.86,
     "amountAdjustments": 0.0,
-    "recordsCount": 1329,
+    "recordsCount": 1427,
     "byCategoryNet": {
       "ALIMENTACAO": 791.95,
-      "COMBUSTIVEL": 247033.88,
+      "COMBUSTIVEL": 269548.51,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2237.1,
       "DESLOCAMENTO": 245158.29,
-      "DIVULGACAO": 635627.72,
-      "ESCRITORIO": 155549.36,
-      "HOSPEDAGEM": 5576.5,
+      "DIVULGACAO": 678627.72,
+      "ESCRITORIO": 165912.29,
+      "HOSPEDAGEM": 8078.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 791.95,
-      "COMBUSTIVEL": 247033.88,
+      "COMBUSTIVEL": 269548.51,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2237.1,
       "DESLOCAMENTO": 245158.29,
-      "DIVULGACAO": 635627.72,
-      "ESCRITORIO": 155549.36,
-      "HOSPEDAGEM": 5576.5,
+      "DIVULGACAO": 678627.72,
+      "ESCRITORIO": 165912.29,
+      "HOSPEDAGEM": 8078.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 469126.86,
     "2024": 343025.98,
-    "2025": 479821.96
+    "2025": 479821.96,
+    "2026": 78379.06
   },
   "monthTotals": {
     "2023-01": 3509.46,
@@ -94,11 +95,14 @@
     "2025-09": 42033.86,
     "2025-10": 43075.16,
     "2025-11": 43506.73,
-    "2025-12": 36967.63
+    "2025-12": 36967.63,
+    "2026-01": 34200.0,
+    "2026-02": 36501.64,
+    "2026-03": 7677.42
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 635627.72,
-    "percent": 49.2
+    "amountNet": 678627.72,
+    "percent": 49.52
   }
 }

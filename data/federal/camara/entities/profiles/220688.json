@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220688,
-    "generatedAt": "2026-03-17T09:12:39.132553Z",
+    "generatedAt": "2026-03-17T09:48:46.504472Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "dr-francisco"
   },
   "mandateTotals": {
-    "amountNet": 1656416.36,
-    "amountGross": 1694189.22,
-    "amountAdjustments": -37772.86,
-    "recordsCount": 1170,
+    "amountNet": 1741774.12,
+    "amountGross": 1780396.03,
+    "amountAdjustments": -38621.91,
+    "recordsCount": 1218,
     "byCategoryNet": {
       "ALIMENTACAO": 3507.54,
-      "COMBUSTIVEL": 275936.29,
+      "COMBUSTIVEL": 290954.51,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 14422.19,
-      "DESLOCAMENTO": 435705.77,
-      "DIVULGACAO": 425250.0,
-      "ESCRITORIO": 495293.57,
+      "CORREIOS_TELEFONIA": 14670.03,
+      "DESLOCAMENTO": 456705.77,
+      "DIVULGACAO": 443930.0,
+      "ESCRITORIO": 525705.27,
       "HOSPEDAGEM": 6301.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 3507.54,
-      "COMBUSTIVEL": 275936.29,
+      "COMBUSTIVEL": 290954.51,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 14422.19,
-      "DESLOCAMENTO": 473478.63,
-      "DIVULGACAO": 425250.0,
-      "ESCRITORIO": 495293.57,
+      "CORREIOS_TELEFONIA": 14670.03,
+      "DESLOCAMENTO": 495327.68,
+      "DIVULGACAO": 443930.0,
+      "ESCRITORIO": 525705.27,
       "HOSPEDAGEM": 6301.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -37772.86,
+      "DESLOCAMENTO": -38621.91,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 535333.87,
     "2024": 542833.93,
-    "2025": 578248.56
+    "2025": 578248.56,
+    "2026": 85357.76
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 52137.15,
     "2025-10": 48999.74,
     "2025-11": 46704.39,
-    "2025-12": 45314.8
+    "2025-12": 45314.8,
+    "2026-01": 42738.59,
+    "2026-02": 41419.17,
+    "2026-03": 1200.0
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 495293.57,
-    "percent": 29.9
+    "amountNet": 525705.27,
+    "percent": 30.18
   }
 }

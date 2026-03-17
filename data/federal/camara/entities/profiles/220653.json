@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220653,
-    "generatedAt": "2026-03-17T09:12:39.125631Z",
+    "generatedAt": "2026-03-17T09:48:46.494622Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "fábio-teruel"
   },
   "mandateTotals": {
-    "amountNet": 916014.39,
-    "amountGross": 1125036.91,
+    "amountNet": 951839.68,
+    "amountGross": 1160862.2,
     "amountAdjustments": -209022.52,
-    "recordsCount": 1668,
+    "recordsCount": 1718,
     "byCategoryNet": {
       "ALIMENTACAO": 7045.13,
-      "COMBUSTIVEL": 92158.0,
+      "COMBUSTIVEL": 103455.78,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 25095.46,
-      "DESLOCAMENTO": 589983.26,
-      "DIVULGACAO": 87607.46,
-      "ESCRITORIO": 112544.96,
+      "CORREIOS_TELEFONIA": 26190.08,
+      "DESLOCAMENTO": 609983.26,
+      "DIVULGACAO": 90267.46,
+      "ESCRITORIO": 113317.85,
       "HOSPEDAGEM": 1580.12,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 7045.13,
-      "COMBUSTIVEL": 92158.0,
+      "COMBUSTIVEL": 103455.78,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 25095.46,
-      "DESLOCAMENTO": 799005.78,
-      "DIVULGACAO": 87607.46,
-      "ESCRITORIO": 112544.96,
+      "CORREIOS_TELEFONIA": 26190.08,
+      "DESLOCAMENTO": 819005.78,
+      "DIVULGACAO": 90267.46,
+      "ESCRITORIO": 113317.85,
       "HOSPEDAGEM": 1580.12,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 335394.81,
     "2024": 340696.18,
-    "2025": 239923.4
+    "2025": 239923.4,
+    "2026": 35825.29
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 16587.48,
     "2025-10": 17881.33,
     "2025-11": 16199.32,
-    "2025-12": 29269.58
+    "2025-12": 29269.58,
+    "2026-01": 16441.52,
+    "2026-02": 17228.92,
+    "2026-03": 2154.85
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 589983.26,
-    "percent": 64.41
+    "amountNet": 609983.26,
+    "percent": 64.08
   }
 }

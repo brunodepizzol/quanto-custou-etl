@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178964,
-    "generatedAt": "2026-03-17T09:12:39.069505Z",
+    "generatedAt": "2026-03-17T09:48:46.414800Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "heitor-schuch"
   },
   "mandateTotals": {
-    "amountNet": 1672742.59,
-    "amountGross": 1747600.08,
+    "amountNet": 1712255.7,
+    "amountGross": 1787113.19,
     "amountAdjustments": -74857.49,
-    "recordsCount": 2720,
+    "recordsCount": 2786,
     "byCategoryNet": {
-      "ALIMENTACAO": 16781.16,
-      "COMBUSTIVEL": 108805.08,
+      "ALIMENTACAO": 17486.16,
+      "COMBUSTIVEL": 115067.73,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 37836.75,
-      "DESLOCAMENTO": 594385.39,
-      "DIVULGACAO": 599540.96,
-      "ESCRITORIO": 268996.77,
+      "CORREIOS_TELEFONIA": 38975.48,
+      "DESLOCAMENTO": 607385.39,
+      "DIVULGACAO": 606807.91,
+      "ESCRITORIO": 280136.55,
       "HOSPEDAGEM": 46396.48,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 16781.16,
-      "COMBUSTIVEL": 108805.08,
+      "ALIMENTACAO": 17486.16,
+      "COMBUSTIVEL": 115067.73,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 37836.75,
-      "DESLOCAMENTO": 669242.88,
-      "DIVULGACAO": 599540.96,
-      "ESCRITORIO": 268996.77,
+      "CORREIOS_TELEFONIA": 38975.48,
+      "DESLOCAMENTO": 682242.88,
+      "DIVULGACAO": 606807.91,
+      "ESCRITORIO": 280136.55,
       "HOSPEDAGEM": 46396.48,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 519216.15,
     "2024": 554229.89,
-    "2025": 599296.55
+    "2025": 599296.55,
+    "2026": 39513.11
   },
   "monthTotals": {
     "2023-01": 7671.27,
@@ -94,11 +95,14 @@
     "2025-09": 54982.26,
     "2025-10": 52137.51,
     "2025-11": 59172.62,
-    "2025-12": 44245.15
+    "2025-12": 44245.15,
+    "2026-01": 30525.09,
+    "2026-02": 8792.42,
+    "2026-03": 195.6
   },
   "topCategory": {
-    "category": "DIVULGACAO",
-    "amountNet": 599540.96,
-    "percent": 35.84
+    "category": "DESLOCAMENTO",
+    "amountNet": 607385.39,
+    "percent": 35.47
   }
 }

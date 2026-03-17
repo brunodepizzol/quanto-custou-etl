@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204456,
-    "generatedAt": "2026-03-17T09:12:39.085335Z",
+    "generatedAt": "2026-03-17T09:48:46.437118Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "gutemberg-reis"
   },
   "mandateTotals": {
-    "amountNet": 1268136.07,
-    "amountGross": 1352324.59,
+    "amountNet": 1318189.96,
+    "amountGross": 1402378.48,
     "amountAdjustments": -84188.52,
-    "recordsCount": 2056,
+    "recordsCount": 2128,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 189149.02,
+      "COMBUSTIVEL": 197947.57,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 47008.62,
-      "DESLOCAMENTO": 689476.34,
-      "DIVULGACAO": 169000.0,
-      "ESCRITORIO": 161663.66,
+      "CORREIOS_TELEFONIA": 49723.61,
+      "DESLOCAMENTO": 705992.51,
+      "DIVULGACAO": 179000.0,
+      "ESCRITORIO": 173687.84,
       "HOSPEDAGEM": 11838.43,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 189149.02,
+      "COMBUSTIVEL": 197947.57,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 47008.62,
-      "DESLOCAMENTO": 773664.86,
-      "DIVULGACAO": 169000.0,
-      "ESCRITORIO": 161663.66,
+      "CORREIOS_TELEFONIA": 49723.61,
+      "DESLOCAMENTO": 790181.03,
+      "DIVULGACAO": 179000.0,
+      "ESCRITORIO": 173687.84,
       "HOSPEDAGEM": 11838.43,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 442769.61,
     "2024": 364593.34,
-    "2025": 460773.12
+    "2025": 460773.12,
+    "2026": 50053.89
   },
   "monthTotals": {
     "2023-01": 9332.86,
@@ -94,11 +95,14 @@
     "2025-09": 42918.73,
     "2025-10": 47110.42,
     "2025-11": 30256.91,
-    "2025-12": 53715.69
+    "2025-12": 53715.69,
+    "2026-01": 24759.67,
+    "2026-02": 23904.92,
+    "2026-03": 1389.3
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 689476.34,
-    "percent": 54.37
+    "amountNet": 705992.51,
+    "percent": 53.56
   }
 }

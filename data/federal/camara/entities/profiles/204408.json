@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204408,
-    "generatedAt": "2026-03-17T09:12:39.080645Z",
+    "generatedAt": "2026-03-17T09:48:46.430424Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,17 +15,17 @@
     "slug": "gustinho-ribeiro"
   },
   "mandateTotals": {
-    "amountNet": 1581694.23,
-    "amountGross": 1614588.26,
+    "amountNet": 1649494.23,
+    "amountGross": 1682388.26,
     "amountAdjustments": -32894.03,
-    "recordsCount": 396,
+    "recordsCount": 400,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 14236.34,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 647355.89,
-      "DIVULGACAO": 913302.0,
+      "DESLOCAMENTO": 685155.89,
+      "DIVULGACAO": 943302.0,
       "ESCRITORIO": 6800.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -35,8 +35,8 @@
       "COMBUSTIVEL": 14236.34,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 680249.92,
-      "DIVULGACAO": 913302.0,
+      "DESLOCAMENTO": 718049.92,
+      "DIVULGACAO": 943302.0,
       "ESCRITORIO": 6800.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 491111.71,
     "2024": 544926.13,
-    "2025": 545656.39
+    "2025": 545656.39,
+    "2026": 67800.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 39330.88,
     "2025-10": 51366.61,
     "2025-11": 34904.43,
-    "2025-12": 58947.88
+    "2025-12": 58947.88,
+    "2026-01": 33900.0,
+    "2026-02": 33900.0,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 913302.0,
-    "percent": 57.74
+    "amountNet": 943302.0,
+    "percent": 57.19
   }
 }

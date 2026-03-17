@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74065,
-    "generatedAt": "2026-03-17T09:12:39.028426Z",
+    "generatedAt": "2026-03-17T09:48:46.356813Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "fatima-pelaes"
   },
   "mandateTotals": {
-    "amountNet": 110034.36,
-    "amountGross": 110034.36,
+    "amountNet": 188254.54,
+    "amountGross": 188254.54,
     "amountAdjustments": 0.0,
-    "recordsCount": 10,
+    "recordsCount": 21,
     "byCategoryNet": {
-      "ALIMENTACAO": 46.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 362.12,
+      "COMBUSTIVEL": 504.06,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 36664.06,
-      "DIVULGACAO": 73324.3,
+      "DESLOCAMENTO": 62064.06,
+      "DIVULGACAO": 125324.3,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 46.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 362.12,
+      "COMBUSTIVEL": 504.06,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 36664.06,
-      "DIVULGACAO": 73324.3,
+      "DESLOCAMENTO": 62064.06,
+      "DIVULGACAO": 125324.3,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 0.0,
     "2024": 0.0,
-    "2025": 110034.36
+    "2025": 110034.36,
+    "2026": 78220.18
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 0.0,
     "2025-10": 42521.35,
     "2025-11": 42377.87,
-    "2025-12": 25135.14
+    "2025-12": 25135.14,
+    "2026-01": 38700.0,
+    "2026-02": 39520.18,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 73324.3,
-    "percent": 66.64
+    "amountNet": 125324.3,
+    "percent": 66.57
   }
 }

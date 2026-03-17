@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74057,
-    "generatedAt": "2026-03-17T09:12:39.027957Z",
+    "generatedAt": "2026-03-17T09:48:46.356213Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "alice-portugal"
   },
   "mandateTotals": {
-    "amountNet": 1476295.86,
-    "amountGross": 1549331.24,
+    "amountNet": 1547223.94,
+    "amountGross": 1620259.32,
     "amountAdjustments": -73035.38,
-    "recordsCount": 932,
+    "recordsCount": 944,
     "byCategoryNet": {
       "ALIMENTACAO": 174.54,
-      "COMBUSTIVEL": 80023.25,
+      "COMBUSTIVEL": 81889.88,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 22717.18,
-      "DESLOCAMENTO": 353521.77,
-      "DIVULGACAO": 1014766.0,
+      "DESLOCAMENTO": 355403.72,
+      "DIVULGACAO": 1081945.5,
       "ESCRITORIO": 5093.12,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 174.54,
-      "COMBUSTIVEL": 80023.25,
+      "COMBUSTIVEL": 81889.88,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 22717.18,
-      "DESLOCAMENTO": 426557.15,
-      "DIVULGACAO": 1014766.0,
+      "DESLOCAMENTO": 428439.1,
+      "DIVULGACAO": 1081945.5,
       "ESCRITORIO": 5093.12,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 496195.1,
     "2024": 495189.98,
-    "2025": 484910.78
+    "2025": 484910.78,
+    "2026": 70928.08
   },
   "monthTotals": {
     "2023-01": 672.48,
@@ -94,11 +95,14 @@
     "2025-09": 49525.21,
     "2025-10": 29814.54,
     "2025-11": 44174.08,
-    "2025-12": 8684.73
+    "2025-12": 8684.73,
+    "2026-01": 35123.58,
+    "2026-02": 35804.5,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 1014766.0,
-    "percent": 68.74
+    "amountNet": 1081945.5,
+    "percent": 69.93
   }
 }

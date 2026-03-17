@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204557,
-    "generatedAt": "2026-03-17T09:12:39.096414Z",
+    "generatedAt": "2026-03-17T09:48:46.452912Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,17 +15,17 @@
     "slug": "sidney-leite"
   },
   "mandateTotals": {
-    "amountNet": 1692004.57,
-    "amountGross": 1999589.42,
+    "amountNet": 1753470.65,
+    "amountGross": 2061055.5,
     "amountAdjustments": -307584.85,
-    "recordsCount": 992,
+    "recordsCount": 998,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 43676.65,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 1153179.35,
-      "DIVULGACAO": 485050.42,
+      "DESLOCAMENTO": 1208645.43,
+      "DIVULGACAO": 491050.42,
       "ESCRITORIO": 6755.9,
       "HOSPEDAGEM": 3342.25,
       "OUTROS": 0.0
@@ -35,8 +35,8 @@
       "COMBUSTIVEL": 43676.65,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 1460764.2,
-      "DIVULGACAO": 485050.42,
+      "DESLOCAMENTO": 1516230.28,
+      "DIVULGACAO": 491050.42,
       "ESCRITORIO": 6755.9,
       "HOSPEDAGEM": 3342.25,
       "OUTROS": 0.0
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 558375.83,
     "2024": 537576.19,
-    "2025": 596052.55
+    "2025": 596052.55,
+    "2026": 61466.08
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 18377.94,
     "2025-10": 70070.62,
     "2025-11": 10362.6,
-    "2025-12": 10700.0
+    "2025-12": 10700.0,
+    "2026-01": 51466.08,
+    "2026-02": 10000.0,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 1153179.35,
-    "percent": 68.15
+    "amountNet": 1208645.43,
+    "percent": 68.93
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220692,
-    "generatedAt": "2026-03-17T09:12:39.133275Z",
+    "generatedAt": "2026-03-17T09:48:46.505477Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,16 +15,16 @@
     "slug": "dal-barreto"
   },
   "mandateTotals": {
-    "amountNet": 1514028.0,
-    "amountGross": 1535529.63,
+    "amountNet": 1538586.59,
+    "amountGross": 1560088.22,
     "amountAdjustments": -21501.63,
-    "recordsCount": 574,
+    "recordsCount": 581,
     "byCategoryNet": {
       "ALIMENTACAO": 677.92,
-      "COMBUSTIVEL": 158570.68,
+      "COMBUSTIVEL": 167580.45,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7021.86,
-      "DESLOCAMENTO": 485541.24,
+      "DESLOCAMENTO": 501090.06,
       "DIVULGACAO": 859217.5,
       "ESCRITORIO": 2577.8,
       "HOSPEDAGEM": 421.0,
@@ -32,10 +32,10 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 677.92,
-      "COMBUSTIVEL": 158570.68,
+      "COMBUSTIVEL": 167580.45,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7021.86,
-      "DESLOCAMENTO": 507042.87,
+      "DESLOCAMENTO": 522591.69,
       "DIVULGACAO": 859217.5,
       "ESCRITORIO": 2577.8,
       "HOSPEDAGEM": 421.0,
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 510546.94,
     "2024": 481057.23,
-    "2025": 522423.83
+    "2025": 522423.83,
+    "2026": 24558.59
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 48179.3,
     "2025-10": 25809.2,
     "2025-11": 16512.63,
-    "2025-12": 115177.2
+    "2025-12": 115177.2,
+    "2026-01": 24558.59,
+    "2026-02": 0.0,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 859217.5,
-    "percent": 56.75
+    "percent": 55.84
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220677,
-    "generatedAt": "2026-03-17T09:12:39.130712Z",
+    "generatedAt": "2026-03-17T09:48:46.501796Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,19 +15,19 @@
     "slug": "keniston-braga"
   },
   "mandateTotals": {
-    "amountNet": 1658997.4,
-    "amountGross": 1695503.3,
-    "amountAdjustments": -36505.9,
-    "recordsCount": 767,
+    "amountNet": 1723187.49,
+    "amountGross": 1761885.18,
+    "amountAdjustments": -38697.69,
+    "recordsCount": 779,
     "byCategoryNet": {
       "ALIMENTACAO": 905.79,
       "COMBUSTIVEL": 66460.22,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 19658.03,
-      "DESLOCAMENTO": 699007.93,
-      "DIVULGACAO": 795371.26,
-      "ESCRITORIO": 52086.07,
-      "HOSPEDAGEM": 25508.1,
+      "DESLOCAMENTO": 706816.14,
+      "DIVULGACAO": 845795.85,
+      "ESCRITORIO": 56866.07,
+      "HOSPEDAGEM": 26685.39,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
@@ -35,10 +35,10 @@
       "COMBUSTIVEL": 66460.22,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 19658.03,
-      "DESLOCAMENTO": 735513.83,
-      "DIVULGACAO": 795371.26,
-      "ESCRITORIO": 52086.07,
-      "HOSPEDAGEM": 25508.1,
+      "DESLOCAMENTO": 745513.83,
+      "DIVULGACAO": 845795.85,
+      "ESCRITORIO": 56866.07,
+      "HOSPEDAGEM": 26685.39,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -36505.9,
+      "DESLOCAMENTO": -38697.69,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 537352.42,
     "2024": 565200.7,
-    "2025": 556444.28
+    "2025": 556444.28,
+    "2026": 64190.09
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 53055.78,
     "2025-10": 49047.87,
     "2025-11": 36356.37,
-    "2025-12": 40821.74
+    "2025-12": 40821.74,
+    "2026-01": 41400.09,
+    "2026-02": 22790.0,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 795371.26,
-    "percent": 47.94
+    "amountNet": 845795.85,
+    "percent": 49.08
   }
 }

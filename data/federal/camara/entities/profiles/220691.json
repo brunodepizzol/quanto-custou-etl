@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220691,
-    "generatedAt": "2026-03-17T09:12:39.133049Z",
+    "generatedAt": "2026-03-17T09:48:46.505155Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "diego-coronel"
   },
   "mandateTotals": {
-    "amountNet": 1375121.7,
-    "amountGross": 1569127.77,
+    "amountNet": 1436728.78,
+    "amountGross": 1630734.85,
     "amountAdjustments": -194006.07,
-    "recordsCount": 1593,
+    "recordsCount": 1644,
     "byCategoryNet": {
       "ALIMENTACAO": 803.24,
-      "COMBUSTIVEL": 208107.92,
+      "COMBUSTIVEL": 220248.82,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 9759.02,
-      "DESLOCAMENTO": 650820.55,
-      "DIVULGACAO": 473500.0,
+      "CORREIOS_TELEFONIA": 10411.49,
+      "DESLOCAMENTO": 676220.55,
+      "DIVULGACAO": 496500.0,
       "ESCRITORIO": 16180.1,
-      "HOSPEDAGEM": 15950.87,
+      "HOSPEDAGEM": 16364.58,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 803.24,
-      "COMBUSTIVEL": 208107.92,
+      "COMBUSTIVEL": 220248.82,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 9759.02,
-      "DESLOCAMENTO": 844826.62,
-      "DIVULGACAO": 473500.0,
+      "CORREIOS_TELEFONIA": 10411.49,
+      "DESLOCAMENTO": 870226.62,
+      "DIVULGACAO": 496500.0,
       "ESCRITORIO": 16180.1,
-      "HOSPEDAGEM": 15950.87,
+      "HOSPEDAGEM": 16364.58,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 356942.2,
     "2024": 509903.32,
-    "2025": 508276.18
+    "2025": 508276.18,
+    "2026": 61607.08
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 46227.41,
     "2025-10": 48314.11,
     "2025-11": 42991.83,
-    "2025-12": 35814.62
+    "2025-12": 35814.62,
+    "2026-01": 29951.95,
+    "2026-02": 30038.87,
+    "2026-03": 1616.26
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 650820.55,
-    "percent": 47.33
+    "amountNet": 676220.55,
+    "percent": 47.07
   }
 }

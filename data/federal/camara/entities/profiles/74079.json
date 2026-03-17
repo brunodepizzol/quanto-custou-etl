@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74079,
-    "generatedAt": "2026-03-17T09:12:39.028863Z",
+    "generatedAt": "2026-03-17T09:48:46.357425Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,16 +15,16 @@
     "slug": "josé-priante"
   },
   "mandateTotals": {
-    "amountNet": 1070177.3,
-    "amountGross": 1140012.53,
+    "amountNet": 1082843.89,
+    "amountGross": 1152679.12,
     "amountAdjustments": -69835.23,
-    "recordsCount": 673,
+    "recordsCount": 676,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 7431.1,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7859.46,
-      "DESLOCAMENTO": 975325.84,
+      "DESLOCAMENTO": 987992.43,
       "DIVULGACAO": 45000.0,
       "ESCRITORIO": 33993.9,
       "HOSPEDAGEM": 567.0,
@@ -35,7 +35,7 @@
       "COMBUSTIVEL": 7431.1,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 7859.46,
-      "DESLOCAMENTO": 1045161.07,
+      "DESLOCAMENTO": 1057827.66,
       "DIVULGACAO": 45000.0,
       "ESCRITORIO": 33993.9,
       "HOSPEDAGEM": 567.0,
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 401887.39,
     "2024": 319123.36,
-    "2025": 349166.55
+    "2025": 349166.55,
+    "2026": 12666.59
   },
   "monthTotals": {
     "2023-01": 9990.0,
@@ -94,11 +95,14 @@
     "2025-09": 39817.72,
     "2025-10": 40725.55,
     "2025-11": 2946.97,
-    "2025-12": 25428.23
+    "2025-12": 25428.23,
+    "2026-01": 12666.59,
+    "2026-02": 0.0,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 975325.84,
-    "percent": 91.14
+    "amountNet": 987992.43,
+    "percent": 91.24
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204365,
-    "generatedAt": "2026-03-17T09:12:39.076091Z",
+    "generatedAt": "2026-03-17T09:48:46.424149Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "gilson-marques"
   },
   "mandateTotals": {
-    "amountNet": 490790.08,
-    "amountGross": 540570.05,
+    "amountNet": 513133.21,
+    "amountGross": 562913.18,
     "amountAdjustments": -49779.97,
-    "recordsCount": 683,
+    "recordsCount": 700,
     "byCategoryNet": {
       "ALIMENTACAO": 83.37,
-      "COMBUSTIVEL": 50951.45,
+      "COMBUSTIVEL": 54360.19,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 2304.0,
+      "CORREIOS_TELEFONIA": 2880.0,
       "DESLOCAMENTO": 176136.01,
-      "DIVULGACAO": 221500.0,
-      "ESCRITORIO": 15040.83,
-      "HOSPEDAGEM": 24774.42,
+      "DIVULGACAO": 237500.0,
+      "ESCRITORIO": 17034.83,
+      "HOSPEDAGEM": 25138.81,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 83.37,
-      "COMBUSTIVEL": 50951.45,
+      "COMBUSTIVEL": 54360.19,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 2304.0,
+      "CORREIOS_TELEFONIA": 2880.0,
       "DESLOCAMENTO": 225915.98,
-      "DIVULGACAO": 221500.0,
-      "ESCRITORIO": 15040.83,
-      "HOSPEDAGEM": 24774.42,
+      "DIVULGACAO": 237500.0,
+      "ESCRITORIO": 17034.83,
+      "HOSPEDAGEM": 25138.81,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 117227.87,
     "2024": 152679.63,
-    "2025": 220882.58
+    "2025": 220882.58,
+    "2026": 22343.13
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 19145.47,
     "2025-10": 21139.68,
     "2025-11": 15060.4,
-    "2025-12": 22765.37
+    "2025-12": 22765.37,
+    "2026-01": 10509.21,
+    "2026-02": 10859.46,
+    "2026-03": 974.46
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 221500.0,
-    "percent": 45.13
+    "amountNet": 237500.0,
+    "percent": 46.28
   }
 }

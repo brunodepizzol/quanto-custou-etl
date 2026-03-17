@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 230957,
-    "generatedAt": "2026-03-17T09:12:39.142277Z",
+    "generatedAt": "2026-03-17T09:48:46.518109Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "joão-cury"
   },
   "mandateTotals": {
-    "amountNet": 503064.77,
-    "amountGross": 511010.62,
+    "amountNet": 594245.94,
+    "amountGross": 602191.79,
     "amountAdjustments": -7945.85,
-    "recordsCount": 565,
+    "recordsCount": 679,
     "byCategoryNet": {
-      "ALIMENTACAO": 5365.67,
-      "COMBUSTIVEL": 21273.3,
+      "ALIMENTACAO": 6250.26,
+      "COMBUSTIVEL": 28776.4,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 1226.13,
-      "DESLOCAMENTO": 96387.15,
-      "DIVULGACAO": 312834.36,
-      "ESCRITORIO": 54486.5,
-      "HOSPEDAGEM": 11491.66,
+      "CORREIOS_TELEFONIA": 1331.13,
+      "DESLOCAMENTO": 110216.7,
+      "DIVULGACAO": 365190.42,
+      "ESCRITORIO": 68678.37,
+      "HOSPEDAGEM": 13802.66,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 5365.67,
-      "COMBUSTIVEL": 21273.3,
+      "ALIMENTACAO": 6250.26,
+      "COMBUSTIVEL": 28776.4,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 1226.13,
-      "DESLOCAMENTO": 104333.0,
-      "DIVULGACAO": 312834.36,
-      "ESCRITORIO": 54486.5,
-      "HOSPEDAGEM": 11491.66,
+      "CORREIOS_TELEFONIA": 1331.13,
+      "DESLOCAMENTO": 118162.55,
+      "DIVULGACAO": 365190.42,
+      "ESCRITORIO": 68678.37,
+      "HOSPEDAGEM": 13802.66,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 0.0,
     "2024": 0.0,
-    "2025": 503064.77
+    "2025": 503064.77,
+    "2026": 91181.17
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 50020.98,
     "2025-10": 65705.09,
     "2025-11": 58762.01,
-    "2025-12": 16667.35
+    "2025-12": 16667.35,
+    "2026-01": 32603.69,
+    "2026-02": 55504.14,
+    "2026-03": 3073.34
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 312834.36,
-    "percent": 62.19
+    "amountNet": 365190.42,
+    "percent": 61.45
   }
 }

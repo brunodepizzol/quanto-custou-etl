@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 73788,
-    "generatedAt": "2026-03-17T09:12:39.026605Z",
+    "generatedAt": "2026-03-17T09:48:46.354378Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "ricardo-barros"
   },
   "mandateTotals": {
-    "amountNet": 393654.93,
-    "amountGross": 448755.61,
+    "amountNet": 447738.07,
+    "amountGross": 502838.75,
     "amountAdjustments": -55100.68,
-    "recordsCount": 313,
+    "recordsCount": 344,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 9735.26,
+      "COMBUSTIVEL": 13458.74,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 6587.59,
-      "DESLOCAMENTO": 138194.14,
-      "DIVULGACAO": 175823.79,
-      "ESCRITORIO": 63314.15,
+      "CORREIOS_TELEFONIA": 6704.33,
+      "DESLOCAMENTO": 144392.58,
+      "DIVULGACAO": 205823.79,
+      "ESCRITORIO": 77358.63,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 9735.26,
+      "COMBUSTIVEL": 13458.74,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 6587.59,
-      "DESLOCAMENTO": 193294.82,
-      "DIVULGACAO": 175823.79,
-      "ESCRITORIO": 63314.15,
+      "CORREIOS_TELEFONIA": 6704.33,
+      "DESLOCAMENTO": 199493.26,
+      "DIVULGACAO": 205823.79,
+      "ESCRITORIO": 77358.63,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 830.24,
     "2024": 0.0,
-    "2025": 392824.69
+    "2025": 392824.69,
+    "2026": 54083.14
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 34625.74,
     "2025-10": 40647.72,
     "2025-11": 35447.08,
-    "2025-12": 69137.93
+    "2025-12": 69137.93,
+    "2026-01": 25447.33,
+    "2026-02": 28435.81,
+    "2026-03": 200.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 175823.79,
-    "percent": 44.66
+    "amountNet": 205823.79,
+    "percent": 45.97
   }
 }

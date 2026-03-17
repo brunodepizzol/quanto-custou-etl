@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220549,
-    "generatedAt": "2026-03-17T09:12:39.105629Z",
+    "generatedAt": "2026-03-17T09:48:46.465945Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "any-ortiz"
   },
   "mandateTotals": {
-    "amountNet": 912701.58,
-    "amountGross": 966192.02,
+    "amountNet": 944274.25,
+    "amountGross": 997764.69,
     "amountAdjustments": -53490.44,
-    "recordsCount": 1380,
+    "recordsCount": 1439,
     "byCategoryNet": {
       "ALIMENTACAO": 301.95,
-      "COMBUSTIVEL": 55244.13,
+      "COMBUSTIVEL": 60736.27,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 9097.95,
-      "DESLOCAMENTO": 590310.09,
+      "CORREIOS_TELEFONIA": 9737.93,
+      "DESLOCAMENTO": 601849.43,
       "DIVULGACAO": 16035.01,
-      "ESCRITORIO": 230672.26,
+      "ESCRITORIO": 244573.47,
       "HOSPEDAGEM": 11040.19,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 301.95,
-      "COMBUSTIVEL": 55244.13,
+      "COMBUSTIVEL": 60736.27,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 9097.95,
-      "DESLOCAMENTO": 643800.53,
+      "CORREIOS_TELEFONIA": 9737.93,
+      "DESLOCAMENTO": 655339.87,
       "DIVULGACAO": 16035.01,
-      "ESCRITORIO": 230672.26,
+      "ESCRITORIO": 244573.47,
       "HOSPEDAGEM": 11040.19,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 284030.32,
     "2024": 296342.89,
-    "2025": 332328.37
+    "2025": 332328.37,
+    "2026": 31572.67
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 20531.68,
     "2025-10": 35233.96,
     "2025-11": 23317.69,
-    "2025-12": 17254.23
+    "2025-12": 17254.23,
+    "2026-01": 13069.27,
+    "2026-02": 16346.18,
+    "2026-03": 2157.22
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 590310.09,
-    "percent": 64.68
+    "amountNet": 601849.43,
+    "percent": 63.74
   }
 }

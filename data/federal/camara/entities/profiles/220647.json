@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220647,
-    "generatedAt": "2026-03-17T09:12:39.124183Z",
+    "generatedAt": "2026-03-17T09:48:46.492540Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,17 +15,17 @@
     "slug": "mauricio-neves"
   },
   "mandateTotals": {
-    "amountNet": 1487580.72,
-    "amountGross": 1496372.36,
+    "amountNet": 1511870.72,
+    "amountGross": 1520662.36,
     "amountAdjustments": -8791.64,
-    "recordsCount": 652,
+    "recordsCount": 655,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 10802.23,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3301.26,
-      "DESLOCAMENTO": 490449.73,
-      "DIVULGACAO": 981137.95,
+      "DESLOCAMENTO": 497239.73,
+      "DIVULGACAO": 998637.95,
       "ESCRITORIO": 1889.55,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -35,8 +35,8 @@
       "COMBUSTIVEL": 10802.23,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3301.26,
-      "DESLOCAMENTO": 499241.37,
-      "DIVULGACAO": 981137.95,
+      "DESLOCAMENTO": 506031.37,
+      "DIVULGACAO": 998637.95,
       "ESCRITORIO": 1889.55,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 472306.86,
     "2024": 523197.34,
-    "2025": 492076.52
+    "2025": 492076.52,
+    "2026": 24290.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 42153.01,
     "2025-10": 39816.03,
     "2025-11": 55555.06,
-    "2025-12": 59502.36
+    "2025-12": 59502.36,
+    "2026-01": 24290.0,
+    "2026-02": 0.0,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 981137.95,
-    "percent": 65.96
+    "amountNet": 998637.95,
+    "percent": 66.05
   }
 }

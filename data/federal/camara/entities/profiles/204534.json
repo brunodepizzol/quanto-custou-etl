@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204534,
-    "generatedAt": "2026-03-17T09:12:39.094568Z",
+    "generatedAt": "2026-03-17T09:48:46.450259Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "tabata-amaral"
   },
   "mandateTotals": {
-    "amountNet": 1526163.24,
-    "amountGross": 1602811.53,
+    "amountNet": 1587592.23,
+    "amountGross": 1664240.52,
     "amountAdjustments": -76648.29,
-    "recordsCount": 1711,
+    "recordsCount": 1749,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 88560.37,
+      "COMBUSTIVEL": 92183.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5464.61,
-      "DESLOCAMENTO": 244200.71,
-      "DIVULGACAO": 876850.88,
-      "ESCRITORIO": 291678.78,
-      "HOSPEDAGEM": 19407.89,
+      "DESLOCAMENTO": 247544.99,
+      "DIVULGACAO": 900950.88,
+      "ESCRITORIO": 317525.86,
+      "HOSPEDAGEM": 23922.89,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 88560.37,
+      "COMBUSTIVEL": 92183.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 5464.61,
-      "DESLOCAMENTO": 320849.0,
-      "DIVULGACAO": 876850.88,
-      "ESCRITORIO": 291678.78,
-      "HOSPEDAGEM": 19407.89,
+      "DESLOCAMENTO": 324193.28,
+      "DIVULGACAO": 900950.88,
+      "ESCRITORIO": 317525.86,
+      "HOSPEDAGEM": 23922.89,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 495398.26,
     "2024": 517899.32,
-    "2025": 512865.66
+    "2025": 512865.66,
+    "2026": 61428.99
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 49597.41,
     "2025-10": 46528.47,
     "2025-11": 39625.36,
-    "2025-12": 29679.28
+    "2025-12": 29679.28,
+    "2026-01": 37277.89,
+    "2026-02": 24151.1,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 876850.88,
-    "percent": 57.45
+    "amountNet": 900950.88,
+    "percent": 56.75
   }
 }

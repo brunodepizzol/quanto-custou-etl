@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 230768,
-    "generatedAt": "2026-03-17T09:12:39.142052Z",
+    "generatedAt": "2026-03-17T09:48:46.517789Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "zé-adriano"
   },
   "mandateTotals": {
-    "amountNet": 595078.78,
-    "amountGross": 631103.17,
+    "amountNet": 726799.17,
+    "amountGross": 762823.56,
     "amountAdjustments": -36024.39,
-    "recordsCount": 255,
+    "recordsCount": 284,
     "byCategoryNet": {
       "ALIMENTACAO": 1257.77,
-      "COMBUSTIVEL": 93634.86,
+      "COMBUSTIVEL": 111288.85,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2069.67,
-      "DESLOCAMENTO": 121487.36,
-      "DIVULGACAO": 315371.0,
-      "ESCRITORIO": 54615.91,
+      "DESLOCAMENTO": 154543.71,
+      "DIVULGACAO": 387621.0,
+      "ESCRITORIO": 63375.96,
       "HOSPEDAGEM": 6642.21,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 1257.77,
-      "COMBUSTIVEL": 93634.86,
+      "COMBUSTIVEL": 111288.85,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2069.67,
-      "DESLOCAMENTO": 157511.75,
-      "DIVULGACAO": 315371.0,
-      "ESCRITORIO": 54615.91,
+      "DESLOCAMENTO": 190568.1,
+      "DIVULGACAO": 387621.0,
+      "ESCRITORIO": 63375.96,
       "HOSPEDAGEM": 6642.21,
       "OUTROS": 0.0
     },
@@ -56,7 +56,8 @@
   "yearTotals": {
     "2023": 0.0,
     "2024": 0.0,
-    "2025": 595078.78
+    "2025": 595078.78,
+    "2026": 131720.39
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -94,11 +95,14 @@
     "2025-09": 103706.9,
     "2025-10": 62072.73,
     "2025-11": 110149.0,
-    "2025-12": 3799.9
+    "2025-12": 3799.9,
+    "2026-01": 75058.96,
+    "2026-02": 56661.43,
+    "2026-03": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 315371.0,
-    "percent": 53.0
+    "amountNet": 387621.0,
+    "percent": 53.33
   }
 }
