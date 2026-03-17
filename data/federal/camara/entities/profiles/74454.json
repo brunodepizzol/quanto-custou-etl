@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74454,
-    "generatedAt": "2026-03-17T05:08:51.281322Z",
+    "generatedAt": "2026-03-17T07:28:40.294770Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "eunício-oliveira"
   },
   "mandateTotals": {
-    "amountNet": 577004.02,
-    "amountGross": 577004.02,
-    "amountAdjustments": 0.0,
-    "recordsCount": 43,
+    "amountNet": 1120675.07,
+    "amountGross": 1132522.06,
+    "amountAdjustments": -11846.99,
+    "recordsCount": 145,
     "byCategoryNet": {
-      "ALIMENTACAO": 213.75,
-      "COMBUSTIVEL": 1155.29,
+      "ALIMENTACAO": 1613.94,
+      "COMBUSTIVEL": 3296.26,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 7960.87,
-      "DESLOCAMENTO": 26568.42,
-      "DIVULGACAO": 541105.69,
-      "ESCRITORIO": 0.0,
+      "CORREIOS_TELEFONIA": 18564.69,
+      "DESLOCAMENTO": 96627.79,
+      "DIVULGACAO": 1000005.69,
+      "ESCRITORIO": 566.7,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 213.75,
-      "COMBUSTIVEL": 1155.29,
+      "ALIMENTACAO": 1613.94,
+      "COMBUSTIVEL": 3296.26,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 7960.87,
-      "DESLOCAMENTO": 26568.42,
-      "DIVULGACAO": 541105.69,
-      "ESCRITORIO": 0.0,
+      "CORREIOS_TELEFONIA": 18564.69,
+      "DESLOCAMENTO": 108474.78,
+      "DIVULGACAO": 1000005.69,
+      "ESCRITORIO": 566.7,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -11846.99,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 530004.02,
-    "2026": 47000.0
+    "2024": 590671.05
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -70,11 +70,22 @@
     "2023-10": 31079.68,
     "2023-11": 46611.32,
     "2023-12": 126683.25,
-    "2026-03": 47000.0
+    "2024-01": 48979.56,
+    "2024-02": 40604.48,
+    "2024-03": 45998.99,
+    "2024-04": 56981.39,
+    "2024-05": 57868.83,
+    "2024-06": 51537.32,
+    "2024-07": 49738.63,
+    "2024-08": 43778.56,
+    "2024-09": 58578.76,
+    "2024-10": 38508.85,
+    "2024-11": 49946.86,
+    "2024-12": 48148.82
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 541105.69,
-    "percent": 93.78
+    "amountNet": 1000005.69,
+    "percent": 89.23
   }
 }

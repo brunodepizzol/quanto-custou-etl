@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160635,
-    "generatedAt": "2026-03-17T05:08:51.311037Z",
+    "generatedAt": "2026-03-17T07:28:40.314786Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "ruy-carneiro"
   },
   "mandateTotals": {
-    "amountNet": 560551.07,
-    "amountGross": 562156.88,
-    "amountAdjustments": -1605.81,
-    "recordsCount": 300,
+    "amountNet": 951512.15,
+    "amountGross": 955977.19,
+    "amountAdjustments": -4465.04,
+    "recordsCount": 489,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 62943.03,
+      "COMBUSTIVEL": 106081.45,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 169.12,
-      "DESLOCAMENTO": 147289.42,
-      "DIVULGACAO": 349780.0,
+      "CORREIOS_TELEFONIA": 378.92,
+      "DESLOCAMENTO": 252557.28,
+      "DIVULGACAO": 591535.0,
       "ESCRITORIO": 369.5,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 590.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 62943.03,
+      "COMBUSTIVEL": 106081.45,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 169.12,
-      "DESLOCAMENTO": 148895.23,
-      "DIVULGACAO": 349780.0,
+      "CORREIOS_TELEFONIA": 378.92,
+      "DESLOCAMENTO": 257022.32,
+      "DIVULGACAO": 591535.0,
       "ESCRITORIO": 369.5,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 590.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -1605.81,
+      "DESLOCAMENTO": -4465.04,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 560275.13,
-    "2026": 275.94
+    "2024": 391237.02
   },
   "monthTotals": {
     "2023-01": 11499.58,
@@ -70,11 +70,22 @@
     "2023-10": 39171.66,
     "2023-11": 37072.36,
     "2023-12": 23998.43,
-    "2026-03": 275.94
+    "2024-01": 28409.68,
+    "2024-02": 34624.94,
+    "2024-03": 40584.94,
+    "2024-04": 36394.56,
+    "2024-05": 35151.5,
+    "2024-06": 9903.93,
+    "2024-07": 0.0,
+    "2024-08": 0.0,
+    "2024-09": 0.0,
+    "2024-10": 9946.96,
+    "2024-11": 106548.4,
+    "2024-12": 89672.11
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 349780.0,
-    "percent": 62.4
+    "amountNet": 591535.0,
+    "percent": 62.17
   }
 }

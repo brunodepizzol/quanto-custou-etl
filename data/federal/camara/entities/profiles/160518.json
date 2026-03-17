@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160518,
-    "generatedAt": "2026-03-17T05:08:51.302493Z",
+    "generatedAt": "2026-03-17T07:28:40.309332Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "weliton-prado"
   },
   "mandateTotals": {
-    "amountNet": 467247.07,
-    "amountGross": 477807.75,
-    "amountAdjustments": -10560.68,
-    "recordsCount": 195,
+    "amountNet": 964270.09,
+    "amountGross": 979208.17,
+    "amountAdjustments": -14938.08,
+    "recordsCount": 363,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 11079.14,
+      "COMBUSTIVEL": 20551.42,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 4088.07,
-      "DESLOCAMENTO": 108059.04,
-      "DIVULGACAO": 340157.35,
-      "ESCRITORIO": 2682.25,
-      "HOSPEDAGEM": 1181.22,
+      "CORREIOS_TELEFONIA": 7617.7,
+      "DESLOCAMENTO": 228106.01,
+      "DIVULGACAO": 671699.22,
+      "ESCRITORIO": 33981.95,
+      "HOSPEDAGEM": 2313.79,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 11079.14,
+      "COMBUSTIVEL": 20551.42,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 4088.07,
-      "DESLOCAMENTO": 118619.72,
-      "DIVULGACAO": 340157.35,
-      "ESCRITORIO": 2682.25,
-      "HOSPEDAGEM": 1181.22,
+      "CORREIOS_TELEFONIA": 7617.7,
+      "DESLOCAMENTO": 243044.09,
+      "DIVULGACAO": 671699.22,
+      "ESCRITORIO": 33981.95,
+      "HOSPEDAGEM": 2313.79,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -10560.68,
+      "DESLOCAMENTO": -14938.08,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 466426.33,
-    "2026": 820.74
+    "2024": 497843.76
   },
   "monthTotals": {
     "2023-01": 7631.07,
@@ -70,11 +70,22 @@
     "2023-10": 14586.97,
     "2023-11": 12630.1,
     "2023-12": 117447.39,
-    "2026-03": 820.74
+    "2024-01": 16958.71,
+    "2024-02": 64504.9,
+    "2024-03": 57058.49,
+    "2024-04": 41313.48,
+    "2024-05": 33735.24,
+    "2024-06": 10847.53,
+    "2024-07": 30734.92,
+    "2024-08": 68132.05,
+    "2024-09": 97321.09,
+    "2024-10": 12286.33,
+    "2024-11": 22121.76,
+    "2024-12": 42829.26
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 340157.35,
-    "percent": 72.8
+    "amountNet": 671699.22,
+    "percent": 69.66
   }
 }

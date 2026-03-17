@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2024-07",
+    "generatedAt": "2026-03-17T07:02:14.463393Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 17303443.41,
+    "amountGross": 18598805.55,
+    "amountAdjustments": -1295362.14,
+    "recordsCount": 18104,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 467,
+    "entitiesWithoutSpending": 46
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 204539,
+      "name": "Hercílio Coelho Diniz",
+      "stateCode": "MG",
+      "party": "MDB",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204539.jpg",
+      "amountNet": 115299.4,
+      "amountGross": 115299.4,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 6158262.38,
+        "amountGross": 6158262.38,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 6057689.78,
+        "amountGross": 7353051.92,
+        "amountAdjustments": -1295362.14
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2661470.76,
+        "amountGross": 2661470.76,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1831643.38,
+        "amountGross": 1831643.38,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 373352.87,
+        "amountGross": 373352.87,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 168639.51,
+        "amountGross": 168639.51,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 43884.73,
+        "amountGross": 43884.73,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 8500.0,
+        "amountGross": 8500.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "MG",
+        "amountNet": 2049318.45,
+        "amountGross": 2139779.79,
+        "amountAdjustments": -90461.34
+      },
+      {
+        "stateCode": "SP",
+        "amountNet": 2040919.76,
+        "amountGross": 2168377.25,
+        "amountAdjustments": -127457.49
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1388317.55,
+        "amountGross": 1534156.78,
+        "amountAdjustments": -145839.23
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1304588.88,
+        "amountGross": 1418599.99,
+        "amountAdjustments": -114011.11
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1261142.56,
+        "amountGross": 1406015.43,
+        "amountAdjustments": -144872.87
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1088706.1,
+        "amountGross": 1173884.1,
+        "amountAdjustments": -85178.0
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1048380.81,
+        "amountGross": 1123240.51,
+        "amountAdjustments": -74859.7
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 761898.08,
+        "amountGross": 814077.33,
+        "amountAdjustments": -52179.25
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 673484.65,
+        "amountGross": 673664.65,
+        "amountAdjustments": -180.0
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 558225.06,
+        "amountGross": 623930.1,
+        "amountAdjustments": -65705.04
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 448199.79,
+        "amountGross": 499051.18,
+        "amountAdjustments": -50851.39
+      },
+      {
+        "stateCode": "PI",
+        "amountNet": 430050.2,
+        "amountGross": 441925.31,
+        "amountAdjustments": -11875.11
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 825390.96,
+      "percent": 4.77
+    },
+    "averages": {
+      "perEntityWithSpending": 37052.34,
+      "perRecord": 955.78
+    },
+    "dailyTotals": {
+      "referenceDate": "2024-10-25",
+      "amountNet": 5000.0,
+      "previousAmountNet": 13000.0,
+      "deltaAmountNet": -8000.0,
+      "deltaPercent": -61.54,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2024-09-26",
+          "amountNet": 1000.0
+        },
+        {
+          "date": "2024-10-02",
+          "amountNet": 8499.96
+        },
+        {
+          "date": "2024-10-03",
+          "amountNet": 3450.0
+        },
+        {
+          "date": "2024-10-07",
+          "amountNet": 391.04
+        },
+        {
+          "date": "2024-10-08",
+          "amountNet": 82.0
+        },
+        {
+          "date": "2024-10-14",
+          "amountNet": 13000.0
+        },
+        {
+          "date": "2024-10-25",
+          "amountNet": 5000.0
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2024-10-25",
+      "entity": {
+        "id": 209787,
+        "name": "Nikolas Ferreira",
+        "stateCode": "MG",
+        "party": "PL",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/209787.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 5000.0,
+      "category": "ESCRITORIO",
+      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "supplier": "MONAGHAN EMPREENDIMENTOS IMOBILIARIOS",
+      "documentType": "Recibos/Outros",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3605/2024/7809378.pdf"
+    }
+  }
+}

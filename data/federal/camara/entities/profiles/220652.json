@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220652,
-    "generatedAt": "2026-03-17T05:08:51.397450Z",
+    "generatedAt": "2026-03-17T07:28:40.375224Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "delegado-palumbo"
   },
   "mandateTotals": {
-    "amountNet": 483581.0,
-    "amountGross": 505640.97,
-    "amountAdjustments": -22059.97,
-    "recordsCount": 682,
+    "amountNet": 966738.21,
+    "amountGross": 1018448.95,
+    "amountAdjustments": -51710.74,
+    "recordsCount": 1308,
     "byCategoryNet": {
-      "ALIMENTACAO": 12076.0,
-      "COMBUSTIVEL": 24910.04,
+      "ALIMENTACAO": 23104.21,
+      "COMBUSTIVEL": 52173.66,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 3246.01,
-      "DESLOCAMENTO": 151235.64,
-      "DIVULGACAO": 135000.0,
-      "ESCRITORIO": 155912.41,
+      "CORREIOS_TELEFONIA": 7357.88,
+      "DESLOCAMENTO": 239720.36,
+      "DIVULGACAO": 315000.0,
+      "ESCRITORIO": 328181.2,
       "HOSPEDAGEM": 1200.9,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 12076.0,
-      "COMBUSTIVEL": 24910.04,
+      "ALIMENTACAO": 23104.21,
+      "COMBUSTIVEL": 52173.66,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 3246.01,
-      "DESLOCAMENTO": 173295.61,
-      "DIVULGACAO": 135000.0,
-      "ESCRITORIO": 155912.41,
+      "CORREIOS_TELEFONIA": 7357.88,
+      "DESLOCAMENTO": 291431.1,
+      "DIVULGACAO": 315000.0,
+      "ESCRITORIO": 328181.2,
       "HOSPEDAGEM": 1200.9,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -22059.97,
+      "DESLOCAMENTO": -51710.74,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 481263.6,
-    "2026": 2317.4
+    "2024": 485474.61
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -70,11 +70,22 @@
     "2023-10": 50732.88,
     "2023-11": 50715.75,
     "2023-12": 42617.17,
-    "2026-03": 2317.4
+    "2024-01": 40420.77,
+    "2024-02": 46076.83,
+    "2024-03": 45806.81,
+    "2024-04": 44119.87,
+    "2024-05": 42995.17,
+    "2024-06": 37930.55,
+    "2024-07": 38498.33,
+    "2024-08": 39201.83,
+    "2024-09": 35734.09,
+    "2024-10": 34936.63,
+    "2024-11": 45298.9,
+    "2024-12": 34454.83
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 155912.41,
-    "percent": 32.24
+    "amountNet": 328181.2,
+    "percent": 33.95
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220583,
-    "generatedAt": "2026-03-17T05:08:51.381388Z",
+    "generatedAt": "2026-03-17T07:28:40.363769Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "delegado-fabio-costa"
   },
   "mandateTotals": {
-    "amountNet": 524380.08,
-    "amountGross": 533834.1,
-    "amountAdjustments": -9454.02,
-    "recordsCount": 391,
+    "amountNet": 1019126.89,
+    "amountGross": 1042359.48,
+    "amountAdjustments": -23232.59,
+    "recordsCount": 576,
     "byCategoryNet": {
-      "ALIMENTACAO": 3326.96,
-      "COMBUSTIVEL": 26573.44,
+      "ALIMENTACAO": 3746.14,
+      "COMBUSTIVEL": 37286.89,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 4348.68,
-      "DESLOCAMENTO": 197177.92,
-      "DIVULGACAO": 248670.0,
-      "ESCRITORIO": 37367.47,
+      "CORREIOS_TELEFONIA": 5042.73,
+      "DESLOCAMENTO": 344864.36,
+      "DIVULGACAO": 545403.69,
+      "ESCRITORIO": 75867.47,
       "HOSPEDAGEM": 6915.61,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 3326.96,
-      "COMBUSTIVEL": 26573.44,
+      "ALIMENTACAO": 3746.14,
+      "COMBUSTIVEL": 37286.89,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 4348.68,
-      "DESLOCAMENTO": 206631.94,
-      "DIVULGACAO": 248670.0,
-      "ESCRITORIO": 37367.47,
+      "CORREIOS_TELEFONIA": 5042.73,
+      "DESLOCAMENTO": 368096.95,
+      "DIVULGACAO": 545403.69,
+      "ESCRITORIO": 75867.47,
       "HOSPEDAGEM": 6915.61,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -9454.02,
+      "DESLOCAMENTO": -23232.59,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 524380.08,
-    "2026": 0.0
+    "2024": 494746.81
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -70,11 +70,22 @@
     "2023-10": 55685.9,
     "2023-11": 40708.88,
     "2023-12": 8580.78,
-    "2026-03": 0.0
+    "2024-01": 44112.69,
+    "2024-02": 43335.3,
+    "2024-03": 54814.71,
+    "2024-04": 0.0,
+    "2024-05": 51768.92,
+    "2024-06": 47142.16,
+    "2024-07": 39859.95,
+    "2024-08": 41970.04,
+    "2024-09": 46173.38,
+    "2024-10": 51113.69,
+    "2024-11": 42894.75,
+    "2024-12": 31561.22
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 248670.0,
-    "percent": 47.42
+    "amountNet": 545403.69,
+    "percent": 53.52
   }
 }

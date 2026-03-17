@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2024-02",
+    "generatedAt": "2026-03-17T06:35:31.289834Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 17981380.32,
+    "amountGross": 18589570.21,
+    "amountAdjustments": -608189.89,
+    "recordsCount": 16613,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 465,
+    "entitiesWithoutSpending": 48
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 204408,
+      "name": "Gustinho Ribeiro",
+      "stateCode": "SE",
+      "party": "REPUBLICANOS",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204408.jpg",
+      "amountNet": 114457.0,
+      "amountGross": 114457.0,
+      "amountAdjustments": 0.0
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 6862899.77,
+        "amountGross": 6862899.77,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 6363161.41,
+        "amountGross": 6971351.3,
+        "amountAdjustments": -608189.89
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2817202.69,
+        "amountGross": 2817202.69,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1509865.74,
+        "amountGross": 1509865.74,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 190727.49,
+        "amountGross": 190727.49,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 177338.39,
+        "amountGross": 177338.39,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 51039.22,
+        "amountGross": 51039.22,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 9145.61,
+        "amountGross": 9145.61,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2123757.52,
+        "amountGross": 2205163.22,
+        "amountAdjustments": -81405.7
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 1909819.56,
+        "amountGross": 1956702.25,
+        "amountAdjustments": -46882.69
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1493748.47,
+        "amountGross": 1565214.77,
+        "amountAdjustments": -71466.3
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1457553.44,
+        "amountGross": 1510701.94,
+        "amountAdjustments": -53148.5
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1252556.85,
+        "amountGross": 1291258.64,
+        "amountAdjustments": -38701.79
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1113417.97,
+        "amountGross": 1154766.92,
+        "amountAdjustments": -41348.95
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1000177.18,
+        "amountGross": 1052526.15,
+        "amountAdjustments": -52348.97
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 728127.17,
+        "amountGross": 753824.2,
+        "amountAdjustments": -25697.03
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 628673.93,
+        "amountGross": 628728.13,
+        "amountAdjustments": -54.2
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 627122.87,
+        "amountGross": 638544.71,
+        "amountAdjustments": -11421.84
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 540236.63,
+        "amountGross": 557816.17,
+        "amountAdjustments": -17579.54
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 465081.39,
+        "amountGross": 488361.49,
+        "amountAdjustments": -23280.1
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 809640.02,
+      "percent": 4.5
+    },
+    "averages": {
+      "perEntityWithSpending": 38669.64,
+      "perRecord": 1082.37
+    },
+    "dailyTotals": {
+      "referenceDate": "2024-05-14",
+      "amountNet": 12500.0,
+      "previousAmountNet": 2380.0,
+      "deltaAmountNet": 10120.0,
+      "deltaPercent": 425.21,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2024-04-26",
+          "amountNet": 5000.0
+        },
+        {
+          "date": "2024-04-30",
+          "amountNet": 3700.0
+        },
+        {
+          "date": "2024-05-02",
+          "amountNet": 2352.19
+        },
+        {
+          "date": "2024-05-03",
+          "amountNet": 13500.0
+        },
+        {
+          "date": "2024-05-08",
+          "amountNet": 15000.0
+        },
+        {
+          "date": "2024-05-09",
+          "amountNet": 2380.0
+        },
+        {
+          "date": "2024-05-14",
+          "amountNet": 12500.0
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2024-05-14",
+      "entity": {
+        "id": 204445,
+        "name": "Fernando Mineiro",
+        "stateCode": "RN",
+        "party": "PT",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204445.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 12500.0,
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "CENTER FILMES AUDIOVISUAL LTDA",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3700/2024/7735254.pdf"
+    }
+  }
+}

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 221338,
-    "generatedAt": "2026-03-17T05:08:51.413231Z",
+    "generatedAt": "2026-03-17T07:28:40.386697Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,19 +15,19 @@
     "slug": "professora-luciene-cavalcante"
   },
   "mandateTotals": {
-    "amountNet": 278880.45,
-    "amountGross": 281763.53,
-    "amountAdjustments": -2883.08,
-    "recordsCount": 399,
+    "amountNet": 730973.3,
+    "amountGross": 744645.13,
+    "amountAdjustments": -13671.83,
+    "recordsCount": 820,
     "byCategoryNet": {
       "ALIMENTACAO": 161.25,
       "COMBUSTIVEL": 260.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 110144.85,
-      "DIVULGACAO": 129215.51,
-      "ESCRITORIO": 31550.61,
-      "HOSPEDAGEM": 7548.23,
+      "DESLOCAMENTO": 269329.5,
+      "DIVULGACAO": 350467.43,
+      "ESCRITORIO": 97916.17,
+      "HOSPEDAGEM": 12838.95,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
@@ -35,10 +35,10 @@
       "COMBUSTIVEL": 260.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 113027.93,
-      "DIVULGACAO": 129215.51,
-      "ESCRITORIO": 31550.61,
-      "HOSPEDAGEM": 7548.23,
+      "DESLOCAMENTO": 283001.33,
+      "DIVULGACAO": 350467.43,
+      "ESCRITORIO": 97916.17,
+      "HOSPEDAGEM": 12838.95,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -2883.08,
+      "DESLOCAMENTO": -13671.83,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 278880.45,
-    "2026": 0.0
+    "2024": 452092.85
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -70,11 +70,22 @@
     "2023-10": 47705.95,
     "2023-11": 21444.83,
     "2023-12": 24637.91,
-    "2026-03": 0.0
+    "2024-01": 19021.28,
+    "2024-02": 24504.7,
+    "2024-03": 38955.14,
+    "2024-04": 23955.46,
+    "2024-05": 54014.63,
+    "2024-06": 42377.99,
+    "2024-07": 43529.93,
+    "2024-08": 44508.49,
+    "2024-09": 27674.53,
+    "2024-10": 17943.46,
+    "2024-11": 38273.1,
+    "2024-12": 77334.14
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 129215.51,
-    "percent": 46.33
+    "amountNet": 350467.43,
+    "percent": 47.95
   }
 }

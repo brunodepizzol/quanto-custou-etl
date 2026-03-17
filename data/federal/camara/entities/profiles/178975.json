@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178975,
-    "generatedAt": "2026-03-17T05:08:51.328594Z",
+    "generatedAt": "2026-03-17T07:28:40.326524Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "baleia-rossi"
   },
   "mandateTotals": {
-    "amountNet": 325059.07,
-    "amountGross": 369538.61,
-    "amountAdjustments": -44479.54,
-    "recordsCount": 333,
+    "amountNet": 635848.03,
+    "amountGross": 707097.78,
+    "amountAdjustments": -71249.75,
+    "recordsCount": 614,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 22841.04,
-      "DESLOCAMENTO": 89989.96,
-      "DIVULGACAO": 29784.11,
-      "ESCRITORIO": 182443.96,
-      "HOSPEDAGEM": 0.0,
+      "CORREIOS_TELEFONIA": 47134.81,
+      "DESLOCAMENTO": 160296.93,
+      "DIVULGACAO": 35449.11,
+      "ESCRITORIO": 392600.52,
+      "HOSPEDAGEM": 366.66,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 22841.04,
-      "DESLOCAMENTO": 134469.5,
-      "DIVULGACAO": 29784.11,
-      "ESCRITORIO": 182443.96,
-      "HOSPEDAGEM": 0.0,
+      "CORREIOS_TELEFONIA": 47134.81,
+      "DESLOCAMENTO": 231546.68,
+      "DIVULGACAO": 35449.11,
+      "ESCRITORIO": 392600.52,
+      "HOSPEDAGEM": 366.66,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -44479.54,
+      "DESLOCAMENTO": -71249.75,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 325059.07,
-    "2026": 0.0
+    "2024": 310788.96
   },
   "monthTotals": {
     "2023-01": 2635.07,
@@ -70,11 +70,22 @@
     "2023-10": 28767.57,
     "2023-11": 24780.12,
     "2023-12": 25834.5,
-    "2026-03": 0.0
+    "2024-01": 34816.82,
+    "2024-02": 25745.55,
+    "2024-03": 27320.16,
+    "2024-04": 34352.7,
+    "2024-05": 27323.94,
+    "2024-06": 25677.31,
+    "2024-07": 23881.1,
+    "2024-08": 25509.86,
+    "2024-09": 15669.25,
+    "2024-10": 20168.58,
+    "2024-11": 25624.26,
+    "2024-12": 24699.43
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 182443.96,
-    "percent": 56.13
+    "amountNet": 392600.52,
+    "percent": 61.74
   }
 }

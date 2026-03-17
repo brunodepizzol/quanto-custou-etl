@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178931,
-    "generatedAt": "2026-03-17T05:08:51.324549Z",
+    "generatedAt": "2026-03-17T07:28:40.323579Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "luciano-ducci"
   },
   "mandateTotals": {
-    "amountNet": 491220.84,
-    "amountGross": 513699.8,
-    "amountAdjustments": -22478.96,
-    "recordsCount": 631,
+    "amountNet": 987353.16,
+    "amountGross": 1035255.32,
+    "amountAdjustments": -47902.16,
+    "recordsCount": 1260,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 58102.6,
+      "COMBUSTIVEL": 116853.27,
       "CONSULTORIA_SERVICOS": 9000.0,
-      "CORREIOS_TELEFONIA": 8951.01,
-      "DESLOCAMENTO": 127772.32,
-      "DIVULGACAO": 118039.35,
-      "ESCRITORIO": 154100.61,
-      "HOSPEDAGEM": 15254.95,
+      "CORREIOS_TELEFONIA": 17003.07,
+      "DESLOCAMENTO": 326823.67,
+      "DIVULGACAO": 208892.63,
+      "ESCRITORIO": 278602.05,
+      "HOSPEDAGEM": 30178.47,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 58102.6,
+      "COMBUSTIVEL": 116853.27,
       "CONSULTORIA_SERVICOS": 9000.0,
-      "CORREIOS_TELEFONIA": 8951.01,
-      "DESLOCAMENTO": 150251.28,
-      "DIVULGACAO": 118039.35,
-      "ESCRITORIO": 154100.61,
-      "HOSPEDAGEM": 15254.95,
+      "CORREIOS_TELEFONIA": 17003.07,
+      "DESLOCAMENTO": 374725.83,
+      "DIVULGACAO": 208892.63,
+      "ESCRITORIO": 278602.05,
+      "HOSPEDAGEM": 30178.47,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -22478.96,
+      "DESLOCAMENTO": -47902.16,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 491220.84,
-    "2026": 0.0
+    "2024": 496132.32
   },
   "monthTotals": {
     "2023-01": 18275.0,
@@ -70,11 +70,22 @@
     "2023-10": 52085.58,
     "2023-11": 48282.57,
     "2023-12": 42119.73,
-    "2026-03": 0.0
+    "2024-01": 24015.22,
+    "2024-02": 42498.68,
+    "2024-03": 55976.57,
+    "2024-04": 48531.09,
+    "2024-05": 49758.85,
+    "2024-06": 48766.91,
+    "2024-07": 18652.98,
+    "2024-08": 20557.37,
+    "2024-09": 18538.32,
+    "2024-10": 58206.47,
+    "2024-11": 63970.29,
+    "2024-12": 46659.57
   },
   "topCategory": {
-    "category": "ESCRITORIO",
-    "amountNet": 154100.61,
-    "percent": 31.37
+    "category": "DESLOCAMENTO",
+    "amountNet": 326823.67,
+    "percent": 33.1
   }
 }

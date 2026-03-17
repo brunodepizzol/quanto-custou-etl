@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178895,
-    "generatedAt": "2026-03-17T05:08:51.322595Z",
+    "generatedAt": "2026-03-17T07:28:40.322260Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "misael-varella"
   },
   "mandateTotals": {
-    "amountNet": 437707.31,
-    "amountGross": 444666.77,
-    "amountAdjustments": -6959.46,
-    "recordsCount": 191,
+    "amountNet": 932322.38,
+    "amountGross": 945548.0,
+    "amountAdjustments": -13225.62,
+    "recordsCount": 388,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 48989.84,
+      "COMBUSTIVEL": 89997.84,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 13286.55,
-      "DESLOCAMENTO": 31384.57,
-      "DIVULGACAO": 159061.0,
-      "ESCRITORIO": 184985.35,
+      "CORREIOS_TELEFONIA": 18712.71,
+      "DESLOCAMENTO": 58691.67,
+      "DIVULGACAO": 407291.71,
+      "ESCRITORIO": 357628.45,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 48989.84,
+      "COMBUSTIVEL": 89997.84,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 13286.55,
-      "DESLOCAMENTO": 38344.03,
-      "DIVULGACAO": 159061.0,
-      "ESCRITORIO": 184985.35,
+      "CORREIOS_TELEFONIA": 18712.71,
+      "DESLOCAMENTO": 71917.29,
+      "DIVULGACAO": 407291.71,
+      "ESCRITORIO": 357628.45,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -6959.46,
+      "DESLOCAMENTO": -13225.62,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 437707.31,
-    "2026": 0.0
+    "2024": 494615.07
   },
   "monthTotals": {
     "2023-01": 1248.9,
@@ -70,11 +70,22 @@
     "2023-10": 27964.95,
     "2023-11": 32357.88,
     "2023-12": 59406.19,
-    "2026-03": 0.0
+    "2024-01": 75078.92,
+    "2024-02": 61276.51,
+    "2024-03": 32283.19,
+    "2024-04": 57186.24,
+    "2024-05": 38703.48,
+    "2024-06": 59389.03,
+    "2024-07": 29971.61,
+    "2024-08": 36016.57,
+    "2024-09": 29707.83,
+    "2024-10": 17250.31,
+    "2024-11": 39915.39,
+    "2024-12": 17835.99
   },
   "topCategory": {
-    "category": "ESCRITORIO",
-    "amountNet": 184985.35,
-    "percent": 42.26
+    "category": "DIVULGACAO",
+    "amountNet": 407291.71,
+    "percent": 43.69
   }
 }

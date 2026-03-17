@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160545,
-    "generatedAt": "2026-03-17T05:08:51.304096Z",
+    "generatedAt": "2026-03-17T07:28:40.310450Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "alexandre-leite"
   },
   "mandateTotals": {
-    "amountNet": 333112.43,
-    "amountGross": 334703.93,
-    "amountAdjustments": -1591.5,
-    "recordsCount": 370,
+    "amountNet": 573195.98,
+    "amountGross": 577608.79,
+    "amountAdjustments": -4412.81,
+    "recordsCount": 639,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 23758.23,
+      "COMBUSTIVEL": 48112.92,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 10487.69,
-      "DESLOCAMENTO": 100921.0,
+      "CORREIOS_TELEFONIA": 18750.85,
+      "DESLOCAMENTO": 181553.08,
       "DIVULGACAO": 340.0,
-      "ESCRITORIO": 197605.51,
+      "ESCRITORIO": 324439.13,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 23758.23,
+      "COMBUSTIVEL": 48112.92,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 10487.69,
-      "DESLOCAMENTO": 102512.5,
+      "CORREIOS_TELEFONIA": 18750.85,
+      "DESLOCAMENTO": 185965.89,
       "DIVULGACAO": 340.0,
-      "ESCRITORIO": 197605.51,
+      "ESCRITORIO": 324439.13,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -1591.5,
+      "DESLOCAMENTO": -4412.81,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 333112.43,
-    "2026": 0.0
+    "2024": 240083.55
   },
   "monthTotals": {
     "2023-01": 826.7,
@@ -70,11 +70,22 @@
     "2023-10": 30018.38,
     "2023-11": 22222.79,
     "2023-12": 21514.41,
-    "2026-03": 0.0
+    "2024-01": 19360.48,
+    "2024-02": 24197.64,
+    "2024-03": 34739.8,
+    "2024-04": 25526.07,
+    "2024-05": 25817.59,
+    "2024-06": 29301.69,
+    "2024-07": 2180.12,
+    "2024-08": 4927.68,
+    "2024-09": 14081.58,
+    "2024-10": 14579.36,
+    "2024-11": 17542.16,
+    "2024-12": 27829.38
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 197605.51,
-    "percent": 59.32
+    "amountNet": 324439.13,
+    "percent": 56.6
   }
 }

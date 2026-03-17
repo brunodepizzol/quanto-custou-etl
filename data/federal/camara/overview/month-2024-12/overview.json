@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2024-12",
+    "generatedAt": "2026-03-17T07:28:39.669498Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 24739622.59,
+    "amountGross": 25926154.81,
+    "amountAdjustments": -1186532.22,
+    "recordsCount": 15349,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 474,
+    "entitiesWithoutSpending": 39
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 220664,
+      "name": "Guilherme Uchoa",
+      "stateCode": "PE",
+      "party": "PSB",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220664.jpg",
+      "amountNet": 245807.96,
+      "amountGross": 250778.5,
+      "amountAdjustments": -4970.54
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 14007868.22,
+        "amountGross": 14007868.22,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 6515494.89,
+        "amountGross": 7702027.11,
+        "amountAdjustments": -1186532.22
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2490569.29,
+        "amountGross": 2490569.29,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1395366.79,
+        "amountGross": 1395366.79,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 145286.08,
+        "amountGross": 145286.08,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 144432.43,
+        "amountGross": 144432.43,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 40604.89,
+        "amountGross": 40604.89,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 3453511.8,
+        "amountGross": 3656244.86,
+        "amountAdjustments": -202733.06
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2354429.09,
+        "amountGross": 2413486.35,
+        "amountAdjustments": -59057.26
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 2273292.01,
+        "amountGross": 2419372.3,
+        "amountAdjustments": -146080.29
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1938880.4,
+        "amountGross": 2088462.01,
+        "amountAdjustments": -149581.61
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1665988.91,
+        "amountGross": 1744056.23,
+        "amountAdjustments": -78067.32
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1320764.59,
+        "amountGross": 1379388.94,
+        "amountAdjustments": -58624.35
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1268206.76,
+        "amountGross": 1312243.65,
+        "amountAdjustments": -44036.89
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 1182150.16,
+        "amountGross": 1211368.61,
+        "amountAdjustments": -29218.45
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 796203.75,
+        "amountGross": 824556.64,
+        "amountAdjustments": -28352.89
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 774584.79,
+        "amountGross": 774584.79,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 702250.56,
+        "amountGross": 721533.15,
+        "amountAdjustments": -19282.59
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 683558.02,
+        "amountGross": 707379.45,
+        "amountAdjustments": -23821.43
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 1796685.19,
+      "percent": 7.26
+    },
+    "averages": {
+      "perEntityWithSpending": 52193.3,
+      "perRecord": 1611.81
+    },
+    "dailyTotals": {
+      "referenceDate": "2025-03-27",
+      "amountNet": 9500.0,
+      "previousAmountNet": 17000.0,
+      "deltaAmountNet": -7500.0,
+      "deltaPercent": -44.12,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2025-03-12",
+          "amountNet": 2640.0
+        },
+        {
+          "date": "2025-03-13",
+          "amountNet": 55000.0
+        },
+        {
+          "date": "2025-03-20",
+          "amountNet": 50000.0
+        },
+        {
+          "date": "2025-03-24",
+          "amountNet": 6300.0
+        },
+        {
+          "date": "2025-03-25",
+          "amountNet": 2400.0
+        },
+        {
+          "date": "2025-03-26",
+          "amountNet": 17000.0
+        },
+        {
+          "date": "2025-03-27",
+          "amountNet": 9500.0
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2025-03-27",
+      "entity": {
+        "id": 160673,
+        "name": "Giovani Cherini",
+        "stateCode": "RS",
+        "party": "PL",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160673.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 9500.0,
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "Instituto Mais Cidades Assessoria e Consultoria ltda",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2281/2025/7889687.pdf"
+    }
+  }
+}

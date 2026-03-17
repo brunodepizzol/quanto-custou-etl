@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160541,
-    "generatedAt": "2026-03-17T05:08:51.303749Z",
+    "generatedAt": "2026-03-17T07:28:40.310242Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "arthur-lira"
   },
   "mandateTotals": {
-    "amountNet": 109541.74,
-    "amountGross": 110909.25,
+    "amountNet": 177826.07,
+    "amountGross": 179193.58,
     "amountAdjustments": -1367.51,
-    "recordsCount": 148,
+    "recordsCount": 301,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 23567.32,
+      "COMBUSTIVEL": 61801.96,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 2586.76,
-      "DESLOCAMENTO": 80387.66,
+      "CORREIOS_TELEFONIA": 2796.12,
+      "DESLOCAMENTO": 99227.99,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 3000.0,
+      "ESCRITORIO": 14000.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 23567.32,
+      "COMBUSTIVEL": 61801.96,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 2586.76,
-      "DESLOCAMENTO": 81755.17,
+      "CORREIOS_TELEFONIA": 2796.12,
+      "DESLOCAMENTO": 100595.5,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 3000.0,
+      "ESCRITORIO": 14000.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 109541.74,
-    "2026": 0.0
+    "2024": 68284.33
   },
   "monthTotals": {
     "2023-01": 232.86,
@@ -70,11 +70,22 @@
     "2023-10": 3673.89,
     "2023-11": 4554.32,
     "2023-12": 5014.67,
-    "2026-03": 0.0
+    "2024-01": 4007.78,
+    "2024-02": 3013.97,
+    "2024-03": 3609.79,
+    "2024-04": 7456.6,
+    "2024-05": 5669.92,
+    "2024-06": 0.0,
+    "2024-07": 7223.72,
+    "2024-08": 5649.87,
+    "2024-09": 7897.57,
+    "2024-10": 11167.24,
+    "2024-11": 7431.64,
+    "2024-12": 5156.23
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 80387.66,
-    "percent": 73.39
+    "amountNet": 99227.99,
+    "percent": 55.8
   }
 }

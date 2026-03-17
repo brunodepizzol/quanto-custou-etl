@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 175765,
-    "generatedAt": "2026-03-17T05:08:51.317097Z",
+    "generatedAt": "2026-03-17T07:28:40.318744Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "ribamar-silva"
   },
   "mandateTotals": {
-    "amountNet": 2068.4,
-    "amountGross": 2068.4,
-    "amountAdjustments": 0.0,
-    "recordsCount": 8,
+    "amountNet": 17257.95,
+    "amountGross": 18187.99,
+    "amountAdjustments": -930.04,
+    "recordsCount": 7,
     "byCategoryNet": {
-      "ALIMENTACAO": 218.45,
-      "COMBUSTIVEL": 1849.95,
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 410.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "DESLOCAMENTO": 3684.62,
+      "DIVULGACAO": 10000.0,
+      "ESCRITORIO": 3163.33,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 218.45,
-      "COMBUSTIVEL": 1849.95,
+      "ALIMENTACAO": 0.0,
+      "COMBUSTIVEL": 410.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "DESLOCAMENTO": 4614.66,
+      "DIVULGACAO": 10000.0,
+      "ESCRITORIO": 3163.33,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -930.04,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 0.0,
-    "2026": 2068.4
+    "2024": 17257.95
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -70,11 +70,22 @@
     "2023-10": 0.0,
     "2023-11": 0.0,
     "2023-12": 0.0,
-    "2026-03": 2068.4
+    "2024-01": 0.0,
+    "2024-02": 0.0,
+    "2024-03": 0.0,
+    "2024-04": 0.0,
+    "2024-05": 0.0,
+    "2024-06": 0.0,
+    "2024-07": 0.0,
+    "2024-08": 0.0,
+    "2024-09": 0.0,
+    "2024-10": 0.0,
+    "2024-11": 0.0,
+    "2024-12": 17257.95
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 1849.95,
-    "percent": 89.44
+    "category": "DIVULGACAO",
+    "amountNet": 10000.0,
+    "percent": 57.94
   }
 }

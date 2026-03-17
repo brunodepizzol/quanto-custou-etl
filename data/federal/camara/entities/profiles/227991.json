@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 227991,
-    "generatedAt": "2026-03-17T05:08:51.416486Z",
+    "generatedAt": "2026-03-17T07:28:40.388924Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "dr-flávio"
   },
   "mandateTotals": {
-    "amountNet": 935.28,
-    "amountGross": 935.28,
-    "amountAdjustments": 0.0,
-    "recordsCount": 3,
+    "amountNet": 149154.14,
+    "amountGross": 151673.96,
+    "amountAdjustments": -2519.82,
+    "recordsCount": 106,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 588.08,
+      "COMBUSTIVEL": 13279.97,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 347.2,
+      "DESLOCAMENTO": 63755.67,
+      "DIVULGACAO": 71000.0,
+      "ESCRITORIO": 1118.5,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 588.08,
+      "COMBUSTIVEL": 13279.97,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 347.2,
+      "DESLOCAMENTO": 66275.49,
+      "DIVULGACAO": 71000.0,
+      "ESCRITORIO": 1118.5,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -2519.82,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 0.0,
-    "2026": 935.28
+    "2024": 149154.14
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -70,11 +70,22 @@
     "2023-10": 0.0,
     "2023-11": 0.0,
     "2023-12": 0.0,
-    "2026-03": 935.28
+    "2024-01": 0.0,
+    "2024-02": 0.0,
+    "2024-03": 0.0,
+    "2024-04": 0.0,
+    "2024-05": 32370.29,
+    "2024-06": 37881.43,
+    "2024-07": 31449.45,
+    "2024-08": 49120.93,
+    "2024-09": -1667.96,
+    "2024-10": 0.0,
+    "2024-11": 0.0,
+    "2024-12": 0.0
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 588.08,
-    "percent": 62.88
+    "category": "DIVULGACAO",
+    "amountNet": 71000.0,
+    "percent": 47.6
   }
 }

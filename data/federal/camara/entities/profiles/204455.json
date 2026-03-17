@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204455,
-    "generatedAt": "2026-03-17T05:08:51.347478Z",
+    "generatedAt": "2026-03-17T07:28:40.339647Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "luiz-lima"
   },
   "mandateTotals": {
-    "amountNet": 510347.62,
-    "amountGross": 516647.03,
-    "amountAdjustments": -6299.41,
-    "recordsCount": 385,
+    "amountNet": 992698.56,
+    "amountGross": 1012917.64,
+    "amountAdjustments": -20219.08,
+    "recordsCount": 848,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 26263.56,
+      "COMBUSTIVEL": 70001.87,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 2596.2,
-      "DESLOCAMENTO": 165738.22,
-      "DIVULGACAO": 195567.3,
-      "ESCRITORIO": 119882.34,
-      "HOSPEDAGEM": 300.0,
+      "CORREIOS_TELEFONIA": 5668.89,
+      "DESLOCAMENTO": 318037.12,
+      "DIVULGACAO": 363847.3,
+      "ESCRITORIO": 233980.15,
+      "HOSPEDAGEM": 1163.23,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 26263.56,
+      "COMBUSTIVEL": 70001.87,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 2596.2,
-      "DESLOCAMENTO": 172037.63,
-      "DIVULGACAO": 195567.3,
-      "ESCRITORIO": 119882.34,
-      "HOSPEDAGEM": 300.0,
+      "CORREIOS_TELEFONIA": 5668.89,
+      "DESLOCAMENTO": 338256.2,
+      "DIVULGACAO": 363847.3,
+      "ESCRITORIO": 233980.15,
+      "HOSPEDAGEM": 1163.23,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -6299.41,
+      "DESLOCAMENTO": -20219.08,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 509603.52,
-    "2026": 744.1
+    "2024": 483095.04
   },
   "monthTotals": {
     "2023-01": 19627.87,
@@ -70,11 +70,22 @@
     "2023-10": 37923.65,
     "2023-11": 76167.12,
     "2023-12": 72077.34,
-    "2026-03": 744.1
+    "2024-01": 30678.52,
+    "2024-02": 24106.51,
+    "2024-03": 31858.69,
+    "2024-04": 35553.54,
+    "2024-05": 40046.65,
+    "2024-06": 58509.83,
+    "2024-07": 30177.96,
+    "2024-08": 30798.3,
+    "2024-09": 34479.07,
+    "2024-10": 48822.32,
+    "2024-11": 36163.18,
+    "2024-12": 81900.47
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 195567.3,
-    "percent": 38.32
+    "amountNet": 363847.3,
+    "percent": 36.65
   }
 }

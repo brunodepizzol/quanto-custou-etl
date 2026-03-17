@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220708,
-    "generatedAt": "2026-03-17T05:08:51.410921Z",
+    "generatedAt": "2026-03-17T07:28:40.385010Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "gabriel-nunes"
   },
   "mandateTotals": {
-    "amountNet": 514462.01,
-    "amountGross": 561035.54,
-    "amountAdjustments": -46573.53,
-    "recordsCount": 609,
+    "amountNet": 1080626.12,
+    "amountGross": 1154661.54,
+    "amountAdjustments": -74035.42,
+    "recordsCount": 1213,
     "byCategoryNet": {
       "ALIMENTACAO": 841.83,
-      "COMBUSTIVEL": 67924.26,
+      "COMBUSTIVEL": 148413.12,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 7803.37,
-      "DESLOCAMENTO": 70356.67,
-      "DIVULGACAO": 265350.0,
-      "ESCRITORIO": 96418.4,
-      "HOSPEDAGEM": 5767.48,
+      "CORREIOS_TELEFONIA": 16996.49,
+      "DESLOCAMENTO": 218760.83,
+      "DIVULGACAO": 488450.0,
+      "ESCRITORIO": 192191.72,
+      "HOSPEDAGEM": 14972.13,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 841.83,
-      "COMBUSTIVEL": 67924.26,
+      "COMBUSTIVEL": 148413.12,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 7803.37,
-      "DESLOCAMENTO": 116930.2,
-      "DIVULGACAO": 265350.0,
-      "ESCRITORIO": 96418.4,
-      "HOSPEDAGEM": 5767.48,
+      "CORREIOS_TELEFONIA": 16996.49,
+      "DESLOCAMENTO": 292796.25,
+      "DIVULGACAO": 488450.0,
+      "ESCRITORIO": 192191.72,
+      "HOSPEDAGEM": 14972.13,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -46573.53,
+      "DESLOCAMENTO": -74035.42,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 511776.81,
-    "2026": 2685.2
+    "2024": 568849.31
   },
   "monthTotals": {
     "2023-01": 1426.36,
@@ -70,11 +70,22 @@
     "2023-10": 47733.02,
     "2023-11": 45023.59,
     "2023-12": 44873.22,
-    "2026-03": 2685.2
+    "2024-01": 41780.09,
+    "2024-02": 43324.89,
+    "2024-03": 62641.36,
+    "2024-04": 49798.14,
+    "2024-05": 53980.17,
+    "2024-06": 51114.13,
+    "2024-07": 53498.51,
+    "2024-08": 52501.63,
+    "2024-09": 51925.45,
+    "2024-10": 34112.92,
+    "2024-11": 41470.93,
+    "2024-12": 32701.09
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 265350.0,
-    "percent": 51.58
+    "amountNet": 488450.0,
+    "percent": 45.2
   }
 }

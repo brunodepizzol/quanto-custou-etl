@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220642,
-    "generatedAt": "2026-03-17T05:08:51.394740Z",
+    "generatedAt": "2026-03-17T07:28:40.373288Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "delegado-bruno-lima"
   },
   "mandateTotals": {
-    "amountNet": 4684.41,
-    "amountGross": 4928.02,
-    "amountAdjustments": -243.61,
-    "recordsCount": 11,
+    "amountNet": 129670.01,
+    "amountGross": 132610.73,
+    "amountAdjustments": -2940.72,
+    "recordsCount": 103,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 1557.46,
+      "ALIMENTACAO": 35.8,
+      "COMBUSTIVEL": 13810.59,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 1425.58,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 827.25,
-      "HOSPEDAGEM": 874.12,
+      "CORREIOS_TELEFONIA": 1098.23,
+      "DESLOCAMENTO": 72430.39,
+      "DIVULGACAO": 29950.0,
+      "ESCRITORIO": 7521.95,
+      "HOSPEDAGEM": 4823.05,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 1557.46,
+      "ALIMENTACAO": 35.8,
+      "COMBUSTIVEL": 13810.59,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 1669.19,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 827.25,
-      "HOSPEDAGEM": 874.12,
+      "CORREIOS_TELEFONIA": 1098.23,
+      "DESLOCAMENTO": 75371.11,
+      "DIVULGACAO": 29950.0,
+      "ESCRITORIO": 7521.95,
+      "HOSPEDAGEM": 4823.05,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -243.61,
+      "DESLOCAMENTO": -2940.72,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 3126.95,
-    "2026": 1557.46
+    "2024": 126543.06
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -70,11 +70,22 @@
     "2023-10": 0.0,
     "2023-11": 0.0,
     "2023-12": 0.0,
-    "2026-03": 1557.46
+    "2024-01": 0.0,
+    "2024-02": 0.0,
+    "2024-03": 0.0,
+    "2024-04": 0.0,
+    "2024-05": 0.0,
+    "2024-06": 0.0,
+    "2024-07": 0.0,
+    "2024-08": 29231.66,
+    "2024-09": 14484.48,
+    "2024-10": 20542.33,
+    "2024-11": 32630.05,
+    "2024-12": 29654.54
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 1557.46,
-    "percent": 33.25
+    "category": "DESLOCAMENTO",
+    "amountNet": 72430.39,
+    "percent": 55.86
   }
 }

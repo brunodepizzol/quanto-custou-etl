@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220602,
-    "generatedAt": "2026-03-17T05:08:51.385484Z",
+    "generatedAt": "2026-03-17T07:28:40.366769Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "dimas-gadelha"
   },
   "mandateTotals": {
-    "amountNet": 445259.96,
-    "amountGross": 462005.17,
-    "amountAdjustments": -16745.21,
-    "recordsCount": 202,
+    "amountNet": 862368.69,
+    "amountGross": 886300.63,
+    "amountAdjustments": -23931.94,
+    "recordsCount": 310,
     "byCategoryNet": {
       "ALIMENTACAO": 83.37,
-      "COMBUSTIVEL": 13657.2,
+      "COMBUSTIVEL": 17657.31,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 167260.16,
-      "DIVULGACAO": 251100.0,
-      "ESCRITORIO": 13159.23,
+      "DESLOCAMENTO": 222633.11,
+      "DIVULGACAO": 502198.52,
+      "ESCRITORIO": 119796.38,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 83.37,
-      "COMBUSTIVEL": 13657.2,
+      "COMBUSTIVEL": 17657.31,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 184005.37,
-      "DIVULGACAO": 251100.0,
-      "ESCRITORIO": 13159.23,
+      "DESLOCAMENTO": 246565.05,
+      "DIVULGACAO": 502198.52,
+      "ESCRITORIO": 119796.38,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -16745.21,
+      "DESLOCAMENTO": -23931.94,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 445259.96,
-    "2026": 0.0
+    "2024": 417108.73
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -70,11 +70,22 @@
     "2023-10": 45733.05,
     "2023-11": 46863.71,
     "2023-12": 95765.07,
-    "2026-03": 0.0
+    "2024-01": 43309.51,
+    "2024-02": 43797.77,
+    "2024-03": 38986.42,
+    "2024-04": 26210.4,
+    "2024-05": 0.0,
+    "2024-06": 10689.54,
+    "2024-07": 1870.08,
+    "2024-08": 7501.99,
+    "2024-09": 20819.8,
+    "2024-10": 48401.31,
+    "2024-11": 95453.29,
+    "2024-12": 80068.62
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 251100.0,
-    "percent": 56.39
+    "amountNet": 502198.52,
+    "percent": 58.23
   }
 }

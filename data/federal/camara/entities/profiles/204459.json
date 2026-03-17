@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204459,
-    "generatedAt": "2026-03-17T05:08:51.348391Z",
+    "generatedAt": "2026-03-17T07:28:40.340251Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "daniela-do-waguinho"
   },
   "mandateTotals": {
-    "amountNet": 119250.73,
-    "amountGross": 127345.99,
-    "amountAdjustments": -8095.26,
-    "recordsCount": 88,
+    "amountNet": 551481.65,
+    "amountGross": 566012.59,
+    "amountAdjustments": -14530.94,
+    "recordsCount": 250,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 3056.48,
+      "COMBUSTIVEL": 11774.1,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 93808.15,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 22386.1,
+      "DESLOCAMENTO": 245146.26,
+      "DIVULGACAO": 226000.0,
+      "ESCRITORIO": 68561.29,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 3056.48,
+      "COMBUSTIVEL": 11774.1,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 101903.41,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 22386.1,
+      "DESLOCAMENTO": 259677.2,
+      "DIVULGACAO": 226000.0,
+      "ESCRITORIO": 68561.29,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -8095.26,
+      "DESLOCAMENTO": -14530.94,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 119250.73,
-    "2026": 0.0
+    "2024": 432230.92
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -70,11 +70,22 @@
     "2023-10": 29536.02,
     "2023-11": 26735.9,
     "2023-12": 23840.43,
-    "2026-03": 0.0
+    "2024-01": 15900.0,
+    "2024-02": 38966.38,
+    "2024-03": 32612.53,
+    "2024-04": 33750.23,
+    "2024-05": 32364.6,
+    "2024-06": 31397.22,
+    "2024-07": 38835.16,
+    "2024-08": 31360.38,
+    "2024-09": 38511.95,
+    "2024-10": 47934.16,
+    "2024-11": 45569.69,
+    "2024-12": 45028.62
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 93808.15,
-    "percent": 78.66
+    "amountNet": 245146.26,
+    "percent": 44.45
   }
 }

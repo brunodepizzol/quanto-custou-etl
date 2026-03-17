@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74585,
-    "generatedAt": "2026-03-17T05:08:51.283360Z",
+    "generatedAt": "2026-03-17T07:28:40.296204Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "lincoln-portela"
   },
   "mandateTotals": {
-    "amountNet": 454335.58,
-    "amountGross": 457576.07,
+    "amountNet": 956136.64,
+    "amountGross": 959377.13,
     "amountAdjustments": -3240.49,
-    "recordsCount": 479,
+    "recordsCount": 986,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 27155.79,
+      "COMBUSTIVEL": 61181.15,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 4449.48,
-      "DESLOCAMENTO": 186036.26,
-      "DIVULGACAO": 107352.86,
-      "ESCRITORIO": 128849.19,
-      "HOSPEDAGEM": 492.0,
+      "CORREIOS_TELEFONIA": 5439.07,
+      "DESLOCAMENTO": 390662.64,
+      "DIVULGACAO": 247352.86,
+      "ESCRITORIO": 248744.88,
+      "HOSPEDAGEM": 2756.04,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 27155.79,
+      "COMBUSTIVEL": 61181.15,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 4449.48,
-      "DESLOCAMENTO": 189276.75,
-      "DIVULGACAO": 107352.86,
-      "ESCRITORIO": 128849.19,
-      "HOSPEDAGEM": 492.0,
+      "CORREIOS_TELEFONIA": 5439.07,
+      "DESLOCAMENTO": 393903.13,
+      "DIVULGACAO": 247352.86,
+      "ESCRITORIO": 248744.88,
+      "HOSPEDAGEM": 2756.04,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 454335.58,
-    "2026": 0.0
+    "2024": 501801.06
   },
   "monthTotals": {
     "2023-01": 573.67,
@@ -70,11 +70,22 @@
     "2023-10": 38419.78,
     "2023-11": 38706.63,
     "2023-12": 39382.09,
-    "2026-03": 0.0
+    "2024-01": 23454.42,
+    "2024-02": 32722.22,
+    "2024-03": 49897.82,
+    "2024-04": 33402.82,
+    "2024-05": 47901.52,
+    "2024-06": 31226.9,
+    "2024-07": 41959.73,
+    "2024-08": 43257.32,
+    "2024-09": 24098.07,
+    "2024-10": 62098.67,
+    "2024-11": 62268.67,
+    "2024-12": 49512.9
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 186036.26,
-    "percent": 40.95
+    "amountNet": 390662.64,
+    "percent": 40.86
   }
 }

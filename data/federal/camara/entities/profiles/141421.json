@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141421,
-    "generatedAt": "2026-03-17T05:08:51.294071Z",
+    "generatedAt": "2026-03-17T07:28:40.303795Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "eduardo-da-fonte"
   },
   "mandateTotals": {
-    "amountNet": 513101.96,
-    "amountGross": 589523.71,
-    "amountAdjustments": -76421.75,
-    "recordsCount": 794,
+    "amountNet": 1087235.58,
+    "amountGross": 1232740.13,
+    "amountAdjustments": -145504.55,
+    "recordsCount": 1472,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 76462.25,
+      "COMBUSTIVEL": 127869.35,
       "CONSULTORIA_SERVICOS": 6000.0,
-      "CORREIOS_TELEFONIA": 3329.8,
-      "DESLOCAMENTO": 264025.61,
-      "DIVULGACAO": 162940.0,
-      "ESCRITORIO": 344.3,
+      "CORREIOS_TELEFONIA": 3552.2,
+      "DESLOCAMENTO": 472862.2,
+      "DIVULGACAO": 474611.83,
+      "ESCRITORIO": 2340.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 76462.25,
+      "COMBUSTIVEL": 127869.35,
       "CONSULTORIA_SERVICOS": 6000.0,
-      "CORREIOS_TELEFONIA": 3329.8,
-      "DESLOCAMENTO": 340447.36,
-      "DIVULGACAO": 162940.0,
-      "ESCRITORIO": 344.3,
+      "CORREIOS_TELEFONIA": 3552.2,
+      "DESLOCAMENTO": 618366.75,
+      "DIVULGACAO": 474611.83,
+      "ESCRITORIO": 2340.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -76421.75,
+      "DESLOCAMENTO": -145504.55,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 513101.96,
-    "2026": 0.0
+    "2024": 574133.62
   },
   "monthTotals": {
     "2023-01": 17138.76,
@@ -70,11 +70,22 @@
     "2023-10": 39265.46,
     "2023-11": 37728.54,
     "2023-12": 59398.82,
-    "2026-03": 0.0
+    "2024-01": 47069.95,
+    "2024-02": 61289.64,
+    "2024-03": 44026.69,
+    "2024-04": 50744.4,
+    "2024-05": 45868.58,
+    "2024-06": 49231.83,
+    "2024-07": 41760.67,
+    "2024-08": 49585.03,
+    "2024-09": 52378.72,
+    "2024-10": 53315.31,
+    "2024-11": 35826.55,
+    "2024-12": 43036.25
   },
   "topCategory": {
-    "category": "DESLOCAMENTO",
-    "amountNet": 264025.61,
-    "percent": 51.46
+    "category": "DIVULGACAO",
+    "amountNet": 474611.83,
+    "percent": 43.65
   }
 }

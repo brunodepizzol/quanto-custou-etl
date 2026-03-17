@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160673,
-    "generatedAt": "2026-03-17T05:08:51.312915Z",
+    "generatedAt": "2026-03-17T07:28:40.316029Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "giovani-cherini"
   },
   "mandateTotals": {
-    "amountNet": 549416.19,
-    "amountGross": 551771.63,
-    "amountAdjustments": -2355.44,
-    "recordsCount": 794,
+    "amountNet": 1073286.04,
+    "amountGross": 1083057.38,
+    "amountAdjustments": -9771.34,
+    "recordsCount": 1477,
     "byCategoryNet": {
-      "ALIMENTACAO": 5099.85,
-      "COMBUSTIVEL": 47320.39,
+      "ALIMENTACAO": 11379.02,
+      "COMBUSTIVEL": 96863.75,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 16639.64,
-      "DESLOCAMENTO": 145289.8,
-      "DIVULGACAO": 157535.14,
-      "ESCRITORIO": 168698.18,
-      "HOSPEDAGEM": 8833.19,
+      "CORREIOS_TELEFONIA": 30512.26,
+      "DESLOCAMENTO": 271682.41,
+      "DIVULGACAO": 304843.54,
+      "ESCRITORIO": 336265.6,
+      "HOSPEDAGEM": 21739.46,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 5099.85,
-      "COMBUSTIVEL": 47320.39,
+      "ALIMENTACAO": 11379.02,
+      "COMBUSTIVEL": 96863.75,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 16639.64,
-      "DESLOCAMENTO": 147645.24,
-      "DIVULGACAO": 157535.14,
-      "ESCRITORIO": 168698.18,
-      "HOSPEDAGEM": 8833.19,
+      "CORREIOS_TELEFONIA": 30512.26,
+      "DESLOCAMENTO": 281453.75,
+      "DIVULGACAO": 304843.54,
+      "ESCRITORIO": 336265.6,
+      "HOSPEDAGEM": 21739.46,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -2355.44,
+      "DESLOCAMENTO": -9771.34,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 548766.79,
-    "2026": 649.4
+    "2024": 524519.25
   },
   "monthTotals": {
     "2023-01": 12759.0,
@@ -70,11 +70,22 @@
     "2023-10": 39902.8,
     "2023-11": 40856.19,
     "2023-12": 39947.77,
-    "2026-03": 649.4
+    "2024-01": 34559.46,
+    "2024-02": 29241.13,
+    "2024-03": 45449.05,
+    "2024-04": 46143.01,
+    "2024-05": 45782.07,
+    "2024-06": 47270.18,
+    "2024-07": 45089.53,
+    "2024-08": 33618.96,
+    "2024-09": 28749.68,
+    "2024-10": 41530.64,
+    "2024-11": 47798.98,
+    "2024-12": 79286.56
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 168698.18,
-    "percent": 30.7
+    "amountNet": 336265.6,
+    "percent": 31.33
   }
 }

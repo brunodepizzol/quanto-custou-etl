@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 128760,
-    "generatedAt": "2026-03-17T05:08:51.290547Z",
+    "generatedAt": "2026-03-17T07:28:40.301326Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "paulo-marinho-jr"
   },
   "mandateTotals": {
-    "amountNet": 34095.18,
-    "amountGross": 42115.05,
-    "amountAdjustments": -8019.87,
-    "recordsCount": 28,
+    "amountNet": 172984.9,
+    "amountGross": 189946.65,
+    "amountAdjustments": -16961.75,
+    "recordsCount": 73,
     "byCategoryNet": {
       "ALIMENTACAO": 83.37,
-      "COMBUSTIVEL": 1697.35,
+      "COMBUSTIVEL": 6121.01,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 15814.46,
-      "DIVULGACAO": 16500.0,
+      "DESLOCAMENTO": 65280.52,
+      "DIVULGACAO": 101500.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 83.37,
-      "COMBUSTIVEL": 1697.35,
+      "COMBUSTIVEL": 6121.01,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 23834.33,
-      "DIVULGACAO": 16500.0,
+      "DESLOCAMENTO": 82242.27,
+      "DIVULGACAO": 101500.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -8019.87,
+      "DESLOCAMENTO": -16961.75,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 34095.18,
-    "2026": 0.0
+    "2024": 138889.72
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -70,11 +70,22 @@
     "2023-10": 0.0,
     "2023-11": 0.0,
     "2023-12": 34095.18,
-    "2026-03": 0.0
+    "2024-01": 36042.17,
+    "2024-02": 38209.66,
+    "2024-03": 64537.89,
+    "2024-04": 100.0,
+    "2024-05": 0.0,
+    "2024-06": 0.0,
+    "2024-07": 0.0,
+    "2024-08": 0.0,
+    "2024-09": 0.0,
+    "2024-10": 0.0,
+    "2024-11": 0.0,
+    "2024-12": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 16500.0,
-    "percent": 48.39
+    "amountNet": 101500.0,
+    "percent": 58.68
   }
 }

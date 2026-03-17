@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2024-08",
+    "generatedAt": "2026-03-17T07:07:30.969049Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 16775133.16,
+    "amountGross": 18085311.63,
+    "amountAdjustments": -1310178.47,
+    "recordsCount": 17311,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 463,
+    "entitiesWithoutSpending": 50
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 141458,
+      "name": "João Carlos Bacelar",
+      "stateCode": "BA",
+      "party": "PL",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/141458.jpg",
+      "amountNet": 119925.84,
+      "amountGross": 121546.74,
+      "amountAdjustments": -1620.9
+    },
+    "topCategories": [
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 5979487.32,
+        "amountGross": 7289665.79,
+        "amountAdjustments": -1310178.47
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 5836995.17,
+        "amountGross": 5836995.17,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2635483.7,
+        "amountGross": 2635483.7,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1830597.91,
+        "amountGross": 1830597.91,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 297327.11,
+        "amountGross": 297327.11,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 150116.04,
+        "amountGross": 150116.04,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 45125.91,
+        "amountGross": 45125.91,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2068880.02,
+        "amountGross": 2198502.31,
+        "amountAdjustments": -129622.29
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 1866188.1,
+        "amountGross": 1946648.62,
+        "amountAdjustments": -80460.52
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1454894.85,
+        "amountGross": 1625491.78,
+        "amountAdjustments": -170596.93
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1341298.71,
+        "amountGross": 1516660.11,
+        "amountAdjustments": -175361.4
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1148612.87,
+        "amountGross": 1262560.21,
+        "amountAdjustments": -113947.34
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 998872.34,
+        "amountGross": 1054877.74,
+        "amountAdjustments": -56005.4
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 983325.57,
+        "amountGross": 1049499.16,
+        "amountAdjustments": -66173.59
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 736437.83,
+        "amountGross": 807513.67,
+        "amountAdjustments": -71075.84
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 592689.81,
+        "amountGross": 592689.81,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 592616.97,
+        "amountGross": 657125.29,
+        "amountAdjustments": -64508.32
+      },
+      {
+        "stateCode": "PI",
+        "amountNet": 453795.64,
+        "amountGross": 489877.81,
+        "amountAdjustments": -36082.17
+      },
+      {
+        "stateCode": "RR",
+        "amountNet": 420330.27,
+        "amountGross": 434148.17,
+        "amountAdjustments": -13817.9
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 890535.02,
+      "percent": 5.31
+    },
+    "averages": {
+      "perEntityWithSpending": 36231.39,
+      "perRecord": 969.04
+    },
+    "dailyTotals": {
+      "referenceDate": "2024-11-27",
+      "amountNet": 15000.0,
+      "previousAmountNet": 15213.0,
+      "deltaAmountNet": -213.0,
+      "deltaPercent": -1.4,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2024-10-30",
+          "amountNet": 19000.0
+        },
+        {
+          "date": "2024-10-31",
+          "amountNet": 21524.15
+        },
+        {
+          "date": "2024-11-04",
+          "amountNet": 6250.0
+        },
+        {
+          "date": "2024-11-13",
+          "amountNet": 7500.0
+        },
+        {
+          "date": "2024-11-14",
+          "amountNet": 12713.0
+        },
+        {
+          "date": "2024-11-22",
+          "amountNet": 15213.0
+        },
+        {
+          "date": "2024-11-27",
+          "amountNet": 15000.0
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2024-11-27",
+      "entity": {
+        "id": 74090,
+        "name": "Átila Lins",
+        "stateCode": "AM",
+        "party": "PSD",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74090.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 15000.0,
+      "category": "DESLOCAMENTO",
+      "expenseType": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "supplier": "CTA - CLEITON TAXI AEREO LTDA",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2024/7836151.pdf"
+    }
+  }
+}

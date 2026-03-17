@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2024-03",
+    "generatedAt": "2026-03-17T06:40:54.177269Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 19345725.29,
+    "amountGross": 20043477.35,
+    "amountAdjustments": -697752.06,
+    "recordsCount": 18759,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 463,
+    "entitiesWithoutSpending": 50
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 204549,
+      "name": "AJ Albuquerque",
+      "stateCode": "CE",
+      "party": "PP",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204549.jpg",
+      "amountNet": 78029.3,
+      "amountGross": 84560.0,
+      "amountAdjustments": -6530.7
+    },
+    "topCategories": [
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 7125528.93,
+        "amountGross": 7823280.99,
+        "amountAdjustments": -697752.06
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 7048299.09,
+        "amountGross": 7048299.09,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2830799.7,
+        "amountGross": 2830799.7,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1763380.95,
+        "amountGross": 1763380.95,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 341720.8,
+        "amountGross": 341720.8,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 165924.09,
+        "amountGross": 165924.09,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 60926.12,
+        "amountGross": 60926.12,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 9145.61,
+        "amountGross": 9145.61,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2315023.9,
+        "amountGross": 2398021.9,
+        "amountAdjustments": -82998.0
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 1994233.19,
+        "amountGross": 2038119.57,
+        "amountAdjustments": -43886.38
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1601361.68,
+        "amountGross": 1635851.26,
+        "amountAdjustments": -34489.58
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1550293.16,
+        "amountGross": 1621014.06,
+        "amountAdjustments": -70720.9
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1319063.48,
+        "amountGross": 1384104.94,
+        "amountAdjustments": -65041.46
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1299453.42,
+        "amountGross": 1335686.35,
+        "amountAdjustments": -36232.93
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1093485.97,
+        "amountGross": 1157046.74,
+        "amountAdjustments": -63560.77
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 759886.95,
+        "amountGross": 805779.27,
+        "amountAdjustments": -45892.32
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 595392.84,
+        "amountGross": 620817.5,
+        "amountAdjustments": -25424.66
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 573579.89,
+        "amountGross": 596784.93,
+        "amountAdjustments": -23205.04
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 548975.84,
+        "amountGross": 564659.93,
+        "amountAdjustments": -15684.09
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 525259.39,
+        "amountGross": 525259.39,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 723226.23,
+      "percent": 3.74
+    },
+    "averages": {
+      "perEntityWithSpending": 41783.42,
+      "perRecord": 1031.28
+    },
+    "dailyTotals": {
+      "referenceDate": "2024-06-19",
+      "amountNet": 330.0,
+      "previousAmountNet": 11959.22,
+      "deltaAmountNet": -11629.22,
+      "deltaPercent": -97.24,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2024-05-29",
+          "amountNet": 21000.0
+        },
+        {
+          "date": "2024-06-03",
+          "amountNet": 6399.6
+        },
+        {
+          "date": "2024-06-05",
+          "amountNet": 2808.0
+        },
+        {
+          "date": "2024-06-06",
+          "amountNet": 9469.5
+        },
+        {
+          "date": "2024-06-10",
+          "amountNet": 3570.2
+        },
+        {
+          "date": "2024-06-18",
+          "amountNet": 11959.22
+        },
+        {
+          "date": "2024-06-19",
+          "amountNet": 330.0
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2024-06-19",
+      "entity": {
+        "id": 74550,
+        "name": "João Leão",
+        "stateCode": "BA",
+        "party": "PP",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74550.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 180.0,
+      "category": "HOSPEDAGEM",
+      "expenseType": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+      "supplier": "HOTEL TROPICAL",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/1063/2024/7756691.pdf"
+    }
+  }
+}

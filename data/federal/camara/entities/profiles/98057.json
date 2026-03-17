@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 98057,
-    "generatedAt": "2026-03-17T05:08:51.287351Z",
+    "generatedAt": "2026-03-17T07:28:40.299036Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "lafayette-de-andrada"
   },
   "mandateTotals": {
-    "amountNet": 438622.6,
-    "amountGross": 446908.36,
-    "amountAdjustments": -8285.76,
-    "recordsCount": 413,
+    "amountNet": 905533.45,
+    "amountGross": 943410.83,
+    "amountAdjustments": -37877.38,
+    "recordsCount": 906,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 51374.55,
+      "COMBUSTIVEL": 104346.95,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 15471.08,
-      "DESLOCAMENTO": 166554.96,
-      "DIVULGACAO": 26400.0,
-      "ESCRITORIO": 175742.29,
-      "HOSPEDAGEM": 3079.72,
+      "CORREIOS_TELEFONIA": 27871.0,
+      "DESLOCAMENTO": 361548.64,
+      "DIVULGACAO": 46700.0,
+      "ESCRITORIO": 354713.39,
+      "HOSPEDAGEM": 10353.47,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 51374.55,
+      "COMBUSTIVEL": 104346.95,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 15471.08,
-      "DESLOCAMENTO": 174840.72,
-      "DIVULGACAO": 26400.0,
-      "ESCRITORIO": 175742.29,
-      "HOSPEDAGEM": 3079.72,
+      "CORREIOS_TELEFONIA": 27871.0,
+      "DESLOCAMENTO": 399426.02,
+      "DIVULGACAO": 46700.0,
+      "ESCRITORIO": 354713.39,
+      "HOSPEDAGEM": 10353.47,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -8285.76,
+      "DESLOCAMENTO": -37877.38,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 431660.37,
-    "2026": 6962.23
+    "2024": 473873.08
   },
   "monthTotals": {
     "2023-01": 7184.92,
@@ -70,11 +70,22 @@
     "2023-10": 40897.04,
     "2023-11": 45064.16,
     "2023-12": 44043.11,
-    "2026-03": 6962.23
+    "2024-01": 43589.29,
+    "2024-02": 46816.53,
+    "2024-03": 50304.91,
+    "2024-04": 41030.79,
+    "2024-05": 33595.38,
+    "2024-06": 43544.94,
+    "2024-07": 38963.84,
+    "2024-08": 36316.81,
+    "2024-09": 42442.08,
+    "2024-10": 39850.45,
+    "2024-11": 33980.42,
+    "2024-12": 23437.64
   },
   "topCategory": {
-    "category": "ESCRITORIO",
-    "amountNet": 175742.29,
-    "percent": 40.07
+    "category": "DESLOCAMENTO",
+    "amountNet": 361548.64,
+    "percent": 39.93
   }
 }

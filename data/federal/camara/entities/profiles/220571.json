@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220571,
-    "generatedAt": "2026-03-17T05:08:51.379062Z",
+    "generatedAt": "2026-03-17T07:28:40.362194Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "daniel-agrobom"
   },
   "mandateTotals": {
-    "amountNet": 110982.79,
-    "amountGross": 110982.79,
+    "amountNet": 291451.04,
+    "amountGross": 291451.04,
     "amountAdjustments": 0.0,
-    "recordsCount": 136,
+    "recordsCount": 306,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 24351.77,
+      "COMBUSTIVEL": 58888.56,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 1085.46,
+      "CORREIOS_TELEFONIA": 1203.18,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 85545.56,
+      "DIVULGACAO": 62312.0,
+      "ESCRITORIO": 169047.3,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 24351.77,
+      "COMBUSTIVEL": 58888.56,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 1085.46,
+      "CORREIOS_TELEFONIA": 1203.18,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 85545.56,
+      "DIVULGACAO": 62312.0,
+      "ESCRITORIO": 169047.3,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 110982.79,
-    "2026": 0.0
+    "2024": 180468.25
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -70,11 +70,22 @@
     "2023-10": 12715.94,
     "2023-11": 10175.55,
     "2023-12": 9851.59,
-    "2026-03": 0.0
+    "2024-01": 6271.0,
+    "2024-02": 10630.75,
+    "2024-03": 12895.07,
+    "2024-04": 0.0,
+    "2024-05": 20786.67,
+    "2024-06": 22699.13,
+    "2024-07": 11554.55,
+    "2024-08": 20252.09,
+    "2024-09": 22848.37,
+    "2024-10": 22077.69,
+    "2024-11": 15468.51,
+    "2024-12": 14984.42
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 85545.56,
-    "percent": 77.08
+    "amountNet": 169047.3,
+    "percent": 58.0
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204501,
-    "generatedAt": "2026-03-17T05:08:51.354912Z",
+    "generatedAt": "2026-03-17T07:28:40.344810Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "alencar-santana"
   },
   "mandateTotals": {
-    "amountNet": 490185.22,
-    "amountGross": 512217.97,
-    "amountAdjustments": -22032.75,
-    "recordsCount": 320,
+    "amountNet": 992945.26,
+    "amountGross": 1043985.01,
+    "amountAdjustments": -51039.75,
+    "recordsCount": 532,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 71235.97,
+      "COMBUSTIVEL": 117777.29,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 5835.44,
-      "DESLOCAMENTO": 133444.02,
-      "DIVULGACAO": 193844.37,
-      "ESCRITORIO": 84781.83,
+      "CORREIOS_TELEFONIA": 6786.23,
+      "DESLOCAMENTO": 250888.19,
+      "DIVULGACAO": 449749.48,
+      "ESCRITORIO": 166700.48,
       "HOSPEDAGEM": 1043.59,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 71235.97,
+      "COMBUSTIVEL": 117777.29,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 5835.44,
-      "DESLOCAMENTO": 155476.77,
-      "DIVULGACAO": 193844.37,
-      "ESCRITORIO": 84781.83,
+      "CORREIOS_TELEFONIA": 6786.23,
+      "DESLOCAMENTO": 301927.94,
+      "DIVULGACAO": 449749.48,
+      "ESCRITORIO": 166700.48,
       "HOSPEDAGEM": 1043.59,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -22032.75,
+      "DESLOCAMENTO": -51039.75,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,7 @@
   },
   "yearTotals": {
     "2023": 490185.22,
-    "2026": 0.0
+    "2024": 502760.04
   },
   "monthTotals": {
     "2023-01": 5525.8,
@@ -70,11 +70,22 @@
     "2023-10": 45762.78,
     "2023-11": 39977.94,
     "2023-12": 33832.34,
-    "2026-03": 0.0
+    "2024-01": 38723.2,
+    "2024-02": 39128.85,
+    "2024-03": 42059.59,
+    "2024-04": 35751.86,
+    "2024-05": 54997.84,
+    "2024-06": 21473.89,
+    "2024-07": 33213.57,
+    "2024-08": 17438.25,
+    "2024-09": 255.0,
+    "2024-10": 46499.1,
+    "2024-11": 71489.56,
+    "2024-12": 101729.33
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 193844.37,
-    "percent": 39.55
+    "amountNet": 449749.48,
+    "percent": 45.29
   }
 }
