@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2025-07",
+    "generatedAt": "2026-03-17T08:46:22.502588Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 21780062.82,
+    "amountGross": 23023987.97,
+    "amountAdjustments": -1243925.15,
+    "recordsCount": 18570,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 484,
+    "entitiesWithoutSpending": 29
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 215043,
+      "name": "Josivaldo JP",
+      "stateCode": "MA",
+      "party": "PSD",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/215043.jpg",
+      "amountNet": 115777.12,
+      "amountGross": 117401.13,
+      "amountAdjustments": -1624.01
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 8169154.38,
+        "amountGross": 8169154.38,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 8110967.7,
+        "amountGross": 9354892.85,
+        "amountAdjustments": -1243925.15
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 3025962.34,
+        "amountGross": 3025962.34,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1843678.77,
+        "amountGross": 1843678.77,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 406780.04,
+        "amountGross": 406780.04,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 173482.88,
+        "amountGross": 173482.88,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 50036.71,
+        "amountGross": 50036.71,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2693697.59,
+        "amountGross": 2859047.88,
+        "amountAdjustments": -165350.29
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2361128.45,
+        "amountGross": 2456101.95,
+        "amountAdjustments": -94973.5
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1733067.54,
+        "amountGross": 1857835.64,
+        "amountAdjustments": -124768.1
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1664120.77,
+        "amountGross": 1742371.05,
+        "amountAdjustments": -78250.28
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1552653.82,
+        "amountGross": 1670284.39,
+        "amountAdjustments": -117630.57
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1476923.1,
+        "amountGross": 1564145.99,
+        "amountAdjustments": -87222.89
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1245246.37,
+        "amountGross": 1329479.5,
+        "amountAdjustments": -84233.13
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 898255.01,
+        "amountGross": 954830.91,
+        "amountAdjustments": -56575.9
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 654637.13,
+        "amountGross": 693171.92,
+        "amountAdjustments": -38534.79
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 650177.54,
+        "amountGross": 701529.93,
+        "amountAdjustments": -51352.39
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 648407.12,
+        "amountGross": 648407.12,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 603988.86,
+        "amountGross": 634296.03,
+        "amountAdjustments": -30307.17
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 960309.64,
+      "percent": 4.41
+    },
+    "averages": {
+      "perEntityWithSpending": 45000.13,
+      "perRecord": 1172.86
+    },
+    "dailyTotals": {
+      "referenceDate": "2025-10-29",
+      "amountNet": 21000.0,
+      "previousAmountNet": 4800.0,
+      "deltaAmountNet": 16200.0,
+      "deltaPercent": 337.5,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2025-10-08",
+          "amountNet": 11000.0
+        },
+        {
+          "date": "2025-10-15",
+          "amountNet": 220.0
+        },
+        {
+          "date": "2025-10-20",
+          "amountNet": 30000.0
+        },
+        {
+          "date": "2025-10-22",
+          "amountNet": 10000.0
+        },
+        {
+          "date": "2025-10-27",
+          "amountNet": 1000.0
+        },
+        {
+          "date": "2025-10-28",
+          "amountNet": 4800.0
+        },
+        {
+          "date": "2025-10-29",
+          "amountNet": 21000.0
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2025-10-29",
+      "entity": {
+        "id": 220686,
+        "name": "Duarte Jr.",
+        "stateCode": "MA",
+        "party": "PSB",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220686.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 21000.0,
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "NILSON R. DA SILVA EIRELI",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3516/2025/8005385.pdf"
+    }
+  }
+}

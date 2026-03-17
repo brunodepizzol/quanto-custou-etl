@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220528,
-    "generatedAt": "2026-03-17T07:28:40.354001Z",
+    "generatedAt": "2026-03-17T09:12:39.101341Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "dr-victor-linhalis"
   },
   "mandateTotals": {
-    "amountNet": 953772.84,
-    "amountGross": 1030006.23,
-    "amountAdjustments": -76233.39,
-    "recordsCount": 521,
+    "amountNet": 1467325.81,
+    "amountGross": 1609117.6,
+    "amountAdjustments": -141791.79,
+    "recordsCount": 852,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 76092.46,
+      "COMBUSTIVEL": 89410.54,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 6640.05,
-      "DESLOCAMENTO": 355445.63,
-      "DIVULGACAO": 365379.12,
-      "ESCRITORIO": 148710.58,
-      "HOSPEDAGEM": 1505.0,
+      "CORREIOS_TELEFONIA": 10870.2,
+      "DESLOCAMENTO": 482867.62,
+      "DIVULGACAO": 609827.35,
+      "ESCRITORIO": 269325.29,
+      "HOSPEDAGEM": 5024.81,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 76092.46,
+      "COMBUSTIVEL": 89410.54,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 6640.05,
-      "DESLOCAMENTO": 431679.02,
-      "DIVULGACAO": 365379.12,
-      "ESCRITORIO": 148710.58,
-      "HOSPEDAGEM": 1505.0,
+      "CORREIOS_TELEFONIA": 10870.2,
+      "DESLOCAMENTO": 624659.41,
+      "DIVULGACAO": 609827.35,
+      "ESCRITORIO": 269325.29,
+      "HOSPEDAGEM": 5024.81,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -76233.39,
+      "DESLOCAMENTO": -141791.79,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 449188.91,
-    "2024": 504583.93
+    "2024": 504583.93,
+    "2025": 513552.97
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 41920.82,
     "2024-10": 39886.24,
     "2024-11": 32135.67,
-    "2024-12": 54573.23
+    "2024-12": 54573.23,
+    "2025-01": 10332.1,
+    "2025-02": 19227.22,
+    "2025-03": 48911.09,
+    "2025-04": 25833.55,
+    "2025-05": 31837.74,
+    "2025-06": 38071.22,
+    "2025-07": 44849.77,
+    "2025-08": 39577.11,
+    "2025-09": 44565.84,
+    "2025-10": 35068.93,
+    "2025-11": 35253.46,
+    "2025-12": 140024.94
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 365379.12,
-    "percent": 38.31
+    "amountNet": 609827.35,
+    "percent": 41.56
   }
 }

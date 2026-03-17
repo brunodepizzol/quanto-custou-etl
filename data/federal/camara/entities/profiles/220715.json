@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220715,
-    "generatedAt": "2026-03-17T07:28:40.385884Z",
+    "generatedAt": "2026-03-17T09:12:39.137577Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,16 +15,16 @@
     "slug": "amom-mandel"
   },
   "mandateTotals": {
-    "amountNet": 37811.33,
-    "amountGross": 95223.06,
-    "amountAdjustments": -57411.73,
-    "recordsCount": 108,
+    "amountNet": 113485.2,
+    "amountGross": 246966.42,
+    "amountAdjustments": -133481.22,
+    "recordsCount": 210,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 37811.33,
+      "DESLOCAMENTO": 113485.2,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -35,7 +35,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 95223.06,
+      "DESLOCAMENTO": 246966.42,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -57411.73,
+      "DESLOCAMENTO": -133481.22,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 12966.5,
-    "2024": 24844.83
+    "2024": 24844.83,
+    "2025": 75673.87
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 1565.07,
     "2024-10": 3889.9,
     "2024-11": 1490.07,
-    "2024-12": 6819.7
+    "2024-12": 6819.7,
+    "2025-01": 0.0,
+    "2025-02": 4397.1,
+    "2025-03": 777.51,
+    "2025-04": 2102.29,
+    "2025-05": 9205.5,
+    "2025-06": 8174.02,
+    "2025-07": 2890.41,
+    "2025-08": 4934.64,
+    "2025-09": 15784.43,
+    "2025-10": 25057.66,
+    "2025-11": 5384.35,
+    "2025-12": -3034.04
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 37811.33,
+    "amountNet": 113485.2,
     "percent": 100.0
   }
 }

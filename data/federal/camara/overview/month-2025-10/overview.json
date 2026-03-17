@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2025-10",
+    "generatedAt": "2026-03-17T09:02:09.476929Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 23047867.54,
+    "amountGross": 24582351.68,
+    "amountAdjustments": -1534484.14,
+    "recordsCount": 20171,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 492,
+    "entitiesWithoutSpending": 21
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 220621,
+      "name": "Sargento Gonçalves",
+      "stateCode": "RN",
+      "party": "PL",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220621.jpg",
+      "amountNet": 157232.06,
+      "amountGross": 158718.96,
+      "amountAdjustments": -1486.9
+    },
+    "topCategories": [
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 8907054.45,
+        "amountGross": 10441538.59,
+        "amountAdjustments": -1534484.14
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 8583298.32,
+        "amountGross": 8583298.32,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2998001.23,
+        "amountGross": 2998001.23,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1957109.4,
+        "amountGross": 1957109.4,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 368167.5,
+        "amountGross": 368167.5,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 162655.44,
+        "amountGross": 162655.44,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 64592.12,
+        "amountGross": 64592.12,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 6989.08,
+        "amountGross": 6989.08,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2822728.17,
+        "amountGross": 3014106.21,
+        "amountAdjustments": -191378.04
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2296032.57,
+        "amountGross": 2358094.83,
+        "amountAdjustments": -62062.26
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1905055.4,
+        "amountGross": 2107111.31,
+        "amountAdjustments": -202055.91
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1804236.34,
+        "amountGross": 1945870.6,
+        "amountAdjustments": -141634.26
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1450708.51,
+        "amountGross": 1534024.88,
+        "amountAdjustments": -83316.37
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1382793.79,
+        "amountGross": 1461456.36,
+        "amountAdjustments": -78662.57
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1366977.99,
+        "amountGross": 1481729.76,
+        "amountAdjustments": -114751.77
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 1010247.14,
+        "amountGross": 1094920.35,
+        "amountAdjustments": -84673.21
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 760825.15,
+        "amountGross": 816851.14,
+        "amountAdjustments": -56025.99
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 751735.6,
+        "amountGross": 817130.19,
+        "amountAdjustments": -65394.59
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 685985.49,
+        "amountGross": 729967.87,
+        "amountAdjustments": -43982.38
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 655075.22,
+        "amountGross": 704231.7,
+        "amountAdjustments": -49156.48
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 952325.41,
+      "percent": 4.13
+    },
+    "averages": {
+      "perEntityWithSpending": 46845.26,
+      "perRecord": 1142.62
+    },
+    "dailyTotals": {
+      "referenceDate": "2026-01-07",
+      "amountNet": 15000.0,
+      "previousAmountNet": 12000.0,
+      "deltaAmountNet": 3000.0,
+      "deltaPercent": 25.0,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2025-12-23",
+          "amountNet": 20000.0
+        },
+        {
+          "date": "2025-12-26",
+          "amountNet": 10233.64
+        },
+        {
+          "date": "2025-12-29",
+          "amountNet": 10756.5
+        },
+        {
+          "date": "2025-12-30",
+          "amountNet": 12500.0
+        },
+        {
+          "date": "2025-12-31",
+          "amountNet": 32400.0
+        },
+        {
+          "date": "2026-01-02",
+          "amountNet": 12000.0
+        },
+        {
+          "date": "2026-01-07",
+          "amountNet": 15000.0
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2026-01-07",
+      "entity": {
+        "id": 220697,
+        "name": "Jadyel Alencar",
+        "stateCode": "PI",
+        "party": "REPUBLICANOS",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220697.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 15000.0,
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "JM INDUSTRIA DE EMBALAGENS E ROTULOS LTDA",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3549/2025/8036076.pdf"
+    }
+  }
+}

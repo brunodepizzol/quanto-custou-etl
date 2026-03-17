@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220552,
-    "generatedAt": "2026-03-17T07:28:40.358463Z",
+    "generatedAt": "2026-03-17T09:12:39.106323Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "zucco"
   },
   "mandateTotals": {
-    "amountNet": 686830.61,
-    "amountGross": 740662.23,
-    "amountAdjustments": -53831.62,
-    "recordsCount": 893,
+    "amountNet": 1149061.93,
+    "amountGross": 1270845.16,
+    "amountAdjustments": -121783.23,
+    "recordsCount": 1473,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 93801.51,
+      "COMBUSTIVEL": 135096.67,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 303895.79,
-      "DIVULGACAO": 116943.0,
-      "ESCRITORIO": 166245.2,
-      "HOSPEDAGEM": 5945.11,
+      "DESLOCAMENTO": 562556.61,
+      "DIVULGACAO": 165523.0,
+      "ESCRITORIO": 278238.69,
+      "HOSPEDAGEM": 7646.96,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 93801.51,
+      "COMBUSTIVEL": 135096.67,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 357727.41,
-      "DIVULGACAO": 116943.0,
-      "ESCRITORIO": 166245.2,
-      "HOSPEDAGEM": 5945.11,
+      "DESLOCAMENTO": 684339.84,
+      "DIVULGACAO": 165523.0,
+      "ESCRITORIO": 278238.69,
+      "HOSPEDAGEM": 7646.96,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -53831.62,
+      "DESLOCAMENTO": -121783.23,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 278089.53,
-    "2024": 408741.08
+    "2024": 408741.08,
+    "2025": 462231.32
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 43358.5,
     "2024-10": 28984.82,
     "2024-11": 43231.72,
-    "2024-12": 30705.96
+    "2024-12": 30705.96,
+    "2025-01": 26217.09,
+    "2025-02": 40923.46,
+    "2025-03": 50472.91,
+    "2025-04": 53836.52,
+    "2025-05": 52001.89,
+    "2025-06": 51128.42,
+    "2025-07": 53157.57,
+    "2025-08": 26530.23,
+    "2025-09": 30631.82,
+    "2025-10": 29599.05,
+    "2025-11": 22452.2,
+    "2025-12": 25280.16
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 303895.79,
-    "percent": 44.25
+    "amountNet": 562556.61,
+    "percent": 48.96
   }
 }

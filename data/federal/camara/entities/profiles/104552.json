@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 104552,
-    "generatedAt": "2026-03-17T07:28:40.299653Z",
+    "generatedAt": "2026-03-17T09:12:39.040180Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "socorro-neri"
   },
   "mandateTotals": {
-    "amountNet": 1059563.08,
-    "amountGross": 1112544.71,
-    "amountAdjustments": -52981.63,
-    "recordsCount": 521,
+    "amountNet": 1598928.89,
+    "amountGross": 1671592.27,
+    "amountAdjustments": -72663.38,
+    "recordsCount": 730,
     "byCategoryNet": {
       "ALIMENTACAO": 78.73,
-      "COMBUSTIVEL": 75429.92,
+      "COMBUSTIVEL": 120960.32,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 278883.36,
-      "DIVULGACAO": 688169.65,
-      "ESCRITORIO": 16067.5,
+      "DESLOCAMENTO": 494257.27,
+      "DIVULGACAO": 965720.65,
+      "ESCRITORIO": 16978.0,
       "HOSPEDAGEM": 933.92,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 78.73,
-      "COMBUSTIVEL": 75429.92,
+      "COMBUSTIVEL": 120960.32,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 331864.99,
-      "DIVULGACAO": 688169.65,
-      "ESCRITORIO": 16067.5,
+      "DESLOCAMENTO": 566920.65,
+      "DIVULGACAO": 965720.65,
+      "ESCRITORIO": 16978.0,
       "HOSPEDAGEM": 933.92,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -52981.63,
+      "DESLOCAMENTO": -72663.38,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 522393.41,
-    "2024": 537169.67
+    "2024": 537169.67,
+    "2025": 539365.81
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 41929.13,
     "2024-10": 35863.2,
     "2024-11": 36115.13,
-    "2024-12": 5000.0
+    "2024-12": 5000.0,
+    "2025-01": 45710.71,
+    "2025-02": 44163.61,
+    "2025-03": 42136.5,
+    "2025-04": 42524.55,
+    "2025-05": 47064.08,
+    "2025-06": 46003.22,
+    "2025-07": 43700.16,
+    "2025-08": 40097.45,
+    "2025-09": 44900.61,
+    "2025-10": 48297.03,
+    "2025-11": 47963.11,
+    "2025-12": 46804.78
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 688169.65,
-    "percent": 64.95
+    "amountNet": 965720.65,
+    "percent": 60.4
   }
 }

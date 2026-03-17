@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141421,
-    "generatedAt": "2026-03-17T07:28:40.303795Z",
+    "generatedAt": "2026-03-17T09:12:39.044884Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "eduardo-da-fonte"
   },
   "mandateTotals": {
-    "amountNet": 1087235.58,
-    "amountGross": 1232740.13,
-    "amountAdjustments": -145504.55,
-    "recordsCount": 1472,
+    "amountNet": 1647576.23,
+    "amountGross": 1861802.18,
+    "amountAdjustments": -214225.95,
+    "recordsCount": 1936,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 127869.35,
+      "COMBUSTIVEL": 141848.87,
       "CONSULTORIA_SERVICOS": 6000.0,
       "CORREIOS_TELEFONIA": 3552.2,
-      "DESLOCAMENTO": 472862.2,
-      "DIVULGACAO": 474611.83,
+      "DESLOCAMENTO": 704242.02,
+      "DIVULGACAO": 789593.14,
       "ESCRITORIO": 2340.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 127869.35,
+      "COMBUSTIVEL": 141848.87,
       "CONSULTORIA_SERVICOS": 6000.0,
       "CORREIOS_TELEFONIA": 3552.2,
-      "DESLOCAMENTO": 618366.75,
-      "DIVULGACAO": 474611.83,
+      "DESLOCAMENTO": 918467.97,
+      "DIVULGACAO": 789593.14,
       "ESCRITORIO": 2340.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -145504.55,
+      "DESLOCAMENTO": -214225.95,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 513101.96,
-    "2024": 574133.62
+    "2024": 574133.62,
+    "2025": 560340.65
   },
   "monthTotals": {
     "2023-01": 17138.76,
@@ -81,11 +82,23 @@
     "2024-09": 52378.72,
     "2024-10": 53315.31,
     "2024-11": 35826.55,
-    "2024-12": 43036.25
+    "2024-12": 43036.25,
+    "2025-01": 39645.69,
+    "2025-02": 48893.76,
+    "2025-03": 50037.98,
+    "2025-04": 52172.03,
+    "2025-05": 50455.69,
+    "2025-06": 53852.72,
+    "2025-07": 52298.6,
+    "2025-08": 45430.8,
+    "2025-09": 37217.56,
+    "2025-10": 51621.45,
+    "2025-11": 41736.41,
+    "2025-12": 36977.96
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 474611.83,
-    "percent": 43.65
+    "amountNet": 789593.14,
+    "percent": 47.92
   }
 }

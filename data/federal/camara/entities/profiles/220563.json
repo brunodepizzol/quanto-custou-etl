@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220563,
-    "generatedAt": "2026-03-17T07:28:40.360561Z",
+    "generatedAt": "2026-03-17T09:12:39.108621Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "icaro-de-valmir"
   },
   "mandateTotals": {
-    "amountNet": 860372.93,
-    "amountGross": 918803.17,
-    "amountAdjustments": -58430.24,
-    "recordsCount": 639,
+    "amountNet": 1370376.1,
+    "amountGross": 1503428.59,
+    "amountAdjustments": -133052.49,
+    "recordsCount": 1083,
     "byCategoryNet": {
       "ALIMENTACAO": 484.59,
-      "COMBUSTIVEL": 50263.68,
+      "COMBUSTIVEL": 89388.18,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 7613.24,
-      "DESLOCAMENTO": 346178.15,
-      "DIVULGACAO": 437100.0,
-      "ESCRITORIO": 18733.27,
+      "CORREIOS_TELEFONIA": 13254.24,
+      "DESLOCAMENTO": 603919.92,
+      "DIVULGACAO": 630000.0,
+      "ESCRITORIO": 33329.17,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 484.59,
-      "COMBUSTIVEL": 50263.68,
+      "COMBUSTIVEL": 89388.18,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 7613.24,
-      "DESLOCAMENTO": 404608.39,
-      "DIVULGACAO": 437100.0,
-      "ESCRITORIO": 18733.27,
+      "CORREIOS_TELEFONIA": 13254.24,
+      "DESLOCAMENTO": 736972.41,
+      "DIVULGACAO": 630000.0,
+      "ESCRITORIO": 33329.17,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -58430.24,
+      "DESLOCAMENTO": -133052.49,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 508800.72,
-    "2024": 351572.21
+    "2024": 351572.21,
+    "2025": 510003.17
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 48098.44,
-    "2024-12": 28223.49
+    "2024-12": 28223.49,
+    "2025-01": 41063.82,
+    "2025-02": 41863.13,
+    "2025-03": 53048.85,
+    "2025-04": 60034.67,
+    "2025-05": 43403.32,
+    "2025-06": 46386.31,
+    "2025-07": 46779.5,
+    "2025-08": 43226.69,
+    "2025-09": 48089.21,
+    "2025-10": 42821.31,
+    "2025-11": 34249.92,
+    "2025-12": 9036.44
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 437100.0,
-    "percent": 50.8
+    "amountNet": 630000.0,
+    "percent": 45.97
   }
 }

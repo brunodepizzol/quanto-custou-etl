@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 213762,
-    "generatedAt": "2026-03-17T07:28:40.352700Z",
+    "generatedAt": "2026-03-17T09:12:39.099972Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "carla-dickson"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
-    "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "amountNet": 570512.64,
+    "amountGross": 578795.19,
+    "amountAdjustments": -8282.55,
+    "recordsCount": 331,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 26708.38,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 219262.89,
+      "DIVULGACAO": 242737.7,
+      "ESCRITORIO": 79849.67,
+      "HOSPEDAGEM": 1954.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 26708.38,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 227545.44,
+      "DIVULGACAO": 242737.7,
+      "ESCRITORIO": 79849.67,
+      "HOSPEDAGEM": 1954.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -8282.55,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 0.0,
-    "2024": 0.0
+    "2024": 0.0,
+    "2025": 570512.64
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 0.0,
-    "2024-12": 0.0
+    "2024-12": 0.0,
+    "2025-01": 39793.09,
+    "2025-02": 37488.32,
+    "2025-03": 29928.57,
+    "2025-04": 39009.03,
+    "2025-05": 44689.79,
+    "2025-06": 44738.1,
+    "2025-07": 57302.97,
+    "2025-08": 55267.07,
+    "2025-09": 54422.42,
+    "2025-10": 44926.83,
+    "2025-11": 58159.7,
+    "2025-12": 64786.75
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DIVULGACAO",
+    "amountNet": 242737.7,
+    "percent": 42.55
   }
 }

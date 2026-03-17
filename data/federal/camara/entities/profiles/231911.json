@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 231911,
-    "generatedAt": "2026-03-17T07:28:40.390089Z",
+    "generatedAt": "2026-03-17T09:12:39.142494Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "lenir-de-assis"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
-    "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "amountNet": 418778.1,
+    "amountGross": 423891.38,
+    "amountAdjustments": -5113.28,
+    "recordsCount": 707,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 4474.95,
+      "COMBUSTIVEL": 20507.34,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "CORREIOS_TELEFONIA": 223.79,
+      "DESLOCAMENTO": 134856.18,
+      "DIVULGACAO": 100552.0,
+      "ESCRITORIO": 140222.51,
+      "HOSPEDAGEM": 17941.33,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 4474.95,
+      "COMBUSTIVEL": 20507.34,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "CORREIOS_TELEFONIA": 223.79,
+      "DESLOCAMENTO": 139969.46,
+      "DIVULGACAO": 100552.0,
+      "ESCRITORIO": 140222.51,
+      "HOSPEDAGEM": 17941.33,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -5113.28,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 0.0,
-    "2024": 0.0
+    "2024": 0.0,
+    "2025": 418778.1
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 0.0,
-    "2024-12": 0.0
+    "2024-12": 0.0,
+    "2025-01": 0.0,
+    "2025-02": 0.0,
+    "2025-03": 5357.04,
+    "2025-04": 26731.53,
+    "2025-05": 22624.66,
+    "2025-06": 24608.43,
+    "2025-07": 51434.56,
+    "2025-08": 33221.1,
+    "2025-09": 43398.07,
+    "2025-10": 64213.87,
+    "2025-11": 78602.67,
+    "2025-12": 68586.17
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "ESCRITORIO",
+    "amountNet": 140222.51,
+    "percent": 33.48
   }
 }

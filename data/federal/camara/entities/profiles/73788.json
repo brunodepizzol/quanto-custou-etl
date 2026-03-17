@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 73788,
-    "generatedAt": "2026-03-17T07:28:40.287723Z",
+    "generatedAt": "2026-03-17T09:12:39.026605Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "ricardo-barros"
   },
   "mandateTotals": {
-    "amountNet": 830.24,
-    "amountGross": 830.24,
-    "amountAdjustments": 0.0,
-    "recordsCount": 1,
+    "amountNet": 393654.93,
+    "amountGross": 448755.61,
+    "amountAdjustments": -55100.68,
+    "recordsCount": 313,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 9735.26,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 830.24,
+      "CORREIOS_TELEFONIA": 6587.59,
+      "DESLOCAMENTO": 138194.14,
+      "DIVULGACAO": 175823.79,
+      "ESCRITORIO": 63314.15,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 9735.26,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 830.24,
+      "CORREIOS_TELEFONIA": 6587.59,
+      "DESLOCAMENTO": 193294.82,
+      "DIVULGACAO": 175823.79,
+      "ESCRITORIO": 63314.15,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -55100.68,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 830.24,
-    "2024": 0.0
+    "2024": 0.0,
+    "2025": 392824.69
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 0.0,
-    "2024-12": 0.0
+    "2024-12": 0.0,
+    "2025-01": 0.0,
+    "2025-02": 0.0,
+    "2025-03": 19222.74,
+    "2025-04": 33081.98,
+    "2025-05": 47140.15,
+    "2025-06": 42750.96,
+    "2025-07": 32141.78,
+    "2025-08": 38628.61,
+    "2025-09": 34625.74,
+    "2025-10": 40647.72,
+    "2025-11": 35447.08,
+    "2025-12": 69137.93
   },
   "topCategory": {
-    "category": "ESCRITORIO",
-    "amountNet": 830.24,
-    "percent": 100.0
+    "category": "DIVULGACAO",
+    "amountNet": 175823.79,
+    "percent": 44.66
   }
 }

@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "year-2025",
+    "generatedAt": "2026-03-17T09:12:38.369515Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 242508128.9,
+    "amountGross": 254844823.76,
+    "amountAdjustments": -12336694.86,
+    "recordsCount": 206402,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 504,
+    "entitiesWithoutSpending": 9
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 224117,
+      "name": "Gabriel Mota",
+      "stateCode": "RR",
+      "party": "REPUBLICANOS",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/224117.jpg",
+      "amountNet": 634574.73,
+      "amountGross": 647031.59,
+      "amountAdjustments": -12456.86
+    },
+    "topCategories": [
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 96276824.71,
+        "amountGross": 96276824.71,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 83720292.96,
+        "amountGross": 96056987.82,
+        "amountAdjustments": -12336694.86
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 34902402.94,
+        "amountGross": 34902402.94,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 21254594.62,
+        "amountGross": 21254594.62,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 3738732.13,
+        "amountGross": 3738732.13,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 1949901.56,
+        "amountGross": 1949901.56,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 635003.29,
+        "amountGross": 635003.29,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 30376.69,
+        "amountGross": 30376.69,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 30581791.57,
+        "amountGross": 32160283.9,
+        "amountAdjustments": -1578492.33
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 24736395.23,
+        "amountGross": 25435421.12,
+        "amountAdjustments": -699025.89
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 19960569.56,
+        "amountGross": 21488301.58,
+        "amountAdjustments": -1527732.02
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 18390297.44,
+        "amountGross": 19454897.96,
+        "amountAdjustments": -1064600.52
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 15431519.08,
+        "amountGross": 16416923.3,
+        "amountAdjustments": -985404.22
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 14944759.86,
+        "amountGross": 15652002.19,
+        "amountAdjustments": -707242.33
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 13449418.01,
+        "amountGross": 14161824.31,
+        "amountAdjustments": -712406.3
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 9809718.49,
+        "amountGross": 10348912.16,
+        "amountAdjustments": -539193.67
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 7697929.3,
+        "amountGross": 8183558.08,
+        "amountAdjustments": -485628.78
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 7595586.86,
+        "amountGross": 7929066.9,
+        "amountAdjustments": -333480.04
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 7513595.05,
+        "amountGross": 7517028.59,
+        "amountAdjustments": -3433.54
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 7233673.8,
+        "amountGross": 7593784.0,
+        "amountAdjustments": -360110.2
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 6156072.77,
+      "percent": 2.54
+    },
+    "averages": {
+      "perEntityWithSpending": 481166.92,
+      "perRecord": 1174.93
+    },
+    "dailyTotals": {
+      "referenceDate": "2026-03-12",
+      "amountNet": 28400.0,
+      "previousAmountNet": 28366.7,
+      "deltaAmountNet": 33.3,
+      "deltaPercent": 0.12,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2026-02-23",
+          "amountNet": 71900.0
+        },
+        {
+          "date": "2026-02-24",
+          "amountNet": 7700.0
+        },
+        {
+          "date": "2026-02-26",
+          "amountNet": 18000.0
+        },
+        {
+          "date": "2026-02-27",
+          "amountNet": 6500.0
+        },
+        {
+          "date": "2026-03-03",
+          "amountNet": 69000.0
+        },
+        {
+          "date": "2026-03-06",
+          "amountNet": 28366.7
+        },
+        {
+          "date": "2026-03-12",
+          "amountNet": 28400.0
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2026-03-12",
+      "entity": {
+        "id": 204508,
+        "name": "Igor Timo",
+        "stateCode": "MG",
+        "party": "PSD",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204508.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 28400.0,
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "VISAO CONSULTORIA E MARKETING LTDA",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3223/2026/8065509.pdf"
+    }
+  }
+}

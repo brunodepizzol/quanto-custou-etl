@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141533,
-    "generatedAt": "2026-03-17T07:28:40.306528Z",
+    "generatedAt": "2026-03-17T09:12:39.048031Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "rodrigo-rollemberg"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 181141.44,
+    "amountGross": 181141.44,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 107,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 20729.41,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "DIVULGACAO": 159831.43,
+      "ESCRITORIO": 580.6,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 20729.41,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "DIVULGACAO": 159831.43,
+      "ESCRITORIO": 580.6,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 0.0,
-    "2024": 0.0
+    "2024": 0.0,
+    "2025": 181141.44
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 0.0,
-    "2024-12": 0.0
+    "2024-12": 0.0,
+    "2025-01": 0.0,
+    "2025-02": 0.0,
+    "2025-03": 0.0,
+    "2025-04": 0.0,
+    "2025-05": 0.0,
+    "2025-06": 0.0,
+    "2025-07": 0.0,
+    "2025-08": 26626.07,
+    "2025-09": 33501.19,
+    "2025-10": 58835.16,
+    "2025-11": 30367.11,
+    "2025-12": 31811.91
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DIVULGACAO",
+    "amountNet": 159831.43,
+    "percent": 88.24
   }
 }

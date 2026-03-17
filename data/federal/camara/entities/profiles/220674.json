@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220674,
-    "generatedAt": "2026-03-17T07:28:40.379158Z",
+    "generatedAt": "2026-03-17T09:12:39.129842Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "dra-alessandra-haber"
   },
   "mandateTotals": {
-    "amountNet": 985594.34,
-    "amountGross": 1015830.79,
-    "amountAdjustments": -30236.45,
-    "recordsCount": 300,
+    "amountNet": 1498141.59,
+    "amountGross": 1561652.49,
+    "amountAdjustments": -63510.9,
+    "recordsCount": 522,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 1174.0,
+      "ALIMENTACAO": 104.21,
+      "COMBUSTIVEL": 14379.94,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 265935.85,
-      "DIVULGACAO": 695523.64,
-      "ESCRITORIO": 17100.2,
-      "HOSPEDAGEM": 5860.65,
+      "DESLOCAMENTO": 647602.45,
+      "DIVULGACAO": 808643.64,
+      "ESCRITORIO": 20262.7,
+      "HOSPEDAGEM": 7148.65,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 1174.0,
+      "ALIMENTACAO": 104.21,
+      "COMBUSTIVEL": 14379.94,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 296172.3,
-      "DIVULGACAO": 695523.64,
-      "ESCRITORIO": 17100.2,
-      "HOSPEDAGEM": 5860.65,
+      "DESLOCAMENTO": 711113.35,
+      "DIVULGACAO": 808643.64,
+      "ESCRITORIO": 20262.7,
+      "HOSPEDAGEM": 7148.65,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -30236.45,
+      "DESLOCAMENTO": -63510.9,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 535970.19,
-    "2024": 449624.15
+    "2024": 449624.15,
+    "2025": 512547.25
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 33388.03,
     "2024-10": 42021.07,
     "2024-11": 80680.29,
-    "2024-12": 43085.96
+    "2024-12": 43085.96,
+    "2025-01": 7766.79,
+    "2025-02": 92534.42,
+    "2025-03": 14646.66,
+    "2025-04": 16301.18,
+    "2025-05": 78235.73,
+    "2025-06": 58946.46,
+    "2025-07": 54897.27,
+    "2025-08": 13654.24,
+    "2025-09": 59050.3,
+    "2025-10": 45758.71,
+    "2025-11": 54653.19,
+    "2025-12": 16102.3
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 695523.64,
-    "percent": 70.57
+    "amountNet": 808643.64,
+    "percent": 53.98
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160641,
-    "generatedAt": "2026-03-17T07:28:40.315204Z",
+    "generatedAt": "2026-03-17T09:12:39.057627Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "professora-marcivania"
   },
   "mandateTotals": {
-    "amountNet": 117.9,
-    "amountGross": 117.9,
-    "amountAdjustments": 0.0,
-    "recordsCount": 1,
+    "amountNet": 227321.74,
+    "amountGross": 242225.81,
+    "amountAdjustments": -14904.07,
+    "recordsCount": 47,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 11096.38,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 117.9,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 38867.46,
+      "DIVULGACAO": 176000.0,
+      "ESCRITORIO": 680.0,
+      "HOSPEDAGEM": 560.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 11096.38,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 117.9,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 53771.53,
+      "DIVULGACAO": 176000.0,
+      "ESCRITORIO": 680.0,
+      "HOSPEDAGEM": 560.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -14904.07,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 117.9,
-    "2024": 0.0
+    "2024": 0.0,
+    "2025": 227203.84
   },
   "monthTotals": {
     "2023-01": 117.9,
@@ -81,11 +82,23 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 0.0,
-    "2024-12": 0.0
+    "2024-12": 0.0,
+    "2025-01": 0.0,
+    "2025-02": 0.0,
+    "2025-03": 0.0,
+    "2025-04": 0.0,
+    "2025-05": 0.0,
+    "2025-06": 0.0,
+    "2025-07": 0.0,
+    "2025-08": 44548.47,
+    "2025-09": 44484.39,
+    "2025-10": 44506.98,
+    "2025-11": 45062.97,
+    "2025-12": 48601.03
   },
   "topCategory": {
-    "category": "CORREIOS_TELEFONIA",
-    "amountNet": 117.9,
-    "percent": 100.0
+    "category": "DIVULGACAO",
+    "amountNet": 176000.0,
+    "percent": 77.42
   }
 }

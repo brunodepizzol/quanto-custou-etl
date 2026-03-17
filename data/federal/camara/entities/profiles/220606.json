@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220606,
-    "generatedAt": "2026-03-17T07:28:40.367569Z",
+    "generatedAt": "2026-03-17T09:12:39.116659Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "reimont"
   },
   "mandateTotals": {
-    "amountNet": 964193.25,
-    "amountGross": 1014091.2,
-    "amountAdjustments": -49897.95,
-    "recordsCount": 1271,
+    "amountNet": 1470879.51,
+    "amountGross": 1541488.75,
+    "amountAdjustments": -70609.24,
+    "recordsCount": 1740,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 27198.95,
+      "COMBUSTIVEL": 30257.81,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 4566.24,
-      "DESLOCAMENTO": 326862.35,
-      "DIVULGACAO": 401593.12,
-      "ESCRITORIO": 201375.79,
+      "CORREIOS_TELEFONIA": 4713.74,
+      "DESLOCAMENTO": 462504.97,
+      "DIVULGACAO": 648541.82,
+      "ESCRITORIO": 322264.37,
       "HOSPEDAGEM": 2596.8,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 27198.95,
+      "COMBUSTIVEL": 30257.81,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 4566.24,
-      "DESLOCAMENTO": 376760.3,
-      "DIVULGACAO": 401593.12,
-      "ESCRITORIO": 201375.79,
+      "CORREIOS_TELEFONIA": 4713.74,
+      "DESLOCAMENTO": 533114.21,
+      "DIVULGACAO": 648541.82,
+      "ESCRITORIO": 322264.37,
       "HOSPEDAGEM": 2596.8,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -49897.95,
+      "DESLOCAMENTO": -70609.24,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 464549.69,
-    "2024": 499643.56
+    "2024": 499643.56,
+    "2025": 506686.26
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 43227.07,
     "2024-10": 41946.6,
     "2024-11": 51892.76,
-    "2024-12": 18244.49
+    "2024-12": 18244.49,
+    "2025-01": 41995.69,
+    "2025-02": 42879.24,
+    "2025-03": 44410.32,
+    "2025-04": 47620.45,
+    "2025-05": 43364.81,
+    "2025-06": 50355.47,
+    "2025-07": 52889.85,
+    "2025-08": 43016.93,
+    "2025-09": 42604.81,
+    "2025-10": 43428.6,
+    "2025-11": 40544.39,
+    "2025-12": 13575.7
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 401593.12,
-    "percent": 41.65
+    "amountNet": 648541.82,
+    "percent": 44.09
   }
 }

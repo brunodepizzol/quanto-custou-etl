@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 224117,
-    "generatedAt": "2026-03-17T07:28:40.387484Z",
+    "generatedAt": "2026-03-17T09:12:39.139437Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,18 +15,18 @@
     "slug": "gabriel-mota"
   },
   "mandateTotals": {
-    "amountNet": 1143393.1,
-    "amountGross": 1149067.83,
-    "amountAdjustments": -5674.73,
-    "recordsCount": 147,
+    "amountNet": 1777967.83,
+    "amountGross": 1796099.42,
+    "amountAdjustments": -18131.59,
+    "recordsCount": 219,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 6086.92,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 193471.71,
-      "DIVULGACAO": 479032.3,
-      "ESCRITORIO": 464802.17,
+      "DESLOCAMENTO": 224046.44,
+      "DIVULGACAO": 743032.3,
+      "ESCRITORIO": 804802.17,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -35,9 +35,9 @@
       "COMBUSTIVEL": 6086.92,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 199146.44,
-      "DIVULGACAO": 479032.3,
-      "ESCRITORIO": 464802.17,
+      "DESLOCAMENTO": 242178.03,
+      "DIVULGACAO": 743032.3,
+      "ESCRITORIO": 804802.17,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -5674.73,
+      "DESLOCAMENTO": -18131.59,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 516019.27,
-    "2024": 627373.83
+    "2024": 627373.83,
+    "2025": 634574.73
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 53091.56,
     "2024-10": 56111.46,
     "2024-11": 53044.95,
-    "2024-12": 48991.56
+    "2024-12": 48991.56,
+    "2025-01": 53086.56,
+    "2025-02": 55265.45,
+    "2025-03": 53191.56,
+    "2025-04": 60036.96,
+    "2025-05": 54143.33,
+    "2025-06": 53616.65,
+    "2025-07": 55840.82,
+    "2025-08": 48501.77,
+    "2025-09": 51500.0,
+    "2025-10": 60951.42,
+    "2025-11": 36940.21,
+    "2025-12": 51500.0
   },
   "topCategory": {
-    "category": "DIVULGACAO",
-    "amountNet": 479032.3,
-    "percent": 41.9
+    "category": "ESCRITORIO",
+    "amountNet": 804802.17,
+    "percent": 45.27
   }
 }

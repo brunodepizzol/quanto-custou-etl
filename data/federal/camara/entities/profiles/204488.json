@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204488,
-    "generatedAt": "2026-03-17T07:28:40.342966Z",
+    "generatedAt": "2026-03-17T09:12:39.088932Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "célio-studart"
   },
   "mandateTotals": {
-    "amountNet": 977212.35,
-    "amountGross": 1001582.15,
-    "amountAdjustments": -24369.8,
-    "recordsCount": 430,
+    "amountNet": 1550147.32,
+    "amountGross": 1599191.95,
+    "amountAdjustments": -49044.63,
+    "recordsCount": 638,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 123577.49,
+      "COMBUSTIVEL": 189219.88,
       "CONSULTORIA_SERVICOS": 10000.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 176114.12,
-      "DIVULGACAO": 579841.42,
-      "ESCRITORIO": 85887.57,
+      "DESLOCAMENTO": 251715.91,
+      "DIVULGACAO": 937491.41,
+      "ESCRITORIO": 159928.37,
       "HOSPEDAGEM": 1791.75,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 123577.49,
+      "COMBUSTIVEL": 189219.88,
       "CONSULTORIA_SERVICOS": 10000.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 200483.92,
-      "DIVULGACAO": 579841.42,
-      "ESCRITORIO": 85887.57,
+      "DESLOCAMENTO": 300760.54,
+      "DIVULGACAO": 937491.41,
+      "ESCRITORIO": 159928.37,
       "HOSPEDAGEM": 1791.75,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -24369.8,
+      "DESLOCAMENTO": -49044.63,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 436685.22,
-    "2024": 540527.13
+    "2024": 540527.13,
+    "2025": 572934.97
   },
   "monthTotals": {
     "2023-01": 19793.93,
@@ -81,11 +82,23 @@
     "2024-09": 48776.34,
     "2024-10": 45302.09,
     "2024-11": 47095.12,
-    "2024-12": 37592.58
+    "2024-12": 37592.58,
+    "2025-01": 51599.17,
+    "2025-02": 58273.93,
+    "2025-03": 46311.04,
+    "2025-04": 42337.97,
+    "2025-05": 39865.34,
+    "2025-06": 55668.55,
+    "2025-07": 49675.91,
+    "2025-08": 41207.46,
+    "2025-09": 54841.51,
+    "2025-10": 53239.36,
+    "2025-11": 49998.73,
+    "2025-12": 29916.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 579841.42,
-    "percent": 59.34
+    "amountNet": 937491.41,
+    "percent": 60.48
   }
 }

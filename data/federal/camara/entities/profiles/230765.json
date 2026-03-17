@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 230765,
-    "generatedAt": "2026-03-17T07:28:40.389354Z",
+    "generatedAt": "2026-03-17T09:12:39.141565Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "enfermeira-rejane"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
-    "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "amountNet": 344137.62,
+    "amountGross": 348787.85,
+    "amountAdjustments": -4650.23,
+    "recordsCount": 194,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 1760.59,
+      "COMBUSTIVEL": 17604.13,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 135214.55,
+      "DIVULGACAO": 138810.01,
+      "ESCRITORIO": 50325.01,
+      "HOSPEDAGEM": 423.33,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 1760.59,
+      "COMBUSTIVEL": 17604.13,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 139864.78,
+      "DIVULGACAO": 138810.01,
+      "ESCRITORIO": 50325.01,
+      "HOSPEDAGEM": 423.33,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -4650.23,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 0.0,
-    "2024": 0.0
+    "2024": 0.0,
+    "2025": 344137.62
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 0.0,
-    "2024-12": 0.0
+    "2024-12": 0.0,
+    "2025-01": 10024.81,
+    "2025-02": 15884.2,
+    "2025-03": 14142.92,
+    "2025-04": 17084.56,
+    "2025-05": 25011.86,
+    "2025-06": 17825.27,
+    "2025-07": 18310.57,
+    "2025-08": 12509.65,
+    "2025-09": 31006.72,
+    "2025-10": 68974.26,
+    "2025-11": 80717.91,
+    "2025-12": 32644.89
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DIVULGACAO",
+    "amountNet": 138810.01,
+    "percent": 40.34
   }
 }

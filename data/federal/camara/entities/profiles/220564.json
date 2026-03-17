@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220564,
-    "generatedAt": "2026-03-17T07:28:40.360759Z",
+    "generatedAt": "2026-03-17T09:12:39.108919Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "yandra-moura"
   },
   "mandateTotals": {
-    "amountNet": 762439.9,
-    "amountGross": 819258.52,
-    "amountAdjustments": -56818.62,
-    "recordsCount": 379,
+    "amountNet": 1339782.94,
+    "amountGross": 1419676.19,
+    "amountAdjustments": -79893.25,
+    "recordsCount": 566,
     "byCategoryNet": {
       "ALIMENTACAO": 230.49,
-      "COMBUSTIVEL": 54738.34,
+      "COMBUSTIVEL": 93775.47,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1781.93,
-      "DESLOCAMENTO": 371675.59,
-      "DIVULGACAO": 316038.26,
-      "ESCRITORIO": 17530.2,
+      "DESLOCAMENTO": 594244.5,
+      "DIVULGACAO": 625138.26,
+      "ESCRITORIO": 24167.2,
       "HOSPEDAGEM": 445.09,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 230.49,
-      "COMBUSTIVEL": 54738.34,
+      "COMBUSTIVEL": 93775.47,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1781.93,
-      "DESLOCAMENTO": 428494.21,
-      "DIVULGACAO": 316038.26,
-      "ESCRITORIO": 17530.2,
+      "DESLOCAMENTO": 674137.75,
+      "DIVULGACAO": 625138.26,
+      "ESCRITORIO": 24167.2,
       "HOSPEDAGEM": 445.09,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -56818.62,
+      "DESLOCAMENTO": -79893.25,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 492020.35,
-    "2024": 270419.55
+    "2024": 270419.55,
+    "2025": 577343.04
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 29420.24,
-    "2024-12": 64812.68
+    "2024-12": 64812.68,
+    "2025-01": 52741.44,
+    "2025-02": 50156.0,
+    "2025-03": 46313.11,
+    "2025-04": 68871.03,
+    "2025-05": 36945.63,
+    "2025-06": 53386.28,
+    "2025-07": 47246.99,
+    "2025-08": 39357.48,
+    "2025-09": 45931.58,
+    "2025-10": 52576.04,
+    "2025-11": 40750.0,
+    "2025-12": 43067.46
   },
   "topCategory": {
-    "category": "DESLOCAMENTO",
-    "amountNet": 371675.59,
-    "percent": 48.75
+    "category": "DIVULGACAO",
+    "amountNet": 625138.26,
+    "percent": 46.66
   }
 }

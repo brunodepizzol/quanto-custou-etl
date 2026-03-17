@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160674,
-    "generatedAt": "2026-03-17T07:28:40.316239Z",
+    "generatedAt": "2026-03-17T09:12:39.058771Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "hugo-motta"
   },
   "mandateTotals": {
-    "amountNet": 1038266.41,
-    "amountGross": 1061840.53,
-    "amountAdjustments": -23574.12,
-    "recordsCount": 901,
+    "amountNet": 1600964.95,
+    "amountGross": 1624733.69,
+    "amountAdjustments": -23768.74,
+    "recordsCount": 1328,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 96348.0,
+      "COMBUSTIVEL": 169087.61,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 9806.63,
-      "DESLOCAMENTO": 391240.09,
-      "DIVULGACAO": 526100.0,
-      "ESCRITORIO": 458.49,
-      "HOSPEDAGEM": 14313.2,
+      "CORREIOS_TELEFONIA": 10958.63,
+      "DESLOCAMENTO": 545110.12,
+      "DIVULGACAO": 858500.0,
+      "ESCRITORIO": 1261.58,
+      "HOSPEDAGEM": 16047.01,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 96348.0,
+      "COMBUSTIVEL": 169087.61,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 9806.63,
-      "DESLOCAMENTO": 414814.21,
-      "DIVULGACAO": 526100.0,
-      "ESCRITORIO": 458.49,
-      "HOSPEDAGEM": 14313.2,
+      "CORREIOS_TELEFONIA": 10958.63,
+      "DESLOCAMENTO": 568878.86,
+      "DIVULGACAO": 858500.0,
+      "ESCRITORIO": 1261.58,
+      "HOSPEDAGEM": 16047.01,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -23574.12,
+      "DESLOCAMENTO": -23768.74,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 540433.76,
-    "2024": 497832.65
+    "2024": 497832.65,
+    "2025": 562698.54
   },
   "monthTotals": {
     "2023-01": 32280.03,
@@ -81,11 +82,23 @@
     "2024-09": 52181.04,
     "2024-10": 56817.46,
     "2024-11": 64222.41,
-    "2024-12": 48417.98
+    "2024-12": 48417.98,
+    "2025-01": 49063.94,
+    "2025-02": 56391.07,
+    "2025-03": 50060.78,
+    "2025-04": 48827.91,
+    "2025-05": 46337.56,
+    "2025-06": 43402.3,
+    "2025-07": 50718.76,
+    "2025-08": 38159.04,
+    "2025-09": 39446.55,
+    "2025-10": 50791.52,
+    "2025-11": 44407.34,
+    "2025-12": 45091.77
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 526100.0,
-    "percent": 50.67
+    "amountNet": 858500.0,
+    "percent": 53.62
   }
 }

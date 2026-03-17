@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 230768,
-    "generatedAt": "2026-03-17T07:28:40.389722Z",
+    "generatedAt": "2026-03-17T09:12:39.142052Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "zé-adriano"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
-    "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "amountNet": 595078.78,
+    "amountGross": 631103.17,
+    "amountAdjustments": -36024.39,
+    "recordsCount": 255,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 1257.77,
+      "COMBUSTIVEL": 93634.86,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "CORREIOS_TELEFONIA": 2069.67,
+      "DESLOCAMENTO": 121487.36,
+      "DIVULGACAO": 315371.0,
+      "ESCRITORIO": 54615.91,
+      "HOSPEDAGEM": 6642.21,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 1257.77,
+      "COMBUSTIVEL": 93634.86,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "CORREIOS_TELEFONIA": 2069.67,
+      "DESLOCAMENTO": 157511.75,
+      "DIVULGACAO": 315371.0,
+      "ESCRITORIO": 54615.91,
+      "HOSPEDAGEM": 6642.21,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -36024.39,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 0.0,
-    "2024": 0.0
+    "2024": 0.0,
+    "2025": 595078.78
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 0.0,
-    "2024-12": 0.0
+    "2024-12": 0.0,
+    "2025-01": 14613.04,
+    "2025-02": 31199.9,
+    "2025-03": 40647.53,
+    "2025-04": 41846.53,
+    "2025-05": 36296.55,
+    "2025-06": 32447.13,
+    "2025-07": 57573.93,
+    "2025-08": 60725.64,
+    "2025-09": 103706.9,
+    "2025-10": 62072.73,
+    "2025-11": 110149.0,
+    "2025-12": 3799.9
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DIVULGACAO",
+    "amountNet": 315371.0,
+    "percent": 53.0
   }
 }

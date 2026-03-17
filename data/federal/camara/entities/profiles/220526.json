@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220526,
-    "generatedAt": "2026-03-17T07:28:40.353588Z",
+    "generatedAt": "2026-03-17T09:12:39.100889Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "gilvan-da-federal"
   },
   "mandateTotals": {
-    "amountNet": 821765.93,
-    "amountGross": 880251.18,
-    "amountAdjustments": -58485.25,
-    "recordsCount": 1067,
+    "amountNet": 1153542.7,
+    "amountGross": 1233717.03,
+    "amountAdjustments": -80174.33,
+    "recordsCount": 1434,
     "byCategoryNet": {
       "ALIMENTACAO": 156.74,
-      "COMBUSTIVEL": 71217.25,
+      "COMBUSTIVEL": 106730.25,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4084.57,
-      "DESLOCAMENTO": 368742.95,
-      "DIVULGACAO": 262550.0,
-      "ESCRITORIO": 53952.62,
-      "HOSPEDAGEM": 61061.8,
+      "DESLOCAMENTO": 493297.83,
+      "DIVULGACAO": 371728.7,
+      "ESCRITORIO": 88163.88,
+      "HOSPEDAGEM": 89380.73,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 156.74,
-      "COMBUSTIVEL": 71217.25,
+      "COMBUSTIVEL": 106730.25,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 4084.57,
-      "DESLOCAMENTO": 427228.2,
-      "DIVULGACAO": 262550.0,
-      "ESCRITORIO": 53952.62,
-      "HOSPEDAGEM": 61061.8,
+      "DESLOCAMENTO": 573472.16,
+      "DIVULGACAO": 371728.7,
+      "ESCRITORIO": 88163.88,
+      "HOSPEDAGEM": 89380.73,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -58485.25,
+      "DESLOCAMENTO": -80174.33,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 405463.01,
-    "2024": 416302.92
+    "2024": 416302.92,
+    "2025": 331776.77
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 50303.81,
     "2024-10": 35411.71,
     "2024-11": 37883.28,
-    "2024-12": 32318.53
+    "2024-12": 32318.53,
+    "2025-01": 24849.96,
+    "2025-02": 29383.09,
+    "2025-03": 42432.78,
+    "2025-04": 37749.71,
+    "2025-05": 9977.83,
+    "2025-06": 0.0,
+    "2025-07": 0.0,
+    "2025-08": 35544.66,
+    "2025-09": 42434.9,
+    "2025-10": 46204.77,
+    "2025-11": 30159.66,
+    "2025-12": 33039.41
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 368742.95,
-    "percent": 44.87
+    "amountNet": 493297.83,
+    "percent": 42.76
   }
 }

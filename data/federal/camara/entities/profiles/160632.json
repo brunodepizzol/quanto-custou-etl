@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160632,
-    "generatedAt": "2026-03-17T07:28:40.314590Z",
+    "generatedAt": "2026-03-17T09:12:39.056934Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "zé-silva"
   },
   "mandateTotals": {
-    "amountNet": 960016.24,
-    "amountGross": 974429.3,
-    "amountAdjustments": -14413.06,
-    "recordsCount": 769,
+    "amountNet": 1454928.08,
+    "amountGross": 1471032.59,
+    "amountAdjustments": -16104.51,
+    "recordsCount": 1232,
     "byCategoryNet": {
-      "ALIMENTACAO": 3638.15,
-      "COMBUSTIVEL": 119203.78,
+      "ALIMENTACAO": 7395.21,
+      "COMBUSTIVEL": 206813.65,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 16250.48,
-      "DESLOCAMENTO": 216083.28,
-      "DIVULGACAO": 523104.65,
-      "ESCRITORIO": 73003.21,
-      "HOSPEDAGEM": 8732.69,
+      "CORREIOS_TELEFONIA": 26024.19,
+      "DESLOCAMENTO": 335911.83,
+      "DIVULGACAO": 732949.49,
+      "ESCRITORIO": 114633.88,
+      "HOSPEDAGEM": 31199.83,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 3638.15,
-      "COMBUSTIVEL": 119203.78,
+      "ALIMENTACAO": 7395.21,
+      "COMBUSTIVEL": 206813.65,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 16250.48,
-      "DESLOCAMENTO": 230496.34,
-      "DIVULGACAO": 523104.65,
-      "ESCRITORIO": 73003.21,
-      "HOSPEDAGEM": 8732.69,
+      "CORREIOS_TELEFONIA": 26024.19,
+      "DESLOCAMENTO": 352016.34,
+      "DIVULGACAO": 732949.49,
+      "ESCRITORIO": 114633.88,
+      "HOSPEDAGEM": 31199.83,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -14413.06,
+      "DESLOCAMENTO": -16104.51,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 473809.42,
-    "2024": 486206.82
+    "2024": 486206.82,
+    "2025": 494911.84
   },
   "monthTotals": {
     "2023-01": 19223.67,
@@ -81,11 +82,23 @@
     "2024-09": 23691.39,
     "2024-10": 33221.61,
     "2024-11": 46500.28,
-    "2024-12": 76712.64
+    "2024-12": 76712.64,
+    "2025-01": 43651.28,
+    "2025-02": 39327.86,
+    "2025-03": 30114.01,
+    "2025-04": 48175.15,
+    "2025-05": 44303.63,
+    "2025-06": 46173.44,
+    "2025-07": 51387.79,
+    "2025-08": 44466.43,
+    "2025-09": 48121.05,
+    "2025-10": 54748.4,
+    "2025-11": 37412.01,
+    "2025-12": 7030.79
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 523104.65,
-    "percent": 54.49
+    "amountNet": 732949.49,
+    "percent": 50.38
   }
 }

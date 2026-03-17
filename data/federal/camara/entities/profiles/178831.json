@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178831,
-    "generatedAt": "2026-03-17T07:28:40.319164Z",
+    "generatedAt": "2026-03-17T09:12:39.062097Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "andré-abdon"
   },
   "mandateTotals": {
-    "amountNet": 44.09,
-    "amountGross": 44.09,
+    "amountNet": 236283.09,
+    "amountGross": 236283.09,
     "amountAdjustments": 0.0,
-    "recordsCount": 1,
+    "recordsCount": 161,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 21253.97,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 44.09,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "CORREIOS_TELEFONIA": 524.09,
+      "DESLOCAMENTO": 83375.51,
+      "DIVULGACAO": 124200.0,
+      "ESCRITORIO": 5701.52,
+      "HOSPEDAGEM": 1228.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 21253.97,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 44.09,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "CORREIOS_TELEFONIA": 524.09,
+      "DESLOCAMENTO": 83375.51,
+      "DIVULGACAO": 124200.0,
+      "ESCRITORIO": 5701.52,
+      "HOSPEDAGEM": 1228.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 44.09,
-    "2024": 0.0
+    "2024": 0.0,
+    "2025": 236239.0
   },
   "monthTotals": {
     "2023-01": 44.09,
@@ -81,11 +82,23 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 0.0,
-    "2024-12": 0.0
+    "2024-12": 0.0,
+    "2025-01": 0.0,
+    "2025-02": 0.0,
+    "2025-03": 0.0,
+    "2025-04": 0.0,
+    "2025-05": 0.0,
+    "2025-06": 0.0,
+    "2025-07": 0.0,
+    "2025-08": 29399.9,
+    "2025-09": 57097.12,
+    "2025-10": 68301.19,
+    "2025-11": 56732.38,
+    "2025-12": 24708.41
   },
   "topCategory": {
-    "category": "CORREIOS_TELEFONIA",
-    "amountNet": 44.09,
-    "percent": 100.0
+    "category": "DIVULGACAO",
+    "amountNet": 124200.0,
+    "percent": 52.56
   }
 }

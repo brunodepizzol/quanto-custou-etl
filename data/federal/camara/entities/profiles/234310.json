@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 234310,
-    "generatedAt": "2026-03-17T07:28:40.390718Z",
+    "generatedAt": "2026-03-17T09:12:39.143158Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,18 +15,18 @@
     "slug": "ricardo-galvão"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 49460.68,
+    "amountGross": 49460.68,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 20,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "DESLOCAMENTO": 13622.78,
+      "DIVULGACAO": 26900.0,
+      "ESCRITORIO": 8937.9,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -35,9 +35,9 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "DESLOCAMENTO": 13622.78,
+      "DIVULGACAO": 26900.0,
+      "ESCRITORIO": 8937.9,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 0.0,
-    "2024": 0.0
+    "2024": 0.0,
+    "2025": 49460.68
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 0.0,
-    "2024-12": 0.0
+    "2024-12": 0.0,
+    "2025-01": 0.0,
+    "2025-02": 0.0,
+    "2025-03": 0.0,
+    "2025-04": 0.0,
+    "2025-05": 0.0,
+    "2025-06": 0.0,
+    "2025-07": 0.0,
+    "2025-08": 0.0,
+    "2025-09": 0.0,
+    "2025-10": 0.0,
+    "2025-11": 16433.47,
+    "2025-12": 33027.21
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DIVULGACAO",
+    "amountNet": 26900.0,
+    "percent": 54.39
   }
 }

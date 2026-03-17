@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 143942,
-    "generatedAt": "2026-03-17T07:28:40.307384Z",
+    "generatedAt": "2026-03-17T09:12:39.048932Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "caio-vianna"
   },
   "mandateTotals": {
-    "amountNet": 274812.19,
-    "amountGross": 292839.72,
-    "amountAdjustments": -18027.53,
-    "recordsCount": 284,
+    "amountNet": 531713.57,
+    "amountGross": 628714.86,
+    "amountAdjustments": -97001.29,
+    "recordsCount": 582,
     "byCategoryNet": {
-      "ALIMENTACAO": 2290.62,
-      "COMBUSTIVEL": 10024.4,
+      "ALIMENTACAO": 4207.26,
+      "COMBUSTIVEL": 21095.59,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 514.77,
-      "DESLOCAMENTO": 145927.14,
-      "DIVULGACAO": 100000.0,
-      "ESCRITORIO": 2924.3,
-      "HOSPEDAGEM": 13130.96,
+      "DESLOCAMENTO": 321413.26,
+      "DIVULGACAO": 159400.0,
+      "ESCRITORIO": 9285.45,
+      "HOSPEDAGEM": 15797.24,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 2290.62,
-      "COMBUSTIVEL": 10024.4,
+      "ALIMENTACAO": 4207.26,
+      "COMBUSTIVEL": 21095.59,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 514.77,
-      "DESLOCAMENTO": 163954.67,
-      "DIVULGACAO": 100000.0,
-      "ESCRITORIO": 2924.3,
-      "HOSPEDAGEM": 13130.96,
+      "DESLOCAMENTO": 418414.55,
+      "DIVULGACAO": 159400.0,
+      "ESCRITORIO": 9285.45,
+      "HOSPEDAGEM": 15797.24,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -18027.53,
+      "DESLOCAMENTO": -97001.29,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 237859.79,
-    "2024": 36952.4
+    "2024": 36952.4,
+    "2025": 256901.38
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 0.0,
     "2024-10": 0.0,
     "2024-11": 0.0,
-    "2024-12": 0.0
+    "2024-12": 0.0,
+    "2025-01": 0.0,
+    "2025-02": 0.0,
+    "2025-03": 11162.61,
+    "2025-04": 30727.32,
+    "2025-05": 12666.72,
+    "2025-06": 30365.6,
+    "2025-07": 18088.39,
+    "2025-08": 16172.73,
+    "2025-09": 41679.39,
+    "2025-10": 49357.93,
+    "2025-11": 9500.0,
+    "2025-12": 37180.69
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 145927.14,
-    "percent": 53.1
+    "amountNet": 321413.26,
+    "percent": 60.45
   }
 }

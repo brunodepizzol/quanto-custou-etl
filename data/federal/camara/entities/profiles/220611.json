@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220611,
-    "generatedAt": "2026-03-17T07:28:40.368557Z",
+    "generatedAt": "2026-03-17T09:12:39.117821Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "general-pazuello"
   },
   "mandateTotals": {
-    "amountNet": 889897.45,
-    "amountGross": 944473.8,
-    "amountAdjustments": -54576.35,
-    "recordsCount": 909,
+    "amountNet": 1368742.43,
+    "amountGross": 1477076.9,
+    "amountAdjustments": -108334.47,
+    "recordsCount": 1374,
     "byCategoryNet": {
       "ALIMENTACAO": 5127.14,
-      "COMBUSTIVEL": 99015.51,
+      "COMBUSTIVEL": 158013.44,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2104.24,
-      "DESLOCAMENTO": 267349.08,
-      "DIVULGACAO": 314900.0,
-      "ESCRITORIO": 195100.05,
-      "HOSPEDAGEM": 6301.43,
+      "DESLOCAMENTO": 388822.16,
+      "DIVULGACAO": 492900.0,
+      "ESCRITORIO": 303226.21,
+      "HOSPEDAGEM": 18549.24,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 5127.14,
-      "COMBUSTIVEL": 99015.51,
+      "COMBUSTIVEL": 158013.44,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2104.24,
-      "DESLOCAMENTO": 321925.43,
-      "DIVULGACAO": 314900.0,
-      "ESCRITORIO": 195100.05,
-      "HOSPEDAGEM": 6301.43,
+      "DESLOCAMENTO": 497156.63,
+      "DIVULGACAO": 492900.0,
+      "ESCRITORIO": 303226.21,
+      "HOSPEDAGEM": 18549.24,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -54576.35,
+      "DESLOCAMENTO": -108334.47,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 464045.9,
-    "2024": 425851.55
+    "2024": 425851.55,
+    "2025": 478844.98
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 54128.52,
     "2024-10": 53674.98,
     "2024-11": 34643.82,
-    "2024-12": 44095.72
+    "2024-12": 44095.72,
+    "2025-01": 35755.44,
+    "2025-02": 52371.43,
+    "2025-03": 47722.35,
+    "2025-04": 44484.91,
+    "2025-05": 38844.41,
+    "2025-06": 34063.04,
+    "2025-07": 39570.81,
+    "2025-08": 37148.69,
+    "2025-09": 42585.3,
+    "2025-10": 47902.05,
+    "2025-11": 29828.14,
+    "2025-12": 28568.41
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 314900.0,
-    "percent": 35.39
+    "amountNet": 492900.0,
+    "percent": 36.01
   }
 }

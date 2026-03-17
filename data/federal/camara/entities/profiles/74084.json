@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74084,
-    "generatedAt": "2026-03-17T07:28:40.289928Z",
+    "generatedAt": "2026-03-17T09:12:39.029124Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "raimundo-santos"
   },
   "mandateTotals": {
-    "amountNet": 1013653.58,
-    "amountGross": 1026443.16,
-    "amountAdjustments": -12789.58,
-    "recordsCount": 587,
+    "amountNet": 1544690.44,
+    "amountGross": 1566219.52,
+    "amountAdjustments": -21529.08,
+    "recordsCount": 933,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 7264.31,
+      "COMBUSTIVEL": 7927.52,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 8130.99,
-      "DESLOCAMENTO": 359315.9,
-      "DIVULGACAO": 404550.0,
-      "ESCRITORIO": 227259.51,
-      "HOSPEDAGEM": 7132.87,
+      "CORREIOS_TELEFONIA": 11681.52,
+      "DESLOCAMENTO": 594779.13,
+      "DIVULGACAO": 558725.0,
+      "ESCRITORIO": 362669.4,
+      "HOSPEDAGEM": 8907.87,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 7264.31,
+      "COMBUSTIVEL": 7927.52,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 8130.99,
-      "DESLOCAMENTO": 372105.48,
-      "DIVULGACAO": 404550.0,
-      "ESCRITORIO": 227259.51,
-      "HOSPEDAGEM": 7132.87,
+      "CORREIOS_TELEFONIA": 11681.52,
+      "DESLOCAMENTO": 616308.21,
+      "DIVULGACAO": 558725.0,
+      "ESCRITORIO": 362669.4,
+      "HOSPEDAGEM": 8907.87,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -12789.58,
+      "DESLOCAMENTO": -21529.08,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 464826.55,
-    "2024": 548827.03
+    "2024": 548827.03,
+    "2025": 531036.86
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 38337.56,
     "2024-10": 48027.91,
     "2024-11": 45387.44,
-    "2024-12": 38914.56
+    "2024-12": 38914.56,
+    "2025-01": 48918.01,
+    "2025-02": 54132.6,
+    "2025-03": 43872.69,
+    "2025-04": 44296.46,
+    "2025-05": 56106.14,
+    "2025-06": 48225.57,
+    "2025-07": 58449.48,
+    "2025-08": 35268.28,
+    "2025-09": 44483.87,
+    "2025-10": 57244.93,
+    "2025-11": 31243.97,
+    "2025-12": 8794.86
   },
   "topCategory": {
-    "category": "DIVULGACAO",
-    "amountNet": 404550.0,
-    "percent": 39.91
+    "category": "DESLOCAMENTO",
+    "amountNet": 594779.13,
+    "percent": 38.5
   }
 }

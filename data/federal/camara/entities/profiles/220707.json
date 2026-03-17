@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220707,
-    "generatedAt": "2026-03-17T07:28:40.384814Z",
+    "generatedAt": "2026-03-17T09:12:39.136404Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,18 +15,18 @@
     "slug": "amanda-gentil"
   },
   "mandateTotals": {
-    "amountNet": 885585.42,
-    "amountGross": 917043.66,
-    "amountAdjustments": -31458.24,
-    "recordsCount": 295,
+    "amountNet": 1420460.64,
+    "amountGross": 1498066.68,
+    "amountAdjustments": -77606.04,
+    "recordsCount": 419,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 26636.21,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3535.98,
-      "DESLOCAMENTO": 186417.64,
-      "DIVULGACAO": 545432.4,
-      "ESCRITORIO": 123563.19,
+      "DESLOCAMENTO": 302460.46,
+      "DIVULGACAO": 862864.8,
+      "ESCRITORIO": 224963.19,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -35,9 +35,9 @@
       "COMBUSTIVEL": 26636.21,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3535.98,
-      "DESLOCAMENTO": 217875.88,
-      "DIVULGACAO": 545432.4,
-      "ESCRITORIO": 123563.19,
+      "DESLOCAMENTO": 380066.5,
+      "DIVULGACAO": 862864.8,
+      "ESCRITORIO": 224963.19,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -31458.24,
+      "DESLOCAMENTO": -77606.04,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 532273.12,
-    "2024": 353312.3
+    "2024": 353312.3,
+    "2025": 534875.22
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 29691.08,
     "2024-10": 49453.74,
     "2024-11": 46426.09,
-    "2024-12": 131145.52
+    "2024-12": 131145.52,
+    "2025-01": 40413.0,
+    "2025-02": 40413.0,
+    "2025-03": 23900.0,
+    "2025-04": 23900.0,
+    "2025-05": 30508.11,
+    "2025-06": 23900.0,
+    "2025-07": 26701.87,
+    "2025-08": 23900.0,
+    "2025-09": 29916.03,
+    "2025-10": 50011.93,
+    "2025-11": 47694.15,
+    "2025-12": 173617.13
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 545432.4,
-    "percent": 61.59
+    "amountNet": 862864.8,
+    "percent": 60.75
   }
 }

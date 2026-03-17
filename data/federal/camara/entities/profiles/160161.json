@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160161,
-    "generatedAt": "2026-03-17T07:28:40.308468Z",
+    "generatedAt": "2026-03-17T09:12:39.050095Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "marcelo-queiroz"
   },
   "mandateTotals": {
-    "amountNet": 954027.51,
-    "amountGross": 997493.14,
-    "amountAdjustments": -43465.63,
-    "recordsCount": 545,
+    "amountNet": 1294802.71,
+    "amountGross": 1355482.36,
+    "amountAdjustments": -60679.65,
+    "recordsCount": 709,
     "byCategoryNet": {
-      "ALIMENTACAO": 946.37,
-      "COMBUSTIVEL": 36842.88,
+      "ALIMENTACAO": 1555.96,
+      "COMBUSTIVEL": 50471.34,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1235.96,
-      "DESLOCAMENTO": 269733.68,
-      "DIVULGACAO": 639108.77,
-      "ESCRITORIO": 3453.41,
+      "DESLOCAMENTO": 419480.87,
+      "DIVULGACAO": 806728.77,
+      "ESCRITORIO": 12623.37,
       "HOSPEDAGEM": 2706.44,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 946.37,
-      "COMBUSTIVEL": 36842.88,
+      "ALIMENTACAO": 1555.96,
+      "COMBUSTIVEL": 50471.34,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1235.96,
-      "DESLOCAMENTO": 313199.31,
-      "DIVULGACAO": 639108.77,
-      "ESCRITORIO": 3453.41,
+      "DESLOCAMENTO": 480160.52,
+      "DIVULGACAO": 806728.77,
+      "ESCRITORIO": 12623.37,
       "HOSPEDAGEM": 2706.44,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -43465.63,
+      "DESLOCAMENTO": -60679.65,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -55,7 +55,8 @@
   },
   "yearTotals": {
     "2023": 481520.98,
-    "2024": 472506.53
+    "2024": 472506.53,
+    "2025": 340775.2
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -81,11 +82,23 @@
     "2024-09": 5771.4,
     "2024-10": 50528.15,
     "2024-11": 72032.42,
-    "2024-12": 82581.45
+    "2024-12": 82581.45,
+    "2025-01": 47336.43,
+    "2025-02": 20364.87,
+    "2025-03": 28034.22,
+    "2025-04": 32224.82,
+    "2025-05": 65101.12,
+    "2025-06": 52306.48,
+    "2025-07": 56341.47,
+    "2025-08": 29065.79,
+    "2025-09": 0.0,
+    "2025-10": 0.0,
+    "2025-11": 10000.0,
+    "2025-12": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 639108.77,
-    "percent": 66.99
+    "amountNet": 806728.77,
+    "percent": 62.31
   }
 }

@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2025-02",
+    "generatedAt": "2026-03-17T08:20:05.615158Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 20260948.82,
+    "amountGross": 21272904.97,
+    "amountAdjustments": -1011956.15,
+    "recordsCount": 18282,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 483,
+    "entitiesWithoutSpending": 30
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 220674,
+      "name": "Dra. Alessandra Haber",
+      "stateCode": "PA",
+      "party": "MDB",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220674.jpg",
+      "amountNet": 92534.42,
+      "amountGross": 94629.1,
+      "amountAdjustments": -2094.68
+    },
+    "topCategories": [
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 7820417.16,
+        "amountGross": 8832373.31,
+        "amountAdjustments": -1011956.15
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 7293083.78,
+        "amountGross": 7293083.78,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2937463.93,
+        "amountGross": 2937463.93,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1739227.98,
+        "amountGross": 1739227.98,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 244643.52,
+        "amountGross": 244643.52,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 169053.03,
+        "amountGross": 169053.03,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 57059.42,
+        "amountGross": 57059.42,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2620118.59,
+        "amountGross": 2766541.4,
+        "amountAdjustments": -146422.81
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2165620.48,
+        "amountGross": 2233503.57,
+        "amountAdjustments": -67883.09
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1605957.34,
+        "amountGross": 1723719.62,
+        "amountAdjustments": -117762.28
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1585282.73,
+        "amountGross": 1714108.59,
+        "amountAdjustments": -128825.86
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1268180.75,
+        "amountGross": 1354903.17,
+        "amountAdjustments": -86722.42
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1153493.34,
+        "amountGross": 1206727.09,
+        "amountAdjustments": -53233.75
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1096267.47,
+        "amountGross": 1177888.25,
+        "amountAdjustments": -81620.78
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 892336.41,
+        "amountGross": 924749.76,
+        "amountAdjustments": -32413.35
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 726021.63,
+        "amountGross": 746113.48,
+        "amountAdjustments": -20091.85
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 644819.58,
+        "amountGross": 644819.58,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 631815.81,
+        "amountGross": 654872.03,
+        "amountAdjustments": -23056.22
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 611457.06,
+        "amountGross": 644619.72,
+        "amountAdjustments": -33162.66
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 777985.67,
+      "percent": 3.84
+    },
+    "averages": {
+      "perEntityWithSpending": 41948.13,
+      "perRecord": 1108.25
+    },
+    "dailyTotals": {
+      "referenceDate": "2025-05-26",
+      "amountNet": 135.6,
+      "previousAmountNet": 8500.0,
+      "deltaAmountNet": -8364.4,
+      "deltaPercent": -98.4,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2025-04-28",
+          "amountNet": 6000.1
+        },
+        {
+          "date": "2025-04-29",
+          "amountNet": 18000.0
+        },
+        {
+          "date": "2025-04-30",
+          "amountNet": 7000.0
+        },
+        {
+          "date": "2025-05-06",
+          "amountNet": 1550.0
+        },
+        {
+          "date": "2025-05-08",
+          "amountNet": 9999.46
+        },
+        {
+          "date": "2025-05-15",
+          "amountNet": 8500.0
+        },
+        {
+          "date": "2025-05-26",
+          "amountNet": 135.6
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2025-05-26",
+      "entity": {
+        "id": 204520,
+        "name": "Junio Amaral",
+        "stateCode": "MG",
+        "party": "PL",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204520.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 135.6,
+      "category": "ESCRITORIO",
+      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "supplier": "IMPERIO PAPELARIA E LIVRARIA LTDA",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3399/2025/7872246.pdf"
+    }
+  }
+}

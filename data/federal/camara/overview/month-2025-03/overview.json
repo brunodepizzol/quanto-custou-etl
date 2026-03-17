@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2025-03",
+    "generatedAt": "2026-03-17T08:25:19.292517Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 20104601.12,
+    "amountGross": 21066873.92,
+    "amountAdjustments": -962272.8,
+    "recordsCount": 18252,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 485,
+    "entitiesWithoutSpending": 28
+  },
+  "highlights": {
+    "topSpender": {
+      "id": 74356,
+      "name": "Silas Câmara",
+      "stateCode": "AM",
+      "party": "REPUBLICANOS",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74356.jpg",
+      "amountNet": 146193.64,
+      "amountGross": 150813.67,
+      "amountAdjustments": -4620.03
+    },
+    "topCategories": [
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 7433788.01,
+        "amountGross": 8396060.81,
+        "amountAdjustments": -962272.8
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 7368197.67,
+        "amountGross": 7368197.67,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2936842.34,
+        "amountGross": 2936842.34,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1813163.78,
+        "amountGross": 1813163.78,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 326199.22,
+        "amountGross": 326199.22,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 166730.38,
+        "amountGross": 166730.38,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 59679.72,
+        "amountGross": 59679.72,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2521032.81,
+        "amountGross": 2631659.29,
+        "amountAdjustments": -110626.48
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2027548.52,
+        "amountGross": 2073905.5,
+        "amountAdjustments": -46356.98
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1603538.49,
+        "amountGross": 1714617.86,
+        "amountAdjustments": -111079.37
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1534093.03,
+        "amountGross": 1618340.77,
+        "amountAdjustments": -84247.74
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1321689.25,
+        "amountGross": 1418269.22,
+        "amountAdjustments": -96579.97
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1210463.78,
+        "amountGross": 1274586.25,
+        "amountAdjustments": -64122.47
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1046917.37,
+        "amountGross": 1120373.95,
+        "amountAdjustments": -73456.58
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 838829.9,
+        "amountGross": 874348.24,
+        "amountAdjustments": -35518.34
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 673492.38,
+        "amountGross": 708207.04,
+        "amountAdjustments": -34714.66
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 664395.59,
+        "amountGross": 664395.59,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 599511.39,
+        "amountGross": 618813.6,
+        "amountAdjustments": -19302.21
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 575543.84,
+        "amountGross": 617660.76,
+        "amountAdjustments": -42116.92
+      }
+    ],
+    "concentrationTop10": {
+      "amountNet": 885187.06,
+      "percent": 4.4
+    },
+    "averages": {
+      "perEntityWithSpending": 41452.79,
+      "perRecord": 1101.5
+    },
+    "dailyTotals": {
+      "referenceDate": "2025-06-26",
+      "amountNet": 228.91,
+      "previousAmountNet": 15000.0,
+      "deltaAmountNet": -14771.09,
+      "deltaPercent": -98.47,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2025-06-10",
+          "amountNet": 20700.0
+        },
+        {
+          "date": "2025-06-12",
+          "amountNet": 2892.45
+        },
+        {
+          "date": "2025-06-13",
+          "amountNet": 7892.45
+        },
+        {
+          "date": "2025-06-17",
+          "amountNet": 7684.5
+        },
+        {
+          "date": "2025-06-18",
+          "amountNet": 15500.0
+        },
+        {
+          "date": "2025-06-25",
+          "amountNet": 15000.0
+        },
+        {
+          "date": "2025-06-26",
+          "amountNet": 228.91
+        }
+      ]
+    },
+    "dailyTopExpense": {
+      "referenceDate": "2025-06-26",
+      "entity": {
+        "id": 160556,
+        "name": "Padre João",
+        "stateCode": "MG",
+        "party": "PT",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160556.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 228.91,
+      "category": "ESCRITORIO",
+      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "supplier": "COPASA",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2305/2025/7937559.pdf"
+    }
+  }
+}
