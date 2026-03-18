@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220635,
-    "generatedAt": "2026-03-17T09:48:46.489856Z",
+    "generatedAt": "2026-03-18T05:13:33.955700Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,10 +15,10 @@
     "slug": "bruno-ganem"
   },
   "mandateTotals": {
-    "amountNet": 1415175.51,
-    "amountGross": 1425286.18,
+    "amountNet": 1416615.51,
+    "amountGross": 1426726.18,
     "amountAdjustments": -10110.67,
-    "recordsCount": 660,
+    "recordsCount": 661,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 0.0,
@@ -27,7 +27,7 @@
       "DESLOCAMENTO": 311163.8,
       "DIVULGACAO": 871561.9,
       "ESCRITORIO": 227579.27,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 1440.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
@@ -38,7 +38,7 @@
       "DESLOCAMENTO": 321274.47,
       "DIVULGACAO": 871561.9,
       "ESCRITORIO": 227579.27,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 1440.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -57,7 +57,7 @@
     "2023": 499756.03,
     "2024": 380354.12,
     "2025": 492200.42,
-    "2026": 42864.94
+    "2026": 44304.94
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -98,11 +98,11 @@
     "2025-12": 37217.91,
     "2026-01": 37692.2,
     "2026-02": 5172.74,
-    "2026-03": 0.0
+    "2026-03": 1440.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 871561.9,
-    "percent": 61.59
+    "percent": 61.52
   }
 }
