@@ -2,8 +2,8 @@
   "meta": {
     "scope": "federal/camara",
     "type": "home-insights",
-    "generatedAt": "2026-03-20T05:04:38.316484Z",
-    "freshUntil": "2026-03-21T05:04:38.316484Z",
+    "generatedAt": "2026-03-21T04:54:36.413888Z",
+    "freshUntil": "2026-03-22T04:54:36.413888Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
@@ -19,17 +19,17 @@
       "enabled": true,
       "priority": 100,
       "weight": 1.0,
-      "generatedAt": "2026-03-20T05:04:38.316484Z",
-      "freshUntil": "2026-03-21T05:04:38.316484Z",
+      "generatedAt": "2026-03-21T04:54:36.413888Z",
+      "freshUntil": "2026-03-22T04:54:36.413888Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 714990009.32,
+        "amount": 714996567.21,
         "currency": "BRL"
       },
       "tags": [
         "Dados federais"
       ],
-      "referenceDate": "629716 lançamentos no período",
+      "referenceDate": "629738 lançamentos no período",
       "variationText": "Base: 514 • Com gasto: 512 • Sem gasto: 2"
     },
     {
@@ -44,8 +44,8 @@
       "enabled": true,
       "priority": 95,
       "weight": 0.95,
-      "generatedAt": "2026-03-20T05:04:38.316484Z",
-      "freshUntil": "2026-03-21T05:04:38.316484Z",
+      "generatedAt": "2026-03-21T04:54:36.413888Z",
+      "freshUntil": "2026-03-22T04:54:36.413888Z",
       "qualityScore": 1.0,
       "entity": {
         "id": 73486,
@@ -74,19 +74,19 @@
       "enabled": true,
       "priority": 92,
       "weight": 0.9,
-      "generatedAt": "2026-03-20T05:04:38.316484Z",
-      "freshUntil": "2026-03-21T05:04:38.316484Z",
+      "generatedAt": "2026-03-21T04:54:36.413888Z",
+      "freshUntil": "2026-03-22T04:54:36.413888Z",
       "qualityScore": 1.0,
       "left": {
         "amount": 19003736.18,
         "currency": "BRL"
       },
       "right": {
-        "amount": 714990009.32,
+        "amount": 714996567.21,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -695986273.14,
+        "amount": -695992831.03,
         "percent": 2.66,
         "direction": "up"
       },
@@ -108,11 +108,11 @@
       "enabled": true,
       "priority": 90,
       "weight": 0.88,
-      "generatedAt": "2026-03-20T05:04:38.316484Z",
-      "freshUntil": "2026-03-21T05:04:38.316484Z",
+      "generatedAt": "2026-03-21T04:54:36.413888Z",
+      "freshUntil": "2026-03-22T04:54:36.413888Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 1244.16,
+        "amount": 1805.7,
         "currency": "BRL"
       },
       "tags": [
@@ -133,23 +133,23 @@
       "enabled": true,
       "priority": 89,
       "weight": 0.86,
-      "generatedAt": "2026-03-20T05:04:38.316484Z",
-      "freshUntil": "2026-03-21T05:04:38.316484Z",
+      "generatedAt": "2026-03-21T04:54:36.413888Z",
+      "freshUntil": "2026-03-22T04:54:36.413888Z",
       "qualityScore": 1.0,
       "entity": {
-        "id": 136811,
-        "name": "Afonso Hamm",
-        "party": "PP",
-        "stateCode": "RS",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/136811.jpg",
-        "subtitle": "Deputado federal • PP/RS"
+        "id": 205476,
+        "name": "Charles Fernandes",
+        "party": "PSD",
+        "stateCode": "BA",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/205476.jpg",
+        "subtitle": "Deputado federal • PSD/BA"
       },
       "value": {
-        "amount": 318.93,
+        "amount": 561.54,
         "currency": "BRL"
       },
       "referenceDate": "2026-03-19",
-      "variationText": "Fornecedor: POSTO DE COMBUSTIVEIS SAO RAFAEL LTDA"
+      "variationText": "Fornecedor: POSTO GRUTA DA LAPA LTDA"
     },
     {
       "id": "federal-deputies-day-vs-previous-day",
@@ -163,27 +163,27 @@
       "enabled": true,
       "priority": 85,
       "weight": 0.82,
-      "generatedAt": "2026-03-20T05:04:38.316484Z",
-      "freshUntil": "2026-03-21T05:04:38.316484Z",
+      "generatedAt": "2026-03-21T04:54:36.413888Z",
+      "freshUntil": "2026-03-22T04:54:36.413888Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 1244.16,
+        "amount": 1805.7,
         "currency": "BRL"
       },
       "right": {
-        "amount": 11521.51,
+        "amount": 11600.35,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -10277.35,
-        "percent": -89.2,
+        "amount": -9794.65,
+        "percent": -84.43,
         "direction": "down"
       },
       "tags": [
         "Variação diária"
       ],
       "referenceDate": "2026-03-19",
-      "variationText": "Dia anterior: R$ 11.521,51"
+      "variationText": "Dia anterior: R$ 11.600,35"
     },
     {
       "id": "federal-deputies-mandate-top-category",
@@ -197,8 +197,8 @@
       "enabled": true,
       "priority": 82,
       "weight": 0.78,
-      "generatedAt": "2026-03-20T05:04:38.316484Z",
-      "freshUntil": "2026-03-21T05:04:38.316484Z",
+      "generatedAt": "2026-03-21T04:54:36.413888Z",
+      "freshUntil": "2026-03-22T04:54:36.413888Z",
       "qualityScore": 1.0,
       "value": {
         "amount": 281697352.55,
@@ -222,8 +222,8 @@
       "enabled": true,
       "priority": 80,
       "weight": 0.76,
-      "generatedAt": "2026-03-20T05:04:38.316484Z",
-      "freshUntil": "2026-03-21T05:04:38.316484Z",
+      "generatedAt": "2026-03-21T04:54:36.413888Z",
+      "freshUntil": "2026-03-22T04:54:36.413888Z",
       "qualityScore": 1.0,
       "value": {
         "amount": 88217193.17,
@@ -247,18 +247,18 @@
       "enabled": true,
       "priority": 78,
       "weight": 0.72,
-      "generatedAt": "2026-03-20T05:04:38.316484Z",
-      "freshUntil": "2026-03-21T05:04:38.316484Z",
+      "generatedAt": "2026-03-21T04:54:36.413888Z",
+      "freshUntil": "2026-03-22T04:54:36.413888Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 1396464.86,
+        "amount": 1396477.67,
         "currency": "BRL"
       },
       "tags": [
         "Média por agente"
       ],
       "referenceDate": "512 deputados com gasto no período",
-      "variationText": "Montante: R$ 714.990.009,32"
+      "variationText": "Montante: R$ 714.996.567,21"
     },
     {
       "id": "federal-deputies-day-top-share",
@@ -272,27 +272,27 @@
       "enabled": true,
       "priority": 74,
       "weight": 0.68,
-      "generatedAt": "2026-03-20T05:04:38.316484Z",
-      "freshUntil": "2026-03-21T05:04:38.316484Z",
+      "generatedAt": "2026-03-21T04:54:36.413888Z",
+      "freshUntil": "2026-03-22T04:54:36.413888Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 318.93,
+        "amount": 561.54,
         "currency": "BRL"
       },
       "right": {
-        "amount": 1244.16,
+        "amount": 1805.7,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -925.23,
-        "percent": 25.63,
+        "amount": -1244.16,
+        "percent": 31.1,
         "direction": "down"
       },
       "tags": [
         "Peso do maior gasto no dia"
       ],
       "referenceDate": "2026-03-19",
-      "variationText": "Valor líder: R$ 318,93"
+      "variationText": "Valor líder: R$ 561,54"
     },
     {
       "id": "federal-deputies-rolling7d-trend",
@@ -306,8 +306,8 @@
       "enabled": true,
       "priority": 72,
       "weight": 0.66,
-      "generatedAt": "2026-03-20T05:04:38.316484Z",
-      "freshUntil": "2026-03-21T05:04:38.316484Z",
+      "generatedAt": "2026-03-21T04:54:36.413888Z",
+      "freshUntil": "2026-03-22T04:54:36.413888Z",
       "qualityScore": 1.0,
       "tags": [
         "Totais diários"
@@ -320,37 +320,37 @@
         },
         {
           "date": "2026-03-14",
-          "amount": 37650.54,
+          "amount": 38546.67,
           "currency": "BRL"
         },
         {
           "date": "2026-03-15",
-          "amount": 23292.02,
+          "amount": 23727.08,
           "currency": "BRL"
         },
         {
           "date": "2026-03-16",
-          "amount": 185333.81,
+          "amount": 187318.87,
           "currency": "BRL"
         },
         {
           "date": "2026-03-17",
-          "amount": 54024.27,
+          "amount": 55197.42,
           "currency": "BRL"
         },
         {
           "date": "2026-03-18",
-          "amount": 11521.51,
+          "amount": 11600.35,
           "currency": "BRL"
         },
         {
           "date": "2026-03-19",
-          "amount": 1244.16,
+          "amount": 1805.7,
           "currency": "BRL"
         }
       ],
       "referenceDate": "2026-03-19",
-      "variationText": "Janela 7d: R$ 435.645,62"
+      "variationText": "Janela 7d: R$ 440.775,40"
     }
   ]
 }
