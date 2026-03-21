@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "mandate",
-    "generatedAt": "2026-03-21T04:54:36.420019Z",
+    "generatedAt": "2026-03-21T20:15:51.229019Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -12,30 +12,40 @@
       "name": "Pompeo de Mattos",
       "stateCode": "RS",
       "party": "PDT",
-      "amountNet": 1992267.15,
-      "amountGross": 2009770.71,
+      "amountNet": 1995739.46,
+      "amountGross": 2013243.02,
       "amountAdjustments": -17503.56,
-      "recordsCount": 2488
-    },
-    {
-      "id": 220590,
-      "name": "Coronel Ulysses",
-      "stateCode": "AC",
-      "party": "UNIÃO",
-      "amountNet": 1930343.56,
-      "amountGross": 1977014.72,
-      "amountAdjustments": -46671.16,
-      "recordsCount": 865
+      "recordsCount": 2489
     },
     {
       "id": 220538,
       "name": "Albuquerque",
       "stateCode": "RR",
       "party": "REPUBLICANOS",
-      "amountNet": 1928056.38,
-      "amountGross": 1931017.98,
+      "amountNet": 1933471.26,
+      "amountGross": 1936432.86,
       "amountAdjustments": -2961.6,
-      "recordsCount": 673
+      "recordsCount": 675
+    },
+    {
+      "id": 220590,
+      "name": "Coronel Ulysses",
+      "stateCode": "AC",
+      "party": "UNIÃO",
+      "amountNet": 1932243.56,
+      "amountGross": 1978914.72,
+      "amountAdjustments": -46671.16,
+      "recordsCount": 866
+    },
+    {
+      "id": 220537,
+      "name": "Helena Lima",
+      "stateCode": "RR",
+      "party": "MDB",
+      "amountNet": 1899781.95,
+      "amountGross": 2090747.94,
+      "amountAdjustments": -190965.99,
+      "recordsCount": 1358
     },
     {
       "id": 160591,
@@ -48,24 +58,24 @@
       "recordsCount": 488
     },
     {
-      "id": 220537,
-      "name": "Helena Lima",
-      "stateCode": "RR",
-      "party": "MDB",
-      "amountNet": 1894452.61,
-      "amountGross": 2085418.6,
-      "amountAdjustments": -190965.99,
-      "recordsCount": 1355
-    },
-    {
       "id": 204360,
       "name": "Silvia Cristina",
       "stateCode": "RO",
       "party": "PP",
-      "amountNet": 1883634.85,
-      "amountGross": 2017252.95,
+      "amountNet": 1884705.13,
+      "amountGross": 2018323.23,
       "amountAdjustments": -133618.1,
-      "recordsCount": 1867
+      "recordsCount": 1868
+    },
+    {
+      "id": 220536,
+      "name": "Zé Haroldo Cathedral",
+      "stateCode": "RR",
+      "party": "PSD",
+      "amountNet": 1881174.92,
+      "amountGross": 1933265.27,
+      "amountAdjustments": -52090.35,
+      "recordsCount": 741
     },
     {
       "id": 224117,
@@ -73,42 +83,42 @@
       "stateCode": "RR",
       "party": "REPUBLICANOS",
       "amountNet": 1880967.83,
-      "amountGross": 1899099.42,
-      "amountAdjustments": -18131.59,
-      "recordsCount": 225
+      "amountGross": 1902397.27,
+      "amountAdjustments": -21429.44,
+      "recordsCount": 227
     },
     {
-      "id": 220536,
-      "name": "Zé Haroldo Cathedral",
-      "stateCode": "RR",
-      "party": "PSD",
-      "amountNet": 1879863.91,
-      "amountGross": 1931954.26,
-      "amountAdjustments": -52090.35,
-      "recordsCount": 738
+      "id": 220591,
+      "name": "Meire Serafim",
+      "stateCode": "AC",
+      "party": "UNIÃO",
+      "amountNet": 1868302.72,
+      "amountGross": 2071490.95,
+      "amountAdjustments": -203188.23,
+      "recordsCount": 1828
     },
     {
       "id": 204423,
       "name": "André Ferreira",
       "stateCode": "PE",
       "party": "PL",
-      "amountNet": 1862106.2,
-      "amountGross": 1905705.12,
-      "amountAdjustments": -43598.92,
-      "recordsCount": 1779
-    },
-    {
-      "id": 141459,
-      "name": "João Maia",
-      "stateCode": "RN",
-      "party": "PP",
-      "amountNet": 1854962.95,
-      "amountGross": 1877176.34,
-      "amountAdjustments": -22213.39,
-      "recordsCount": 1120
+      "amountNet": 1867229.27,
+      "amountGross": 1911385.95,
+      "amountAdjustments": -44156.68,
+      "recordsCount": 1787
     }
   ],
   "bottom": [
+    {
+      "id": 77003,
+      "name": "Sergio Santos Rodrigues",
+      "stateCode": "MG",
+      "party": "PODE",
+      "amountNet": 15476.53,
+      "amountGross": 15476.53,
+      "amountAdjustments": 0.0,
+      "recordsCount": 19
+    },
     {
       "id": 222565,
       "name": "Soldado Noelio",
@@ -130,14 +140,24 @@
       "recordsCount": 14
     },
     {
+      "id": 129618,
+      "name": "Gorete Pereira",
+      "stateCode": "CE",
+      "party": "MDB",
+      "amountNet": 36738.95,
+      "amountGross": 36738.95,
+      "amountAdjustments": 0.0,
+      "recordsCount": 8
+    },
+    {
       "id": 235088,
       "name": "Ribeiro Neto",
       "stateCode": "MA",
       "party": "PRD",
-      "amountNet": 37600.02,
-      "amountGross": 37600.02,
+      "amountNet": 38550.02,
+      "amountGross": 38550.02,
       "amountAdjustments": 0.0,
-      "recordsCount": 25
+      "recordsCount": 26
     },
     {
       "id": 234253,
@@ -160,54 +180,34 @@
       "recordsCount": 7
     },
     {
-      "id": 77003,
-      "name": "Sergio Santos Rodrigues",
-      "stateCode": "MG",
-      "party": "PODE",
-      "amountNet": 82586.14,
-      "amountGross": 82586.14,
+      "id": 234673,
+      "name": "Vanderlan Alves",
+      "stateCode": "CE",
+      "party": "REPUBLICANOS",
+      "amountNet": 103277.53,
+      "amountGross": 103277.53,
       "amountAdjustments": 0.0,
-      "recordsCount": 55
+      "recordsCount": 87
     },
     {
       "id": 234310,
       "name": "Ricardo Galvão",
       "stateCode": "SP",
       "party": "REDE",
-      "amountNet": 98585.28,
-      "amountGross": 98585.28,
+      "amountNet": 106086.03,
+      "amountGross": 106086.03,
       "amountAdjustments": 0.0,
-      "recordsCount": 52
-    },
-    {
-      "id": 234673,
-      "name": "Vanderlan Alves",
-      "stateCode": "CE",
-      "party": "REPUBLICANOS",
-      "amountNet": 101277.53,
-      "amountGross": 101277.53,
-      "amountAdjustments": 0.0,
-      "recordsCount": 86
+      "recordsCount": 56
     },
     {
       "id": 220715,
       "name": "Amom Mandel",
       "stateCode": "AM",
       "party": "CIDADANIA",
-      "amountNet": 113485.2,
-      "amountGross": 246966.42,
+      "amountNet": 120009.18,
+      "amountGross": 253490.4,
       "amountAdjustments": -133481.22,
-      "recordsCount": 210
-    },
-    {
-      "id": 73808,
-      "name": "Sérgio Brito",
-      "stateCode": "BA",
-      "party": "PSD",
-      "amountNet": 142564.35,
-      "amountGross": 142711.9,
-      "amountAdjustments": -147.55,
-      "recordsCount": 132
+      "recordsCount": 214
     }
   ]
 }

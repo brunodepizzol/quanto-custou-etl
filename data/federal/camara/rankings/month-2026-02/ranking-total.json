@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-02",
-    "generatedAt": "2026-03-17T09:43:38.782868Z",
+    "generatedAt": "2026-03-21T20:10:34.813154Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -12,10 +12,20 @@
       "name": "Albuquerque",
       "stateCode": "RR",
       "party": "REPUBLICANOS",
-      "amountNet": 72695.26,
-      "amountGross": 72695.26,
+      "amountNet": 75695.26,
+      "amountGross": 75695.26,
       "amountAdjustments": 0.0,
-      "recordsCount": 17
+      "recordsCount": 18
+    },
+    {
+      "id": 141458,
+      "name": "João Carlos Bacelar",
+      "stateCode": "BA",
+      "party": "PL",
+      "amountNet": 64078.82,
+      "amountGross": 64078.82,
+      "amountAdjustments": 0.0,
+      "recordsCount": 16
     },
     {
       "id": 220533,
@@ -26,16 +36,6 @@
       "amountGross": 61433.14,
       "amountAdjustments": 0.0,
       "recordsCount": 26
-    },
-    {
-      "id": 141458,
-      "name": "João Carlos Bacelar",
-      "stateCode": "BA",
-      "party": "PL",
-      "amountNet": 60755.1,
-      "amountGross": 60755.1,
-      "amountAdjustments": 0.0,
-      "recordsCount": 12
     },
     {
       "id": 204504,
@@ -58,6 +58,26 @@
       "recordsCount": 5
     },
     {
+      "id": 220551,
+      "name": "Franciane Bayer",
+      "stateCode": "RS",
+      "party": "REPUBLICANOS",
+      "amountNet": 58344.91,
+      "amountGross": 58344.91,
+      "amountAdjustments": 0.0,
+      "recordsCount": 71
+    },
+    {
+      "id": 204426,
+      "name": "Carlos Veras",
+      "stateCode": "PE",
+      "party": "PT",
+      "amountNet": 58327.43,
+      "amountGross": 58327.43,
+      "amountAdjustments": 0.0,
+      "recordsCount": 72
+    },
+    {
       "id": 141459,
       "name": "João Maia",
       "stateCode": "RN",
@@ -68,16 +88,6 @@
       "recordsCount": 31
     },
     {
-      "id": 204426,
-      "name": "Carlos Veras",
-      "stateCode": "PE",
-      "party": "PT",
-      "amountNet": 57677.43,
-      "amountGross": 57677.43,
-      "amountAdjustments": 0.0,
-      "recordsCount": 70
-    },
-    {
       "id": 230768,
       "name": "Zé Adriano",
       "stateCode": "AC",
@@ -86,16 +96,6 @@
       "amountGross": 56661.43,
       "amountAdjustments": 0.0,
       "recordsCount": 13
-    },
-    {
-      "id": 220551,
-      "name": "Franciane Bayer",
-      "stateCode": "RS",
-      "party": "REPUBLICANOS",
-      "amountNet": 56068.91,
-      "amountGross": 56068.91,
-      "amountAdjustments": 0.0,
-      "recordsCount": 65
     },
     {
       "id": 230957,
@@ -109,16 +109,6 @@
     }
   ],
   "bottom": [
-    {
-      "id": 178886,
-      "name": "Juscelino Filho",
-      "stateCode": "MA",
-      "party": "UNIÃO",
-      "amountNet": 197.57,
-      "amountGross": 197.57,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
     {
       "id": 204496,
       "name": "Celso Sabino",
@@ -150,6 +140,16 @@
       "recordsCount": 3
     },
     {
+      "id": 166402,
+      "name": "Magda Mofatto",
+      "stateCode": "GO",
+      "party": "PL",
+      "amountNet": 512.5,
+      "amountGross": 512.5,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
+    },
+    {
       "id": 204528,
       "name": "Adriana Ventura",
       "stateCode": "SP",
@@ -164,8 +164,18 @@
       "name": "Robério Monteiro",
       "stateCode": "CE",
       "party": "PDT",
-      "amountNet": 647.23,
-      "amountGross": 647.23,
+      "amountNet": 797.23,
+      "amountGross": 797.23,
+      "amountAdjustments": 0.0,
+      "recordsCount": 6
+    },
+    {
+      "id": 129618,
+      "name": "Gorete Pereira",
+      "stateCode": "CE",
+      "party": "MDB",
+      "amountNet": 938.95,
+      "amountGross": 938.95,
       "amountAdjustments": 0.0,
       "recordsCount": 5
     },
@@ -180,14 +190,14 @@
       "recordsCount": 5
     },
     {
-      "id": 220675,
-      "name": "Antônio Doido",
-      "stateCode": "PA",
-      "party": "MDB",
-      "amountNet": 1052.01,
-      "amountGross": 1052.01,
+      "id": 178886,
+      "name": "Juscelino Filho",
+      "stateCode": "MA",
+      "party": "UNIÃO",
+      "amountNet": 1275.89,
+      "amountGross": 1275.89,
       "amountAdjustments": 0.0,
-      "recordsCount": 5
+      "recordsCount": 3
     },
     {
       "id": 178983,
@@ -198,16 +208,6 @@
       "amountGross": 1378.26,
       "amountAdjustments": 0.0,
       "recordsCount": 4
-    },
-    {
-      "id": 204495,
-      "name": "Airton Faleiro",
-      "stateCode": "PA",
-      "party": "PT",
-      "amountNet": 1487.51,
-      "amountGross": 1487.51,
-      "amountAdjustments": 0.0,
-      "recordsCount": 2
     }
   ]
 }

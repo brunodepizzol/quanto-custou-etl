@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-01",
-    "generatedAt": "2026-03-17T09:38:29.080205Z",
+    "generatedAt": "2026-03-21T20:05:16.190682Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -12,8 +12,18 @@
       "name": "Coronel Ulysses",
       "stateCode": "AC",
       "party": "UNIÃO",
-      "amountNet": 92440.03,
-      "amountGross": 92440.03,
+      "amountNet": 94340.03,
+      "amountGross": 94340.03,
+      "amountAdjustments": 0.0,
+      "recordsCount": 15
+    },
+    {
+      "id": 74090,
+      "name": "Átila Lins",
+      "stateCode": "AM",
+      "party": "PSD",
+      "amountNet": 81968.85,
+      "amountGross": 81968.85,
       "amountAdjustments": 0.0,
       "recordsCount": 14
     },
@@ -23,89 +33,79 @@
       "stateCode": "AM",
       "party": "REPUBLICANOS",
       "amountNet": 80761.55,
-      "amountGross": 80761.55,
-      "amountAdjustments": 0.0,
-      "recordsCount": 4
-    },
-    {
-      "id": 220693,
-      "name": "Roberta Roma",
-      "stateCode": "BA",
-      "party": "PL",
-      "amountNet": 76381.24,
-      "amountGross": 76381.24,
-      "amountAdjustments": 0.0,
-      "recordsCount": 33
+      "amountGross": 85040.96,
+      "amountAdjustments": -4279.41,
+      "recordsCount": 8
     },
     {
       "id": 230768,
       "name": "Zé Adriano",
       "stateCode": "AC",
       "party": "PP",
-      "amountNet": 75058.96,
-      "amountGross": 75058.96,
+      "amountNet": 79475.1,
+      "amountGross": 79475.1,
       "amountAdjustments": 0.0,
-      "recordsCount": 16
+      "recordsCount": 18
     },
     {
-      "id": 74090,
-      "name": "Átila Lins",
-      "stateCode": "AM",
-      "party": "PSD",
-      "amountNet": 74272.59,
-      "amountGross": 74272.59,
+      "id": 220693,
+      "name": "Roberta Roma",
+      "stateCode": "BA",
+      "party": "PL",
+      "amountNet": 78359.54,
+      "amountGross": 78359.54,
       "amountAdjustments": 0.0,
-      "recordsCount": 9
+      "recordsCount": 34
+    },
+    {
+      "id": 220609,
+      "name": "Maurício Carvalho",
+      "stateCode": "RO",
+      "party": "UNIÃO",
+      "amountNet": 78161.21,
+      "amountGross": 78161.21,
+      "amountAdjustments": 0.0,
+      "recordsCount": 34
     },
     {
       "id": 220551,
       "name": "Franciane Bayer",
       "stateCode": "RS",
       "party": "REPUBLICANOS",
-      "amountNet": 71771.92,
-      "amountGross": 71771.92,
+      "amountNet": 77612.21,
+      "amountGross": 77612.21,
       "amountAdjustments": 0.0,
-      "recordsCount": 40
-    },
-    {
-      "id": 226837,
-      "name": "Saulo Pedroso",
-      "stateCode": "SP",
-      "party": "PSD",
-      "amountNet": 71188.29,
-      "amountGross": 71188.29,
-      "amountAdjustments": 0.0,
-      "recordsCount": 27
+      "recordsCount": 47
     },
     {
       "id": 204410,
       "name": "Luisa Canziani",
       "stateCode": "PR",
       "party": "PSD",
-      "amountNet": 68437.23,
-      "amountGross": 68437.23,
-      "amountAdjustments": 0.0,
-      "recordsCount": 19
+      "amountNet": 76147.8,
+      "amountGross": 78166.51,
+      "amountAdjustments": -2018.71,
+      "recordsCount": 31
     },
     {
-      "id": 178989,
-      "name": "Renata Abreu",
+      "id": 226179,
+      "name": "Gisela Simona",
+      "stateCode": "MT",
+      "party": "UNIÃO",
+      "amountNet": 73069.02,
+      "amountGross": 74410.4,
+      "amountAdjustments": -1341.38,
+      "recordsCount": 67
+    },
+    {
+      "id": 226837,
+      "name": "Saulo Pedroso",
       "stateCode": "SP",
-      "party": "PODE",
-      "amountNet": 68431.42,
-      "amountGross": 68431.42,
+      "party": "PSD",
+      "amountNet": 71882.11,
+      "amountGross": 71882.11,
       "amountAdjustments": 0.0,
-      "recordsCount": 11
-    },
-    {
-      "id": 220624,
-      "name": "Robinson Faria",
-      "stateCode": "RN",
-      "party": "PP",
-      "amountNet": 67864.04,
-      "amountGross": 67864.04,
-      "amountAdjustments": 0.0,
-      "recordsCount": 17
+      "recordsCount": 29
     }
   ],
   "bottom": [
@@ -130,16 +130,6 @@
       "recordsCount": 4
     },
     {
-      "id": 215043,
-      "name": "Josivaldo JP",
-      "stateCode": "MA",
-      "party": "PSD",
-      "amountNet": 1325.69,
-      "amountGross": 1325.69,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 204391,
       "name": "José Nelto",
       "stateCode": "GO",
@@ -150,54 +140,44 @@
       "recordsCount": 3
     },
     {
+      "id": 220681,
+      "name": "Fábio Macedo",
+      "stateCode": "MA",
+      "party": "PODE",
+      "amountNet": 3049.31,
+      "amountGross": 3049.31,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 215043,
+      "name": "Josivaldo JP",
+      "stateCode": "MA",
+      "party": "PSD",
+      "amountNet": 4708.92,
+      "amountGross": 4708.92,
+      "amountAdjustments": 0.0,
+      "recordsCount": 4
+    },
+    {
       "id": 204553,
       "name": "Pastor Sargento Isidório",
       "stateCode": "BA",
       "party": "AVANTE",
-      "amountNet": 2651.69,
-      "amountGross": 2651.69,
+      "amountNet": 6045.01,
+      "amountGross": 6045.01,
       "amountAdjustments": 0.0,
-      "recordsCount": 22
-    },
-    {
-      "id": 204536,
-      "name": "Kim Kataguiri",
-      "stateCode": "SP",
-      "party": "MISSÃO",
-      "amountNet": 2962.02,
-      "amountGross": 2962.02,
-      "amountAdjustments": 0.0,
-      "recordsCount": 5
-    },
-    {
-      "id": 74075,
-      "name": "Elcione Barbalho",
-      "stateCode": "PA",
-      "party": "MDB",
-      "amountNet": 3346.89,
-      "amountGross": 3346.89,
-      "amountAdjustments": 0.0,
-      "recordsCount": 7
+      "recordsCount": 26
     },
     {
       "id": 204520,
       "name": "Junio Amaral",
       "stateCode": "MG",
       "party": "PL",
-      "amountNet": 3803.33,
-      "amountGross": 3803.33,
+      "amountNet": 6107.8,
+      "amountGross": 6107.8,
       "amountAdjustments": 0.0,
-      "recordsCount": 13
-    },
-    {
-      "id": 204528,
-      "name": "Adriana Ventura",
-      "stateCode": "SP",
-      "party": "NOVO",
-      "amountNet": 4439.59,
-      "amountGross": 4439.59,
-      "amountAdjustments": 0.0,
-      "recordsCount": 7
+      "recordsCount": 15
     },
     {
       "id": 204539,
@@ -208,6 +188,26 @@
       "amountGross": 6279.79,
       "amountAdjustments": 0.0,
       "recordsCount": 8
+    },
+    {
+      "id": 220715,
+      "name": "Amom Mandel",
+      "stateCode": "AM",
+      "party": "CIDADANIA",
+      "amountNet": 6523.98,
+      "amountGross": 6523.98,
+      "amountAdjustments": 0.0,
+      "recordsCount": 4
+    },
+    {
+      "id": 205476,
+      "name": "Charles Fernandes",
+      "stateCode": "BA",
+      "party": "PSD",
+      "amountNet": 7647.94,
+      "amountGross": 7647.94,
+      "amountAdjustments": 0.0,
+      "recordsCount": 14
     }
   ]
 }

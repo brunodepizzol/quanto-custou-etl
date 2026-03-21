@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204549,
-    "generatedAt": "2026-03-21T04:54:36.893780Z",
+    "generatedAt": "2026-03-21T20:15:51.694852Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,16 +15,16 @@
     "slug": "aj-albuquerque"
   },
   "mandateTotals": {
-    "amountNet": 1066605.43,
-    "amountGross": 1138042.95,
-    "amountAdjustments": -71437.52,
-    "recordsCount": 759,
+    "amountNet": 1073501.24,
+    "amountGross": 1150001.58,
+    "amountAdjustments": -76500.34,
+    "recordsCount": 770,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 111143.63,
+      "COMBUSTIVEL": 111432.19,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 11865.57,
-      "DESLOCAMENTO": 641764.48,
+      "DESLOCAMENTO": 648371.73,
       "DIVULGACAO": 236300.0,
       "ESCRITORIO": 25485.75,
       "HOSPEDAGEM": 40046.0,
@@ -32,10 +32,10 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 111143.63,
+      "COMBUSTIVEL": 111432.19,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 11865.57,
-      "DESLOCAMENTO": 713202.0,
+      "DESLOCAMENTO": 724872.07,
       "DIVULGACAO": 236300.0,
       "ESCRITORIO": 25485.75,
       "HOSPEDAGEM": 40046.0,
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -71437.52,
+      "DESLOCAMENTO": -76500.34,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -57,7 +57,7 @@
     "2023": 267980.4,
     "2024": 417461.62,
     "2025": 351569.4,
-    "2026": 29594.01
+    "2026": 36489.82
   },
   "monthTotals": {
     "2023-01": 8000.0,
@@ -96,13 +96,13 @@
     "2025-10": 21048.04,
     "2025-11": 34191.81,
     "2025-12": 12545.0,
-    "2026-01": 13466.8,
-    "2026-02": 15927.21,
+    "2026-01": 20074.05,
+    "2026-02": 16215.77,
     "2026-03": 200.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 641764.48,
-    "percent": 60.17
+    "amountNet": 648371.73,
+    "percent": 60.4
   }
 }
