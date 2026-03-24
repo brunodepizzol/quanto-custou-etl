@@ -2,8 +2,8 @@
   "meta": {
     "scope": "federal/camara",
     "type": "home-insights",
-    "generatedAt": "2026-03-23T05:23:16.461149Z",
-    "freshUntil": "2026-03-24T05:23:16.461149Z",
+    "generatedAt": "2026-03-24T05:11:38.032924Z",
+    "freshUntil": "2026-03-25T05:11:38.032924Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
@@ -19,17 +19,17 @@
       "enabled": true,
       "priority": 100,
       "weight": 1.0,
-      "generatedAt": "2026-03-23T05:23:16.461149Z",
-      "freshUntil": "2026-03-24T05:23:16.461149Z",
+      "generatedAt": "2026-03-24T05:11:38.032924Z",
+      "freshUntil": "2026-03-25T05:11:38.032924Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 718130787.83,
+        "amount": 718820773.26,
         "currency": "BRL"
       },
       "tags": [
         "Dados federais"
       ],
-      "referenceDate": "632531 lançamentos no período",
+      "referenceDate": "633234 lançamentos no período",
       "variationText": "Base: 514 • Com gasto: 513 • Sem gasto: 1"
     },
     {
@@ -44,8 +44,8 @@
       "enabled": true,
       "priority": 95,
       "weight": 0.95,
-      "generatedAt": "2026-03-23T05:23:16.461149Z",
-      "freshUntil": "2026-03-24T05:23:16.461149Z",
+      "generatedAt": "2026-03-24T05:11:38.032924Z",
+      "freshUntil": "2026-03-25T05:11:38.032924Z",
       "qualityScore": 1.0,
       "entity": {
         "id": 73486,
@@ -56,7 +56,7 @@
         "subtitle": "Deputado federal • PDT/RS"
       },
       "value": {
-        "amount": 1995739.46,
+        "amount": 1998286.18,
         "currency": "BRL"
       },
       "referenceDate": "Deputado com maior gasto no mandato",
@@ -74,19 +74,19 @@
       "enabled": true,
       "priority": 92,
       "weight": 0.9,
-      "generatedAt": "2026-03-23T05:23:16.461149Z",
-      "freshUntil": "2026-03-24T05:23:16.461149Z",
+      "generatedAt": "2026-03-24T05:11:38.032924Z",
+      "freshUntil": "2026-03-25T05:11:38.032924Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 19040696.84,
+        "amount": 19043443.56,
         "currency": "BRL"
       },
       "right": {
-        "amount": 718130787.83,
+        "amount": 718820773.26,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -699090090.99,
+        "amount": -699777329.7,
         "percent": 2.65,
         "direction": "up"
       },
@@ -94,7 +94,7 @@
         "Top 10 deputados"
       ],
       "referenceDate": "513 deputados com gasto no período",
-      "variationText": "Montante Top 10: R$ 19.040.696,84"
+      "variationText": "Montante Top 10: R$ 19.043.443,56"
     },
     {
       "id": "federal-deputies-day-total-amount",
@@ -108,17 +108,17 @@
       "enabled": true,
       "priority": 90,
       "weight": 0.88,
-      "generatedAt": "2026-03-23T05:23:16.461149Z",
-      "freshUntil": "2026-03-24T05:23:16.461149Z",
+      "generatedAt": "2026-03-24T05:11:38.032924Z",
+      "freshUntil": "2026-03-25T05:11:38.032924Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 544.28,
+        "amount": 250.0,
         "currency": "BRL"
       },
       "tags": [
         "Movimento do dia"
       ],
-      "referenceDate": "2026-03-20",
+      "referenceDate": "2026-03-23",
       "variationText": "Base: 514 • Com gasto: 513"
     },
     {
@@ -128,28 +128,28 @@
       "period": "day",
       "tag": "MAIOR GASTO DO DIA",
       "title": "Maior gasto no dia mais recente",
-      "context": "Maior despesa líquida no dia 20/03/2026.",
+      "context": "Maior despesa líquida no dia 23/03/2026.",
       "source": "Nível federal • Deputados federais",
       "enabled": true,
       "priority": 89,
       "weight": 0.86,
-      "generatedAt": "2026-03-23T05:23:16.461149Z",
-      "freshUntil": "2026-03-24T05:23:16.461149Z",
+      "generatedAt": "2026-03-24T05:11:38.032924Z",
+      "freshUntil": "2026-03-25T05:11:38.032924Z",
       "qualityScore": 1.0,
       "entity": {
-        "id": 229585,
-        "name": "Elisangela Araujo",
-        "party": "PT",
-        "stateCode": "BA",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/229585.jpg",
-        "subtitle": "Deputado federal • PT/BA"
+        "id": 98615,
+        "name": "Ismael",
+        "party": "PSD",
+        "stateCode": "SC",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/98615.jpg",
+        "subtitle": "Deputado federal • PSD/SC"
       },
       "value": {
-        "amount": 289.76,
+        "amount": 250.0,
         "currency": "BRL"
       },
-      "referenceDate": "2026-03-20",
-      "variationText": "Fornecedor: VISCONDE DERIVADOS DE PETROLEO LTDA"
+      "referenceDate": "2026-03-23",
+      "variationText": "Fornecedor: AUTO POSTO EIXINHO LTDA"
     },
     {
       "id": "federal-deputies-day-vs-previous-day",
@@ -163,27 +163,27 @@
       "enabled": true,
       "priority": 85,
       "weight": 0.82,
-      "generatedAt": "2026-03-23T05:23:16.461149Z",
-      "freshUntil": "2026-03-24T05:23:16.461149Z",
+      "generatedAt": "2026-03-24T05:11:38.032924Z",
+      "freshUntil": "2026-03-25T05:11:38.032924Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 544.28,
+        "amount": 250.0,
         "currency": "BRL"
       },
       "right": {
-        "amount": 6447.8,
+        "amount": 1695.04,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -5903.52,
-        "percent": -91.56,
+        "amount": -1445.04,
+        "percent": -85.25,
         "direction": "down"
       },
       "tags": [
         "Variação diária"
       ],
-      "referenceDate": "2026-03-20",
-      "variationText": "Dia anterior: R$ 6.447,80"
+      "referenceDate": "2026-03-23",
+      "variationText": "Dia anterior: R$ 1.695,04"
     },
     {
       "id": "federal-deputies-mandate-top-category",
@@ -197,11 +197,11 @@
       "enabled": true,
       "priority": 82,
       "weight": 0.78,
-      "generatedAt": "2026-03-23T05:23:16.461149Z",
-      "freshUntil": "2026-03-24T05:23:16.461149Z",
+      "generatedAt": "2026-03-24T05:11:38.032924Z",
+      "freshUntil": "2026-03-25T05:11:38.032924Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 282390787.09,
+        "amount": 282652808.89,
         "currency": "BRL"
       },
       "tags": [
@@ -222,11 +222,11 @@
       "enabled": true,
       "priority": 80,
       "weight": 0.76,
-      "generatedAt": "2026-03-23T05:23:16.461149Z",
-      "freshUntil": "2026-03-24T05:23:16.461149Z",
+      "generatedAt": "2026-03-24T05:11:38.032924Z",
+      "freshUntil": "2026-03-25T05:11:38.032924Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 88720467.97,
+        "amount": 88812185.67,
         "currency": "BRL"
       },
       "tags": [
@@ -247,18 +247,18 @@
       "enabled": true,
       "priority": 78,
       "weight": 0.72,
-      "generatedAt": "2026-03-23T05:23:16.461149Z",
-      "freshUntil": "2026-03-24T05:23:16.461149Z",
+      "generatedAt": "2026-03-24T05:11:38.032924Z",
+      "freshUntil": "2026-03-25T05:11:38.032924Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 1399865.08,
+        "amount": 1401210.08,
         "currency": "BRL"
       },
       "tags": [
         "Média por agente"
       ],
       "referenceDate": "513 deputados com gasto no período",
-      "variationText": "Montante: R$ 718.130.787,83"
+      "variationText": "Montante: R$ 718.820.773,26"
     },
     {
       "id": "federal-deputies-day-top-share",
@@ -272,27 +272,27 @@
       "enabled": true,
       "priority": 74,
       "weight": 0.68,
-      "generatedAt": "2026-03-23T05:23:16.461149Z",
-      "freshUntil": "2026-03-24T05:23:16.461149Z",
+      "generatedAt": "2026-03-24T05:11:38.032924Z",
+      "freshUntil": "2026-03-25T05:11:38.032924Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 289.76,
+        "amount": 250.0,
         "currency": "BRL"
       },
       "right": {
-        "amount": 544.28,
+        "amount": 250.0,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -254.52,
-        "percent": 53.24,
-        "direction": "down"
+        "amount": 0.0,
+        "percent": 100.0,
+        "direction": "flat"
       },
       "tags": [
         "Peso do maior gasto no dia"
       ],
-      "referenceDate": "2026-03-20",
-      "variationText": "Valor líder: R$ 289,76"
+      "referenceDate": "2026-03-23",
+      "variationText": "Valor líder: R$ 250,00"
     },
     {
       "id": "federal-deputies-rolling7d-trend",
@@ -306,51 +306,51 @@
       "enabled": true,
       "priority": 72,
       "weight": 0.66,
-      "generatedAt": "2026-03-23T05:23:16.461149Z",
-      "freshUntil": "2026-03-24T05:23:16.461149Z",
+      "generatedAt": "2026-03-24T05:11:38.032924Z",
+      "freshUntil": "2026-03-25T05:11:38.032924Z",
       "qualityScore": 1.0,
       "tags": [
         "Totais diários"
       ],
       "series": [
         {
-          "date": "2026-03-14",
-          "amount": 44840.49,
-          "currency": "BRL"
-        },
-        {
-          "date": "2026-03-15",
-          "amount": 31053.13,
-          "currency": "BRL"
-        },
-        {
-          "date": "2026-03-16",
-          "amount": 227112.2,
-          "currency": "BRL"
-        },
-        {
           "date": "2026-03-17",
-          "amount": 67722.94,
+          "amount": 149326.19,
           "currency": "BRL"
         },
         {
           "date": "2026-03-18",
-          "amount": 25402.38,
+          "amount": 110553.62,
           "currency": "BRL"
         },
         {
           "date": "2026-03-19",
-          "amount": 6447.8,
+          "amount": 47278.76,
           "currency": "BRL"
         },
         {
           "date": "2026-03-20",
-          "amount": 544.28,
+          "amount": 16537.0,
+          "currency": "BRL"
+        },
+        {
+          "date": "2026-03-21",
+          "amount": 375.62,
+          "currency": "BRL"
+        },
+        {
+          "date": "2026-03-22",
+          "amount": 1695.04,
+          "currency": "BRL"
+        },
+        {
+          "date": "2026-03-23",
+          "amount": 250.0,
           "currency": "BRL"
         }
       ],
-      "referenceDate": "2026-03-20",
-      "variationText": "Janela 7d: R$ 403.123,22"
+      "referenceDate": "2026-03-23",
+      "variationText": "Janela 7d: R$ 326.016,23"
     }
   ]
 }
