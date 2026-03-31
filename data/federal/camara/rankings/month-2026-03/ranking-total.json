@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-03",
-    "generatedAt": "2026-03-30T05:40:09.704885Z",
+    "generatedAt": "2026-03-31T05:26:08.250317Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -38,6 +38,16 @@
       "recordsCount": 7
     },
     {
+      "id": 220547,
+      "name": "Marcos Pollon",
+      "stateCode": "MS",
+      "party": "PL",
+      "amountNet": 54801.58,
+      "amountGross": 54801.58,
+      "amountAdjustments": 0.0,
+      "recordsCount": 15
+    },
+    {
       "id": 218086,
       "name": "Ely Santos",
       "stateCode": "SP",
@@ -46,16 +56,6 @@
       "amountGross": 53709.76,
       "amountAdjustments": 0.0,
       "recordsCount": 9
-    },
-    {
-      "id": 220547,
-      "name": "Marcos Pollon",
-      "stateCode": "MS",
-      "party": "PL",
-      "amountNet": 52915.23,
-      "amountGross": 52915.23,
-      "amountAdjustments": 0.0,
-      "recordsCount": 14
     },
     {
       "id": 74454,
@@ -102,10 +102,10 @@
       "name": "Wellington Roberto",
       "stateCode": "PB",
       "party": "PL",
-      "amountNet": 37578.31,
-      "amountGross": 37578.31,
+      "amountNet": 38114.84,
+      "amountGross": 38114.84,
       "amountAdjustments": 0.0,
-      "recordsCount": 3
+      "recordsCount": 5
     }
   ],
   "bottom": [
@@ -130,12 +130,12 @@
       "recordsCount": 1
     },
     {
-      "id": 204378,
-      "name": "Coronel Chrisóstomo",
-      "stateCode": "RO",
-      "party": "PL",
-      "amountNet": 150.0,
-      "amountGross": 150.0,
+      "id": 160976,
+      "name": "Tiririca",
+      "stateCode": "SP",
+      "party": "PSD",
+      "amountNet": 89.6,
+      "amountGross": 89.6,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -180,16 +180,6 @@
       "recordsCount": 1
     },
     {
-      "id": 221329,
-      "name": "Ricardo Abrão",
-      "stateCode": "RJ",
-      "party": "UNIÃO",
-      "amountNet": 300.0,
-      "amountGross": 300.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 180214,
       "name": "Pastor Diniz",
       "stateCode": "RR",
@@ -200,14 +190,24 @@
       "recordsCount": 1
     },
     {
-      "id": 160545,
-      "name": "Alexandre Leite",
-      "stateCode": "SP",
-      "party": "UNIÃO",
-      "amountNet": 364.31,
-      "amountGross": 364.31,
+      "id": 204489,
+      "name": "Robério Monteiro",
+      "stateCode": "CE",
+      "party": "PDT",
+      "amountNet": 386.26,
+      "amountGross": 386.26,
       "amountAdjustments": 0.0,
-      "recordsCount": 5
+      "recordsCount": 4
+    },
+    {
+      "id": 178884,
+      "name": "Hildo Rocha",
+      "stateCode": "MA",
+      "party": "MDB",
+      "amountNet": 400.0,
+      "amountGross": 400.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
     }
   ]
 }
