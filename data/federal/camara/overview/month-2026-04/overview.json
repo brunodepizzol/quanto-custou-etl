@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "scope": "federal/camara",
+    "type": "overview",
+    "period": "month-2026-04",
+    "generatedAt": "2026-04-01T05:37:37.690271Z",
+    "schemaVersion": "1.0.0"
+  },
+  "base": {
+    "amountNet": 0.0,
+    "amountGross": 0.0,
+    "amountAdjustments": 0.0,
+    "recordsCount": 0,
+    "entitiesCount": 513,
+    "entitiesWithSpending": 0,
+    "entitiesWithoutSpending": 513
+  },
+  "highlights": {
+    "topSpender": {},
+    "topCategories": [
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DEMAIS CATEGORIAS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      }
+    ],
+    "topStates": [],
+    "concentrationTop10": {
+      "amountNet": 0,
+      "percent": 0.0
+    },
+    "averages": {
+      "perEntityWithSpending": 0.0,
+      "perRecord": 0.0
+    },
+    "dailyTotals": {
+      "referenceDate": null,
+      "amountNet": 0.0,
+      "previousAmountNet": 0.0,
+      "deltaAmountNet": 0.0,
+      "deltaPercent": 0.0,
+      "deltaDirection": "flat",
+      "trend7d": []
+    },
+    "dailyTopExpense": {
+      "referenceDate": null,
+      "entity": {},
+      "amountNet": 0.0,
+      "category": null,
+      "expenseType": null,
+      "supplier": null,
+      "documentType": null,
+      "documentUrl": null
+    }
+  }
+}
