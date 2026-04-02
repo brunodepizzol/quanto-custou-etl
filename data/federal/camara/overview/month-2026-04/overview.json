@@ -3,29 +3,38 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-04",
-    "generatedAt": "2026-04-01T05:37:37.690271Z",
+    "generatedAt": "2026-04-02T05:21:16.625638Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 1475.83,
+    "amountGross": 1475.83,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 5,
     "entitiesCount": 513,
-    "entitiesWithSpending": 0,
-    "entitiesWithoutSpending": 513
+    "entitiesWithSpending": 3,
+    "entitiesWithoutSpending": 510
   },
   "highlights": {
-    "topSpender": {},
+    "topSpender": {
+      "id": 205476,
+      "name": "Charles Fernandes",
+      "stateCode": "BA",
+      "party": "PSD",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/205476.jpg",
+      "amountNet": 708.08,
+      "amountGross": 708.08,
+      "amountAdjustments": 0.0
+    },
     "topCategories": [
       {
-        "category": "ALIMENTACAO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
+        "category": "COMBUSTIVEL",
+        "amountNet": 1475.83,
+        "amountGross": 1475.83,
         "amountAdjustments": 0.0
       },
       {
-        "category": "COMBUSTIVEL",
+        "category": "ALIMENTACAO",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
@@ -73,33 +82,60 @@
         "amountAdjustments": 0.0
       }
     ],
-    "topStates": [],
+    "topStates": [
+      {
+        "stateCode": "BA",
+        "amountNet": 1208.08,
+        "amountGross": 1208.08,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 267.75,
+        "amountGross": 267.75,
+        "amountAdjustments": 0.0
+      }
+    ],
     "concentrationTop10": {
-      "amountNet": 0,
-      "percent": 0.0
+      "amountNet": 1475.83,
+      "percent": 100.0
     },
     "averages": {
-      "perEntityWithSpending": 0.0,
-      "perRecord": 0.0
+      "perEntityWithSpending": 491.94,
+      "perRecord": 295.17
     },
     "dailyTotals": {
-      "referenceDate": null,
-      "amountNet": 0.0,
+      "referenceDate": "2026-04-01",
+      "amountNet": 1475.83,
       "previousAmountNet": 0.0,
-      "deltaAmountNet": 0.0,
+      "deltaAmountNet": 1475.83,
       "deltaPercent": 0.0,
-      "deltaDirection": "flat",
-      "trend7d": []
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2026-04-01",
+          "amountNet": 1475.83
+        }
+      ]
     },
     "dailyTopExpense": {
-      "referenceDate": null,
-      "entity": {},
-      "amountNet": 0.0,
-      "category": null,
-      "expenseType": null,
-      "supplier": null,
-      "documentType": null,
-      "documentUrl": null
+      "referenceDate": "2026-04-01",
+      "entity": {
+        "id": 220708,
+        "name": "Gabriel Nunes",
+        "stateCode": "BA",
+        "party": "PSD",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220708.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 500.0,
+      "category": "COMBUSTIVEL",
+      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "supplier": "JRS MARACAS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "documentType": "Nota Fiscal Eletrônica",
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8075214"
     }
   }
 }

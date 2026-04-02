@@ -3,9 +3,71 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-04",
-    "generatedAt": "2026-04-01T05:37:37.696707Z",
+    "generatedAt": "2026-04-02T05:21:16.632557Z",
     "schemaVersion": "1.0.0"
   },
-  "top": [],
-  "bottom": []
+  "top": [
+    {
+      "id": 205476,
+      "name": "Charles Fernandes",
+      "stateCode": "BA",
+      "party": "PSD",
+      "amountNet": 708.08,
+      "amountGross": 708.08,
+      "amountAdjustments": 0.0,
+      "recordsCount": 3
+    },
+    {
+      "id": 220708,
+      "name": "Gabriel Nunes",
+      "stateCode": "BA",
+      "party": "PSD",
+      "amountNet": 500.0,
+      "amountGross": 500.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220554,
+      "name": "Alexandre Lindenmeyer",
+      "stateCode": "RS",
+      "party": "PT",
+      "amountNet": 267.75,
+      "amountGross": 267.75,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    }
+  ],
+  "bottom": [
+    {
+      "id": 220554,
+      "name": "Alexandre Lindenmeyer",
+      "stateCode": "RS",
+      "party": "PT",
+      "amountNet": 267.75,
+      "amountGross": 267.75,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220708,
+      "name": "Gabriel Nunes",
+      "stateCode": "BA",
+      "party": "PSD",
+      "amountNet": 500.0,
+      "amountGross": 500.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 205476,
+      "name": "Charles Fernandes",
+      "stateCode": "BA",
+      "party": "PSD",
+      "amountNet": 708.08,
+      "amountGross": 708.08,
+      "amountAdjustments": 0.0,
+      "recordsCount": 3
+    }
+  ]
 }

@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "year-2026",
-    "generatedAt": "2026-04-01T05:37:37.780530Z",
+    "generatedAt": "2026-04-02T05:21:16.700888Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 38739657.64,
-    "amountGross": 39081322.71,
+    "amountNet": 38741133.47,
+    "amountGross": 39082798.54,
     "amountAdjustments": -341665.07,
-    "recordsCount": 30277,
-    "entitiesCount": 523,
+    "recordsCount": 30282,
+    "entitiesCount": 528,
     "entitiesWithSpending": 511,
-    "entitiesWithoutSpending": 12
+    "entitiesWithoutSpending": 17
   },
   "highlights": {
     "topSpender": {
@@ -47,8 +47,8 @@
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 4109790.57,
-        "amountGross": 4109790.57,
+        "amountNet": 4111266.4,
+        "amountGross": 4111266.4,
         "amountAdjustments": 0.0
       },
       {
@@ -103,14 +103,14 @@
       },
       {
         "stateCode": "BA",
-        "amountNet": 2986737.3,
-        "amountGross": 3025042.61,
+        "amountNet": 2987945.38,
+        "amountGross": 3026250.69,
         "amountAdjustments": -38305.31
       },
       {
         "stateCode": "RS",
-        "amountNet": 2562477.63,
-        "amountGross": 2569267.96,
+        "amountNet": 2562745.38,
+        "amountGross": 2569535.71,
         "amountAdjustments": -6790.33
       },
       {
@@ -161,65 +161,41 @@
       "percent": 3.62
     },
     "averages": {
-      "perEntityWithSpending": 75811.46,
-      "perRecord": 1279.51
+      "perEntityWithSpending": 75814.35,
+      "perRecord": 1279.35
     },
     "dailyTotals": {
-      "referenceDate": "2026-03-30",
-      "amountNet": 1884.42,
-      "previousAmountNet": 1915.97,
-      "deltaAmountNet": -31.55,
-      "deltaPercent": -1.65,
-      "deltaDirection": "down",
+      "referenceDate": "2026-04-01",
+      "amountNet": 1475.83,
+      "previousAmountNet": 0.0,
+      "deltaAmountNet": 1475.83,
+      "deltaPercent": 0.0,
+      "deltaDirection": "up",
       "trend7d": [
         {
-          "date": "2026-03-24",
-          "amountNet": 234888.89
-        },
-        {
-          "date": "2026-03-25",
-          "amountNet": 327088.93
-        },
-        {
-          "date": "2026-03-26",
-          "amountNet": 135604.5
-        },
-        {
-          "date": "2026-03-27",
-          "amountNet": 71250.7
-        },
-        {
-          "date": "2026-03-28",
-          "amountNet": 2009.84
-        },
-        {
-          "date": "2026-03-29",
-          "amountNet": 1915.97
-        },
-        {
-          "date": "2026-03-30",
-          "amountNet": 1884.42
+          "date": "2026-04-01",
+          "amountNet": 1475.83
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-03-30",
+      "referenceDate": "2026-04-01",
       "entity": {
-        "id": 220608,
-        "name": "Cristiane Lopes",
-        "stateCode": "RO",
-        "party": "UNIÃO",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220608.jpg",
+        "id": 220708,
+        "name": "Gabriel Nunes",
+        "stateCode": "BA",
+        "party": "PSD",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220708.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 650.0,
-      "category": "DIVULGACAO",
-      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-      "supplier": "GENTE DE OPINIAO AGENCIA DE PUBL. E PROP. EIRELI M",
-      "documentType": "Nota Fiscal",
-      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3675/2026/8073704.pdf"
+      "amountNet": 500.0,
+      "category": "COMBUSTIVEL",
+      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "supplier": "JRS MARACAS COMERCIO DE DERIVADOS DE PETROLEO LTDA",
+      "documentType": "Nota Fiscal Eletrônica",
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8075214"
     }
   }
 }
