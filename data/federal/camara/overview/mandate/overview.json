@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "mandate",
-    "generatedAt": "2026-04-07T05:27:14.622462Z",
+    "generatedAt": "2026-04-08T05:28:09.189291Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 721630725.83,
-    "amountGross": 753155932.24,
+    "amountNet": 721668061.75,
+    "amountGross": 753193268.16,
     "amountAdjustments": -31525206.41,
-    "recordsCount": 635895,
-    "entitiesCount": 535,
+    "recordsCount": 636037,
+    "entitiesCount": 536,
     "entitiesWithSpending": 513,
-    "entitiesWithoutSpending": 22
+    "entitiesWithoutSpending": 23
   },
   "highlights": {
     "topSpender": {
@@ -29,8 +29,8 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 284179650.06,
-        "amountGross": 284179650.06,
+        "amountNet": 284180150.06,
+        "amountGross": 284180150.06,
         "amountAdjustments": 0.0
       },
       {
@@ -41,20 +41,20 @@
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 102166812.02,
-        "amountGross": 102166812.02,
+        "amountNet": 102170291.36,
+        "amountGross": 102170291.36,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 62557583.67,
-        "amountGross": 62557583.67,
+        "amountNet": 62590671.25,
+        "amountGross": 62590671.25,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 10133408.99,
-        "amountGross": 10133408.99,
+        "amountNet": 10133677.99,
+        "amountGross": 10133677.99,
         "amountAdjustments": 0.0
       },
       {
@@ -85,62 +85,62 @@
     "topStates": [
       {
         "stateCode": "SP",
-        "amountNet": 89230379.81,
-        "amountGross": 93157017.51,
+        "amountNet": 89232953.34,
+        "amountGross": 93159591.04,
         "amountAdjustments": -3926637.7
       },
       {
         "stateCode": "MG",
-        "amountNet": 75519392.52,
-        "amountGross": 77542059.37,
+        "amountNet": 75520127.95,
+        "amountGross": 77542794.8,
         "amountAdjustments": -2022666.85
       },
       {
         "stateCode": "RJ",
-        "amountNet": 58876418.49,
-        "amountGross": 62673689.64,
+        "amountNet": 58878125.39,
+        "amountGross": 62675396.54,
         "amountAdjustments": -3797271.15
       },
       {
         "stateCode": "BA",
-        "amountNet": 57821472.31,
-        "amountGross": 60741572.78,
+        "amountNet": 57822222.31,
+        "amountGross": 60742322.78,
         "amountAdjustments": -2920100.47
       },
       {
         "stateCode": "RS",
-        "amountNet": 46095858.3,
-        "amountGross": 48661447.62,
+        "amountNet": 46101983.92,
+        "amountGross": 48667573.24,
         "amountAdjustments": -2565589.32
       },
       {
         "stateCode": "PR",
-        "amountNet": 43838700.49,
-        "amountGross": 45589608.79,
+        "amountNet": 43842271.69,
+        "amountGross": 45593179.99,
         "amountAdjustments": -1750908.3
       },
       {
         "stateCode": "PE",
-        "amountNet": 40130182.07,
-        "amountGross": 42220049.54,
+        "amountNet": 40133957.21,
+        "amountGross": 42223824.68,
         "amountAdjustments": -2089867.47
       },
       {
         "stateCode": "CE",
-        "amountNet": 28488582.5,
-        "amountGross": 29814353.23,
+        "amountNet": 28488682.5,
+        "amountGross": 29814453.23,
         "amountAdjustments": -1325770.73
       },
       {
         "stateCode": "PA",
-        "amountNet": 24019042.61,
-        "amountGross": 25030877.05,
+        "amountNet": 24019496.95,
+        "amountGross": 25031331.39,
         "amountAdjustments": -1011834.44
       },
       {
         "stateCode": "GO",
-        "amountNet": 22652851.44,
-        "amountGross": 22664342.86,
+        "amountNet": 22653583.67,
+        "amountGross": 22665075.09,
         "amountAdjustments": -11491.42
       },
       {
@@ -151,8 +151,8 @@
       },
       {
         "stateCode": "SC",
-        "amountNet": 20970309.73,
-        "amountGross": 21972728.58,
+        "amountNet": 20973935.78,
+        "amountGross": 21976354.63,
         "amountAdjustments": -1002418.85
       }
     ],
@@ -161,61 +161,65 @@
       "percent": 2.65
     },
     "averages": {
-      "perEntityWithSpending": 1406687.57,
-      "perRecord": 1134.83
+      "perEntityWithSpending": 1406760.35,
+      "perRecord": 1134.63
     },
     "dailyTotals": {
-      "referenceDate": "2026-04-06",
-      "amountNet": 718.47,
-      "previousAmountNet": 1567.99,
-      "deltaAmountNet": -849.52,
-      "deltaPercent": -54.18,
+      "referenceDate": "2026-04-07",
+      "amountNet": 610.08,
+      "previousAmountNet": 10075.7,
+      "deltaAmountNet": -9465.62,
+      "deltaPercent": -93.95,
       "deltaDirection": "down",
       "trend7d": [
         {
           "date": "2026-04-01",
-          "amountNet": 14053.77
+          "amountNet": 20441.37
         },
         {
           "date": "2026-04-02",
-          "amountNet": 3044.29
+          "amountNet": 9514.42
         },
         {
           "date": "2026-04-03",
-          "amountNet": 1683.81
+          "amountNet": 5740.92
         },
         {
           "date": "2026-04-04",
-          "amountNet": 1246.3
+          "amountNet": 5444.58
         },
         {
           "date": "2026-04-05",
-          "amountNet": 1567.99
+          "amountNet": 5263.5
         },
         {
           "date": "2026-04-06",
-          "amountNet": 718.47
+          "amountNet": 10075.7
+        },
+        {
+          "date": "2026-04-07",
+          "amountNet": 610.08
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-04-06",
+      "referenceDate": "2026-04-07",
       "entity": {
-        "id": 141411,
-        "name": "Dagoberto Nogueira",
-        "stateCode": "MS",
-        "party": "PSDB",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/141411.jpg",
+        "id": 220584,
+        "name": "Murilo Galdino",
+        "stateCode": "PB",
+        "party": "REPUBLICANOS",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220584.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 372.9,
+      "amountNet": 423.34,
       "category": "COMBUSTIVEL",
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "POSTO VARANDA LTDA",
+      "supplier": "AUTO POSTO INTERMARES LTDA",
       "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8076231"
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8077137"
     }
   }
 }

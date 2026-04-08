@@ -3,16 +3,37 @@
     "scope": "federal/camara",
     "type": "analytics-expense-types",
     "period": "month-2026-04",
-    "generatedAt": "2026-04-07T05:27:14.191052Z",
+    "generatedAt": "2026-04-08T05:28:08.714588Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
     {
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "amountNet": 22102.63,
-      "amountGross": 22102.63,
+      "amountNet": 55190.21,
+      "amountGross": 55190.21,
       "amountAdjustments": 0.0,
-      "recordsCount": 71
+      "recordsCount": 201
+    },
+    {
+      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "amountNet": 3245.02,
+      "amountGross": 3245.02,
+      "amountAdjustments": 0.0,
+      "recordsCount": 3
+    },
+    {
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "amountNet": 500.0,
+      "amountGross": 500.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "expenseType": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+      "amountNet": 269.0,
+      "amountGross": 269.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
     },
     {
       "expenseType": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
@@ -20,6 +41,20 @@
       "amountGross": 212.0,
       "amountAdjustments": 0.0,
       "recordsCount": 2
+    },
+    {
+      "expenseType": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "amountNet": 177.92,
+      "amountGross": 177.92,
+      "amountAdjustments": 0.0,
+      "recordsCount": 6
+    },
+    {
+      "expenseType": "SERVIÇOS POSTAIS",
+      "amountNet": 56.4,
+      "amountGross": 56.4,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
     }
   ]
 }
