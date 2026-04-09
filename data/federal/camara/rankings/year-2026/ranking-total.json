@@ -3,10 +3,20 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-04-08T05:28:08.792326Z",
+    "generatedAt": "2026-04-09T05:27:36.911021Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
+    {
+      "id": 220599,
+      "name": "Marcelo Crivella",
+      "stateCode": "RJ",
+      "party": "REPUBLICANOS",
+      "amountNet": 150140.8,
+      "amountGross": 150140.8,
+      "amountAdjustments": 0.0,
+      "recordsCount": 77
+    },
     {
       "id": 220538,
       "name": "Albuquerque",
@@ -48,6 +58,16 @@
       "recordsCount": 123
     },
     {
+      "id": 74383,
+      "name": "Giacobo",
+      "stateCode": "PR",
+      "party": "PL",
+      "amountNet": 138006.16,
+      "amountGross": 138006.16,
+      "amountAdjustments": 0.0,
+      "recordsCount": 10
+    },
+    {
       "id": 123756,
       "name": "Antônia Lúcia",
       "stateCode": "AC",
@@ -56,6 +76,16 @@
       "amountGross": 140163.89,
       "amountAdjustments": -2162.0,
       "recordsCount": 23
+    },
+    {
+      "id": 74044,
+      "name": "Wilson Santiago",
+      "stateCode": "PB",
+      "party": "REPUBLICANOS",
+      "amountNet": 137761.9,
+      "amountGross": 137761.9,
+      "amountAdjustments": 0.0,
+      "recordsCount": 81
     },
     {
       "id": 74090,
@@ -68,16 +98,6 @@
       "recordsCount": 20
     },
     {
-      "id": 74044,
-      "name": "Wilson Santiago",
-      "stateCode": "PB",
-      "party": "REPUBLICANOS",
-      "amountNet": 136811.9,
-      "amountGross": 136811.9,
-      "amountAdjustments": 0.0,
-      "recordsCount": 77
-    },
-    {
       "id": 230768,
       "name": "Zé Adriano",
       "stateCode": "AC",
@@ -86,29 +106,29 @@
       "amountGross": 136136.53,
       "amountAdjustments": 0.0,
       "recordsCount": 31
-    },
-    {
-      "id": 204426,
-      "name": "Carlos Veras",
-      "stateCode": "PE",
-      "party": "PT",
-      "amountNet": 135679.31,
-      "amountGross": 136565.33,
-      "amountAdjustments": -886.02,
-      "recordsCount": 197
-    },
-    {
-      "id": 220693,
-      "name": "Roberta Roma",
-      "stateCode": "BA",
-      "party": "PL",
-      "amountNet": 133897.24,
-      "amountGross": 133897.24,
-      "amountAdjustments": 0.0,
-      "recordsCount": 85
     }
   ],
   "bottom": [
+    {
+      "id": 220656,
+      "name": "Fernanda Pessoa",
+      "stateCode": "CE",
+      "party": "PSD",
+      "amountNet": 192.15,
+      "amountGross": 192.15,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 141488,
+      "name": "Paulo Teixeira",
+      "stateCode": "SP",
+      "party": "PT",
+      "amountNet": 230.4,
+      "amountGross": 230.4,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
     {
       "id": 160545,
       "name": "Alexandre Leite",
@@ -150,6 +170,16 @@
       "recordsCount": 2
     },
     {
+      "id": 220698,
+      "name": "Beto Preto",
+      "stateCode": "PR",
+      "party": "PSD",
+      "amountNet": 3654.77,
+      "amountGross": 3654.77,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
       "id": 220630,
       "name": "Pedro Aihara",
       "stateCode": "MG",
@@ -178,36 +208,6 @@
       "amountGross": 6523.98,
       "amountAdjustments": 0.0,
       "recordsCount": 4
-    },
-    {
-      "id": 204553,
-      "name": "Pastor Sargento Isidório",
-      "stateCode": "BA",
-      "party": "AVANTE",
-      "amountNet": 7395.85,
-      "amountGross": 7395.85,
-      "amountAdjustments": 0.0,
-      "recordsCount": 37
-    },
-    {
-      "id": 204497,
-      "name": "Júnior Ferrari",
-      "stateCode": "PA",
-      "party": "PSD",
-      "amountNet": 7928.38,
-      "amountGross": 7928.38,
-      "amountAdjustments": 0.0,
-      "recordsCount": 26
-    },
-    {
-      "id": 204391,
-      "name": "José Nelto",
-      "stateCode": "GO",
-      "party": "UNIÃO",
-      "amountNet": 10470.13,
-      "amountGross": 10470.13,
-      "amountAdjustments": 0.0,
-      "recordsCount": 16
     }
   ]
 }

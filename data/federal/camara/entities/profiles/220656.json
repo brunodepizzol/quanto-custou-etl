@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220656,
-    "generatedAt": "2026-04-08T05:28:09.797149Z",
+    "generatedAt": "2026-04-09T05:27:37.761797Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "fernanda-pessoa"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 192.15,
+    "amountGross": 192.15,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 1,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 192.15,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 192.15,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -54,14 +54,14 @@
     }
   },
   "yearTotals": {
-    "2026": 0.0
+    "2026": 192.15
   },
   "monthTotals": {
-    "2026-04": 0.0
+    "2026-04": 192.15
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "COMBUSTIVEL",
+    "amountNet": 192.15,
+    "percent": 100.0
   }
 }

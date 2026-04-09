@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "mandate",
-    "generatedAt": "2026-04-08T05:28:09.196460Z",
+    "generatedAt": "2026-04-09T05:27:37.254243Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -62,20 +62,20 @@
       "name": "Zé Haroldo Cathedral",
       "stateCode": "RR",
       "party": "PSD",
-      "amountNet": 1891174.92,
-      "amountGross": 1943265.27,
+      "amountNet": 1892674.92,
+      "amountGross": 1944765.27,
       "amountAdjustments": -52090.35,
-      "recordsCount": 742
+      "recordsCount": 743
     },
     {
       "id": 204360,
       "name": "Silvia Cristina",
       "stateCode": "RO",
       "party": "PP",
-      "amountNet": 1885786.53,
-      "amountGross": 2019404.63,
+      "amountNet": 1886076.71,
+      "amountGross": 2019694.81,
       "amountAdjustments": -133618.1,
-      "recordsCount": 1871
+      "recordsCount": 1872
     },
     {
       "id": 224117,
@@ -109,6 +109,36 @@
     }
   ],
   "bottom": [
+    {
+      "id": 220656,
+      "name": "Fernanda Pessoa",
+      "stateCode": "CE",
+      "party": "PSD",
+      "amountNet": 192.15,
+      "amountGross": 192.15,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 141488,
+      "name": "Paulo Teixeira",
+      "stateCode": "SP",
+      "party": "PT",
+      "amountNet": 230.4,
+      "amountGross": 230.4,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220698,
+      "name": "Beto Preto",
+      "stateCode": "PR",
+      "party": "PSD",
+      "amountNet": 3654.77,
+      "amountGross": 3654.77,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
     {
       "id": 77003,
       "name": "Sergio Santos Rodrigues",
@@ -178,36 +208,6 @@
       "amountGross": 107932.53,
       "amountAdjustments": 0.0,
       "recordsCount": 10
-    },
-    {
-      "id": 234310,
-      "name": "Ricardo Galvão",
-      "stateCode": "SP",
-      "party": "REDE",
-      "amountNet": 116775.31,
-      "amountGross": 116775.31,
-      "amountAdjustments": 0.0,
-      "recordsCount": 62
-    },
-    {
-      "id": 234673,
-      "name": "Vanderlan Alves",
-      "stateCode": "CE",
-      "party": "REPUBLICANOS",
-      "amountNet": 117497.55,
-      "amountGross": 117497.55,
-      "amountAdjustments": 0.0,
-      "recordsCount": 90
-    },
-    {
-      "id": 220715,
-      "name": "Amom Mandel",
-      "stateCode": "AM",
-      "party": "CIDADANIA",
-      "amountNet": 120009.18,
-      "amountGross": 253490.4,
-      "amountAdjustments": -133481.22,
-      "recordsCount": 214
     }
   ]
 }
