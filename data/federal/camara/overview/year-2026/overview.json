@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "year-2026",
-    "generatedAt": "2026-04-12T05:38:29.201765Z",
+    "generatedAt": "2026-04-13T06:03:08.033754Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 39065448.95,
-    "amountGross": 39407114.02,
+    "amountNet": 39118934.31,
+    "amountGross": 39460599.38,
     "amountAdjustments": -341665.07,
-    "recordsCount": 30980,
+    "recordsCount": 31156,
     "entitiesCount": 537,
-    "entitiesWithSpending": 514,
-    "entitiesWithoutSpending": 23
+    "entitiesWithSpending": 517,
+    "entitiesWithoutSpending": 20
   },
   "highlights": {
     "topSpender": {
@@ -29,8 +29,8 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 17310884.94,
-        "amountGross": 17310884.94,
+        "amountNet": 17312384.94,
+        "amountGross": 17312384.94,
         "amountAdjustments": 0.0
       },
       {
@@ -41,20 +41,20 @@
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 6198399.93,
-        "amountGross": 6198399.93,
+        "amountNet": 6210239.68,
+        "amountGross": 6210239.68,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 4298337.94,
-        "amountGross": 4298337.94,
+        "amountNet": 4332184.62,
+        "amountGross": 4332184.62,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 680985.77,
-        "amountGross": 680985.77,
+        "amountNet": 686552.66,
+        "amountGross": 686552.66,
         "amountAdjustments": 0.0
       },
       {
@@ -65,8 +65,8 @@
       },
       {
         "category": "ALIMENTACAO",
-        "amountNet": 115792.41,
-        "amountGross": 115792.41,
+        "amountNet": 116524.45,
+        "amountGross": 116524.45,
         "amountAdjustments": 0.0
       },
       {
@@ -85,62 +85,62 @@
     "topStates": [
       {
         "stateCode": "SP",
-        "amountNet": 5073599.27,
-        "amountGross": 5112911.44,
+        "amountNet": 5080862.06,
+        "amountGross": 5120174.23,
         "amountAdjustments": -39312.17
       },
       {
         "stateCode": "MG",
-        "amountNet": 3700446.47,
-        "amountGross": 3714623.02,
+        "amountNet": 3704400.86,
+        "amountGross": 3718577.41,
         "amountAdjustments": -14176.55
       },
       {
         "stateCode": "RJ",
-        "amountNet": 3086307.64,
-        "amountGross": 3132996.23,
+        "amountNet": 3090025.93,
+        "amountGross": 3136714.52,
         "amountAdjustments": -46688.59
       },
       {
         "stateCode": "BA",
-        "amountNet": 3011330.35,
-        "amountGross": 3049635.66,
+        "amountNet": 3013779.34,
+        "amountGross": 3052084.65,
         "amountAdjustments": -38305.31
       },
       {
         "stateCode": "RS",
-        "amountNet": 2598132.52,
-        "amountGross": 2604922.85,
+        "amountNet": 2604584.17,
+        "amountGross": 2611374.5,
         "amountAdjustments": -6790.33
       },
       {
         "stateCode": "PR",
-        "amountNet": 2549042.9,
-        "amountGross": 2564062.04,
+        "amountNet": 2553047.33,
+        "amountGross": 2568066.47,
         "amountAdjustments": -15019.14
       },
       {
         "stateCode": "PE",
-        "amountNet": 2077728.06,
-        "amountGross": 2083979.84,
+        "amountNet": 2083394.59,
+        "amountGross": 2089646.37,
         "amountAdjustments": -6251.78
       },
       {
         "stateCode": "CE",
-        "amountNet": 1683062.77,
-        "amountGross": 1722475.04,
+        "amountNet": 1684894.94,
+        "amountGross": 1724307.21,
         "amountAdjustments": -39412.27
       },
       {
         "stateCode": "GO",
-        "amountNet": 1199422.04,
-        "amountGross": 1199422.04,
+        "amountNet": 1199668.04,
+        "amountGross": 1199668.04,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "SC",
-        "amountNet": 1187712.7,
-        "amountGross": 1199428.84,
+        "amountNet": 1188871.7,
+        "amountGross": 1200587.84,
         "amountAdjustments": -11716.14
       },
       {
@@ -151,8 +151,8 @@
       },
       {
         "stateCode": "PA",
-        "amountNet": 1090166.25,
-        "amountGross": 1099520.13,
+        "amountNet": 1090934.58,
+        "amountGross": 1100288.46,
         "amountAdjustments": -9353.88
       }
     ],
@@ -161,65 +161,65 @@
       "percent": 3.65
     },
     "averages": {
-      "perEntityWithSpending": 76002.82,
-      "perRecord": 1260.99
+      "perEntityWithSpending": 75665.25,
+      "perRecord": 1255.58
     },
     "dailyTotals": {
-      "referenceDate": "2026-04-09",
-      "amountNet": 1812.41,
-      "previousAmountNet": 9767.5,
-      "deltaAmountNet": -7955.09,
-      "deltaPercent": -81.44,
+      "referenceDate": "2026-04-10",
+      "amountNet": 650.13,
+      "previousAmountNet": 9367.89,
+      "deltaAmountNet": -8717.76,
+      "deltaPercent": -93.06,
       "deltaDirection": "down",
       "trend7d": [
         {
-          "date": "2026-04-03",
-          "amountNet": 12823.37
-        },
-        {
           "date": "2026-04-04",
-          "amountNet": 14283.78
+          "amountNet": 16235.7
         },
         {
           "date": "2026-04-05",
-          "amountNet": 20204.11
+          "amountNet": 24215.57
         },
         {
           "date": "2026-04-06",
-          "amountNet": 46551.18
+          "amountNet": 54887.29
         },
         {
           "date": "2026-04-07",
-          "amountNet": 77463.26
+          "amountNet": 81320.5
         },
         {
           "date": "2026-04-08",
-          "amountNet": 9767.5
+          "amountNet": 15657.72
         },
         {
           "date": "2026-04-09",
-          "amountNet": 1812.41
+          "amountNet": 9367.89
+        },
+        {
+          "date": "2026-04-10",
+          "amountNet": 650.13
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-04-09",
+      "referenceDate": "2026-04-10",
       "entity": {
-        "id": 220546,
-        "name": "Rodolfo Nogueira",
-        "stateCode": "MS",
-        "party": "PL",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220546.jpg",
+        "id": 220668,
+        "name": "Maria Arraes",
+        "stateCode": "PE",
+        "party": "PSB",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220668.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 1379.21,
+      "amountNet": 500.13,
       "category": "COMBUSTIVEL",
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "POSTO PATRICIA - EIRELI",
+      "supplier": "VVS LIMA COMBUSTIVEIS LTDA",
       "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8079633"
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8080252"
     }
   }
 }

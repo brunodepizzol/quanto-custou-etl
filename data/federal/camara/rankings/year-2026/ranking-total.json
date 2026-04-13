@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-04-12T05:38:29.208041Z",
+    "generatedAt": "2026-04-13T06:03:08.039834Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -114,10 +114,30 @@
       "name": "Paulo Teixeira",
       "stateCode": "SP",
       "party": "PT",
-      "amountNet": 230.4,
-      "amountGross": 230.4,
+      "amountNet": 289.4,
+      "amountGross": 289.4,
+      "amountAdjustments": 0.0,
+      "recordsCount": 3
+    },
+    {
+      "id": 204558,
+      "name": "Marcelo Nilo",
+      "stateCode": "BA",
+      "party": "REPUBLICANOS",
+      "amountNet": 300.45,
+      "amountGross": 300.45,
       "amountAdjustments": 0.0,
       "recordsCount": 1
+    },
+    {
+      "id": 220614,
+      "name": "Dr. Daniel Soranz",
+      "stateCode": "RJ",
+      "party": "PSD",
+      "amountNet": 500.91,
+      "amountGross": 500.91,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
     },
     {
       "id": 160545,
@@ -150,6 +170,16 @@
       "recordsCount": 4
     },
     {
+      "id": 204541,
+      "name": "Eduardo Bismarck",
+      "stateCode": "CE",
+      "party": "PV",
+      "amountNet": 1220.27,
+      "amountGross": 1220.27,
+      "amountAdjustments": 0.0,
+      "recordsCount": 4
+    },
+    {
       "id": 220681,
       "name": "Fábio Macedo",
       "stateCode": "MA",
@@ -178,36 +208,6 @@
       "amountGross": 3654.77,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 220630,
-      "name": "Pedro Aihara",
-      "stateCode": "MG",
-      "party": "PRD",
-      "amountNet": 5822.02,
-      "amountGross": 5822.02,
-      "amountAdjustments": 0.0,
-      "recordsCount": 53
-    },
-    {
-      "id": 227991,
-      "name": "Dr Flávio",
-      "stateCode": "RJ",
-      "party": "PL",
-      "amountNet": 6246.95,
-      "amountGross": 6246.95,
-      "amountAdjustments": 0.0,
-      "recordsCount": 22
-    },
-    {
-      "id": 220715,
-      "name": "Amom Mandel",
-      "stateCode": "AM",
-      "party": "CIDADANIA",
-      "amountNet": 6523.98,
-      "amountGross": 6523.98,
-      "amountAdjustments": 0.0,
-      "recordsCount": 4
     }
   ]
 }
