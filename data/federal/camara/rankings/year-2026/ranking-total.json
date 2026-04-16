@@ -3,29 +3,39 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-04-15T05:38:34.967224Z",
+    "generatedAt": "2026-04-16T05:44:09.673693Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
+    {
+      "id": 74454,
+      "name": "Eunício Oliveira",
+      "stateCode": "CE",
+      "party": "MDB",
+      "amountNet": 195713.0,
+      "amountGross": 195713.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 8
+    },
     {
       "id": 220676,
       "name": "Andreia Siqueira",
       "stateCode": "PA",
       "party": "MDB",
-      "amountNet": 156050.2,
-      "amountGross": 156050.2,
+      "amountNet": 181050.2,
+      "amountGross": 181050.2,
       "amountAdjustments": 0.0,
-      "recordsCount": 13
+      "recordsCount": 14
     },
     {
       "id": 220599,
       "name": "Marcelo Crivella",
       "stateCode": "RJ",
       "party": "REPUBLICANOS",
-      "amountNet": 150514.49,
-      "amountGross": 150514.49,
+      "amountNet": 150940.35,
+      "amountGross": 150940.35,
       "amountAdjustments": 0.0,
-      "recordsCount": 81
+      "recordsCount": 84
     },
     {
       "id": 220538,
@@ -36,16 +46,6 @@
       "amountGross": 149308.35,
       "amountAdjustments": 0.0,
       "recordsCount": 35
-    },
-    {
-      "id": 74454,
-      "name": "Eunício Oliveira",
-      "stateCode": "CE",
-      "party": "MDB",
-      "amountNet": 145713.0,
-      "amountGross": 145713.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 7
     },
     {
       "id": 220551,
@@ -72,10 +72,20 @@
       "name": "Wilson Santiago",
       "stateCode": "PB",
       "party": "REPUBLICANOS",
-      "amountNet": 138049.97,
-      "amountGross": 138049.97,
+      "amountNet": 138569.77,
+      "amountGross": 138569.77,
       "amountAdjustments": 0.0,
-      "recordsCount": 83
+      "recordsCount": 85
+    },
+    {
+      "id": 220669,
+      "name": "Lula da Fonte",
+      "stateCode": "PE",
+      "party": "PP",
+      "amountNet": 138254.69,
+      "amountGross": 138254.69,
+      "amountAdjustments": 0.0,
+      "recordsCount": 117
     },
     {
       "id": 74383,
@@ -96,16 +106,6 @@
       "amountGross": 140163.89,
       "amountAdjustments": -2162.0,
       "recordsCount": 23
-    },
-    {
-      "id": 74090,
-      "name": "Átila Lins",
-      "stateCode": "AM",
-      "party": "PSD",
-      "amountNet": 137391.92,
-      "amountGross": 137391.92,
-      "amountAdjustments": 0.0,
-      "recordsCount": 20
     }
   ],
   "bottom": [
@@ -124,10 +124,10 @@
       "name": "Marcelo Nilo",
       "stateCode": "BA",
       "party": "REPUBLICANOS",
-      "amountNet": 300.45,
-      "amountGross": 300.45,
+      "amountNet": 342.45,
+      "amountGross": 342.45,
       "amountAdjustments": 0.0,
-      "recordsCount": 1
+      "recordsCount": 2
     },
     {
       "id": 141488,
@@ -140,24 +140,14 @@
       "recordsCount": 6
     },
     {
-      "id": 160545,
-      "name": "Alexandre Leite",
-      "stateCode": "SP",
-      "party": "UNIÃO",
-      "amountNet": 544.35,
-      "amountGross": 544.35,
+      "id": 220622,
+      "name": "Nely Aquino",
+      "stateCode": "MG",
+      "party": "PODE",
+      "amountNet": 579.38,
+      "amountGross": 579.38,
       "amountAdjustments": 0.0,
-      "recordsCount": 6
-    },
-    {
-      "id": 220614,
-      "name": "Dr. Daniel Soranz",
-      "stateCode": "RJ",
-      "party": "PSD",
-      "amountNet": 905.92,
-      "amountGross": 905.92,
-      "amountAdjustments": 0.0,
-      "recordsCount": 8
+      "recordsCount": 2
     },
     {
       "id": 220656,
@@ -190,6 +180,26 @@
       "recordsCount": 4
     },
     {
+      "id": 160545,
+      "name": "Alexandre Leite",
+      "stateCode": "SP",
+      "party": "UNIÃO",
+      "amountNet": 1305.89,
+      "amountGross": 1305.89,
+      "amountAdjustments": 0.0,
+      "recordsCount": 10
+    },
+    {
+      "id": 220614,
+      "name": "Dr. Daniel Soranz",
+      "stateCode": "RJ",
+      "party": "PSD",
+      "amountNet": 1379.07,
+      "amountGross": 1379.07,
+      "amountAdjustments": 0.0,
+      "recordsCount": 10
+    },
+    {
       "id": 220681,
       "name": "Fábio Macedo",
       "stateCode": "MA",
@@ -198,16 +208,6 @@
       "amountGross": 3049.31,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 128760,
-      "name": "Paulo Marinho Jr",
-      "stateCode": "MA",
-      "party": "PL",
-      "amountNet": 3418.78,
-      "amountGross": 3418.78,
-      "amountAdjustments": 0.0,
-      "recordsCount": 2
     }
   ]
 }
