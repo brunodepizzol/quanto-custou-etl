@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-04",
-    "generatedAt": "2026-04-22T05:40:36.567975Z",
+    "generatedAt": "2026-04-23T05:44:57.522685Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -22,10 +22,10 @@
       "name": "Giacobo",
       "stateCode": "PR",
       "party": "PSD",
-      "amountNet": 42305.9,
-      "amountGross": 42305.9,
+      "amountNet": 44191.9,
+      "amountGross": 44191.9,
       "amountAdjustments": 0.0,
-      "recordsCount": 1
+      "recordsCount": 2
     },
     {
       "id": 220676,
@@ -42,10 +42,20 @@
       "name": "Marcelo Crivella",
       "stateCode": "RJ",
       "party": "REPUBLICANOS",
-      "amountNet": 32218.58,
-      "amountGross": 32218.58,
+      "amountNet": 32586.08,
+      "amountGross": 32586.08,
       "amountAdjustments": 0.0,
-      "recordsCount": 16
+      "recordsCount": 19
+    },
+    {
+      "id": 220615,
+      "name": "Pastor Henrique Vieira",
+      "stateCode": "RJ",
+      "party": "PSOL",
+      "amountNet": 27123.4,
+      "amountGross": 27123.4,
+      "amountAdjustments": 0.0,
+      "recordsCount": 12
     },
     {
       "id": 220669,
@@ -82,30 +92,20 @@
       "name": "Welter",
       "stateCode": "PR",
       "party": "PT",
-      "amountNet": 17459.75,
-      "amountGross": 17459.75,
+      "amountNet": 17915.75,
+      "amountGross": 17915.75,
       "amountAdjustments": 0.0,
-      "recordsCount": 26
+      "recordsCount": 28
     },
     {
-      "id": 220615,
-      "name": "Pastor Henrique Vieira",
-      "stateCode": "RJ",
-      "party": "PSOL",
-      "amountNet": 16123.4,
-      "amountGross": 16123.4,
+      "id": 204449,
+      "name": "Nelson Barbudo",
+      "stateCode": "MT",
+      "party": "PODE",
+      "amountNet": 17251.79,
+      "amountGross": 17251.79,
       "amountAdjustments": 0.0,
-      "recordsCount": 11
-    },
-    {
-      "id": 220703,
-      "name": "Neto Carletto",
-      "stateCode": "BA",
-      "party": "AVANTE",
-      "amountNet": 15752.34,
-      "amountGross": 15752.34,
-      "amountAdjustments": 0.0,
-      "recordsCount": 3
+      "recordsCount": 9
     }
   ],
   "bottom": [
@@ -140,22 +140,22 @@
       "recordsCount": 1
     },
     {
-      "id": 178887,
-      "name": "Rubens Pereira Júnior",
-      "stateCode": "MA",
-      "party": "PT",
-      "amountNet": 155.4,
-      "amountGross": 155.4,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 150418,
       "name": "Márcio Marinho",
       "stateCode": "BA",
       "party": "REPUBLICANOS",
       "amountNet": 170.0,
       "amountGross": 170.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 104552,
+      "name": "Socorro Neri",
+      "stateCode": "AC",
+      "party": "PP",
+      "amountNet": 180.63,
+      "amountGross": 180.63,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -170,32 +170,22 @@
       "recordsCount": 1
     },
     {
+      "id": 220537,
+      "name": "Helena Lima",
+      "stateCode": "RR",
+      "party": "PSD",
+      "amountNet": 199.9,
+      "amountGross": 199.9,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
       "id": 220591,
       "name": "Meire Serafim",
       "stateCode": "AC",
       "party": "UNIÃO",
       "amountNet": 200.0,
       "amountGross": 200.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 234673,
-      "name": "Vanderlan Alves",
-      "stateCode": "CE",
-      "party": "SOLIDARIEDADE",
-      "amountNet": 200.0,
-      "amountGross": 200.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 220644,
-      "name": "Rosangela Moro",
-      "stateCode": "SP",
-      "party": "PL",
-      "amountNet": 201.61,
-      "amountGross": 201.61,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -208,6 +198,16 @@
       "amountGross": 211.53,
       "amountAdjustments": 0.0,
       "recordsCount": 1
+    },
+    {
+      "id": 220623,
+      "name": "Duda Salabert",
+      "stateCode": "MG",
+      "party": "PSOL",
+      "amountNet": 211.87,
+      "amountGross": 211.87,
+      "amountAdjustments": 0.0,
+      "recordsCount": 6
     }
   ]
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-04-22T05:40:36.641914Z",
+    "generatedAt": "2026-04-23T05:44:57.596914Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -32,10 +32,10 @@
       "name": "Marcelo Crivella",
       "stateCode": "RJ",
       "party": "REPUBLICANOS",
-      "amountNet": 151316.22,
-      "amountGross": 151316.22,
+      "amountNet": 151683.72,
+      "amountGross": 151683.72,
       "amountAdjustments": 0.0,
-      "recordsCount": 87
+      "recordsCount": 90
     },
     {
       "id": 220538,
@@ -62,10 +62,30 @@
       "name": "Carlos Veras",
       "stateCode": "PE",
       "party": "PT",
-      "amountNet": 140583.93,
-      "amountGross": 141469.95,
+      "amountNet": 142634.24,
+      "amountGross": 143520.26,
       "amountAdjustments": -886.02,
-      "recordsCount": 210
+      "recordsCount": 217
+    },
+    {
+      "id": 74090,
+      "name": "Átila Lins",
+      "stateCode": "AM",
+      "party": "PSD",
+      "amountNet": 142391.92,
+      "amountGross": 142391.92,
+      "amountAdjustments": 0.0,
+      "recordsCount": 21
+    },
+    {
+      "id": 74383,
+      "name": "Giacobo",
+      "stateCode": "PR",
+      "party": "PL",
+      "amountNet": 139892.16,
+      "amountGross": 139892.16,
+      "amountAdjustments": 0.0,
+      "recordsCount": 11
     },
     {
       "id": 74044,
@@ -86,26 +106,6 @@
       "amountGross": 138254.69,
       "amountAdjustments": 0.0,
       "recordsCount": 117
-    },
-    {
-      "id": 74383,
-      "name": "Giacobo",
-      "stateCode": "PR",
-      "party": "PL",
-      "amountNet": 138006.16,
-      "amountGross": 138006.16,
-      "amountAdjustments": 0.0,
-      "recordsCount": 10
-    },
-    {
-      "id": 123756,
-      "name": "Antônia Lúcia",
-      "stateCode": "AC",
-      "party": "REPUBLICANOS",
-      "amountNet": 138001.89,
-      "amountGross": 140163.89,
-      "amountAdjustments": -2162.0,
-      "recordsCount": 23
     }
   ],
   "bottom": [
@@ -154,10 +154,20 @@
       "name": "Paulo Teixeira",
       "stateCode": "SP",
       "party": "PT",
-      "amountNet": 690.53,
-      "amountGross": 690.53,
+      "amountNet": 770.53,
+      "amountGross": 770.53,
       "amountAdjustments": 0.0,
-      "recordsCount": 14
+      "recordsCount": 16
+    },
+    {
+      "id": 160508,
+      "name": "Afonso Florence",
+      "stateCode": "BA",
+      "party": "PT",
+      "amountNet": 976.89,
+      "amountGross": 976.89,
+      "amountAdjustments": 0.0,
+      "recordsCount": 7
     },
     {
       "id": 220656,
@@ -198,16 +208,6 @@
       "amountGross": 1481.24,
       "amountAdjustments": 0.0,
       "recordsCount": 6
-    },
-    {
-      "id": 220614,
-      "name": "Dr. Daniel Soranz",
-      "stateCode": "RJ",
-      "party": "PSD",
-      "amountNet": 1722.98,
-      "amountGross": 1722.98,
-      "amountAdjustments": 0.0,
-      "recordsCount": 13
     }
   ]
 }
