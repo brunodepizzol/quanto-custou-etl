@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 231911,
-    "generatedAt": "2026-04-26T05:53:11.120587Z",
+    "generatedAt": "2026-04-26T06:19:17.163520Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "lenir-de-assis"
   },
   "mandateTotals": {
-    "amountNet": 548006.64,
-    "amountGross": 553119.92,
+    "amountNet": 418778.1,
+    "amountGross": 423891.38,
     "amountAdjustments": -5113.28,
-    "recordsCount": 844,
+    "recordsCount": 707,
     "byCategoryNet": {
-      "ALIMENTACAO": 5642.05,
-      "COMBUSTIVEL": 31784.38,
+      "ALIMENTACAO": 4474.95,
+      "COMBUSTIVEL": 20507.34,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 223.79,
-      "DESLOCAMENTO": 166229.13,
-      "DIVULGACAO": 144397.0,
-      "ESCRITORIO": 180092.96,
-      "HOSPEDAGEM": 19637.33,
+      "DESLOCAMENTO": 134856.18,
+      "DIVULGACAO": 100552.0,
+      "ESCRITORIO": 140222.51,
+      "HOSPEDAGEM": 17941.33,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 5642.05,
-      "COMBUSTIVEL": 31784.38,
+      "ALIMENTACAO": 4474.95,
+      "COMBUSTIVEL": 20507.34,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 223.79,
-      "DESLOCAMENTO": 171342.41,
-      "DIVULGACAO": 144397.0,
-      "ESCRITORIO": 180092.96,
-      "HOSPEDAGEM": 19637.33,
+      "DESLOCAMENTO": 139969.46,
+      "DIVULGACAO": 100552.0,
+      "ESCRITORIO": 140222.51,
+      "HOSPEDAGEM": 17941.33,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,8 +56,7 @@
   "yearTotals": {
     "2023": 0.0,
     "2024": 0.0,
-    "2025": 418778.1,
-    "2026": 129228.54
+    "2025": 418778.1
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -95,14 +94,11 @@
     "2025-09": 43398.07,
     "2025-10": 64213.87,
     "2025-11": 78602.67,
-    "2025-12": 68586.17,
-    "2026-01": 55677.78,
-    "2026-02": 42313.04,
-    "2026-03": 31237.72
+    "2025-12": 68586.17
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 180092.96,
-    "percent": 32.86
+    "amountNet": 140222.51,
+    "percent": 33.48
   }
 }

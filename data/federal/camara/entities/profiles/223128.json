@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 223128,
-    "generatedAt": "2026-04-26T05:53:11.117406Z",
+    "generatedAt": "2026-04-26T06:19:17.159324Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "rodrigo-estacho"
   },
   "mandateTotals": {
-    "amountNet": 1449612.23,
-    "amountGross": 1483063.67,
+    "amountNet": 1346417.9,
+    "amountGross": 1379869.34,
     "amountAdjustments": -33451.44,
-    "recordsCount": 2855,
+    "recordsCount": 2693,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 299236.81,
+      "COMBUSTIVEL": 276793.36,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2912.16,
-      "DESLOCAMENTO": 588873.04,
-      "DIVULGACAO": 199861.36,
-      "ESCRITORIO": 316248.18,
-      "HOSPEDAGEM": 42480.68,
+      "DESLOCAMENTO": 554120.84,
+      "DIVULGACAO": 182469.8,
+      "ESCRITORIO": 291619.2,
+      "HOSPEDAGEM": 38502.54,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 299236.81,
+      "COMBUSTIVEL": 276793.36,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2912.16,
-      "DESLOCAMENTO": 622324.48,
-      "DIVULGACAO": 199861.36,
-      "ESCRITORIO": 316248.18,
-      "HOSPEDAGEM": 42480.68,
+      "DESLOCAMENTO": 587572.28,
+      "DIVULGACAO": 182469.8,
+      "ESCRITORIO": 291619.2,
+      "HOSPEDAGEM": 38502.54,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -56,8 +56,7 @@
   "yearTotals": {
     "2023": 382057.14,
     "2024": 451265.98,
-    "2025": 513094.78,
-    "2026": 103194.33
+    "2025": 513094.78
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -95,14 +94,11 @@
     "2025-09": 53062.32,
     "2025-10": 43037.63,
     "2025-11": 38719.12,
-    "2025-12": 39659.18,
-    "2026-01": 40210.61,
-    "2026-02": 38878.47,
-    "2026-03": 24105.25
+    "2025-12": 39659.18
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 588873.04,
-    "percent": 40.62
+    "amountNet": 554120.84,
+    "percent": 41.16
   }
 }

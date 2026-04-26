@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 154178,
-    "generatedAt": "2026-04-26T05:53:11.027546Z",
+    "generatedAt": "2026-04-26T06:19:17.040284Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,16 +15,16 @@
     "slug": "milton-vieira"
   },
   "mandateTotals": {
-    "amountNet": 920.05,
-    "amountGross": 920.05,
+    "amountNet": 7906.67,
+    "amountGross": 7906.67,
     "amountAdjustments": 0.0,
-    "recordsCount": 5,
+    "recordsCount": 9,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 920.05,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": 6986.62,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -35,7 +35,7 @@
       "COMBUSTIVEL": 920.05,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": 6986.62,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,14 +54,17 @@
     }
   },
   "yearTotals": {
-    "2026": 920.05
+    "2026": 7906.67
   },
   "monthTotals": {
+    "2026-01": 0.0,
+    "2026-02": 0.0,
+    "2026-03": 6986.62,
     "2026-04": 920.05
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 920.05,
-    "percent": 100.0
+    "category": "DESLOCAMENTO",
+    "amountNet": 6986.62,
+    "percent": 88.36
   }
 }

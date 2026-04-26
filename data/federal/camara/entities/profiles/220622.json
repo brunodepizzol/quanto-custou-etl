@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220622,
-    "generatedAt": "2026-04-26T05:53:11.097870Z",
+    "generatedAt": "2026-04-26T06:19:17.133963Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "nely-aquino"
   },
   "mandateTotals": {
-    "amountNet": 826.25,
-    "amountGross": 826.25,
+    "amountNet": 27126.31,
+    "amountGross": 27126.31,
     "amountAdjustments": 0.0,
-    "recordsCount": 3,
+    "recordsCount": 14,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 826.25,
+      "COMBUSTIVEL": 1926.31,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "DIVULGACAO": 19200.0,
+      "ESCRITORIO": 6000.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 826.25,
+      "COMBUSTIVEL": 1926.31,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "DIVULGACAO": 19200.0,
+      "ESCRITORIO": 6000.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -54,17 +54,17 @@
     }
   },
   "yearTotals": {
-    "2026": 826.25
+    "2026": 27126.31
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
-    "2026-03": 0.0,
+    "2026-03": 26300.06,
     "2026-04": 826.25
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 826.25,
-    "percent": 100.0
+    "category": "DIVULGACAO",
+    "amountNet": 19200.0,
+    "percent": 70.78
   }
 }
