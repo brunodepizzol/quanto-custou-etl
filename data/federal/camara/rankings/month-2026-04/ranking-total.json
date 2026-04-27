@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-04",
-    "generatedAt": "2026-04-26T06:19:16.193394Z",
+    "generatedAt": "2026-04-27T06:16:18.681862Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -16,6 +16,16 @@
       "amountGross": 60191.9,
       "amountAdjustments": 0.0,
       "recordsCount": 3
+    },
+    {
+      "id": 160642,
+      "name": "Pastor Eurico",
+      "stateCode": "PE",
+      "party": "PSDB",
+      "amountNet": 52539.16,
+      "amountGross": 52539.16,
+      "amountAdjustments": 0.0,
+      "recordsCount": 10
     },
     {
       "id": 74454,
@@ -46,6 +56,16 @@
       "amountGross": 32586.08,
       "amountAdjustments": 0.0,
       "recordsCount": 19
+    },
+    {
+      "id": 62881,
+      "name": "Danilo Forte",
+      "stateCode": "CE",
+      "party": "PP",
+      "amountNet": 31397.27,
+      "amountGross": 31397.27,
+      "amountAdjustments": 0.0,
+      "recordsCount": 7
     },
     {
       "id": 220615,
@@ -82,30 +102,10 @@
       "name": "Lula da Fonte",
       "stateCode": "PE",
       "party": "PP",
-      "amountNet": 20628.05,
-      "amountGross": 20628.05,
+      "amountNet": 21631.05,
+      "amountGross": 21631.05,
       "amountAdjustments": 0.0,
-      "recordsCount": 5
-    },
-    {
-      "id": 220565,
-      "name": "Delegada Adriana Accorsi",
-      "stateCode": "GO",
-      "party": "PT",
-      "amountNet": 20000.0,
-      "amountGross": 20000.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 220682,
-      "name": "Tadeu Veneri",
-      "stateCode": "PR",
-      "party": "PT",
-      "amountNet": 19090.03,
-      "amountGross": 19090.03,
-      "amountAdjustments": 0.0,
-      "recordsCount": 27
+      "recordsCount": 8
     }
   ],
   "bottom": [
@@ -120,12 +120,12 @@
       "recordsCount": 1
     },
     {
-      "id": 74646,
-      "name": "Aécio Neves",
-      "stateCode": "MG",
-      "party": "PSDB",
-      "amountNet": 85.6,
-      "amountGross": 85.6,
+      "id": 162332,
+      "name": "Luiz Nishimori",
+      "stateCode": "PR",
+      "party": "PSD",
+      "amountNet": 100.0,
+      "amountGross": 100.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -170,6 +170,16 @@
       "recordsCount": 1
     },
     {
+      "id": 221148,
+      "name": "Alfredinho",
+      "stateCode": "SP",
+      "party": "PT",
+      "amountNet": 199.77,
+      "amountGross": 199.77,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
       "id": 74253,
       "name": "Julio Lopes",
       "stateCode": "RJ",
@@ -190,24 +200,14 @@
       "recordsCount": 1
     },
     {
-      "id": 220638,
-      "name": "Antonio Carlos Rodrigues",
-      "stateCode": "SP",
-      "party": "PL",
-      "amountNet": 211.53,
-      "amountGross": 211.53,
+      "id": 178933,
+      "name": "Sergio Souza",
+      "stateCode": "PR",
+      "party": "MDB",
+      "amountNet": 200.0,
+      "amountGross": 200.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 220623,
-      "name": "Duda Salabert",
-      "stateCode": "MG",
-      "party": "PSOL",
-      "amountNet": 211.87,
-      "amountGross": 211.87,
-      "amountAdjustments": 0.0,
-      "recordsCount": 6
     }
   ]
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178832,
-    "generatedAt": "2026-04-26T06:19:17.058017Z",
+    "generatedAt": "2026-04-27T06:16:19.556424Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,10 +15,10 @@
     "slug": "leandre"
   },
   "mandateTotals": {
-    "amountNet": 3687.92,
-    "amountGross": 3687.92,
+    "amountNet": 4481.62,
+    "amountGross": 4481.62,
     "amountAdjustments": 0.0,
-    "recordsCount": 14,
+    "recordsCount": 20,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 3269.92,
@@ -26,8 +26,8 @@
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 418.0,
+      "ESCRITORIO": 48.7,
+      "HOSPEDAGEM": 1163.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
@@ -37,8 +37,8 @@
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 418.0,
+      "ESCRITORIO": 48.7,
+      "HOSPEDAGEM": 1163.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,17 +54,17 @@
     }
   },
   "yearTotals": {
-    "2026": 3687.92
+    "2026": 4481.62
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 3687.92
+    "2026-04": 4481.62
   },
   "topCategory": {
     "category": "COMBUSTIVEL",
     "amountNet": 3269.92,
-    "percent": 88.67
+    "percent": 72.96
   }
 }
