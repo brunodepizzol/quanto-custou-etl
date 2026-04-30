@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 235800,
-    "generatedAt": "2026-04-29T06:13:58.086719Z",
+    "generatedAt": "2026-04-30T06:18:09.308360Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "jorge-araújo"
   },
   "mandateTotals": {
-    "amountNet": 1971.48,
-    "amountGross": 1971.48,
+    "amountNet": 8221.48,
+    "amountGross": 8221.48,
     "amountAdjustments": 0.0,
-    "recordsCount": 5,
+    "recordsCount": 8,
     "byCategoryNet": {
       "ALIMENTACAO": 99.92,
-      "COMBUSTIVEL": 1871.56,
+      "COMBUSTIVEL": 2121.56,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
+      "DIVULGACAO": 6000.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 99.92,
-      "COMBUSTIVEL": 1871.56,
+      "COMBUSTIVEL": 2121.56,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
+      "DIVULGACAO": 6000.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -54,17 +54,17 @@
     }
   },
   "yearTotals": {
-    "2026": 1971.48
+    "2026": 8221.48
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 1971.48
+    "2026-04": 8221.48
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 1871.56,
-    "percent": 94.93
+    "category": "DIVULGACAO",
+    "amountNet": 6000.0,
+    "percent": 72.98
   }
 }

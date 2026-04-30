@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "mandate",
-    "generatedAt": "2026-04-29T06:13:57.478762Z",
+    "generatedAt": "2026-04-30T06:18:08.746410Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -72,10 +72,10 @@
       "name": "General Girão",
       "stateCode": "RN",
       "party": "PL",
-      "amountNet": 1943555.04,
-      "amountGross": 2016031.8,
+      "amountNet": 1944705.04,
+      "amountGross": 2017181.8,
       "amountAdjustments": -72476.76,
-      "recordsCount": 2118
+      "recordsCount": 2119
     },
     {
       "id": 160591,
@@ -88,6 +88,16 @@
       "recordsCount": 495
     },
     {
+      "id": 141459,
+      "name": "João Maia",
+      "stateCode": "RN",
+      "party": "PP",
+      "amountNet": 1931897.92,
+      "amountGross": 1954111.31,
+      "amountAdjustments": -22213.39,
+      "recordsCount": 1160
+    },
+    {
       "id": 220536,
       "name": "Zé Haroldo Cathedral",
       "stateCode": "RR",
@@ -96,16 +106,6 @@
       "amountGross": 1983014.64,
       "amountAdjustments": -52090.35,
       "recordsCount": 754
-    },
-    {
-      "id": 141459,
-      "name": "João Maia",
-      "stateCode": "RN",
-      "party": "PP",
-      "amountNet": 1928951.74,
-      "amountGross": 1951165.13,
-      "amountAdjustments": -22213.39,
-      "recordsCount": 1158
     }
   ],
   "bottom": [
@@ -190,24 +190,24 @@
       "recordsCount": 10
     },
     {
+      "id": 204541,
+      "name": "Eduardo Bismarck",
+      "stateCode": "CE",
+      "party": "PV",
+      "amountNet": 2221.57,
+      "amountGross": 2221.57,
+      "amountAdjustments": 0.0,
+      "recordsCount": 9
+    },
+    {
       "id": 141488,
       "name": "Paulo Teixeira",
       "stateCode": "SP",
       "party": "PT",
-      "amountNet": 1659.38,
-      "amountGross": 1659.38,
+      "amountNet": 2293.08,
+      "amountGross": 2293.08,
       "amountAdjustments": 0.0,
-      "recordsCount": 24
-    },
-    {
-      "id": 235800,
-      "name": "Jorge Araújo",
-      "stateCode": "BA",
-      "party": "PP",
-      "amountNet": 1971.48,
-      "amountGross": 1971.48,
-      "amountAdjustments": 0.0,
-      "recordsCount": 5
+      "recordsCount": 26
     }
   ]
 }
