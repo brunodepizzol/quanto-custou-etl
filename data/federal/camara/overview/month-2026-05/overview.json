@@ -3,29 +3,44 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-05",
-    "generatedAt": "2026-05-04T06:28:19.368601Z",
+    "generatedAt": "2026-05-05T06:05:30.500474Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 38800.71,
+    "amountGross": 38800.71,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 17,
     "entitiesCount": 513,
-    "entitiesWithSpending": 0,
-    "entitiesWithoutSpending": 513
+    "entitiesWithSpending": 11,
+    "entitiesWithoutSpending": 502
   },
   "highlights": {
-    "topSpender": {},
+    "topSpender": {
+      "id": 74383,
+      "name": "Giacobo",
+      "stateCode": "PR",
+      "party": "PSD",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74383.jpg",
+      "amountNet": 35332.4,
+      "amountGross": 35332.4,
+      "amountAdjustments": 0.0
+    },
     "topCategories": [
       {
-        "category": "ALIMENTACAO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
+        "category": "DIVULGACAO",
+        "amountNet": 35332.4,
+        "amountGross": 35332.4,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
+        "amountNet": 3468.31,
+        "amountGross": 3468.31,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
@@ -49,12 +64,6 @@
         "amountAdjustments": 0.0
       },
       {
-        "category": "DIVULGACAO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
         "category": "ESCRITORIO",
         "amountNet": 0.0,
         "amountGross": 0.0,
@@ -73,33 +82,106 @@
         "amountAdjustments": 0.0
       }
     ],
-    "topStates": [],
+    "topStates": [
+      {
+        "stateCode": "PR",
+        "amountNet": 35573.41,
+        "amountGross": 35573.41,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1742.21,
+        "amountGross": 1742.21,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 714.93,
+        "amountGross": 714.93,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 228.04,
+        "amountGross": 228.04,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "MS",
+        "amountNet": 210.6,
+        "amountGross": 210.6,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SP",
+        "amountNet": 181.52,
+        "amountGross": 181.52,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 150.0,
+        "amountGross": 150.0,
+        "amountAdjustments": 0.0
+      }
+    ],
     "concentrationTop10": {
-      "amountNet": 0,
-      "percent": 0.0
+      "amountNet": 38650.71,
+      "percent": 99.61
     },
     "averages": {
-      "perEntityWithSpending": 0.0,
-      "perRecord": 0.0
+      "perEntityWithSpending": 3527.34,
+      "perRecord": 2282.39
     },
     "dailyTotals": {
-      "referenceDate": null,
-      "amountNet": 0.0,
-      "previousAmountNet": 0.0,
-      "deltaAmountNet": 0.0,
-      "deltaPercent": 0.0,
-      "deltaDirection": "flat",
-      "trend7d": []
+      "referenceDate": "2026-05-04",
+      "amountNet": 181.52,
+      "previousAmountNet": 727.42,
+      "deltaAmountNet": -545.9,
+      "deltaPercent": -75.05,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2026-04-30",
+          "amountNet": 183.79
+        },
+        {
+          "date": "2026-05-01",
+          "amountNet": 1421.29
+        },
+        {
+          "date": "2026-05-02",
+          "amountNet": 36286.69
+        },
+        {
+          "date": "2026-05-03",
+          "amountNet": 727.42
+        },
+        {
+          "date": "2026-05-04",
+          "amountNet": 181.52
+        }
+      ]
     },
     "dailyTopExpense": {
-      "referenceDate": null,
-      "entity": {},
-      "amountNet": 0.0,
-      "category": null,
-      "expenseType": null,
-      "supplier": null,
-      "documentType": null,
-      "documentUrl": null
+      "referenceDate": "2026-05-04",
+      "entity": {
+        "id": 178986,
+        "name": "Nilto Tatto",
+        "stateCode": "SP",
+        "party": "PT",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/178986.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 181.52,
+      "category": "COMBUSTIVEL",
+      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "supplier": "AUTO POSTO CINCO ESTRELAS LTDA",
+      "documentType": "Nota Fiscal Eletrônica",
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8091127"
     }
   }
 }
