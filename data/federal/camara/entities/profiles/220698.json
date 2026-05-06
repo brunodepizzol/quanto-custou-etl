@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220698,
-    "generatedAt": "2026-05-05T06:05:31.522763Z",
+    "generatedAt": "2026-05-06T06:19:31.721821Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "beto-preto"
   },
   "mandateTotals": {
-    "amountNet": 4605.41,
-    "amountGross": 4605.41,
+    "amountNet": 5037.03,
+    "amountGross": 5037.03,
     "amountAdjustments": 0.0,
-    "recordsCount": 15,
+    "recordsCount": 17,
     "byCategoryNet": {
       "ALIMENTACAO": 109.38,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 431.62,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 3654.77,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 109.38,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 431.62,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 3654.77,
@@ -54,18 +54,18 @@
     }
   },
   "yearTotals": {
-    "2026": 4605.41
+    "2026": 5037.03
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
     "2026-04": 4605.41,
-    "2026-05": 0.0
+    "2026-05": 431.62
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 3654.77,
-    "percent": 79.36
+    "percent": 72.56
   }
 }
