@@ -3,34 +3,40 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-05",
-    "generatedAt": "2026-05-06T06:19:30.719439Z",
+    "generatedAt": "2026-05-07T06:25:19.695195Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 40179.11,
-    "amountGross": 40179.11,
+    "amountNet": 171579.01,
+    "amountGross": 171579.01,
     "amountAdjustments": 0.0,
-    "recordsCount": 136,
+    "recordsCount": 332,
     "entitiesCount": 513,
-    "entitiesWithSpending": 61,
-    "entitiesWithoutSpending": 452
+    "entitiesWithSpending": 126,
+    "entitiesWithoutSpending": 387
   },
   "highlights": {
     "topSpender": {
-      "id": 227991,
-      "name": "Dr Flávio",
-      "stateCode": "RJ",
-      "party": "PL",
-      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/227991.jpg",
-      "amountNet": 3049.5,
-      "amountGross": 3049.5,
+      "id": 74454,
+      "name": "Eunício Oliveira",
+      "stateCode": "CE",
+      "party": "MDB",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74454.jpg",
+      "amountNet": 50000.0,
+      "amountGross": 50000.0,
       "amountAdjustments": 0.0
     },
     "topCategories": [
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 33693.21,
-        "amountGross": 33693.21,
+        "amountNet": 84457.43,
+        "amountGross": 84457.43,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DIVULGACAO",
+        "amountNet": 80000.0,
+        "amountGross": 80000.0,
         "amountAdjustments": 0.0
       },
       {
@@ -41,8 +47,14 @@
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 558.0,
-        "amountGross": 558.0,
+        "amountNet": 974.0,
+        "amountGross": 974.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 219.68,
+        "amountGross": 219.68,
         "amountAdjustments": 0.0
       },
       {
@@ -64,18 +76,6 @@
         "amountAdjustments": 0.0
       },
       {
-        "category": "DESLOCAMENTO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "DIVULGACAO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
         "category": "DEMAIS CATEGORIAS",
         "amountNet": 0.0,
         "amountGross": 0.0,
@@ -84,138 +84,142 @@
     ],
     "topStates": [
       {
+        "stateCode": "CE",
+        "amountNet": 50356.83,
+        "amountGross": 50356.83,
+        "amountAdjustments": 0.0
+      },
+      {
         "stateCode": "RJ",
-        "amountNet": 5324.51,
-        "amountGross": 5324.51,
+        "amountNet": 40679.08,
+        "amountGross": 40679.08,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "RS",
-        "amountNet": 5299.0,
-        "amountGross": 5299.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "TO",
-        "amountNet": 4534.52,
-        "amountGross": 4534.52,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "PE",
-        "amountNet": 2836.32,
-        "amountGross": 2836.32,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "SC",
-        "amountNet": 2494.58,
-        "amountGross": 2494.58,
+        "amountNet": 13278.82,
+        "amountGross": 13278.82,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PR",
-        "amountNet": 2431.7,
-        "amountGross": 2431.7,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "RO",
-        "amountNet": 1882.13,
-        "amountGross": 1882.13,
+        "amountNet": 8757.31,
+        "amountGross": 8757.31,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "BA",
-        "amountNet": 1801.15,
-        "amountGross": 1801.15,
+        "amountNet": 7032.49,
+        "amountGross": 7032.49,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 6999.24,
+        "amountGross": 6999.24,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "TO",
+        "amountNet": 6313.07,
+        "amountGross": 6313.07,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 4586.02,
+        "amountGross": 4586.02,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 3592.28,
+        "amountGross": 3592.28,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "GO",
-        "amountNet": 1788.52,
-        "amountGross": 1788.52,
+        "amountNet": 3571.31,
+        "amountGross": 3571.31,
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "ES",
-        "amountNet": 1565.44,
-        "amountGross": 1565.44,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "DF",
-        "amountNet": 1429.15,
-        "amountGross": 1429.15,
+        "stateCode": "PB",
+        "amountNet": 3272.97,
+        "amountGross": 3272.97,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "MS",
-        "amountNet": 1397.53,
-        "amountGross": 1397.53,
+        "amountNet": 3130.32,
+        "amountGross": 3130.32,
         "amountAdjustments": 0.0
       }
     ],
     "concentrationTop10": {
-      "amountNet": 16864.78,
-      "percent": 41.97
+      "amountNet": 98756.89,
+      "percent": 57.56
     },
     "averages": {
-      "perEntityWithSpending": 658.67,
-      "perRecord": 295.43
+      "perEntityWithSpending": 1361.74,
+      "perRecord": 516.8
     },
     "dailyTotals": {
-      "referenceDate": "2026-05-05",
-      "amountNet": 235.22,
-      "previousAmountNet": 14414.43,
-      "deltaAmountNet": -14179.21,
-      "deltaPercent": -98.37,
+      "referenceDate": "2026-05-06",
+      "amountNet": 1354.24,
+      "previousAmountNet": 61524.05,
+      "deltaAmountNet": -60169.81,
+      "deltaPercent": -97.8,
       "deltaDirection": "down",
       "trend7d": [
         {
           "date": "2026-04-30",
-          "amountNet": 433.79
+          "amountNet": 1220.13
         },
         {
           "date": "2026-05-01",
-          "amountNet": 10785.34
+          "amountNet": 49783.49
         },
         {
           "date": "2026-05-02",
-          "amountNet": 6734.41
+          "amountNet": 14812.92
         },
         {
           "date": "2026-05-03",
-          "amountNet": 7575.92
+          "amountNet": 13818.78
         },
         {
           "date": "2026-05-04",
-          "amountNet": 14414.43
+          "amountNet": 28406.24
         },
         {
           "date": "2026-05-05",
-          "amountNet": 235.22
+          "amountNet": 61524.05
+        },
+        {
+          "date": "2026-05-06",
+          "amountNet": 1354.24
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-05-05",
+      "referenceDate": "2026-05-06",
       "entity": {
-        "id": 220712,
-        "name": "Fausto Jr.",
-        "stateCode": "AM",
-        "party": "UNIÃO",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220712.jpg",
+        "id": 220698,
+        "name": "Beto Preto",
+        "stateCode": "PR",
+        "party": "PSD",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220698.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 235.22,
-      "category": "COMBUSTIVEL",
-      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "063 - 311 SUL - CASCOL COMBUSTIVEIS PARA VEICULOS LTDA",
-      "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8092400"
+      "amountNet": 416.0,
+      "category": "HOSPEDAGEM",
+      "expenseType": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+      "supplier": "LORENZON HOTEL LTDA",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3550/2026/8093904.pdf"
     }
   }
 }
