@@ -3,16 +3,16 @@
     "scope": "federal/camara",
     "type": "analytics-expense-types",
     "period": "month-2026-05",
-    "generatedAt": "2026-05-10T06:25:42.893887Z",
+    "generatedAt": "2026-05-11T06:55:50.979225Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
     {
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "amountNet": 118088.44,
-      "amountGross": 118088.44,
+      "amountNet": 166183.65,
+      "amountGross": 166183.65,
       "amountAdjustments": 0.0,
-      "recordsCount": 438
+      "recordsCount": 527
     },
     {
       "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
@@ -22,11 +22,18 @@
       "recordsCount": 2
     },
     {
-      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-      "amountNet": 9360.36,
-      "amountGross": 9360.36,
+      "expenseType": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "amountNet": 28000.0,
+      "amountGross": 28000.0,
       "amountAdjustments": 0.0,
-      "recordsCount": 10
+      "recordsCount": 1
+    },
+    {
+      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "amountNet": 10330.66,
+      "amountGross": 10330.66,
+      "amountAdjustments": 0.0,
+      "recordsCount": 14
     },
     {
       "expenseType": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
@@ -36,11 +43,18 @@
       "recordsCount": 3
     },
     {
-      "expenseType": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-      "amountNet": 283.7,
-      "amountGross": 283.7,
+      "expenseType": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "amountNet": 503.8,
+      "amountGross": 503.8,
       "amountAdjustments": 0.0,
-      "recordsCount": 3
+      "recordsCount": 13
+    },
+    {
+      "expenseType": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "amountNet": 445.46,
+      "amountGross": 445.46,
+      "amountAdjustments": 0.0,
+      "recordsCount": 6
     },
     {
       "expenseType": "PASSAGENS TERRESTRES, MARÍTIMAS OU FLUVIAIS",
@@ -48,13 +62,6 @@
       "amountGross": 219.68,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "expenseType": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-      "amountNet": 32.4,
-      "amountGross": 32.4,
-      "amountAdjustments": 0.0,
-      "recordsCount": 6
     }
   ]
 }

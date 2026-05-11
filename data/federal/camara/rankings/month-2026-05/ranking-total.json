@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-05",
-    "generatedAt": "2026-05-10T06:25:42.893861Z",
+    "generatedAt": "2026-05-11T06:55:50.979195Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -28,14 +28,64 @@
       "recordsCount": 3
     },
     {
+      "id": 141516,
+      "name": "Paulo Abi-Ackel",
+      "stateCode": "MG",
+      "party": "PSDB",
+      "amountNet": 28000.0,
+      "amountGross": 28000.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 160569,
+      "name": "Waldenor Pereira",
+      "stateCode": "BA",
+      "party": "PT",
+      "amountNet": 9392.0,
+      "amountGross": 9392.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220676,
+      "name": "Andreia Siqueira",
+      "stateCode": "PA",
+      "party": "PSB",
+      "amountNet": 8000.1,
+      "amountGross": 8000.1,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220592,
+      "name": "Zezinho Barbary",
+      "stateCode": "AC",
+      "party": "PP",
+      "amountNet": 4970.45,
+      "amountGross": 4970.45,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
+    },
+    {
       "id": 204364,
       "name": "Eli Borges",
       "stateCode": "TO",
       "party": "REPUBLICANOS",
-      "amountNet": 4153.12,
-      "amountGross": 4153.12,
+      "amountNet": 4493.16,
+      "amountGross": 4493.16,
       "amountAdjustments": 0.0,
-      "recordsCount": 13
+      "recordsCount": 14
+    },
+    {
+      "id": 220694,
+      "name": "Ricardo Maia",
+      "stateCode": "BA",
+      "party": "MDB",
+      "amountNet": 3860.86,
+      "amountGross": 3860.86,
+      "amountAdjustments": 0.0,
+      "recordsCount": 8
     },
     {
       "id": 227991,
@@ -52,63 +102,23 @@
       "name": "Welter",
       "stateCode": "PR",
       "party": "PT",
-      "amountNet": 2524.9,
-      "amountGross": 2524.9,
+      "amountNet": 2993.74,
+      "amountGross": 2993.74,
       "amountAdjustments": 0.0,
-      "recordsCount": 9
-    },
-    {
-      "id": 220694,
-      "name": "Ricardo Maia",
-      "stateCode": "BA",
-      "party": "MDB",
-      "amountNet": 2248.84,
-      "amountGross": 2248.84,
-      "amountAdjustments": 0.0,
-      "recordsCount": 6
-    },
-    {
-      "id": 178835,
-      "name": "Afonso Motta",
-      "stateCode": "RS",
-      "party": "PDT",
-      "amountNet": 2236.5,
-      "amountGross": 2236.5,
-      "amountAdjustments": 0.0,
-      "recordsCount": 8
-    },
-    {
-      "id": 141456,
-      "name": "Jilmar Tatto",
-      "stateCode": "SP",
-      "party": "PT",
-      "amountNet": 2117.37,
-      "amountGross": 2117.37,
-      "amountAdjustments": 0.0,
-      "recordsCount": 2
-    },
-    {
-      "id": 188097,
-      "name": "Merlong Solano",
-      "stateCode": "PI",
-      "party": "PT",
-      "amountNet": 2039.7,
-      "amountGross": 2039.7,
-      "amountAdjustments": 0.0,
-      "recordsCount": 8
-    },
-    {
-      "id": 220668,
-      "name": "Maria Arraes",
-      "stateCode": "PE",
-      "party": "PSB",
-      "amountNet": 2021.56,
-      "amountGross": 2021.56,
-      "amountAdjustments": 0.0,
-      "recordsCount": 6
+      "recordsCount": 11
     }
   ],
   "bottom": [
+    {
+      "id": 178954,
+      "name": "Lucio Mosquini",
+      "stateCode": "RO",
+      "party": "PL",
+      "amountNet": 53.25,
+      "amountGross": 53.25,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
     {
       "id": 74376,
       "name": "Vander Loubet",
@@ -140,6 +150,16 @@
       "recordsCount": 1
     },
     {
+      "id": 204515,
+      "name": "André Janones",
+      "stateCode": "MG",
+      "party": "REDE",
+      "amountNet": 100.0,
+      "amountGross": 100.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
       "id": 66385,
       "name": "Julio Arcoverde",
       "stateCode": "PI",
@@ -150,10 +170,10 @@
       "recordsCount": 1
     },
     {
-      "id": 74856,
-      "name": "Laura Carneiro",
-      "stateCode": "RJ",
-      "party": "PSD",
+      "id": 141518,
+      "name": "Paulinho da Força",
+      "stateCode": "SP",
+      "party": "SOLIDARIEDADE",
       "amountNet": 100.0,
       "amountGross": 100.0,
       "amountAdjustments": 0.0,
@@ -186,26 +206,6 @@
       "party": "UNIÃO",
       "amountNet": 140.5,
       "amountGross": 140.5,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 160640,
-      "name": "Eros Biondini",
-      "stateCode": "MG",
-      "party": "PL",
-      "amountNet": 147.48,
-      "amountGross": 147.48,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 220656,
-      "name": "Fernanda Pessoa",
-      "stateCode": "CE",
-      "party": "PSD",
-      "amountNet": 160.06,
-      "amountGross": 160.06,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     }
