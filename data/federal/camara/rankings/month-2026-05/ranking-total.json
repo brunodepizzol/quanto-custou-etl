@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-05",
-    "generatedAt": "2026-05-11T06:55:50.979195Z",
+    "generatedAt": "2026-05-12T06:27:19.461547Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -16,6 +16,16 @@
       "amountGross": 50000.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
+    },
+    {
+      "id": 220628,
+      "name": "Mauricio do Vôlei",
+      "stateCode": "MG",
+      "party": "PL",
+      "amountNet": 49306.77,
+      "amountGross": 49306.77,
+      "amountAdjustments": 0.0,
+      "recordsCount": 9
     },
     {
       "id": 220599,
@@ -48,6 +58,26 @@
       "recordsCount": 1
     },
     {
+      "id": 220671,
+      "name": "Dilvanda Faro",
+      "stateCode": "PA",
+      "party": "PT",
+      "amountNet": 9056.68,
+      "amountGross": 9056.68,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
+    },
+    {
+      "id": 220701,
+      "name": "Delegado Matheus Laiola",
+      "stateCode": "PR",
+      "party": "UNIÃO",
+      "amountNet": 8991.04,
+      "amountGross": 8991.04,
+      "amountAdjustments": 0.0,
+      "recordsCount": 5
+    },
+    {
       "id": 220676,
       "name": "Andreia Siqueira",
       "stateCode": "PA",
@@ -58,6 +88,16 @@
       "recordsCount": 1
     },
     {
+      "id": 204364,
+      "name": "Eli Borges",
+      "stateCode": "TO",
+      "party": "REPUBLICANOS",
+      "amountNet": 5377.16,
+      "amountGross": 5377.16,
+      "amountAdjustments": 0.0,
+      "recordsCount": 17
+    },
+    {
       "id": 220592,
       "name": "Zezinho Barbary",
       "stateCode": "AC",
@@ -66,69 +106,9 @@
       "amountGross": 4970.45,
       "amountAdjustments": 0.0,
       "recordsCount": 2
-    },
-    {
-      "id": 204364,
-      "name": "Eli Borges",
-      "stateCode": "TO",
-      "party": "REPUBLICANOS",
-      "amountNet": 4493.16,
-      "amountGross": 4493.16,
-      "amountAdjustments": 0.0,
-      "recordsCount": 14
-    },
-    {
-      "id": 220694,
-      "name": "Ricardo Maia",
-      "stateCode": "BA",
-      "party": "MDB",
-      "amountNet": 3860.86,
-      "amountGross": 3860.86,
-      "amountAdjustments": 0.0,
-      "recordsCount": 8
-    },
-    {
-      "id": 227991,
-      "name": "Dr Flávio",
-      "stateCode": "RJ",
-      "party": "PL",
-      "amountNet": 3609.1,
-      "amountGross": 3609.1,
-      "amountAdjustments": 0.0,
-      "recordsCount": 3
-    },
-    {
-      "id": 224333,
-      "name": "Welter",
-      "stateCode": "PR",
-      "party": "PT",
-      "amountNet": 2993.74,
-      "amountGross": 2993.74,
-      "amountAdjustments": 0.0,
-      "recordsCount": 11
     }
   ],
   "bottom": [
-    {
-      "id": 178954,
-      "name": "Lucio Mosquini",
-      "stateCode": "RO",
-      "party": "PL",
-      "amountNet": 53.25,
-      "amountGross": 53.25,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 74376,
-      "name": "Vander Loubet",
-      "stateCode": "MS",
-      "party": "PT",
-      "amountNet": 68.85,
-      "amountGross": 68.85,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
     {
       "id": 74161,
       "name": "Reginaldo Lopes",
@@ -136,16 +116,6 @@
       "party": "PT",
       "amountNet": 71.76,
       "amountGross": 71.76,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 74537,
-      "name": "Claudio Cajado",
-      "stateCode": "BA",
-      "party": "PP",
-      "amountNet": 87.99,
-      "amountGross": 87.99,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -180,6 +150,36 @@
       "recordsCount": 1
     },
     {
+      "id": 220626,
+      "name": "Rafael Simoes",
+      "stateCode": "MG",
+      "party": "UNIÃO",
+      "amountNet": 100.0,
+      "amountGross": 100.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220620,
+      "name": "Rosângela Reis",
+      "stateCode": "MG",
+      "party": "PL",
+      "amountNet": 100.0,
+      "amountGross": 100.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 178947,
+      "name": "Sóstenes Cavalcante",
+      "stateCode": "RJ",
+      "party": "PL",
+      "amountNet": 100.0,
+      "amountGross": 100.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
       "id": 178927,
       "name": "Aliel Machado",
       "stateCode": "PR",
@@ -200,14 +200,14 @@
       "recordsCount": 1
     },
     {
-      "id": 141485,
-      "name": "Luiz Carlos Busato",
-      "stateCode": "RS",
-      "party": "UNIÃO",
-      "amountNet": 140.5,
-      "amountGross": 140.5,
+      "id": 198783,
+      "name": "Emanuel Pinheiro Neto",
+      "stateCode": "MT",
+      "party": "PSD",
+      "amountNet": 150.0,
+      "amountGross": 150.0,
       "amountAdjustments": 0.0,
-      "recordsCount": 1
+      "recordsCount": 2
     }
   ]
 }
