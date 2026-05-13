@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-05",
-    "generatedAt": "2026-05-12T06:27:19.461547Z",
+    "generatedAt": "2026-05-13T06:38:34.264719Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -32,10 +32,10 @@
       "name": "Marcelo Crivella",
       "stateCode": "RJ",
       "party": "REPUBLICANOS",
-      "amountNet": 30202.87,
-      "amountGross": 30202.87,
+      "amountNet": 30342.87,
+      "amountGross": 30342.87,
       "amountAdjustments": 0.0,
-      "recordsCount": 3
+      "recordsCount": 4
     },
     {
       "id": 141516,
@@ -46,6 +46,16 @@
       "amountGross": 28000.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
+    },
+    {
+      "id": 204534,
+      "name": "Tabata Amaral",
+      "stateCode": "SP",
+      "party": "PSB",
+      "amountNet": 18300.0,
+      "amountGross": 18300.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 3
     },
     {
       "id": 160569,
@@ -78,6 +88,16 @@
       "recordsCount": 5
     },
     {
+      "id": 204364,
+      "name": "Eli Borges",
+      "stateCode": "TO",
+      "party": "REPUBLICANOS",
+      "amountNet": 8459.21,
+      "amountGross": 8459.21,
+      "amountAdjustments": 0.0,
+      "recordsCount": 25
+    },
+    {
       "id": 220676,
       "name": "Andreia Siqueira",
       "stateCode": "PA",
@@ -86,26 +106,6 @@
       "amountGross": 8000.1,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 204364,
-      "name": "Eli Borges",
-      "stateCode": "TO",
-      "party": "REPUBLICANOS",
-      "amountNet": 5377.16,
-      "amountGross": 5377.16,
-      "amountAdjustments": 0.0,
-      "recordsCount": 17
-    },
-    {
-      "id": 220592,
-      "name": "Zezinho Barbary",
-      "stateCode": "AC",
-      "party": "PP",
-      "amountNet": 4970.45,
-      "amountGross": 4970.45,
-      "amountAdjustments": 0.0,
-      "recordsCount": 2
     }
   ],
   "bottom": [
@@ -180,16 +180,6 @@
       "recordsCount": 1
     },
     {
-      "id": 178927,
-      "name": "Aliel Machado",
-      "stateCode": "PR",
-      "party": "PV",
-      "amountNet": 121.61,
-      "amountGross": 121.61,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 178910,
       "name": "Joaquim Passarinho",
       "stateCode": "PA",
@@ -208,6 +198,16 @@
       "amountGross": 150.0,
       "amountAdjustments": 0.0,
       "recordsCount": 2
+    },
+    {
+      "id": 178985,
+      "name": "Miguel Lombardi",
+      "stateCode": "SP",
+      "party": "PL",
+      "amountNet": 150.0,
+      "amountGross": 150.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
     }
   ]
 }
