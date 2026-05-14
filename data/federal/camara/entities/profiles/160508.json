@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160508,
-    "generatedAt": "2026-05-13T06:38:35.190748Z",
+    "generatedAt": "2026-05-14T06:37:19.704987Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "afonso-florence"
   },
   "mandateTotals": {
-    "amountNet": 976.89,
-    "amountGross": 976.89,
+    "amountNet": 1876.89,
+    "amountGross": 1876.89,
     "amountAdjustments": 0.0,
-    "recordsCount": 7,
+    "recordsCount": 11,
     "byCategoryNet": {
       "ALIMENTACAO": 226.74,
-      "COMBUSTIVEL": 750.15,
+      "COMBUSTIVEL": 1650.15,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 226.74,
-      "COMBUSTIVEL": 750.15,
+      "COMBUSTIVEL": 1650.15,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -54,18 +54,18 @@
     }
   },
   "yearTotals": {
-    "2026": 976.89
+    "2026": 1876.89
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
     "2026-04": 976.89,
-    "2026-05": 0.0
+    "2026-05": 900.0
   },
   "topCategory": {
     "category": "COMBUSTIVEL",
-    "amountNet": 750.15,
-    "percent": 76.79
+    "amountNet": 1650.15,
+    "percent": 87.92
   }
 }
