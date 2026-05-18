@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-05",
-    "generatedAt": "2026-05-17T06:36:56.685237Z",
+    "generatedAt": "2026-05-18T07:26:39.231491Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -38,6 +38,16 @@
       "recordsCount": 1
     },
     {
+      "id": 227991,
+      "name": "Dr Flávio",
+      "stateCode": "RJ",
+      "party": "PL",
+      "amountNet": 37506.59,
+      "amountGross": 37506.59,
+      "amountAdjustments": 0.0,
+      "recordsCount": 13
+    },
+    {
       "id": 220599,
       "name": "Marcelo Crivella",
       "stateCode": "RJ",
@@ -46,6 +56,16 @@
       "amountGross": 30342.87,
       "amountAdjustments": 0.0,
       "recordsCount": 4
+    },
+    {
+      "id": 220676,
+      "name": "Andreia Siqueira",
+      "stateCode": "PA",
+      "party": "PSB",
+      "amountNet": 29489.2,
+      "amountGross": 29489.2,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
     },
     {
       "id": 141516,
@@ -86,26 +106,6 @@
       "amountGross": 20968.88,
       "amountAdjustments": 0.0,
       "recordsCount": 5
-    },
-    {
-      "id": 204534,
-      "name": "Tabata Amaral",
-      "stateCode": "SP",
-      "party": "PSB",
-      "amountNet": 19378.01,
-      "amountGross": 19378.01,
-      "amountAdjustments": 0.0,
-      "recordsCount": 7
-    },
-    {
-      "id": 160665,
-      "name": "Augusto Coutinho",
-      "stateCode": "PE",
-      "party": "REPUBLICANOS",
-      "amountNet": 14984.5,
-      "amountGross": 14984.5,
-      "amountAdjustments": 0.0,
-      "recordsCount": 14
     }
   ],
   "bottom": [
@@ -124,16 +124,6 @@
       "name": "Carlos Zarattini",
       "stateCode": "SP",
       "party": "PT",
-      "amountNet": 100.0,
-      "amountGross": 100.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 141518,
-      "name": "Paulinho da Força",
-      "stateCode": "SP",
-      "party": "SOLIDARIEDADE",
       "amountNet": 100.0,
       "amountGross": 100.0,
       "amountAdjustments": 0.0,
@@ -206,6 +196,16 @@
       "party": "PT",
       "amountNet": 164.64,
       "amountGross": 164.64,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 160599,
+      "name": "Dimas Fabiano",
+      "stateCode": "MG",
+      "party": "PP",
+      "amountNet": 178.0,
+      "amountGross": 178.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     }
