@@ -3,10 +3,20 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-05",
-    "generatedAt": "2026-05-19T07:02:17.019195Z",
+    "generatedAt": "2026-05-20T07:02:56.649352Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
+    {
+      "id": 150418,
+      "name": "Márcio Marinho",
+      "stateCode": "BA",
+      "party": "REPUBLICANOS",
+      "amountNet": 95120.0,
+      "amountGross": 95120.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
+    },
     {
       "id": 74454,
       "name": "Eunício Oliveira",
@@ -38,24 +48,24 @@
       "recordsCount": 1
     },
     {
-      "id": 220685,
-      "name": "Paulo Litro",
-      "stateCode": "PR",
-      "party": "UNIÃO",
-      "amountNet": 37898.96,
-      "amountGross": 37898.96,
-      "amountAdjustments": 0.0,
-      "recordsCount": 7
-    },
-    {
       "id": 227991,
       "name": "Dr Flávio",
       "stateCode": "RJ",
       "party": "PL",
-      "amountNet": 37506.59,
-      "amountGross": 37506.59,
+      "amountNet": 39422.29,
+      "amountGross": 39422.29,
       "amountAdjustments": 0.0,
-      "recordsCount": 13
+      "recordsCount": 14
+    },
+    {
+      "id": 220685,
+      "name": "Paulo Litro",
+      "stateCode": "PR",
+      "party": "UNIÃO",
+      "amountNet": 38583.1,
+      "amountGross": 38583.1,
+      "amountAdjustments": 0.0,
+      "recordsCount": 9
     },
     {
       "id": 220599,
@@ -82,10 +92,10 @@
       "name": "Paulo Abi-Ackel",
       "stateCode": "MG",
       "party": "PSDB",
-      "amountNet": 28000.0,
-      "amountGross": 28000.0,
+      "amountNet": 29199.77,
+      "amountGross": 29199.77,
       "amountAdjustments": 0.0,
-      "recordsCount": 1
+      "recordsCount": 6
     },
     {
       "id": 234788,
@@ -96,16 +106,6 @@
       "amountGross": 24000.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 220669,
-      "name": "Lula da Fonte",
-      "stateCode": "PE",
-      "party": "PP",
-      "amountNet": 21190.42,
-      "amountGross": 21190.42,
-      "amountAdjustments": 0.0,
-      "recordsCount": 9
     }
   ],
   "bottom": [
@@ -116,6 +116,16 @@
       "party": "PT",
       "amountNet": 64.84,
       "amountGross": 64.84,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220706,
+      "name": "Padovani",
+      "stateCode": "PR",
+      "party": "PP",
+      "amountNet": 66.0,
+      "amountGross": 66.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -140,42 +150,12 @@
       "recordsCount": 1
     },
     {
-      "id": 150418,
-      "name": "Márcio Marinho",
-      "stateCode": "BA",
-      "party": "REPUBLICANOS",
-      "amountNet": 120.0,
-      "amountGross": 120.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 178985,
       "name": "Miguel Lombardi",
       "stateCode": "SP",
       "party": "PL",
       "amountNet": 150.0,
       "amountGross": 150.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 220696,
-      "name": "Ivoneide Caetano",
-      "stateCode": "BA",
-      "party": "PT",
-      "amountNet": 164.64,
-      "amountGross": 164.64,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 160599,
-      "name": "Dimas Fabiano",
-      "stateCode": "MG",
-      "party": "PP",
-      "amountNet": 178.0,
-      "amountGross": 178.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -200,12 +180,32 @@
       "recordsCount": 1
     },
     {
-      "id": 179000,
-      "name": "Marcelo Álvaro Antônio",
-      "stateCode": "MG",
-      "party": "PL",
+      "id": 220564,
+      "name": "Yandra Moura",
+      "stateCode": "SE",
+      "party": "UNIÃO",
       "amountNet": 200.0,
       "amountGross": 200.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220663,
+      "name": "Eriberto Medeiros",
+      "stateCode": "PE",
+      "party": "PSB",
+      "amountNet": 213.65,
+      "amountGross": 213.65,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220649,
+      "name": "Delegado da Cunha",
+      "stateCode": "SP",
+      "party": "UNIÃO",
+      "amountNet": 220.22,
+      "amountGross": 220.22,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     }
