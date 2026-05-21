@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-05-20T07:02:56.725206Z",
+    "generatedAt": "2026-05-21T07:08:18.838136Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -26,6 +26,16 @@
       "amountGross": 236288.4,
       "amountAdjustments": 0.0,
       "recordsCount": 19
+    },
+    {
+      "id": 74374,
+      "name": "Geraldo Resende",
+      "stateCode": "MS",
+      "party": "PSDB",
+      "amountNet": 215420.1,
+      "amountGross": 220358.57,
+      "amountAdjustments": -4938.47,
+      "recordsCount": 84
     },
     {
       "id": 220538,
@@ -78,6 +88,16 @@
       "recordsCount": 302
     },
     {
+      "id": 220557,
+      "name": "Daniela Reinehr",
+      "stateCode": "SC",
+      "party": "PL",
+      "amountNet": 199098.47,
+      "amountGross": 199098.47,
+      "amountAdjustments": 0.0,
+      "recordsCount": 238
+    },
+    {
       "id": 220551,
       "name": "Franciane Bayer",
       "stateCode": "RS",
@@ -86,26 +106,6 @@
       "amountGross": 198573.93,
       "amountAdjustments": -2135.2,
       "recordsCount": 199
-    },
-    {
-      "id": 74374,
-      "name": "Geraldo Resende",
-      "stateCode": "MS",
-      "party": "PSDB",
-      "amountNet": 195655.1,
-      "amountGross": 200593.57,
-      "amountAdjustments": -4938.47,
-      "recordsCount": 81
-    },
-    {
-      "id": 191923,
-      "name": "Flávio Nogueira",
-      "stateCode": "PI",
-      "party": "PT",
-      "amountNet": 194343.8,
-      "amountGross": 198595.97,
-      "amountAdjustments": -4252.17,
-      "recordsCount": 95
     }
   ],
   "bottom": [
@@ -116,6 +116,16 @@
       "party": "REPUBLICANOS",
       "amountNet": 120.0,
       "amountGross": 120.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220637,
+      "name": "Marina Silva",
+      "stateCode": "SP",
+      "party": "REDE",
+      "amountNet": 196.41,
+      "amountGross": 196.41,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -154,20 +164,10 @@
       "name": "Fabio Garcia",
       "stateCode": "MT",
       "party": "UNIÃO",
-      "amountNet": 582.85,
-      "amountGross": 582.85,
+      "amountNet": 1013.68,
+      "amountGross": 1013.68,
       "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 225846,
-      "name": "Itamar Paim",
-      "stateCode": "PR",
-      "party": "PL",
-      "amountNet": 746.14,
-      "amountGross": 746.14,
-      "amountAdjustments": 0.0,
-      "recordsCount": 4
+      "recordsCount": 3
     },
     {
       "id": 204558,
@@ -200,14 +200,14 @@
       "recordsCount": 7
     },
     {
-      "id": 160508,
-      "name": "Afonso Florence",
-      "stateCode": "BA",
-      "party": "PT",
-      "amountNet": 1918.89,
-      "amountGross": 1918.89,
+      "id": 225846,
+      "name": "Itamar Paim",
+      "stateCode": "PR",
+      "party": "PL",
+      "amountNet": 1624.6,
+      "amountGross": 1624.6,
       "amountAdjustments": 0.0,
-      "recordsCount": 12
+      "recordsCount": 9
     }
   ]
 }
