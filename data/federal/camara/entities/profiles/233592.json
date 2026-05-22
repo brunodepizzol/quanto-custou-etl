@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 233592,
-    "generatedAt": "2026-05-21T07:08:19.840914Z",
+    "generatedAt": "2026-05-22T07:04:00.192336Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "paulo-lemos"
   },
   "mandateTotals": {
-    "amountNet": 390.86,
-    "amountGross": 390.86,
+    "amountNet": 1511.16,
+    "amountGross": 1511.16,
     "amountAdjustments": 0.0,
-    "recordsCount": 11,
+    "recordsCount": 14,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 1120.3,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 1120.3,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -54,18 +54,18 @@
     }
   },
   "yearTotals": {
-    "2026": 390.86
+    "2026": 1511.16
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
     "2026-04": 326.02,
-    "2026-05": 64.84
+    "2026-05": 1185.14
   },
   "topCategory": {
-    "category": "ESCRITORIO",
-    "amountNet": 390.86,
-    "percent": 100.0
+    "category": "COMBUSTIVEL",
+    "amountNet": 1120.3,
+    "percent": 74.14
   }
 }
