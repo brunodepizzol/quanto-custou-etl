@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-05",
-    "generatedAt": "2026-05-24T06:53:39.692940Z",
+    "generatedAt": "2026-05-25T08:03:34.216810Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -18,6 +18,16 @@
       "recordsCount": 2
     },
     {
+      "id": 220628,
+      "name": "Mauricio do Vôlei",
+      "stateCode": "MG",
+      "party": "PL",
+      "amountNet": 50143.36,
+      "amountGross": 50143.36,
+      "amountAdjustments": 0.0,
+      "recordsCount": 12
+    },
+    {
       "id": 74454,
       "name": "Eunício Oliveira",
       "stateCode": "CE",
@@ -26,16 +36,6 @@
       "amountGross": 50000.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 220628,
-      "name": "Mauricio do Vôlei",
-      "stateCode": "MG",
-      "party": "PL",
-      "amountNet": 49306.77,
-      "amountGross": 49306.77,
-      "amountAdjustments": 0.0,
-      "recordsCount": 9
     },
     {
       "id": 153423,
@@ -82,10 +82,20 @@
       "name": "Paulo Litro",
       "stateCode": "PR",
       "party": "UNIÃO",
-      "amountNet": 38983.1,
-      "amountGross": 38983.1,
+      "amountNet": 39738.09,
+      "amountGross": 39738.09,
       "amountAdjustments": 0.0,
-      "recordsCount": 10
+      "recordsCount": 12
+    },
+    {
+      "id": 143632,
+      "name": "Domingos Neto",
+      "stateCode": "CE",
+      "party": "PSD",
+      "amountNet": 33000.0,
+      "amountGross": 33000.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
     },
     {
       "id": 220599,
@@ -96,29 +106,9 @@
       "amountGross": 30342.87,
       "amountAdjustments": 0.0,
       "recordsCount": 4
-    },
-    {
-      "id": 74374,
-      "name": "Geraldo Resende",
-      "stateCode": "MS",
-      "party": "UNIÃO",
-      "amountNet": 29607.0,
-      "amountGross": 29607.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 5
     }
   ],
   "bottom": [
-    {
-      "id": 204361,
-      "name": "Carlos Chiodini",
-      "stateCode": "SC",
-      "party": "MDB",
-      "amountNet": 56.94,
-      "amountGross": 56.94,
-      "amountAdjustments": 0.0,
-      "recordsCount": 3
-    },
     {
       "id": 220706,
       "name": "Padovani",
@@ -126,6 +116,16 @@
       "party": "PP",
       "amountNet": 66.0,
       "amountGross": 66.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220688,
+      "name": "Dr. Francisco",
+      "stateCode": "PI",
+      "party": "PT",
+      "amountNet": 79.06,
+      "amountGross": 79.06,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -146,36 +146,6 @@
       "party": "PL",
       "amountNet": 178.9,
       "amountGross": 178.9,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 204396,
-      "name": "Vermelho",
-      "stateCode": "PR",
-      "party": "PL",
-      "amountNet": 184.93,
-      "amountGross": 184.93,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 220536,
-      "name": "Zé Haroldo Cathedral",
-      "stateCode": "RR",
-      "party": "UNIÃO",
-      "amountNet": 187.31,
-      "amountGross": 187.31,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 220637,
-      "name": "Marina Silva",
-      "stateCode": "SP",
-      "party": "REDE",
-      "amountNet": 196.41,
-      "amountGross": 196.41,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -206,6 +176,36 @@
       "party": "PL",
       "amountNet": 232.93,
       "amountGross": 232.93,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 74428,
+      "name": "Mendonça Filho",
+      "stateCode": "PE",
+      "party": "PL",
+      "amountNet": 254.24,
+      "amountGross": 254.24,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 91228,
+      "name": "Waldemar Oliveira",
+      "stateCode": "PE",
+      "party": "AVANTE",
+      "amountNet": 255.56,
+      "amountGross": 255.56,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 160976,
+      "name": "Tiririca",
+      "stateCode": "SP",
+      "party": "PSD",
+      "amountNet": 280.25,
+      "amountGross": 280.25,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     }

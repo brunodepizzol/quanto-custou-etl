@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204558,
-    "generatedAt": "2026-05-24T06:53:40.657762Z",
+    "generatedAt": "2026-05-25T08:03:35.109850Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "marcelo-nilo"
   },
   "mandateTotals": {
-    "amountNet": 1068.45,
-    "amountGross": 1068.45,
+    "amountNet": 1846.78,
+    "amountGross": 1846.78,
     "amountAdjustments": 0.0,
-    "recordsCount": 9,
+    "recordsCount": 12,
     "byCategoryNet": {
       "ALIMENTACAO": 518.0,
-      "COMBUSTIVEL": 550.45,
+      "COMBUSTIVEL": 1328.78,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 518.0,
-      "COMBUSTIVEL": 550.45,
+      "COMBUSTIVEL": 1328.78,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -54,18 +54,18 @@
     }
   },
   "yearTotals": {
-    "2026": 1068.45
+    "2026": 1846.78
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
     "2026-04": 1068.45,
-    "2026-05": 0.0
+    "2026-05": 778.33
   },
   "topCategory": {
     "category": "COMBUSTIVEL",
-    "amountNet": 550.45,
-    "percent": 51.52
+    "amountNet": 1328.78,
+    "percent": 71.95
   }
 }
