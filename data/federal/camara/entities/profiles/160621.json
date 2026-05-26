@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160621,
-    "generatedAt": "2026-05-25T08:03:35.056465Z",
+    "generatedAt": "2026-05-26T07:01:32.444600Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "sandro-alex"
   },
   "mandateTotals": {
-    "amountNet": 504.0,
-    "amountGross": 504.0,
+    "amountNet": 908.69,
+    "amountGross": 908.69,
     "amountAdjustments": 0.0,
-    "recordsCount": 1,
+    "recordsCount": 3,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 404.69,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 404.69,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -54,18 +54,18 @@
     }
   },
   "yearTotals": {
-    "2026": 504.0
+    "2026": 908.69
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
     "2026-04": 0.0,
-    "2026-05": 504.0
+    "2026-05": 908.69
   },
   "topCategory": {
     "category": "HOSPEDAGEM",
     "amountNet": 504.0,
-    "percent": 100.0
+    "percent": 55.46
   }
 }
