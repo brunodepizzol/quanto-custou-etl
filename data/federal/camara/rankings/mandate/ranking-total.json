@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "mandate",
-    "generatedAt": "2026-05-28T07:08:55.344514Z",
+    "generatedAt": "2026-05-29T07:10:35.490036Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -12,10 +12,10 @@
       "name": "Pompeo de Mattos",
       "stateCode": "RS",
       "party": "PDT",
-      "amountNet": 2071872.55,
-      "amountGross": 2089376.11,
+      "amountNet": 2072372.75,
+      "amountGross": 2089876.31,
       "amountAdjustments": -17503.56,
-      "recordsCount": 2602
+      "recordsCount": 2603
     },
     {
       "id": 220538,
@@ -78,6 +78,16 @@
       "recordsCount": 2139
     },
     {
+      "id": 204406,
+      "name": "Pedro Westphalen",
+      "stateCode": "RS",
+      "party": "PP",
+      "amountNet": 1937461.57,
+      "amountGross": 2085136.55,
+      "amountAdjustments": -147674.98,
+      "recordsCount": 2640
+    },
+    {
       "id": 141459,
       "name": "João Maia",
       "stateCode": "RN",
@@ -88,24 +98,14 @@
       "recordsCount": 1171
     },
     {
-      "id": 160591,
-      "name": "Vinicius Gurgel",
-      "stateCode": "AP",
-      "party": "PL",
-      "amountNet": 1932961.54,
-      "amountGross": 1987101.69,
-      "amountAdjustments": -54140.15,
-      "recordsCount": 495
-    },
-    {
       "id": 220536,
       "name": "Zé Haroldo Cathedral",
       "stateCode": "RR",
       "party": "PSD",
-      "amountNet": 1932868.68,
-      "amountGross": 1984959.03,
+      "amountNet": 1932968.68,
+      "amountGross": 1985059.03,
       "amountAdjustments": -52090.35,
-      "recordsCount": 757
+      "recordsCount": 758
     }
   ],
   "bottom": [
@@ -190,16 +190,6 @@
       "recordsCount": 17
     },
     {
-      "id": 160508,
-      "name": "Afonso Florence",
-      "stateCode": "BA",
-      "party": "PT",
-      "amountNet": 2564.89,
-      "amountGross": 2564.89,
-      "amountAdjustments": 0.0,
-      "recordsCount": 15
-    },
-    {
       "id": 204558,
       "name": "Marcelo Nilo",
       "stateCode": "BA",
@@ -208,6 +198,16 @@
       "amountGross": 2757.94,
       "amountAdjustments": 0.0,
       "recordsCount": 15
+    },
+    {
+      "id": 204425,
+      "name": "Silvio Costa Filho",
+      "stateCode": "PE",
+      "party": "REPUBLICANOS",
+      "amountNet": 4026.0,
+      "amountGross": 4026.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
     }
   ]
 }

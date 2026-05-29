@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-05-28T07:08:54.994506Z",
+    "generatedAt": "2026-05-29T07:10:35.113742Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -68,6 +68,16 @@
       "recordsCount": 38
     },
     {
+      "id": 220642,
+      "name": "Delegado Bruno Lima",
+      "stateCode": "SP",
+      "party": "PODE",
+      "amountNet": 208836.43,
+      "amountGross": 208922.33,
+      "amountAdjustments": -85.9,
+      "recordsCount": 77
+    },
+    {
       "id": 220599,
       "name": "Marcelo Crivella",
       "stateCode": "RJ",
@@ -88,24 +98,14 @@
       "recordsCount": 15
     },
     {
-      "id": 204426,
-      "name": "Carlos Veras",
-      "stateCode": "PE",
-      "party": "PT",
-      "amountNet": 201227.37,
-      "amountGross": 204406.26,
-      "amountAdjustments": -3178.89,
-      "recordsCount": 303
-    },
-    {
-      "id": 220557,
-      "name": "Daniela Reinehr",
-      "stateCode": "SC",
-      "party": "PL",
-      "amountNet": 200669.37,
-      "amountGross": 200669.37,
-      "amountAdjustments": 0.0,
-      "recordsCount": 247
+      "id": 204406,
+      "name": "Pedro Westphalen",
+      "stateCode": "RS",
+      "party": "PP",
+      "amountNet": 202731.0,
+      "amountGross": 205086.98,
+      "amountAdjustments": -2355.98,
+      "recordsCount": 314
     }
   ],
   "bottom": [
@@ -190,16 +190,6 @@
       "recordsCount": 17
     },
     {
-      "id": 160508,
-      "name": "Afonso Florence",
-      "stateCode": "BA",
-      "party": "PT",
-      "amountNet": 2564.89,
-      "amountGross": 2564.89,
-      "amountAdjustments": 0.0,
-      "recordsCount": 15
-    },
-    {
       "id": 204558,
       "name": "Marcelo Nilo",
       "stateCode": "BA",
@@ -208,6 +198,16 @@
       "amountGross": 2757.94,
       "amountAdjustments": 0.0,
       "recordsCount": 15
+    },
+    {
+      "id": 204425,
+      "name": "Silvio Costa Filho",
+      "stateCode": "PE",
+      "party": "REPUBLICANOS",
+      "amountNet": 4026.0,
+      "amountGross": 4026.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
     }
   ]
 }
