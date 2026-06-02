@@ -3,21 +3,36 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-06",
-    "generatedAt": "2026-06-01T09:39:56.373002Z",
+    "generatedAt": "2026-06-02T08:13:01.318392Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 175.94,
+    "amountGross": 175.94,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 1,
     "entitiesCount": 513,
-    "entitiesWithSpending": 0,
-    "entitiesWithoutSpending": 513
+    "entitiesWithSpending": 1,
+    "entitiesWithoutSpending": 512
   },
   "highlights": {
-    "topSpender": {},
+    "topSpender": {
+      "id": 204409,
+      "name": "Daniel Trzeciak",
+      "stateCode": "RS",
+      "party": "PSDB",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204409.jpg",
+      "amountNet": 175.94,
+      "amountGross": 175.94,
+      "amountAdjustments": 0.0
+    },
     "topCategories": [
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 175.94,
+        "amountGross": 175.94,
+        "amountAdjustments": 0.0
+      },
       {
         "category": "ALIMENTACAO",
         "amountNet": 0.0,
@@ -55,12 +70,6 @@
         "amountAdjustments": 0.0
       },
       {
-        "category": "ESCRITORIO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
         "category": "HOSPEDAGEM",
         "amountNet": 0.0,
         "amountGross": 0.0,
@@ -73,33 +82,54 @@
         "amountAdjustments": 0.0
       }
     ],
-    "topStates": [],
+    "topStates": [
+      {
+        "stateCode": "RS",
+        "amountNet": 175.94,
+        "amountGross": 175.94,
+        "amountAdjustments": 0.0
+      }
+    ],
     "concentrationTop10": {
-      "amountNet": 0,
-      "percent": 0.0
+      "amountNet": 175.94,
+      "percent": 100.0
     },
     "averages": {
-      "perEntityWithSpending": 0.0,
-      "perRecord": 0.0
+      "perEntityWithSpending": 175.94,
+      "perRecord": 175.94
     },
     "dailyTotals": {
-      "referenceDate": null,
-      "amountNet": 0.0,
+      "referenceDate": "2026-05-19",
+      "amountNet": 175.94,
       "previousAmountNet": 0.0,
-      "deltaAmountNet": 0.0,
+      "deltaAmountNet": 175.94,
       "deltaPercent": 0.0,
-      "deltaDirection": "flat",
-      "trend7d": []
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2026-05-19",
+          "amountNet": 175.94
+        }
+      ]
     },
     "dailyTopExpense": {
-      "referenceDate": null,
-      "entity": {},
-      "amountNet": 0.0,
-      "category": null,
-      "expenseType": null,
-      "supplier": null,
-      "documentType": null,
-      "documentUrl": null
+      "referenceDate": "2026-05-19",
+      "entity": {
+        "id": 204409,
+        "name": "Daniel Trzeciak",
+        "stateCode": "RS",
+        "party": "PSDB",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204409.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 175.94,
+      "category": "ESCRITORIO",
+      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "supplier": "Adobe Systems Software Ireland Ltd 4-6 Riverwalk",
+      "documentType": "Recibos/Outros",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3328/2026/8101644.pdf"
     }
   }
 }
