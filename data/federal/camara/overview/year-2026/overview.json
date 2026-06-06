@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "year-2026",
-    "generatedAt": "2026-06-02T08:13:01.410515Z",
+    "generatedAt": "2026-06-06T06:46:00.088609Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 61672875.09,
-    "amountGross": 63138046.29,
+    "amountNet": 61724720.07,
+    "amountGross": 63189891.27,
     "amountAdjustments": -1465171.2,
-    "recordsCount": 51660,
-    "entitiesCount": 518,
+    "recordsCount": 51678,
+    "entitiesCount": 519,
     "entitiesWithSpending": 510,
-    "entitiesWithoutSpending": 8
+    "entitiesWithoutSpending": 9
   },
   "highlights": {
     "topSpender": {
@@ -29,14 +29,14 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 25996917.53,
-        "amountGross": 25996917.53,
+        "amountNet": 26040784.53,
+        "amountGross": 26040784.53,
         "amountAdjustments": 0.0
       },
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 17880457.96,
-        "amountGross": 19345629.16,
+        "amountNet": 17882932.96,
+        "amountGross": 19348104.16,
         "amountAdjustments": -1465171.2
       },
       {
@@ -47,8 +47,8 @@
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 7043119.96,
-        "amountGross": 7043119.96,
+        "amountNet": 7048622.94,
+        "amountGross": 7048622.94,
         "amountAdjustments": 0.0
       },
       {
@@ -91,14 +91,14 @@
       },
       {
         "stateCode": "MG",
-        "amountNet": 6151974.86,
-        "amountGross": 6224637.77,
+        "amountNet": 6152199.88,
+        "amountGross": 6224862.79,
         "amountAdjustments": -72662.91
       },
       {
         "stateCode": "RJ",
-        "amountNet": 5016330.08,
-        "amountGross": 5209444.96,
+        "amountNet": 5048805.08,
+        "amountGross": 5241919.96,
         "amountAdjustments": -193114.88
       },
       {
@@ -121,8 +121,8 @@
       },
       {
         "stateCode": "PE",
-        "amountNet": 3440067.61,
-        "amountGross": 3530174.57,
+        "amountNet": 3441302.25,
+        "amountGross": 3531409.21,
         "amountAdjustments": -90106.96
       },
       {
@@ -157,69 +157,57 @@
       }
     ],
     "concentrationTop10": {
-      "amountNet": 2166600.19,
-      "percent": 3.51
+      "amountNet": 2196600.19,
+      "percent": 3.56
     },
     "averages": {
-      "perEntityWithSpending": 120927.21,
-      "perRecord": 1193.82
+      "perEntityWithSpending": 121028.86,
+      "perRecord": 1194.41
     },
     "dailyTotals": {
-      "referenceDate": "2026-05-28",
-      "amountNet": 735.71,
-      "previousAmountNet": 48701.22,
-      "deltaAmountNet": -47965.51,
-      "deltaPercent": -98.49,
+      "referenceDate": "2026-06-02",
+      "amountNet": 3993.0,
+      "previousAmountNet": 45376.98,
+      "deltaAmountNet": -41383.98,
+      "deltaPercent": -91.2,
       "deltaDirection": "down",
       "trend7d": [
         {
-          "date": "2026-05-22",
-          "amountNet": 42419.43
-        },
-        {
-          "date": "2026-05-23",
-          "amountNet": 22463.75
-        },
-        {
-          "date": "2026-05-24",
-          "amountNet": 15310.26
-        },
-        {
-          "date": "2026-05-25",
-          "amountNet": 29162.3
-        },
-        {
-          "date": "2026-05-26",
-          "amountNet": 45275.34
+          "date": "2026-05-19",
+          "amountNet": 175.94
         },
         {
           "date": "2026-05-27",
-          "amountNet": 48701.22
+          "amountNet": 2475.0
         },
         {
-          "date": "2026-05-28",
-          "amountNet": 735.71
+          "date": "2026-06-01",
+          "amountNet": 45376.98
+        },
+        {
+          "date": "2026-06-02",
+          "amountNet": 3993.0
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-05-28",
+      "referenceDate": "2026-06-02",
       "entity": {
-        "id": 220558,
-        "name": "Zé Trovão",
-        "stateCode": "SC",
-        "party": "PL",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220558.jpg",
+        "id": 220592,
+        "name": "Zezinho Barbary",
+        "stateCode": "AC",
+        "party": "PP",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220592.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 735.71,
+      "amountNet": 3193.0,
       "category": "COMBUSTIVEL",
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "AUTO POSTO AG8 LTDA",
+      "supplier": "REDE COMERCIO DE PETROLEO LTDA",
       "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8106721"
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8109665"
     }
   }
 }
