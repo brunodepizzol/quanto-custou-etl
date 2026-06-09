@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-06",
-    "generatedAt": "2026-06-08T08:28:49.196545Z",
+    "generatedAt": "2026-06-09T07:03:47.285359Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 52020.92,
-    "amountGross": 52020.92,
+    "amountNet": 64085.8,
+    "amountGross": 64085.8,
     "amountAdjustments": 0.0,
-    "recordsCount": 19,
+    "recordsCount": 25,
     "entitiesCount": 512,
-    "entitiesWithSpending": 10,
-    "entitiesWithoutSpending": 502
+    "entitiesWithSpending": 16,
+    "entitiesWithoutSpending": 496
   },
   "highlights": {
     "topSpender": {
@@ -29,14 +29,14 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 43867.0,
-        "amountGross": 43867.0,
+        "amountNet": 55367.0,
+        "amountGross": 55367.0,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 5502.98,
-        "amountGross": 5502.98,
+        "amountNet": 6067.86,
+        "amountGross": 6067.86,
         "amountAdjustments": 0.0
       },
       {
@@ -85,8 +85,8 @@
     "topStates": [
       {
         "stateCode": "RJ",
-        "amountNet": 32475.0,
-        "amountGross": 32475.0,
+        "amountNet": 38739.84,
+        "amountGross": 38739.84,
         "amountAdjustments": 0.0
       },
       {
@@ -96,9 +96,21 @@
         "amountAdjustments": 0.0
       },
       {
+        "stateCode": "MG",
+        "amountNet": 3225.02,
+        "amountGross": 3225.02,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 2500.0,
+        "amountGross": 2500.0,
+        "amountAdjustments": 0.0
+      },
+      {
         "stateCode": "PE",
-        "amountNet": 1234.64,
-        "amountGross": 1234.64,
+        "amountNet": 1334.68,
+        "amountGross": 1334.68,
         "amountAdjustments": 0.0
       },
       {
@@ -108,15 +120,15 @@
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "DF",
-        "amountNet": 244.45,
-        "amountGross": 244.45,
+        "stateCode": "ES",
+        "amountNet": 300.0,
+        "amountGross": 300.0,
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "MG",
-        "amountNet": 225.02,
-        "amountGross": 225.02,
+        "stateCode": "DF",
+        "amountNet": 244.45,
+        "amountGross": 244.45,
         "amountAdjustments": 0.0
       },
       {
@@ -124,29 +136,23 @@
         "amountNet": 175.94,
         "amountGross": 175.94,
         "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "ES",
-        "amountNet": 100.0,
-        "amountGross": 100.0,
-        "amountAdjustments": 0.0
       }
     ],
     "concentrationTop10": {
-      "amountNet": 52020.92,
-      "percent": 100.0
+      "amountNet": 63137.93,
+      "percent": 98.52
     },
     "averages": {
-      "perEntityWithSpending": 5202.09,
-      "perRecord": 2737.94
+      "perEntityWithSpending": 4005.36,
+      "perRecord": 2563.43
     },
     "dailyTotals": {
-      "referenceDate": "2026-06-02",
-      "amountNet": 3993.0,
-      "previousAmountNet": 45376.98,
-      "deltaAmountNet": -41383.98,
-      "deltaPercent": -91.2,
-      "deltaDirection": "down",
+      "referenceDate": "2026-06-05",
+      "amountNet": 11500.0,
+      "previousAmountNet": 3993.0,
+      "deltaAmountNet": 7507.0,
+      "deltaPercent": 188.0,
+      "deltaDirection": "up",
       "trend7d": [
         {
           "date": "2026-05-19",
@@ -158,32 +164,36 @@
         },
         {
           "date": "2026-06-01",
-          "amountNet": 45376.98
+          "amountNet": 45941.86
         },
         {
           "date": "2026-06-02",
           "amountNet": 3993.0
+        },
+        {
+          "date": "2026-06-05",
+          "amountNet": 11500.0
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-06-02",
+      "referenceDate": "2026-06-05",
       "entity": {
-        "id": 220592,
-        "name": "Zezinho Barbary",
-        "stateCode": "AC",
-        "party": "PP",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220592.jpg",
+        "id": 220603,
+        "name": "Dani Cunha",
+        "stateCode": "RJ",
+        "party": "PL",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220603.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 3193.0,
-      "category": "COMBUSTIVEL",
-      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "REDE COMERCIO DE PETROLEO LTDA",
-      "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8109665"
+      "amountNet": 6000.0,
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "54.115.147 LOUISE CURITIBA DE CARVALHO FURTADO",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3523/2026/8111243.pdf"
     }
   }
 }

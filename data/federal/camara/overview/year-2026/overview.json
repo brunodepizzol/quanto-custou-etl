@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "year-2026",
-    "generatedAt": "2026-06-08T08:28:49.289592Z",
+    "generatedAt": "2026-06-09T07:03:47.375408Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 61724720.07,
-    "amountGross": 63189891.27,
+    "amountNet": 61736784.95,
+    "amountGross": 63201956.15,
     "amountAdjustments": -1465171.2,
-    "recordsCount": 51678,
-    "entitiesCount": 519,
+    "recordsCount": 51684,
+    "entitiesCount": 520,
     "entitiesWithSpending": 510,
-    "entitiesWithoutSpending": 9
+    "entitiesWithoutSpending": 10
   },
   "highlights": {
     "topSpender": {
@@ -29,8 +29,8 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 26040784.53,
-        "amountGross": 26040784.53,
+        "amountNet": 26052284.53,
+        "amountGross": 26052284.53,
         "amountAdjustments": 0.0
       },
       {
@@ -47,8 +47,8 @@
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 7048622.94,
-        "amountGross": 7048622.94,
+        "amountNet": 7049187.82,
+        "amountGross": 7049187.82,
         "amountAdjustments": 0.0
       },
       {
@@ -91,14 +91,14 @@
       },
       {
         "stateCode": "MG",
-        "amountNet": 6152199.88,
-        "amountGross": 6224862.79,
+        "amountNet": 6155199.88,
+        "amountGross": 6227862.79,
         "amountAdjustments": -72662.91
       },
       {
         "stateCode": "RJ",
-        "amountNet": 5048805.08,
-        "amountGross": 5241919.96,
+        "amountNet": 5055069.92,
+        "amountGross": 5248184.8,
         "amountAdjustments": -193114.88
       },
       {
@@ -121,14 +121,14 @@
       },
       {
         "stateCode": "PE",
-        "amountNet": 3441302.25,
-        "amountGross": 3531409.21,
+        "amountNet": 3441402.29,
+        "amountGross": 3531509.25,
         "amountAdjustments": -90106.96
       },
       {
         "stateCode": "CE",
-        "amountNet": 2503893.83,
-        "amountGross": 2582232.11,
+        "amountNet": 2506393.83,
+        "amountGross": 2584732.11,
         "amountAdjustments": -78338.28
       },
       {
@@ -161,16 +161,16 @@
       "percent": 3.56
     },
     "averages": {
-      "perEntityWithSpending": 121028.86,
-      "perRecord": 1194.41
+      "perEntityWithSpending": 121052.52,
+      "perRecord": 1194.5
     },
     "dailyTotals": {
-      "referenceDate": "2026-06-02",
-      "amountNet": 3993.0,
-      "previousAmountNet": 45376.98,
-      "deltaAmountNet": -41383.98,
-      "deltaPercent": -91.2,
-      "deltaDirection": "down",
+      "referenceDate": "2026-06-05",
+      "amountNet": 11500.0,
+      "previousAmountNet": 3993.0,
+      "deltaAmountNet": 7507.0,
+      "deltaPercent": 188.0,
+      "deltaDirection": "up",
       "trend7d": [
         {
           "date": "2026-05-19",
@@ -182,32 +182,36 @@
         },
         {
           "date": "2026-06-01",
-          "amountNet": 45376.98
+          "amountNet": 45941.86
         },
         {
           "date": "2026-06-02",
           "amountNet": 3993.0
+        },
+        {
+          "date": "2026-06-05",
+          "amountNet": 11500.0
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-06-02",
+      "referenceDate": "2026-06-05",
       "entity": {
-        "id": 220592,
-        "name": "Zezinho Barbary",
-        "stateCode": "AC",
-        "party": "PP",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220592.jpg",
+        "id": 220603,
+        "name": "Dani Cunha",
+        "stateCode": "RJ",
+        "party": "PL",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220603.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 3193.0,
-      "category": "COMBUSTIVEL",
-      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "REDE COMERCIO DE PETROLEO LTDA",
-      "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8109665"
+      "amountNet": 6000.0,
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "54.115.147 LOUISE CURITIBA DE CARVALHO FURTADO",
+      "documentType": "Nota Fiscal",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3523/2026/8111243.pdf"
     }
   }
 }
