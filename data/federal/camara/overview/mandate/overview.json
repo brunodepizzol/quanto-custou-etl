@@ -3,14 +3,14 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "mandate",
-    "generatedAt": "2026-06-09T07:03:47.756124Z",
+    "generatedAt": "2026-06-10T07:23:21.077774Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 744605538.51,
-    "amountGross": 777254251.05,
+    "amountNet": 744686412.22,
+    "amountGross": 777335124.76,
     "amountAdjustments": -32648712.54,
-    "recordsCount": 657229,
+    "recordsCount": 657255,
     "entitiesCount": 547,
     "entitiesWithSpending": 536,
     "entitiesWithoutSpending": 11
@@ -29,8 +29,8 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 293022424.55,
-        "amountGross": 293022424.55,
+        "amountNet": 293097424.55,
+        "amountGross": 293097424.55,
         "amountAdjustments": 0.0
       },
       {
@@ -41,14 +41,14 @@
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 104909470.06,
-        "amountGross": 104909470.06,
+        "amountNet": 104909550.14,
+        "amountGross": 104909550.14,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 65474878.29,
-        "amountGross": 65474878.29,
+        "amountNet": 65480671.92,
+        "amountGross": 65480671.92,
         "amountAdjustments": 0.0
       },
       {
@@ -85,38 +85,38 @@
     "topStates": [
       {
         "stateCode": "SP",
-        "amountNet": 91787840.03,
-        "amountGross": 95852583.98,
+        "amountNet": 91788137.29,
+        "amountGross": 95852881.24,
         "amountAdjustments": -4064743.95
       },
       {
         "stateCode": "MG",
-        "amountNet": 77986434.17,
-        "amountGross": 80067587.38,
+        "amountNet": 77987101.24,
+        "amountGross": 80068254.45,
         "amountAdjustments": -2081153.21
       },
       {
         "stateCode": "RJ",
-        "amountNet": 60902408.81,
-        "amountGross": 64846106.25,
+        "amountNet": 60903381.86,
+        "amountGross": 64847079.3,
         "amountAdjustments": -3943697.44
       },
       {
         "stateCode": "BA",
-        "amountNet": 59553401.48,
-        "amountGross": 62565013.4,
+        "amountNet": 59553568.88,
+        "amountGross": 62565180.8,
         "amountAdjustments": -3011611.92
       },
       {
         "stateCode": "RS",
-        "amountNet": 47594634.3,
-        "amountGross": 50228052.5,
+        "amountNet": 47595627.05,
+        "amountGross": 50229045.25,
         "amountAdjustments": -2633418.2
       },
       {
         "stateCode": "PR",
-        "amountNet": 45080570.42,
-        "amountGross": 46881038.22,
+        "amountNet": 45081568.27,
+        "amountGross": 46882036.07,
         "amountAdjustments": -1800467.8
       },
       {
@@ -145,31 +145,31 @@
       },
       {
         "stateCode": "MA",
-        "amountNet": 22197123.92,
-        "amountGross": 23240279.34,
+        "amountNet": 22272123.92,
+        "amountGross": 23315279.34,
         "amountAdjustments": -1043155.42
       },
       {
         "stateCode": "SC",
-        "amountNet": 21762025.95,
-        "amountGross": 22812103.17,
+        "amountNet": 21762329.0,
+        "amountGross": 22812406.22,
         "amountAdjustments": -1050077.22
       }
     ],
     "concentrationTop10": {
-      "amountNet": 19708949.96,
+      "amountNet": 19736349.74,
       "percent": 2.65
     },
     "averages": {
-      "perEntityWithSpending": 1389189.44,
-      "perRecord": 1132.95
+      "perEntityWithSpending": 1389340.32,
+      "perRecord": 1133.03
     },
     "dailyTotals": {
       "referenceDate": "2026-06-05",
       "amountNet": 11500.0,
-      "previousAmountNet": 3993.0,
-      "deltaAmountNet": 7507.0,
-      "deltaPercent": 188.0,
+      "previousAmountNet": 141.26,
+      "deltaAmountNet": 11358.74,
+      "deltaPercent": 8041.02,
       "deltaDirection": "up",
       "trend7d": [
         {
@@ -182,11 +182,19 @@
         },
         {
           "date": "2026-06-01",
-          "amountNet": 45941.86
+          "amountNet": 50752.17
         },
         {
           "date": "2026-06-02",
-          "amountNet": 3993.0
+          "amountNet": 4835.06
+        },
+        {
+          "date": "2026-06-03",
+          "amountNet": 75080.08
+        },
+        {
+          "date": "2026-06-04",
+          "amountNet": 141.26
         },
         {
           "date": "2026-06-05",
