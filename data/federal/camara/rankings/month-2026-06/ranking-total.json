@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-06",
-    "generatedAt": "2026-06-11T08:21:02.513728Z",
+    "generatedAt": "2026-06-12T08:07:27.475579Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -14,6 +14,16 @@
       "party": "MDB",
       "amountNet": 75000.0,
       "amountGross": 75000.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 98057,
+      "name": "Lafayette de Andrada",
+      "stateCode": "MG",
+      "party": "PL",
+      "amountNet": 35420.0,
+      "amountGross": 35420.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -38,6 +48,26 @@
       "recordsCount": 7
     },
     {
+      "id": 204504,
+      "name": "Cezinha de Madureira",
+      "stateCode": "SP",
+      "party": "PL",
+      "amountNet": 8548.08,
+      "amountGross": 8548.08,
+      "amountAdjustments": 0.0,
+      "recordsCount": 5
+    },
+    {
+      "id": 235620,
+      "name": "Ilacir Bicalho",
+      "stateCode": "MG",
+      "party": "REPUBLICANOS",
+      "amountNet": 7000.0,
+      "amountGross": 7000.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
+    },
+    {
       "id": 220603,
       "name": "Dani Cunha",
       "stateCode": "RJ",
@@ -48,64 +78,34 @@
       "recordsCount": 1
     },
     {
-      "id": 204426,
-      "name": "Carlos Veras",
-      "stateCode": "PE",
-      "party": "PT",
-      "amountNet": 4034.69,
-      "amountGross": 4034.69,
+      "id": 204364,
+      "name": "Eli Borges",
+      "stateCode": "TO",
+      "party": "REPUBLICANOS",
+      "amountNet": 5496.15,
+      "amountGross": 5496.15,
       "amountAdjustments": 0.0,
-      "recordsCount": 16
+      "recordsCount": 17
     },
     {
-      "id": 220682,
-      "name": "Tadeu Veneri",
-      "stateCode": "PR",
-      "party": "PT",
-      "amountNet": 3844.0,
-      "amountGross": 3844.0,
+      "id": 204511,
+      "name": "David Soares",
+      "stateCode": "SP",
+      "party": "PODE",
+      "amountNet": 4506.97,
+      "amountGross": 4506.97,
       "amountAdjustments": 0.0,
-      "recordsCount": 1
+      "recordsCount": 2
     },
     {
-      "id": 178835,
-      "name": "Afonso Motta",
-      "stateCode": "RS",
-      "party": "PDT",
-      "amountNet": 3163.86,
-      "amountGross": 3163.86,
-      "amountAdjustments": 0.0,
-      "recordsCount": 7
-    },
-    {
-      "id": 160518,
-      "name": "Weliton Prado",
-      "stateCode": "MG",
-      "party": "PSD",
-      "amountNet": 3000.0,
-      "amountGross": 3000.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 230767,
-      "name": "Rodrigo da Zaeli",
-      "stateCode": "MT",
-      "party": "PL",
-      "amountNet": 2708.57,
-      "amountGross": 2708.57,
-      "amountAdjustments": 0.0,
-      "recordsCount": 10
-    },
-    {
-      "id": 220617,
-      "name": "Murillo Gouvea",
+      "id": 204460,
+      "name": "Carlos Jordy",
       "stateCode": "RJ",
-      "party": "PSDB",
-      "amountNet": 2567.43,
-      "amountGross": 2567.43,
+      "party": "PL",
+      "amountNet": 4094.72,
+      "amountGross": 4094.72,
       "amountAdjustments": 0.0,
-      "recordsCount": 5
+      "recordsCount": 14
     }
   ],
   "bottom": [
@@ -126,6 +126,26 @@
       "party": "PSD",
       "amountNet": 96.99,
       "amountGross": 96.99,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 204491,
+      "name": "Gilberto Abramo",
+      "stateCode": "MG",
+      "party": "REPUBLICANOS",
+      "amountNet": 100.0,
+      "amountGross": 100.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220527,
+      "name": "Jack Rocha",
+      "stateCode": "ES",
+      "party": "PT",
+      "amountNet": 100.0,
+      "amountGross": 100.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -188,26 +208,6 @@
       "amountGross": 150.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 141450,
-      "name": "Hugo Leal",
-      "stateCode": "RJ",
-      "party": "PSD",
-      "amountNet": 150.0,
-      "amountGross": 150.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 178947,
-      "name": "Sóstenes Cavalcante",
-      "stateCode": "RJ",
-      "party": "PL",
-      "amountNet": 150.0,
-      "amountGross": 150.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 2
     }
   ]
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 235620,
-    "generatedAt": "2026-06-11T08:21:03.546006Z",
+    "generatedAt": "2026-06-12T08:07:28.468110Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,17 +15,17 @@
     "slug": "ilacir-bicalho"
   },
   "mandateTotals": {
-    "amountNet": 11155.35,
-    "amountGross": 11155.35,
+    "amountNet": 18155.35,
+    "amountGross": 18155.35,
     "amountAdjustments": 0.0,
-    "recordsCount": 4,
+    "recordsCount": 6,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 6535.35,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 4500.0,
+      "DIVULGACAO": 11500.0,
       "ESCRITORIO": 120.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -36,7 +36,7 @@
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 4500.0,
+      "DIVULGACAO": 11500.0,
       "ESCRITORIO": 120.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -54,7 +54,7 @@
     }
   },
   "yearTotals": {
-    "2026": 11155.35
+    "2026": 18155.35
   },
   "monthTotals": {
     "2026-01": 0.0,
@@ -62,11 +62,11 @@
     "2026-03": 0.0,
     "2026-04": 120.0,
     "2026-05": 11035.35,
-    "2026-06": 0.0
+    "2026-06": 7000.0
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 6535.35,
-    "percent": 58.58
+    "category": "DIVULGACAO",
+    "amountNet": 11500.0,
+    "percent": 63.34
   }
 }
