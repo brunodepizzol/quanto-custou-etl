@@ -2,8 +2,8 @@
   "meta": {
     "scope": "federal/camara",
     "type": "home-insights",
-    "generatedAt": "2026-06-12T08:07:27.911416Z",
-    "freshUntil": "2026-06-13T08:07:27.911416Z",
+    "generatedAt": "2026-06-13T07:11:44.586300Z",
+    "freshUntil": "2026-06-14T07:11:44.586300Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
@@ -19,18 +19,18 @@
       "enabled": true,
       "priority": 100,
       "weight": 1.0,
-      "generatedAt": "2026-06-12T08:07:27.911416Z",
-      "freshUntil": "2026-06-13T08:07:27.911416Z",
+      "generatedAt": "2026-06-13T07:11:44.586300Z",
+      "freshUntil": "2026-06-14T07:11:44.586300Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 744891655.49,
+        "amount": 744889180.49,
         "currency": "BRL"
       },
       "tags": [
         "Dados federais"
       ],
-      "referenceDate": "657785 lançamentos no período",
-      "variationText": "Base: 551 • Com gasto: 538 • Sem gasto: 13"
+      "referenceDate": "657784 lançamentos no período",
+      "variationText": "Base: 552 • Com gasto: 538 • Sem gasto: 14"
     },
     {
       "id": "federal-deputies-mandate-top-spender",
@@ -44,8 +44,8 @@
       "enabled": true,
       "priority": 95,
       "weight": 0.95,
-      "generatedAt": "2026-06-12T08:07:27.911416Z",
-      "freshUntil": "2026-06-13T08:07:27.911416Z",
+      "generatedAt": "2026-06-13T07:11:44.586300Z",
+      "freshUntil": "2026-06-14T07:11:44.586300Z",
       "qualityScore": 1.0,
       "entity": {
         "id": 73486,
@@ -60,7 +60,7 @@
         "currency": "BRL"
       },
       "referenceDate": "Deputado com maior gasto no mandato",
-      "variationText": "Base: 551 • Com gasto: 538"
+      "variationText": "Base: 552 • Com gasto: 538"
     },
     {
       "id": "federal-deputies-mandate-top10-concentration",
@@ -74,19 +74,19 @@
       "enabled": true,
       "priority": 92,
       "weight": 0.9,
-      "generatedAt": "2026-06-12T08:07:27.911416Z",
-      "freshUntil": "2026-06-13T08:07:27.911416Z",
+      "generatedAt": "2026-06-13T07:11:44.586300Z",
+      "freshUntil": "2026-06-14T07:11:44.586300Z",
       "qualityScore": 1.0,
       "left": {
         "amount": 19739995.39,
         "currency": "BRL"
       },
       "right": {
-        "amount": 744891655.49,
+        "amount": 744889180.49,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -725151660.1,
+        "amount": -725149185.1,
         "percent": 2.65,
         "direction": "up"
       },
@@ -108,8 +108,8 @@
       "enabled": true,
       "priority": 90,
       "weight": 0.88,
-      "generatedAt": "2026-06-12T08:07:27.911416Z",
-      "freshUntil": "2026-06-13T08:07:27.911416Z",
+      "generatedAt": "2026-06-13T07:11:44.586300Z",
+      "freshUntil": "2026-06-14T07:11:44.586300Z",
       "qualityScore": 1.0,
       "value": {
         "amount": 8140.38,
@@ -119,7 +119,7 @@
         "Movimento do dia"
       ],
       "referenceDate": "2026-06-10",
-      "variationText": "Base: 551 • Com gasto: 538"
+      "variationText": "Base: 552 • Com gasto: 538"
     },
     {
       "id": "federal-deputies-day-top-spender",
@@ -133,8 +133,8 @@
       "enabled": true,
       "priority": 89,
       "weight": 0.86,
-      "generatedAt": "2026-06-12T08:07:27.911416Z",
-      "freshUntil": "2026-06-13T08:07:27.911416Z",
+      "generatedAt": "2026-06-13T07:11:44.586300Z",
+      "freshUntil": "2026-06-14T07:11:44.586300Z",
       "qualityScore": 1.0,
       "entity": {
         "id": 204460,
@@ -163,8 +163,8 @@
       "enabled": true,
       "priority": 85,
       "weight": 0.82,
-      "generatedAt": "2026-06-12T08:07:27.911416Z",
-      "freshUntil": "2026-06-13T08:07:27.911416Z",
+      "generatedAt": "2026-06-13T07:11:44.586300Z",
+      "freshUntil": "2026-06-14T07:11:44.586300Z",
       "qualityScore": 1.0,
       "left": {
         "amount": 8140.38,
@@ -197,8 +197,8 @@
       "enabled": true,
       "priority": 82,
       "weight": 0.78,
-      "generatedAt": "2026-06-12T08:07:27.911416Z",
-      "freshUntil": "2026-06-13T08:07:27.911416Z",
+      "generatedAt": "2026-06-13T07:11:44.586300Z",
+      "freshUntil": "2026-06-14T07:11:44.586300Z",
       "qualityScore": 1.0,
       "value": {
         "amount": 293149165.22,
@@ -222,8 +222,8 @@
       "enabled": true,
       "priority": 80,
       "weight": 0.76,
-      "generatedAt": "2026-06-12T08:07:27.911416Z",
-      "freshUntil": "2026-06-13T08:07:27.911416Z",
+      "generatedAt": "2026-06-13T07:11:44.586300Z",
+      "freshUntil": "2026-06-14T07:11:44.586300Z",
       "qualityScore": 1.0,
       "value": {
         "amount": 91805799.58,
@@ -247,18 +247,18 @@
       "enabled": true,
       "priority": 78,
       "weight": 0.72,
-      "generatedAt": "2026-06-12T08:07:27.911416Z",
-      "freshUntil": "2026-06-13T08:07:27.911416Z",
+      "generatedAt": "2026-06-13T07:11:44.586300Z",
+      "freshUntil": "2026-06-14T07:11:44.586300Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 1384556.98,
+        "amount": 1384552.38,
         "currency": "BRL"
       },
       "tags": [
         "Média por agente"
       ],
       "referenceDate": "538 deputados com gasto no período",
-      "variationText": "Montante: R$ 744.891.655,49"
+      "variationText": "Montante: R$ 744.889.180,49"
     },
     {
       "id": "federal-deputies-day-top-share",
@@ -272,8 +272,8 @@
       "enabled": true,
       "priority": 74,
       "weight": 0.68,
-      "generatedAt": "2026-06-12T08:07:27.911416Z",
-      "freshUntil": "2026-06-13T08:07:27.911416Z",
+      "generatedAt": "2026-06-13T07:11:44.586300Z",
+      "freshUntil": "2026-06-14T07:11:44.586300Z",
       "qualityScore": 1.0,
       "left": {
         "amount": 891.4,
@@ -306,8 +306,8 @@
       "enabled": true,
       "priority": 72,
       "weight": 0.66,
-      "generatedAt": "2026-06-12T08:07:27.911416Z",
-      "freshUntil": "2026-06-13T08:07:27.911416Z",
+      "generatedAt": "2026-06-13T07:11:44.586300Z",
+      "freshUntil": "2026-06-14T07:11:44.586300Z",
       "qualityScore": 1.0,
       "tags": [
         "Totais diários"

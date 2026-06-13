@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-06",
-    "generatedAt": "2026-06-12T08:07:27.468921Z",
+    "generatedAt": "2026-06-13T07:11:44.116706Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 350202.78,
-    "amountGross": 350202.78,
+    "amountNet": 347727.78,
+    "amountGross": 347727.78,
     "amountAdjustments": 0.0,
-    "recordsCount": 581,
+    "recordsCount": 580,
     "entitiesCount": 513,
-    "entitiesWithSpending": 184,
-    "entitiesWithoutSpending": 329
+    "entitiesWithSpending": 183,
+    "entitiesWithoutSpending": 330
   },
   "highlights": {
     "topSpender": {
@@ -52,12 +52,6 @@
         "amountAdjustments": 0.0
       },
       {
-        "category": "DESLOCAMENTO",
-        "amountNet": 2475.0,
-        "amountGross": 2475.0,
-        "amountAdjustments": 0.0
-      },
-      {
         "category": "ALIMENTACAO",
         "amountNet": 338.64,
         "amountGross": 338.64,
@@ -71,6 +65,12 @@
       },
       {
         "category": "CORREIOS_TELEFONIA",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
@@ -91,8 +91,8 @@
       },
       {
         "stateCode": "RJ",
-        "amountNet": 63699.19,
-        "amountGross": 63699.19,
+        "amountNet": 61224.19,
+        "amountGross": 61224.19,
         "amountAdjustments": 0.0
       },
       {
@@ -158,11 +158,11 @@
     ],
     "concentrationTop10": {
       "amountNet": 193178.49,
-      "percent": 55.16
+      "percent": 55.55
     },
     "averages": {
-      "perEntityWithSpending": 1903.28,
-      "perRecord": 602.76
+      "perEntityWithSpending": 1900.15,
+      "perRecord": 599.53
     },
     "dailyTotals": {
       "referenceDate": "2026-06-10",
