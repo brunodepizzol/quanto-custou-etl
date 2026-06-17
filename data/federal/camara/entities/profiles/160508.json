@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160508,
-    "generatedAt": "2026-06-15T09:42:05.038947Z",
+    "generatedAt": "2026-06-17T08:43:00.084268Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,17 +15,17 @@
     "slug": "afonso-florence"
   },
   "mandateTotals": {
-    "amountNet": 14564.89,
-    "amountGross": 14564.89,
+    "amountNet": 46564.89,
+    "amountGross": 46564.89,
     "amountAdjustments": 0.0,
-    "recordsCount": 16,
+    "recordsCount": 18,
     "byCategoryNet": {
       "ALIMENTACAO": 268.74,
       "COMBUSTIVEL": 1950.15,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 12000.0,
-      "DIVULGACAO": 0.0,
+      "DIVULGACAO": 32000.0,
       "ESCRITORIO": 26.0,
       "HOSPEDAGEM": 320.0,
       "OUTROS": 0.0
@@ -36,7 +36,7 @@
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 12000.0,
-      "DIVULGACAO": 0.0,
+      "DIVULGACAO": 32000.0,
       "ESCRITORIO": 26.0,
       "HOSPEDAGEM": 320.0,
       "OUTROS": 0.0
@@ -54,7 +54,7 @@
     }
   },
   "yearTotals": {
-    "2026": 14564.89
+    "2026": 46564.89
   },
   "monthTotals": {
     "2026-01": 0.0,
@@ -62,11 +62,11 @@
     "2026-03": 0.0,
     "2026-04": 976.89,
     "2026-05": 13588.0,
-    "2026-06": 0.0
+    "2026-06": 32000.0
   },
   "topCategory": {
-    "category": "DESLOCAMENTO",
-    "amountNet": 12000.0,
-    "percent": 82.39
+    "category": "DIVULGACAO",
+    "amountNet": 32000.0,
+    "percent": 68.72
   }
 }

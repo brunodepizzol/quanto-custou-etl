@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-06-15T09:42:04.240793Z",
+    "generatedAt": "2026-06-17T08:42:59.306441Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -88,6 +88,16 @@
       "recordsCount": 38
     },
     {
+      "id": 204406,
+      "name": "Pedro Westphalen",
+      "stateCode": "RS",
+      "party": "PP",
+      "amountNet": 205944.72,
+      "amountGross": 208300.7,
+      "amountAdjustments": -2355.98,
+      "recordsCount": 322
+    },
+    {
       "id": 204426,
       "name": "Carlos Veras",
       "stateCode": "PE",
@@ -96,16 +106,6 @@
       "amountGross": 208440.95,
       "amountAdjustments": -3178.89,
       "recordsCount": 319
-    },
-    {
-      "id": 224117,
-      "name": "Gabriel Mota",
-      "stateCode": "RR",
-      "party": "UNIÃO",
-      "amountNet": 205000.0,
-      "amountGross": 210720.87,
-      "amountAdjustments": -5720.87,
-      "recordsCount": 15
     }
   ],
   "bottom": [
@@ -120,16 +120,6 @@
       "recordsCount": 2
     },
     {
-      "id": 220659,
-      "name": "Dayany Bittencourt",
-      "stateCode": "CE",
-      "party": "UNIÃO",
-      "amountNet": 602.68,
-      "amountGross": 602.68,
-      "amountAdjustments": 0.0,
-      "recordsCount": 3
-    },
-    {
       "id": 220637,
       "name": "Marina Silva",
       "stateCode": "SP",
@@ -140,24 +130,24 @@
       "recordsCount": 4
     },
     {
+      "id": 115200,
+      "name": "Raniery Paulino",
+      "stateCode": "PB",
+      "party": "REPUBLICANOS",
+      "amountNet": 853.03,
+      "amountGross": 853.03,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
+    },
+    {
       "id": 160621,
       "name": "Sandro Alex",
       "stateCode": "PR",
       "party": "PSD",
-      "amountNet": 908.69,
-      "amountGross": 908.69,
+      "amountNet": 1159.69,
+      "amountGross": 1159.69,
       "amountAdjustments": 0.0,
-      "recordsCount": 3
-    },
-    {
-      "id": 220660,
-      "name": "Yury do Paredão",
-      "stateCode": "CE",
-      "party": "MDB",
-      "amountNet": 986.55,
-      "amountGross": 986.55,
-      "amountAdjustments": 0.0,
-      "recordsCount": 2
+      "recordsCount": 4
     },
     {
       "id": 235776,
@@ -174,20 +164,30 @@
       "name": "Marcos Braz",
       "stateCode": "RJ",
       "party": "PSDB",
-      "amountNet": 1457.82,
-      "amountGross": 1457.82,
+      "amountNet": 1557.74,
+      "amountGross": 1557.74,
       "amountAdjustments": 0.0,
-      "recordsCount": 4
+      "recordsCount": 5
+    },
+    {
+      "id": 220660,
+      "name": "Yury do Paredão",
+      "stateCode": "CE",
+      "party": "MDB",
+      "amountNet": 1887.01,
+      "amountGross": 1887.01,
+      "amountAdjustments": 0.0,
+      "recordsCount": 5
     },
     {
       "id": 235712,
       "name": "Vavá",
       "stateCode": "MG",
       "party": "AVANTE",
-      "amountNet": 2071.86,
-      "amountGross": 2071.86,
+      "amountNet": 2126.86,
+      "amountGross": 2126.86,
       "amountAdjustments": 0.0,
-      "recordsCount": 9
+      "recordsCount": 10
     },
     {
       "id": 233592,
@@ -200,14 +200,14 @@
       "recordsCount": 17
     },
     {
-      "id": 204558,
-      "name": "Marcelo Nilo",
-      "stateCode": "BA",
-      "party": "REPUBLICANOS",
-      "amountNet": 2757.94,
-      "amountGross": 2757.94,
+      "id": 220659,
+      "name": "Dayany Bittencourt",
+      "stateCode": "CE",
+      "party": "UNIÃO",
+      "amountNet": 2458.88,
+      "amountGross": 2458.88,
       "amountAdjustments": 0.0,
-      "recordsCount": 15
+      "recordsCount": 10
     }
   ]
 }
