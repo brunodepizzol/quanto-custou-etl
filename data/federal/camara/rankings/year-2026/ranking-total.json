@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-06-17T08:42:59.306441Z",
+    "generatedAt": "2026-06-19T08:45:48.418809Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -22,10 +22,10 @@
       "name": "Marcelo Crivella",
       "stateCode": "RJ",
       "party": "REPUBLICANOS",
-      "amountNet": 238330.37,
-      "amountGross": 238330.37,
+      "amountNet": 238740.15,
+      "amountGross": 238740.15,
       "amountAdjustments": 0.0,
-      "recordsCount": 130
+      "recordsCount": 132
     },
     {
       "id": 220676,
@@ -52,10 +52,40 @@
       "name": "Domingos Neto",
       "stateCode": "CE",
       "party": "PSD",
-      "amountNet": 213901.09,
-      "amountGross": 218050.69,
+      "amountNet": 214067.75,
+      "amountGross": 218217.35,
       "amountAdjustments": -4149.6,
-      "recordsCount": 35
+      "recordsCount": 36
+    },
+    {
+      "id": 220669,
+      "name": "Lula da Fonte",
+      "stateCode": "PE",
+      "party": "PP",
+      "amountNet": 212681.3,
+      "amountGross": 219609.97,
+      "amountAdjustments": -6928.67,
+      "recordsCount": 178
+    },
+    {
+      "id": 224333,
+      "name": "Welter",
+      "stateCode": "PR",
+      "party": "PT",
+      "amountNet": 212368.76,
+      "amountGross": 212368.76,
+      "amountAdjustments": 0.0,
+      "recordsCount": 321
+    },
+    {
+      "id": 220642,
+      "name": "Delegado Bruno Lima",
+      "stateCode": "SP",
+      "party": "PODE",
+      "amountNet": 209558.26,
+      "amountGross": 209644.16,
+      "amountAdjustments": -85.9,
+      "recordsCount": 79
     },
     {
       "id": 220538,
@@ -68,47 +98,27 @@
       "recordsCount": 44
     },
     {
-      "id": 220642,
-      "name": "Delegado Bruno Lima",
-      "stateCode": "SP",
-      "party": "PODE",
-      "amountNet": 209118.83,
-      "amountGross": 209204.73,
-      "amountAdjustments": -85.9,
-      "recordsCount": 78
-    },
-    {
-      "id": 74090,
-      "name": "Átila Lins",
-      "stateCode": "AM",
-      "party": "PSD",
-      "amountNet": 208898.82,
-      "amountGross": 210943.73,
-      "amountAdjustments": -2044.91,
-      "recordsCount": 38
-    },
-    {
       "id": 204406,
       "name": "Pedro Westphalen",
       "stateCode": "RS",
       "party": "PP",
-      "amountNet": 205944.72,
-      "amountGross": 208300.7,
+      "amountNet": 209270.6,
+      "amountGross": 211626.58,
       "amountAdjustments": -2355.98,
-      "recordsCount": 322
-    },
-    {
-      "id": 204426,
-      "name": "Carlos Veras",
-      "stateCode": "PE",
-      "party": "PT",
-      "amountNet": 205262.06,
-      "amountGross": 208440.95,
-      "amountAdjustments": -3178.89,
-      "recordsCount": 319
+      "recordsCount": 339
     }
   ],
   "bottom": [
+    {
+      "id": 236518,
+      "name": "Santin Roveda",
+      "stateCode": "PR",
+      "party": "UNIÃO",
+      "amountNet": 200.0,
+      "amountGross": 200.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
     {
       "id": 178882,
       "name": "André Fufuca",
@@ -130,16 +140,6 @@
       "recordsCount": 4
     },
     {
-      "id": 115200,
-      "name": "Raniery Paulino",
-      "stateCode": "PB",
-      "party": "REPUBLICANOS",
-      "amountNet": 853.03,
-      "amountGross": 853.03,
-      "amountAdjustments": 0.0,
-      "recordsCount": 2
-    },
-    {
       "id": 160621,
       "name": "Sandro Alex",
       "stateCode": "PR",
@@ -158,16 +158,6 @@
       "amountGross": 1367.08,
       "amountAdjustments": 0.0,
       "recordsCount": 7
-    },
-    {
-      "id": 236375,
-      "name": "Marcos Braz",
-      "stateCode": "RJ",
-      "party": "PSDB",
-      "amountNet": 1557.74,
-      "amountGross": 1557.74,
-      "amountAdjustments": 0.0,
-      "recordsCount": 5
     },
     {
       "id": 220660,
@@ -200,14 +190,24 @@
       "recordsCount": 17
     },
     {
-      "id": 220659,
-      "name": "Dayany Bittencourt",
-      "stateCode": "CE",
-      "party": "UNIÃO",
-      "amountNet": 2458.88,
-      "amountGross": 2458.88,
+      "id": 236375,
+      "name": "Marcos Braz",
+      "stateCode": "RJ",
+      "party": "PSDB",
+      "amountNet": 2457.74,
+      "amountGross": 2457.74,
       "amountAdjustments": 0.0,
-      "recordsCount": 10
+      "recordsCount": 8
+    },
+    {
+      "id": 115200,
+      "name": "Raniery Paulino",
+      "stateCode": "PB",
+      "party": "REPUBLICANOS",
+      "amountNet": 2747.92,
+      "amountGross": 2747.92,
+      "amountAdjustments": 0.0,
+      "recordsCount": 8
     }
   ]
 }
