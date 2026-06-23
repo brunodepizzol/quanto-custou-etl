@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-06-22T09:28:41.595905Z",
+    "generatedAt": "2026-06-23T07:05:56.585005Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -22,10 +22,10 @@
       "name": "Marcelo Crivella",
       "stateCode": "RJ",
       "party": "REPUBLICANOS",
-      "amountNet": 239496.26,
-      "amountGross": 239496.26,
+      "amountNet": 239967.76,
+      "amountGross": 239967.76,
       "amountAdjustments": 0.0,
-      "recordsCount": 138
+      "recordsCount": 143
     },
     {
       "id": 220676,
@@ -62,10 +62,10 @@
       "name": "Welter",
       "stateCode": "PR",
       "party": "PT",
-      "amountNet": 212949.23,
-      "amountGross": 212949.23,
+      "amountNet": 213155.95,
+      "amountGross": 213155.95,
       "amountAdjustments": 0.0,
-      "recordsCount": 325
+      "recordsCount": 326
     },
     {
       "id": 220669,
@@ -78,14 +78,24 @@
       "recordsCount": 178
     },
     {
+      "id": 204406,
+      "name": "Pedro Westphalen",
+      "stateCode": "RS",
+      "party": "PP",
+      "amountNet": 210393.88,
+      "amountGross": 212749.86,
+      "amountAdjustments": -2355.98,
+      "recordsCount": 347
+    },
+    {
       "id": 220642,
       "name": "Delegado Bruno Lima",
       "stateCode": "SP",
       "party": "PODE",
-      "amountNet": 209558.26,
-      "amountGross": 209644.16,
+      "amountNet": 209988.26,
+      "amountGross": 210074.16,
       "amountAdjustments": -85.9,
-      "recordsCount": 79
+      "recordsCount": 80
     },
     {
       "id": 220538,
@@ -96,19 +106,19 @@
       "amountGross": 210137.78,
       "amountAdjustments": -747.47,
       "recordsCount": 44
-    },
-    {
-      "id": 204406,
-      "name": "Pedro Westphalen",
-      "stateCode": "RS",
-      "party": "PP",
-      "amountNet": 209270.6,
-      "amountGross": 211626.58,
-      "amountAdjustments": -2355.98,
-      "recordsCount": 339
     }
   ],
   "bottom": [
+    {
+      "id": 152605,
+      "name": "Glauber Braga",
+      "stateCode": "RJ",
+      "party": "PSOL",
+      "amountNet": 100.0,
+      "amountGross": 100.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
     {
       "id": 236518,
       "name": "Santin Roveda",
@@ -140,26 +150,6 @@
       "recordsCount": 4
     },
     {
-      "id": 160621,
-      "name": "Sandro Alex",
-      "stateCode": "PR",
-      "party": "PSD",
-      "amountNet": 1159.69,
-      "amountGross": 1159.69,
-      "amountAdjustments": 0.0,
-      "recordsCount": 4
-    },
-    {
-      "id": 235776,
-      "name": "Sérgio Turra",
-      "stateCode": "RS",
-      "party": "PP",
-      "amountNet": 1367.08,
-      "amountGross": 1367.08,
-      "amountAdjustments": 0.0,
-      "recordsCount": 7
-    },
-    {
       "id": 220660,
       "name": "Yury do Paredão",
       "stateCode": "CE",
@@ -170,6 +160,16 @@
       "recordsCount": 5
     },
     {
+      "id": 235776,
+      "name": "Sérgio Turra",
+      "stateCode": "RS",
+      "party": "PP",
+      "amountNet": 2104.48,
+      "amountGross": 2104.48,
+      "amountAdjustments": 0.0,
+      "recordsCount": 8
+    },
+    {
       "id": 235712,
       "name": "Vavá",
       "stateCode": "MG",
@@ -178,6 +178,16 @@
       "amountGross": 2126.86,
       "amountAdjustments": 0.0,
       "recordsCount": 10
+    },
+    {
+      "id": 160621,
+      "name": "Sandro Alex",
+      "stateCode": "PR",
+      "party": "PSD",
+      "amountNet": 2282.37,
+      "amountGross": 2282.37,
+      "amountAdjustments": 0.0,
+      "recordsCount": 7
     },
     {
       "id": 233592,
@@ -196,16 +206,6 @@
       "party": "PSDB",
       "amountNet": 2457.74,
       "amountGross": 2457.74,
-      "amountAdjustments": 0.0,
-      "recordsCount": 8
-    },
-    {
-      "id": 115200,
-      "name": "Raniery Paulino",
-      "stateCode": "PB",
-      "party": "REPUBLICANOS",
-      "amountNet": 2747.92,
-      "amountGross": 2747.92,
       "amountAdjustments": 0.0,
       "recordsCount": 8
     }
