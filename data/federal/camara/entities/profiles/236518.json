@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 236518,
-    "generatedAt": "2026-06-23T07:05:57.549482Z",
+    "generatedAt": "2026-06-24T07:02:49.696066Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,12 +15,12 @@
     "slug": "santin-roveda"
   },
   "mandateTotals": {
-    "amountNet": 200.0,
-    "amountGross": 200.0,
+    "amountNet": 841.49,
+    "amountGross": 841.49,
     "amountAdjustments": 0.0,
-    "recordsCount": 1,
+    "recordsCount": 10,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
+      "ALIMENTACAO": 641.49,
       "COMBUSTIVEL": 200.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
@@ -31,7 +31,7 @@
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
+      "ALIMENTACAO": 641.49,
       "COMBUSTIVEL": 200.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
@@ -54,14 +54,14 @@
     }
   },
   "yearTotals": {
-    "2026": 200.0
+    "2026": 841.49
   },
   "monthTotals": {
-    "2026-06": 200.0
+    "2026-06": 841.49
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 200.0,
-    "percent": 100.0
+    "category": "ALIMENTACAO",
+    "amountNet": 641.49,
+    "percent": 76.23
   }
 }

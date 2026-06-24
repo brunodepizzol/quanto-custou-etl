@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204566,
-    "generatedAt": "2026-06-23T07:05:57.479805Z",
+    "generatedAt": "2026-06-24T07:02:49.627670Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,18 +15,18 @@
     "slug": "marreca-filho"
   },
   "mandateTotals": {
-    "amountNet": 5945.37,
-    "amountGross": 5945.37,
+    "amountNet": 16355.37,
+    "amountGross": 16355.37,
     "amountAdjustments": 0.0,
-    "recordsCount": 7,
+    "recordsCount": 10,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 4943.62,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": 9460.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "ESCRITORIO": 950.0,
       "HOSPEDAGEM": 1001.75,
       "OUTROS": 0.0
     },
@@ -35,9 +35,9 @@
       "COMBUSTIVEL": 4943.62,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": 9460.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "ESCRITORIO": 950.0,
       "HOSPEDAGEM": 1001.75,
       "OUTROS": 0.0
     },
@@ -54,14 +54,14 @@
     }
   },
   "yearTotals": {
-    "2026": 5945.37
+    "2026": 16355.37
   },
   "monthTotals": {
-    "2026-06": 5945.37
+    "2026-06": 16355.37
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 4943.62,
-    "percent": 83.15
+    "category": "DESLOCAMENTO",
+    "amountNet": 9460.0,
+    "percent": 57.84
   }
 }
