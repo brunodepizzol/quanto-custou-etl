@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-23T07:06:28.626210Z",
+    "generatedAt": "2026-06-24T07:03:16.455351Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
@@ -16,17 +16,17 @@
       "enabled": true,
       "priority": 100,
       "weight": 1.0,
-      "generatedAt": "2026-06-23T07:05:56.962062Z",
-      "freshUntil": "2026-06-24T07:05:56.962062Z",
+      "generatedAt": "2026-06-24T07:02:49.116789Z",
+      "freshUntil": "2026-06-25T07:02:49.116789Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 746312915.58,
+        "amount": 746563464.14,
         "currency": "BRL"
       },
       "tags": [
         "Dados federais"
       ],
-      "referenceDate": "660740 lançamentos no período",
+      "referenceDate": "661227 lançamentos no período",
       "variationText": "Base: 553 • Com gasto: 542 • Sem gasto: 11",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
@@ -47,8 +47,8 @@
       "enabled": true,
       "priority": 95,
       "weight": 0.95,
-      "generatedAt": "2026-06-23T07:05:56.962062Z",
-      "freshUntil": "2026-06-24T07:05:56.962062Z",
+      "generatedAt": "2026-06-24T07:02:49.116789Z",
+      "freshUntil": "2026-06-25T07:02:49.116789Z",
       "qualityScore": 1.0,
       "entity": {
         "id": 73486,
@@ -83,19 +83,19 @@
       "enabled": true,
       "priority": 92,
       "weight": 0.9,
-      "generatedAt": "2026-06-23T07:05:56.962062Z",
-      "freshUntil": "2026-06-24T07:05:56.962062Z",
+      "generatedAt": "2026-06-24T07:02:49.116789Z",
+      "freshUntil": "2026-06-25T07:02:49.116789Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 19758470.99,
+        "amount": 19760114.77,
         "currency": "BRL"
       },
       "right": {
-        "amount": 746312915.58,
+        "amount": 746563464.14,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -726554444.59,
+        "amount": -726803349.37,
         "percent": 2.65,
         "direction": "up"
       },
@@ -103,7 +103,7 @@
         "Top 10 deputados"
       ],
       "referenceDate": "542 deputados com gasto no período",
-      "variationText": "Montante Top 10: R$ 19.758.470,99",
+      "variationText": "Montante Top 10: R$ 19.760.114,77",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -123,17 +123,17 @@
       "enabled": true,
       "priority": 90,
       "weight": 0.88,
-      "generatedAt": "2026-06-23T07:05:56.962062Z",
-      "freshUntil": "2026-06-24T07:05:56.962062Z",
+      "generatedAt": "2026-06-24T07:02:49.116789Z",
+      "freshUntil": "2026-06-25T07:02:49.116789Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 3019.24,
+        "amount": 1580.47,
         "currency": "BRL"
       },
       "tags": [
         "Movimento do dia"
       ],
-      "referenceDate": "2026-06-22",
+      "referenceDate": "2026-06-23",
       "variationText": "Base: 553 • Com gasto: 542",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
@@ -149,28 +149,28 @@
       "period": "day",
       "tag": "MAIOR GASTO DO DIA",
       "title": "Maior gasto no dia mais recente",
-      "context": "Maior despesa líquida no dia 22/06/2026.",
+      "context": "Maior despesa líquida no dia 23/06/2026.",
       "source": "Nível federal • Deputados federais",
       "enabled": true,
       "priority": 89,
       "weight": 0.86,
-      "generatedAt": "2026-06-23T07:05:56.962062Z",
-      "freshUntil": "2026-06-24T07:05:56.962062Z",
+      "generatedAt": "2026-06-24T07:02:49.116789Z",
+      "freshUntil": "2026-06-25T07:02:49.116789Z",
       "qualityScore": 1.0,
       "entity": {
-        "id": 204457,
-        "name": "Juninho do Pneu",
-        "party": "PSDB",
-        "stateCode": "RJ",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204457.jpg",
-        "subtitle": "Deputado federal • PSDB/RJ"
+        "id": 204388,
+        "name": "Bibo Nunes",
+        "party": "PL",
+        "stateCode": "RS",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204388.jpg",
+        "subtitle": "Deputado federal • PL/RS"
       },
       "value": {
-        "amount": 496.3,
+        "amount": 447.21,
         "currency": "BRL"
       },
-      "referenceDate": "2026-06-22",
-      "variationText": "Fornecedor: AUTO POSTO VIA IGUACU LTDA",
+      "referenceDate": "2026-06-23",
+      "variationText": "Fornecedor: Abast. Comb. Maresia Eireli",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -190,27 +190,27 @@
       "enabled": true,
       "priority": 85,
       "weight": 0.82,
-      "generatedAt": "2026-06-23T07:05:56.962062Z",
-      "freshUntil": "2026-06-24T07:05:56.962062Z",
+      "generatedAt": "2026-06-24T07:02:49.116789Z",
+      "freshUntil": "2026-06-25T07:02:49.116789Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 3019.24,
+        "amount": 1580.47,
         "currency": "BRL"
       },
       "right": {
-        "amount": 3219.02,
+        "amount": 7923.84,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -199.78,
-        "percent": -6.21,
+        "amount": -6343.37,
+        "percent": -80.05,
         "direction": "down"
       },
       "tags": [
         "Variação diária"
       ],
-      "referenceDate": "2026-06-22",
-      "variationText": "Dia anterior: R$ 3.219,02",
+      "referenceDate": "2026-06-23",
+      "variationText": "Dia anterior: R$ 7.923,84",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -230,11 +230,11 @@
       "enabled": true,
       "priority": 82,
       "weight": 0.78,
-      "generatedAt": "2026-06-23T07:05:56.962062Z",
-      "freshUntil": "2026-06-24T07:05:56.962062Z",
+      "generatedAt": "2026-06-24T07:02:49.116789Z",
+      "freshUntil": "2026-06-25T07:02:49.116789Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 293617730.95,
+        "amount": 293651580.94,
         "currency": "BRL"
       },
       "tags": [
@@ -261,11 +261,11 @@
       "enabled": true,
       "priority": 80,
       "weight": 0.76,
-      "generatedAt": "2026-06-23T07:05:56.962062Z",
-      "freshUntil": "2026-06-24T07:05:56.962062Z",
+      "generatedAt": "2026-06-24T07:02:49.116789Z",
+      "freshUntil": "2026-06-25T07:02:49.116789Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 91952517.16,
+        "amount": 91995802.18,
         "currency": "BRL"
       },
       "tags": [
@@ -292,18 +292,18 @@
       "enabled": true,
       "priority": 78,
       "weight": 0.72,
-      "generatedAt": "2026-06-23T07:05:56.962062Z",
-      "freshUntil": "2026-06-24T07:05:56.962062Z",
+      "generatedAt": "2026-06-24T07:02:49.116789Z",
+      "freshUntil": "2026-06-25T07:02:49.116789Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 1376961.1,
+        "amount": 1377423.37,
         "currency": "BRL"
       },
       "tags": [
         "Média por agente"
       ],
       "referenceDate": "542 deputados com gasto no período",
-      "variationText": "Montante: R$ 746.312.915,58",
+      "variationText": "Montante: R$ 746.563.464,14",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -323,27 +323,27 @@
       "enabled": true,
       "priority": 74,
       "weight": 0.68,
-      "generatedAt": "2026-06-23T07:05:56.962062Z",
-      "freshUntil": "2026-06-24T07:05:56.962062Z",
+      "generatedAt": "2026-06-24T07:02:49.116789Z",
+      "freshUntil": "2026-06-25T07:02:49.116789Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 496.3,
+        "amount": 447.21,
         "currency": "BRL"
       },
       "right": {
-        "amount": 3019.24,
+        "amount": 1580.47,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -2522.94,
-        "percent": 16.44,
+        "amount": -1133.26,
+        "percent": 28.3,
         "direction": "down"
       },
       "tags": [
         "Peso do maior gasto no dia"
       ],
-      "referenceDate": "2026-06-22",
-      "variationText": "Valor líder: R$ 496,30",
+      "referenceDate": "2026-06-23",
+      "variationText": "Valor líder: R$ 447,21",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -363,51 +363,51 @@
       "enabled": true,
       "priority": 72,
       "weight": 0.66,
-      "generatedAt": "2026-06-23T07:05:56.962062Z",
-      "freshUntil": "2026-06-24T07:05:56.962062Z",
+      "generatedAt": "2026-06-24T07:02:49.116789Z",
+      "freshUntil": "2026-06-25T07:02:49.116789Z",
       "qualityScore": 1.0,
       "tags": [
         "Totais diários"
       ],
       "series": [
         {
-          "date": "2026-06-16",
-          "amount": 45481.23,
-          "currency": "BRL"
-        },
-        {
           "date": "2026-06-17",
-          "amount": 36088.72,
+          "amount": 40988.17,
           "currency": "BRL"
         },
         {
           "date": "2026-06-18",
-          "amount": 12556.16,
+          "amount": 18849.7,
           "currency": "BRL"
         },
         {
           "date": "2026-06-19",
-          "amount": 6642.05,
+          "amount": 10608.15,
           "currency": "BRL"
         },
         {
           "date": "2026-06-20",
-          "amount": 5789.18,
+          "amount": 11804.75,
           "currency": "BRL"
         },
         {
           "date": "2026-06-21",
-          "amount": 3219.02,
+          "amount": 7187.91,
           "currency": "BRL"
         },
         {
           "date": "2026-06-22",
-          "amount": 3019.24,
+          "amount": 7923.84,
+          "currency": "BRL"
+        },
+        {
+          "date": "2026-06-23",
+          "amount": 1580.47,
           "currency": "BRL"
         }
       ],
-      "referenceDate": "2026-06-22",
-      "variationText": "Janela 7d: R$ 112.795,60",
+      "referenceDate": "2026-06-23",
+      "variationText": "Janela 7d: R$ 98.942,99",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
