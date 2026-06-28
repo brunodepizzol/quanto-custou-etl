@@ -3,14 +3,14 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "mandate",
-    "generatedAt": "2026-06-26T07:10:03.622647Z",
+    "generatedAt": "2026-06-28T07:16:18.212051Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 746859998.74,
-    "amountGross": 779508711.28,
+    "amountNet": 746856061.16,
+    "amountGross": 779504773.7,
     "amountAdjustments": -32648712.54,
-    "recordsCount": 662080,
+    "recordsCount": 662072,
     "entitiesCount": 553,
     "entitiesWithSpending": 542,
     "entitiesWithoutSpending": 11
@@ -41,14 +41,14 @@
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 105193858.76,
-        "amountGross": 105193858.76,
+        "amountNet": 105193064.86,
+        "amountGross": 105193064.86,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 66416210.19,
-        "amountGross": 66416210.19,
+        "amountNet": 66413066.51,
+        "amountGross": 66413066.51,
         "amountAdjustments": 0.0
       },
       {
@@ -103,14 +103,14 @@
       },
       {
         "stateCode": "BA",
-        "amountNet": 59725867.89,
-        "amountGross": 62737479.81,
+        "amountNet": 59721072.6,
+        "amountGross": 62732684.52,
         "amountAdjustments": -3011611.92
       },
       {
         "stateCode": "RS",
-        "amountNet": 47819705.12,
-        "amountGross": 50453123.32,
+        "amountNet": 47820257.47,
+        "amountGross": 50453675.67,
         "amountAdjustments": -2633418.2
       },
       {
@@ -121,8 +121,8 @@
       },
       {
         "stateCode": "PE",
-        "amountNet": 41648330.95,
-        "amountGross": 43822053.6,
+        "amountNet": 41648636.31,
+        "amountGross": 43822358.96,
         "amountAdjustments": -2173722.65
       },
       {
@@ -161,24 +161,24 @@
       "percent": 2.65
     },
     "averages": {
-      "perEntityWithSpending": 1377970.48,
-      "perRecord": 1128.05
+      "perEntityWithSpending": 1377963.21,
+      "perRecord": 1128.06
     },
     "dailyTotals": {
       "referenceDate": "2026-06-25",
-      "amountNet": 579.38,
-      "previousAmountNet": 5070.54,
-      "deltaAmountNet": -4491.16,
-      "deltaPercent": -88.57,
+      "amountNet": 884.74,
+      "previousAmountNet": 4759.49,
+      "deltaAmountNet": -3874.75,
+      "deltaPercent": -81.41,
       "deltaDirection": "down",
       "trend7d": [
         {
           "date": "2026-06-19",
-          "amountNet": 22268.99
+          "amountNet": 22596.21
         },
         {
           "date": "2026-06-20",
-          "amountNet": 21657.34
+          "amountNet": 20748.45
         },
         {
           "date": "2026-06-21",
@@ -194,32 +194,32 @@
         },
         {
           "date": "2026-06-24",
-          "amountNet": 5070.54
+          "amountNet": 4759.49
         },
         {
           "date": "2026-06-25",
-          "amountNet": 579.38
+          "amountNet": 884.74
         }
       ]
     },
     "dailyTopExpense": {
       "referenceDate": "2026-06-25",
       "entity": {
-        "id": 220581,
-        "name": "Luciano Amaral",
-        "stateCode": "AL",
-        "party": "PSD",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220581.jpg",
+        "id": 88256,
+        "name": "Clodoaldo Magalhães",
+        "stateCode": "PE",
+        "party": "PV",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/88256.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 205.01,
+      "amountNet": 305.36,
       "category": "COMBUSTIVEL",
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "POSTO 4 RODAS LTDA",
+      "supplier": "AUTO POSTO LS COMERCIO DERIVADOS DE PETROLEO LTDA",
       "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8121783"
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8121729"
     }
   }
 }

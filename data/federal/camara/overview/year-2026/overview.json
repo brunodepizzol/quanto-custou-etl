@@ -3,14 +3,14 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "year-2026",
-    "generatedAt": "2026-06-26T07:10:03.242536Z",
+    "generatedAt": "2026-06-28T07:16:17.835849Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 63991245.18,
-    "amountGross": 65456416.38,
+    "amountNet": 63987307.6,
+    "amountGross": 65452478.8,
     "amountAdjustments": -1465171.2,
-    "recordsCount": 56535,
+    "recordsCount": 56527,
     "entitiesCount": 526,
     "entitiesWithSpending": 516,
     "entitiesWithoutSpending": 10
@@ -41,14 +41,14 @@
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 9211806.48,
-        "amountGross": 9211806.48,
+        "amountNet": 9211012.58,
+        "amountGross": 9211012.58,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 7990519.72,
-        "amountGross": 7990519.72,
+        "amountNet": 7987376.04,
+        "amountGross": 7987376.04,
         "amountAdjustments": 0.0
       },
       {
@@ -103,14 +103,14 @@
       },
       {
         "stateCode": "BA",
-        "amountNet": 4893929.48,
-        "amountGross": 5023746.24,
+        "amountNet": 4889134.19,
+        "amountGross": 5018950.95,
         "amountAdjustments": -129816.76
       },
       {
         "stateCode": "RS",
-        "amountNet": 4289396.72,
-        "amountGross": 4364015.93,
+        "amountNet": 4289949.07,
+        "amountGross": 4364568.28,
         "amountAdjustments": -74619.21
       },
       {
@@ -121,8 +121,8 @@
       },
       {
         "stateCode": "PE",
-        "amountNet": 3581962.17,
-        "amountGross": 3672069.13,
+        "amountNet": 3582267.53,
+        "amountGross": 3672374.49,
         "amountAdjustments": -90106.96
       },
       {
@@ -161,24 +161,24 @@
       "percent": 3.49
     },
     "averages": {
-      "perEntityWithSpending": 124014.04,
-      "perRecord": 1131.89
+      "perEntityWithSpending": 124006.41,
+      "perRecord": 1131.98
     },
     "dailyTotals": {
       "referenceDate": "2026-06-25",
-      "amountNet": 579.38,
-      "previousAmountNet": 5070.54,
-      "deltaAmountNet": -4491.16,
-      "deltaPercent": -88.57,
+      "amountNet": 884.74,
+      "previousAmountNet": 4759.49,
+      "deltaAmountNet": -3874.75,
+      "deltaPercent": -81.41,
       "deltaDirection": "down",
       "trend7d": [
         {
           "date": "2026-06-19",
-          "amountNet": 22268.99
+          "amountNet": 22596.21
         },
         {
           "date": "2026-06-20",
-          "amountNet": 21657.34
+          "amountNet": 20748.45
         },
         {
           "date": "2026-06-21",
@@ -194,32 +194,32 @@
         },
         {
           "date": "2026-06-24",
-          "amountNet": 5070.54
+          "amountNet": 4759.49
         },
         {
           "date": "2026-06-25",
-          "amountNet": 579.38
+          "amountNet": 884.74
         }
       ]
     },
     "dailyTopExpense": {
       "referenceDate": "2026-06-25",
       "entity": {
-        "id": 220581,
-        "name": "Luciano Amaral",
-        "stateCode": "AL",
-        "party": "PSD",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220581.jpg",
+        "id": 88256,
+        "name": "Clodoaldo Magalhães",
+        "stateCode": "PE",
+        "party": "PV",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/88256.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 205.01,
+      "amountNet": 305.36,
       "category": "COMBUSTIVEL",
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "POSTO 4 RODAS LTDA",
+      "supplier": "AUTO POSTO LS COMERCIO DERIVADOS DE PETROLEO LTDA",
       "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8121783"
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8121729"
     }
   }
 }
