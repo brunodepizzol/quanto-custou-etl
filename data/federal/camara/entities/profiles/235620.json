@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 235620,
-    "generatedAt": "2026-06-28T07:16:18.787999Z",
+    "generatedAt": "2026-06-28T08:13:45.140423Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "ilacir-bicalho"
   },
   "mandateTotals": {
-    "amountNet": 18155.35,
-    "amountGross": 18155.35,
-    "amountAdjustments": 0.0,
-    "recordsCount": 6,
+    "amountNet": 99671.68,
+    "amountGross": 99704.55,
+    "amountAdjustments": -32.87,
+    "recordsCount": 52,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 6535.35,
+      "COMBUSTIVEL": 18784.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 11500.0,
+      "DESLOCAMENTO": 56267.68,
+      "DIVULGACAO": 24500.0,
       "ESCRITORIO": 120.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 6535.35,
+      "COMBUSTIVEL": 18784.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 11500.0,
+      "DESLOCAMENTO": 56300.55,
+      "DIVULGACAO": 24500.0,
       "ESCRITORIO": 120.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -32.87,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,19 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 18155.35
+    "2026": 99671.68
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 120.0,
-    "2026-05": 11035.35,
+    "2026-03": 5612.06,
+    "2026-04": 39900.13,
+    "2026-05": 47159.49,
     "2026-06": 7000.0
   },
   "topCategory": {
-    "category": "DIVULGACAO",
-    "amountNet": 11500.0,
-    "percent": 63.34
+    "category": "DESLOCAMENTO",
+    "amountNet": 56267.68,
+    "percent": 56.45
   }
 }

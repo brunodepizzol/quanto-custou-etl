@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220614,
-    "generatedAt": "2026-06-28T07:16:18.748870Z",
+    "generatedAt": "2026-06-28T08:13:45.099917Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "dr-daniel-soranz"
   },
   "mandateTotals": {
-    "amountNet": 16810.69,
-    "amountGross": 16810.69,
-    "amountAdjustments": 0.0,
-    "recordsCount": 67,
+    "amountNet": 81379.05,
+    "amountGross": 83712.01,
+    "amountAdjustments": -2332.96,
+    "recordsCount": 94,
     "byCategoryNet": {
-      "ALIMENTACAO": 496.9,
-      "COMBUSTIVEL": 9254.52,
+      "ALIMENTACAO": 591.56,
+      "COMBUSTIVEL": 10122.61,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 6356.12,
+      "DESLOCAMENTO": 40703.77,
+      "DIVULGACAO": 22700.0,
+      "ESCRITORIO": 6557.96,
       "HOSPEDAGEM": 703.15,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 496.9,
-      "COMBUSTIVEL": 9254.52,
+      "ALIMENTACAO": 591.56,
+      "COMBUSTIVEL": 10122.61,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 6356.12,
+      "DESLOCAMENTO": 43036.73,
+      "DIVULGACAO": 22700.0,
+      "ESCRITORIO": 6557.96,
       "HOSPEDAGEM": 703.15,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -2332.96,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,19 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 16810.69
+    "2026": 81379.05
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 3655.6,
-    "2026-05": 3844.68,
+    "2026-04": 25195.93,
+    "2026-05": 46872.71,
     "2026-06": 9310.41
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 9254.52,
-    "percent": 55.05
+    "category": "DESLOCAMENTO",
+    "amountNet": 40703.77,
+    "percent": 50.02
   }
 }

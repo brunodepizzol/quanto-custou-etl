@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 235712,
-    "generatedAt": "2026-06-28T07:16:18.788281Z",
+    "generatedAt": "2026-06-28T08:13:45.140703Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "vavá"
   },
   "mandateTotals": {
-    "amountNet": 2679.54,
-    "amountGross": 2679.54,
-    "amountAdjustments": 0.0,
-    "recordsCount": 13,
+    "amountNet": 74625.64,
+    "amountGross": 76466.5,
+    "amountAdjustments": -1840.86,
+    "recordsCount": 100,
     "byCategoryNet": {
-      "ALIMENTACAO": 98.9,
-      "COMBUSTIVEL": 2580.64,
+      "ALIMENTACAO": 407.62,
+      "COMBUSTIVEL": 6793.44,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
+      "DESLOCAMENTO": 54528.54,
+      "DIVULGACAO": 10000.0,
       "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 2896.04,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 98.9,
-      "COMBUSTIVEL": 2580.64,
+      "ALIMENTACAO": 407.62,
+      "COMBUSTIVEL": 6793.44,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
+      "DESLOCAMENTO": 56369.4,
+      "DIVULGACAO": 10000.0,
       "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 2896.04,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -1840.86,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,19 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 2679.54
+    "2026": 74625.64
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 523.05,
-    "2026-05": 1281.81,
+    "2026-04": 39205.31,
+    "2026-05": 34545.65,
     "2026-06": 874.68
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 2580.64,
-    "percent": 96.31
+    "category": "DESLOCAMENTO",
+    "amountNet": 54528.54,
+    "percent": 73.07
   }
 }

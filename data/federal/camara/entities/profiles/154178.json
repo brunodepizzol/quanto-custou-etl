@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 154178,
-    "generatedAt": "2026-06-28T07:16:18.650041Z",
+    "generatedAt": "2026-06-28T08:13:44.994110Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "milton-vieira"
   },
   "mandateTotals": {
-    "amountNet": 9129.71,
-    "amountGross": 9129.71,
-    "amountAdjustments": 0.0,
-    "recordsCount": 16,
+    "amountNet": 47968.19,
+    "amountGross": 50752.36,
+    "amountAdjustments": -2784.17,
+    "recordsCount": 35,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 2143.09,
+      "COMBUSTIVEL": 3193.09,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 6986.62,
-      "DIVULGACAO": 0.0,
+      "DESLOCAMENTO": 30775.1,
+      "DIVULGACAO": 14000.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 2143.09,
+      "COMBUSTIVEL": 3193.09,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 6986.62,
-      "DIVULGACAO": 0.0,
+      "DESLOCAMENTO": 33559.27,
+      "DIVULGACAO": 14000.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -2784.17,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,19 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 9129.71
+    "2026": 47968.19
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 6986.62,
-    "2026-04": 920.05,
-    "2026-05": 400.0,
+    "2026-04": 20698.53,
+    "2026-05": 19460.0,
     "2026-06": 823.04
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 6986.62,
-    "percent": 76.53
+    "amountNet": 30775.1,
+    "percent": 64.16
   }
 }

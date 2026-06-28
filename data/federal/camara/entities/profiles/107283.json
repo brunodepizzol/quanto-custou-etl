@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 107283,
-    "generatedAt": "2026-06-28T07:16:18.637054Z",
+    "generatedAt": "2026-06-28T08:13:44.979367Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "gleisi-hoffmann"
   },
   "mandateTotals": {
-    "amountNet": 15787.2,
-    "amountGross": 15787.2,
-    "amountAdjustments": 0.0,
-    "recordsCount": 36,
+    "amountNet": 87141.6,
+    "amountGross": 88001.9,
+    "amountAdjustments": -860.3,
+    "recordsCount": 85,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 6526.9,
+      "COMBUSTIVEL": 8232.09,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 884.0,
-      "HOSPEDAGEM": 8376.3,
+      "CORREIOS_TELEFONIA": 711.72,
+      "DESLOCAMENTO": 29295.96,
+      "DIVULGACAO": 9355.26,
+      "ESCRITORIO": 27201.23,
+      "HOSPEDAGEM": 12345.34,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 6526.9,
+      "COMBUSTIVEL": 8232.09,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 884.0,
-      "HOSPEDAGEM": 8376.3,
+      "CORREIOS_TELEFONIA": 711.72,
+      "DESLOCAMENTO": 30156.26,
+      "DIVULGACAO": 9355.26,
+      "ESCRITORIO": 27201.23,
+      "HOSPEDAGEM": 12345.34,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -860.3,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,19 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 15787.2
+    "2026": 87141.6
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 2974.34,
-    "2026-05": 5296.59,
+    "2026-04": 57316.93,
+    "2026-05": 22308.4,
     "2026-06": 7516.27
   },
   "topCategory": {
-    "category": "HOSPEDAGEM",
-    "amountNet": 8376.3,
-    "percent": 53.06
+    "category": "DESLOCAMENTO",
+    "amountNet": 29295.96,
+    "percent": 33.62
   }
 }

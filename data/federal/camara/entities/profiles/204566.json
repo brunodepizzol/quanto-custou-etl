@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204566,
-    "generatedAt": "2026-06-28T07:16:18.718348Z",
+    "generatedAt": "2026-06-28T08:13:45.068219Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "marreca-filho"
   },
   "mandateTotals": {
-    "amountNet": 16455.37,
-    "amountGross": 16455.37,
-    "amountAdjustments": 0.0,
-    "recordsCount": 11,
+    "amountNet": 55808.36,
+    "amountGross": 63879.57,
+    "amountAdjustments": -8071.21,
+    "recordsCount": 42,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 5043.62,
+      "COMBUSTIVEL": 10385.53,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 9460.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 950.0,
+      "DESLOCAMENTO": 11177.37,
+      "DIVULGACAO": 28000.0,
+      "ESCRITORIO": 5243.71,
       "HOSPEDAGEM": 1001.75,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 5043.62,
+      "COMBUSTIVEL": 10385.53,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 9460.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 950.0,
+      "DESLOCAMENTO": 19248.58,
+      "DIVULGACAO": 28000.0,
+      "ESCRITORIO": 5243.71,
       "HOSPEDAGEM": 1001.75,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -8071.21,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,14 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 16455.37
+    "2026": 55808.36
   },
   "monthTotals": {
+    "2026-01": 39352.99,
+    "2026-02": 0.0,
+    "2026-03": 0.0,
+    "2026-04": 0.0,
+    "2026-05": 0.0,
     "2026-06": 16455.37
   },
   "topCategory": {
-    "category": "DESLOCAMENTO",
-    "amountNet": 9460.0,
-    "percent": 57.49
+    "category": "DIVULGACAO",
+    "amountNet": 28000.0,
+    "percent": 50.17
   }
 }

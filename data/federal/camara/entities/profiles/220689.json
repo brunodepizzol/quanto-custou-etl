@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220689,
-    "generatedAt": "2026-06-28T07:16:18.771087Z",
+    "generatedAt": "2026-06-28T08:13:45.122845Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,17 +15,17 @@
     "slug": "detinha"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 57923.02,
+    "amountGross": 57923.02,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 18,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
+      "DESLOCAMENTO": 22923.02,
+      "DIVULGACAO": 35000.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -35,8 +35,8 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
+      "DESLOCAMENTO": 22923.02,
+      "DIVULGACAO": 35000.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -54,14 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 0.0
+    "2026": 57923.02
   },
   "monthTotals": {
+    "2026-01": 46500.0,
+    "2026-02": 11423.02,
+    "2026-03": 0.0,
+    "2026-04": 0.0,
+    "2026-05": 0.0,
     "2026-06": 0.0
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DIVULGACAO",
+    "amountNet": 35000.0,
+    "percent": 60.43
   }
 }

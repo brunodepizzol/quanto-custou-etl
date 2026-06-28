@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204533,
-    "generatedAt": "2026-06-28T07:16:18.713480Z",
+    "generatedAt": "2026-06-28T08:13:45.063173Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "idilvan-alencar"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
-    "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "amountNet": 46109.5,
+    "amountGross": 51099.25,
+    "amountAdjustments": -4989.75,
+    "recordsCount": 53,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 5984.58,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "CORREIOS_TELEFONIA": 449.98,
+      "DESLOCAMENTO": 30632.92,
+      "DIVULGACAO": 4500.0,
+      "ESCRITORIO": 4542.02,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 5984.58,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "CORREIOS_TELEFONIA": 449.98,
+      "DESLOCAMENTO": 35622.67,
+      "DIVULGACAO": 4500.0,
+      "ESCRITORIO": 4542.02,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -4989.75,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,19 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 0.0
+    "2026": 46109.5
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
+    "2026-04": 36868.91,
+    "2026-05": 9240.59,
     "2026-06": 0.0
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DESLOCAMENTO",
+    "amountNet": 30632.92,
+    "percent": 66.44
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74400,
-    "generatedAt": "2026-06-28T07:16:18.628800Z",
+    "generatedAt": "2026-06-28T08:13:44.969980Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "paulo-pimenta"
   },
   "mandateTotals": {
-    "amountNet": 669099.78,
-    "amountGross": 669099.78,
-    "amountAdjustments": 0.0,
-    "recordsCount": 181,
+    "amountNet": 743740.02,
+    "amountGross": 758280.92,
+    "amountAdjustments": -14540.9,
+    "recordsCount": 209,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 37534.05,
+      "COMBUSTIVEL": 40770.24,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 7992.99,
-      "DESLOCAMENTO": 48536.42,
-      "DIVULGACAO": 512600.0,
-      "ESCRITORIO": 59880.32,
+      "CORREIOS_TELEFONIA": 9425.34,
+      "DESLOCAMENTO": 53618.12,
+      "DIVULGACAO": 570600.0,
+      "ESCRITORIO": 66770.32,
       "HOSPEDAGEM": 2556.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 37534.05,
+      "COMBUSTIVEL": 40770.24,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 7992.99,
-      "DESLOCAMENTO": 48536.42,
-      "DIVULGACAO": 512600.0,
-      "ESCRITORIO": 59880.32,
+      "CORREIOS_TELEFONIA": 9425.34,
+      "DESLOCAMENTO": 68159.02,
+      "DIVULGACAO": 570600.0,
+      "ESCRITORIO": 66770.32,
       "HOSPEDAGEM": 2556.0,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -14540.9,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -57,7 +57,7 @@
     "2023": 0.0,
     "2024": 0.0,
     "2025": 519228.27,
-    "2026": 149871.51
+    "2026": 224511.75
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -97,15 +97,15 @@
     "2025-11": 47153.26,
     "2025-12": 4362.42,
     "2026-01": 47605.39,
-    "2026-02": 48888.35,
-    "2026-03": 29377.77,
-    "2026-04": 24000.0,
-    "2026-05": 0.0,
+    "2026-02": 49888.35,
+    "2026-03": 54046.47,
+    "2026-04": 47484.64,
+    "2026-05": 25486.9,
     "2026-06": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 512600.0,
-    "percent": 76.61
+    "amountNet": 570600.0,
+    "percent": 76.72
   }
 }

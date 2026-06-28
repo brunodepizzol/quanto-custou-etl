@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178945,
-    "generatedAt": "2026-06-28T07:16:18.676242Z",
+    "generatedAt": "2026-06-28T08:13:45.024004Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "rosangela-gomes"
   },
   "mandateTotals": {
-    "amountNet": 4624.26,
-    "amountGross": 4624.26,
-    "amountAdjustments": 0.0,
-    "recordsCount": 22,
+    "amountNet": 62343.97,
+    "amountGross": 76025.94,
+    "amountAdjustments": -13681.97,
+    "recordsCount": 56,
     "byCategoryNet": {
-      "ALIMENTACAO": 426.0,
-      "COMBUSTIVEL": 4198.26,
+      "ALIMENTACAO": 1406.19,
+      "COMBUSTIVEL": 4878.85,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
+      "CORREIOS_TELEFONIA": 170.9,
+      "DESLOCAMENTO": 22888.03,
+      "DIVULGACAO": 33000.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 426.0,
-      "COMBUSTIVEL": 4198.26,
+      "ALIMENTACAO": 1406.19,
+      "COMBUSTIVEL": 4878.85,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
+      "CORREIOS_TELEFONIA": 170.9,
+      "DESLOCAMENTO": 36570.0,
+      "DIVULGACAO": 33000.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -13681.97,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,19 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 4624.26
+    "2026": 62343.97
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 776.65,
-    "2026-05": 1303.71,
+    "2026-03": 5274.87,
+    "2026-04": 23830.49,
+    "2026-05": 30694.71,
     "2026-06": 2543.9
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 4198.26,
-    "percent": 90.79
+    "category": "DIVULGACAO",
+    "amountNet": 33000.0,
+    "percent": 52.93
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178832,
-    "generatedAt": "2026-06-28T07:16:18.667674Z",
+    "generatedAt": "2026-06-28T08:13:45.014392Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "leandre"
   },
   "mandateTotals": {
-    "amountNet": 27229.65,
-    "amountGross": 27229.65,
-    "amountAdjustments": 0.0,
-    "recordsCount": 107,
+    "amountNet": 81695.65,
+    "amountGross": 91087.25,
+    "amountAdjustments": -9391.6,
+    "recordsCount": 188,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 18286.67,
+      "COMBUSTIVEL": 20402.35,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 6500.0,
-      "ESCRITORIO": 359.98,
-      "HOSPEDAGEM": 2083.0,
+      "CORREIOS_TELEFONIA": 709.96,
+      "DESLOCAMENTO": 13252.61,
+      "DIVULGACAO": 29500.0,
+      "ESCRITORIO": 14765.98,
+      "HOSPEDAGEM": 3064.75,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 18286.67,
+      "COMBUSTIVEL": 20402.35,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 6500.0,
-      "ESCRITORIO": 359.98,
-      "HOSPEDAGEM": 2083.0,
+      "CORREIOS_TELEFONIA": 709.96,
+      "DESLOCAMENTO": 22644.21,
+      "DIVULGACAO": 29500.0,
+      "ESCRITORIO": 14765.98,
+      "HOSPEDAGEM": 3064.75,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -9391.6,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,19 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 27229.65
+    "2026": 81695.65
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 7786.97,
-    "2026-05": 7356.21,
+    "2026-04": 36362.55,
+    "2026-05": 33246.63,
     "2026-06": 12086.47
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 18286.67,
-    "percent": 67.16
+    "category": "DIVULGACAO",
+    "amountNet": 29500.0,
+    "percent": 36.11
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220660,
-    "generatedAt": "2026-06-28T07:16:18.762400Z",
+    "generatedAt": "2026-06-28T08:13:45.113940Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,28 +15,28 @@
     "slug": "yury-do-paredão"
   },
   "mandateTotals": {
-    "amountNet": 1887.01,
-    "amountGross": 1887.01,
+    "amountNet": 15388.78,
+    "amountGross": 15388.78,
     "amountAdjustments": 0.0,
-    "recordsCount": 5,
+    "recordsCount": 7,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 1887.01,
+      "COMBUSTIVEL": 2388.78,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
+      "DIVULGACAO": 13000.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 1887.01,
+      "COMBUSTIVEL": 2388.78,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
+      "DIVULGACAO": 13000.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
@@ -54,16 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 1887.01
+    "2026": 15388.78
   },
   "monthTotals": {
+    "2026-01": 0.0,
+    "2026-02": 0.0,
+    "2026-03": 0.0,
     "2026-04": 0.0,
-    "2026-05": 986.55,
+    "2026-05": 14488.32,
     "2026-06": 900.46
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 1887.01,
-    "percent": 100.0
+    "category": "DIVULGACAO",
+    "amountNet": 13000.0,
+    "percent": 84.48
   }
 }

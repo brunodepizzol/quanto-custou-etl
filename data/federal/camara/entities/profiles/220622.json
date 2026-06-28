@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220622,
-    "generatedAt": "2026-06-28T07:16:18.751212Z",
+    "generatedAt": "2026-06-28T08:13:45.102461Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "nely-aquino"
   },
   "mandateTotals": {
-    "amountNet": 27876.31,
-    "amountGross": 27876.31,
-    "amountAdjustments": 0.0,
-    "recordsCount": 18,
+    "amountNet": 146826.54,
+    "amountGross": 149958.11,
+    "amountAdjustments": -3131.57,
+    "recordsCount": 72,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 2676.31,
+      "COMBUSTIVEL": 6879.23,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 19200.0,
-      "ESCRITORIO": 6000.0,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 45239.6,
+      "DIVULGACAO": 54700.0,
+      "ESCRITORIO": 39410.21,
+      "HOSPEDAGEM": 597.5,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 2676.31,
+      "COMBUSTIVEL": 6879.23,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 19200.0,
-      "ESCRITORIO": 6000.0,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 48371.17,
+      "DIVULGACAO": 54700.0,
+      "ESCRITORIO": 39410.21,
+      "HOSPEDAGEM": 597.5,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -3131.57,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,19 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 27876.31
+    "2026": 146826.54
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
-    "2026-03": 26300.06,
-    "2026-04": 826.25,
-    "2026-05": 550.0,
+    "2026-03": 26706.91,
+    "2026-04": 63103.64,
+    "2026-05": 56815.99,
     "2026-06": 200.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 19200.0,
-    "percent": 68.88
+    "amountNet": 54700.0,
+    "percent": 37.25
   }
 }

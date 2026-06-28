@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220656,
-    "generatedAt": "2026-06-28T07:16:18.761085Z",
+    "generatedAt": "2026-06-28T08:13:45.112640Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "fernanda-pessoa"
   },
   "mandateTotals": {
-    "amountNet": 9080.54,
-    "amountGross": 9080.54,
-    "amountAdjustments": 0.0,
-    "recordsCount": 47,
+    "amountNet": 117606.11,
+    "amountGross": 121302.54,
+    "amountAdjustments": -3696.43,
+    "recordsCount": 132,
     "byCategoryNet": {
-      "ALIMENTACAO": 851.21,
-      "COMBUSTIVEL": 7729.33,
+      "ALIMENTACAO": 1315.02,
+      "COMBUSTIVEL": 18841.99,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 500.0,
-      "HOSPEDAGEM": 0.0,
+      "CORREIOS_TELEFONIA": 857.56,
+      "DESLOCAMENTO": 30312.3,
+      "DIVULGACAO": 63095.34,
+      "ESCRITORIO": 711.5,
+      "HOSPEDAGEM": 2472.4,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 851.21,
-      "COMBUSTIVEL": 7729.33,
+      "ALIMENTACAO": 1315.02,
+      "COMBUSTIVEL": 18841.99,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 500.0,
-      "HOSPEDAGEM": 0.0,
+      "CORREIOS_TELEFONIA": 857.56,
+      "DESLOCAMENTO": 34008.73,
+      "DIVULGACAO": 63095.34,
+      "ESCRITORIO": 711.5,
+      "HOSPEDAGEM": 2472.4,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -3696.43,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,19 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 9080.54
+    "2026": 117606.11
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 1582.4,
-    "2026-05": 5215.15,
+    "2026-04": 59500.05,
+    "2026-05": 55823.07,
     "2026-06": 2282.99
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 7729.33,
-    "percent": 85.12
+    "category": "DIVULGACAO",
+    "amountNet": 63095.34,
+    "percent": 53.65
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160621,
-    "generatedAt": "2026-06-28T07:16:18.660039Z",
+    "generatedAt": "2026-06-28T08:13:45.005506Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "sandro-alex"
   },
   "mandateTotals": {
-    "amountNet": 2282.37,
-    "amountGross": 2282.37,
-    "amountAdjustments": 0.0,
-    "recordsCount": 7,
+    "amountNet": 25758.79,
+    "amountGross": 29419.86,
+    "amountAdjustments": -3661.07,
+    "recordsCount": 24,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 404.69,
+      "COMBUSTIVEL": 997.61,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": 19143.5,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 1877.68,
+      "ESCRITORIO": 1560.0,
+      "HOSPEDAGEM": 4057.68,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 404.69,
+      "COMBUSTIVEL": 997.61,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": 22804.57,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 1877.68,
+      "ESCRITORIO": 1560.0,
+      "HOSPEDAGEM": 4057.68,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -3661.07,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,19 +54,19 @@
     }
   },
   "yearTotals": {
-    "2026": 2282.37
+    "2026": 25758.79
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 908.69,
+    "2026-04": 10774.42,
+    "2026-05": 13610.69,
     "2026-06": 1373.68
   },
   "topCategory": {
-    "category": "HOSPEDAGEM",
-    "amountNet": 1877.68,
-    "percent": 82.27
+    "category": "DESLOCAMENTO",
+    "amountNet": 19143.5,
+    "percent": 74.32
   }
 }
