@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-06",
-    "generatedAt": "2026-06-28T08:13:44.020219Z",
+    "generatedAt": "2026-06-29T08:31:48.007902Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -12,10 +12,20 @@
       "name": "Cleber Verde",
       "stateCode": "MA",
       "party": "MDB",
-      "amountNet": 75000.0,
-      "amountGross": 75000.0,
+      "amountNet": 75999.28,
+      "amountGross": 75999.28,
       "amountAdjustments": 0.0,
-      "recordsCount": 1
+      "recordsCount": 2
+    },
+    {
+      "id": 141516,
+      "name": "Paulo Abi-Ackel",
+      "stateCode": "MG",
+      "party": "PSDB",
+      "amountNet": 62434.86,
+      "amountGross": 62434.86,
+      "amountAdjustments": 0.0,
+      "recordsCount": 18
     },
     {
       "id": 204398,
@@ -26,16 +36,6 @@
       "amountGross": 61133.86,
       "amountAdjustments": 0.0,
       "recordsCount": 10
-    },
-    {
-      "id": 141516,
-      "name": "Paulo Abi-Ackel",
-      "stateCode": "MG",
-      "party": "PSDB",
-      "amountNet": 55899.74,
-      "amountGross": 55899.74,
-      "amountAdjustments": 0.0,
-      "recordsCount": 14
     },
     {
       "id": 74075,
@@ -62,10 +62,10 @@
       "name": "Lafayette de Andrada",
       "stateCode": "MG",
       "party": "PL",
-      "amountNet": 44724.22,
-      "amountGross": 44724.22,
+      "amountNet": 44967.22,
+      "amountGross": 44967.22,
       "amountAdjustments": 0.0,
-      "recordsCount": 16
+      "recordsCount": 17
     },
     {
       "id": 220668,
@@ -92,10 +92,10 @@
       "name": "Marcelo Crivella",
       "stateCode": "RJ",
       "party": "REPUBLICANOS",
-      "amountNet": 31856.96,
-      "amountGross": 31856.96,
+      "amountNet": 31992.32,
+      "amountGross": 31992.32,
       "amountAdjustments": 0.0,
-      "recordsCount": 15
+      "recordsCount": 17
     },
     {
       "id": 204391,
@@ -150,6 +150,16 @@
       "recordsCount": 1
     },
     {
+      "id": 74273,
+      "name": "Jefferson Campos",
+      "stateCode": "SP",
+      "party": "PL",
+      "amountNet": 102.72,
+      "amountGross": 102.72,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
       "id": 150418,
       "name": "Márcio Marinho",
       "stateCode": "BA",
@@ -160,30 +170,20 @@
       "recordsCount": 1
     },
     {
-      "id": 74161,
-      "name": "Reginaldo Lopes",
+      "id": 160632,
+      "name": "Zé Silva",
       "stateCode": "MG",
-      "party": "PT",
-      "amountNet": 129.65,
-      "amountGross": 129.65,
+      "party": "UNIÃO",
+      "amountNet": 133.14,
+      "amountGross": 133.14,
       "amountAdjustments": 0.0,
-      "recordsCount": 2
+      "recordsCount": 1
     },
     {
       "id": 141411,
       "name": "Dagoberto Nogueira",
       "stateCode": "MS",
       "party": "PP",
-      "amountNet": 150.0,
-      "amountGross": 150.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 162067,
-      "name": "Kiko Celeguim",
-      "stateCode": "SP",
-      "party": "PT",
       "amountNet": 150.0,
       "amountGross": 150.0,
       "amountAdjustments": 0.0,
@@ -200,12 +200,12 @@
       "recordsCount": 1
     },
     {
-      "id": 220637,
-      "name": "Marina Silva",
-      "stateCode": "SP",
-      "party": "REDE",
-      "amountNet": 154.6,
-      "amountGross": 154.6,
+      "id": 104552,
+      "name": "Socorro Neri",
+      "stateCode": "AC",
+      "party": "PP",
+      "amountNet": 155.59,
+      "amountGross": 155.59,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     }
