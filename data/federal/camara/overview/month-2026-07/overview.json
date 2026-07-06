@@ -3,40 +3,46 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-07",
-    "generatedAt": "2026-07-04T06:34:34.998028Z",
+    "generatedAt": "2026-07-06T08:02:00.653013Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 14652.23,
-    "amountGross": 14652.23,
+    "amountNet": 47841.28,
+    "amountGross": 47841.28,
     "amountAdjustments": 0.0,
-    "recordsCount": 60,
+    "recordsCount": 156,
     "entitiesCount": 513,
-    "entitiesWithSpending": 50,
-    "entitiesWithoutSpending": 463
+    "entitiesWithSpending": 99,
+    "entitiesWithoutSpending": 414
   },
   "highlights": {
     "topSpender": {
-      "id": 204426,
-      "name": "Carlos Veras",
-      "stateCode": "PE",
+      "id": 220671,
+      "name": "Dilvanda Faro",
+      "stateCode": "PA",
       "party": "PT",
-      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
-      "amountNet": 1282.77,
-      "amountGross": 1282.77,
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220671.jpg",
+      "amountNet": 8499.26,
+      "amountGross": 8499.26,
       "amountAdjustments": 0.0
     },
     "topCategories": [
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 14003.05,
-        "amountGross": 14003.05,
+        "amountNet": 44114.68,
+        "amountGross": 44114.68,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 2453.34,
+        "amountGross": 2453.34,
         "amountAdjustments": 0.0
       },
       {
         "category": "ALIMENTACAO",
-        "amountNet": 649.18,
-        "amountGross": 649.18,
+        "amountNet": 1273.26,
+        "amountGross": 1273.26,
         "amountAdjustments": 0.0
       },
       {
@@ -64,12 +70,6 @@
         "amountAdjustments": 0.0
       },
       {
-        "category": "ESCRITORIO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
         "category": "HOSPEDAGEM",
         "amountNet": 0.0,
         "amountGross": 0.0,
@@ -84,122 +84,130 @@
     ],
     "topStates": [
       {
-        "stateCode": "PE",
-        "amountNet": 2739.42,
-        "amountGross": 2739.42,
+        "stateCode": "PA",
+        "amountNet": 8499.26,
+        "amountGross": 8499.26,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "RJ",
-        "amountNet": 2155.66,
-        "amountGross": 2155.66,
+        "amountNet": 7943.62,
+        "amountGross": 7943.62,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "BA",
-        "amountNet": 1882.45,
-        "amountGross": 1882.45,
+        "amountNet": 5217.85,
+        "amountGross": 5217.85,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "RS",
-        "amountNet": 1142.06,
-        "amountGross": 1142.06,
+        "amountNet": 3928.05,
+        "amountGross": 3928.05,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 3879.92,
+        "amountGross": 3879.92,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PR",
-        "amountNet": 1041.83,
-        "amountGross": 1041.83,
+        "amountNet": 2867.03,
+        "amountGross": 2867.03,
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "PI",
-        "amountNet": 959.62,
-        "amountGross": 959.62,
+        "stateCode": "SC",
+        "amountNet": 1465.13,
+        "amountGross": 1465.13,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "MS",
-        "amountNet": 718.71,
-        "amountGross": 718.71,
+        "amountNet": 1358.77,
+        "amountGross": 1358.77,
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "PB",
-        "amountNet": 619.43,
-        "amountGross": 619.43,
+        "stateCode": "MG",
+        "amountNet": 1295.69,
+        "amountGross": 1295.69,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "TO",
-        "amountNet": 581.67,
-        "amountGross": 581.67,
+        "amountNet": 1283.29,
+        "amountGross": 1283.29,
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "RN",
-        "amountNet": 560.07,
-        "amountGross": 560.07,
+        "stateCode": "PI",
+        "amountNet": 1206.22,
+        "amountGross": 1206.22,
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "AP",
-        "amountNet": 550.0,
-        "amountGross": 550.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "SP",
-        "amountNet": 505.33,
-        "amountGross": 505.33,
+        "stateCode": "ES",
+        "amountNet": 1153.0,
+        "amountGross": 1153.0,
         "amountAdjustments": 0.0
       }
     ],
     "concentrationTop10": {
-      "amountNet": 6843.26,
-      "percent": 46.7
+      "amountNet": 21037.07,
+      "percent": 43.97
     },
     "averages": {
-      "perEntityWithSpending": 293.04,
-      "perRecord": 244.2
+      "perEntityWithSpending": 483.25,
+      "perRecord": 306.67
     },
     "dailyTotals": {
-      "referenceDate": "2026-07-02",
-      "amountNet": 825.53,
-      "previousAmountNet": 13826.7,
-      "deltaAmountNet": -13001.17,
-      "deltaPercent": -94.03,
+      "referenceDate": "2026-07-03",
+      "amountNet": 1697.81,
+      "previousAmountNet": 13446.86,
+      "deltaAmountNet": -11749.05,
+      "deltaPercent": -87.37,
       "deltaDirection": "down",
       "trend7d": [
         {
+          "date": "2026-06-19",
+          "amountNet": 175.94
+        },
+        {
           "date": "2026-07-01",
-          "amountNet": 13826.7
+          "amountNet": 32520.67
         },
         {
           "date": "2026-07-02",
-          "amountNet": 825.53
+          "amountNet": 13446.86
+        },
+        {
+          "date": "2026-07-03",
+          "amountNet": 1697.81
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-07-02",
+      "referenceDate": "2026-07-03",
       "entity": {
-        "id": 179001,
-        "name": "Márcio Biolchi",
-        "stateCode": "RS",
-        "party": "MDB",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/179001.jpg",
+        "id": 141459,
+        "name": "João Maia",
+        "stateCode": "RN",
+        "party": "PP",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/141459.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 370.03,
+      "amountNet": 390.04,
       "category": "COMBUSTIVEL",
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "NJ COMERCIAL DE COMBUSTIVEIS LTDA",
+      "supplier": "AUTO POSTO N S DAS GRACAS LTDA",
       "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8125015"
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8125988"
     }
   }
 }

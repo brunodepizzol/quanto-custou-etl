@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204494,
-    "generatedAt": "2026-07-04T06:34:36.029253Z",
+    "generatedAt": "2026-07-06T08:02:01.651837Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "fred-costa"
   },
   "mandateTotals": {
-    "amountNet": 1523611.33,
-    "amountGross": 1567731.06,
+    "amountNet": 1523761.33,
+    "amountGross": 1567881.06,
     "amountAdjustments": -44119.73,
-    "recordsCount": 1956,
+    "recordsCount": 1957,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 208159.1,
+      "COMBUSTIVEL": 208309.1,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 20357.96,
       "DESLOCAMENTO": 714366.99,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 208159.1,
+      "COMBUSTIVEL": 208309.1,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 20357.96,
       "DESLOCAMENTO": 758486.72,
@@ -57,7 +57,7 @@
     "2023": 416833.58,
     "2024": 362971.91,
     "2025": 484451.65,
-    "2026": 259354.19
+    "2026": 259504.19
   },
   "monthTotals": {
     "2023-01": 934.53,
@@ -102,11 +102,11 @@
     "2026-04": 55782.01,
     "2026-05": 43462.83,
     "2026-06": 23268.62,
-    "2026-07": 0.0
+    "2026-07": 150.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 714366.99,
-    "percent": 46.89
+    "percent": 46.88
   }
 }
