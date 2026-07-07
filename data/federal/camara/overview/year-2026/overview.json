@@ -3,14 +3,14 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "year-2026",
-    "generatedAt": "2026-07-06T08:02:00.751788Z",
+    "generatedAt": "2026-07-07T07:01:52.999179Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 107839449.52,
-    "amountGross": 112277944.62,
+    "amountNet": 107876422.86,
+    "amountGross": 112314917.96,
     "amountAdjustments": -4438495.1,
-    "recordsCount": 85980,
+    "recordsCount": 86102,
     "entitiesCount": 513,
     "entitiesWithSpending": 510,
     "entitiesWithoutSpending": 3
@@ -41,14 +41,14 @@
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 14606664.5,
-        "amountGross": 14606664.5,
+        "amountNet": 14607329.0,
+        "amountGross": 14607329.0,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 10422860.41,
-        "amountGross": 10422860.41,
+        "amountNet": 10458986.47,
+        "amountGross": 10458986.47,
         "amountAdjustments": 0.0
       },
       {
@@ -65,8 +65,8 @@
       },
       {
         "category": "ALIMENTACAO",
-        "amountNet": 269230.98,
-        "amountGross": 269230.98,
+        "amountNet": 269413.76,
+        "amountGross": 269413.76,
         "amountAdjustments": 0.0
       },
       {
@@ -85,50 +85,50 @@
     "topStates": [
       {
         "stateCode": "SP",
-        "amountNet": 13713735.54,
-        "amountGross": 14258436.38,
+        "amountNet": 13713983.75,
+        "amountGross": 14258684.59,
         "amountAdjustments": -544700.84
       },
       {
         "stateCode": "MG",
-        "amountNet": 11222417.1,
-        "amountGross": 11418757.67,
+        "amountNet": 11222757.1,
+        "amountGross": 11419097.67,
         "amountAdjustments": -196340.57
       },
       {
         "stateCode": "RJ",
-        "amountNet": 8548091.91,
-        "amountGross": 9078570.26,
+        "amountNet": 8555084.26,
+        "amountGross": 9085562.61,
         "amountAdjustments": -530478.35
       },
       {
         "stateCode": "BA",
-        "amountNet": 8143147.72,
-        "amountGross": 8511879.62,
+        "amountNet": 8145567.03,
+        "amountGross": 8514298.93,
         "amountAdjustments": -368731.9
       },
       {
         "stateCode": "RS",
-        "amountNet": 6955865.62,
-        "amountGross": 7242156.11,
+        "amountNet": 6960161.71,
+        "amountGross": 7246452.2,
         "amountAdjustments": -286290.49
       },
       {
         "stateCode": "PR",
-        "amountNet": 6147997.72,
-        "amountGross": 6426691.24,
+        "amountNet": 6149987.68,
+        "amountGross": 6428681.2,
         "amountAdjustments": -278693.52
       },
       {
         "stateCode": "PE",
-        "amountNet": 6013619.07,
-        "amountGross": 6277710.04,
+        "amountNet": 6016121.87,
+        "amountGross": 6280212.84,
         "amountAdjustments": -264090.97
       },
       {
         "stateCode": "CE",
-        "amountNet": 4045330.91,
-        "amountGross": 4285690.02,
+        "amountNet": 4045931.03,
+        "amountGross": 4286290.14,
         "amountAdjustments": -240359.11
       },
       {
@@ -139,75 +139,87 @@
       },
       {
         "stateCode": "GO",
-        "amountNet": 3572573.28,
-        "amountGross": 3572573.28,
+        "amountNet": 3574243.54,
+        "amountGross": 3574243.54,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "SC",
-        "amountNet": 3533457.19,
-        "amountGross": 3701331.59,
+        "amountNet": 3534660.73,
+        "amountGross": 3702535.13,
         "amountAdjustments": -167874.4
       },
       {
         "stateCode": "MA",
-        "amountNet": 3234447.45,
-        "amountGross": 3470628.76,
+        "amountNet": 3235117.45,
+        "amountGross": 3471298.76,
         "amountAdjustments": -236181.31
       }
     ],
     "concentrationTop10": {
-      "amountNet": 3302984.82,
+      "amountNet": 3303897.51,
       "percent": 3.06
     },
     "averages": {
-      "perEntityWithSpending": 211449.9,
-      "perRecord": 1254.24
+      "perEntityWithSpending": 211522.4,
+      "perRecord": 1252.89
     },
     "dailyTotals": {
-      "referenceDate": "2026-07-03",
-      "amountNet": 1697.81,
-      "previousAmountNet": 13446.86,
-      "deltaAmountNet": -11749.05,
-      "deltaPercent": -87.37,
+      "referenceDate": "2026-07-06",
+      "amountNet": 1295.33,
+      "previousAmountNet": 4183.64,
+      "deltaAmountNet": -2888.31,
+      "deltaPercent": -69.04,
       "deltaDirection": "down",
       "trend7d": [
         {
-          "date": "2026-06-19",
-          "amountNet": 175.94
+          "date": "2026-06-30",
+          "amountNet": 450.12
         },
         {
           "date": "2026-07-01",
-          "amountNet": 32520.67
+          "amountNet": 36541.62
         },
         {
           "date": "2026-07-02",
-          "amountNet": 13446.86
+          "amountNet": 22373.17
         },
         {
           "date": "2026-07-03",
-          "amountNet": 1697.81
+          "amountNet": 10448.8
+        },
+        {
+          "date": "2026-07-04",
+          "amountNet": 9346.0
+        },
+        {
+          "date": "2026-07-05",
+          "amountNet": 4183.64
+        },
+        {
+          "date": "2026-07-06",
+          "amountNet": 1295.33
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-07-03",
+      "referenceDate": "2026-07-06",
       "entity": {
-        "id": 141459,
-        "name": "João Maia",
-        "stateCode": "RN",
-        "party": "PP",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/141459.jpg",
+        "id": 178905,
+        "name": "Fabio Garcia",
+        "stateCode": "MT",
+        "party": "UNIÃO",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/178905.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 390.04,
+      "amountNet": 450.61,
       "category": "COMBUSTIVEL",
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "AUTO POSTO N S DAS GRACAS LTDA",
+      "supplier": "COMERCIAL AMAZONIA DE PETROLEO LTDA",
       "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8125988"
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8126639"
     }
   }
 }
