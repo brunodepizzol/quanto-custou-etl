@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-07",
-    "generatedAt": "2026-07-09T07:01:28.780849Z",
+    "generatedAt": "2026-07-10T07:01:48.878048Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -18,24 +18,44 @@
       "recordsCount": 1
     },
     {
-      "id": 204457,
-      "name": "Juninho do Pneu",
-      "stateCode": "RJ",
-      "party": "PSDB",
-      "amountNet": 5215.09,
-      "amountGross": 5215.09,
-      "amountAdjustments": 0.0,
-      "recordsCount": 7
-    },
-    {
       "id": 204426,
       "name": "Carlos Veras",
       "stateCode": "PE",
       "party": "PT",
-      "amountNet": 4847.91,
-      "amountGross": 4847.91,
+      "amountNet": 5616.62,
+      "amountGross": 5616.62,
       "amountAdjustments": 0.0,
-      "recordsCount": 17
+      "recordsCount": 20
+    },
+    {
+      "id": 204457,
+      "name": "Juninho do Pneu",
+      "stateCode": "RJ",
+      "party": "PSDB",
+      "amountNet": 5415.09,
+      "amountGross": 5415.09,
+      "amountAdjustments": 0.0,
+      "recordsCount": 9
+    },
+    {
+      "id": 220592,
+      "name": "Zezinho Barbary",
+      "stateCode": "AC",
+      "party": "PP",
+      "amountNet": 5070.06,
+      "amountGross": 5070.06,
+      "amountAdjustments": 0.0,
+      "recordsCount": 3
+    },
+    {
+      "id": 204566,
+      "name": "Marreca Filho",
+      "stateCode": "MA",
+      "party": "PRD",
+      "amountNet": 4635.23,
+      "amountGross": 4635.23,
+      "amountAdjustments": 0.0,
+      "recordsCount": 10
     },
     {
       "id": 220708,
@@ -52,10 +72,30 @@
       "name": "Zucco",
       "stateCode": "RS",
       "party": "PL",
-      "amountNet": 3643.99,
-      "amountGross": 3643.99,
+      "amountNet": 3942.93,
+      "amountGross": 3942.93,
       "amountAdjustments": 0.0,
-      "recordsCount": 4
+      "recordsCount": 5
+    },
+    {
+      "id": 224333,
+      "name": "Welter",
+      "stateCode": "PR",
+      "party": "PT",
+      "amountNet": 3854.62,
+      "amountGross": 3854.62,
+      "amountAdjustments": 0.0,
+      "recordsCount": 17
+    },
+    {
+      "id": 220669,
+      "name": "Lula da Fonte",
+      "stateCode": "PE",
+      "party": "PP",
+      "amountNet": 3635.93,
+      "amountGross": 3635.93,
+      "amountAdjustments": 0.0,
+      "recordsCount": 9
     },
     {
       "id": 204390,
@@ -66,46 +106,6 @@
       "amountGross": 3598.24,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 220669,
-      "name": "Lula da Fonte",
-      "stateCode": "PE",
-      "party": "PP",
-      "amountNet": 3185.92,
-      "amountGross": 3185.92,
-      "amountAdjustments": 0.0,
-      "recordsCount": 7
-    },
-    {
-      "id": 178993,
-      "name": "Carlos Henrique Gaguim",
-      "stateCode": "TO",
-      "party": "UNIÃO",
-      "amountNet": 3168.71,
-      "amountGross": 3168.71,
-      "amountAdjustments": 0.0,
-      "recordsCount": 7
-    },
-    {
-      "id": 224333,
-      "name": "Welter",
-      "stateCode": "PR",
-      "party": "PT",
-      "amountNet": 3101.57,
-      "amountGross": 3101.57,
-      "amountAdjustments": 0.0,
-      "recordsCount": 14
-    },
-    {
-      "id": 220554,
-      "name": "Alexandre Lindenmeyer",
-      "stateCode": "RS",
-      "party": "PT",
-      "amountNet": 3022.24,
-      "amountGross": 3022.24,
-      "amountAdjustments": 0.0,
-      "recordsCount": 20
     }
   ],
   "bottom": [
@@ -130,16 +130,6 @@
       "recordsCount": 1
     },
     {
-      "id": 204572,
-      "name": "Capitão Alberto Neto",
-      "stateCode": "AM",
-      "party": "PL",
-      "amountNet": 40.0,
-      "amountGross": 40.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 204361,
       "name": "Carlos Chiodini",
       "stateCode": "SC",
@@ -160,16 +150,6 @@
       "recordsCount": 1
     },
     {
-      "id": 178873,
-      "name": "Helder Salomão",
-      "stateCode": "ES",
-      "party": "PT",
-      "amountNet": 50.0,
-      "amountGross": 50.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 204508,
       "name": "Igor Timo",
       "stateCode": "MG",
@@ -180,12 +160,12 @@
       "recordsCount": 1
     },
     {
-      "id": 74171,
-      "name": "Chico Alencar",
-      "stateCode": "RJ",
-      "party": "PSOL",
-      "amountNet": 69.4,
-      "amountGross": 69.4,
+      "id": 74537,
+      "name": "Claudio Cajado",
+      "stateCode": "BA",
+      "party": "PP",
+      "amountNet": 86.8,
+      "amountGross": 86.8,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -204,6 +184,26 @@
       "name": "Antônia Lúcia",
       "stateCode": "AC",
       "party": "MDB",
+      "amountNet": 100.0,
+      "amountGross": 100.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 213762,
+      "name": "Carla Dickson",
+      "stateCode": "RN",
+      "party": "PL",
+      "amountNet": 100.0,
+      "amountGross": 100.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 161550,
+      "name": "Emidinho Madeira",
+      "stateCode": "MG",
+      "party": "PL",
       "amountNet": 100.0,
       "amountGross": 100.0,
       "amountAdjustments": 0.0,
