@@ -3,64 +3,64 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-07",
-    "generatedAt": "2026-07-11T05:59:42.153800Z",
+    "generatedAt": "2026-07-14T05:45:37.637357Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 292910.4,
-    "amountGross": 292910.4,
+    "amountNet": 432313.69,
+    "amountGross": 432313.69,
     "amountAdjustments": 0.0,
-    "recordsCount": 1062,
+    "recordsCount": 1520,
     "entitiesCount": 512,
-    "entitiesWithSpending": 249,
-    "entitiesWithoutSpending": 263
+    "entitiesWithSpending": 287,
+    "entitiesWithoutSpending": 225
   },
   "highlights": {
     "topSpender": {
-      "id": 220671,
-      "name": "Dilvanda Faro",
-      "stateCode": "PA",
+      "id": 204426,
+      "name": "Carlos Veras",
+      "stateCode": "PE",
       "party": "PT",
-      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220671.jpg",
-      "amountNet": 8499.26,
-      "amountGross": 8499.26,
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+      "amountNet": 9253.11,
+      "amountGross": 9253.11,
       "amountAdjustments": 0.0
     },
     "topCategories": [
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 255955.34,
-        "amountGross": 255955.34,
+        "amountNet": 340115.68,
+        "amountGross": 340115.68,
         "amountAdjustments": 0.0
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 20249.41,
-        "amountGross": 20249.41,
+        "amountNet": 48747.64,
+        "amountGross": 48747.64,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 9553.37,
-        "amountGross": 9553.37,
+        "amountNet": 33105.1,
+        "amountGross": 33105.1,
         "amountAdjustments": 0.0
       },
       {
         "category": "ALIMENTACAO",
-        "amountNet": 5702.13,
-        "amountGross": 5702.13,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "CORREIOS_TELEFONIA",
-        "amountNet": 1238.0,
-        "amountGross": 1238.0,
+        "amountNet": 7137.46,
+        "amountGross": 7137.46,
         "amountAdjustments": 0.0
       },
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 212.15,
-        "amountGross": 212.15,
+        "amountNet": 1839.82,
+        "amountGross": 1839.82,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 1367.99,
+        "amountGross": 1367.99,
         "amountAdjustments": 0.0
       },
       {
@@ -85,141 +85,141 @@
     "topStates": [
       {
         "stateCode": "RS",
-        "amountNet": 39389.0,
-        "amountGross": 39389.0,
+        "amountNet": 63030.79,
+        "amountGross": 63030.79,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "RJ",
-        "amountNet": 37654.82,
-        "amountGross": 37654.82,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "PE",
-        "amountNet": 27936.03,
-        "amountGross": 27936.03,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "PR",
-        "amountNet": 21413.01,
-        "amountGross": 21413.01,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "BA",
-        "amountNet": 17405.43,
-        "amountGross": 17405.43,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "TO",
-        "amountNet": 15537.43,
-        "amountGross": 15537.43,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "SC",
-        "amountNet": 15393.48,
-        "amountGross": 15393.48,
+        "amountNet": 46867.98,
+        "amountGross": 46867.98,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "MG",
-        "amountNet": 14396.31,
-        "amountGross": 14396.31,
+        "amountNet": 43938.17,
+        "amountGross": 43938.17,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 39901.48,
+        "amountGross": 39901.48,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 25277.28,
+        "amountGross": 25277.28,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 24415.33,
+        "amountGross": 24415.33,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "SP",
-        "amountNet": 12864.07,
-        "amountGross": 12864.07,
+        "amountNet": 23715.18,
+        "amountGross": 23715.18,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "TO",
+        "amountNet": 20218.79,
+        "amountGross": 20218.79,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 19507.29,
+        "amountGross": 19507.29,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PA",
-        "amountNet": 12517.97,
-        "amountGross": 12517.97,
+        "amountNet": 13497.98,
+        "amountGross": 13497.98,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "AC",
+        "amountNet": 12110.84,
+        "amountGross": 12110.84,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "GO",
-        "amountNet": 8617.11,
-        "amountGross": 8617.11,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "PB",
-        "amountNet": 6904.71,
-        "amountGross": 6904.71,
+        "amountNet": 11340.33,
+        "amountGross": 11340.33,
         "amountAdjustments": 0.0
       }
     ],
     "concentrationTop10": {
-      "amountNet": 48791.77,
-      "percent": 16.66
+      "amountNet": 62787.96,
+      "percent": 14.52
     },
     "averages": {
-      "perEntityWithSpending": 1176.35,
-      "perRecord": 275.81
+      "perEntityWithSpending": 1506.32,
+      "perRecord": 284.42
     },
     "dailyTotals": {
-      "referenceDate": "2026-07-09",
-      "amountNet": 1398.51,
-      "previousAmountNet": 15129.65,
-      "deltaAmountNet": -13731.14,
-      "deltaPercent": -90.76,
+      "referenceDate": "2026-07-12",
+      "amountNet": 200.0,
+      "previousAmountNet": 1455.92,
+      "deltaAmountNet": -1255.92,
+      "deltaPercent": -86.26,
       "deltaDirection": "down",
       "trend7d": [
         {
-          "date": "2026-07-03",
-          "amountNet": 39003.99
-        },
-        {
-          "date": "2026-07-04",
-          "amountNet": 33923.98
-        },
-        {
-          "date": "2026-07-05",
-          "amountNet": 13801.26
-        },
-        {
           "date": "2026-07-06",
-          "amountNet": 27784.61
+          "amountNet": 44295.86
         },
         {
           "date": "2026-07-07",
-          "amountNet": 28147.0
+          "amountNet": 36601.2
         },
         {
           "date": "2026-07-08",
-          "amountNet": 15129.65
+          "amountNet": 28722.93
         },
         {
           "date": "2026-07-09",
-          "amountNet": 1398.51
+          "amountNet": 19204.12
+        },
+        {
+          "date": "2026-07-10",
+          "amountNet": 5737.34
+        },
+        {
+          "date": "2026-07-11",
+          "amountNet": 1455.92
+        },
+        {
+          "date": "2026-07-12",
+          "amountNet": 200.0
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-07-09",
+      "referenceDate": "2026-07-12",
       "entity": {
-        "id": 220608,
-        "name": "Cristiane Lopes",
-        "stateCode": "RO",
-        "party": "PODE",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220608.jpg",
+        "id": 220682,
+        "name": "Tadeu Veneri",
+        "stateCode": "PR",
+        "party": "PT",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220682.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 341.39,
+      "amountNet": 200.0,
       "category": "COMBUSTIVEL",
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "MIRIAN CANDEIAS AUTO POSTO LTDA",
+      "supplier": "L ARTIGAS COMERCIO DE COMBUSTIVEIS III LTDA",
       "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8129883"
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8130926"
     }
   }
 }

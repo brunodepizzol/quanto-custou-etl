@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "mandate",
-    "generatedAt": "2026-07-11T05:59:42.658287Z",
+    "generatedAt": "2026-07-14T05:45:38.128985Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -38,6 +38,16 @@
       "recordsCount": 1241
     },
     {
+      "id": 204360,
+      "name": "Silvia Cristina",
+      "stateCode": "RO",
+      "party": "PP",
+      "amountNet": 2073583.9,
+      "amountGross": 2215959.04,
+      "amountAdjustments": -142375.14,
+      "recordsCount": 2046
+    },
+    {
       "id": 160591,
       "name": "Vinicius Gurgel",
       "stateCode": "AP",
@@ -56,16 +66,6 @@
       "amountGross": 2280463.09,
       "amountAdjustments": -207906.84,
       "recordsCount": 1507
-    },
-    {
-      "id": 204360,
-      "name": "Silvia Cristina",
-      "stateCode": "RO",
-      "party": "PP",
-      "amountNet": 2071017.5,
-      "amountGross": 2213392.64,
-      "amountAdjustments": -142375.14,
-      "recordsCount": 2038
     },
     {
       "id": 220590,
@@ -98,14 +98,14 @@
       "recordsCount": 243
     },
     {
-      "id": 220536,
-      "name": "Zé Haroldo Cathedral",
-      "stateCode": "RR",
-      "party": "PSD",
-      "amountNet": 2052973.59,
-      "amountGross": 2105063.94,
-      "amountAdjustments": -52090.35,
-      "recordsCount": 789
+      "id": 204426,
+      "name": "Carlos Veras",
+      "stateCode": "PE",
+      "party": "PT",
+      "amountNet": 2055483.32,
+      "amountGross": 2136065.05,
+      "amountAdjustments": -80581.73,
+      "recordsCount": 3028
     }
   ],
   "bottom": [
@@ -128,16 +128,6 @@
       "amountGross": 438.75,
       "amountAdjustments": 0.0,
       "recordsCount": 3
-    },
-    {
-      "id": 236423,
-      "name": "Valdir Trindade",
-      "stateCode": "PB",
-      "party": "REPUBLICANOS",
-      "amountNet": 1580.1,
-      "amountGross": 1580.1,
-      "amountAdjustments": 0.0,
-      "recordsCount": 5
     },
     {
       "id": 236518,
@@ -190,24 +180,34 @@
       "recordsCount": 9
     },
     {
+      "id": 236423,
+      "name": "Valdir Trindade",
+      "stateCode": "PB",
+      "party": "REPUBLICANOS",
+      "amountNet": 4852.72,
+      "amountGross": 4852.72,
+      "amountAdjustments": 0.0,
+      "recordsCount": 9
+    },
+    {
       "id": 236375,
       "name": "Marcos Braz",
       "stateCode": "RJ",
       "party": "PSDB",
-      "amountNet": 5585.75,
-      "amountGross": 5585.75,
+      "amountNet": 6286.87,
+      "amountGross": 6286.87,
       "amountAdjustments": 0.0,
-      "recordsCount": 18
+      "recordsCount": 21
     },
     {
       "id": 115200,
       "name": "Raniery Paulino",
       "stateCode": "PB",
       "party": "REPUBLICANOS",
-      "amountNet": 6846.42,
-      "amountGross": 6846.42,
+      "amountNet": 7178.32,
+      "amountGross": 7178.32,
       "amountAdjustments": 0.0,
-      "recordsCount": 24
+      "recordsCount": 25
     }
   ]
 }

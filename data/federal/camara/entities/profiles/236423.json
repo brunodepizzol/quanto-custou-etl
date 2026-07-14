@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 236423,
-    "generatedAt": "2026-07-11T05:59:43.267325Z",
+    "generatedAt": "2026-07-14T05:45:38.714460Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "valdir-trindade"
   },
   "mandateTotals": {
-    "amountNet": 1580.1,
-    "amountGross": 1580.1,
+    "amountNet": 4852.72,
+    "amountGross": 4852.72,
     "amountAdjustments": 0.0,
-    "recordsCount": 5,
+    "recordsCount": 9,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
+      "ALIMENTACAO": 83.62,
       "COMBUSTIVEL": 1580.1,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 3189.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
+      "ALIMENTACAO": 83.62,
       "COMBUSTIVEL": 1580.1,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 3189.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,7 @@
     }
   },
   "yearTotals": {
-    "2026": 1580.1
+    "2026": 4852.72
   },
   "monthTotals": {
     "2026-01": 0.0,
@@ -63,11 +63,11 @@
     "2026-04": 0.0,
     "2026-05": 0.0,
     "2026-06": 0.0,
-    "2026-07": 1580.1
+    "2026-07": 4852.72
   },
   "topCategory": {
-    "category": "COMBUSTIVEL",
-    "amountNet": 1580.1,
-    "percent": 100.0
+    "category": "HOSPEDAGEM",
+    "amountNet": 3189.0,
+    "percent": 65.72
   }
 }
