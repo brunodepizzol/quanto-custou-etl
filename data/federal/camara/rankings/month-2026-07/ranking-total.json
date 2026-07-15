@@ -3,19 +3,39 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-07",
-    "generatedAt": "2026-07-14T05:45:37.644121Z",
+    "generatedAt": "2026-07-15T05:46:54.029299Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
+    {
+      "id": 72442,
+      "name": "Felipe Carreras",
+      "stateCode": "PE",
+      "party": "PSB",
+      "amountNet": 13405.91,
+      "amountGross": 13405.91,
+      "amountAdjustments": 0.0,
+      "recordsCount": 35
+    },
     {
       "id": 204426,
       "name": "Carlos Veras",
       "stateCode": "PE",
       "party": "PT",
-      "amountNet": 9253.11,
-      "amountGross": 9253.11,
+      "amountNet": 9519.2,
+      "amountGross": 9519.2,
       "amountAdjustments": 0.0,
-      "recordsCount": 27
+      "recordsCount": 28
+    },
+    {
+      "id": 204409,
+      "name": "Daniel Trzeciak",
+      "stateCode": "RS",
+      "party": "PSDB",
+      "amountNet": 9327.52,
+      "amountGross": 9327.52,
+      "amountAdjustments": 0.0,
+      "recordsCount": 16
     },
     {
       "id": 220671,
@@ -28,34 +48,54 @@
       "recordsCount": 1
     },
     {
-      "id": 204364,
-      "name": "Eli Borges",
-      "stateCode": "TO",
-      "party": "REPUBLICANOS",
-      "amountNet": 6797.4,
-      "amountGross": 6797.4,
-      "amountAdjustments": 0.0,
-      "recordsCount": 18
-    },
-    {
       "id": 204457,
       "name": "Juninho do Pneu",
       "stateCode": "RJ",
       "party": "PSDB",
-      "amountNet": 6413.84,
-      "amountGross": 6413.84,
+      "amountNet": 8066.59,
+      "amountGross": 8066.59,
       "amountAdjustments": 0.0,
-      "recordsCount": 11
+      "recordsCount": 14
+    },
+    {
+      "id": 204364,
+      "name": "Eli Borges",
+      "stateCode": "TO",
+      "party": "REPUBLICANOS",
+      "amountNet": 7568.88,
+      "amountGross": 7568.88,
+      "amountAdjustments": 0.0,
+      "recordsCount": 20
     },
     {
       "id": 220554,
       "name": "Alexandre Lindenmeyer",
       "stateCode": "RS",
       "party": "PT",
-      "amountNet": 5921.61,
-      "amountGross": 5921.61,
+      "amountNet": 7169.52,
+      "amountGross": 7169.52,
       "amountAdjustments": 0.0,
-      "recordsCount": 35
+      "recordsCount": 41
+    },
+    {
+      "id": 220617,
+      "name": "Murillo Gouvea",
+      "stateCode": "RJ",
+      "party": "PSDB",
+      "amountNet": 6070.74,
+      "amountGross": 6070.74,
+      "amountAdjustments": 0.0,
+      "recordsCount": 13
+    },
+    {
+      "id": 220708,
+      "name": "Gabriel Nunes",
+      "stateCode": "BA",
+      "party": "PSD",
+      "amountNet": 5872.77,
+      "amountGross": 5872.77,
+      "amountAdjustments": 0.0,
+      "recordsCount": 22
     },
     {
       "id": 230768,
@@ -66,46 +106,6 @@
       "amountGross": 5601.48,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 204494,
-      "name": "Fred Costa",
-      "stateCode": "MG",
-      "party": "PRD",
-      "amountNet": 5408.34,
-      "amountGross": 5408.34,
-      "amountAdjustments": 0.0,
-      "recordsCount": 15
-    },
-    {
-      "id": 220592,
-      "name": "Zezinho Barbary",
-      "stateCode": "AC",
-      "party": "PP",
-      "amountNet": 5070.06,
-      "amountGross": 5070.06,
-      "amountAdjustments": 0.0,
-      "recordsCount": 3
-    },
-    {
-      "id": 220620,
-      "name": "Rosângela Reis",
-      "stateCode": "MG",
-      "party": "PL",
-      "amountNet": 4970.14,
-      "amountGross": 4970.14,
-      "amountAdjustments": 0.0,
-      "recordsCount": 2
-    },
-    {
-      "id": 236423,
-      "name": "Valdir Trindade",
-      "stateCode": "PB",
-      "party": "REPUBLICANOS",
-      "amountNet": 4852.72,
-      "amountGross": 4852.72,
-      "amountAdjustments": 0.0,
-      "recordsCount": 9
     }
   ],
   "bottom": [
@@ -114,10 +114,10 @@
       "name": "Orlando Silva",
       "stateCode": "SP",
       "party": "PCdoB",
-      "amountNet": 11.66,
-      "amountGross": 11.66,
+      "amountNet": 18.95,
+      "amountGross": 18.95,
       "amountAdjustments": 0.0,
-      "recordsCount": 1
+      "recordsCount": 2
     },
     {
       "id": 204524,
@@ -140,32 +140,22 @@
       "recordsCount": 2
     },
     {
+      "id": 204411,
+      "name": "Filipe Barros",
+      "stateCode": "PR",
+      "party": "PL",
+      "amountNet": 44.76,
+      "amountGross": 44.76,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
       "id": 204351,
       "name": "Dr. Luiz Ovando",
       "stateCode": "MS",
       "party": "PP",
       "amountNet": 50.0,
       "amountGross": 50.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 204508,
-      "name": "Igor Timo",
-      "stateCode": "MG",
-      "party": "UNIÃO",
-      "amountNet": 60.0,
-      "amountGross": 60.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 74537,
-      "name": "Claudio Cajado",
-      "stateCode": "BA",
-      "party": "PP",
-      "amountNet": 86.8,
-      "amountGross": 86.8,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -204,6 +194,16 @@
       "name": "Emidinho Madeira",
       "stateCode": "MG",
       "party": "PL",
+      "amountNet": 100.0,
+      "amountGross": 100.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 154178,
+      "name": "Milton Vieira",
+      "stateCode": "SP",
+      "party": "REPUBLICANOS",
       "amountNet": 100.0,
       "amountGross": 100.0,
       "amountAdjustments": 0.0,

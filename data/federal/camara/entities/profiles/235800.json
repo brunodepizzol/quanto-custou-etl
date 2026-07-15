@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 235800,
-    "generatedAt": "2026-07-14T05:45:38.713348Z",
+    "generatedAt": "2026-07-15T05:46:55.039818Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,10 +15,10 @@
     "slug": "jorge-araújo"
   },
   "mandateTotals": {
-    "amountNet": 55706.85,
-    "amountGross": 55706.85,
+    "amountNet": 56783.95,
+    "amountGross": 56783.95,
     "amountAdjustments": 0.0,
-    "recordsCount": 42,
+    "recordsCount": 44,
     "byCategoryNet": {
       "ALIMENTACAO": 279.92,
       "COMBUSTIVEL": 7606.33,
@@ -26,8 +26,8 @@
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 25820.6,
       "DIVULGACAO": 22000.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "ESCRITORIO": 77.1,
+      "HOSPEDAGEM": 1000.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
@@ -37,8 +37,8 @@
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 25820.6,
       "DIVULGACAO": 22000.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "ESCRITORIO": 77.1,
+      "HOSPEDAGEM": 1000.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,7 +54,7 @@
     }
   },
   "yearTotals": {
-    "2026": 55706.85
+    "2026": 56783.95
   },
   "monthTotals": {
     "2026-01": 0.0,
@@ -63,11 +63,11 @@
     "2026-04": 30672.15,
     "2026-05": 21901.43,
     "2026-06": 2933.27,
-    "2026-07": 200.0
+    "2026-07": 1277.1
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 25820.6,
-    "percent": 46.35
+    "percent": 45.47
   }
 }
