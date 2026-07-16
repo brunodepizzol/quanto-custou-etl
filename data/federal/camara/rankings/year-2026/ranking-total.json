@@ -3,10 +3,20 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-07-15T05:46:54.121987Z",
+    "generatedAt": "2026-07-16T06:01:43.142346Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
+    {
+      "id": 204426,
+      "name": "Carlos Veras",
+      "stateCode": "PE",
+      "party": "PT",
+      "amountNet": 352712.41,
+      "amountGross": 355891.3,
+      "amountAdjustments": -3178.89,
+      "recordsCount": 473
+    },
     {
       "id": 220538,
       "name": "Albuquerque",
@@ -16,16 +26,6 @@
       "amountGross": 357723.46,
       "amountAdjustments": -8545.53,
       "recordsCount": 68
-    },
-    {
-      "id": 204426,
-      "name": "Carlos Veras",
-      "stateCode": "PE",
-      "party": "PT",
-      "amountNet": 345928.56,
-      "amountGross": 349107.45,
-      "amountAdjustments": -3178.89,
-      "recordsCount": 452
     },
     {
       "id": 230768,
@@ -42,10 +42,10 @@
       "name": "Merlong Solano",
       "stateCode": "PI",
       "party": "PT",
-      "amountNet": 337508.16,
-      "amountGross": 340849.87,
+      "amountNet": 337569.83,
+      "amountGross": 340911.54,
       "amountAdjustments": -3341.71,
-      "recordsCount": 313
+      "recordsCount": 314
     },
     {
       "id": 220677,
@@ -58,6 +58,16 @@
       "recordsCount": 95
     },
     {
+      "id": 220669,
+      "name": "Lula da Fonte",
+      "stateCode": "PE",
+      "party": "PP",
+      "amountNet": 332366.03,
+      "amountGross": 350837.47,
+      "amountAdjustments": -18471.44,
+      "recordsCount": 279
+    },
+    {
       "id": 220609,
       "name": "Maurício Carvalho",
       "stateCode": "RO",
@@ -66,16 +76,6 @@
       "amountGross": 344134.74,
       "amountAdjustments": -12904.8,
       "recordsCount": 200
-    },
-    {
-      "id": 220669,
-      "name": "Lula da Fonte",
-      "stateCode": "PE",
-      "party": "PP",
-      "amountNet": 329809.97,
-      "amountGross": 348281.41,
-      "amountAdjustments": -18471.44,
-      "recordsCount": 269
     },
     {
       "id": 160635,
@@ -92,10 +92,10 @@
       "name": "João Maia",
       "stateCode": "RN",
       "party": "PP",
-      "amountNet": 319447.53,
-      "amountGross": 322790.06,
+      "amountNet": 319912.57,
+      "amountGross": 323255.1,
       "amountAdjustments": -3342.53,
-      "recordsCount": 170
+      "recordsCount": 171
     },
     {
       "id": 204557,
@@ -109,16 +109,6 @@
     }
   ],
   "bottom": [
-    {
-      "id": 152605,
-      "name": "Glauber Braga",
-      "stateCode": "RJ",
-      "party": "PSOL",
-      "amountNet": 100.0,
-      "amountGross": 100.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
     {
       "id": 154700,
       "name": "Paulo Soares",
@@ -148,6 +138,16 @@
       "amountGross": 2324.88,
       "amountAdjustments": 0.0,
       "recordsCount": 2
+    },
+    {
+      "id": 152605,
+      "name": "Glauber Braga",
+      "stateCode": "RJ",
+      "party": "PSOL",
+      "amountNet": 2485.73,
+      "amountGross": 2485.73,
+      "amountAdjustments": 0.0,
+      "recordsCount": 9
     },
     {
       "id": 204353,
@@ -194,20 +194,20 @@
       "name": "Marcos Braz",
       "stateCode": "RJ",
       "party": "PSDB",
-      "amountNet": 6286.87,
-      "amountGross": 6286.87,
+      "amountNet": 6788.21,
+      "amountGross": 6788.21,
       "amountAdjustments": 0.0,
-      "recordsCount": 21
+      "recordsCount": 23
     },
     {
       "id": 115200,
       "name": "Raniery Paulino",
       "stateCode": "PB",
       "party": "REPUBLICANOS",
-      "amountNet": 7378.34,
-      "amountGross": 7378.34,
+      "amountNet": 7584.39,
+      "amountGross": 7584.39,
       "amountAdjustments": 0.0,
-      "recordsCount": 26
+      "recordsCount": 27
     }
   ]
 }

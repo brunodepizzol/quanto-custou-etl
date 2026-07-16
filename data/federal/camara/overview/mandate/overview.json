@@ -3,14 +3,14 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "mandate",
-    "generatedAt": "2026-07-15T05:46:54.474782Z",
+    "generatedAt": "2026-07-16T06:01:43.526761Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 791220062.56,
-    "amountGross": 826842099.0,
+    "amountNet": 791312209.31,
+    "amountGross": 826934245.75,
     "amountAdjustments": -35622036.44,
-    "recordsCount": 693346,
+    "recordsCount": 693607,
     "entitiesCount": 556,
     "entitiesWithSpending": 550,
     "entitiesWithoutSpending": 6
@@ -35,26 +35,26 @@
       },
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 278722482.03,
-        "amountGross": 314344518.47,
+        "amountNet": 278740184.03,
+        "amountGross": 314362220.47,
         "amountAdjustments": -35622036.44
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 110654748.3,
-        "amountGross": 110654748.3,
+        "amountNet": 110666979.36,
+        "amountGross": 110666979.36,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 69232405.06,
-        "amountGross": 69232405.06,
+        "amountNet": 69278107.45,
+        "amountGross": 69278107.45,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 11525986.5,
-        "amountGross": 11525986.5,
+        "amountNet": 11540565.74,
+        "amountGross": 11540565.74,
         "amountAdjustments": 0.0
       },
       {
@@ -65,8 +65,8 @@
       },
       {
         "category": "ALIMENTACAO",
-        "amountNet": 2183724.31,
-        "amountGross": 2183724.31,
+        "amountNet": 2185656.37,
+        "amountGross": 2185656.37,
         "amountAdjustments": 0.0
       },
       {
@@ -85,120 +85,120 @@
     "topStates": [
       {
         "stateCode": "SP",
-        "amountNet": 97925409.83,
-        "amountGross": 102357436.2,
+        "amountNet": 97926414.36,
+        "amountGross": 102358440.73,
         "amountAdjustments": -4432026.37
       },
       {
         "stateCode": "MG",
-        "amountNet": 83107134.57,
-        "amountGross": 85311965.44,
+        "amountNet": 83129912.61,
+        "amountGross": 85334743.48,
         "amountAdjustments": -2204830.87
       },
       {
         "stateCode": "RJ",
-        "amountNet": 64450984.6,
-        "amountGross": 68732045.51,
+        "amountNet": 64459072.04,
+        "amountGross": 68740132.95,
         "amountAdjustments": -4281060.91
       },
       {
         "stateCode": "BA",
-        "amountNet": 63000829.94,
-        "amountGross": 66251357.0,
+        "amountNet": 63004353.98,
+        "amountGross": 66254881.04,
         "amountAdjustments": -3250527.06
       },
       {
         "stateCode": "RS",
-        "amountNet": 50564394.82,
-        "amountGross": 53409484.3,
+        "amountNet": 50572997.81,
+        "amountGross": 53418087.29,
         "amountAdjustments": -2845089.48
       },
       {
         "stateCode": "PR",
-        "amountNet": 47521968.56,
-        "amountGross": 49536551.24,
+        "amountNet": 47523856.91,
+        "amountGross": 49538439.59,
         "amountAdjustments": -2014582.68
       },
       {
         "stateCode": "PE",
-        "amountNet": 44132118.86,
-        "amountGross": 46479825.52,
+        "amountNet": 44150445.06,
+        "amountGross": 46498151.72,
         "amountAdjustments": -2347706.66
       },
       {
         "stateCode": "CE",
-        "amountNet": 30858893.15,
-        "amountGross": 32385610.72,
+        "amountNet": 30859489.01,
+        "amountGross": 32386206.58,
         "amountAdjustments": -1526717.57
       },
       {
         "stateCode": "PA",
-        "amountNet": 26682786.61,
-        "amountGross": 27858308.1,
+        "amountNet": 26683099.14,
+        "amountGross": 27858620.63,
         "amountAdjustments": -1175521.49
       },
       {
         "stateCode": "GO",
-        "amountNet": 25045841.26,
-        "amountGross": 25057332.68,
+        "amountNet": 25047006.36,
+        "amountGross": 25058497.78,
         "amountAdjustments": -11491.42
       },
       {
         "stateCode": "MA",
-        "amountNet": 23662015.72,
-        "amountGross": 24860990.98,
+        "amountNet": 23671611.11,
+        "amountGross": 24870586.37,
         "amountAdjustments": -1198975.26
       },
       {
         "stateCode": "SC",
-        "amountNet": 23357005.74,
-        "amountGross": 24515582.85,
+        "amountNet": 23360396.0,
+        "amountGross": 24518973.11,
         "amountAdjustments": -1158577.11
       }
     ],
     "concentrationTop10": {
-      "amountNet": 20918643.16,
+      "amountNet": 20925892.05,
       "percent": 2.64
     },
     "averages": {
-      "perEntityWithSpending": 1438581.93,
-      "perRecord": 1141.16
+      "perEntityWithSpending": 1438749.47,
+      "perRecord": 1140.87
     },
     "dailyTotals": {
       "referenceDate": "2026-07-14",
-      "amountNet": 2630.5,
-      "previousAmountNet": 11084.52,
-      "deltaAmountNet": -8454.02,
-      "deltaPercent": -76.27,
+      "amountNet": 6791.32,
+      "previousAmountNet": 21671.35,
+      "deltaAmountNet": -14880.03,
+      "deltaPercent": -68.66,
       "deltaDirection": "down",
       "trend7d": [
         {
           "date": "2026-07-08",
-          "amountNet": 37088.3
+          "amountNet": 41821.01
         },
         {
           "date": "2026-07-09",
-          "amountNet": 26964.05
+          "amountNet": 31684.56
         },
         {
           "date": "2026-07-10",
-          "amountNet": 21189.82
+          "amountNet": 32789.58
         },
         {
           "date": "2026-07-11",
-          "amountNet": 10796.01
+          "amountNet": 16237.46
         },
         {
           "date": "2026-07-12",
-          "amountNet": 5596.38
+          "amountNet": 11317.24
         },
         {
           "date": "2026-07-13",
-          "amountNet": 11084.52
+          "amountNet": 21671.35
         },
         {
           "date": "2026-07-14",
-          "amountNet": 2630.5
+          "amountNet": 6791.32
         }
       ]
     },
