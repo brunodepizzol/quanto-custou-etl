@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220643,
-    "generatedAt": "2026-07-16T06:01:44.099031Z",
+    "generatedAt": "2026-07-17T06:03:14.463548Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "sônia-guajajara"
   },
   "mandateTotals": {
-    "amountNet": 64791.79,
-    "amountGross": 64791.79,
+    "amountNet": 65055.65,
+    "amountGross": 65055.65,
     "amountAdjustments": 0.0,
-    "recordsCount": 7,
+    "recordsCount": 8,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 263.86,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 3694.34,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 263.86,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 3694.34,
@@ -54,7 +54,7 @@
     }
   },
   "yearTotals": {
-    "2026": 64791.79
+    "2026": 65055.65
   },
   "monthTotals": {
     "2026-01": 0.0,
@@ -63,11 +63,11 @@
     "2026-04": 34218.29,
     "2026-05": 30573.5,
     "2026-06": 0.0,
-    "2026-07": 0.0
+    "2026-07": 263.86
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 60000.0,
-    "percent": 92.6
+    "percent": 92.23
   }
 }

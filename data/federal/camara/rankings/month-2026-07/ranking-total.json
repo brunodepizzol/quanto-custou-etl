@@ -3,10 +3,20 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-07",
-    "generatedAt": "2026-07-16T06:01:43.043003Z",
+    "generatedAt": "2026-07-17T06:03:13.424190Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
+    {
+      "id": 204388,
+      "name": "Bibo Nunes",
+      "stateCode": "RS",
+      "party": "PL",
+      "amountNet": 19797.2,
+      "amountGross": 19797.2,
+      "amountAdjustments": 0.0,
+      "recordsCount": 31
+    },
     {
       "id": 204426,
       "name": "Carlos Veras",
@@ -42,10 +52,30 @@
       "name": "Daniel Trzeciak",
       "stateCode": "RS",
       "party": "PSDB",
-      "amountNet": 10038.39,
-      "amountGross": 10038.39,
+      "amountNet": 10073.39,
+      "amountGross": 10073.39,
       "amountAdjustments": 0.0,
-      "recordsCount": 17
+      "recordsCount": 18
+    },
+    {
+      "id": 220554,
+      "name": "Alexandre Lindenmeyer",
+      "stateCode": "RS",
+      "party": "PT",
+      "amountNet": 8992.34,
+      "amountGross": 8992.34,
+      "amountAdjustments": 0.0,
+      "recordsCount": 53
+    },
+    {
+      "id": 122974,
+      "name": "Pedro Lucas Fernandes",
+      "stateCode": "MA",
+      "party": "UNIÃO",
+      "amountNet": 8678.0,
+      "amountGross": 8678.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 4
     },
     {
       "id": 220671,
@@ -68,16 +98,6 @@
       "recordsCount": 21
     },
     {
-      "id": 122974,
-      "name": "Pedro Lucas Fernandes",
-      "stateCode": "MA",
-      "party": "UNIÃO",
-      "amountNet": 8170.0,
-      "amountGross": 8170.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 3
-    },
-    {
       "id": 204457,
       "name": "Juninho do Pneu",
       "stateCode": "RJ",
@@ -86,26 +106,6 @@
       "amountGross": 8066.59,
       "amountAdjustments": 0.0,
       "recordsCount": 14
-    },
-    {
-      "id": 220554,
-      "name": "Alexandre Lindenmeyer",
-      "stateCode": "RS",
-      "party": "PT",
-      "amountNet": 7722.34,
-      "amountGross": 7722.34,
-      "amountAdjustments": 0.0,
-      "recordsCount": 48
-    },
-    {
-      "id": 220617,
-      "name": "Murillo Gouvea",
-      "stateCode": "RJ",
-      "party": "PSDB",
-      "amountNet": 7259.74,
-      "amountGross": 7259.74,
-      "amountAdjustments": 0.0,
-      "recordsCount": 17
     }
   ],
   "bottom": [
@@ -160,16 +160,6 @@
       "recordsCount": 1
     },
     {
-      "id": 220683,
-      "name": "Beto Richa",
-      "stateCode": "PR",
-      "party": "PSDB",
-      "amountNet": 100.0,
-      "amountGross": 100.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 213762,
       "name": "Carla Dickson",
       "stateCode": "RN",
@@ -190,22 +180,32 @@
       "recordsCount": 1
     },
     {
-      "id": 154178,
-      "name": "Milton Vieira",
-      "stateCode": "SP",
-      "party": "REPUBLICANOS",
-      "amountNet": 100.0,
-      "amountGross": 100.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 220693,
       "name": "Roberta Roma",
       "stateCode": "BA",
       "party": "PL",
       "amountNet": 100.0,
       "amountGross": 100.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 74478,
+      "name": "Luciano Bivar",
+      "stateCode": "PE",
+      "party": "MDB",
+      "amountNet": 107.7,
+      "amountGross": 107.7,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220644,
+      "name": "Rosangela Moro",
+      "stateCode": "SP",
+      "party": "PL",
+      "amountNet": 109.8,
+      "amountGross": 109.8,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     }

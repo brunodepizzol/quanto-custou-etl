@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "mandate",
-    "generatedAt": "2026-07-16T06:01:43.533734Z",
+    "generatedAt": "2026-07-17T06:03:13.907432Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -88,6 +88,16 @@
       "recordsCount": 930
     },
     {
+      "id": 224117,
+      "name": "Gabriel Mota",
+      "stateCode": "RR",
+      "party": "REPUBLICANOS",
+      "amountNet": 2058305.12,
+      "amountGross": 2085228.67,
+      "amountAdjustments": -26923.55,
+      "recordsCount": 245
+    },
+    {
       "id": 141408,
       "name": "Cleber Verde",
       "stateCode": "MA",
@@ -96,16 +106,6 @@
       "amountGross": 2061877.32,
       "amountAdjustments": -3804.26,
       "recordsCount": 421
-    },
-    {
-      "id": 224117,
-      "name": "Gabriel Mota",
-      "stateCode": "RR",
-      "party": "REPUBLICANOS",
-      "amountNet": 2057848.57,
-      "amountGross": 2084772.12,
-      "amountAdjustments": -26923.55,
-      "recordsCount": 243
     }
   ],
   "bottom": [
@@ -190,22 +190,22 @@
       "recordsCount": 11
     },
     {
-      "id": 236375,
-      "name": "Marcos Braz",
-      "stateCode": "RJ",
-      "party": "PSDB",
-      "amountNet": 6788.21,
-      "amountGross": 6788.21,
-      "amountAdjustments": 0.0,
-      "recordsCount": 23
-    },
-    {
       "id": 115200,
       "name": "Raniery Paulino",
       "stateCode": "PB",
       "party": "REPUBLICANOS",
       "amountNet": 7584.39,
       "amountGross": 7584.39,
+      "amountAdjustments": 0.0,
+      "recordsCount": 27
+    },
+    {
+      "id": 236375,
+      "name": "Marcos Braz",
+      "stateCode": "RJ",
+      "party": "PSDB",
+      "amountNet": 7953.96,
+      "amountGross": 7953.96,
       "amountAdjustments": 0.0,
       "recordsCount": 27
     }
