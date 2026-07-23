@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 122195,
-    "generatedAt": "2026-07-21T06:13:08.658228Z",
+    "generatedAt": "2026-07-23T06:19:37.233437Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "leonardo-gadelha"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 1330.5,
+    "amountGross": 1330.5,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 1,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 1330.5,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 1330.5,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 0.0,
@@ -54,14 +54,14 @@
     }
   },
   "yearTotals": {
-    "2026": 0.0
+    "2026": 1330.5
   },
   "monthTotals": {
-    "2026-07": 0.0
+    "2026-07": 1330.5
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "COMBUSTIVEL",
+    "amountNet": 1330.5,
+    "percent": 100.0
   }
 }
