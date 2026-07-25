@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-07",
-    "generatedAt": "2026-07-23T06:19:36.275466Z",
+    "generatedAt": "2026-07-25T06:05:06.353161Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 1138631.71,
-    "amountGross": 1138631.71,
+    "amountNet": 1217089.9,
+    "amountGross": 1217089.9,
     "amountAdjustments": 0.0,
-    "recordsCount": 3748,
+    "recordsCount": 3960,
     "entitiesCount": 512,
-    "entitiesWithSpending": 366,
-    "entitiesWithoutSpending": 146
+    "entitiesWithSpending": 369,
+    "entitiesWithoutSpending": 143
   },
   "highlights": {
     "topSpender": {
@@ -29,26 +29,26 @@
     "topCategories": [
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 780172.89,
-        "amountGross": 780172.89,
+        "amountNet": 823589.23,
+        "amountGross": 823589.23,
         "amountAdjustments": 0.0
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 162933.2,
-        "amountGross": 162933.2,
+        "amountNet": 168541.97,
+        "amountGross": 168541.97,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 123272.68,
-        "amountGross": 123272.68,
+        "amountNet": 135266.52,
+        "amountGross": 135266.52,
         "amountAdjustments": 0.0
       },
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 53751.47,
-        "amountGross": 53751.47,
+        "amountNet": 71190.71,
+        "amountGross": 71190.71,
         "amountAdjustments": 0.0
       },
       {
@@ -85,50 +85,62 @@
     "topStates": [
       {
         "stateCode": "RS",
-        "amountNet": 172528.92,
-        "amountGross": 172528.92,
+        "amountNet": 181853.21,
+        "amountGross": 181853.21,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "MG",
-        "amountNet": 137053.55,
-        "amountGross": 137053.55,
+        "amountNet": 144291.61,
+        "amountGross": 144291.61,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "RJ",
-        "amountNet": 123182.17,
-        "amountGross": 123182.17,
+        "amountNet": 127184.56,
+        "amountGross": 127184.56,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PE",
-        "amountNet": 97327.69,
-        "amountGross": 97327.69,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "BA",
-        "amountNet": 81764.38,
-        "amountGross": 81764.38,
+        "amountNet": 99362.83,
+        "amountGross": 99362.83,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "SP",
-        "amountNet": 81079.66,
-        "amountGross": 81079.66,
+        "amountNet": 96743.5,
+        "amountGross": 96743.5,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 85004.91,
+        "amountGross": 85004.91,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PR",
-        "amountNet": 52815.02,
-        "amountGross": 52815.02,
+        "amountNet": 57700.3,
+        "amountGross": 57700.3,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "SC",
-        "amountNet": 48970.69,
-        "amountGross": 48970.69,
+        "amountNet": 49622.88,
+        "amountGross": 49622.88,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "MT",
+        "amountNet": 39215.77,
+        "amountGross": 39215.77,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "TO",
+        "amountNet": 35971.62,
+        "amountGross": 35971.62,
         "amountAdjustments": 0.0
       },
       {
@@ -142,84 +154,72 @@
         "amountNet": 35043.52,
         "amountGross": 35043.52,
         "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "TO",
-        "amountNet": 34571.51,
-        "amountGross": 34571.51,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "GO",
-        "amountNet": 28976.79,
-        "amountGross": 28976.79,
-        "amountAdjustments": 0.0
       }
     ],
     "concentrationTop10": {
-      "amountNet": 143275.21,
-      "percent": 12.58
+      "amountNet": 147603.34,
+      "percent": 12.13
     },
     "averages": {
-      "perEntityWithSpending": 3111.02,
-      "perRecord": 303.8
+      "perEntityWithSpending": 3298.35,
+      "perRecord": 307.35
     },
     "dailyTotals": {
-      "referenceDate": "2026-07-22",
-      "amountNet": 3848.81,
-      "previousAmountNet": 5974.97,
-      "deltaAmountNet": -2126.16,
-      "deltaPercent": -35.58,
+      "referenceDate": "2026-07-23",
+      "amountNet": 466.17,
+      "previousAmountNet": 7509.52,
+      "deltaAmountNet": -7043.35,
+      "deltaPercent": -93.79,
       "deltaDirection": "down",
       "trend7d": [
         {
-          "date": "2026-07-16",
-          "amountNet": 32876.31
-        },
-        {
           "date": "2026-07-17",
-          "amountNet": 17599.96
+          "amountNet": 19884.36
         },
         {
           "date": "2026-07-18",
-          "amountNet": 14888.04
+          "amountNet": 16342.72
         },
         {
           "date": "2026-07-19",
-          "amountNet": 11289.57
+          "amountNet": 12030.48
         },
         {
           "date": "2026-07-20",
-          "amountNet": 15628.32
+          "amountNet": 16445.09
         },
         {
           "date": "2026-07-21",
-          "amountNet": 5974.97
+          "amountNet": 18001.73
         },
         {
           "date": "2026-07-22",
-          "amountNet": 3848.81
+          "amountNet": 7509.52
+        },
+        {
+          "date": "2026-07-23",
+          "amountNet": 466.17
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-07-22",
+      "referenceDate": "2026-07-23",
       "entity": {
-        "id": 204390,
-        "name": "Professor Alcides",
-        "stateCode": "GO",
-        "party": "PSDB",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204390.jpg",
+        "id": 204444,
+        "name": "Helio Lopes",
+        "stateCode": "RJ",
+        "party": "PL",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204444.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 1893.44,
+      "amountNet": 266.17,
       "category": "COMBUSTIVEL",
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "JUSTINIANO & JUSTINIANO LTDA",
+      "supplier": "POSTO DE GASOLINA GALEAO LTDA",
       "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8135900"
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8136423"
     }
   }
 }
