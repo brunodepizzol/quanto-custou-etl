@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 236375,
-    "generatedAt": "2026-07-25T06:05:07.178379Z",
+    "generatedAt": "2026-07-29T06:15:04.521339Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,16 +15,16 @@
     "slug": "marcos-braz"
   },
   "mandateTotals": {
-    "amountNet": 8390.37,
-    "amountGross": 8390.37,
-    "amountAdjustments": 0.0,
-    "recordsCount": 29,
+    "amountNet": 13517.74,
+    "amountGross": 13646.1,
+    "amountAdjustments": -128.36,
+    "recordsCount": 34,
     "byCategoryNet": {
       "ALIMENTACAO": 99.92,
       "COMBUSTIVEL": 7941.45,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": 5127.37,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 349.0,
       "HOSPEDAGEM": 0.0,
@@ -35,7 +35,7 @@
       "COMBUSTIVEL": 7941.45,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": 5255.73,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 349.0,
       "HOSPEDAGEM": 0.0,
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -128.36,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,7 +54,7 @@
     }
   },
   "yearTotals": {
-    "2026": 8390.37
+    "2026": 13517.74
   },
   "monthTotals": {
     "2026-01": 0.0,
@@ -63,11 +63,11 @@
     "2026-04": 0.0,
     "2026-05": 0.0,
     "2026-06": 2657.74,
-    "2026-07": 5732.63
+    "2026-07": 10860.0
   },
   "topCategory": {
     "category": "COMBUSTIVEL",
     "amountNet": 7941.45,
-    "percent": 94.65
+    "percent": 58.75
   }
 }

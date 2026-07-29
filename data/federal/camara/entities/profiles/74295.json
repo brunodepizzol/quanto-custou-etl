@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74295,
-    "generatedAt": "2026-07-25T06:05:07.049141Z",
+    "generatedAt": "2026-07-29T06:15:04.354600Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,19 +15,19 @@
     "slug": "inácio-arruda"
   },
   "mandateTotals": {
-    "amountNet": 6315.88,
-    "amountGross": 6315.88,
-    "amountAdjustments": 0.0,
-    "recordsCount": 25,
+    "amountNet": 8215.08,
+    "amountGross": 10511.09,
+    "amountAdjustments": -2296.01,
+    "recordsCount": 29,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 2821.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 2190.22,
+      "DESLOCAMENTO": 2279.66,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 955.66,
-      "HOSPEDAGEM": 349.0,
+      "HOSPEDAGEM": 2158.76,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
@@ -35,10 +35,10 @@
       "COMBUSTIVEL": 2821.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 2190.22,
+      "DESLOCAMENTO": 4575.67,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 955.66,
-      "HOSPEDAGEM": 349.0,
+      "HOSPEDAGEM": 2158.76,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": -2296.01,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,7 +54,7 @@
     }
   },
   "yearTotals": {
-    "2026": 6315.88
+    "2026": 8215.08
   },
   "monthTotals": {
     "2026-01": 0.0,
@@ -63,11 +63,11 @@
     "2026-04": 0.0,
     "2026-05": 3872.81,
     "2026-06": 0.0,
-    "2026-07": 2443.07
+    "2026-07": 4342.27
   },
   "topCategory": {
     "category": "COMBUSTIVEL",
     "amountNet": 2821.0,
-    "percent": 44.67
+    "percent": 34.34
   }
 }
