@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160541,
-    "generatedAt": "2026-07-29T06:15:04.384013Z",
+    "generatedAt": "2026-07-31T06:30:11.251697Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "arthur-lira"
   },
   "mandateTotals": {
-    "amountNet": 609773.24,
-    "amountGross": 617949.37,
+    "amountNet": 610173.24,
+    "amountGross": 618349.37,
     "amountAdjustments": -8176.13,
-    "recordsCount": 583,
+    "recordsCount": 585,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 114969.71,
+      "COMBUSTIVEL": 115369.71,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2796.12,
       "DESLOCAMENTO": 351227.41,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 114969.71,
+      "COMBUSTIVEL": 115369.71,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 2796.12,
       "DESLOCAMENTO": 359403.54,
@@ -57,7 +57,7 @@
     "2023": 109541.74,
     "2024": 68284.33,
     "2025": 339742.42,
-    "2026": 92204.75
+    "2026": 92604.75
   },
   "monthTotals": {
     "2023-01": 232.86,
@@ -102,11 +102,11 @@
     "2026-04": 27321.36,
     "2026-05": 10333.8,
     "2026-06": 0.0,
-    "2026-07": 0.0
+    "2026-07": 400.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 351227.41,
-    "percent": 57.6
+    "percent": 57.56
   }
 }

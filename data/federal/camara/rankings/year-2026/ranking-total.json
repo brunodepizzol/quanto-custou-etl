@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-07-29T06:15:03.538770Z",
+    "generatedAt": "2026-07-31T06:30:10.517510Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -12,10 +12,10 @@
       "name": "Carlos Veras",
       "stateCode": "PE",
       "party": "PT",
-      "amountNet": 352712.41,
-      "amountGross": 355891.3,
+      "amountNet": 357450.73,
+      "amountGross": 360629.62,
       "amountAdjustments": -3178.89,
-      "recordsCount": 473
+      "recordsCount": 492
     },
     {
       "id": 220669,
@@ -58,6 +58,16 @@
       "recordsCount": 98
     },
     {
+      "id": 160635,
+      "name": "Ruy Carneiro",
+      "stateCode": "PB",
+      "party": "PODE",
+      "amountNet": 337976.8,
+      "amountGross": 337976.8,
+      "amountAdjustments": 0.0,
+      "recordsCount": 157
+    },
+    {
       "id": 220677,
       "name": "Keniston Braga",
       "stateCode": "PA",
@@ -82,30 +92,20 @@
       "name": "Bibo Nunes",
       "stateCode": "RS",
       "party": "PL",
-      "amountNet": 323888.68,
-      "amountGross": 331902.51,
+      "amountNet": 325670.14,
+      "amountGross": 333683.97,
       "amountAdjustments": -8013.83,
-      "recordsCount": 466
-    },
-    {
-      "id": 160635,
-      "name": "Ruy Carneiro",
-      "stateCode": "PB",
-      "party": "PODE",
-      "amountNet": 322976.8,
-      "amountGross": 322976.8,
-      "amountAdjustments": 0.0,
-      "recordsCount": 155
+      "recordsCount": 471
     },
     {
       "id": 141459,
       "name": "João Maia",
       "stateCode": "RN",
       "party": "PP",
-      "amountNet": 322559.81,
-      "amountGross": 325902.34,
+      "amountNet": 322892.88,
+      "amountGross": 326235.41,
       "amountAdjustments": -3342.53,
-      "recordsCount": 178
+      "recordsCount": 179
     }
   ],
   "bottom": [
@@ -170,24 +170,24 @@
       "recordsCount": 10
     },
     {
-      "id": 236423,
-      "name": "Valdir Trindade",
-      "stateCode": "PB",
-      "party": "REPUBLICANOS",
-      "amountNet": 5383.49,
-      "amountGross": 5383.49,
-      "amountAdjustments": 0.0,
-      "recordsCount": 13
-    },
-    {
       "id": 236284,
       "name": "Glaycon Franco",
       "stateCode": "MG",
       "party": "PSDB",
-      "amountNet": 6286.37,
-      "amountGross": 6286.37,
+      "amountNet": 7304.07,
+      "amountGross": 7304.07,
       "amountAdjustments": 0.0,
-      "recordsCount": 11
+      "recordsCount": 12
+    },
+    {
+      "id": 236423,
+      "name": "Valdir Trindade",
+      "stateCode": "PB",
+      "party": "REPUBLICANOS",
+      "amountNet": 8050.89,
+      "amountGross": 8050.89,
+      "amountAdjustments": 0.0,
+      "recordsCount": 22
     },
     {
       "id": 74295,
@@ -204,10 +204,10 @@
       "name": "Raniery Paulino",
       "stateCode": "PB",
       "party": "REPUBLICANOS",
-      "amountNet": 9130.64,
-      "amountGross": 9130.64,
+      "amountNet": 9330.64,
+      "amountGross": 9330.64,
       "amountAdjustments": 0.0,
-      "recordsCount": 31
+      "recordsCount": 32
     }
   ]
 }
