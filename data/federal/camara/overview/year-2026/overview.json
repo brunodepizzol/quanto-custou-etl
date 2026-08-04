@@ -3,14 +3,14 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "year-2026",
-    "generatedAt": "2026-08-02T06:18:36.842892Z",
+    "generatedAt": "2026-08-04T06:10:12.030501Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 109907074.1,
-    "amountGross": 114413149.53,
+    "amountNet": 109915756.89,
+    "amountGross": 114421832.32,
     "amountAdjustments": -4506075.43,
-    "recordsCount": 91452,
+    "recordsCount": 91482,
     "entitiesCount": 518,
     "entitiesWithSpending": 513,
     "entitiesWithoutSpending": 5
@@ -22,8 +22,8 @@
       "stateCode": "PE",
       "party": "PT",
       "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
-      "amountNet": 357450.73,
-      "amountGross": 360629.62,
+      "amountNet": 358247.88,
+      "amountGross": 361426.77,
       "amountAdjustments": -3178.89
     },
     "topCategories": [
@@ -47,8 +47,8 @@
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 11477705.12,
-        "amountGross": 11477705.12,
+        "amountNet": 11486387.91,
+        "amountGross": 11486387.91,
         "amountAdjustments": 0.0
       },
       {
@@ -97,20 +97,20 @@
       },
       {
         "stateCode": "RJ",
-        "amountNet": 8742995.78,
-        "amountGross": 9287754.81,
+        "amountNet": 8744645.83,
+        "amountGross": 9289404.86,
         "amountAdjustments": -544759.03
       },
       {
         "stateCode": "BA",
-        "amountNet": 8286087.4,
-        "amountGross": 8657678.26,
+        "amountNet": 8286587.42,
+        "amountGross": 8658178.28,
         "amountAdjustments": -371590.86
       },
       {
         "stateCode": "RS",
-        "amountNet": 7226790.95,
-        "amountGross": 7518814.84,
+        "amountNet": 7227141.5,
+        "amountGross": 7519165.39,
         "amountAdjustments": -292023.89
       },
       {
@@ -121,14 +121,14 @@
       },
       {
         "stateCode": "PE",
-        "amountNet": 6169997.69,
-        "amountGross": 6436792.11,
+        "amountNet": 6171106.52,
+        "amountGross": 6437900.94,
         "amountAdjustments": -266794.42
       },
       {
         "stateCode": "CE",
-        "amountNet": 4101955.82,
-        "amountGross": 4344610.94,
+        "amountNet": 4102055.82,
+        "amountGross": 4344710.94,
         "amountAdjustments": -242655.12
       },
       {
@@ -157,69 +157,53 @@
       }
     ],
     "concentrationTop10": {
-      "amountNet": 3394110.15,
+      "amountNet": 3395414.84,
       "percent": 3.09
     },
     "averages": {
-      "perEntityWithSpending": 214243.81,
-      "perRecord": 1201.8
+      "perEntityWithSpending": 214260.73,
+      "perRecord": 1201.5
     },
     "dailyTotals": {
-      "referenceDate": "2026-07-30",
-      "amountNet": 280.0,
-      "previousAmountNet": 3928.74,
-      "deltaAmountNet": -3648.74,
-      "deltaPercent": -92.87,
+      "referenceDate": "2026-08-03",
+      "amountNet": 1755.02,
+      "previousAmountNet": 3797.45,
+      "deltaAmountNet": -2042.43,
+      "deltaPercent": -53.78,
       "deltaDirection": "down",
       "trend7d": [
         {
-          "date": "2026-07-24",
-          "amountNet": 26510.12
+          "date": "2026-08-01",
+          "amountNet": 3130.32
         },
         {
-          "date": "2026-07-25",
-          "amountNet": 10915.5
+          "date": "2026-08-02",
+          "amountNet": 3797.45
         },
         {
-          "date": "2026-07-26",
-          "amountNet": 11668.6
-        },
-        {
-          "date": "2026-07-27",
-          "amountNet": 13511.25
-        },
-        {
-          "date": "2026-07-28",
-          "amountNet": 19961.91
-        },
-        {
-          "date": "2026-07-29",
-          "amountNet": 3928.74
-        },
-        {
-          "date": "2026-07-30",
-          "amountNet": 280.0
+          "date": "2026-08-03",
+          "amountNet": 1755.02
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-07-30",
+      "referenceDate": "2026-08-03",
       "entity": {
-        "id": 204426,
-        "name": "Carlos Veras",
-        "stateCode": "PE",
-        "party": "PT",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204426.jpg",
+        "id": 220547,
+        "name": "Marcos Pollon",
+        "stateCode": "MS",
+        "party": "PL",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220547.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 280.0,
-      "category": "ESCRITORIO",
-      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-      "supplier": "MAP COMERCIO, LOCACAO E SERVICO DE MANUTENCAO DE ELETRO-ELETRONICOS LTDA",
-      "documentType": "Nota Fiscal",
-      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3234/2026/8133656.pdf"
+      "amountNet": 482.95,
+      "category": "COMBUSTIVEL",
+      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "supplier": "POSTO SAO FRANCISCO LOCATELLI LTDA",
+      "documentType": "Nota Fiscal Eletrônica",
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8140201"
     }
   }
 }
