@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-08-04T06:10:12.037264Z",
+    "generatedAt": "2026-08-05T06:10:24.446915Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -92,10 +92,10 @@
       "name": "Bibo Nunes",
       "stateCode": "RS",
       "party": "PL",
-      "amountNet": 325820.14,
-      "amountGross": 333833.97,
+      "amountNet": 326288.5,
+      "amountGross": 334302.33,
       "amountAdjustments": -8013.83,
-      "recordsCount": 472
+      "recordsCount": 475
     },
     {
       "id": 141459,
@@ -116,6 +116,16 @@
       "party": "PODE",
       "amountNet": 438.75,
       "amountGross": 438.75,
+      "amountAdjustments": 0.0,
+      "recordsCount": 3
+    },
+    {
+      "id": 74140,
+      "name": "José Carlos Araujo",
+      "stateCode": "BA",
+      "party": "DC",
+      "amountNet": 1177.19,
+      "amountGross": 1177.19,
       "amountAdjustments": 0.0,
       "recordsCount": 3
     },
@@ -198,16 +208,6 @@
       "amountGross": 10511.09,
       "amountAdjustments": -2296.01,
       "recordsCount": 29
-    },
-    {
-      "id": 115200,
-      "name": "Raniery Paulino",
-      "stateCode": "PB",
-      "party": "REPUBLICANOS",
-      "amountNet": 9330.64,
-      "amountGross": 9330.64,
-      "amountAdjustments": 0.0,
-      "recordsCount": 32
     }
   ]
 }
