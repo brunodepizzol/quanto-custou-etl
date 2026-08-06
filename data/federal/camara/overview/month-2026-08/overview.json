@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-08",
-    "generatedAt": "2026-08-05T06:10:24.334049Z",
+    "generatedAt": "2026-08-06T06:12:58.029594Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 38454.04,
-    "amountGross": 38454.04,
+    "amountNet": 69006.5,
+    "amountGross": 69006.5,
     "amountAdjustments": 0.0,
-    "recordsCount": 137,
+    "recordsCount": 253,
     "entitiesCount": 512,
-    "entitiesWithSpending": 73,
-    "entitiesWithoutSpending": 439
+    "entitiesWithSpending": 111,
+    "entitiesWithoutSpending": 401
   },
   "highlights": {
     "topSpender": {
@@ -29,14 +29,20 @@
     "topCategories": [
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 38150.46,
-        "amountGross": 38150.46,
+        "amountNet": 67775.97,
+        "amountGross": 67775.97,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 663.9,
+        "amountGross": 663.9,
         "amountAdjustments": 0.0
       },
       {
         "category": "ALIMENTACAO",
-        "amountNet": 303.58,
-        "amountGross": 303.58,
+        "amountNet": 566.63,
+        "amountGross": 566.63,
         "amountAdjustments": 0.0
       },
       {
@@ -64,12 +70,6 @@
         "amountAdjustments": 0.0
       },
       {
-        "category": "ESCRITORIO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
         "category": "HOSPEDAGEM",
         "amountNet": 0.0,
         "amountGross": 0.0,
@@ -84,27 +84,39 @@
     ],
     "topStates": [
       {
-        "stateCode": "BA",
-        "amountNet": 6330.89,
-        "amountGross": 6330.89,
-        "amountAdjustments": 0.0
-      },
-      {
         "stateCode": "RJ",
-        "amountNet": 5779.01,
-        "amountGross": 5779.01,
+        "amountNet": 11117.51,
+        "amountGross": 11117.51,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "RS",
-        "amountNet": 5171.84,
-        "amountGross": 5171.84,
+        "amountNet": 9450.07,
+        "amountGross": 9450.07,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 9255.43,
+        "amountGross": 9255.43,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PE",
-        "amountNet": 4108.75,
-        "amountGross": 4108.75,
+        "amountNet": 8143.04,
+        "amountGross": 8143.04,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 6307.28,
+        "amountGross": 6307.28,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "TO",
+        "amountNet": 2602.65,
+        "amountGross": 2602.65,
         "amountAdjustments": 0.0
       },
       {
@@ -114,100 +126,96 @@
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "TO",
-        "amountNet": 2152.65,
-        "amountGross": 2152.65,
-        "amountAdjustments": 0.0
-      },
-      {
         "stateCode": "MS",
-        "amountNet": 1844.45,
-        "amountGross": 1844.45,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "SC",
-        "amountNet": 1757.33,
-        "amountGross": 1757.33,
+        "amountNet": 2161.39,
+        "amountGross": 2161.39,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "RN",
-        "amountNet": 1218.89,
-        "amountGross": 1218.89,
+        "amountNet": 1986.85,
+        "amountGross": 1986.85,
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "PI",
-        "amountNet": 870.82,
-        "amountGross": 870.82,
+        "stateCode": "GO",
+        "amountNet": 1731.66,
+        "amountGross": 1731.66,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "DF",
+        "amountNet": 1667.16,
+        "amountGross": 1667.16,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PB",
-        "amountNet": 804.1,
-        "amountGross": 804.1,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "CE",
-        "amountNet": 785.97,
-        "amountGross": 785.97,
+        "amountNet": 1605.42,
+        "amountGross": 1605.42,
         "amountAdjustments": 0.0
       }
     ],
     "concentrationTop10": {
-      "amountNet": 12572.87,
-      "percent": 32.7
+      "amountNet": 17673.64,
+      "percent": 25.61
     },
     "averages": {
-      "perEntityWithSpending": 526.77,
-      "perRecord": 280.69
+      "perEntityWithSpending": 621.68,
+      "perRecord": 272.75
     },
     "dailyTotals": {
-      "referenceDate": "2026-08-04",
-      "amountNet": 3177.69,
-      "previousAmountNet": 11724.63,
-      "deltaAmountNet": -8546.94,
-      "deltaPercent": -72.9,
+      "referenceDate": "2026-08-05",
+      "amountNet": 1838.47,
+      "previousAmountNet": 13401.17,
+      "deltaAmountNet": -11562.7,
+      "deltaPercent": -86.28,
       "deltaDirection": "down",
       "trend7d": [
         {
+          "date": "2026-07-18",
+          "amountNet": 619.0
+        },
+        {
           "date": "2026-08-01",
-          "amountNet": 14192.55
+          "amountNet": 19847.1
         },
         {
           "date": "2026-08-02",
-          "amountNet": 9359.17
+          "amountNet": 13533.78
         },
         {
           "date": "2026-08-03",
-          "amountNet": 11724.63
+          "amountNet": 19766.98
         },
         {
           "date": "2026-08-04",
-          "amountNet": 3177.69
+          "amountNet": 13401.17
+        },
+        {
+          "date": "2026-08-05",
+          "amountNet": 1838.47
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-08-04",
+      "referenceDate": "2026-08-05",
       "entity": {
-        "id": 204457,
-        "name": "Juninho do Pneu",
-        "stateCode": "RJ",
-        "party": "PSDB",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204457.jpg",
+        "id": 73808,
+        "name": "Sérgio Brito",
+        "stateCode": "BA",
+        "party": "PSD",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/73808.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 635.6,
+      "amountNet": 381.15,
       "category": "COMBUSTIVEL",
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "AUTO POSTO VIA IGUACU LTDA",
+      "supplier": "MACAUBENSE COMERCIO DE DERIVADOS DE PETROLEO LTDA",
       "documentType": "Nota Fiscal Eletrônica",
-      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8140715"
+      "documentUrl": "http://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8141922"
     }
   }
 }
