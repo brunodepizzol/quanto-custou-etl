@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220624,
-    "generatedAt": "2026-08-15T04:01:08.021747Z",
+    "generatedAt": "2026-08-16T05:36:24.207254Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "robinson-faria"
   },
   "mandateTotals": {
-    "amountNet": 1750843.67,
-    "amountGross": 1876302.52,
-    "amountAdjustments": -125458.85,
-    "recordsCount": 987,
+    "amountNet": 1441283.69,
+    "amountGross": 1544505.69,
+    "amountAdjustments": -103222.0,
+    "recordsCount": 874,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 205824.28,
+      "COMBUSTIVEL": 174656.96,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1063.02,
-      "DESLOCAMENTO": 635187.17,
-      "DIVULGACAO": 704335.0,
-      "ESCRITORIO": 200147.37,
+      "DESLOCAMENTO": 567397.92,
+      "DIVULGACAO": 521335.0,
+      "ESCRITORIO": 172543.96,
       "HOSPEDAGEM": 4286.83,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 205824.28,
+      "COMBUSTIVEL": 174656.96,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 1063.02,
-      "DESLOCAMENTO": 760646.02,
-      "DIVULGACAO": 704335.0,
-      "ESCRITORIO": 200147.37,
+      "DESLOCAMENTO": 670619.92,
+      "DIVULGACAO": 521335.0,
+      "ESCRITORIO": 172543.96,
       "HOSPEDAGEM": 4286.83,
       "OUTROS": 0.0
     },
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -125458.85,
+      "DESLOCAMENTO": -103222.0,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -57,7 +57,7 @@
     "2023": 421425.32,
     "2024": 481117.61,
     "2025": 538740.76,
-    "2026": 309559.98
+    "2026": 0.0
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -96,18 +96,18 @@
     "2025-10": 66668.45,
     "2025-11": 70450.75,
     "2025-12": 64151.48,
-    "2026-01": 67864.04,
-    "2026-02": 92353.19,
-    "2026-03": 77926.33,
-    "2026-04": 47558.1,
-    "2026-05": 23858.32,
+    "2026-01": 0.0,
+    "2026-02": 0.0,
+    "2026-03": 0.0,
+    "2026-04": 0.0,
+    "2026-05": 0.0,
     "2026-06": 0.0,
     "2026-07": 0.0,
     "2026-08": 0.0
   },
   "topCategory": {
-    "category": "DIVULGACAO",
-    "amountNet": 704335.0,
-    "percent": 40.23
+    "category": "DESLOCAMENTO",
+    "amountNet": 567397.92,
+    "percent": 39.37
   }
 }

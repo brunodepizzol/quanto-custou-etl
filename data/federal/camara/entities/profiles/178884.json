@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178884,
-    "generatedAt": "2026-08-15T04:01:07.940913Z",
+    "generatedAt": "2026-08-16T05:36:24.126301Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "hildo-rocha"
   },
   "mandateTotals": {
-    "amountNet": 828502.35,
-    "amountGross": 883978.58,
-    "amountAdjustments": -55476.23,
-    "recordsCount": 605,
+    "amountNet": 607705.45,
+    "amountGross": 652464.55,
+    "amountAdjustments": -44759.1,
+    "recordsCount": 456,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 61155.55,
+      "COMBUSTIVEL": 40362.23,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 376.45,
-      "DESLOCAMENTO": 258345.98,
-      "DIVULGACAO": 427920.0,
-      "ESCRITORIO": 4111.8,
-      "HOSPEDAGEM": 76592.57,
+      "DESLOCAMENTO": 205081.48,
+      "DIVULGACAO": 304000.0,
+      "ESCRITORIO": 3295.3,
+      "HOSPEDAGEM": 54589.99,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 61155.55,
+      "COMBUSTIVEL": 40362.23,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 376.45,
-      "DESLOCAMENTO": 313822.21,
-      "DIVULGACAO": 427920.0,
-      "ESCRITORIO": 4111.8,
-      "HOSPEDAGEM": 76592.57,
+      "DESLOCAMENTO": 249840.58,
+      "DIVULGACAO": 304000.0,
+      "ESCRITORIO": 3295.3,
+      "HOSPEDAGEM": 54589.99,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -46,7 +46,7 @@
       "COMBUSTIVEL": 0.0,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": -55476.23,
+      "DESLOCAMENTO": -44759.1,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -56,8 +56,7 @@
   "yearTotals": {
     "2023": 376.45,
     "2024": 169385.37,
-    "2025": 437943.63,
-    "2026": 220796.9
+    "2025": 437943.63
   },
   "monthTotals": {
     "2023-01": 376.45,
@@ -95,17 +94,11 @@
     "2025-09": 36721.81,
     "2025-10": 48794.32,
     "2025-11": 36013.32,
-    "2025-12": 41134.46,
-    "2026-01": 38152.21,
-    "2026-02": 47064.05,
-    "2026-03": 39334.51,
-    "2026-04": 44945.94,
-    "2026-05": 45752.8,
-    "2026-06": 5547.39
+    "2025-12": 41134.46
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 427920.0,
-    "percent": 51.65
+    "amountNet": 304000.0,
+    "percent": 50.02
   }
 }
