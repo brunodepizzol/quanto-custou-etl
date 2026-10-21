@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 73604,
-    "generatedAt": "2026-10-21T08:43:56.379848Z",
+    "generatedAt": "2026-10-21T21:20:57.298045Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "rui-falcão"
   },
   "mandateTotals": {
-    "amountNet": 1299802.58,
-    "amountGross": 1325284.15,
-    "amountAdjustments": -25481.57,
-    "recordsCount": 986,
+    "amountNet": 1546020.34,
+    "amountGross": 1590224.91,
+    "amountAdjustments": -44204.57,
+    "recordsCount": 1207,
     "byCategoryNet": {
       "ALIMENTACAO": 4756.55,
-      "COMBUSTIVEL": 68208.29,
+      "COMBUSTIVEL": 96420.89,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 10346.12,
-      "DESLOCAMENTO": 498165.29,
-      "DIVULGACAO": 469096.15,
-      "ESCRITORIO": 236346.73,
-      "HOSPEDAGEM": 12883.45,
-      "OUTROS": 0.0
+      "CORREIOS_TELEFONIA": 10790.12,
+      "DESLOCAMENTO": 530065.29,
+      "DIVULGACAO": 596596.15,
+      "ESCRITORIO": 312586.19,
+      "HOSPEDAGEM": 13528.15,
+      "OUTROS": -18723.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 4756.55,
-      "COMBUSTIVEL": 68208.29,
+      "COMBUSTIVEL": 96420.89,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 10346.12,
-      "DESLOCAMENTO": 523646.86,
-      "DIVULGACAO": 469096.15,
-      "ESCRITORIO": 236346.73,
-      "HOSPEDAGEM": 12883.45,
+      "CORREIOS_TELEFONIA": 10790.12,
+      "DESLOCAMENTO": 555546.86,
+      "DIVULGACAO": 596596.15,
+      "ESCRITORIO": 312586.19,
+      "HOSPEDAGEM": 13528.15,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -50,14 +50,14 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -18723.0
     }
   },
   "yearTotals": {
     "2023": 499683.04,
     "2024": 315113.12,
     "2025": 485006.42,
-    "2026": 0.0
+    "2026": 246217.76
   },
   "monthTotals": {
     "2023-01": 4165.27,
@@ -96,20 +96,20 @@
     "2025-10": 43079.05,
     "2025-11": 46592.3,
     "2025-12": 26407.74,
-    "2026-01": 0.0,
-    "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
-    "2026-10": 0.0
+    "2026-01": 30726.13,
+    "2026-02": 29904.65,
+    "2026-03": 30534.21,
+    "2026-04": 44980.84,
+    "2026-05": 53223.33,
+    "2026-06": 14887.45,
+    "2026-07": 11991.8,
+    "2026-08": 14381.88,
+    "2026-09": 14339.87,
+    "2026-10": 1247.6
   },
   "topCategory": {
-    "category": "DESLOCAMENTO",
-    "amountNet": 498165.29,
-    "percent": 38.33
+    "category": "DIVULGACAO",
+    "amountNet": 596596.15,
+    "percent": 38.59
   }
 }

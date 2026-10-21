@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 233592,
-    "generatedAt": "2026-10-21T08:43:56.682909Z",
+    "generatedAt": "2026-10-21T21:20:57.498152Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "paulo-lemos"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 172044.53,
+    "amountGross": 172044.53,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 64,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 8023.57,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 9900.95,
+      "DIVULGACAO": 120000.0,
+      "ESCRITORIO": 32840.01,
+      "HOSPEDAGEM": 1280.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 8023.57,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 9900.95,
+      "DIVULGACAO": 120000.0,
+      "ESCRITORIO": 32840.01,
+      "HOSPEDAGEM": 1280.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,23 +54,23 @@
     }
   },
   "yearTotals": {
-    "2026": 0.0
+    "2026": 172044.53
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
+    "2026-04": 56910.68,
+    "2026-05": 79420.97,
+    "2026-06": 12549.65,
+    "2026-07": 12331.41,
+    "2026-08": 5415.91,
+    "2026-09": 5415.91,
     "2026-10": 0.0
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DIVULGACAO",
+    "amountNet": 120000.0,
+    "percent": 69.75
   }
 }

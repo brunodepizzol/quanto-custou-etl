@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204558,
-    "generatedAt": "2026-10-21T08:43:56.563991Z",
+    "generatedAt": "2026-10-21T21:20:57.422180Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "marcelo-nilo"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
-    "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "amountNet": 298950.32,
+    "amountGross": 310915.65,
+    "amountAdjustments": -11965.33,
+    "recordsCount": 175,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 4664.44,
+      "COMBUSTIVEL": 28694.21,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "DESLOCAMENTO": 101492.0,
+      "DIVULGACAO": 150100.0,
+      "ESCRITORIO": 25965.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -11965.33
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 4664.44,
+      "COMBUSTIVEL": 28694.21,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
+      "DESLOCAMENTO": 101492.0,
+      "DIVULGACAO": 150100.0,
+      "ESCRITORIO": 25965.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -50,27 +50,27 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -11965.33
     }
   },
   "yearTotals": {
-    "2026": 0.0
+    "2026": 298950.32
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
-    "2026-10": 0.0
+    "2026-04": 36430.06,
+    "2026-05": 75200.77,
+    "2026-06": 20465.14,
+    "2026-07": 33326.75,
+    "2026-08": 30091.07,
+    "2026-09": 32641.21,
+    "2026-10": 70795.32
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DIVULGACAO",
+    "amountNet": 150100.0,
+    "percent": 50.21
   }
 }

@@ -3,103 +3,223 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-01",
-    "generatedAt": "2026-10-18T08:23:21.700662Z",
+    "generatedAt": "2026-10-21T21:17:03.124137Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
-    "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "amountNet": 15829020.36,
+    "amountGross": 15948969.43,
+    "amountAdjustments": -119949.07,
+    "recordsCount": 9288,
     "entitiesCount": 513,
-    "entitiesWithSpending": 0,
-    "entitiesWithoutSpending": 513
+    "entitiesWithSpending": 475,
+    "entitiesWithoutSpending": 38
   },
   "highlights": {
-    "topSpender": {},
+    "topSpender": {
+      "id": 220590,
+      "name": "Coronel Ulysses",
+      "stateCode": "AC",
+      "party": "UNIÃO",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220590.jpg",
+      "amountNet": 84089.72,
+      "amountGross": 84089.72,
+      "amountAdjustments": 0.0
+    },
     "topCategories": [
       {
-        "category": "ALIMENTACAO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "COMBUSTIVEL",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "CONSULTORIA_SERVICOS",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "CORREIOS_TELEFONIA",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
+        "category": "DIVULGACAO",
+        "amountNet": 7668321.1,
+        "amountGross": 7668321.1,
         "amountAdjustments": 0.0
       },
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "DIVULGACAO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
+        "amountNet": 3626146.1,
+        "amountGross": 3626146.1,
         "amountAdjustments": 0.0
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
+        "amountNet": 2893398.66,
+        "amountGross": 2893398.66,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "COMBUSTIVEL",
+        "amountNet": 1304266.05,
+        "amountGross": 1304266.05,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 244694.83,
+        "amountGross": 244694.83,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
+        "amountNet": 181296.48,
+        "amountGross": 181296.48,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 23846.21,
+        "amountGross": 23846.21,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 7000.0,
+        "amountGross": 7000.0,
         "amountAdjustments": 0.0
       },
       {
         "category": "DEMAIS CATEGORIAS",
-        "amountNet": 0.0,
+        "amountNet": -119949.07,
         "amountGross": 0.0,
+        "amountAdjustments": -119949.07
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2023338.14,
+        "amountGross": 2053852.26,
+        "amountAdjustments": -30514.12
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 1564549.21,
+        "amountGross": 1570652.69,
+        "amountAdjustments": -6103.48
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1235626.57,
+        "amountGross": 1238420.57,
+        "amountAdjustments": -2794.0
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1226872.31,
+        "amountGross": 1237890.9,
+        "amountAdjustments": -11018.59
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 979612.39,
+        "amountGross": 986306.39,
+        "amountAdjustments": -6694.0
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 813321.85,
+        "amountGross": 819184.65,
+        "amountAdjustments": -5862.8
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 774776.81,
+        "amountGross": 776929.81,
+        "amountAdjustments": -2153.0
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 601755.9,
+        "amountGross": 609549.9,
+        "amountAdjustments": -7794.0
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 599039.1,
+        "amountGross": 600286.1,
+        "amountAdjustments": -1247.0
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 549593.88,
+        "amountGross": 552840.88,
+        "amountAdjustments": -3247.0
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 484633.1,
+        "amountGross": 489027.1,
+        "amountAdjustments": -4394.0
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 459894.01,
+        "amountGross": 459894.01,
         "amountAdjustments": 0.0
       }
     ],
-    "topStates": [],
     "concentrationTop10": {
-      "amountNet": 0,
-      "percent": 0.0
+      "amountNet": 755565.01,
+      "percent": 4.77
     },
     "averages": {
-      "perEntityWithSpending": 0.0,
-      "perRecord": 0.0
+      "perEntityWithSpending": 33324.25,
+      "perRecord": 1704.24
     },
     "dailyTotals": {
-      "referenceDate": null,
-      "amountNet": 0.0,
-      "previousAmountNet": 0.0,
-      "deltaAmountNet": 0.0,
-      "deltaPercent": 0.0,
-      "deltaDirection": "flat",
-      "trend7d": []
+      "referenceDate": "2026-04-29",
+      "amountNet": 18000.0,
+      "previousAmountNet": 11780.0,
+      "deltaAmountNet": 6220.0,
+      "deltaPercent": 52.8,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2026-04-08",
+          "amountNet": 505.0
+        },
+        {
+          "date": "2026-04-09",
+          "amountNet": 3370.9
+        },
+        {
+          "date": "2026-04-10",
+          "amountNet": 10000.0
+        },
+        {
+          "date": "2026-04-13",
+          "amountNet": 4570.0
+        },
+        {
+          "date": "2026-04-14",
+          "amountNet": 18073.91
+        },
+        {
+          "date": "2026-04-24",
+          "amountNet": 11780.0
+        },
+        {
+          "date": "2026-04-29",
+          "amountNet": 18000.0
+        }
+      ]
     },
     "dailyTopExpense": {
-      "referenceDate": null,
-      "entity": {},
-      "amountNet": 0.0,
-      "category": null,
-      "expenseType": null,
-      "supplier": null,
-      "documentType": null,
-      "documentUrl": null
+      "referenceDate": "2026-04-29",
+      "entity": {
+        "id": 220692,
+        "name": "Dal Barreto",
+        "stateCode": "BA",
+        "party": "UNIÃO",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220692.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 18000.0,
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "GRAUNA COMUNICACAO LTDA",
+      "documentType": "0",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3682/2026/8089725.pdf"
     }
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220616,
-    "generatedAt": "2026-10-21T08:43:56.616746Z",
+    "generatedAt": "2026-10-21T21:20:57.457786Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "luciano-vieira"
   },
   "mandateTotals": {
-    "amountNet": 1345111.52,
-    "amountGross": 1449767.44,
-    "amountAdjustments": -104655.92,
-    "recordsCount": 1037,
+    "amountNet": 1386949.86,
+    "amountGross": 1512349.78,
+    "amountAdjustments": -125399.92,
+    "recordsCount": 1108,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 88128.3,
+      "COMBUSTIVEL": 102196.42,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 508883.07,
+      "DESLOCAMENTO": 511608.99,
       "DIVULGACAO": 390520.29,
-      "ESCRITORIO": 357579.86,
+      "ESCRITORIO": 403368.16,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -20744.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 88128.3,
+      "COMBUSTIVEL": 102196.42,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 613538.99,
+      "DESLOCAMENTO": 616264.91,
       "DIVULGACAO": 390520.29,
-      "ESCRITORIO": 357579.86,
+      "ESCRITORIO": 403368.16,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -50,14 +50,14 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -20744.0
     }
   },
   "yearTotals": {
     "2023": 436903.51,
     "2024": 485631.37,
     "2025": 422576.64,
-    "2026": 0.0
+    "2026": 41838.34
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -96,20 +96,20 @@
     "2025-10": 28521.04,
     "2025-11": 19244.12,
     "2025-12": 11184.85,
-    "2026-01": 0.0,
-    "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
+    "2026-01": 9640.15,
+    "2026-02": 7768.3,
+    "2026-03": 10564.2,
+    "2026-04": 10052.28,
+    "2026-05": -334.59,
     "2026-06": 0.0,
     "2026-07": 0.0,
     "2026-08": 0.0,
     "2026-09": 0.0,
-    "2026-10": 0.0
+    "2026-10": 4148.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 508883.07,
-    "percent": 37.83
+    "amountNet": 511608.99,
+    "percent": 36.89
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220613,
-    "generatedAt": "2026-10-21T08:43:56.615220Z",
+    "generatedAt": "2026-10-21T21:20:57.456722Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "roberto-monteiro-pai"
   },
   "mandateTotals": {
-    "amountNet": 1322603.52,
-    "amountGross": 1414502.38,
-    "amountAdjustments": -91898.86,
-    "recordsCount": 2027,
+    "amountNet": 1590200.41,
+    "amountGross": 1690359.87,
+    "amountAdjustments": -100159.46,
+    "recordsCount": 2441,
     "byCategoryNet": {
-      "ALIMENTACAO": 58533.36,
-      "COMBUSTIVEL": 61742.59,
+      "ALIMENTACAO": 75659.96,
+      "COMBUSTIVEL": 84116.23,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 9105.84,
-      "DESLOCAMENTO": 669909.56,
-      "DIVULGACAO": 389490.0,
-      "ESCRITORIO": 93998.93,
-      "HOSPEDAGEM": 39823.24,
-      "OUTROS": 0.0
+      "CORREIOS_TELEFONIA": 10295.04,
+      "DESLOCAMENTO": 827109.56,
+      "DIVULGACAO": 462884.0,
+      "ESCRITORIO": 98176.98,
+      "HOSPEDAGEM": 40219.24,
+      "OUTROS": -8260.6
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 58533.36,
-      "COMBUSTIVEL": 61742.59,
+      "ALIMENTACAO": 75659.96,
+      "COMBUSTIVEL": 84116.23,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 9105.84,
-      "DESLOCAMENTO": 761808.42,
-      "DIVULGACAO": 389490.0,
-      "ESCRITORIO": 93998.93,
-      "HOSPEDAGEM": 39823.24,
+      "CORREIOS_TELEFONIA": 10295.04,
+      "DESLOCAMENTO": 919008.42,
+      "DIVULGACAO": 462884.0,
+      "ESCRITORIO": 98176.98,
+      "HOSPEDAGEM": 40219.24,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -50,14 +50,14 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -8260.6
     }
   },
   "yearTotals": {
     "2023": 417842.54,
     "2024": 477144.87,
     "2025": 427616.11,
-    "2026": 0.0
+    "2026": 267596.89
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -96,20 +96,20 @@
     "2025-10": 40399.2,
     "2025-11": 41434.02,
     "2025-12": 35308.46,
-    "2026-01": 0.0,
-    "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
-    "2026-10": 0.0
+    "2026-01": 35383.1,
+    "2026-02": 31577.14,
+    "2026-03": 29169.85,
+    "2026-04": 38928.36,
+    "2026-05": 43880.39,
+    "2026-06": 23894.13,
+    "2026-07": 23855.18,
+    "2026-08": 21863.7,
+    "2026-09": 17015.73,
+    "2026-10": 2029.31
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 669909.56,
-    "percent": 50.65
+    "amountNet": 827109.56,
+    "percent": 52.01
   }
 }

@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178882,
-    "generatedAt": "2026-10-21T08:43:56.484459Z",
+    "generatedAt": "2026-10-21T21:20:57.369871Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,16 +15,16 @@
     "slug": "andré-fufuca"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 24886.72,
+    "amountGross": 24886.72,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 21,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 4093.97,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "CORREIOS_TELEFONIA": 692.75,
+      "DESLOCAMENTO": 20100.0,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -32,10 +32,10 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 4093.97,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "CORREIOS_TELEFONIA": 692.75,
+      "DESLOCAMENTO": 20100.0,
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
@@ -54,23 +54,23 @@
     }
   },
   "yearTotals": {
-    "2026": 0.0
+    "2026": 24886.72
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
+    "2026-04": 6800.98,
+    "2026-05": 8468.48,
+    "2026-06": 8555.03,
+    "2026-07": 150.0,
+    "2026-08": 100.0,
+    "2026-09": 812.23,
     "2026-10": 0.0
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DESLOCAMENTO",
+    "amountNet": 20100.0,
+    "percent": 80.77
   }
 }

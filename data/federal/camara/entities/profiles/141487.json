@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 141487,
-    "generatedAt": "2026-10-21T08:43:56.432725Z",
+    "generatedAt": "2026-10-21T21:20:57.335498Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "luiz-fernando-faria"
   },
   "mandateTotals": {
-    "amountNet": 1413497.52,
-    "amountGross": 1559100.19,
-    "amountAdjustments": -145602.67,
-    "recordsCount": 1103,
+    "amountNet": 1598160.14,
+    "amountGross": 1758118.38,
+    "amountAdjustments": -159958.24,
+    "recordsCount": 1274,
     "byCategoryNet": {
-      "ALIMENTACAO": 7166.32,
-      "COMBUSTIVEL": 42524.01,
+      "ALIMENTACAO": 8986.64,
+      "COMBUSTIVEL": 54943.99,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3597.83,
       "DESLOCAMENTO": 494785.31,
-      "DIVULGACAO": 446280.0,
-      "ESCRITORIO": 419144.05,
+      "DIVULGACAO": 515380.0,
+      "ESCRITORIO": 534821.94,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -14355.57
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 7166.32,
-      "COMBUSTIVEL": 42524.01,
+      "ALIMENTACAO": 8986.64,
+      "COMBUSTIVEL": 54943.99,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 3597.83,
       "DESLOCAMENTO": 640387.98,
-      "DIVULGACAO": 446280.0,
-      "ESCRITORIO": 419144.05,
+      "DIVULGACAO": 515380.0,
+      "ESCRITORIO": 534821.94,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -50,14 +50,14 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -14355.57
     }
   },
   "yearTotals": {
     "2023": 454455.14,
     "2024": 492073.4,
     "2025": 466968.98,
-    "2026": 0.0
+    "2026": 184662.62
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -96,20 +96,20 @@
     "2025-10": 60027.25,
     "2025-11": 45009.52,
     "2025-12": 38328.04,
-    "2026-01": 0.0,
-    "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
-    "2026-10": 0.0
+    "2026-01": 30791.44,
+    "2026-02": 28231.24,
+    "2026-03": 31603.79,
+    "2026-04": 26701.04,
+    "2026-05": 23794.09,
+    "2026-06": 11288.19,
+    "2026-07": 7191.75,
+    "2026-08": 9417.0,
+    "2026-09": 15392.28,
+    "2026-10": 251.8
   },
   "topCategory": {
-    "category": "DESLOCAMENTO",
-    "amountNet": 494785.31,
-    "percent": 35.0
+    "category": "ESCRITORIO",
+    "amountNet": 534821.94,
+    "percent": 33.46
   }
 }

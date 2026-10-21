@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220563,
-    "generatedAt": "2026-10-21T08:43:56.592754Z",
+    "generatedAt": "2026-10-21T21:20:57.441866Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "icaro-de-valmir"
   },
   "mandateTotals": {
-    "amountNet": 1370376.1,
-    "amountGross": 1503428.59,
-    "amountAdjustments": -133052.49,
-    "recordsCount": 1083,
+    "amountNet": 1562901.98,
+    "amountGross": 1707189.47,
+    "amountAdjustments": -144287.49,
+    "recordsCount": 1225,
     "byCategoryNet": {
       "ALIMENTACAO": 484.59,
-      "COMBUSTIVEL": 89388.18,
+      "COMBUSTIVEL": 111037.54,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 13254.24,
-      "DESLOCAMENTO": 603919.92,
-      "DIVULGACAO": 630000.0,
-      "ESCRITORIO": 33329.17,
+      "CORREIOS_TELEFONIA": 17949.24,
+      "DESLOCAMENTO": 707269.66,
+      "DIVULGACAO": 693200.0,
+      "ESCRITORIO": 44195.95,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -11235.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 484.59,
-      "COMBUSTIVEL": 89388.18,
+      "COMBUSTIVEL": 111037.54,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 13254.24,
-      "DESLOCAMENTO": 736972.41,
-      "DIVULGACAO": 630000.0,
-      "ESCRITORIO": 33329.17,
+      "CORREIOS_TELEFONIA": 17949.24,
+      "DESLOCAMENTO": 840322.15,
+      "DIVULGACAO": 693200.0,
+      "ESCRITORIO": 44195.95,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -50,14 +50,14 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -11235.0
     }
   },
   "yearTotals": {
     "2023": 508800.72,
     "2024": 351572.21,
     "2025": 510003.17,
-    "2026": 0.0
+    "2026": 192525.88
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -96,20 +96,20 @@
     "2025-10": 42821.31,
     "2025-11": 34249.92,
     "2025-12": 9036.44,
-    "2026-01": 0.0,
-    "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
-    "2026-10": 0.0
+    "2026-01": 20391.23,
+    "2026-02": 28139.43,
+    "2026-03": 32241.38,
+    "2026-04": 27800.93,
+    "2026-05": 33258.45,
+    "2026-06": 16708.21,
+    "2026-07": 14813.98,
+    "2026-08": 10937.26,
+    "2026-09": 7705.0,
+    "2026-10": 530.01
   },
   "topCategory": {
-    "category": "DIVULGACAO",
-    "amountNet": 630000.0,
-    "percent": 45.97
+    "category": "DESLOCAMENTO",
+    "amountNet": 707269.66,
+    "percent": 45.25
   }
 }

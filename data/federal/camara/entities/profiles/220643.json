@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220643,
-    "generatedAt": "2026-10-21T08:43:56.628684Z",
+    "generatedAt": "2026-10-21T21:20:57.465797Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "sônia-guajajara"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
-    "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "amountNet": 109834.0,
+    "amountGross": 132049.0,
+    "amountAdjustments": -22215.0,
+    "recordsCount": 67,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 3778.96,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "CORREIOS_TELEFONIA": 0.54,
+      "DESLOCAMENTO": 3613.88,
+      "DIVULGACAO": 60000.0,
+      "ESCRITORIO": 53679.57,
+      "HOSPEDAGEM": 10976.05,
+      "OUTROS": -22215.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 3778.96,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "CORREIOS_TELEFONIA": 0.54,
+      "DESLOCAMENTO": 3613.88,
+      "DIVULGACAO": 60000.0,
+      "ESCRITORIO": 53679.57,
+      "HOSPEDAGEM": 10976.05,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -50,27 +50,27 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -22215.0
     }
   },
   "yearTotals": {
-    "2026": 0.0
+    "2026": 109834.0
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
-    "2026-10": 0.0
+    "2026-03": -2763.13,
+    "2026-04": 27293.08,
+    "2026-05": 42609.4,
+    "2026-06": 10060.24,
+    "2026-07": 9214.85,
+    "2026-08": 16357.36,
+    "2026-09": 5133.32,
+    "2026-10": 1928.88
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DIVULGACAO",
+    "amountNet": 60000.0,
+    "percent": 54.63
   }
 }

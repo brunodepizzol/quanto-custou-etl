@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220656,
-    "generatedAt": "2026-10-21T08:43:56.635731Z",
+    "generatedAt": "2026-10-21T21:20:57.470507Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "fernanda-pessoa"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
-    "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "amountNet": 186406.74,
+    "amountGross": 192972.07,
+    "amountAdjustments": -6565.33,
+    "recordsCount": 289,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 2042.99,
+      "COMBUSTIVEL": 52440.73,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "CORREIOS_TELEFONIA": 3672.53,
+      "DESLOCAMENTO": 60666.67,
+      "DIVULGACAO": 63095.34,
+      "ESCRITORIO": 2832.5,
+      "HOSPEDAGEM": 8221.31,
+      "OUTROS": -6565.33
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 2042.99,
+      "COMBUSTIVEL": 52440.73,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "CORREIOS_TELEFONIA": 3672.53,
+      "DESLOCAMENTO": 60666.67,
+      "DIVULGACAO": 63095.34,
+      "ESCRITORIO": 2832.5,
+      "HOSPEDAGEM": 8221.31,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -50,27 +50,27 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -6565.33
     }
   },
   "yearTotals": {
-    "2026": 0.0
+    "2026": 186406.74
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
-    "2026-10": 0.0
+    "2026-04": 37524.09,
+    "2026-05": 65416.06,
+    "2026-06": 20856.99,
+    "2026-07": 22101.2,
+    "2026-08": 22406.93,
+    "2026-09": 17653.34,
+    "2026-10": 448.13
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DIVULGACAO",
+    "amountNet": 63095.34,
+    "percent": 33.85
   }
 }

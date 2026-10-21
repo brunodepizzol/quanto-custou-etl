@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 178905,
-    "generatedAt": "2026-10-21T08:43:56.487823Z",
+    "generatedAt": "2026-10-21T21:20:57.372052Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "fabio-garcia"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 158849.72,
+    "amountGross": 158849.72,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 243,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 51715.42,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": 83000.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "ESCRITORIO": 632.6,
+      "HOSPEDAGEM": 23501.7,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "COMBUSTIVEL": 51715.42,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "DESLOCAMENTO": 83000.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "ESCRITORIO": 632.6,
+      "HOSPEDAGEM": 23501.7,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -54,23 +54,23 @@
     }
   },
   "yearTotals": {
-    "2026": 0.0
+    "2026": 158849.72
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
-    "2026-10": 0.0
+    "2026-04": 7229.24,
+    "2026-05": 30155.84,
+    "2026-06": 30805.0,
+    "2026-07": 35857.56,
+    "2026-08": 29816.29,
+    "2026-09": 22017.85,
+    "2026-10": 2967.94
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DESLOCAMENTO",
+    "amountNet": 83000.0,
+    "percent": 52.25
   }
 }

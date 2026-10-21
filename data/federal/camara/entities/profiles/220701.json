@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220701,
-    "generatedAt": "2026-10-21T08:43:56.658137Z",
+    "generatedAt": "2026-10-21T21:20:57.485778Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "delegado-matheus-laiola"
   },
   "mandateTotals": {
-    "amountNet": 1543736.54,
-    "amountGross": 1595694.88,
-    "amountAdjustments": -51958.34,
-    "recordsCount": 921,
+    "amountNet": 1871167.94,
+    "amountGross": 1929338.28,
+    "amountAdjustments": -58170.34,
+    "recordsCount": 1188,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 109308.82,
+      "COMBUSTIVEL": 147509.03,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 374485.98,
-      "DIVULGACAO": 613177.53,
-      "ESCRITORIO": 443429.32,
-      "HOSPEDAGEM": 3334.89,
-      "OUTROS": 0.0
+      "DESLOCAMENTO": 421731.52,
+      "DIVULGACAO": 725125.93,
+      "ESCRITORIO": 579274.57,
+      "HOSPEDAGEM": 3738.89,
+      "OUTROS": -6212.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 109308.82,
+      "COMBUSTIVEL": 147509.03,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 426444.32,
-      "DIVULGACAO": 613177.53,
-      "ESCRITORIO": 443429.32,
-      "HOSPEDAGEM": 3334.89,
+      "DESLOCAMENTO": 473689.86,
+      "DIVULGACAO": 725125.93,
+      "ESCRITORIO": 579274.57,
+      "HOSPEDAGEM": 3738.89,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -50,14 +50,14 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -6212.0
     }
   },
   "yearTotals": {
     "2023": 517892.41,
     "2024": 542639.44,
     "2025": 483204.69,
-    "2026": 0.0
+    "2026": 327431.4
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -96,20 +96,20 @@
     "2025-10": 32926.43,
     "2025-11": 32751.48,
     "2025-12": 31792.94,
-    "2026-01": 0.0,
-    "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
-    "2026-10": 0.0
+    "2026-01": 31591.36,
+    "2026-02": 34015.26,
+    "2026-03": 51158.26,
+    "2026-04": 48506.77,
+    "2026-05": 55508.7,
+    "2026-06": 29132.92,
+    "2026-07": 35524.65,
+    "2026-08": 25516.61,
+    "2026-09": 15629.46,
+    "2026-10": 847.41
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 613177.53,
-    "percent": 39.72
+    "amountNet": 725125.93,
+    "percent": 38.75
   }
 }

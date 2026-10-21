@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 220637,
-    "generatedAt": "2026-10-21T08:43:56.625896Z",
+    "generatedAt": "2026-10-21T21:20:57.464021Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "marina-silva"
   },
   "mandateTotals": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
-    "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "amountNet": 51745.8,
+    "amountGross": 66954.16,
+    "amountAdjustments": -15208.36,
+    "recordsCount": 134,
     "byCategoryNet": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 2110.52,
+      "COMBUSTIVEL": 10677.31,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "CORREIOS_TELEFONIA": 358.93,
+      "DESLOCAMENTO": 47040.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "ESCRITORIO": 2003.1,
+      "HOSPEDAGEM": 4764.3,
+      "OUTROS": -15208.36
     },
     "byCategoryGross": {
-      "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 0.0,
+      "ALIMENTACAO": 2110.52,
+      "COMBUSTIVEL": 10677.31,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 0.0,
+      "CORREIOS_TELEFONIA": 358.93,
+      "DESLOCAMENTO": 47040.0,
       "DIVULGACAO": 0.0,
-      "ESCRITORIO": 0.0,
-      "HOSPEDAGEM": 0.0,
+      "ESCRITORIO": 2003.1,
+      "HOSPEDAGEM": 4764.3,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -50,27 +50,27 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -15208.36
     }
   },
   "yearTotals": {
-    "2026": 0.0
+    "2026": 51745.8
   },
   "monthTotals": {
     "2026-01": 0.0,
     "2026-02": 0.0,
     "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
+    "2026-04": 8374.79,
+    "2026-05": 9685.95,
+    "2026-06": 8607.5,
+    "2026-07": 9896.88,
+    "2026-08": 7709.78,
+    "2026-09": 7470.9,
     "2026-10": 0.0
   },
   "topCategory": {
-    "category": "ALIMENTACAO",
-    "amountNet": 0.0,
-    "percent": 0.0
+    "category": "DESLOCAMENTO",
+    "amountNet": 47040.0,
+    "percent": 90.91
   }
 }

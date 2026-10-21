@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 104552,
-    "generatedAt": "2026-10-21T08:43:56.415663Z",
+    "generatedAt": "2026-10-21T21:20:57.323046Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "socorro-neri"
   },
   "mandateTotals": {
-    "amountNet": 1598928.89,
-    "amountGross": 1671592.27,
-    "amountAdjustments": -72663.38,
-    "recordsCount": 730,
+    "amountNet": 1907037.47,
+    "amountGross": 2016636.45,
+    "amountAdjustments": -109598.98,
+    "recordsCount": 807,
     "byCategoryNet": {
       "ALIMENTACAO": 78.73,
-      "COMBUSTIVEL": 120960.32,
+      "COMBUSTIVEL": 173688.17,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 494257.27,
-      "DIVULGACAO": 965720.65,
-      "ESCRITORIO": 16978.0,
+      "CORREIOS_TELEFONIA": 740.53,
+      "DESLOCAMENTO": 572257.27,
+      "DIVULGACAO": 1179220.65,
+      "ESCRITORIO": 17053.8,
       "HOSPEDAGEM": 933.92,
-      "OUTROS": 0.0
+      "OUTROS": -36935.6
     },
     "byCategoryGross": {
       "ALIMENTACAO": 78.73,
-      "COMBUSTIVEL": 120960.32,
+      "COMBUSTIVEL": 173688.17,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 566920.65,
-      "DIVULGACAO": 965720.65,
-      "ESCRITORIO": 16978.0,
+      "CORREIOS_TELEFONIA": 740.53,
+      "DESLOCAMENTO": 644920.65,
+      "DIVULGACAO": 1179220.65,
+      "ESCRITORIO": 17053.8,
       "HOSPEDAGEM": 933.92,
       "OUTROS": 0.0
     },
@@ -50,14 +50,14 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -36935.6
     }
   },
   "yearTotals": {
     "2023": 522393.41,
     "2024": 537169.67,
     "2025": 539365.81,
-    "2026": 0.0
+    "2026": 308108.58
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -96,20 +96,20 @@
     "2025-10": 48297.03,
     "2025-11": 47963.11,
     "2025-12": 46804.78,
-    "2026-01": 0.0,
-    "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
+    "2026-01": 28485.26,
+    "2026-02": 36797.28,
+    "2026-03": 66195.03,
+    "2026-04": 73545.42,
+    "2026-05": 73340.48,
+    "2026-06": 17510.15,
+    "2026-07": 11349.56,
+    "2026-08": 5034.2,
+    "2026-09": -4148.8,
     "2026-10": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 965720.65,
-    "percent": 60.4
+    "amountNet": 1179220.65,
+    "percent": 61.84
   }
 }

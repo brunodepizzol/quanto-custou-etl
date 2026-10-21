@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160641,
-    "generatedAt": "2026-10-21T08:43:56.466619Z",
+    "generatedAt": "2026-10-21T21:20:57.358036Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "professora-marcivania"
   },
   "mandateTotals": {
-    "amountNet": 227321.74,
-    "amountGross": 242225.81,
+    "amountNet": 423709.32,
+    "amountGross": 438613.39,
     "amountAdjustments": -14904.07,
-    "recordsCount": 47,
+    "recordsCount": 110,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 11096.38,
+      "COMBUSTIVEL": 38853.96,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 117.9,
-      "DESLOCAMENTO": 38867.46,
-      "DIVULGACAO": 176000.0,
+      "DESLOCAMENTO": 121267.46,
+      "DIVULGACAO": 261000.0,
       "ESCRITORIO": 680.0,
-      "HOSPEDAGEM": 560.0,
+      "HOSPEDAGEM": 1790.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 11096.38,
+      "COMBUSTIVEL": 38853.96,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 117.9,
-      "DESLOCAMENTO": 53771.53,
-      "DIVULGACAO": 176000.0,
+      "DESLOCAMENTO": 136171.53,
+      "DIVULGACAO": 261000.0,
       "ESCRITORIO": 680.0,
-      "HOSPEDAGEM": 560.0,
+      "HOSPEDAGEM": 1790.0,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -57,7 +57,7 @@
     "2023": 117.9,
     "2024": 0.0,
     "2025": 227203.84,
-    "2026": 0.0
+    "2026": 196387.58
   },
   "monthTotals": {
     "2023-01": 117.9,
@@ -96,20 +96,20 @@
     "2025-10": 44506.98,
     "2025-11": 45062.97,
     "2025-12": 48601.03,
-    "2026-01": 0.0,
-    "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
+    "2026-01": 47254.99,
+    "2026-02": 41250.0,
+    "2026-03": 11015.5,
+    "2026-04": 27454.26,
+    "2026-05": 24722.0,
+    "2026-06": 18536.85,
+    "2026-07": 23366.16,
+    "2026-08": 2787.82,
     "2026-09": 0.0,
     "2026-10": 0.0
   },
   "topCategory": {
     "category": "DIVULGACAO",
-    "amountNet": 176000.0,
-    "percent": 77.42
+    "amountNet": 261000.0,
+    "percent": 61.6
   }
 }

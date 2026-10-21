@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74160,
-    "generatedAt": "2026-10-21T08:43:56.392035Z",
+    "generatedAt": "2026-10-21T21:20:57.306947Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "patrus-ananias"
   },
   "mandateTotals": {
-    "amountNet": 1369734.58,
-    "amountGross": 1382719.54,
-    "amountAdjustments": -12984.96,
-    "recordsCount": 3718,
+    "amountNet": 1674054.51,
+    "amountGross": 1700483.54,
+    "amountAdjustments": -26429.03,
+    "recordsCount": 4643,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 179861.29,
+      "COMBUSTIVEL": 243221.05,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 14248.52,
-      "DESLOCAMENTO": 211558.98,
-      "DIVULGACAO": 411005.23,
-      "ESCRITORIO": 482467.59,
-      "HOSPEDAGEM": 70592.97,
-      "OUTROS": 0.0
+      "CORREIOS_TELEFONIA": 18809.56,
+      "DESLOCAMENTO": 232321.47,
+      "DIVULGACAO": 491387.98,
+      "ESCRITORIO": 609971.72,
+      "HOSPEDAGEM": 91786.8,
+      "OUTROS": -13444.07
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 179861.29,
+      "COMBUSTIVEL": 243221.05,
       "CONSULTORIA_SERVICOS": 0.0,
-      "CORREIOS_TELEFONIA": 14248.52,
-      "DESLOCAMENTO": 224543.94,
-      "DIVULGACAO": 411005.23,
-      "ESCRITORIO": 482467.59,
-      "HOSPEDAGEM": 70592.97,
+      "CORREIOS_TELEFONIA": 18809.56,
+      "DESLOCAMENTO": 245306.43,
+      "DIVULGACAO": 491387.98,
+      "ESCRITORIO": 609971.72,
+      "HOSPEDAGEM": 91786.8,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -50,14 +50,14 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -13444.07
     }
   },
   "yearTotals": {
     "2023": 409247.87,
     "2024": 459089.19,
     "2025": 501397.52,
-    "2026": 0.0
+    "2026": 304319.93
   },
   "monthTotals": {
     "2023-01": 8044.28,
@@ -96,20 +96,20 @@
     "2025-10": 41082.54,
     "2025-11": 47318.31,
     "2025-12": 10443.15,
-    "2026-01": 0.0,
-    "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
-    "2026-10": 0.0
+    "2026-01": 27358.33,
+    "2026-02": 35845.97,
+    "2026-03": 41471.14,
+    "2026-04": 55366.86,
+    "2026-05": 52575.53,
+    "2026-06": 27027.11,
+    "2026-07": 31085.26,
+    "2026-08": 21090.34,
+    "2026-09": 12024.87,
+    "2026-10": 474.52
   },
   "topCategory": {
     "category": "ESCRITORIO",
-    "amountNet": 482467.59,
-    "percent": 35.22
+    "amountNet": 609971.72,
+    "percent": 36.44
   }
 }

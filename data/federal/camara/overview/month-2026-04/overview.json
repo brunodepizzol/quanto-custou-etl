@@ -3,31 +3,70 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-04",
-    "generatedAt": "2026-10-18T08:39:06.354044Z",
+    "generatedAt": "2026-10-21T21:18:21.083555Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
-    "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "amountNet": 19964975.07,
+    "amountGross": 20161966.64,
+    "amountAdjustments": -196991.57,
+    "recordsCount": 14991,
     "entitiesCount": 513,
-    "entitiesWithSpending": 0,
-    "entitiesWithoutSpending": 513
+    "entitiesWithSpending": 498,
+    "entitiesWithoutSpending": 15
   },
   "highlights": {
-    "topSpender": {},
+    "topSpender": {
+      "id": 73486,
+      "name": "Pompeo de Mattos",
+      "stateCode": "RS",
+      "party": "PDT",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/73486.jpg",
+      "amountNet": 97626.63,
+      "amountGross": 97626.63,
+      "amountAdjustments": 0.0
+    },
     "topCategories": [
       {
-        "category": "ALIMENTACAO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
+        "category": "DIVULGACAO",
+        "amountNet": 9681283.36,
+        "amountGross": 9681283.36,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 4238375.24,
+        "amountGross": 4289549.75,
+        "amountAdjustments": -51174.51
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 3164600.27,
+        "amountGross": 3164600.27,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
+        "amountNet": 2244525.61,
+        "amountGross": 2244525.61,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 471782.77,
+        "amountGross": 471782.77,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 249787.25,
+        "amountGross": 249787.25,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 60437.63,
+        "amountGross": 60437.63,
         "amountAdjustments": 0.0
       },
       {
@@ -37,69 +76,150 @@
         "amountAdjustments": 0.0
       },
       {
-        "category": "CORREIOS_TELEFONIA",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "DESLOCAMENTO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "DIVULGACAO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "ESCRITORIO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "HOSPEDAGEM",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
         "category": "DEMAIS CATEGORIAS",
-        "amountNet": 0.0,
+        "amountNet": -145817.06,
         "amountGross": 0.0,
-        "amountAdjustments": 0.0
+        "amountAdjustments": -145817.06
       }
     ],
-    "topStates": [],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2510301.01,
+        "amountGross": 2547233.81,
+        "amountAdjustments": -36932.8
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 2010151.82,
+        "amountGross": 2020152.43,
+        "amountAdjustments": -10000.61
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1571761.21,
+        "amountGross": 1583762.11,
+        "amountAdjustments": -12000.9
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1467750.98,
+        "amountGross": 1471275.31,
+        "amountAdjustments": -3524.33
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1347865.45,
+        "amountGross": 1354559.45,
+        "amountAdjustments": -6694.0
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1111315.49,
+        "amountGross": 1118159.27,
+        "amountAdjustments": -6843.78
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1075211.91,
+        "amountGross": 1077605.91,
+        "amountAdjustments": -2394.0
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 819477.86,
+        "amountGross": 826873.66,
+        "amountAdjustments": -7395.8
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 802964.63,
+        "amountGross": 811488.96,
+        "amountAdjustments": -8524.33
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 654797.01,
+        "amountGross": 654797.01,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 628933.15,
+        "amountGross": 633327.15,
+        "amountAdjustments": -4394.0
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 533476.09,
+        "amountGross": 582303.09,
+        "amountAdjustments": -48827.0
+      }
+    ],
     "concentrationTop10": {
-      "amountNet": 0,
-      "percent": 0.0
+      "amountNet": 868124.3,
+      "percent": 4.35
     },
     "averages": {
-      "perEntityWithSpending": 0.0,
-      "perRecord": 0.0
+      "perEntityWithSpending": 40090.31,
+      "perRecord": 1331.8
     },
     "dailyTotals": {
-      "referenceDate": null,
-      "amountNet": 0.0,
-      "previousAmountNet": 0.0,
-      "deltaAmountNet": 0.0,
-      "deltaPercent": 0.0,
-      "deltaDirection": "flat",
-      "trend7d": []
+      "referenceDate": "2026-07-21",
+      "amountNet": 55488.92,
+      "previousAmountNet": 2984.0,
+      "deltaAmountNet": 52504.92,
+      "deltaPercent": 1759.55,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2026-07-07",
+          "amountNet": 15470.0
+        },
+        {
+          "date": "2026-07-10",
+          "amountNet": 13344.56
+        },
+        {
+          "date": "2026-07-13",
+          "amountNet": 874.19
+        },
+        {
+          "date": "2026-07-14",
+          "amountNet": 79.9
+        },
+        {
+          "date": "2026-07-15",
+          "amountNet": 792.1
+        },
+        {
+          "date": "2026-07-17",
+          "amountNet": 2984.0
+        },
+        {
+          "date": "2026-07-21",
+          "amountNet": 55488.92
+        }
+      ]
     },
     "dailyTopExpense": {
-      "referenceDate": null,
-      "entity": {},
-      "amountNet": 0.0,
-      "category": null,
-      "expenseType": null,
-      "supplier": null,
-      "documentType": null,
-      "documentUrl": null
+      "referenceDate": "2026-07-21",
+      "entity": {
+        "id": 204539,
+        "name": "Hercílio Coelho Diniz",
+        "stateCode": "MG",
+        "party": "MDB",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204539.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 50000.0,
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "FRAMIN - AGENCIA DE COMUNICACAO LTDA",
+      "documentType": "0",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3268/2026/8135742.pdf"
     }
   }
 }

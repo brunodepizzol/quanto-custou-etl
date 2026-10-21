@@ -3,31 +3,70 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-03",
-    "generatedAt": "2026-10-18T08:33:53.866969Z",
+    "generatedAt": "2026-10-21T21:17:55.079350Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
-    "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "amountNet": 19488941.35,
+    "amountGross": 19631157.86,
+    "amountAdjustments": -142216.51,
+    "recordsCount": 15645,
     "entitiesCount": 513,
-    "entitiesWithSpending": 0,
-    "entitiesWithoutSpending": 513
+    "entitiesWithSpending": 482,
+    "entitiesWithoutSpending": 31
   },
   "highlights": {
-    "topSpender": {},
+    "topSpender": {
+      "id": 204557,
+      "name": "Sidney Leite",
+      "stateCode": "AM",
+      "party": "PSD",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204557.jpg",
+      "amountNet": 132221.15,
+      "amountGross": 132221.15,
+      "amountAdjustments": 0.0
+    },
     "topCategories": [
       {
-        "category": "ALIMENTACAO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
+        "category": "DIVULGACAO",
+        "amountNet": 9424995.57,
+        "amountGross": 9424995.57,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "DESLOCAMENTO",
+        "amountNet": 4110007.43,
+        "amountGross": 4113287.71,
+        "amountAdjustments": -3280.28
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 3117629.66,
+        "amountGross": 3117629.66,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
+        "amountNet": 2211612.62,
+        "amountGross": 2211612.62,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 442125.05,
+        "amountGross": 442125.05,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
+        "amountNet": 257110.77,
+        "amountGross": 257110.77,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
+        "amountNet": 64396.48,
+        "amountGross": 64396.48,
         "amountAdjustments": 0.0
       },
       {
@@ -37,69 +76,150 @@
         "amountAdjustments": 0.0
       },
       {
-        "category": "CORREIOS_TELEFONIA",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "DESLOCAMENTO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "DIVULGACAO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "ESCRITORIO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "HOSPEDAGEM",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
         "category": "DEMAIS CATEGORIAS",
-        "amountNet": 0.0,
+        "amountNet": -138936.23,
         "amountGross": 0.0,
+        "amountAdjustments": -138936.23
+      }
+    ],
+    "topStates": [
+      {
+        "stateCode": "SP",
+        "amountNet": 2363992.26,
+        "amountGross": 2398448.21,
+        "amountAdjustments": -34455.95
+      },
+      {
+        "stateCode": "MG",
+        "amountNet": 1954191.02,
+        "amountGross": 1964839.63,
+        "amountAdjustments": -10648.61
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 1445204.81,
+        "amountGross": 1457704.17,
+        "amountAdjustments": -12499.36
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 1383618.11,
+        "amountGross": 1386412.11,
+        "amountAdjustments": -2794.0
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 1362317.07,
+        "amountGross": 1369011.07,
+        "amountAdjustments": -6694.0
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 1113679.73,
+        "amountGross": 1120373.96,
+        "amountAdjustments": -6694.23
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 1054229.11,
+        "amountGross": 1056623.11,
+        "amountAdjustments": -2394.0
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 766142.61,
+        "amountGross": 769389.61,
+        "amountAdjustments": -3247.0
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 707311.92,
+        "amountGross": 715505.92,
+        "amountAdjustments": -8194.0
+      },
+      {
+        "stateCode": "PA",
+        "amountNet": 645426.12,
+        "amountGross": 645426.12,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "MA",
+        "amountNet": 595712.83,
+        "amountGross": 596959.83,
+        "amountAdjustments": -1247.0
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 540290.71,
+        "amountGross": 540290.71,
         "amountAdjustments": 0.0
       }
     ],
-    "topStates": [],
     "concentrationTop10": {
-      "amountNet": 0,
-      "percent": 0.0
+      "amountNet": 926967.65,
+      "percent": 4.76
     },
     "averages": {
-      "perEntityWithSpending": 0.0,
-      "perRecord": 0.0
+      "perEntityWithSpending": 40433.49,
+      "perRecord": 1245.7
     },
     "dailyTotals": {
-      "referenceDate": null,
-      "amountNet": 0.0,
-      "previousAmountNet": 0.0,
-      "deltaAmountNet": 0.0,
-      "deltaPercent": 0.0,
-      "deltaDirection": "flat",
-      "trend7d": []
+      "referenceDate": "2026-06-17",
+      "amountNet": 3986.47,
+      "previousAmountNet": 8000.0,
+      "deltaAmountNet": -4013.53,
+      "deltaPercent": -50.17,
+      "deltaDirection": "down",
+      "trend7d": [
+        {
+          "date": "2026-05-30",
+          "amountNet": 1900.0
+        },
+        {
+          "date": "2026-06-01",
+          "amountNet": 32300.0
+        },
+        {
+          "date": "2026-06-02",
+          "amountNet": 22858.02
+        },
+        {
+          "date": "2026-06-03",
+          "amountNet": 40000.0
+        },
+        {
+          "date": "2026-06-10",
+          "amountNet": 2300.0
+        },
+        {
+          "date": "2026-06-16",
+          "amountNet": 8000.0
+        },
+        {
+          "date": "2026-06-17",
+          "amountNet": 3986.47
+        }
+      ]
     },
     "dailyTopExpense": {
-      "referenceDate": null,
-      "entity": {},
-      "amountNet": 0.0,
-      "category": null,
-      "expenseType": null,
-      "supplier": null,
-      "documentType": null,
-      "documentUrl": null
+      "referenceDate": "2026-06-17",
+      "entity": {
+        "id": 204473,
+        "name": "General Girão",
+        "stateCode": "RN",
+        "party": "PL",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/204473.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 2984.0,
+      "category": "DESLOCAMENTO",
+      "expenseType": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "supplier": "SG NACOES LTDA",
+      "documentType": "0",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3327/2026/8130285.pdf"
     }
   }
 }

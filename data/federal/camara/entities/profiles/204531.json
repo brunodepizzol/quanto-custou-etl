@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204531,
-    "generatedAt": "2026-10-21T08:43:56.557365Z",
+    "generatedAt": "2026-10-21T21:20:57.417934Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,30 +15,30 @@
     "slug": "guilherme-derrite"
   },
   "mandateTotals": {
-    "amountNet": 11272.17,
-    "amountGross": 11272.17,
+    "amountNet": 171030.32,
+    "amountGross": 171030.32,
     "amountAdjustments": 0.0,
-    "recordsCount": 8,
+    "recordsCount": 162,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 488.23,
+      "COMBUSTIVEL": 21326.42,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 6933.24,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 3850.7,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 41582.64,
+      "DIVULGACAO": 40000.0,
+      "ESCRITORIO": 57858.15,
+      "HOSPEDAGEM": 10263.11,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 488.23,
+      "COMBUSTIVEL": 21326.42,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 6933.24,
-      "DIVULGACAO": 0.0,
-      "ESCRITORIO": 3850.7,
-      "HOSPEDAGEM": 0.0,
+      "DESLOCAMENTO": 41582.64,
+      "DIVULGACAO": 40000.0,
+      "ESCRITORIO": 57858.15,
+      "HOSPEDAGEM": 10263.11,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -57,7 +57,7 @@
     "2023": 1638.0,
     "2024": 1392.2,
     "2025": 8241.97,
-    "2026": 0.0
+    "2026": 159758.15
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -97,19 +97,19 @@
     "2025-11": 1892.21,
     "2025-12": 6349.76,
     "2026-01": 0.0,
-    "2026-02": 0.0,
-    "2026-03": 0.0,
-    "2026-04": 0.0,
-    "2026-05": 0.0,
-    "2026-06": 0.0,
-    "2026-07": 0.0,
-    "2026-08": 0.0,
-    "2026-09": 0.0,
-    "2026-10": 0.0
+    "2026-02": 10822.72,
+    "2026-03": 11446.12,
+    "2026-04": 23850.05,
+    "2026-05": 29635.05,
+    "2026-06": 21211.85,
+    "2026-07": 27087.18,
+    "2026-08": 19829.83,
+    "2026-09": 14178.81,
+    "2026-10": 1696.54
   },
   "topCategory": {
-    "category": "DESLOCAMENTO",
-    "amountNet": 6933.24,
-    "percent": 61.51
+    "category": "ESCRITORIO",
+    "amountNet": 57858.15,
+    "percent": 33.83
   }
 }
