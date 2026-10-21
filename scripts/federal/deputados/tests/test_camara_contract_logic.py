@@ -4,6 +4,7 @@ from pathlib import Path
 from typing import cast
 
 from ..camara_common import JsonDict
+from ..camara_source import _parse_annual_expenses
 from ..camara_domain import (
     build_entity_contract,
     build_resumos_deputados_from_month_entities,
@@ -24,6 +25,26 @@ def expect_runtime_error(fn, expected_substring: str) -> None:
         assert expected_substring in message, message
         return
     raise AssertionError(f"expected RuntimeError containing: {expected_substring}")
+
+
+def test_parse_annual_expenses_groups_rows_and_rejects_empty_source() -> None:
+    sample = (
+        'ideCadastro;numAno;numMes;txtDescricao;datEmissao;txtFornecedor;txtCNPJCPF;indTipoDocumento;txtNumero;vlrDocumento;vlrGlosa;vlrLiquido;urlDocumento\n'
+        '101;2026;3;COMBUSTIVEIS;2026-03-10T00:00:00;POSTO A;123;0;NF-1;35.00;5.00;30.00;https://example.com/doc\n'
+        ';2026;3;DESPESA DE LIDERANCA;2026-03-10T00:00:00;FORNECEDOR;456;0;NF-2;20.00;0;20.00;\n'
+    ).encode("utf-8")
+    grouped = _parse_annual_expenses(sample, 2026)
+    assert set(grouped.keys()) == {(101, 3)}
+    expense = grouped[(101, 3)][0]
+    assert expense["tipoDespesa"] == "COMBUSTIVEIS"
+    assert expense["valorLiquido"] == "30.00"
+    assert expense["urlDocumento"] == "https://example.com/doc"
+
+    header_only = sample.splitlines(keepends=True)[0]
+    expect_runtime_error(
+        lambda: _parse_annual_expenses(header_only, 2026),
+        "contained no deputy expenses",
+    )
 
 
 def test_build_entity_contract_is_canonical_only() -> None:
