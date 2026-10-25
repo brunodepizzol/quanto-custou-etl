@@ -2,8 +2,8 @@
   "meta": {
     "scope": "federal/camara",
     "type": "home-insights",
-    "generatedAt": "2026-10-25T08:30:30.697811Z",
-    "freshUntil": "2026-10-26T08:30:30.697811Z",
+    "generatedAt": "2026-10-25T08:45:29.536344Z",
+    "freshUntil": "2026-10-26T08:45:29.536344Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
@@ -19,17 +19,17 @@
       "enabled": true,
       "priority": 100,
       "weight": 1.0,
-      "generatedAt": "2026-10-25T08:30:30.697811Z",
-      "freshUntil": "2026-10-26T08:30:30.697811Z",
+      "generatedAt": "2026-10-25T08:45:29.536344Z",
+      "freshUntil": "2026-10-26T08:45:29.536344Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 817611561.19,
+        "amount": 818083026.58,
         "currency": "BRL"
       },
       "tags": [
         "Dados federais"
       ],
-      "referenceDate": "719114 lançamentos no período",
+      "referenceDate": "719602 lançamentos no período",
       "variationText": "Base: 545 • Com gasto: 541 • Sem gasto: 4"
     },
     {
@@ -44,8 +44,8 @@
       "enabled": true,
       "priority": 95,
       "weight": 0.95,
-      "generatedAt": "2026-10-25T08:30:30.697811Z",
-      "freshUntil": "2026-10-26T08:30:30.697811Z",
+      "generatedAt": "2026-10-25T08:45:29.536344Z",
+      "freshUntil": "2026-10-26T08:45:29.536344Z",
       "qualityScore": 1.0,
       "entity": {
         "id": 73486,
@@ -56,7 +56,7 @@
         "subtitle": "Deputado federal • PDT/RS"
       },
       "value": {
-        "amount": 2281572.37,
+        "amount": 2282244.91,
         "currency": "BRL"
       },
       "referenceDate": "Deputado com maior gasto no mandato",
@@ -74,19 +74,19 @@
       "enabled": true,
       "priority": 92,
       "weight": 0.9,
-      "generatedAt": "2026-10-25T08:30:30.697811Z",
-      "freshUntil": "2026-10-26T08:30:30.697811Z",
+      "generatedAt": "2026-10-25T08:45:29.536344Z",
+      "freshUntil": "2026-10-26T08:45:29.536344Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 21825820.23,
+        "amount": 21832205.71,
         "currency": "BRL"
       },
       "right": {
-        "amount": 817611561.19,
+        "amount": 818083026.58,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -795785740.96,
+        "amount": -796250820.87,
         "percent": 2.67,
         "direction": "up"
       },
@@ -94,7 +94,7 @@
         "Top 10 deputados"
       ],
       "referenceDate": "541 deputados com gasto no período",
-      "variationText": "Montante Top 10: R$ 21.825.820,23"
+      "variationText": "Montante Top 10: R$ 21.832.205,71"
     },
     {
       "id": "federal-deputies-day-total-amount",
@@ -108,8 +108,8 @@
       "enabled": true,
       "priority": 90,
       "weight": 0.88,
-      "generatedAt": "2026-10-25T08:30:30.697811Z",
-      "freshUntil": "2026-10-26T08:30:30.697811Z",
+      "generatedAt": "2026-10-25T08:45:29.536344Z",
+      "freshUntil": "2026-10-26T08:45:29.536344Z",
       "qualityScore": 1.0,
       "value": {
         "amount": 3823.92,
@@ -133,8 +133,8 @@
       "enabled": true,
       "priority": 89,
       "weight": 0.86,
-      "generatedAt": "2026-10-25T08:30:30.697811Z",
-      "freshUntil": "2026-10-26T08:30:30.697811Z",
+      "generatedAt": "2026-10-25T08:45:29.536344Z",
+      "freshUntil": "2026-10-26T08:45:29.536344Z",
       "qualityScore": 1.0,
       "entity": {
         "id": 160635,
@@ -163,8 +163,8 @@
       "enabled": true,
       "priority": 85,
       "weight": 0.82,
-      "generatedAt": "2026-10-25T08:30:30.697811Z",
-      "freshUntil": "2026-10-26T08:30:30.697811Z",
+      "generatedAt": "2026-10-25T08:45:29.536344Z",
+      "freshUntil": "2026-10-26T08:45:29.536344Z",
       "qualityScore": 1.0,
       "left": {
         "amount": 3823.92,
@@ -197,11 +197,11 @@
       "enabled": true,
       "priority": 82,
       "weight": 0.78,
-      "generatedAt": "2026-10-25T08:30:30.697811Z",
-      "freshUntil": "2026-10-26T08:30:30.697811Z",
+      "generatedAt": "2026-10-25T08:45:29.536344Z",
+      "freshUntil": "2026-10-26T08:45:29.536344Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 316193122.99,
+        "amount": 316233122.99,
         "currency": "BRL"
       },
       "tags": [
@@ -222,11 +222,11 @@
       "enabled": true,
       "priority": 80,
       "weight": 0.76,
-      "generatedAt": "2026-10-25T08:30:30.697811Z",
-      "freshUntil": "2026-10-26T08:30:30.697811Z",
+      "generatedAt": "2026-10-25T08:45:29.536344Z",
+      "freshUntil": "2026-10-26T08:45:29.536344Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 101158253.99,
+        "amount": 101180334.29,
         "currency": "BRL"
       },
       "tags": [
@@ -247,18 +247,18 @@
       "enabled": true,
       "priority": 78,
       "weight": 0.72,
-      "generatedAt": "2026-10-25T08:30:30.697811Z",
-      "freshUntil": "2026-10-26T08:30:30.697811Z",
+      "generatedAt": "2026-10-25T08:45:29.536344Z",
+      "freshUntil": "2026-10-26T08:45:29.536344Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 1511296.79,
+        "amount": 1512168.26,
         "currency": "BRL"
       },
       "tags": [
         "Média por agente"
       ],
       "referenceDate": "541 deputados com gasto no período",
-      "variationText": "Montante: R$ 817.611.561,19"
+      "variationText": "Montante: R$ 818.083.026,58"
     },
     {
       "id": "federal-deputies-day-top-share",
@@ -272,8 +272,8 @@
       "enabled": true,
       "priority": 74,
       "weight": 0.68,
-      "generatedAt": "2026-10-25T08:30:30.697811Z",
-      "freshUntil": "2026-10-26T08:30:30.697811Z",
+      "generatedAt": "2026-10-25T08:45:29.536344Z",
+      "freshUntil": "2026-10-26T08:45:29.536344Z",
       "qualityScore": 1.0,
       "left": {
         "amount": 1949.19,
@@ -306,8 +306,8 @@
       "enabled": true,
       "priority": 72,
       "weight": 0.66,
-      "generatedAt": "2026-10-25T08:30:30.697811Z",
-      "freshUntil": "2026-10-26T08:30:30.697811Z",
+      "generatedAt": "2026-10-25T08:45:29.536344Z",
+      "freshUntil": "2026-10-26T08:45:29.536344Z",
       "qualityScore": 1.0,
       "tags": [
         "Totais diários"

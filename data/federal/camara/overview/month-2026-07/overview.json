@@ -3,14 +3,14 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-07",
-    "generatedAt": "2026-10-21T21:19:39.045587Z",
+    "generatedAt": "2026-10-25T08:44:11.101362Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 10883098.53,
-    "amountGross": 11025367.89,
+    "amountNet": 10910867.53,
+    "amountGross": 11053136.89,
     "amountAdjustments": -142269.36,
-    "recordsCount": 13736,
+    "recordsCount": 13760,
     "entitiesCount": 513,
     "entitiesWithSpending": 489,
     "entitiesWithoutSpending": 24
@@ -29,26 +29,26 @@
     "topCategories": [
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 4502546.07,
-        "amountGross": 4503806.42,
+        "amountNet": 4512870.47,
+        "amountGross": 4514130.82,
         "amountAdjustments": -1260.35
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 3084972.3,
-        "amountGross": 3084972.3,
+        "amountNet": 3099445.92,
+        "amountGross": 3099445.92,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 2275491.01,
-        "amountGross": 2275491.01,
+        "amountNet": 2275792.5,
+        "amountGross": 2275792.5,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 633090.29,
-        "amountGross": 633090.29,
+        "amountNet": 633273.29,
+        "amountGross": 633273.29,
         "amountAdjustments": 0.0
       },
       {
@@ -59,8 +59,8 @@
       },
       {
         "category": "CORREIOS_TELEFONIA",
-        "amountNet": 213544.55,
-        "amountGross": 213544.55,
+        "amountNet": 216031.04,
+        "amountGross": 216031.04,
         "amountAdjustments": 0.0
       },
       {
@@ -85,38 +85,38 @@
     "topStates": [
       {
         "stateCode": "SP",
-        "amountNet": 1353640.6,
-        "amountGross": 1393229.2,
+        "amountNet": 1356712.52,
+        "amountGross": 1396301.12,
         "amountAdjustments": -39588.6
       },
       {
         "stateCode": "MG",
-        "amountNet": 1341072.8,
-        "amountGross": 1351380.93,
+        "amountNet": 1341759.34,
+        "amountGross": 1352067.47,
         "amountAdjustments": -10308.13
       },
       {
         "stateCode": "RS",
-        "amountNet": 936438.13,
-        "amountGross": 943732.13,
+        "amountNet": 936956.32,
+        "amountGross": 944250.32,
         "amountAdjustments": -7294.0
       },
       {
         "stateCode": "BA",
-        "amountNet": 896894.88,
-        "amountGross": 902547.1,
+        "amountNet": 906651.68,
+        "amountGross": 912303.9,
         "amountAdjustments": -5652.22
       },
       {
         "stateCode": "RJ",
-        "amountNet": 894258.66,
-        "amountGross": 902405.38,
+        "amountNet": 894938.66,
+        "amountGross": 903085.38,
         "amountAdjustments": -8146.72
       },
       {
         "stateCode": "PE",
-        "amountNet": 653318.54,
-        "amountGross": 659861.34,
+        "amountNet": 653718.54,
+        "amountGross": 660261.34,
         "amountAdjustments": -6542.8
       },
       {
@@ -127,20 +127,20 @@
       },
       {
         "stateCode": "SC",
-        "amountNet": 417673.83,
-        "amountGross": 423328.18,
+        "amountNet": 418856.83,
+        "amountGross": 424511.18,
         "amountAdjustments": -5654.35
       },
       {
         "stateCode": "GO",
-        "amountNet": 357676.68,
-        "amountGross": 360923.68,
+        "amountNet": 358423.75,
+        "amountGross": 361670.75,
         "amountAdjustments": -3247.0
       },
       {
         "stateCode": "CE",
-        "amountNet": 329228.74,
-        "amountGross": 338669.74,
+        "amountNet": 329424.82,
+        "amountGross": 338865.82,
         "amountAdjustments": -9441.0
       },
       {
@@ -158,24 +158,20 @@
     ],
     "concentrationTop10": {
       "amountNet": 582195.84,
-      "percent": 5.35
+      "percent": 5.34
     },
     "averages": {
-      "perEntityWithSpending": 22255.83,
-      "perRecord": 792.3
+      "perEntityWithSpending": 22312.61,
+      "perRecord": 792.94
     },
     "dailyTotals": {
-      "referenceDate": "2026-10-14",
-      "amountNet": 1550.0,
-      "previousAmountNet": 8700.0,
-      "deltaAmountNet": -7150.0,
-      "deltaPercent": -82.18,
+      "referenceDate": "2026-10-16",
+      "amountNet": 10324.4,
+      "previousAmountNet": 11306.8,
+      "deltaAmountNet": -982.4,
+      "deltaPercent": -8.69,
       "deltaDirection": "down",
       "trend7d": [
-        {
-          "date": "2026-09-16",
-          "amountNet": 8449.08
-        },
         {
           "date": "2026-09-18",
           "amountNet": 9375.53
@@ -198,28 +194,32 @@
         },
         {
           "date": "2026-10-14",
-          "amountNet": 1550.0
+          "amountNet": 11306.8
+        },
+        {
+          "date": "2026-10-16",
+          "amountNet": 10324.4
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-10-14",
+      "referenceDate": "2026-10-16",
       "entity": {
-        "id": 220704,
-        "name": "Carol Dartora",
-        "stateCode": "PR",
-        "party": "PT",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220704.jpg",
+        "id": 220539,
+        "name": "Defensor Stélio Dener",
+        "stateCode": "RR",
+        "party": "UNIÃO",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220539.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 1550.0,
-      "category": "ESCRITORIO",
-      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-      "supplier": "SODI ASSEIO E CONSERVACAO LTDA",
+      "amountNet": 10324.4,
+      "category": "DESLOCAMENTO",
+      "expenseType": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "supplier": "FERREIRA E PICAO LTDA",
       "documentType": "0",
-      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3632/2026/8164867.pdf"
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3564/2026/8166192.pdf"
     }
   }
 }
