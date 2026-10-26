@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-10",
-    "generatedAt": "2026-10-25T08:45:29.026529Z",
+    "generatedAt": "2026-10-26T09:03:01.418770Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -46,6 +46,16 @@
       "amountGross": 71580.83,
       "amountAdjustments": 0.0,
       "recordsCount": 9
+    },
+    {
+      "id": 178887,
+      "name": "Rubens Pereira Júnior",
+      "stateCode": "MA",
+      "party": "PT",
+      "amountNet": 63500.0,
+      "amountGross": 63500.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
     },
     {
       "id": 141458,
@@ -96,16 +106,6 @@
       "amountGross": 41440.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 220548,
-      "name": "Camila Jara",
-      "stateCode": "MS",
-      "party": "PT",
-      "amountNet": 40615.46,
-      "amountGross": 40615.46,
-      "amountAdjustments": 0.0,
-      "recordsCount": 20
     }
   ],
   "bottom": [
@@ -116,16 +116,6 @@
       "party": "MDB",
       "amountNet": 34.5,
       "amountGross": 34.5,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 220663,
-      "name": "Eriberto Medeiros",
-      "stateCode": "PE",
-      "party": "PSB",
-      "amountNet": 69.5,
-      "amountGross": 69.5,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -180,16 +170,6 @@
       "recordsCount": 1
     },
     {
-      "id": 73788,
-      "name": "Ricardo Barros",
-      "stateCode": "PR",
-      "party": "PP",
-      "amountNet": 150.0,
-      "amountGross": 150.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 92776,
       "name": "Stefano Aguiar",
       "stateCode": "MG",
@@ -200,14 +180,34 @@
       "recordsCount": 3
     },
     {
-      "id": 220606,
-      "name": "Reimont",
-      "stateCode": "RJ",
-      "party": "PT",
-      "amountNet": 182.76,
-      "amountGross": 182.76,
+      "id": 220675,
+      "name": "Antônio Doido",
+      "stateCode": "PA",
+      "party": "MDB",
+      "amountNet": 209.15,
+      "amountGross": 209.15,
       "amountAdjustments": 0.0,
       "recordsCount": 1
+    },
+    {
+      "id": 92699,
+      "name": "Fernando Monteiro",
+      "stateCode": "PE",
+      "party": "PSD",
+      "amountNet": 249.02,
+      "amountGross": 249.02,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 141487,
+      "name": "Luiz Fernando Faria",
+      "stateCode": "MG",
+      "party": "UNIÃO",
+      "amountNet": 251.8,
+      "amountGross": 251.8,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
     }
   ]
 }
