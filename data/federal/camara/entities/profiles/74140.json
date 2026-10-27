@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 74140,
-    "generatedAt": "2026-10-26T09:03:02.359899Z",
+    "generatedAt": "2026-10-27T09:05:59.737715Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "josé-carlos-araujo"
   },
   "mandateTotals": {
-    "amountNet": 164431.3,
-    "amountGross": 164431.3,
+    "amountNet": 141594.65,
+    "amountGross": 141594.65,
     "amountAdjustments": 0.0,
-    "recordsCount": 72,
+    "recordsCount": 55,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 19602.13,
+      "COMBUSTIVEL": 15522.28,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 36072.37,
       "DIVULGACAO": 51000.0,
-      "ESCRITORIO": 57756.8,
+      "ESCRITORIO": 39000.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 19602.13,
+      "COMBUSTIVEL": 15522.28,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 36072.37,
       "DIVULGACAO": 51000.0,
-      "ESCRITORIO": 57756.8,
+      "ESCRITORIO": 39000.0,
       "HOSPEDAGEM": 0.0,
       "OUTROS": 0.0
     },
@@ -54,7 +54,7 @@
     }
   },
   "yearTotals": {
-    "2026": 164431.3
+    "2026": 141594.65
   },
   "monthTotals": {
     "2026-01": 0.0,
@@ -65,12 +65,11 @@
     "2026-06": 3672.37,
     "2026-07": 47878.28,
     "2026-08": 46386.83,
-    "2026-09": 43657.17,
-    "2026-10": 22836.65
+    "2026-09": 43657.17
   },
   "topCategory": {
-    "category": "ESCRITORIO",
-    "amountNet": 57756.8,
-    "percent": 35.13
+    "category": "DIVULGACAO",
+    "amountNet": 51000.0,
+    "percent": 36.02
   }
 }
