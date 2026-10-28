@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204379,
-    "generatedAt": "2026-10-27T09:05:59.801594Z",
+    "generatedAt": "2026-10-28T09:46:42.502079Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,10 +15,10 @@
     "slug": "acácio-favacho"
   },
   "mandateTotals": {
-    "amountNet": 2012691.7,
-    "amountGross": 2021007.89,
+    "amountNet": 2014233.95,
+    "amountGross": 2022550.14,
     "amountAdjustments": -8316.19,
-    "recordsCount": 1189,
+    "recordsCount": 1190,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 169547.24,
@@ -27,7 +27,7 @@
       "DESLOCAMENTO": 759545.07,
       "DIVULGACAO": 1055455.25,
       "ESCRITORIO": 17017.0,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 1542.25,
       "OUTROS": 0.0
     },
     "byCategoryGross": {
@@ -38,7 +38,7 @@
       "DESLOCAMENTO": 767861.26,
       "DIVULGACAO": 1055455.25,
       "ESCRITORIO": 17017.0,
-      "HOSPEDAGEM": 0.0,
+      "HOSPEDAGEM": 1542.25,
       "OUTROS": 0.0
     },
     "byCategoryAdjustments": {
@@ -57,7 +57,7 @@
     "2023": 591112.85,
     "2024": 566418.09,
     "2025": 546888.46,
-    "2026": 308272.3
+    "2026": 309814.55
   },
   "monthTotals": {
     "2023-01": 35470.13,
@@ -105,11 +105,11 @@
     "2026-07": 14224.86,
     "2026-08": 16097.93,
     "2026-09": 1769.04,
-    "2026-10": 0.0
+    "2026-10": 1542.25
   },
   "topCategory": {
     "category": "DIVULGACAO",
     "amountNet": 1055455.25,
-    "percent": 52.44
+    "percent": 52.4
   }
 }
