@@ -3,10 +3,30 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-10",
-    "generatedAt": "2026-10-28T09:46:41.466299Z",
+    "generatedAt": "2026-10-29T10:05:09.000870Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
+    {
+      "id": 220544,
+      "name": "Antonio Andrade",
+      "stateCode": "TO",
+      "party": "PSDB",
+      "amountNet": 132962.53,
+      "amountGross": 132962.53,
+      "amountAdjustments": 0.0,
+      "recordsCount": 10
+    },
+    {
+      "id": 150418,
+      "name": "Márcio Marinho",
+      "stateCode": "BA",
+      "party": "REPUBLICANOS",
+      "amountNet": 109830.88,
+      "amountGross": 109830.88,
+      "amountAdjustments": 0.0,
+      "recordsCount": 8
+    },
     {
       "id": 123756,
       "name": "Antônia Lúcia",
@@ -16,6 +36,16 @@
       "amountGross": 103400.0,
       "amountAdjustments": 0.0,
       "recordsCount": 2
+    },
+    {
+      "id": 226837,
+      "name": "Saulo Pedroso",
+      "stateCode": "SP",
+      "party": "PSD",
+      "amountNet": 102987.55,
+      "amountGross": 102987.55,
+      "amountAdjustments": 0.0,
+      "recordsCount": 7
     },
     {
       "id": 74454,
@@ -28,24 +58,34 @@
       "recordsCount": 1
     },
     {
+      "id": 122195,
+      "name": "Leonardo Gadelha",
+      "stateCode": "PB",
+      "party": "PODE",
+      "amountNet": 88503.54,
+      "amountGross": 88503.54,
+      "amountAdjustments": 0.0,
+      "recordsCount": 23
+    },
+    {
       "id": 204360,
       "name": "Silvia Cristina",
       "stateCode": "RO",
       "party": "PP",
-      "amountNet": 85092.32,
-      "amountGross": 85092.32,
+      "amountNet": 87092.32,
+      "amountGross": 87092.32,
       "amountAdjustments": 0.0,
-      "recordsCount": 7
+      "recordsCount": 8
     },
     {
       "id": 73768,
       "name": "Dilceu Sperafico",
       "stateCode": "PR",
       "party": "PP",
-      "amountNet": 83420.52,
-      "amountGross": 83420.52,
+      "amountNet": 87054.93,
+      "amountGross": 87054.93,
       "amountAdjustments": 0.0,
-      "recordsCount": 32
+      "recordsCount": 37
     },
     {
       "id": 204558,
@@ -58,54 +98,14 @@
       "recordsCount": 9
     },
     {
-      "id": 178887,
-      "name": "Rubens Pereira Júnior",
-      "stateCode": "MA",
+      "id": 220548,
+      "name": "Camila Jara",
+      "stateCode": "MS",
       "party": "PT",
-      "amountNet": 63500.0,
-      "amountGross": 63500.0,
+      "amountNet": 67983.16,
+      "amountGross": 67983.16,
       "amountAdjustments": 0.0,
-      "recordsCount": 2
-    },
-    {
-      "id": 141458,
-      "name": "João Carlos Bacelar",
-      "stateCode": "BA",
-      "party": "PL",
-      "amountNet": 59532.0,
-      "amountGross": 59532.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 4
-    },
-    {
-      "id": 220592,
-      "name": "Zezinho Barbary",
-      "stateCode": "AC",
-      "party": "PP",
-      "amountNet": 55468.05,
-      "amountGross": 55468.05,
-      "amountAdjustments": 0.0,
-      "recordsCount": 6
-    },
-    {
-      "id": 220570,
-      "name": "Dr. Ismael Alexandrino",
-      "stateCode": "GO",
-      "party": "PSD",
-      "amountNet": 53400.0,
-      "amountGross": 53400.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 3
-    },
-    {
-      "id": 74043,
-      "name": "Wellington Roberto",
-      "stateCode": "PB",
-      "party": "PSD",
-      "amountNet": 48000.0,
-      "amountGross": 48000.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
+      "recordsCount": 31
     }
   ],
   "bottom": [
@@ -120,16 +120,6 @@
       "recordsCount": 1
     },
     {
-      "id": 73778,
-      "name": "Luiz Carlos Hauly",
-      "stateCode": "PR",
-      "party": "PODE",
-      "amountNet": 71.8,
-      "amountGross": 71.8,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
       "id": 204572,
       "name": "Capitão Alberto Neto",
       "stateCode": "AM",
@@ -140,22 +130,12 @@
       "recordsCount": 1
     },
     {
-      "id": 220567,
-      "name": "Jeferson Rodrigues",
-      "stateCode": "GO",
-      "party": "PSDB",
-      "amountNet": 133.5,
-      "amountGross": 133.5,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
-    },
-    {
-      "id": 73486,
-      "name": "Pompeo de Mattos",
-      "stateCode": "RS",
-      "party": "PDT",
-      "amountNet": 150.0,
-      "amountGross": 150.0,
+      "id": 178873,
+      "name": "Helder Salomão",
+      "stateCode": "ES",
+      "party": "PT",
+      "amountNet": 189.74,
+      "amountGross": 189.74,
       "amountAdjustments": 0.0,
       "recordsCount": 1
     },
@@ -208,6 +188,26 @@
       "amountGross": 272.24,
       "amountAdjustments": 0.0,
       "recordsCount": 1
+    },
+    {
+      "id": 204515,
+      "name": "André Janones",
+      "stateCode": "MG",
+      "party": "REDE",
+      "amountNet": 272.34,
+      "amountGross": 272.34,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "id": 220663,
+      "name": "Eriberto Medeiros",
+      "stateCode": "PE",
+      "party": "PSB",
+      "amountNet": 274.5,
+      "amountGross": 274.5,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
     }
   ]
 }

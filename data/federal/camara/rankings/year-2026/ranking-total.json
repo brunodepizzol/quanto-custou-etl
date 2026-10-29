@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "year-2026",
-    "generatedAt": "2026-10-28T09:46:41.594310Z",
+    "generatedAt": "2026-10-29T10:05:09.131224Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -18,6 +18,26 @@
       "recordsCount": 30
     },
     {
+      "id": 220544,
+      "name": "Antonio Andrade",
+      "stateCode": "TO",
+      "party": "PSDB",
+      "amountNet": 561622.03,
+      "amountGross": 561622.03,
+      "amountAdjustments": 0.0,
+      "recordsCount": 225
+    },
+    {
+      "id": 191923,
+      "name": "Flávio Nogueira",
+      "stateCode": "PI",
+      "party": "PT",
+      "amountNet": 533882.76,
+      "amountGross": 533882.76,
+      "amountAdjustments": 0.0,
+      "recordsCount": 318
+    },
+    {
       "id": 220624,
       "name": "Robinson Faria",
       "stateCode": "RN",
@@ -28,34 +48,44 @@
       "recordsCount": 134
     },
     {
-      "id": 191923,
-      "name": "Flávio Nogueira",
-      "stateCode": "PI",
-      "party": "PT",
-      "amountNet": 485971.49,
-      "amountGross": 485971.49,
-      "amountAdjustments": 0.0,
-      "recordsCount": 310
-    },
-    {
       "id": 204426,
       "name": "Carlos Veras",
       "stateCode": "PE",
       "party": "PT",
-      "amountNet": 480866.08,
-      "amountGross": 480866.08,
+      "amountNet": 482205.36,
+      "amountGross": 482205.36,
       "amountAdjustments": 0.0,
-      "recordsCount": 628
+      "recordsCount": 630
     },
     {
       "id": 230768,
       "name": "Zé Adriano",
       "stateCode": "AC",
       "party": "PP",
-      "amountNet": 473870.74,
-      "amountGross": 473870.74,
+      "amountNet": 480870.74,
+      "amountGross": 480870.74,
       "amountAdjustments": 0.0,
-      "recordsCount": 127
+      "recordsCount": 129
+    },
+    {
+      "id": 204512,
+      "name": "Delegado Marcelo Freitas",
+      "stateCode": "MG",
+      "party": "UNIÃO",
+      "amountNet": 470687.0,
+      "amountGross": 470687.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 391
+    },
+    {
+      "id": 224117,
+      "name": "Gabriel Mota",
+      "stateCode": "RR",
+      "party": "UNIÃO",
+      "amountNet": 468514.57,
+      "amountGross": 468514.57,
+      "amountAdjustments": 0.0,
+      "recordsCount": 46
     },
     {
       "id": 220538,
@@ -68,44 +98,14 @@
       "recordsCount": 93
     },
     {
-      "id": 224117,
-      "name": "Gabriel Mota",
-      "stateCode": "RR",
-      "party": "UNIÃO",
-      "amountNet": 454514.57,
-      "amountGross": 454514.57,
+      "id": 226837,
+      "name": "Saulo Pedroso",
+      "stateCode": "SP",
+      "party": "PSD",
+      "amountNet": 455641.33,
+      "amountGross": 455641.33,
       "amountAdjustments": 0.0,
-      "recordsCount": 45
-    },
-    {
-      "id": 178929,
-      "name": "Diego Garcia",
-      "stateCode": "PR",
-      "party": "UNIÃO",
-      "amountNet": 445971.42,
-      "amountGross": 445971.42,
-      "amountAdjustments": 0.0,
-      "recordsCount": 838
-    },
-    {
-      "id": 220675,
-      "name": "Antônio Doido",
-      "stateCode": "PA",
-      "party": "MDB",
-      "amountNet": 445439.7,
-      "amountGross": 445439.7,
-      "amountAdjustments": 0.0,
-      "recordsCount": 109
-    },
-    {
-      "id": 74374,
-      "name": "Geraldo Resende",
-      "stateCode": "MS",
-      "party": "UNIÃO",
-      "amountNet": 445038.5,
-      "amountGross": 445038.5,
-      "amountAdjustments": 0.0,
-      "recordsCount": 139
+      "recordsCount": 180
     }
   ],
   "bottom": [
@@ -160,24 +160,24 @@
       "recordsCount": 21
     },
     {
-      "id": 152605,
-      "name": "Glauber Braga",
-      "stateCode": "RJ",
-      "party": "PSOL",
-      "amountNet": 26094.53,
-      "amountGross": 26094.53,
-      "amountAdjustments": 0.0,
-      "recordsCount": 54
-    },
-    {
       "id": 74581,
       "name": "Gilmar Machado",
       "stateCode": "MG",
       "party": "PT",
-      "amountNet": 26104.31,
-      "amountGross": 26104.31,
+      "amountNet": 26246.8,
+      "amountGross": 26246.8,
       "amountAdjustments": 0.0,
-      "recordsCount": 7
+      "recordsCount": 8
+    },
+    {
+      "id": 152605,
+      "name": "Glauber Braga",
+      "stateCode": "RJ",
+      "party": "PSOL",
+      "amountNet": 27506.47,
+      "amountGross": 27506.47,
+      "amountAdjustments": 0.0,
+      "recordsCount": 59
     },
     {
       "id": 204528,
@@ -194,20 +194,20 @@
       "name": "Luciano Vieira",
       "stateCode": "RJ",
       "party": "PSDB",
-      "amountNet": 41838.34,
-      "amountGross": 62582.34,
+      "amountNet": 41988.34,
+      "amountGross": 62732.34,
       "amountAdjustments": -20744.0,
-      "recordsCount": 71
+      "recordsCount": 72
     },
     {
       "id": 204482,
       "name": "Euclydes Pettersen",
       "stateCode": "MG",
       "party": "REPUBLICANOS",
-      "amountNet": 48516.1,
-      "amountGross": 48516.1,
+      "amountNet": 50016.1,
+      "amountGross": 50016.1,
       "amountAdjustments": 0.0,
-      "recordsCount": 16
+      "recordsCount": 17
     }
   ]
 }
