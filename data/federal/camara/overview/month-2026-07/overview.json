@@ -3,14 +3,14 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-07",
-    "generatedAt": "2026-10-25T08:44:11.101362Z",
+    "generatedAt": "2026-11-01T10:49:07.694620Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 10910867.53,
-    "amountGross": 11053136.89,
+    "amountNet": 10890153.72,
+    "amountGross": 11032423.08,
     "amountAdjustments": -142269.36,
-    "recordsCount": 13760,
+    "recordsCount": 13775,
     "entitiesCount": 513,
     "entitiesWithSpending": 489,
     "entitiesWithoutSpending": 24
@@ -29,38 +29,38 @@
     "topCategories": [
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 4512870.47,
-        "amountGross": 4514130.82,
+        "amountNet": 4518446.17,
+        "amountGross": 4519706.52,
         "amountAdjustments": -1260.35
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 3099445.92,
-        "amountGross": 3099445.92,
+        "amountNet": 3088952.34,
+        "amountGross": 3088952.34,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 2275792.5,
-        "amountGross": 2275792.5,
+        "amountNet": 2273121.21,
+        "amountGross": 2273121.21,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 633273.29,
-        "amountGross": 633273.29,
+        "amountNet": 636128.78,
+        "amountGross": 636128.78,
         "amountAdjustments": 0.0
       },
       {
         "category": "DIVULGACAO",
-        "amountNet": 254214.12,
-        "amountGross": 254214.12,
+        "amountNet": 237214.12,
+        "amountGross": 237214.12,
         "amountAdjustments": 0.0
       },
       {
         "category": "CORREIOS_TELEFONIA",
-        "amountNet": 216031.04,
-        "amountGross": 216031.04,
+        "amountNet": 217050.91,
+        "amountGross": 217050.91,
         "amountAdjustments": 0.0
       },
       {
@@ -85,8 +85,8 @@
     "topStates": [
       {
         "stateCode": "SP",
-        "amountNet": 1356712.52,
-        "amountGross": 1396301.12,
+        "amountNet": 1363541.41,
+        "amountGross": 1403130.01,
         "amountAdjustments": -39588.6
       },
       {
@@ -97,15 +97,9 @@
       },
       {
         "stateCode": "RS",
-        "amountNet": 936956.32,
-        "amountGross": 944250.32,
+        "amountNet": 937374.72,
+        "amountGross": 944668.72,
         "amountAdjustments": -7294.0
-      },
-      {
-        "stateCode": "BA",
-        "amountNet": 906651.68,
-        "amountGross": 912303.9,
-        "amountAdjustments": -5652.22
       },
       {
         "stateCode": "RJ",
@@ -114,21 +108,27 @@
         "amountAdjustments": -8146.72
       },
       {
+        "stateCode": "BA",
+        "amountNet": 858856.1,
+        "amountGross": 864508.32,
+        "amountAdjustments": -5652.22
+      },
+      {
         "stateCode": "PE",
-        "amountNet": 653718.54,
-        "amountGross": 660261.34,
+        "amountNet": 662127.54,
+        "amountGross": 668670.34,
         "amountAdjustments": -6542.8
       },
       {
         "stateCode": "PR",
-        "amountNet": 619904.4,
-        "amountGross": 623533.4,
+        "amountNet": 620539.7,
+        "amountGross": 624168.7,
         "amountAdjustments": -3629.0
       },
       {
         "stateCode": "SC",
-        "amountNet": 418856.83,
-        "amountGross": 424511.18,
+        "amountNet": 419475.83,
+        "amountGross": 425130.18,
         "amountAdjustments": -5654.35
       },
       {
@@ -139,8 +139,8 @@
       },
       {
         "stateCode": "CE",
-        "amountNet": 329424.82,
-        "amountGross": 338865.82,
+        "amountNet": 332947.05,
+        "amountGross": 342388.05,
         "amountAdjustments": -9441.0
       },
       {
@@ -157,12 +157,12 @@
       }
     ],
     "concentrationTop10": {
-      "amountNet": 582195.84,
-      "percent": 5.34
+      "amountNet": 586445.84,
+      "percent": 5.39
     },
     "averages": {
-      "perEntityWithSpending": 22312.61,
-      "perRecord": 792.94
+      "perEntityWithSpending": 22270.25,
+      "perRecord": 790.57
     },
     "dailyTotals": {
       "referenceDate": "2026-10-16",
@@ -173,12 +173,12 @@
       "deltaDirection": "down",
       "trend7d": [
         {
-          "date": "2026-09-18",
-          "amountNet": 9375.53
-        },
-        {
           "date": "2026-09-21",
           "amountNet": 12680.0
+        },
+        {
+          "date": "2026-09-28",
+          "amountNet": 2984.0
         },
         {
           "date": "2026-10-06",
@@ -190,7 +190,7 @@
         },
         {
           "date": "2026-10-08",
-          "amountNet": 8700.0
+          "amountNet": 12950.0
         },
         {
           "date": "2026-10-14",
