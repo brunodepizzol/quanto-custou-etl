@@ -3,29 +3,50 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-11",
-    "generatedAt": "2026-11-03T10:58:15.038509Z",
+    "generatedAt": "2026-11-04T11:02:06.739727Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 0.0,
-    "amountGross": 0.0,
+    "amountNet": 29117.49,
+    "amountGross": 29117.49,
     "amountAdjustments": 0.0,
-    "recordsCount": 0,
+    "recordsCount": 18,
     "entitiesCount": 513,
-    "entitiesWithSpending": 0,
-    "entitiesWithoutSpending": 513
+    "entitiesWithSpending": 15,
+    "entitiesWithoutSpending": 498
   },
   "highlights": {
-    "topSpender": {},
+    "topSpender": {
+      "id": 74090,
+      "name": "Átila Lins",
+      "stateCode": "AM",
+      "party": "PSD",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74090.jpg",
+      "amountNet": 25000.0,
+      "amountGross": 25000.0,
+      "amountAdjustments": 0.0
+    },
     "topCategories": [
       {
-        "category": "ALIMENTACAO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
+        "category": "DESLOCAMENTO",
+        "amountNet": 25000.0,
+        "amountGross": 25000.0,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
+        "amountNet": 3498.49,
+        "amountGross": 3498.49,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ESCRITORIO",
+        "amountNet": 619.0,
+        "amountGross": 619.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "ALIMENTACAO",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
@@ -43,19 +64,7 @@
         "amountAdjustments": 0.0
       },
       {
-        "category": "DESLOCAMENTO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
         "category": "DIVULGACAO",
-        "amountNet": 0.0,
-        "amountGross": 0.0,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "ESCRITORIO",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
@@ -73,33 +82,132 @@
         "amountAdjustments": 0.0
       }
     ],
-    "topStates": [],
+    "topStates": [
+      {
+        "stateCode": "AM",
+        "amountNet": 25000.0,
+        "amountGross": 25000.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 814.91,
+        "amountGross": 814.91,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 758.65,
+        "amountGross": 758.65,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "MS",
+        "amountNet": 619.0,
+        "amountGross": 619.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SC",
+        "amountNet": 567.91,
+        "amountGross": 567.91,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "MT",
+        "amountNet": 260.83,
+        "amountGross": 260.83,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "SP",
+        "amountNet": 253.96,
+        "amountGross": 253.96,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PB",
+        "amountNet": 242.04,
+        "amountGross": 242.04,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PR",
+        "amountNet": 240.19,
+        "amountGross": 240.19,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "GO",
+        "amountNet": 190.0,
+        "amountGross": 190.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "AP",
+        "amountNet": 100.0,
+        "amountGross": 100.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 70.0,
+        "amountGross": 70.0,
+        "amountAdjustments": 0.0
+      }
+    ],
     "concentrationTop10": {
-      "amountNet": 0,
-      "percent": 0.0
+      "amountNet": 28359.75,
+      "percent": 97.4
     },
     "averages": {
-      "perEntityWithSpending": 0.0,
-      "perRecord": 0.0
+      "perEntityWithSpending": 1941.17,
+      "perRecord": 1617.64
     },
     "dailyTotals": {
-      "referenceDate": null,
-      "amountNet": 0.0,
-      "previousAmountNet": 0.0,
-      "deltaAmountNet": 0.0,
-      "deltaPercent": 0.0,
-      "deltaDirection": "flat",
-      "trend7d": []
+      "referenceDate": "2026-11-03",
+      "amountNet": 26967.0,
+      "previousAmountNet": 1277.53,
+      "deltaAmountNet": 25689.47,
+      "deltaPercent": 2010.87,
+      "deltaDirection": "up",
+      "trend7d": [
+        {
+          "date": "2026-10-28",
+          "amountNet": 619.0
+        },
+        {
+          "date": "2026-11-01",
+          "amountNet": 253.96
+        },
+        {
+          "date": "2026-11-02",
+          "amountNet": 1277.53
+        },
+        {
+          "date": "2026-11-03",
+          "amountNet": 26967.0
+        }
+      ]
     },
     "dailyTopExpense": {
-      "referenceDate": null,
-      "entity": {},
-      "amountNet": 0.0,
-      "category": null,
-      "expenseType": null,
-      "supplier": null,
-      "documentType": null,
-      "documentUrl": null
+      "referenceDate": "2026-11-03",
+      "entity": {
+        "id": 74090,
+        "name": "Átila Lins",
+        "stateCode": "AM",
+        "party": "PSD",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/74090.jpg",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      "amountNet": 25000.0,
+      "category": "DESLOCAMENTO",
+      "expenseType": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "supplier": "CTA - CLEITON TAXI AEREO LTDA",
+      "documentType": "0",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/583/2026/8171780.pdf"
     }
   }
 }

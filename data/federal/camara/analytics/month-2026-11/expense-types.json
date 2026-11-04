@@ -3,8 +3,30 @@
     "scope": "federal/camara",
     "type": "analytics-expense-types",
     "period": "month-2026-11",
-    "generatedAt": "2026-11-03T10:58:15.044964Z",
+    "generatedAt": "2026-11-04T11:02:06.744743Z",
     "schemaVersion": "1.0.0"
   },
-  "items": []
+  "items": [
+    {
+      "expenseType": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
+      "amountNet": 25000.0,
+      "amountGross": 25000.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "amountNet": 3498.49,
+      "amountGross": 3498.49,
+      "amountAdjustments": 0.0,
+      "recordsCount": 16
+    },
+    {
+      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "amountNet": 619.0,
+      "amountGross": 619.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    }
+  ]
 }
