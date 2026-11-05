@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "analytics-expense-types",
     "period": "month-2026-11",
-    "generatedAt": "2026-11-04T11:02:06.744743Z",
+    "generatedAt": "2026-11-05T11:03:26.266485Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
@@ -16,17 +16,38 @@
     },
     {
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "amountNet": 3498.49,
-      "amountGross": 3498.49,
+      "amountNet": 14254.24,
+      "amountGross": 14254.24,
       "amountAdjustments": 0.0,
-      "recordsCount": 16
+      "recordsCount": 55
+    },
+    {
+      "expenseType": "PASSAGEM AÉREA - REEMBOLSO",
+      "amountNet": 2767.37,
+      "amountGross": 2767.37,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
     },
     {
       "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "amountNet": 1026.8,
+      "amountGross": 1026.8,
+      "amountAdjustments": 0.0,
+      "recordsCount": 3
+    },
+    {
+      "expenseType": "TELEFONIA",
       "amountNet": 619.0,
       "amountGross": 619.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
+    },
+    {
+      "expenseType": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "amountNet": 199.7,
+      "amountGross": 199.7,
+      "amountAdjustments": 0.0,
+      "recordsCount": 4
     }
   ]
 }
