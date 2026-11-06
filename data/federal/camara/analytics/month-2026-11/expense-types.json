@@ -3,10 +3,24 @@
     "scope": "federal/camara",
     "type": "analytics-expense-types",
     "period": "month-2026-11",
-    "generatedAt": "2026-11-05T11:03:26.266485Z",
+    "generatedAt": "2026-11-06T11:00:52.196258Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
+    {
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "amountNet": 89000.0,
+      "amountGross": 89000.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
+    },
+    {
+      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
+      "amountNet": 38891.66,
+      "amountGross": 38891.66,
+      "amountAdjustments": 0.0,
+      "recordsCount": 148
+    },
     {
       "expenseType": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
       "amountNet": 25000.0,
@@ -15,11 +29,11 @@
       "recordsCount": 1
     },
     {
-      "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "amountNet": 14254.24,
-      "amountGross": 14254.24,
+      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "amountNet": 4568.26,
+      "amountGross": 4568.26,
       "amountAdjustments": 0.0,
-      "recordsCount": 55
+      "recordsCount": 10
     },
     {
       "expenseType": "PASSAGEM AÉREA - REEMBOLSO",
@@ -27,13 +41,6 @@
       "amountGross": 2767.37,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-      "amountNet": 1026.8,
-      "amountGross": 1026.8,
-      "amountAdjustments": 0.0,
-      "recordsCount": 3
     },
     {
       "expenseType": "TELEFONIA",
@@ -44,10 +51,10 @@
     },
     {
       "expenseType": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-      "amountNet": 199.7,
-      "amountGross": 199.7,
+      "amountNet": 524.9,
+      "amountGross": 524.9,
       "amountAdjustments": 0.0,
-      "recordsCount": 4
+      "recordsCount": 8
     }
   ]
 }
