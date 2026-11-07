@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-11",
-    "generatedAt": "2026-11-06T11:00:52.192730Z",
+    "generatedAt": "2026-11-07T10:21:06.040300Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 161371.19,
-    "amountGross": 161371.19,
+    "amountNet": 160752.19,
+    "amountGross": 160752.19,
     "amountAdjustments": 0.0,
-    "recordsCount": 170,
+    "recordsCount": 169,
     "entitiesCount": 513,
-    "entitiesWithSpending": 101,
-    "entitiesWithoutSpending": 412
+    "entitiesWithSpending": 100,
+    "entitiesWithoutSpending": 413
   },
   "highlights": {
     "topSpender": {
@@ -52,12 +52,6 @@
         "amountAdjustments": 0.0
       },
       {
-        "category": "CORREIOS_TELEFONIA",
-        "amountNet": 619.0,
-        "amountGross": 619.0,
-        "amountAdjustments": 0.0
-      },
-      {
         "category": "ALIMENTACAO",
         "amountNet": 524.9,
         "amountGross": 524.9,
@@ -65,6 +59,12 @@
       },
       {
         "category": "CONSULTORIA_SERVICOS",
+        "amountNet": 0.0,
+        "amountGross": 0.0,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "CORREIOS_TELEFONIA",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
@@ -158,11 +158,11 @@
     ],
     "concentrationTop10": {
       "amountNet": 126602.81,
-      "percent": 78.45
+      "percent": 78.76
     },
     "averages": {
-      "perEntityWithSpending": 1597.73,
-      "perRecord": 949.24
+      "perEntityWithSpending": 1607.52,
+      "perRecord": 951.2
     },
     "dailyTotals": {
       "referenceDate": "2026-11-05",
@@ -174,7 +174,7 @@
       "trend7d": [
         {
           "date": "2026-10-28",
-          "amountNet": 1238.0
+          "amountNet": 619.0
         },
         {
           "date": "2026-10-30",
