@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-02",
-    "generatedAt": "2026-11-01T10:46:58.175405Z",
+    "generatedAt": "2026-11-08T10:43:32.083489Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 16959750.17,
-    "amountGross": 17099200.31,
+    "amountNet": 17008269.76,
+    "amountGross": 17147719.9,
     "amountAdjustments": -139450.14,
-    "recordsCount": 12163,
+    "recordsCount": 12171,
     "entitiesCount": 513,
-    "entitiesWithSpending": 480,
-    "entitiesWithoutSpending": 33
+    "entitiesWithSpending": 481,
+    "entitiesWithoutSpending": 32
   },
   "highlights": {
     "topSpender": {
@@ -29,26 +29,26 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 8040151.96,
-        "amountGross": 8040151.96,
+        "amountNet": 8068101.96,
+        "amountGross": 8068101.96,
         "amountAdjustments": 0.0
       },
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 3866336.58,
-        "amountGross": 3866336.58,
+        "amountNet": 3880336.58,
+        "amountGross": 3880336.58,
         "amountAdjustments": 0.0
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 3036551.85,
-        "amountGross": 3036551.85,
+        "amountNet": 3039351.85,
+        "amountGross": 3039351.85,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 1645497.85,
-        "amountGross": 1645497.85,
+        "amountNet": 1648691.44,
+        "amountGross": 1648691.44,
         "amountAdjustments": 0.0
       },
       {
@@ -59,8 +59,8 @@
       },
       {
         "category": "CORREIOS_TELEFONIA",
-        "amountNet": 209454.43,
-        "amountGross": 209454.43,
+        "amountNet": 210030.43,
+        "amountGross": 210030.43,
         "amountAdjustments": 0.0
       },
       {
@@ -144,25 +144,25 @@
         "amountAdjustments": -7395.8
       },
       {
+        "stateCode": "PB",
+        "amountNet": 510090.63,
+        "amountGross": 510090.63,
+        "amountAdjustments": 0.0
+      },
+      {
         "stateCode": "SC",
         "amountNet": 507231.64,
         "amountGross": 511625.64,
         "amountAdjustments": -4394.0
-      },
-      {
-        "stateCode": "MA",
-        "amountNet": 471258.47,
-        "amountGross": 472505.47,
-        "amountAdjustments": -1247.0
       }
     ],
     "concentrationTop10": {
       "amountNet": 789632.92,
-      "percent": 4.66
+      "percent": 4.64
     },
     "averages": {
-      "perEntityWithSpending": 35332.81,
-      "perRecord": 1394.37
+      "perEntityWithSpending": 35360.23,
+      "perRecord": 1397.44
     },
     "dailyTotals": {
       "referenceDate": "2026-05-28",

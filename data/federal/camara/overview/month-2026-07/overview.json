@@ -3,14 +3,14 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-07",
-    "generatedAt": "2026-11-01T10:49:07.694620Z",
+    "generatedAt": "2026-11-08T10:45:42.752176Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 10890153.72,
-    "amountGross": 11032423.08,
+    "amountNet": 10904518.87,
+    "amountGross": 11046788.23,
     "amountAdjustments": -142269.36,
-    "recordsCount": 13775,
+    "recordsCount": 13780,
     "entitiesCount": 513,
     "entitiesWithSpending": 489,
     "entitiesWithoutSpending": 24
@@ -29,20 +29,20 @@
     "topCategories": [
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 4518446.17,
-        "amountGross": 4519706.52,
+        "amountNet": 4521769.47,
+        "amountGross": 4523029.82,
         "amountAdjustments": -1260.35
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 3088952.34,
-        "amountGross": 3088952.34,
+        "amountNet": 3102797.42,
+        "amountGross": 3102797.42,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 2273121.21,
-        "amountGross": 2273121.21,
+        "amountNet": 2270720.57,
+        "amountGross": 2270720.57,
         "amountAdjustments": 0.0
       },
       {
@@ -59,14 +59,14 @@
       },
       {
         "category": "CORREIOS_TELEFONIA",
-        "amountNet": 217050.91,
-        "amountGross": 217050.91,
+        "amountNet": 216658.87,
+        "amountGross": 216658.87,
         "amountAdjustments": 0.0
       },
       {
         "category": "ALIMENTACAO",
-        "amountNet": 51249.2,
-        "amountGross": 51249.2,
+        "amountNet": 51238.65,
+        "amountGross": 51238.65,
         "amountAdjustments": 0.0
       },
       {
@@ -85,26 +85,26 @@
     "topStates": [
       {
         "stateCode": "SP",
-        "amountNet": 1363541.41,
-        "amountGross": 1403130.01,
+        "amountNet": 1364784.01,
+        "amountGross": 1404372.61,
         "amountAdjustments": -39588.6
       },
       {
         "stateCode": "MG",
-        "amountNet": 1341759.34,
-        "amountGross": 1352067.47,
+        "amountNet": 1351609.34,
+        "amountGross": 1361917.47,
         "amountAdjustments": -10308.13
       },
       {
         "stateCode": "RS",
-        "amountNet": 937374.72,
-        "amountGross": 944668.72,
+        "amountNet": 937909.74,
+        "amountGross": 945203.74,
         "amountAdjustments": -7294.0
       },
       {
         "stateCode": "RJ",
-        "amountNet": 894938.66,
-        "amountGross": 903085.38,
+        "amountNet": 901135.59,
+        "amountGross": 909282.31,
         "amountAdjustments": -8146.72
       },
       {
@@ -133,14 +133,14 @@
       },
       {
         "stateCode": "GO",
-        "amountNet": 358423.75,
-        "amountGross": 361670.75,
+        "amountNet": 358626.42,
+        "amountGross": 361873.42,
         "amountAdjustments": -3247.0
       },
       {
         "stateCode": "CE",
-        "amountNet": 332947.05,
-        "amountGross": 342388.05,
+        "amountNet": 345337.35,
+        "amountGross": 354778.35,
         "amountAdjustments": -9441.0
       },
       {
@@ -158,28 +158,20 @@
     ],
     "concentrationTop10": {
       "amountNet": 586445.84,
-      "percent": 5.39
+      "percent": 5.38
     },
     "averages": {
-      "perEntityWithSpending": 22270.25,
-      "perRecord": 790.57
+      "perEntityWithSpending": 22299.63,
+      "perRecord": 791.33
     },
     "dailyTotals": {
-      "referenceDate": "2026-10-16",
-      "amountNet": 10324.4,
-      "previousAmountNet": 11306.8,
-      "deltaAmountNet": -982.4,
-      "deltaPercent": -8.69,
+      "referenceDate": "2026-10-27",
+      "amountNet": 1015.2,
+      "previousAmountNet": 10324.4,
+      "deltaAmountNet": -9309.2,
+      "deltaPercent": -90.17,
       "deltaDirection": "down",
       "trend7d": [
-        {
-          "date": "2026-09-21",
-          "amountNet": 12680.0
-        },
-        {
-          "date": "2026-09-28",
-          "amountNet": 2984.0
-        },
         {
           "date": "2026-10-06",
           "amountNet": 8900.0
@@ -193,33 +185,41 @@
           "amountNet": 12950.0
         },
         {
+          "date": "2026-10-09",
+          "amountNet": 12323.3
+        },
+        {
           "date": "2026-10-14",
           "amountNet": 11306.8
         },
         {
           "date": "2026-10-16",
           "amountNet": 10324.4
+        },
+        {
+          "date": "2026-10-27",
+          "amountNet": 1015.2
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-10-16",
+      "referenceDate": "2026-10-27",
       "entity": {
-        "id": 220539,
-        "name": "Defensor Stélio Dener",
-        "stateCode": "RR",
-        "party": "UNIÃO",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220539.jpg",
+        "id": 220548,
+        "name": "Camila Jara",
+        "stateCode": "MS",
+        "party": "PT",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220548.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 10324.4,
-      "category": "DESLOCAMENTO",
-      "expenseType": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
-      "supplier": "FERREIRA E PICAO LTDA",
-      "documentType": "0",
-      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3564/2026/8166192.pdf"
+      "amountNet": 507.6,
+      "category": "ESCRITORIO",
+      "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
+      "supplier": "MUNICIPIO DE CAMPO GRANDE",
+      "documentType": "1",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3637/2026/8169819.pdf"
     }
   }
 }
