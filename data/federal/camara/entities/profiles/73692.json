@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 73692,
-    "generatedAt": "2026-11-09T11:42:21.079380Z",
+    "generatedAt": "2026-11-10T11:20:28.274490Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,13 +15,13 @@
     "slug": "osmar-terra"
   },
   "mandateTotals": {
-    "amountNet": 1968600.36,
-    "amountGross": 2009884.79,
+    "amountNet": 1968800.36,
+    "amountGross": 2010084.79,
     "amountAdjustments": -41284.43,
-    "recordsCount": 2578,
+    "recordsCount": 2579,
     "byCategoryNet": {
       "ALIMENTACAO": 36149.82,
-      "COMBUSTIVEL": 186275.58,
+      "COMBUSTIVEL": 186475.58,
       "CONSULTORIA_SERVICOS": 8000.0,
       "CORREIOS_TELEFONIA": 57772.66,
       "DESLOCAMENTO": 743705.57,
@@ -32,7 +32,7 @@
     },
     "byCategoryGross": {
       "ALIMENTACAO": 36149.82,
-      "COMBUSTIVEL": 186275.58,
+      "COMBUSTIVEL": 186475.58,
       "CONSULTORIA_SERVICOS": 8000.0,
       "CORREIOS_TELEFONIA": 57772.66,
       "DESLOCAMENTO": 784990.0,
@@ -57,7 +57,7 @@
     "2023": 524723.61,
     "2024": 546475.18,
     "2025": 551913.78,
-    "2026": 345487.79
+    "2026": 345687.79
   },
   "monthTotals": {
     "2023-01": 11771.47,
@@ -106,11 +106,11 @@
     "2026-08": 24267.67,
     "2026-09": 11183.64,
     "2026-10": 22416.25,
-    "2026-11": 0.0
+    "2026-11": 200.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 743705.57,
-    "percent": 37.78
+    "percent": 37.77
   }
 }

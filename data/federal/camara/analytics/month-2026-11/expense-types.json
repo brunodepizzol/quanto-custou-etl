@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "analytics-expense-types",
     "period": "month-2026-11",
-    "generatedAt": "2026-11-09T11:42:20.363839Z",
+    "generatedAt": "2026-11-10T11:20:27.617486Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
@@ -16,10 +16,10 @@
     },
     {
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "amountNet": 65330.58,
-      "amountGross": 65330.58,
+      "amountNet": 98642.11,
+      "amountGross": 98642.11,
       "amountAdjustments": 0.0,
-      "recordsCount": 251
+      "recordsCount": 344
     },
     {
       "expenseType": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
@@ -30,10 +30,17 @@
     },
     {
       "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-      "amountNet": 10565.09,
-      "amountGross": 10565.09,
+      "amountNet": 10666.79,
+      "amountGross": 10666.79,
       "amountAdjustments": 0.0,
-      "recordsCount": 14
+      "recordsCount": 15
+    },
+    {
+      "expenseType": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
+      "amountNet": 3048.34,
+      "amountGross": 3048.34,
+      "amountAdjustments": 0.0,
+      "recordsCount": 38
     },
     {
       "expenseType": "PASSAGEM AÉREA - REEMBOLSO",
@@ -43,18 +50,11 @@
       "recordsCount": 1
     },
     {
-      "expenseType": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-      "amountNet": 2559.75,
-      "amountGross": 2559.75,
-      "amountAdjustments": 0.0,
-      "recordsCount": 34
-    },
-    {
       "expenseType": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-      "amountNet": 46.22,
-      "amountGross": 46.22,
+      "amountNet": 120.59,
+      "amountGross": 120.59,
       "amountAdjustments": 0.0,
-      "recordsCount": 3
+      "recordsCount": 6
     }
   ]
 }
