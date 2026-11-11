@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-11",
-    "generatedAt": "2026-11-10T11:20:27.617471Z",
+    "generatedAt": "2026-11-11T11:05:58.333694Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -16,6 +16,16 @@
       "amountGross": 89000.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
+    },
+    {
+      "id": 220599,
+      "name": "Marcelo Crivella",
+      "stateCode": "RJ",
+      "party": "REPUBLICANOS",
+      "amountNet": 50877.13,
+      "amountGross": 50877.13,
+      "amountAdjustments": 0.0,
+      "recordsCount": 9
     },
     {
       "id": 204558,
@@ -38,6 +48,16 @@
       "recordsCount": 1
     },
     {
+      "id": 204449,
+      "name": "Nelson Barbudo",
+      "stateCode": "MT",
+      "party": "PODE",
+      "amountNet": 12929.73,
+      "amountGross": 12929.73,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
+    },
+    {
       "id": 220592,
       "name": "Zezinho Barbary",
       "stateCode": "AC",
@@ -52,10 +72,20 @@
       "name": "Carlos Henrique Gaguim",
       "stateCode": "TO",
       "party": "UNIÃO",
-      "amountNet": 4062.24,
-      "amountGross": 4062.24,
+      "amountNet": 4899.24,
+      "amountGross": 4899.24,
       "amountAdjustments": 0.0,
-      "recordsCount": 4
+      "recordsCount": 6
+    },
+    {
+      "id": 220648,
+      "name": "Marangoni",
+      "stateCode": "SP",
+      "party": "PODE",
+      "amountNet": 4288.74,
+      "amountGross": 4288.74,
+      "amountAdjustments": 0.0,
+      "recordsCount": 3
     },
     {
       "id": 160600,
@@ -76,36 +106,6 @@
       "amountGross": 3386.37,
       "amountAdjustments": 0.0,
       "recordsCount": 2
-    },
-    {
-      "id": 220614,
-      "name": "Dr. Daniel Soranz",
-      "stateCode": "RJ",
-      "party": "PSD",
-      "amountNet": 3348.98,
-      "amountGross": 3348.98,
-      "amountAdjustments": 0.0,
-      "recordsCount": 4
-    },
-    {
-      "id": 204364,
-      "name": "Eli Borges",
-      "stateCode": "TO",
-      "party": "REPUBLICANOS",
-      "amountNet": 2530.74,
-      "amountGross": 2530.74,
-      "amountAdjustments": 0.0,
-      "recordsCount": 6
-    },
-    {
-      "id": 205476,
-      "name": "Charles Fernandes",
-      "stateCode": "BA",
-      "party": "PSD",
-      "amountNet": 2380.0,
-      "amountGross": 2380.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 6
     }
   ],
   "bottom": [
@@ -118,16 +118,6 @@
       "amountGross": 39.6,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 73433,
-      "name": "Arlindo Chinaglia",
-      "stateCode": "SP",
-      "party": "PT",
-      "amountNet": 93.0,
-      "amountGross": 93.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 2
     },
     {
       "id": 178962,
@@ -208,6 +198,16 @@
       "amountGross": 102.23,
       "amountAdjustments": 0.0,
       "recordsCount": 1
+    },
+    {
+      "id": 74075,
+      "name": "Elcione Barbalho",
+      "stateCode": "PA",
+      "party": "MDB",
+      "amountNet": 102.56,
+      "amountGross": 102.56,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
     }
   ]
 }

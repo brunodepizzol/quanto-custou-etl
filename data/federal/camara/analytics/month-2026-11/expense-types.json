@@ -3,23 +3,23 @@
     "scope": "federal/camara",
     "type": "analytics-expense-types",
     "period": "month-2026-11",
-    "generatedAt": "2026-11-10T11:20:27.617486Z",
+    "generatedAt": "2026-11-11T11:05:58.333726Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
     {
       "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
-      "amountNet": 133800.0,
-      "amountGross": 133800.0,
+      "amountNet": 183800.0,
+      "amountGross": 183800.0,
       "amountAdjustments": 0.0,
-      "recordsCount": 2
+      "recordsCount": 3
     },
     {
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "amountNet": 98642.11,
-      "amountGross": 98642.11,
+      "amountNet": 123928.7,
+      "amountGross": 123928.7,
       "amountAdjustments": 0.0,
-      "recordsCount": 344
+      "recordsCount": 425
     },
     {
       "expenseType": "LOCAÇÃO OU FRETAMENTO DE AERONAVES",
@@ -30,17 +30,24 @@
     },
     {
       "expenseType": "MANUTENÇÃO DE ESCRITÓRIO DE APOIO À ATIVIDADE PARLAMENTAR",
-      "amountNet": 10666.79,
-      "amountGross": 10666.79,
+      "amountNet": 12931.34,
+      "amountGross": 12931.34,
       "amountAdjustments": 0.0,
-      "recordsCount": 15
+      "recordsCount": 17
+    },
+    {
+      "expenseType": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
+      "amountNet": 12720.0,
+      "amountGross": 12720.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 1
     },
     {
       "expenseType": "FORNECIMENTO DE ALIMENTAÇÃO DO PARLAMENTAR",
-      "amountNet": 3048.34,
-      "amountGross": 3048.34,
+      "amountNet": 4464.12,
+      "amountGross": 4464.12,
       "amountAdjustments": 0.0,
-      "recordsCount": 38
+      "recordsCount": 52
     },
     {
       "expenseType": "PASSAGEM AÉREA - REEMBOLSO",
@@ -50,11 +57,18 @@
       "recordsCount": 1
     },
     {
-      "expenseType": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
-      "amountNet": 120.59,
-      "amountGross": 120.59,
+      "expenseType": "HOSPEDAGEM ,EXCETO DO PARLAMENTAR NO DISTRITO FEDERAL.",
+      "amountNet": 1138.6,
+      "amountGross": 1138.6,
       "amountAdjustments": 0.0,
-      "recordsCount": 6
+      "recordsCount": 2
+    },
+    {
+      "expenseType": "SERVIÇO DE TÁXI, PEDÁGIO E ESTACIONAMENTO",
+      "amountNet": 744.71,
+      "amountGross": 744.71,
+      "amountAdjustments": 0.0,
+      "recordsCount": 31
     }
   ]
 }
