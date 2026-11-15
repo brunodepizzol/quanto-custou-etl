@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 160621,
-    "generatedAt": "2026-11-15T11:04:52.778095Z",
+    "generatedAt": "2026-11-15T11:30:38.065817Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,17 +15,17 @@
     "slug": "sandro-alex"
   },
   "mandateTotals": {
-    "amountNet": 25365.63,
-    "amountGross": 25365.63,
+    "amountNet": 65365.63,
+    "amountGross": 65365.63,
     "amountAdjustments": 0.0,
-    "recordsCount": 26,
+    "recordsCount": 27,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 2701.95,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 17046.0,
-      "DIVULGACAO": 0.0,
+      "DIVULGACAO": 40000.0,
       "ESCRITORIO": 1560.0,
       "HOSPEDAGEM": 4057.68,
       "OUTROS": 0.0
@@ -36,7 +36,7 @@
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
       "DESLOCAMENTO": 17046.0,
-      "DIVULGACAO": 0.0,
+      "DIVULGACAO": 40000.0,
       "ESCRITORIO": 1560.0,
       "HOSPEDAGEM": 4057.68,
       "OUTROS": 0.0
@@ -54,7 +54,7 @@
     }
   },
   "yearTotals": {
-    "2026": 25365.63
+    "2026": 65365.63
   },
   "monthTotals": {
     "2026-01": 0.0,
@@ -66,12 +66,12 @@
     "2026-07": 0.0,
     "2026-08": 0.0,
     "2026-09": 0.0,
-    "2026-10": 1704.34,
+    "2026-10": 41704.34,
     "2026-11": 0.0
   },
   "topCategory": {
-    "category": "DESLOCAMENTO",
-    "amountNet": 17046.0,
-    "percent": 67.2
+    "category": "DIVULGACAO",
+    "amountNet": 40000.0,
+    "percent": 61.19
   }
 }

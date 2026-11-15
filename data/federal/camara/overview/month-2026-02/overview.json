@@ -3,14 +3,14 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-02",
-    "generatedAt": "2026-11-08T10:43:32.083489Z",
+    "generatedAt": "2026-11-15T11:26:44.116410Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 17008269.76,
-    "amountGross": 17147719.9,
+    "amountNet": 17012269.76,
+    "amountGross": 17151719.9,
     "amountAdjustments": -139450.14,
-    "recordsCount": 12171,
+    "recordsCount": 12172,
     "entitiesCount": 513,
     "entitiesWithSpending": 481,
     "entitiesWithoutSpending": 32
@@ -29,8 +29,8 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 8068101.96,
-        "amountGross": 8068101.96,
+        "amountNet": 8072101.96,
+        "amountGross": 8072101.96,
         "amountAdjustments": 0.0
       },
       {
@@ -161,21 +161,17 @@
       "percent": 4.64
     },
     "averages": {
-      "perEntityWithSpending": 35360.23,
-      "perRecord": 1397.44
+      "perEntityWithSpending": 35368.54,
+      "perRecord": 1397.66
     },
     "dailyTotals": {
       "referenceDate": "2026-05-28",
       "amountNet": 895.04,
-      "previousAmountNet": 52500.0,
-      "deltaAmountNet": -51604.96,
-      "deltaPercent": -98.3,
+      "previousAmountNet": 4000.0,
+      "deltaAmountNet": -3104.96,
+      "deltaPercent": -77.62,
       "deltaDirection": "down",
       "trend7d": [
-        {
-          "date": "2026-05-06",
-          "amountNet": 15000.0
-        },
         {
           "date": "2026-05-07",
           "amountNet": 189.8
@@ -195,6 +191,10 @@
         {
           "date": "2026-05-14",
           "amountNet": 52500.0
+        },
+        {
+          "date": "2026-05-15",
+          "amountNet": 4000.0
         },
         {
           "date": "2026-05-28",

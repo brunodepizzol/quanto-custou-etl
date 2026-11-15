@@ -3,70 +3,70 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-10",
-    "generatedAt": "2026-11-08T10:47:00.651775Z",
+    "generatedAt": "2026-11-15T11:30:11.587179Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 7389825.75,
-    "amountGross": 7390656.79,
+    "amountNet": 11842764.44,
+    "amountGross": 11843595.48,
     "amountAdjustments": -831.04,
-    "recordsCount": 5530,
+    "recordsCount": 6948,
     "entitiesCount": 513,
-    "entitiesWithSpending": 446,
-    "entitiesWithoutSpending": 67
+    "entitiesWithSpending": 471,
+    "entitiesWithoutSpending": 42
   },
   "highlights": {
     "topSpender": {
-      "id": 220544,
-      "name": "Antonio Andrade",
-      "stateCode": "TO",
-      "party": "PSDB",
-      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220544.jpg",
-      "amountNet": 150808.53,
-      "amountGross": 150808.53,
+      "id": 220570,
+      "name": "Dr. Ismael Alexandrino",
+      "stateCode": "GO",
+      "party": "PSD",
+      "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220570.jpg",
+      "amountNet": 171200.0,
+      "amountGross": 171200.0,
       "amountAdjustments": 0.0
     },
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 3438965.08,
-        "amountGross": 3438965.08,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "ESCRITORIO",
-        "amountNet": 1347866.62,
-        "amountGross": 1347866.62,
+        "amountNet": 6095620.06,
+        "amountGross": 6095620.06,
         "amountAdjustments": 0.0
       },
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 1340747.03,
-        "amountGross": 1341578.07,
+        "amountNet": 2324393.2,
+        "amountGross": 2325224.24,
         "amountAdjustments": -831.04
       },
       {
+        "category": "ESCRITORIO",
+        "amountNet": 1853312.82,
+        "amountGross": 1853312.82,
+        "amountAdjustments": 0.0
+      },
+      {
         "category": "COMBUSTIVEL",
-        "amountNet": 1044825.43,
-        "amountGross": 1044825.43,
+        "amountNet": 1286953.49,
+        "amountGross": 1286953.49,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 131427.38,
-        "amountGross": 131427.38,
+        "amountNet": 163598.64,
+        "amountGross": 163598.64,
         "amountAdjustments": 0.0
       },
       {
         "category": "CORREIOS_TELEFONIA",
-        "amountNet": 52578.02,
-        "amountGross": 52578.02,
+        "amountNet": 81131.69,
+        "amountGross": 81131.69,
         "amountAdjustments": 0.0
       },
       {
         "category": "ALIMENTACAO",
-        "amountNet": 33416.19,
-        "amountGross": 33416.19,
+        "amountNet": 37754.54,
+        "amountGross": 37754.54,
         "amountAdjustments": 0.0
       },
       {
@@ -85,141 +85,141 @@
     "topStates": [
       {
         "stateCode": "SP",
-        "amountNet": 892475.23,
-        "amountGross": 892855.35,
+        "amountNet": 1307608.23,
+        "amountGross": 1307988.35,
         "amountAdjustments": -380.12
       },
       {
         "stateCode": "BA",
-        "amountNet": 715552.26,
-        "amountGross": 715552.26,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "PR",
-        "amountNet": 608319.0,
-        "amountGross": 608319.0,
+        "amountNet": 1245686.77,
+        "amountGross": 1245686.77,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "RJ",
-        "amountNet": 547371.04,
-        "amountGross": 547371.04,
+        "amountNet": 1170276.01,
+        "amountGross": 1170276.01,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "MG",
-        "amountNet": 501285.69,
-        "amountGross": 501285.69,
+        "amountNet": 1000595.85,
+        "amountGross": 1000595.85,
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "RS",
-        "amountNet": 405728.99,
-        "amountGross": 405728.99,
+        "stateCode": "PR",
+        "amountNet": 910304.42,
+        "amountGross": 910304.42,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "GO",
-        "amountNet": 387130.19,
-        "amountGross": 387130.19,
+        "amountNet": 555607.61,
+        "amountGross": 555607.61,
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "PB",
-        "amountNet": 281107.29,
-        "amountGross": 281107.29,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "AC",
-        "amountNet": 275234.5,
-        "amountGross": 275234.5,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "CE",
-        "amountNet": 259464.88,
-        "amountGross": 259464.88,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "TO",
-        "amountNet": 254529.99,
-        "amountGross": 254529.99,
+        "stateCode": "RS",
+        "amountNet": 522283.44,
+        "amountGross": 522283.44,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "RR",
-        "amountNet": 246086.26,
-        "amountGross": 246086.26,
+        "amountNet": 428004.72,
+        "amountGross": 428004.72,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "CE",
+        "amountNet": 406838.98,
+        "amountGross": 406838.98,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "PE",
+        "amountNet": 389248.64,
+        "amountGross": 389248.64,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "AC",
+        "amountNet": 360849.82,
+        "amountGross": 360849.82,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "TO",
+        "amountNet": 336062.71,
+        "amountGross": 336062.71,
         "amountAdjustments": 0.0
       }
     ],
     "concentrationTop10": {
-      "amountNet": 1138688.88,
-      "percent": 15.41
+      "amountNet": 1347453.38,
+      "percent": 11.38
     },
     "averages": {
-      "perEntityWithSpending": 16569.12,
-      "perRecord": 1336.32
+      "perEntityWithSpending": 25143.87,
+      "perRecord": 1704.49
     },
     "dailyTotals": {
-      "referenceDate": "2026-11-05",
-      "amountNet": 7000.0,
-      "previousAmountNet": 69253.0,
-      "deltaAmountNet": -62253.0,
-      "deltaPercent": -89.89,
-      "deltaDirection": "down",
+      "referenceDate": "2026-11-11",
+      "amountNet": 18600.0,
+      "previousAmountNet": 8870.33,
+      "deltaAmountNet": 9729.67,
+      "deltaPercent": 109.69,
+      "deltaDirection": "up",
       "trend7d": [
         {
-          "date": "2026-10-29",
-          "amountNet": 307457.59
-        },
-        {
-          "date": "2026-10-30",
-          "amountNet": 72461.11
-        },
-        {
-          "date": "2026-10-31",
-          "amountNet": 15069.44
-        },
-        {
-          "date": "2026-11-02",
-          "amountNet": 246.56
-        },
-        {
-          "date": "2026-11-03",
-          "amountNet": 50900.0
-        },
-        {
           "date": "2026-11-04",
-          "amountNet": 69253.0
+          "amountNet": 279101.93
         },
         {
           "date": "2026-11-05",
-          "amountNet": 7000.0
+          "amountNet": 133306.87
+        },
+        {
+          "date": "2026-11-06",
+          "amountNet": 33528.96
+        },
+        {
+          "date": "2026-11-07",
+          "amountNet": 477.29
+        },
+        {
+          "date": "2026-11-08",
+          "amountNet": 511.34
+        },
+        {
+          "date": "2026-11-09",
+          "amountNet": 8870.33
+        },
+        {
+          "date": "2026-11-11",
+          "amountNet": 18600.0
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-11-05",
+      "referenceDate": "2026-11-11",
       "entity": {
-        "id": 160674,
-        "name": "Hugo Motta",
-        "stateCode": "PB",
-        "party": "REPUBLICANOS",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/160674.jpg",
+        "id": 178843,
+        "name": "Marx Beltrão",
+        "stateCode": "AL",
+        "party": "UNIÃO",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/178843.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 7000.0,
-      "category": "DESLOCAMENTO",
-      "expenseType": "LOCAÇÃO OU FRETAMENTO DE VEÍCULOS AUTOMOTORES",
-      "supplier": "SHEKINAH LOCACAO DE VEICULOS LTDA",
-      "documentType": "1",
-      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/2271/2026/8173596.pdf"
+      "amountNet": 18600.0,
+      "category": "DIVULGACAO",
+      "expenseType": "DIVULGAÇÃO DA ATIVIDADE PARLAMENTAR.",
+      "supplier": "FRAME COMUNICACAO DIGITAL LTDA",
+      "documentType": "0",
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/documentos/publ/3084/2026/8171702.pdf"
     }
   }
 }
