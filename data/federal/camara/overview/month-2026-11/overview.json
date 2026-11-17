@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-11",
-    "generatedAt": "2026-11-16T11:34:18.582267Z",
+    "generatedAt": "2026-11-17T11:59:37.223742Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 729258.8,
-    "amountGross": 729258.8,
+    "amountNet": 957406.42,
+    "amountGross": 957406.42,
     "amountAdjustments": 0.0,
-    "recordsCount": 1060,
+    "recordsCount": 1348,
     "entitiesCount": 513,
-    "entitiesWithSpending": 274,
-    "entitiesWithoutSpending": 239
+    "entitiesWithSpending": 300,
+    "entitiesWithoutSpending": 213
   },
   "highlights": {
     "topSpender": {
@@ -29,44 +29,44 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 380450.0,
-        "amountGross": 380450.0,
+        "amountNet": 520912.06,
+        "amountGross": 520912.06,
         "amountAdjustments": 0.0
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 244270.95,
-        "amountGross": 244270.95,
-        "amountAdjustments": 0.0
-      },
-      {
-        "category": "DESLOCAMENTO",
-        "amountNet": 49556.16,
-        "amountGross": 49556.16,
+        "amountNet": 277859.62,
+        "amountGross": 277859.62,
         "amountAdjustments": 0.0
       },
       {
         "category": "ESCRITORIO",
-        "amountNet": 41310.15,
-        "amountGross": 41310.15,
+        "amountNet": 86854.13,
+        "amountGross": 86854.13,
         "amountAdjustments": 0.0
       },
       {
-        "category": "HOSPEDAGEM",
-        "amountNet": 7258.08,
-        "amountGross": 7258.08,
+        "category": "DESLOCAMENTO",
+        "amountNet": 52747.51,
+        "amountGross": 52747.51,
         "amountAdjustments": 0.0
       },
       {
         "category": "ALIMENTACAO",
-        "amountNet": 5455.46,
-        "amountGross": 5455.46,
+        "amountNet": 10045.62,
+        "amountGross": 10045.62,
+        "amountAdjustments": 0.0
+      },
+      {
+        "category": "HOSPEDAGEM",
+        "amountNet": 7730.48,
+        "amountGross": 7730.48,
         "amountAdjustments": 0.0
       },
       {
         "category": "CORREIOS_TELEFONIA",
-        "amountNet": 958.0,
-        "amountGross": 958.0,
+        "amountNet": 1257.0,
+        "amountGross": 1257.0,
         "amountAdjustments": 0.0
       },
       {
@@ -84,51 +84,57 @@
     ],
     "topStates": [
       {
-        "stateCode": "MG",
-        "amountNet": 118728.12,
-        "amountGross": 118728.12,
+        "stateCode": "BA",
+        "amountNet": 137622.1,
+        "amountGross": 137622.1,
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "RJ",
-        "amountNet": 81547.76,
-        "amountGross": 81547.76,
+        "stateCode": "MG",
+        "amountNet": 123335.65,
+        "amountGross": 123335.65,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "SP",
-        "amountNet": 78127.57,
-        "amountGross": 78127.57,
+        "amountNet": 118354.97,
+        "amountGross": 118354.97,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "RJ",
+        "amountNet": 89569.89,
+        "amountGross": 89569.89,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "AC",
-        "amountNet": 73545.49,
-        "amountGross": 73545.49,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "BA",
-        "amountNet": 72799.59,
-        "amountGross": 72799.59,
+        "amountNet": 78424.83,
+        "amountGross": 78424.83,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "RO",
-        "amountNet": 66803.96,
-        "amountGross": 66803.96,
+        "amountNet": 68207.72,
+        "amountGross": 68207.72,
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "RS",
-        "amountNet": 36991.56,
-        "amountGross": 36991.56,
+        "stateCode": "PE",
+        "amountNet": 62632.69,
+        "amountGross": 62632.69,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "PR",
-        "amountNet": 27966.14,
-        "amountGross": 27966.14,
+        "amountNet": 45624.53,
+        "amountGross": 45624.53,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "RS",
+        "amountNet": 43162.53,
+        "amountGross": 43162.53,
         "amountAdjustments": 0.0
       },
       {
@@ -138,88 +144,82 @@
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "PE",
-        "amountNet": 21132.39,
-        "amountGross": 21132.39,
-        "amountAdjustments": 0.0
-      },
-      {
-        "stateCode": "TO",
-        "amountNet": 19799.1,
-        "amountGross": 19799.1,
+        "stateCode": "DF",
+        "amountNet": 23957.09,
+        "amountGross": 23957.09,
         "amountAdjustments": 0.0
       },
       {
         "stateCode": "MT",
-        "amountNet": 17633.83,
-        "amountGross": 17633.83,
+        "amountNet": 20954.67,
+        "amountGross": 20954.67,
         "amountAdjustments": 0.0
       }
     ],
     "concentrationTop10": {
-      "amountNet": 419971.34,
-      "percent": 57.59
+      "amountNet": 504152.73,
+      "percent": 52.66
     },
     "averages": {
-      "perEntityWithSpending": 2661.53,
-      "perRecord": 687.98
+      "perEntityWithSpending": 3191.35,
+      "perRecord": 710.24
     },
     "dailyTotals": {
-      "referenceDate": "2026-11-12",
-      "amountNet": 5140.12,
-      "previousAmountNet": 11606.16,
-      "deltaAmountNet": -6466.04,
-      "deltaPercent": -55.71,
+      "referenceDate": "2026-11-16",
+      "amountNet": 852.41,
+      "previousAmountNet": 1626.41,
+      "deltaAmountNet": -774.0,
+      "deltaPercent": -47.59,
       "deltaDirection": "down",
       "trend7d": [
         {
-          "date": "2026-11-06",
-          "amountNet": 24598.65
-        },
-        {
-          "date": "2026-11-07",
-          "amountNet": 13021.11
-        },
-        {
-          "date": "2026-11-08",
-          "amountNet": 11763.68
-        },
-        {
-          "date": "2026-11-09",
-          "amountNet": 98725.62
-        },
-        {
           "date": "2026-11-10",
-          "amountNet": 28208.29
+          "amountNet": 35102.29
         },
         {
           "date": "2026-11-11",
-          "amountNet": 11606.16
+          "amountNet": 16735.86
         },
         {
           "date": "2026-11-12",
-          "amountNet": 5140.12
+          "amountNet": 10905.63
+        },
+        {
+          "date": "2026-11-13",
+          "amountNet": 2853.8
+        },
+        {
+          "date": "2026-11-14",
+          "amountNet": 1299.78
+        },
+        {
+          "date": "2026-11-15",
+          "amountNet": 1626.41
+        },
+        {
+          "date": "2026-11-16",
+          "amountNet": 852.41
         }
       ]
     },
     "dailyTopExpense": {
-      "referenceDate": "2026-11-12",
+      "referenceDate": "2026-11-16",
       "entity": {
-        "id": 220558,
-        "name": "Zé Trovão",
-        "stateCode": "SC",
-        "party": "PL",
-        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220558.jpg",
+        "id": 220672,
+        "name": "Henderson Pinto",
+        "stateCode": "PA",
+        "party": "UNIÃO",
+        "photoUrl": "https://www.camara.leg.br/internet/deputado/bandep/220672.jpg",
         "amountNet": 0.0,
         "amountGross": 0.0,
         "amountAdjustments": 0.0
       },
-      "amountNet": 789.0,
+      "amountNet": 379.62,
       "category": "COMBUSTIVEL",
       "expenseType": "COMBUSTÍVEIS E LUBRIFICANTES.",
-      "supplier": "AUTO POSTO JK LTDA",
+      "supplier": "BELIZE COMPANY AUTO POSTO LTDA.",
       "documentType": "4",
-      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8176757"
+      "documentUrl": "https://www.camara.leg.br/cota-parlamentar/nota-fiscal-eletronica?ideDocumentoFiscal=8177461"
     }
   }
 }
