@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "ranking-total",
     "period": "month-2026-11",
-    "generatedAt": "2026-11-17T11:59:37.227842Z",
+    "generatedAt": "2026-11-18T11:51:46.763286Z",
     "schemaVersion": "1.0.0"
   },
   "top": [
@@ -18,14 +18,34 @@
       "recordsCount": 1
     },
     {
+      "id": 160512,
+      "name": "Aureo Ribeiro",
+      "stateCode": "RJ",
+      "party": "SOLIDARIEDADE",
+      "amountNet": 81196.0,
+      "amountGross": 81196.0,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
+    },
+    {
       "id": 204360,
       "name": "Silvia Cristina",
       "stateCode": "RO",
       "party": "PP",
-      "amountNet": 62340.43,
-      "amountGross": 62340.43,
+      "amountNet": 62595.48,
+      "amountGross": 62595.48,
       "amountAdjustments": 0.0,
-      "recordsCount": 5
+      "recordsCount": 6
+    },
+    {
+      "id": 220592,
+      "name": "Zezinho Barbary",
+      "stateCode": "AC",
+      "party": "PP",
+      "amountNet": 54143.27,
+      "amountGross": 54143.27,
+      "amountAdjustments": 0.0,
+      "recordsCount": 7
     },
     {
       "id": 74057,
@@ -82,33 +102,23 @@
       "name": "Maria Arraes",
       "stateCode": "PE",
       "party": "PSB",
-      "amountNet": 41741.38,
-      "amountGross": 41741.38,
+      "amountNet": 42341.53,
+      "amountGross": 42341.53,
       "amountAdjustments": 0.0,
-      "recordsCount": 11
-    },
-    {
-      "id": 74784,
-      "name": "Luiza Erundina",
-      "stateCode": "SP",
-      "party": "PSOL",
-      "amountNet": 34199.55,
-      "amountGross": 34199.55,
-      "amountAdjustments": 0.0,
-      "recordsCount": 2
-    },
-    {
-      "id": 74090,
-      "name": "Átila Lins",
-      "stateCode": "AM",
-      "party": "PSD",
-      "amountNet": 25000.0,
-      "amountGross": 25000.0,
-      "amountAdjustments": 0.0,
-      "recordsCount": 1
+      "recordsCount": 13
     }
   ],
   "bottom": [
+    {
+      "id": 160758,
+      "name": "Domingos Sávio",
+      "stateCode": "MG",
+      "party": "PL",
+      "amountNet": 26.96,
+      "amountGross": 26.96,
+      "amountAdjustments": 0.0,
+      "recordsCount": 2
+    },
     {
       "id": 204409,
       "name": "Daniel Trzeciak",
@@ -198,16 +208,6 @@
       "amountGross": 110.0,
       "amountAdjustments": 0.0,
       "recordsCount": 1
-    },
-    {
-      "id": 204473,
-      "name": "General Girão",
-      "stateCode": "RN",
-      "party": "PL",
-      "amountNet": 115.55,
-      "amountGross": 115.55,
-      "amountAdjustments": 0.0,
-      "recordsCount": 2
     }
   ]
 }
