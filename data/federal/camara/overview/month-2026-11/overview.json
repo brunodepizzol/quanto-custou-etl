@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-11",
-    "generatedAt": "2026-11-18T11:51:46.759144Z",
+    "generatedAt": "2026-11-19T11:48:12.146364Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 1213607.42,
-    "amountGross": 1213607.42,
+    "amountNet": 1168715.42,
+    "amountGross": 1168715.42,
     "amountAdjustments": 0.0,
-    "recordsCount": 1671,
+    "recordsCount": 1669,
     "entitiesCount": 513,
-    "entitiesWithSpending": 324,
-    "entitiesWithoutSpending": 189
+    "entitiesWithSpending": 323,
+    "entitiesWithoutSpending": 190
   },
   "highlights": {
     "topSpender": {
@@ -29,8 +29,8 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 682762.06,
-        "amountGross": 682762.06,
+        "amountNet": 637962.06,
+        "amountGross": 637962.06,
         "amountAdjustments": 0.0
       },
       {
@@ -53,8 +53,8 @@
       },
       {
         "category": "ALIMENTACAO",
-        "amountNet": 12606.26,
-        "amountGross": 12606.26,
+        "amountNet": 12514.26,
+        "amountGross": 12514.26,
         "amountAdjustments": 0.0
       },
       {
@@ -96,12 +96,6 @@
         "amountAdjustments": 0.0
       },
       {
-        "stateCode": "BA",
-        "amountNet": 141867.27,
-        "amountGross": 141867.27,
-        "amountAdjustments": 0.0
-      },
-      {
         "stateCode": "SP",
         "amountNet": 125612.81,
         "amountGross": 125612.81,
@@ -111,6 +105,12 @@
         "stateCode": "AC",
         "amountNet": 108424.83,
         "amountGross": 108424.83,
+        "amountAdjustments": 0.0
+      },
+      {
+        "stateCode": "BA",
+        "amountNet": 96975.27,
+        "amountGross": 96975.27,
         "amountAdjustments": 0.0
       },
       {
@@ -157,12 +157,12 @@
       }
     ],
     "concentrationTop10": {
-      "amountNet": 581147.65,
-      "percent": 47.89
+      "amountNet": 570455.2,
+      "percent": 48.81
     },
     "averages": {
-      "perEntityWithSpending": 3745.7,
-      "perRecord": 726.28
+      "perEntityWithSpending": 3618.31,
+      "perRecord": 700.25
     },
     "dailyTotals": {
       "referenceDate": "2026-11-17",
