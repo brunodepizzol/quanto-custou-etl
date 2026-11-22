@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-22T11:35:02.409327Z",
+    "generatedAt": "2026-11-22T12:04:04.280148Z",
     "schemaVersion": "1.0.0"
   },
   "items": [
@@ -16,18 +16,18 @@
       "enabled": true,
       "priority": 100,
       "weight": 1.0,
-      "generatedAt": "2026-11-22T11:34:32.808664Z",
-      "freshUntil": "2026-11-23T11:34:32.808664Z",
+      "generatedAt": "2026-11-22T12:03:31.390307Z",
+      "freshUntil": "2026-11-23T12:03:31.390307Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 831589864.64,
+        "amount": 835042805.41,
         "currency": "BRL"
       },
       "tags": [
         "Dados federais"
       ],
-      "referenceDate": "727646 lançamentos no período",
-      "variationText": "Base: 543 • Com gasto: 540 • Sem gasto: 3",
+      "referenceDate": "729038 lançamentos no período",
+      "variationText": "Base: 541 • Com gasto: 538 • Sem gasto: 3",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -47,8 +47,8 @@
       "enabled": true,
       "priority": 95,
       "weight": 0.95,
-      "generatedAt": "2026-11-22T11:34:32.808664Z",
-      "freshUntil": "2026-11-23T11:34:32.808664Z",
+      "generatedAt": "2026-11-22T12:03:31.390307Z",
+      "freshUntil": "2026-11-23T12:03:31.390307Z",
       "qualityScore": 1.0,
       "entity": {
         "id": 224117,
@@ -63,7 +63,7 @@
         "currency": "BRL"
       },
       "referenceDate": "Deputado com maior gasto no mandato",
-      "variationText": "Base: 543 • Com gasto: 540",
+      "variationText": "Base: 541 • Com gasto: 538",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -83,27 +83,27 @@
       "enabled": true,
       "priority": 92,
       "weight": 0.9,
-      "generatedAt": "2026-11-22T11:34:32.808664Z",
-      "freshUntil": "2026-11-23T11:34:32.808664Z",
+      "generatedAt": "2026-11-22T12:03:31.390307Z",
+      "freshUntil": "2026-11-23T12:03:31.390307Z",
       "qualityScore": 1.0,
       "left": {
-        "amount": 22534346.13,
+        "amount": 22559239.46,
         "currency": "BRL"
       },
       "right": {
-        "amount": 831589864.64,
+        "amount": 835042805.41,
         "currency": "BRL"
       },
       "delta": {
-        "amount": -809055518.51,
-        "percent": 2.71,
+        "amount": -812483565.95,
+        "percent": 2.7,
         "direction": "up"
       },
       "tags": [
         "Top 10 deputados"
       ],
-      "referenceDate": "540 deputados com gasto no período",
-      "variationText": "Montante Top 10: R$ 22.534.346,13",
+      "referenceDate": "538 deputados com gasto no período",
+      "variationText": "Montante Top 10: R$ 22.559.239,46",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -123,8 +123,8 @@
       "enabled": true,
       "priority": 90,
       "weight": 0.88,
-      "generatedAt": "2026-11-22T11:34:32.808664Z",
-      "freshUntil": "2026-11-23T11:34:32.808664Z",
+      "generatedAt": "2026-11-22T12:03:31.390307Z",
+      "freshUntil": "2026-11-23T12:03:31.390307Z",
       "qualityScore": 1.0,
       "value": {
         "amount": 1295.79,
@@ -134,7 +134,7 @@
         "Movimento do dia"
       ],
       "referenceDate": "2026-11-19",
-      "variationText": "Base: 543 • Com gasto: 540",
+      "variationText": "Base: 541 • Com gasto: 538",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -154,8 +154,8 @@
       "enabled": true,
       "priority": 89,
       "weight": 0.86,
-      "generatedAt": "2026-11-22T11:34:32.808664Z",
-      "freshUntil": "2026-11-23T11:34:32.808664Z",
+      "generatedAt": "2026-11-22T12:03:31.390307Z",
+      "freshUntil": "2026-11-23T12:03:31.390307Z",
       "qualityScore": 1.0,
       "entity": {
         "id": 204457,
@@ -190,8 +190,8 @@
       "enabled": true,
       "priority": 85,
       "weight": 0.82,
-      "generatedAt": "2026-11-22T11:34:32.808664Z",
-      "freshUntil": "2026-11-23T11:34:32.808664Z",
+      "generatedAt": "2026-11-22T12:03:31.390307Z",
+      "freshUntil": "2026-11-23T12:03:31.390307Z",
       "qualityScore": 1.0,
       "left": {
         "amount": 1295.79,
@@ -230,11 +230,11 @@
       "enabled": true,
       "priority": 82,
       "weight": 0.78,
-      "generatedAt": "2026-11-22T11:34:32.808664Z",
-      "freshUntil": "2026-11-23T11:34:32.808664Z",
+      "generatedAt": "2026-11-22T12:03:31.390307Z",
+      "freshUntil": "2026-11-23T12:03:31.390307Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 322495327.29,
+        "amount": 324297650.86,
         "currency": "BRL"
       },
       "tags": [
@@ -261,17 +261,17 @@
       "enabled": true,
       "priority": 80,
       "weight": 0.76,
-      "generatedAt": "2026-11-22T11:34:32.808664Z",
-      "freshUntil": "2026-11-23T11:34:32.808664Z",
+      "generatedAt": "2026-11-22T12:03:31.390307Z",
+      "freshUntil": "2026-11-23T12:03:31.390307Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 102714904.29,
+        "amount": 103253934.94,
         "currency": "BRL"
       },
       "tags": [
         "SP"
       ],
-      "referenceDate": "540 deputados com gasto no período",
+      "referenceDate": "538 deputados com gasto no período",
       "variationText": "Participação: 12,4%",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
@@ -292,18 +292,18 @@
       "enabled": true,
       "priority": 78,
       "weight": 0.72,
-      "generatedAt": "2026-11-22T11:34:32.808664Z",
-      "freshUntil": "2026-11-23T11:34:32.808664Z",
+      "generatedAt": "2026-11-22T12:03:31.390307Z",
+      "freshUntil": "2026-11-23T12:03:31.390307Z",
       "qualityScore": 1.0,
       "value": {
-        "amount": 1539981.23,
+        "amount": 1552124.17,
         "currency": "BRL"
       },
       "tags": [
         "Média por agente"
       ],
-      "referenceDate": "540 deputados com gasto no período",
-      "variationText": "Montante: R$ 831.589.864,64",
+      "referenceDate": "538 deputados com gasto no período",
+      "variationText": "Montante: R$ 835.042.805,41",
       "sourceId": "federal/camara",
       "sourceLevel": "federal",
       "sourceScope": "federal/camara",
@@ -323,8 +323,8 @@
       "enabled": true,
       "priority": 74,
       "weight": 0.68,
-      "generatedAt": "2026-11-22T11:34:32.808664Z",
-      "freshUntil": "2026-11-23T11:34:32.808664Z",
+      "generatedAt": "2026-11-22T12:03:31.390307Z",
+      "freshUntil": "2026-11-23T12:03:31.390307Z",
       "qualityScore": 1.0,
       "left": {
         "amount": 586.91,
@@ -363,8 +363,8 @@
       "enabled": true,
       "priority": 72,
       "weight": 0.66,
-      "generatedAt": "2026-11-22T11:34:32.808664Z",
-      "freshUntil": "2026-11-23T11:34:32.808664Z",
+      "generatedAt": "2026-11-22T12:03:31.390307Z",
+      "freshUntil": "2026-11-23T12:03:31.390307Z",
       "qualityScore": 1.0,
       "tags": [
         "Totais diários"
