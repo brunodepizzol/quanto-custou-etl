@@ -3,17 +3,17 @@
     "scope": "federal/camara",
     "type": "overview",
     "period": "month-2026-03",
-    "generatedAt": "2026-11-15T11:27:10.081353Z",
+    "generatedAt": "2026-11-22T12:00:03.498323Z",
     "schemaVersion": "1.0.0"
   },
   "base": {
-    "amountNet": 19601260.36,
-    "amountGross": 19743476.87,
+    "amountNet": 19680056.74,
+    "amountGross": 19822273.25,
     "amountAdjustments": -142216.51,
-    "recordsCount": 15680,
+    "recordsCount": 15693,
     "entitiesCount": 513,
-    "entitiesWithSpending": 484,
-    "entitiesWithoutSpending": 29
+    "entitiesWithSpending": 486,
+    "entitiesWithoutSpending": 27
   },
   "highlights": {
     "topSpender": {
@@ -29,14 +29,14 @@
     "topCategories": [
       {
         "category": "DIVULGACAO",
-        "amountNet": 9479245.57,
-        "amountGross": 9479245.57,
+        "amountNet": 9542718.37,
+        "amountGross": 9542718.37,
         "amountAdjustments": 0.0
       },
       {
         "category": "DESLOCAMENTO",
-        "amountNet": 4134807.43,
-        "amountGross": 4138087.71,
+        "amountNet": 4147757.43,
+        "amountGross": 4151037.71,
         "amountAdjustments": -3280.28
       },
       {
@@ -47,14 +47,14 @@
       },
       {
         "category": "COMBUSTIVEL",
-        "amountNet": 2218912.17,
-        "amountGross": 2218912.17,
+        "amountNet": 2220250.97,
+        "amountGross": 2220250.97,
         "amountAdjustments": 0.0
       },
       {
         "category": "HOSPEDAGEM",
-        "amountNet": 442125.05,
-        "amountGross": 442125.05,
+        "amountNet": 443159.83,
+        "amountGross": 443159.83,
         "amountAdjustments": 0.0
       },
       {
@@ -96,16 +96,16 @@
         "amountAdjustments": -10648.61
       },
       {
+        "stateCode": "BA",
+        "amountNet": 1476488.81,
+        "amountGross": 1479282.81,
+        "amountAdjustments": -2794.0
+      },
+      {
         "stateCode": "RJ",
         "amountNet": 1445204.81,
         "amountGross": 1457704.17,
         "amountAdjustments": -12499.36
-      },
-      {
-        "stateCode": "BA",
-        "amountNet": 1432200.01,
-        "amountGross": 1434994.01,
-        "amountAdjustments": -2794.0
       },
       {
         "stateCode": "RS",
@@ -115,8 +115,8 @@
       },
       {
         "stateCode": "PR",
-        "amountNet": 1113679.73,
-        "amountGross": 1120373.96,
+        "amountNet": 1148187.31,
+        "amountGross": 1154881.54,
         "amountAdjustments": -6694.23
       },
       {
@@ -158,11 +158,11 @@
     ],
     "concentrationTop10": {
       "amountNet": 926967.65,
-      "percent": 4.73
+      "percent": 4.71
     },
     "averages": {
-      "perEntityWithSpending": 40498.47,
-      "perRecord": 1250.08
+      "perEntityWithSpending": 40493.94,
+      "perRecord": 1254.07
     },
     "dailyTotals": {
       "referenceDate": "2026-06-17",

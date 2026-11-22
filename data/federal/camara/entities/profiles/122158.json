@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 122158,
-    "generatedAt": "2026-11-22T11:34:33.279292Z",
+    "generatedAt": "2026-11-22T12:03:31.751885Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,10 +15,10 @@
     "slug": "pedro-paulo"
   },
   "mandateTotals": {
-    "amountNet": 1689396.54,
+    "amountNet": 1687816.21,
     "amountGross": 1866757.02,
-    "amountAdjustments": -177360.48,
-    "recordsCount": 574,
+    "amountAdjustments": -178940.81,
+    "recordsCount": 575,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
       "COMBUSTIVEL": 2680.28,
@@ -28,7 +28,7 @@
       "DIVULGACAO": 86630.5,
       "ESCRITORIO": 774792.99,
       "HOSPEDAGEM": 2054.38,
-      "OUTROS": 0.0
+      "OUTROS": -1580.33
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
@@ -50,14 +50,14 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -1580.33
     }
   },
   "yearTotals": {
     "2023": 431829.0,
     "2024": 433558.87,
     "2025": 458932.89,
-    "2026": 365075.78
+    "2026": 363495.45
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -105,12 +105,12 @@
     "2026-07": 31193.6,
     "2026-08": 31657.0,
     "2026-09": 30368.6,
-    "2026-10": 32083.5,
+    "2026-10": 30503.17,
     "2026-11": 183.38
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
     "amountNet": 811449.25,
-    "percent": 48.03
+    "percent": 48.08
   }
 }

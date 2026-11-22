@@ -3,7 +3,7 @@
     "scope": "federal/camara",
     "type": "entity-profile",
     "entityId": 204571,
-    "generatedAt": "2026-11-22T11:34:33.382977Z",
+    "generatedAt": "2026-11-22T12:03:31.857908Z",
     "schemaVersion": "1.0.0"
   },
   "entity": {
@@ -15,29 +15,29 @@
     "slug": "alex-santana"
   },
   "mandateTotals": {
-    "amountNet": 1277050.87,
-    "amountGross": 1285704.95,
-    "amountAdjustments": -8654.08,
-    "recordsCount": 799,
+    "amountNet": 1357412.78,
+    "amountGross": 1373560.86,
+    "amountAdjustments": -16148.08,
+    "recordsCount": 844,
     "byCategoryNet": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 91456.51,
+      "COMBUSTIVEL": 98691.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 725166.26,
-      "DIVULGACAO": 459205.0,
-      "ESCRITORIO": 845.1,
+      "DESLOCAMENTO": 764016.26,
+      "DIVULGACAO": 500605.0,
+      "ESCRITORIO": 1215.7,
       "HOSPEDAGEM": 378.0,
-      "OUTROS": 0.0
+      "OUTROS": -7494.0
     },
     "byCategoryGross": {
       "ALIMENTACAO": 0.0,
-      "COMBUSTIVEL": 91456.51,
+      "COMBUSTIVEL": 98691.82,
       "CONSULTORIA_SERVICOS": 0.0,
       "CORREIOS_TELEFONIA": 0.0,
-      "DESLOCAMENTO": 733820.34,
-      "DIVULGACAO": 459205.0,
-      "ESCRITORIO": 845.1,
+      "DESLOCAMENTO": 772670.34,
+      "DIVULGACAO": 500605.0,
+      "ESCRITORIO": 1215.7,
       "HOSPEDAGEM": 378.0,
       "OUTROS": 0.0
     },
@@ -50,14 +50,14 @@
       "DIVULGACAO": 0.0,
       "ESCRITORIO": 0.0,
       "HOSPEDAGEM": 0.0,
-      "OUTROS": 0.0
+      "OUTROS": -7494.0
     }
   },
   "yearTotals": {
     "2023": 406960.23,
     "2024": 434086.11,
     "2025": 436004.53,
-    "2026": 0.0
+    "2026": 80361.91
   },
   "monthTotals": {
     "2023-01": 0.0,
@@ -96,11 +96,21 @@
     "2025-10": 34204.43,
     "2025-11": 28615.94,
     "2025-12": 44801.1,
+    "2026-01": 18310.67,
+    "2026-02": 17563.28,
+    "2026-03": 44288.8,
+    "2026-04": 199.16,
+    "2026-05": 0.0,
+    "2026-06": 0.0,
+    "2026-07": 0.0,
+    "2026-08": 0.0,
+    "2026-09": 0.0,
+    "2026-10": 0.0,
     "2026-11": 0.0
   },
   "topCategory": {
     "category": "DESLOCAMENTO",
-    "amountNet": 725166.26,
-    "percent": 56.78
+    "amountNet": 764016.26,
+    "percent": 56.28
   }
 }
